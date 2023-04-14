@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -210,7 +210,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The rules of contract law give an insurer the right to avoid an otherwise enforceable insurance contract if the applicant misrepresented material facts in the application for insurance. Laws in most jurisdictions, however, limit the time within which an insurer has this right."
                     },
                     {
-                        "Paragraph_txt": "As we have seen, the <em>incontestability provision</em> is a life insurance policy provision that denies the insurer the right to avoid the contract on the grounds of a material misrepresentation in the application after the contract has been in force for a specified period of time. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">contestable period</span>is the time period within which the insurer has the right to avoid a policy on the grounds of a material misrepresentation in the application. A typical incontestability provision reads as follows: "
+                        "Paragraph_txt": "<br />As we have seen, the <em>incontestability provision</em> is a life insurance policy provision that denies the insurer the right to avoid the contract on the grounds of a material misrepresentation in the application after the contract has been in force for a specified period of time. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">contestable period</span>is the time period within which the insurer has the right to avoid a policy on the grounds of a material misrepresentation in the application. A typical incontestability provision reads as follows: "
                     }
                 ]
             },
@@ -273,7 +273,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Incontestability</strong> "
                     },
                     {
-                        "Paragraph_txt": "We will not contest the validity of this policy after it has been in force during the lifetime of the insured for two years from the date of issue."
+                        "Paragraph_txt": "<br />We will not contest the validity of this policy after it has been in force during the lifetime of the insured for two years from the date of issue."
                     }
                 ]
             },
@@ -336,7 +336,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The above incontestability provision limits the period during which the insurer can avoid the policy to two years from the date of issue. A two-year contestable period is the maximum period allowed by most states. Some insurers include a one-year contestable period in their policies. The states permit this shorter period because it is more favorable to policyowners. The phrase <em>during the lifetime of the insured</em> is an important part of an incontestability provision. The phrase ensures that the policy never becomes incontestable if the person whose life is insured dies during the contestable period. Thus, the insurer will <em>always</em> have the opportunity to investigate for material misrepresentation if the death of the insured occurred within the policy’s contestable period."
                     },
                     {
-                        "Paragraph_txt": "If the phrase <em>during the lifetime of the insured</em> was <em>not</em> included in the incontestability provision and the insured died during the contestable period, a claimant could delay making a death claim until after the contestable period ended. In this case, because the policy’s contestable period no longer applied when the insurer received the death claim, the insurer could not contest the validity of the contract even if it discovered a material misrepresentation. Video 13.2 provides an example of how this phrase affects an insurer’s ability to contest a policy when the insured dies during the contestable period."
+                        "Paragraph_txt": "<br />If the phrase <em>during the lifetime of the insured</em> was <em>not</em> included in the incontestability provision and the insured died during the contestable period, a claimant could delay making a death claim until after the contestable period ended. In this case, because the policy’s contestable period no longer applied when the insurer received the death claim, the insurer could not contest the validity of the contract even if it discovered a material misrepresentation. Video 13.2 provides an example of how this phrase affects an insurer’s ability to contest a policy when the insured dies during the contestable period."
                     }
                 ]
             },
@@ -535,7 +535,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The ABC Insurance Company issued an individual life insurance policy to Victor Wells. The policy’s date of issue was October 20, 2018, but ABC backdated the policy’s effective date to October 1, 2018. The policy did not specify the date on which the contestable period began."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>Because the policy did not specify the date the contestable period began, an ambiguity arose as to which date should be used to determine the start of the contestable period. Under rules of contract construction, a court would construe the ambiguity against ABC and in favor of Mr. Wells because ABC drafted the contract. The court would likely determine that the contestable period started on October 1, the effective date, because that date allows the contestable period to expire as early as possible."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>Because the policy did not specify the date the contestable period began, an ambiguity arose as to which date should be used to determine the start of the contestable period. Under rules of contract construction, a court would construe the ambiguity against ABC and in favor of Mr. Wells because ABC drafted the contract. The court would likely determine that the contestable period started on October 1, the effective date, because that date allows the contestable period to expire as early as possible."
                     }
                 ]
             },
@@ -689,7 +689,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An insurance agent who helps an applicant complete an application for life insurance is acting as an agent of the insurer. Likewise, a doctor who conducts a medical examination of a proposed insured on behalf of an insurer is acting as the insurer’s agent. Recall that, according to the general rules of agency law, knowledge that an agent gains while acting in his capacity as an agent is considered to be knowledge of the principal. Based on this rule, if an insurance agent or a doctor has knowledge of facts about a proposed insured, then the insurer usually is considered to have that knowledge."
                     },
                     {
-                        "Paragraph_txt": "If an agent inadvertently records false answers on an application without the knowledge of the applicant, the courts in most states hold that the insurer is considered to have the agent’s knowledge. Therefore, the insurer is considered to have the information that the applicant gave to the agent. In a minority of states, however, the courts do not consider the insurer to have the knowledge of the agent in such a case. In these states, the applicant for insurance has a duty to ensure that all of the information is accurate before signing the application."
+                        "Paragraph_txt": "<br />If an agent inadvertently records false answers on an application without the knowledge of the applicant, the courts in most states hold that the insurer is considered to have the agent’s knowledge. Therefore, the insurer is considered to have the information that the applicant gave to the agent. In a minority of states, however, the courts do not consider the insurer to have the knowledge of the agent in such a case. In these states, the applicant for insurance has a duty to ensure that all of the information is accurate before signing the application."
                     }
                 ]
             },
@@ -752,13 +752,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "An insurance agent helped Vera Yip complete an application for an insurance policy on her life. Ms. Yip told the agent that she had been treated for an illness the previous year. Unintentionally, the agent recorded the information incorrectly on the application and it appeared that Ms. Yip did not reveal this information. The insurer issued the policy as applied for. Ms. Yip died during the contestable period, and the insurer discovered the misrepresentation on the application."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>Whether the insurer is able to contest the validity of the policy on the basis of the misrepresentation depends on the jurisdiction in which the policy was delivered."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>Whether the insurer is able to contest the validity of the policy on the basis of the misrepresentation depends on the jurisdiction in which the policy was delivered."
                     },
                     {
-                        "Paragraph_txt": "In most states, the courts hold that the insurer is considered to have the agent’s knowledge. Thus, in these states the insurer may not contest the validity of Ms. Yip’s policy on the basis of the misrepresentation in the application."
+                        "Paragraph_txt": "<br />In most states, the courts hold that the insurer is considered to have the agent’s knowledge. Thus, in these states the insurer may not contest the validity of Ms. Yip’s policy on the basis of the misrepresentation in the application."
                     },
                     {
-                        "Paragraph_txt": "In a minority of states, the courts do not consider the insurer to have the agent’s knowledge. In these states, Ms. Yip had a duty to ensure the accuracy of her signed application. Thus, the insurer may contest the validity of the policy on the basis of the misrepresentation in the application."
+                        "Paragraph_txt": "<br />In a minority of states, the courts do not consider the insurer to have the agent’s knowledge. In these states, Ms. Yip had a duty to ensure the accuracy of her signed application. Thus, the insurer may contest the validity of the policy on the basis of the misrepresentation in the application."
                     }
                 ]
             },
@@ -881,7 +881,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An applicant for life insurance had a health impairment that made her uninsurable. The applicant told the insurance agent about her condition, and the agent agreed to falsify the application to conceal the condition from the insurer so that the applicant could obtain a life insurance policy. The insurer issued a policy at a standard premium rate, and several months later the insured died."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>Because of the collusion between the applicant and the insurer’s agent, the agent’s knowledge of the insured’s health impairment would <em>not</em> be attributed to the insurer. Thus, the insurer has the right to avoid the contract because of material misrepresentation."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>Because of the collusion between the applicant and the insurer’s agent, the agent’s knowledge of the insured’s health impairment would <em>not</em> be attributed to the insurer. Thus, the insurer has the right to avoid the contract because of material misrepresentation."
                     }
                 ]
             },
@@ -1004,7 +1004,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Joe Cink failed to disclose material information on an application for life insurance. Shortly after issuing a policy to Mr. Cink, the insurer learned of the misrepresentation. The insurer, however, did not investigate or take action to contest the contract until it received a death claim 20 months later."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>The insurer would likely be barred from contesting the validity of the contract because it failed to act within a reasonable time and thus waived its right to contest the policy."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>The insurer would likely be barred from contesting the validity of the contract because it failed to act within a reasonable time and thus waived its right to contest the policy."
                     }
                 ]
             },
@@ -1160,7 +1160,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An applicant indicated in a life insurance application that he was taking a prescription medication. However, he did not indicate the medical condition for which the medication had been prescribed. The insurer issued the policy without investigating further. The insured died shortly thereafter as a result of a chronic disease for which he had been taking the medication."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>Although the insured did not disclose the fact that he was suffering from the disease, the insurer likely would have discovered the truth had it further investigated the application. As a result, the insurer may be unsuccessful in contesting the policy on the grounds of material misrepresentation."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>Although the insured did not disclose the fact that he was suffering from the disease, the insurer likely would have discovered the truth had it further investigated the application. As a result, the insurer may be unsuccessful in contesting the policy on the grounds of material misrepresentation."
                     }
                 ]
             },
@@ -1283,7 +1283,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Before approving an application for life insurance, an underwriter for Lux Life Insurance Company conducted an investigation. The underwriter asked the proposed insured several questions about her health history and concluded that the applicant was an insurable risk. Lux Life issued a policy. During the policy’s contestable period, the insured died and Lux Life discovered that the application for insurance contained a number of material misrepresentations."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>Although the insurer conducted its own investigation and concluded that the insured was an insurable risk, the applicant’s duty of disclosure remained. As long as the insurer had no reasonable grounds to inquire further about specific representations, it most likely can avoid the contract because of the applicant’s material misrepresentations."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>Although the insurer conducted its own investigation and concluded that the insured was an insurable risk, the applicant’s duty of disclosure remained. As long as the insurer had no reasonable grounds to inquire further about specific representations, it most likely can avoid the contract because of the applicant’s material misrepresentations."
                     }
                 ]
             },
@@ -1346,7 +1346,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, the insurance policy and the attached application usually constitute the entire contract. In most states, an insurer has the right to use a material misrepresentation in the life insurance application as a basis for avoiding a life insurance policy <em>only</em> if a copy of the application is attached to the policy when the policy is delivered to the applicant. The application for insurance is not considered a part of the contract unless it is attached to the policy when the policy is issued. The only exception to this rule is when a policy is issued electronically. In such a case, the insurer must provide the policyowner with a copy of the application, but the application does not have to be physically attached to the policy."
                     },
                     {
-                        "Paragraph_txt": "Requiring that the application for life insurance be attached to the life insurance policy ensures that the owner of the policy receives every document that may affect his rights or benefits under the contract. In addition, this requirement gives the policyowner a chance to identify any mistakes that may have been made in the application."
+                        "Paragraph_txt": "<br />Requiring that the application for life insurance be attached to the life insurance policy ensures that the owner of the policy receives every document that may affect his rights or benefits under the contract. In addition, this requirement gives the policyowner a chance to identify any mistakes that may have been made in the application."
                     }
                 ]
             },

@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -243,7 +243,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When an insurer underwrites an individual life insurance policy, it decides if the proposed insured is an insurable risk and, if so, what premium rate to charge for the coverage. Information needed to make these decisions comes from the applicant for insurance or the proposed insured. An insurer, therefore, must be able to rely on the truth of the statements in the application."
                     },
                     {
-                        "Paragraph_txt": "The <em>duty to disclose</em> requires applicants and proposed insureds to disclose to the insurer any fact that is within their knowledge and that is material to the insurance. Thus, the applicant and the proposed insured must provide truthful and complete information in the application for insurance, in a medical examination, and in written statements or answers furnished to the insurer as evidence of insurability. Note that this duty to disclose is breached if an applicant or proposed insured (1) provides false information or (2) conceals a material fact."
+                        "Paragraph_txt": "<br />The <em>duty to disclose</em> requires applicants and proposed insureds to disclose to the insurer any fact that is within their knowledge and that is material to the insurance. Thus, the applicant and the proposed insured must provide truthful and complete information in the application for insurance, in a medical examination, and in written statements or answers furnished to the insurer as evidence of insurability. Note that this duty to disclose is breached if an applicant or proposed insured (1) provides false information or (2) conceals a material fact."
                     }
                 ]
             },
@@ -306,7 +306,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In an application for life insurance, the applicant was asked to list every doctor’s visit in the last five years and explain the reason and result for each visit. The applicant noted that she had visited her family doctor four times: three times for routine physical examinations and once because she was feeling tired. In fact, the applicant had three routine physical examinations, but after her fourth visit, the doctor referred her to a specialist who informed her that she had end stage kidney failure."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>The applicant failed to meet her duty to disclose because she did not disclose on the application for insurance the result of the fourth doctor’s visit. She concealed the fact that a specialist diagnosed her with end stage kidney failure. In this case, the concealment provides grounds for the insurer to contest the life insurance policy."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>The applicant failed to meet her duty to disclose because she did not disclose on the application for insurance the result of the fourth doctor’s visit. She concealed the fact that a specialist diagnosed her with end stage kidney failure. In this case, the concealment provides grounds for the insurer to contest the life insurance policy."
                     }
                 ]
             },
@@ -429,7 +429,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Juan Guzman had a series of routine medical tests after experiencing periods of fatigue. His doctor told him that he was in good health and that the tests were a precaution. The results of the tests revealed diabetes. The doctor, however, did not discuss the results with Mr. Guzman, who later completed an application for life insurance. In the application, Mr. Guzman disclosed that he had experienced periods of fatigue and undergone medical tests."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>By disclosing that he had experienced periods of fatigue and undergone medical tests, Mr. Guzman met his duty to disclose because he revealed the facts that were within his knowledge."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>By disclosing that he had experienced periods of fatigue and undergone medical tests, Mr. Guzman met his duty to disclose because he revealed the facts that were within his knowledge."
                     }
                 ]
             },
@@ -551,13 +551,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "The question of whether a misrepresented or concealed fact was material to the insurance is a question of fact that must be answered from the point of view of the insurer. The answer does <em>not</em> depend on what a reasonable person in the applicant’s position would have considered to be material to the insurance."
                     },
                     {
-                        "Paragraph_txt": "In a few states, an insurer can avoid a life insurance policy on the grounds of material misrepresentation <em>only </em>if the cause of the insured’s death was directly related to the misrepresentation. In most states, however, an insurer can avoid a life insurance policy on the grounds of material misrepresentation even if the cause of the insured’s death was not related to the fact that was misrepresented."
+                        "Paragraph_txt": "<br />In a few states, an insurer can avoid a life insurance policy on the grounds of material misrepresentation <em>only </em>if the cause of the insured’s death was directly related to the misrepresentation. In most states, however, an insurer can avoid a life insurance policy on the grounds of material misrepresentation even if the cause of the insured’s death was not related to the fact that was misrepresented."
                     },
                     {
-                        "Paragraph_txt": "When a proposed insured makes a misrepresentation regarding <em>medical history</em> on the application for life insurance, an insurer may seek to avoid the contract on the grounds of a material misrepresentation. However, when a proposed insured makes a misrepresentation regarding <em>age or sex</em> on the application for life insurance, the actions an insurer may take usually are determined by the provisions of the life insurance policy. In most jurisdictions, a misrepresentation regarding an insured’s age or sex affects the premium rate that an insurer charges for life insurance. Thus, a misstatement of the insured’s age or sex is a significant issue."
+                        "Paragraph_txt": "<br />When a proposed insured makes a misrepresentation regarding <em>medical history</em> on the application for life insurance, an insurer may seek to avoid the contract on the grounds of a material misrepresentation. However, when a proposed insured makes a misrepresentation regarding <em>age or sex</em> on the application for life insurance, the actions an insurer may take usually are determined by the provisions of the life insurance policy. In most jurisdictions, a misrepresentation regarding an insured’s age or sex affects the premium rate that an insurer charges for life insurance. Thus, a misstatement of the insured’s age or sex is a significant issue."
                     },
                     {
-                        "Paragraph_txt": "In the United States and many other countries, life insurance policies typically include a <em>misstatement of age or sex provision</em> that describes the action an insurer will take in the event that the age or sex of the insured is incorrectly stated. Note that when an insurer takes action because of a misstatement of age or sex, the insurer is enforcing the policy’s misstatement of age or sex provision. Such an action by the insurer is <em>not</em> considered a contest to the validity of the contract and is not prohibited by the incontestability provision, which we discuss in the next section. As Video 13.1 illustrates, when a proposed insured makes a misrepresentation regarding age or sex on an application for life insurance, the insurer’s action—as specified in the policy—depends on when the misstatement is discovered."
+                        "Paragraph_txt": "<br />In the United States and many other countries, life insurance policies typically include a <em>misstatement of age or sex provision</em> that describes the action an insurer will take in the event that the age or sex of the insured is incorrectly stated. Note that when an insurer takes action because of a misstatement of age or sex, the insurer is enforcing the policy’s misstatement of age or sex provision. Such an action by the insurer is <em>not</em> considered a contest to the validity of the contract and is not prohibited by the incontestability provision, which we discuss in the next section. As Video 13.1 illustrates, when a proposed insured makes a misrepresentation regarding age or sex on an application for life insurance, the insurer’s action—as specified in the policy—depends on when the misstatement is discovered."
                     }
                 ]
             },

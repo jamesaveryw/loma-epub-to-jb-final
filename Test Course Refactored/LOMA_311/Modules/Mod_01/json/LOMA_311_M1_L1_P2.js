@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -222,7 +222,7 @@ Lesson_Data_File([
                         "Paragraph_Font_weight": "",
                         "Padding": "",
                         "background_color": "",
-                        "top_margin": "20px",
+                        "top_margin": "0px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "",
@@ -254,7 +254,7 @@ Lesson_Data_File([
                         "width": "60%"
                     },
                     {
-                        "top_margin": "50px"
+                        "top_margin": "0px"
                     },
                     {
                         "flip": "false"
@@ -267,7 +267,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -287,10 +287,10 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Parliamentary Democracies</span>",
+                        "heading": "<span style=\"font-weight:bold\">INSIGHT<br /> Parliamentary Democracies</span>",
                         "heading_font_size": "h4",
-                        "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_alignment": "left",
+                        "heading_color": "#763ac7",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -303,10 +303,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Countries within the British Commonwealth, most European countries, India, and Singapore are examples of parliamentary democracies."
                     },
                     {
-                        "Paragraph_txt": "Specific details of how a parliamentary system operates vary by country, but the executive branch of government typically is led by a prime minister. The prime minister is the individual who heads the political party—or coalition of parties—that holds a majority of elected seats in the Parliament. Upon taking office, the prime minister names a Cabinet of individuals who serve as advisors."
+                        "Paragraph_txt": "<br />Specific details of how a parliamentary system operates vary by country, but the executive branch of government typically is led by a prime minister. The prime minister is the individual who heads the political party—or coalition of parties—that holds a majority of elected seats in the Parliament. Upon taking office, the prime minister names a Cabinet of individuals who serve as advisors."
                     },
                     {
-                        "Paragraph_txt": "The individuals who make up the executive branch hold office as long as the Parliament has confidence in how the executive branch is leading the government. If the Parliament votes that it no longer has confidence in the executive branch’s ability to lead the government, the prime minister and the Cabinet resign and Parliament is dissolved. Then elections are held to create a new Parliament from which the next prime minister will be elected."
+                        "Paragraph_txt": "<br />The individuals who make up the executive branch hold office as long as the Parliament has confidence in how the executive branch is leading the government. If the Parliament votes that it no longer has confidence in the executive branch’s ability to lead the government, the prime minister and the Cabinet resign and Parliament is dissolved. Then elections are held to create a new Parliament from which the next prime minister will be elected."
                     }
                 ]
             },
@@ -320,7 +320,7 @@ Lesson_Data_File([
                         "width": "60%"
                     },
                     {
-                        "top_margin": "50px"
+                        "top_margin": "0px"
                     },
                     {
                         "flip": "false"
@@ -333,7 +333,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -382,7 +382,7 @@ Lesson_Data_File([
                         "border_color": ""
                     },
                     {
-                        "image_position": "bottom",
+                        "image_position": "top",
                         "image_aligmnent": "center"
                     },
                     {
@@ -390,7 +390,7 @@ Lesson_Data_File([
                     },
                     {
                         "image_text": "<strong>Figure 1.1</strong> Countries with a Federal System of Government",
-                        "image_list": [],
+                        "image_list": [{"img_lstText":"List item 1"}, ],
                         "list_position": "bottom",
                         "top_margin": "10px",
                         "Type_of_List": "ol",
@@ -458,7 +458,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In a federal system, the federal constitution is the nation’s supreme law. All other laws must be consistent with the constitution. Typically, each state also has a state constitution that serves as the state’s fundamental law. All state laws must be consistent with the federal constitution and the applicable state constitution. The federal constitution typically provides a method of dividing governmental powers between the federal and state governments."
                     },
                     {
-                        "Paragraph_txt": "As an example, the U.S. Constitution enumerates the specific powers that are delegated to the federal government, and all governmental powers not specifically given to the federal government are left to the state governments. The states are responsible for a range of functions, including regulating businesses and professions within their borders, providing for public schools, and protecting the health and safety of people. States delegate some of their governmental authority to local governmental units such as counties and municipalities."
+                        "Paragraph_txt": "<br />As an example, the U.S. Constitution enumerates the specific powers that are delegated to the federal government, and all governmental powers not specifically given to the federal government are left to the state governments. The states are responsible for a range of functions, including regulating businesses and professions within their borders, providing for public schools, and protecting the health and safety of people. States delegate some of their governmental authority to local governmental units such as counties and municipalities."
                     }
                 ]
             },
@@ -494,13 +494,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "The legislative branch of government is composed of one or more legislative bodies that are authorized to enact laws to govern the applicable jurisdiction. (For the sake of consistency, we use the term <em>legislature</em> to refer to such a legislative body.) The laws enacted by a legislature are referred to as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">statutes</span>, which typically declare, command, or prohibit something. These legislative enactments create the body of law known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">statutory law</span>, as opposed to <em>case law</em>, which we describe later in our discussion of sources of law."
                     },
                     {
-                        "Paragraph_txt": "The authority of a legislature to enact laws is limited by the applicable constitution. When a legislature exceeds its constitutional powers in enacting a law, that law is unconstitutional and therefore illegal."
+                        "Paragraph_txt": "<br />The authority of a legislature to enact laws is limited by the applicable constitution. When a legislature exceeds its constitutional powers in enacting a law, that law is unconstitutional and therefore illegal."
                     },
                     {
-                        "Paragraph_txt": "In the United States, the federal and state constitutions authorize the creation of legislatures, which typically consist of two houses. The legislative branch of the federal government is referred to as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Congress</span>, and the two houses are the Senate and the House of Representatives. The legislative branch of a state government often is referred to as the legislature or general assembly."
+                        "Paragraph_txt": "<br />In the United States, the federal and state constitutions authorize the creation of legislatures, which typically consist of two houses. The legislative branch of the federal government is referred to as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Congress</span>, and the two houses are the Senate and the House of Representatives. The legislative branch of a state government often is referred to as the legislature or general assembly."
                     },
                     {
-                        "Paragraph_txt": "All of the laws enacted by each legislative body are compiled and organized into a collection of laws that typically is referred to as a <em>code</em>. The names given to such codes vary by jurisdiction. In the United States, all of the federal statutes have been compiled as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">U.S. Code</span>. The laws enacted by a given state typically are known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">state code</span>. The U.S. and state codes are further subdivided into discrete sections, and each section regulates a specific area of law. For example, the federal tax laws are found in a portion of the U.S. Code that is generally referred to as the Internal Revenue Code (IRC). Similarly, a portion of each state code regulates the insurance industry within the state and is often known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">state insurance code</span>."
+                        "Paragraph_txt": "<br />All of the laws enacted by each legislative body are compiled and organized into a collection of laws that typically is referred to as a <em>code</em>. The names given to such codes vary by jurisdiction. In the United States, all of the federal statutes have been compiled as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">U.S. Code</span>. The laws enacted by a given state typically are known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">state code</span>. The U.S. and state codes are further subdivided into discrete sections, and each section regulates a specific area of law. For example, the federal tax laws are found in a portion of the U.S. Code that is generally referred to as the Internal Revenue Code (IRC). Similarly, a portion of each state code regulates the insurance industry within the state and is often known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">state insurance code</span>."
                     }
                 ]
             },
@@ -625,7 +625,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In many jurisdictions, including the United States, the legislatures enact statutes in relatively general terms and delegate authority to the executive branch to adopt regulations to fill in the details of the law. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Regulations</span> are rules or orders that are issued by administrative agencies and that also have the force and effect of law, as long as they do not conflict with the underlying statute. Regulations make up the body of law known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">administrative law</span>. The regulations of each governmental unit are compiled into that jurisdiction’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">administrative code</span>. For example, the regulations of a state are compiled into that state’s administrative code. "
                     },
                     {
-                        "Paragraph_txt": "In the United States, the administrative agency responsible for administering a specific aspect of the law also is responsible for adopting regulations. These regulations fill in the details of that aspect of the law. For example, each state’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">insurance department</span> or <em>department of insurance (DOI)</em>, as shown in Figure 1.2, is responsible for enforcing the state insurance code and making certain that insurers conducting business within the state comply with all state insurance laws. In addition, the insurance department adopts <em>regulations</em> to fill in the details of the state insurance laws and enforces these regulations. The insurance department operates under the direction of an official typically known as the <em>insurance commissioner</em>."
+                        "Paragraph_txt": "<br />In the United States, the administrative agency responsible for administering a specific aspect of the law also is responsible for adopting regulations. These regulations fill in the details of that aspect of the law. For example, each state’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">insurance department</span> or <em>department of insurance (DOI)</em>, as shown in Figure 1.2, is responsible for enforcing the state insurance code and making certain that insurers conducting business within the state comply with all state insurance laws. In addition, the insurance department adopts <em>regulations</em> to fill in the details of the state insurance laws and enforces these regulations. The insurance department operates under the direction of an official typically known as the <em>insurance commissioner</em>."
                     }
                 ]
             },
@@ -814,19 +814,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "In common law jurisdictions, which we describe in the next section, the written decisions of the courts form a body of law known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">case law</span>. All legal systems have some type of judicial system—or court system—that is responsible for applying the laws to specific cases. Courts may apply both substantive and procedural laws to a case."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Substantive laws</span> create, define, and regulate legal rights and duties. Examples of substantive laws are how a statute defines fraudulent misrepresentation or the punishment that a person convicted of insurance fraud may receive."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Substantive laws</span> create, define, and regulate legal rights and duties. Examples of substantive laws are how a statute defines fraudulent misrepresentation or the punishment that a person convicted of insurance fraud may receive."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Procedural laws</span> specify the rules and methods that courts use to enforce substantive laws. For example, a court’s procedural law may require that a defendant answer a complaint within 30 days of being served with the complaint. Procedural laws provide a guideline of how cases proceed through a court system. Additionally, procedural laws specify the types of cases that each court has jurisdiction to hear. In this sense, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">jurisdiction</span> refers to the authority of a court to hear specific cases or, in the event of overlapping authorities, the most appropriate forum to hear the case."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Procedural laws</span> specify the rules and methods that courts use to enforce substantive laws. For example, a court’s procedural law may require that a defendant answer a complaint within 30 days of being served with the complaint. Procedural laws provide a guideline of how cases proceed through a court system. Additionally, procedural laws specify the types of cases that each court has jurisdiction to hear. In this sense, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">jurisdiction</span> refers to the authority of a court to hear specific cases or, in the event of overlapping authorities, the most appropriate forum to hear the case."
                     },
                     {
-                        "Paragraph_txt": "Although court systems are organized in many different ways, they typically have a variety of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">trial courts</span>, which are sometimes called <em>courts of original jurisdiction</em> because they are the courts that first hear disputes. Most court systems also have <span class=\"keyterm\" tabindex=\"0\" role=\"button\">appellate courts</span>that are authorized to review the decisions of lower courts. Thus, a party that loses a case heard by a trial court may have the right to appeal—or contest—that decision by asking an appellate court to review the trial court’s decision. State and federal appellate courts issue a written opinion for most noncriminal cases they decide. These appellate court decisions are published in a series of volumes known as <em>reports</em> or <em>reporters</em>. Courts may also issue unpublished opinions. An <em>unpublished opinion</em> is a decision of a court that is not available for citation in subsequent court cases. "
+                        "Paragraph_txt": "<br />Although court systems are organized in many different ways, they typically have a variety of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">trial courts</span>, which are sometimes called <em>courts of original jurisdiction</em> because they are the courts that first hear disputes. Most court systems also have <span class=\"keyterm\" tabindex=\"0\" role=\"button\">appellate courts</span>that are authorized to review the decisions of lower courts. Thus, a party that loses a case heard by a trial court may have the right to appeal—or contest—that decision by asking an appellate court to review the trial court’s decision. State and federal appellate courts issue a written opinion for most noncriminal cases they decide. These appellate court decisions are published in a series of volumes known as <em>reports</em> or <em>reporters</em>. Courts may also issue unpublished opinions. An <em>unpublished opinion</em> is a decision of a court that is not available for citation in subsequent court cases. "
                     },
                     {
-                        "Paragraph_txt": "Most courts also engage in the important function of interpreting statutes and regulations. For example, statutes usually are expressed in relatively general terms that are designed to cover a wide range of situations. As a result, a law’s intent may be clear, but its application to a specific situation may be unclear. In such cases, the courts generally have authority to interpret the meaning of statutes. These decisions are considered by subsequent courts that may be called upon to decide similar issues. In this way, the courts serve as a source of law."
+                        "Paragraph_txt": "<br />Most courts also engage in the important function of interpreting statutes and regulations. For example, statutes usually are expressed in relatively general terms that are designed to cover a wide range of situations. As a result, a law’s intent may be clear, but its application to a specific situation may be unclear. In such cases, the courts generally have authority to interpret the meaning of statutes. These decisions are considered by subsequent courts that may be called upon to decide similar issues. In this way, the courts serve as a source of law."
                     },
                     {
-                        "Paragraph_txt": "Figure 1.3 gives a recap of the typical sources of law."
+                        "Paragraph_txt": "<br />Figure 1.3 gives a recap of the typical sources of law."
                     }
                 ]
             },

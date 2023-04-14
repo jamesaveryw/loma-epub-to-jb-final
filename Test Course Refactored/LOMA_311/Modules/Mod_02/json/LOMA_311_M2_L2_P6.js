@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -207,7 +207,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we have seen, an agent who enters into a contract on his principal’s behalf typically is not a party to that contract. When an agent contracts on behalf of a disclosed principal and the principal and third party are the named parties to the contract, the agent has no personal liability under the contract."
                     },
                     {
-                        "Paragraph_txt": "An agent may be personally liable under a contract to a third party if the agent contracted in her own name. When an agent contracts in her own name on behalf of a partially disclosed or an undisclosed principal, the third party can enforce the contract against the agent and/or the principal. Likewise, the agent and the principal typically can enforce the contract against the third party. If an agent acted within the scope of her actual authority and was held personally liable on a contract entered into on behalf of a partially disclosed or an undisclosed principal, the agent is entitled to be indemnified by the principal for any losses the agent incurred."
+                        "Paragraph_txt": "<br />An agent may be personally liable under a contract to a third party if the agent contracted in her own name. When an agent contracts in her own name on behalf of a partially disclosed or an undisclosed principal, the third party can enforce the contract against the agent and/or the principal. Likewise, the agent and the principal typically can enforce the contract against the third party. If an agent acted within the scope of her actual authority and was held personally liable on a contract entered into on behalf of a partially disclosed or an undisclosed principal, the agent is entitled to be indemnified by the principal for any losses the agent incurred."
                     }
                 ]
             },
@@ -311,7 +311,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we have seen, every person is personally liable for his own torts. As a result, an agent who commits a tort while carrying out his agency duties is liable for the harm caused by the tort. For example, if an agent makes material misrepresentations and the third party is injured as a result, the third party may recover from the agent for the damages caused by the misrepresentations."
                     },
                     {
-                        "Paragraph_txt": "Watch Video 5.1 for a summary of the relationship between principals, agents, and third parties."
+                        "Paragraph_txt": "<br />Watch Video 5.1 for a summary of the relationship between principals, agents, and third parties."
                     }
                 ]
             },

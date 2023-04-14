@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -210,7 +210,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In particular, a life insurance contract is an informal contract. However, laws in many states require insurance contracts to be in writing. Insurance contracts typically are expressed in written form—whether required by law or not—for practical reasons. Putting the contract in writing helps prevent misunderstandings between the parties as to the terms of their agreement. A written contract also provides a permanent record of the agreement, which may remain in force for many years."
                     },
                     {
-                        "Paragraph_txt": "As with the formation of other informal contracts, the parties must meet four requirements to form a valid life insurance contract: (1) the parties must mutually assent to the contract, (2) they must exchange legally adequate consideration, (3) they must have contractual capacity, and (4) the contract must be for a lawful purpose."
+                        "Paragraph_txt": "<br />As with the formation of other informal contracts, the parties must meet four requirements to form a valid life insurance contract: (1) the parties must mutually assent to the contract, (2) they must exchange legally adequate consideration, (3) they must have contractual capacity, and (4) the contract must be for a lawful purpose."
                     }
                 ]
             },
@@ -279,7 +279,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Applicants for insurance generally make an offer to enter into an insurance contract by completing an application for insurance and submitting it to an insurer along with payment of the initial premium for the applied-for policy. The insurer can accept an applicant’s offer by (1) issuing a policy that contains the same terms as those stated in the applicant’s offer and (2) delivering the policy to the applicant. When a valid contract is created, the applicant becomes the policyowner."
                     },
                     {
-                        "Paragraph_txt": "If an applicant does not pay the initial premium when she submits an application for insurance, then she has not made an offer. Rather, she has invited the <em>insurer</em> to make an offer. The insurer can make an offer to contract by issuing a policy and delivering it to the applicant. Note that the policy the insurer issues and delivers need not be the same policy the applicant applied for. The applicant can accept the insurer’s offer by accepting the policy and paying the initial premium."
+                        "Paragraph_txt": "<br />If an applicant does not pay the initial premium when she submits an application for insurance, then she has not made an offer. Rather, she has invited the <em>insurer</em> to make an offer. The insurer can make an offer to contract by issuing a policy and delivering it to the applicant. Note that the policy the insurer issues and delivers need not be the same policy the applicant applied for. The applicant can accept the insurer’s offer by accepting the policy and paying the initial premium."
                     }
                 ]
             },
@@ -910,7 +910,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When the purpose of an agreement is illegal, the agreement is illegal and void. An agreement’s purpose is illegal if it violates public policy or violates a principle of common law. To be valid, an informal contract must have a lawful purpose. In the formation of a life insurance contract, the lawful purpose requirement is met if an insurable interest is present. Many early life insurance policies were purchased as wagers by individuals who had no relationship at all with the insured—in particular, people used life insurance policies to make a profit on the deaths of public figures before courts instituted the requirement of an insurable interest."
                     },
                     {
-                        "Paragraph_txt": "In addition, the ability to gain substantial profits from an insured’s death creates the danger of someone insuring another person with the intent of killing the insured and collecting the policy proceeds. The insurable interest requirement is intended to prevent such situations and provides assurance that the insurance contract is being made for the lawful purpose of providing protection against financial loss, rather than for an unlawful purpose. Most countries around the world impose an insurable interest requirement on the formation of life insurance contracts. The insight below provides a few examples of how the specific requirements for insurable interest vary from country to country."
+                        "Paragraph_txt": "<br />In addition, the ability to gain substantial profits from an insured’s death creates the danger of someone insuring another person with the intent of killing the insured and collecting the policy proceeds. The insurable interest requirement is intended to prevent such situations and provides assurance that the insurance contract is being made for the lawful purpose of providing protection against financial loss, rather than for an unlawful purpose. Most countries around the world impose an insurable interest requirement on the formation of life insurance contracts. The insight below provides a few examples of how the specific requirements for insurable interest vary from country to country."
                     }
                 ]
             },
@@ -973,13 +973,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Australia:</strong> The Insurance Contracts Act was amended in 2005 to end the insurable interest requirement for the formation of a valid life insurance contract. The act now states that a life insurance contract is not void for lack of insurable interest when the contract is created."
                     },
                     {
-                        "Paragraph_txt": "<strong>Canada:</strong> All provinces require an applicant to have an insurable interest in the person insured by a life insurance policy when the contract is formed. However, if the proposed insured consents in writing to the issuance of a policy on his life, then the insurance contract is valid even if the applicant has no insurable interest in the proposed insured."
+                        "Paragraph_txt": "<br /><strong>Canada:</strong> All provinces require an applicant to have an insurable interest in the person insured by a life insurance policy when the contract is formed. However, if the proposed insured consents in writing to the issuance of a policy on his life, then the insurance contract is valid even if the applicant has no insurable interest in the proposed insured."
                     },
                     {
-                        "Paragraph_txt": "An insurable interest is presumed to exist between certain family members. In the common law provinces, an insurable interest exists between a person and (1) his children and grandchildren, (2) his spouse, and (3) anyone who contributes to his support or education. In Quebec, an insurable interest exists between a person and (1) his spouse, (2) his descendants and his spouse’s descendants, and (3) anyone who contributes to his support or education."
+                        "Paragraph_txt": "<br />An insurable interest is presumed to exist between certain family members. In the common law provinces, an insurable interest exists between a person and (1) his children and grandchildren, (2) his spouse, and (3) anyone who contributes to his support or education. In Quebec, an insurable interest exists between a person and (1) his spouse, (2) his descendants and his spouse’s descendants, and (3) anyone who contributes to his support or education."
                     },
                     {
-                        "Paragraph_txt": "<strong>Malaysia:</strong> An insurable interest is deemed to exist between a person and (1) his spouse and his child or ward who is under the age of majority at the time the insurance is effected, (2) his employee, or (3) a person on whom he is wholly or partly dependent when the insurance is effected."
+                        "Paragraph_txt": "<br /><strong>Malaysia:</strong> An insurable interest is deemed to exist between a person and (1) his spouse and his child or ward who is under the age of majority at the time the insurance is effected, (2) his employee, or (3) a person on whom he is wholly or partly dependent when the insurance is effected."
                     }
                 ]
             },
@@ -1042,7 +1042,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, for the contract to be valid, a policyowner must have an insurable interest in the insured person when the life insurance policy is issued. Generally, an insurable interest exists when a person is likely to benefit if the insured continues to live and is likely to suffer some loss or detriment if the insured dies. Whether the requirement is met in a given case is a question of fact. Note that the insurable interest must exist only at the time of contracting and is not required to continue throughout the life of the policy. For example, if a person purchases a life insurance policy on the life of his spouse, the policy remains a valid contract even if the couple later divorces. If a business owner purchases key-person insurance on a key employee, the owner could choose to continue the contract if the employee later left the business. Insurable interest is also not required to continue in the case of a viatical settlement, a transaction that we discuss in Chapter 12."
                     },
                     {
-                        "Paragraph_txt": "In most cases, individual life insurance policies are applied for and owned by the person who is insured by the policy. Some policies, however, are issued to persons other than the insured. Insurable interest requirements vary depending on whether a policy insures the policyowner or someone other than the policyowner."
+                        "Paragraph_txt": "<br />In most cases, individual life insurance policies are applied for and owned by the person who is insured by the policy. Some policies, however, are issued to persons other than the insured. Insurable interest requirements vary depending on whether a policy insures the policyowner or someone other than the policyowner."
                     }
                 ]
             },
@@ -1271,7 +1271,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers are careful to make sure that the insurable interest requirement is met before they issue a policy. In addition, many insurers’ underwriting guidelines impose more stringent insurable interest requirements than the requirements imposed by state laws. The task of determining insurable interest is the underwriter’s responsibility. If an insurer fails to exercise reasonable care in evaluating whether the insurable interest requirement is met for a given policy, then the insurer could be subject to tort liability for any harm that befalls an insured who did not consent to the policy."
                     },
                     {
-                        "Paragraph_txt": "In one historical example of the necessity of reasonable care, an insurer was held liable for a young child’s death because the insurer had issued a policy without insurable interest.<span class=\"ens\" id=\"loma311-ch10-span-13\"> <span class=\"endnote hidden\" data-note=\"loma311-ch10-en1\" epub:type=\"noteref\" id=\"loma311-ch10-span-14\" role=\"doc-noteref\">1</span> </span>In this case, the child’s aunt purchased several insurance policies on the child’s life and named herself as the beneficiary. The child did not live with her aunt, and was not financially dependent on her aunt, and the child’s parents did not know that policies had been issued on the child’s life. The aunt poisoned the child and was convicted of murdering the child so that she could collect the insurance policy proceeds. The child’s father then sued the insurer, alleging that the insurer failed to use reasonable care when it issued the policies. The court found that the insurer had failed in its duty to use reasonable care to determine insurable interest, and that the insurer’s failure had resulted in the child’s death. The insurer was required to pay damages for the child’s wrongful death."
+                        "Paragraph_txt": "<br />In one historical example of the necessity of reasonable care, an insurer was held liable for a young child’s death because the insurer had issued a policy without insurable interest.<span class=\"ens\" id=\"loma311-ch10-span-13\"> <span class=\"endnote hidden\" data-note=\"loma311-ch10-en1\" epub:type=\"noteref\" id=\"loma311-ch10-span-14\" role=\"doc-noteref\">1</span> </span>In this case, the child’s aunt purchased several insurance policies on the child’s life and named herself as the beneficiary. The child did not live with her aunt, and was not financially dependent on her aunt, and the child’s parents did not know that policies had been issued on the child’s life. The aunt poisoned the child and was convicted of murdering the child so that she could collect the insurance policy proceeds. The child’s father then sued the insurer, alleging that the insurer failed to use reasonable care when it issued the policies. The court found that the insurer had failed in its duty to use reasonable care to determine insurable interest, and that the insurer’s failure had resulted in the child’s death. The insurer was required to pay damages for the child’s wrongful death."
                     }
                 ]
             },
@@ -1307,7 +1307,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An individual life insurance policy typically states that the policy does not become effective until (1) it is delivered to the policyowner and (2) the initial premium is paid. Both requirements must be met during the continued good health of the insured in order for the contract to be effective. Generally the policyowner receives the policy through electronic delivery or accesses the policy through the insurer’s website. In some cases, the insurer mails a physical copy of the policy directly to the policyowner."
                     },
                     {
-                        "Paragraph_txt": "Sometimes a policy is considered to have been delivered even though it never actually reached the policyowner. Delivery in such cases is called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">constructive delivery</span>, which is a legally adequate delivery of a life insurance policy that occurs when the insurer parts with control of the policy and intends to be bound to the terms of the contract. "
+                        "Paragraph_txt": "<br />Sometimes a policy is considered to have been delivered even though it never actually reached the policyowner. Delivery in such cases is called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">constructive delivery</span>, which is a legally adequate delivery of a life insurance policy that occurs when the insurer parts with control of the policy and intends to be bound to the terms of the contract. "
                     }
                 ]
             },

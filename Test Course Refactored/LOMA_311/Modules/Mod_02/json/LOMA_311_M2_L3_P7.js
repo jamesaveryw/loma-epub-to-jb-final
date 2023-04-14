@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -391,13 +391,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "As a general rule, negotiable instruments must be “payable to bearer” or “payable to order.” An instrument that is payable to bearer, known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">bearer paper</span>, is negotiable by the holder without having to be signed by a specific payee. A signed check that is payable “to cash” is considered to be payable to the bearer who can negotiate it simply by transferring its possession to another person. "
                     },
                     {
-                        "Paragraph_txt": "An instrument that is payable to the order of a specific payee, known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">order paper</span>, can be negotiated if it is indorsed—that is, signed on the back of the document—by the named payee and transferred to another. For example, a check that is “payable to the order of Jane Villard” is negotiable if Ms. Villard indorses the check and gives it to another person. Checks typically are payable to the order of a specific payee."
+                        "Paragraph_txt": "<br />An instrument that is payable to the order of a specific payee, known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">order paper</span>, can be negotiated if it is indorsed—that is, signed on the back of the document—by the named payee and transferred to another. For example, a check that is “payable to the order of Jane Villard” is negotiable if Ms. Villard indorses the check and gives it to another person. Checks typically are payable to the order of a specific payee."
                     },
                     {
-                        "Paragraph_txt": "An instrument that is payable to a named person without specifically stating that it is “payable to the order of” the person is not negotiable. To return to the previous example, assume that when she indorsed her check, Jane Villard wrote “pay to Eduardo Guerrero” on the check. The check is now payable only to Mr. Guerrero. Because Mr. Guerrero cannot transfer the check to another person, it is no longer a negotiable instrument."
+                        "Paragraph_txt": "<br />An instrument that is payable to a named person without specifically stating that it is “payable to the order of” the person is not negotiable. To return to the previous example, assume that when she indorsed her check, Jane Villard wrote “pay to Eduardo Guerrero” on the check. The check is now payable only to Mr. Guerrero. Because Mr. Guerrero cannot transfer the check to another person, it is no longer a negotiable instrument."
                     },
                     {
-                        "Paragraph_txt": "Some negotiable instruments may have legal issues. The insight below describes some of these issues and how they are typically resolved."
+                        "Paragraph_txt": "<br />Some negotiable instruments may have legal issues. The insight below describes some of these issues and how they are typically resolved."
                     }
                 ]
             },
@@ -522,16 +522,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "EXAMPLE"
                     },
                     {
-                        "Paragraph_txt": "Dorothy Omido wrote a check to pay her telephone bill. One portion of the check stated “$35”, but the amount written out stated “forty-five dollars.” Because the UCC provides that words prevail over numbers, the check is payable for $45."
+                        "Paragraph_txt": "<br />Dorothy Omido wrote a check to pay her telephone bill. One portion of the check stated “$35”, but the amount written out stated “forty-five dollars.” Because the UCC provides that words prevail over numbers, the check is payable for $45."
                     },
                     {
-                        "Paragraph_txt": "Another potential issue is the possibility of dishonored, or bad, checks. Because the reliable flow of commerce is vital to a country’s economy, many countries have enacted laws that make it a criminal offense to write a dishonored check."
+                        "Paragraph_txt": "<br />Another potential issue is the possibility of dishonored, or bad, checks. Because the reliable flow of commerce is vital to a country’s economy, many countries have enacted laws that make it a criminal offense to write a dishonored check."
                     },
                     {
-                        "Paragraph_txt": "EXAMPLE"
+                        "Paragraph_txt": "<br />EXAMPLE"
                     },
                     {
-                        "Paragraph_txt": "In India, writing a dishonored check is an offense punishable by up to one year in prison with fines up to double the amount of the check. Under Indian law, if a check is dishonored, a payee must give notice in writing to the drawer of the check demanding payment for the amount of the check. The drawer then has 15 days after receipt of the notice to honor the check. If he fails to do so, he is subject to criminal, as well as civil, penalties. Providing proper notice to the drawer of a dishonored check is important because only a drawer who has been given such notice can be held liable."
+                        "Paragraph_txt": "<br />In India, writing a dishonored check is an offense punishable by up to one year in prison with fines up to double the amount of the check. Under Indian law, if a check is dishonored, a payee must give notice in writing to the drawer of the check demanding payment for the amount of the check. The drawer then has 15 days after receipt of the notice to honor the check. If he fails to do so, he is subject to criminal, as well as civil, penalties. Providing proper notice to the drawer of a dishonored check is important because only a drawer who has been given such notice can be held liable."
                     }
                 ]
             },
@@ -1200,7 +1200,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "If all of the requirements to be a holder in due course are met, the holder obtains the instrument free of such defenses or claims against its payment. By offering particular rights to a holder in due course, the law encourages commerce."
                     },
                     {
-                        "Paragraph_txt": "If a transferee does not meet the requirements to be a holder in due course, the transferee is generally considered to be an assignee, and may be liable for any pre-existing claims upon the instrument in question. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">assignment</span> is the transfer of ownership rights in property from the property owner, known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">assignor</span>, to another party, known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">assignee</span>. Assignments usually are used to transfer ownership rights in intangible personal property, such as a life insurance policy as we discuss in Chapter 12. An assignee obtains only those rights in the property that the assignor had."
+                        "Paragraph_txt": "<br />If a transferee does not meet the requirements to be a holder in due course, the transferee is generally considered to be an assignee, and may be liable for any pre-existing claims upon the instrument in question. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">assignment</span> is the transfer of ownership rights in property from the property owner, known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">assignor</span>, to another party, known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">assignee</span>. Assignments usually are used to transfer ownership rights in intangible personal property, such as a life insurance policy as we discuss in Chapter 12. An assignee obtains only those rights in the property that the assignor had."
                     }
                 ]
             },
@@ -1263,7 +1263,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Manufacturer X and Retailer Y entered into a contract under which Manufacturer X agreed to supply goods to Retailer Y within six months of the contract date. Retailer Y agreed to pay for the goods in a lump sum when it received all of the goods. Manufacturer X then assigned the right to collect under the contract to Supplier A. When Supplier A delivered all of the goods, Retailer Y refused to pay for the goods because they were defective. As an <em>assignee</em>, Supplier A is subject to all claims and defenses that Retailer Y has against Manufacturer X and may not be able to require Retailer Y to pay the agreed-upon amount."
                     },
                     {
-                        "Paragraph_txt": "Using the same facts, assume that as part of the contract, Retailer Y gave Manufacturer X a negotiable promissory note guaranteeing payment for the goods when they were delivered to Retailer Y. Manufacturer X transferred the note to Supplier B, which became a <em>holder in due course</em>. Because Supplier B is a holder in due course, Retailer Y is obligated to pay the note and must pursue any claims it has against Manufacturer X in a separate action."
+                        "Paragraph_txt": "<br />Using the same facts, assume that as part of the contract, Retailer Y gave Manufacturer X a negotiable promissory note guaranteeing payment for the goods when they were delivered to Retailer Y. Manufacturer X transferred the note to Supplier B, which became a <em>holder in due course</em>. Because Supplier B is a holder in due course, Retailer Y is obligated to pay the note and must pursue any claims it has against Manufacturer X in a separate action."
                     }
                 ]
             },

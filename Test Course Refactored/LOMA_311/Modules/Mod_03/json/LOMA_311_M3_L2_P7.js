@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -314,10 +314,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Laws in the United States are designed to make it clear that an electronic signature is valid. However, these laws do not directly address the reliability of such signatures. Reliability relates to how parties can authenticate that a person is who he purports to be."
                     },
                     {
-                        "Paragraph_txt": "Some countries have enacted laws that address the reliability and adequacy of electronic signatures. For example, the <em>UNCITRAL Model Law on Electronic Signatures</em> sets criteria for the technical reliability of electronic signatures.<span class=\"ens\" id=\"loma311-ch8-span-61\"> <span class=\"endnote hidden\" data-note=\"loma311-ch8-en2\" epub:type=\"noteref\" id=\"loma311-ch8-span-62\" role=\"doc-noteref\">2</span> </span>Countries that have adopted laws based on the UNCITRAL Model Law include China, India, Jamaica, Mexico, Nicaragua, Paraguay, Thailand, and Vietnam."
+                        "Paragraph_txt": "<br />Some countries have enacted laws that address the reliability and adequacy of electronic signatures. For example, the <em>UNCITRAL Model Law on Electronic Signatures</em> sets criteria for the technical reliability of electronic signatures.<span class=\"ens\" id=\"loma311-ch8-span-61\"> <span class=\"endnote hidden\" data-note=\"loma311-ch8-en2\" epub:type=\"noteref\" id=\"loma311-ch8-span-62\" role=\"doc-noteref\">2</span> </span>Countries that have adopted laws based on the UNCITRAL Model Law include China, India, Jamaica, Mexico, Nicaragua, Paraguay, Thailand, and Vietnam."
                     },
                     {
-                        "Paragraph_txt": "The European Union (EU) has adopted the <em>Electronic Signatures Directive</em>. The directive sets up a system by which certification service providers that are regulated by the EU members must verify electronic signatures."
+                        "Paragraph_txt": "<br />The European Union (EU) has adopted the <em>Electronic Signatures Directive</em>. The directive sets up a system by which certification service providers that are regulated by the EU members must verify electronic signatures."
                     }
                 ]
             },
@@ -483,7 +483,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment companies and broker-dealers must adhere to SEC regulations that apply to information security. These regulations include (1) a requirement for written policies and procedures to protect customer information and (2) duties regarding identity theft. Investment companies and broker-dealers must be able to show compliance with SEC and FINRA cybersecurity requirements when they undergo an examination."
                     },
                     {
-                        "Paragraph_txt": "Globally, the EU’s GDPR provides strong cybersecurity protections for consumers. In addition, the International Association of Insurance Supervisors is considering cybersecurity standards for its member countries."
+                        "Paragraph_txt": "<br />Globally, the EU’s GDPR provides strong cybersecurity protections for consumers. In addition, the International Association of Insurance Supervisors is considering cybersecurity standards for its member countries."
                     }
                 ]
             },
@@ -641,7 +641,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "With the rise of the digital economy, many new technology-based companies have entered the insurance marketplace. The NAIC is positioning itself to help the states regulate these firms and provide protections for consumers, while also promoting industry growth."
                     },
                     {
-                        "Paragraph_txt": "An NAIC Innovation Task Force has been charged with making sure that the NAIC, state regulators, and insurance laws and regulations adapt to the rapid pace of change that technology brings to the insurance marketplace. <span class=\"ens\" id=\"loma311-ch8-span-64\"> <span class=\"endnote hidden\" data-note=\"loma311-ch8-en3\" epub:type=\"noteref\" id=\"loma311-ch8-span-65\" role=\"doc-noteref\">3</span> </span> "
+                        "Paragraph_txt": "<br />An NAIC Innovation Task Force has been charged with making sure that the NAIC, state regulators, and insurance laws and regulations adapt to the rapid pace of change that technology brings to the insurance marketplace. <span class=\"ens\" id=\"loma311-ch8-span-64\"> <span class=\"endnote hidden\" data-note=\"loma311-ch8-en3\" epub:type=\"noteref\" id=\"loma311-ch8-span-65\" role=\"doc-noteref\">3</span> </span> "
                     }
                 ]
             },

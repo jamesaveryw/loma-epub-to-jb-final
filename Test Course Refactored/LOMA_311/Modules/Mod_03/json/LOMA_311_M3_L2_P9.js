@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -503,7 +503,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurance department examiners fill out an exception form for each problem they find. At the end of the examination, the examiner-in-charge summarizes the findings and writes an <em>examination report</em>. This report lists the problems found and recommends the steps the insurer should take to resolve the problems. The examiner-in-charge provides a copy of the report to the insurer and to the insurance department."
                     },
                     {
-                        "Paragraph_txt": "Typically, after delivery of the examination report, the market conduct examination process continues as shown in the insight below."
+                        "Paragraph_txt": "<br />Typically, after delivery of the examination report, the market conduct examination process continues as shown in the insight below."
                     }
                 ]
             },
@@ -566,16 +566,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Often, the insurer has the opportunity to discuss the report with the insurance department and perhaps persuade the department to revise the report. Also, the insurer has the right to request a formal hearing with an officer authorized to hear testimony and make a decision about the final report."
                     },
                     {
-                        "Paragraph_txt": "The insurance department finalizes the report and places it on file. Often, the department makes the filed examination report available on its website. The department provides a copy of the report to the NAIC, which maintains the report in its information system."
+                        "Paragraph_txt": "<br />The insurance department finalizes the report and places it on file. Often, the department makes the filed examination report available on its website. The department provides a copy of the report to the NAIC, which maintains the report in its information system."
                     },
                     {
-                        "Paragraph_txt": "Once the examination report is filed, the insurance department, if appropriate, issues an order to the insurer listing recommendations from the report. In some cases, the department specifies a date by which the insurer must provide evidence that it has complied."
+                        "Paragraph_txt": "<br />Once the examination report is filed, the insurance department, if appropriate, issues an order to the insurer listing recommendations from the report. In some cases, the department specifies a date by which the insurer must provide evidence that it has complied."
                     },
                     {
-                        "Paragraph_txt": "If the examination report indicates a violation of state insurance law, the insurance department may sanction the insurer. Typically, penalties result when violations are due to the insurer’s general business practices or when the insurer knowingly violated laws. Most sanctions are fines; in some cases, the department may suspend or revoke the insurer’s certificate of authority."
+                        "Paragraph_txt": "<br />If the examination report indicates a violation of state insurance law, the insurance department may sanction the insurer. Typically, penalties result when violations are due to the insurer’s general business practices or when the insurer knowingly violated laws. Most sanctions are fines; in some cases, the department may suspend or revoke the insurer’s certificate of authority."
                     },
                     {
-                        "Paragraph_txt": "After completion of the market conduct examination, many insurance departments conduct a follow-up examination, known as a <em>reexamination</em>. The purpose of the reexamination is to determine whether the insurer has complied with the recommendations or directives contained in a previous examination report."
+                        "Paragraph_txt": "<br />After completion of the market conduct examination, many insurance departments conduct a follow-up examination, known as a <em>reexamination</em>. The purpose of the reexamination is to determine whether the insurer has complied with the recommendations or directives contained in a previous examination report."
                     }
                 ]
             },

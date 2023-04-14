@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,10 +178,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "We described the distinction between secured creditors and unsecured creditors in Chapter 6. A secured creditor—that is, a creditor who obtains a security interest in the debtor’s property—is protected if the debtor defaults on the loan. By contrast, if a debtor defaults on an unsecured loan, the creditor must sue the debtor and obtain a judgment to recover the unpaid amount. A creditor who has sued a debtor who has failed to repay a debt and has obtained a judgment against the debtor is referred to as a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">judgment creditor</span>."
                     },
                     {
-                        "Paragraph_txt": "Each state has enacted laws that govern how a judgment creditor may enforce that judgment by looking to property owned by the debtor. For example, if a debtor has money in a bank account, a judgment creditor can satisfy all or part of the judgment from the funds in the bank account. State laws provide exemptions for certain types of property that a judgment creditor cannot reach. The goal of such laws is to enable the debtor to continue to earn a living and provide for himself and his dependents."
+                        "Paragraph_txt": "<br />Each state has enacted laws that govern how a judgment creditor may enforce that judgment by looking to property owned by the debtor. For example, if a debtor has money in a bank account, a judgment creditor can satisfy all or part of the judgment from the funds in the bank account. State laws provide exemptions for certain types of property that a judgment creditor cannot reach. The goal of such laws is to enable the debtor to continue to earn a living and provide for himself and his dependents."
                     },
                     {
-                        "Paragraph_txt": "Public policy seeks to encourage people to purchase life insurance to provide for their families and other dependents. Thus, laws in all states provide exemptions for life insurance policies, although the specific exemptions vary a great deal from state to state. The exemption laws in most states protect life insurance policy death benefits, cash values, and accrued dividends from the reach of judgment creditors. While a policy is in force, most such values are exempt from the claims of judgment creditors of the policyowner and of the beneficiary. Watch Video 12.1 for a few examples of exemptions by state."
+                        "Paragraph_txt": "<br />Public policy seeks to encourage people to purchase life insurance to provide for their families and other dependents. Thus, laws in all states provide exemptions for life insurance policies, although the specific exemptions vary a great deal from state to state. The exemption laws in most states protect life insurance policy death benefits, cash values, and accrued dividends from the reach of judgment creditors. While a policy is in force, most such values are exempt from the claims of judgment creditors of the policyowner and of the beneficiary. Watch Video 12.1 for a few examples of exemptions by state."
                     }
                 ]
             },
@@ -283,10 +283,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The situation changes, however, if the policyowner exercises his ownership rights and the insurer pays money to the policyowner. For example, assume a policyowner-insured surrenders his policy for its cash surrender value. Once the insurer pays the cash surrender value to the policyowner, that money held by the policyowner generally loses its exemption from his creditors’ claims."
                     },
                     {
-                        "Paragraph_txt": "Similarly, a beneficiary’s creditors are not able to claim the policy death benefit while the policy is in force. Upon the insured’s death, however, the policy proceeds are payable to the beneficiary and may be subject to claims of the beneficiary’s creditors. The applicable state’s exemption law determines the rights of the beneficiary’s creditors, and statutes vary a great deal."
+                        "Paragraph_txt": "<br />Similarly, a beneficiary’s creditors are not able to claim the policy death benefit while the policy is in force. Upon the insured’s death, however, the policy proceeds are payable to the beneficiary and may be subject to claims of the beneficiary’s creditors. The applicable state’s exemption law determines the rights of the beneficiary’s creditors, and statutes vary a great deal."
                     },
                     {
-                        "Paragraph_txt": "Exemption laws in some states protect life insurance policy proceeds from claims of the <em>policyowner</em>’s creditors but do not protect proceeds from claims of the <em>beneficiary</em>’s creditors. Laws in other states protect policy proceeds from creditors of both the policyowner and beneficiary. When proceeds are not exempt from claims by a beneficiary’s creditors, as soon as the beneficiary’s right to the policy proceeds vests, then the beneficiary’s creditors may follow the applicable state’s procedures to obtain repayment while the insurer has the money. Typically, a creditor in such a case uses the state’s garnishment procedure, which we described in Chapter 3. Later in the chapter, we describe a special type of trust that can be established to protect policy proceeds from the claims of a beneficiary’s creditors."
+                        "Paragraph_txt": "<br />Exemption laws in some states protect life insurance policy proceeds from claims of the <em>policyowner</em>’s creditors but do not protect proceeds from claims of the <em>beneficiary</em>’s creditors. Laws in other states protect policy proceeds from creditors of both the policyowner and beneficiary. When proceeds are not exempt from claims by a beneficiary’s creditors, as soon as the beneficiary’s right to the policy proceeds vests, then the beneficiary’s creditors may follow the applicable state’s procedures to obtain repayment while the insurer has the money. Typically, a creditor in such a case uses the state’s garnishment procedure, which we described in Chapter 3. Later in the chapter, we describe a special type of trust that can be established to protect policy proceeds from the claims of a beneficiary’s creditors."
                     }
                 ]
             },
@@ -322,7 +322,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Sometimes a creditor seeks to protect herself by taking out a policy on her debtor’s life and naming herself as the beneficiary. When a creditor purchases such a policy and pays the policy premiums, the creditor is entitled to receive the full policy proceeds after the insured’s death even if those proceeds are more than the amount of the unpaid debt."
                     },
                     {
-                        "Paragraph_txt": "A debtor may also purchase a policy on his own life and name the creditor as the policy beneficiary, or change an existing policy’s revocable beneficiary and make the creditor the new beneficiary."
+                        "Paragraph_txt": "<br />A debtor may also purchase a policy on his own life and name the creditor as the policy beneficiary, or change an existing policy’s revocable beneficiary and make the creditor the new beneficiary."
                     }
                 ]
             },

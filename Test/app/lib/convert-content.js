@@ -98,7 +98,7 @@ let lessonBuilder = {
 		if (lessonBuilder.objectives.length == lessonBuilder.pages.length - 1) {
 			addObjectives = true;
 		} else {
-			console.log(`${lessonBuilder.lesson_id} has ${lessonBuilder.objectives.length} learning objectives, but ${lessonBuilder.pages.length - 1} pages.`);
+			// console.log(`${lessonBuilder.lesson_id} has ${lessonBuilder.objectives.length} learning objectives, but ${lessonBuilder.pages.length - 1} pages.`);
 
 			lessonBuilder.editLog[`${lessonBuilder.lesson_id}`].push(`Lesson has ${lessonBuilder.objectives.length} learning objectives, but ${lessonBuilder.pages.length - 1} pages. Need to add relevant LOs to the beginning of each page.`);
 		}
@@ -215,6 +215,12 @@ let lessonBuilder = {
 				// replace old MathML node with new span
 				pageEl.querySelector('span.equation.kInline').replaceWith(span);
 			}
+
+			// remove outline from intro page
+			if (lessonBuilder.doc.title == "Introduction" && /(?:section-title|outline)/.test(pageEl.className)) {
+				continue;
+			}
+
 			// helps determine if we need to
 			// build a para or list snippet
 			let containsList = false;
@@ -364,7 +370,6 @@ function buildGloss(content) {
 		definition = definition.replace(/(.*?)<a[^>]+>.*?<\/a>\s*$/, '$1');
 		definition = definition.replace(/(.*?)<aclass[^>]+>.*?<\/aclass[^>]+>\s*$/, '$1');
 		definition = definition.replace(/<br\s*\/?\s*>/g, '');
-		// console.log(definition);
 
 		termObj.sort = sort;
 		termObj.term = term;
@@ -614,7 +619,7 @@ function buildLOs(LO) {
 	let JB_Para = JB.JB_Para();
 	let paraLO = LO.querySelector("p.lo");
 
-	JB_Para.Paragraphs_New[0].heading = "Leaning Objectives";
+	JB_Para.Paragraphs_New[0].heading = "Learning Objective";
 	JB_Para.Paragraphs_New[0].heading_font_size = "h3";
 	JB_Para.Paragraphs_New[0].background_color = "#FBF6D9";
 	JB_Para.Paragraphs_New[0].border_style = "solid";
@@ -627,8 +632,10 @@ function buildPara(paraArray, aside) {
 	lessonBuilder.prevSnippet = "para";
 	let JB_Para = JB.JB_Para();
 	let firstPara = true;
+	// console.log(`\n\n Building para snippet`)
 
 	for (let para of paraArray) {
+		// console.log(`\n${para.outerHTML}`)
 		// para headings
 		if (/H\d/.test(para.tagName)) {
 			JB_Para.Paragraphs_New[0].heading = para.innerHTML;

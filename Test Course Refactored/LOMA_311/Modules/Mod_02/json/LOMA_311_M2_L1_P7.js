@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +145,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As a general rule, informal contracts may be entirely oral, partly oral and partly written, or entirely written. Unless a statute requires an informal contract to be in writing, an oral informal contract is valid. However, contracting parties often seek to protect their interests by putting their agreements in writing. A written agreement provides evidence that the contract exists and evidence as to the terms of the contract. If a lawsuit concerns an oral contract, the parties have the often difficult task of proving that a contract was formed and proving the terms of the contract. If there is no written evidence of the contract, the court must base its decision solely on the conflicting testimony of the parties to the contract."
                     },
                     {
-                        "Paragraph_txt": "A number of statutes require certain kinds of contracts to be in writing, such as insurance contracts. Most U.S. states and other common law jurisdictions have enacted some form of the common law Statute of Frauds. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Statute of Frauds</span> is a law that declares certain types of contracts to be unenforceable unless they are evidenced by a written document signed by the party to be charged with performing the contract."
+                        "Paragraph_txt": "<br />A number of statutes require certain kinds of contracts to be in writing, such as insurance contracts. Most U.S. states and other common law jurisdictions have enacted some form of the common law Statute of Frauds. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Statute of Frauds</span> is a law that declares certain types of contracts to be unenforceable unless they are evidenced by a written document signed by the party to be charged with performing the contract."
                     }
                 ]
             },
@@ -336,7 +336,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The statute’s requirement of a written document usually is met if the plaintiff in a lawsuit produces a writing that contains the essential terms of the agreement. This writing must be signed by the party to be charged with performing the contract—that is, the defendant. The other party need not have signed the document. In addition, the writing may consist of more than one document as long as the documents refer to each other and are clearly connected with one transaction."
                     },
                     {
-                        "Paragraph_txt": "Keep in mind that the Statute of Frauds is only one law that may require a specific type of contract to be in writing. Many states or other common law jurisdictions require certain types of contracts, such as insurance policies, to be in writing even though the Statute of Frauds does not require the same. Figure 4.5 lists several types of agreements for which states and other common law jurisdictions have imposed a writing requirement."
+                        "Paragraph_txt": "<br />Keep in mind that the Statute of Frauds is only one law that may require a specific type of contract to be in writing. Many states or other common law jurisdictions require certain types of contracts, such as insurance policies, to be in writing even though the Statute of Frauds does not require the same. Figure 4.5 lists several types of agreements for which states and other common law jurisdictions have imposed a writing requirement."
                     }
                 ]
             },

@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -258,7 +258,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the course of doing business, insurers purchase tangible property such as office furniture, office supplies, telephones, and computers. Therefore, a portion of an insurer’s operations is governed by Article 2 of the UCC, which pertains to contracts for the sale of goods. By <span class=\"keyterm\" tabindex=\"0\" role=\"button\">sale of goods</span>, we mean the transfer of ownership of tangible personal property in exchange for some other property, money, or services."
                     },
                     {
-                        "Paragraph_txt": "In the United States, Article 2 of the UCC governs contracts for the sale of goods, but it does <em>not</em> apply to contracts involving the sale of services, real estate, or intangible property (such as stock certificates, bonds, or insurance policies). The sale of such property is governed by general contract law principles, other articles of the UCC, or other state and federal laws. Under Article 2, parties generally are free to contract on whatever terms they choose and in whatever manner they choose. However, the UCC does provide some limits. For example, the courts will not enforce contract terms that are grossly unfair or one-sided."
+                        "Paragraph_txt": "<br />In the United States, Article 2 of the UCC governs contracts for the sale of goods, but it does <em>not</em> apply to contracts involving the sale of services, real estate, or intangible property (such as stock certificates, bonds, or insurance policies). The sale of such property is governed by general contract law principles, other articles of the UCC, or other state and federal laws. Under Article 2, parties generally are free to contract on whatever terms they choose and in whatever manner they choose. However, the UCC does provide some limits. For example, the courts will not enforce contract terms that are grossly unfair or one-sided."
                     }
                 ]
             }

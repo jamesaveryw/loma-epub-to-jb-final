@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -234,10 +234,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "An agent who acts in a fiduciary capacity owes a duty of undivided loyalty and good faith to the principal. This duty requires an agent acting within the scope of his authority to act primarily for the principal’s benefit. The agent, therefore, must put the interests of the principal above all other interests, including the agent’s own interests."
                     },
                     {
-                        "Paragraph_txt": "An agent’s duty of loyalty and good faith requires the agent to provide the principal with all material information that relates to the principal’s business. In addition, an agent may not engage in any business that interferes with or competes with the principal’s business. In some circumstances, however, an agent may have a financial interest in a transaction that involves the principal. In such a case, the agent has a duty to fully disclose all material facts to the principal. The agent may deal on his own behalf in such a transaction only when the principal, with full knowledge of the material facts, consents to the transaction."
+                        "Paragraph_txt": "<br />An agent’s duty of loyalty and good faith requires the agent to provide the principal with all material information that relates to the principal’s business. In addition, an agent may not engage in any business that interferes with or competes with the principal’s business. In some circumstances, however, an agent may have a financial interest in a transaction that involves the principal. In such a case, the agent has a duty to fully disclose all material facts to the principal. The agent may deal on his own behalf in such a transaction only when the principal, with full knowledge of the material facts, consents to the transaction."
                     },
                     {
-                        "Paragraph_txt": "The duty of loyalty and good faith prohibits an agent from making secret profits from the agency relationship. An agent also may not receive secret commissions or other undisclosed payments from third parties. An agent who receives undisclosed profits from the agency relationship must turn over those profits to the principal."
+                        "Paragraph_txt": "<br />The duty of loyalty and good faith prohibits an agent from making secret profits from the agency relationship. An agent also may not receive secret commissions or other undisclosed payments from third parties. An agent who receives undisclosed profits from the agency relationship must turn over those profits to the principal."
                     }
                 ]
             },
@@ -372,7 +372,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An agent who fails to carry out the terms of the agency agreement is in breach of the agreement. For example, if an agent exceeds his actual authority and binds the principal to a contract with a third party, the agent has breached the agency agreement. Similarly, if an agent fails to carry out a fiduciary duty owed to the principal, the principal generally may consider the failure to be a breach of the agency agreement."
                     },
                     {
-                        "Paragraph_txt": "An agent’s breach of the agency agreement provides the principal with legal justification for terminating the agency relationship. In addition, such a breach gives the principal the right to recover damages for the losses that resulted from the breach."
+                        "Paragraph_txt": "<br />An agent’s breach of the agency agreement provides the principal with legal justification for terminating the agency relationship. In addition, such a breach gives the principal the right to recover damages for the losses that resulted from the breach."
                     }
                 ]
             }

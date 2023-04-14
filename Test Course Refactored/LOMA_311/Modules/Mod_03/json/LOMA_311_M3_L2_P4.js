@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -917,10 +917,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we saw in Chapter 7, a number of FINRA rules apply to variable life insurance and variable annuities. In addition to these federal rules, the states also regulate suitability."
                     },
                     {
-                        "Paragraph_txt": "Most states have laws or regulations based on the NAIC<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Variable Life Insurance Model Regulation</span>. This model regulation sets the qualifications an insurer must meet and the requirements variable life insurance policies must meet before the insurer can market these policies in the state. The regulation also requires the insurer to specify the standards of suitability it will follow when selling variable life insurance."
+                        "Paragraph_txt": "<br />Most states have laws or regulations based on the NAIC<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Variable Life Insurance Model Regulation</span>. This model regulation sets the qualifications an insurer must meet and the requirements variable life insurance policies must meet before the insurer can market these policies in the state. The regulation also requires the insurer to specify the standards of suitability it will follow when selling variable life insurance."
                     },
                     {
-                        "Paragraph_txt": "Many states have regulations based on the NAIC<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Suitability in Annuity Transactions Model Regulation</span>. This model regulation sets standards and procedures that apply to annuity recommendations to consumers. Before a consumer purchases or exchanges an annuity, the insurer or insurance agent must make reasonable efforts to obtain information about the consumer’s financial status, tax status, investment objectives, and any other relevant information to be used for making recommendations that are suitable for the consumer. In addition, an insurer must have a system to supervise recommendations to ensure that the insurance needs and financial objectives of consumers are met."
+                        "Paragraph_txt": "<br />Many states have regulations based on the NAIC<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Suitability in Annuity Transactions Model Regulation</span>. This model regulation sets standards and procedures that apply to annuity recommendations to consumers. Before a consumer purchases or exchanges an annuity, the insurer or insurance agent must make reasonable efforts to obtain information about the consumer’s financial status, tax status, investment objectives, and any other relevant information to be used for making recommendations that are suitable for the consumer. In addition, an insurer must have a system to supervise recommendations to ensure that the insurance needs and financial objectives of consumers are met."
                     }
                 ]
             },

@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,19 +145,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "For regulatory purposes, annuities are treated as a form of life insurance, and they have some of the same characteristics of life insurance. Like a life insurance policy, an annuity contract is intangible personal property that consists of a bundle of property rights. Most of those property rights vest in the contract owner when the contract is issued. The specific rights that a contract owner has depend on the terms of the annuity contract."
                     },
                     {
-                        "Paragraph_txt": "The owner of an annuity has the right to designate the payee who will receive the periodic income payments. The owner also has the right to decide when those payments will begin. Annuities include a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">payout options provision</span> or <em>settlement options provision</em> that identifies each of the payout options from which the contract owner may select."
+                        "Paragraph_txt": "<br />The owner of an annuity has the right to designate the payee who will receive the periodic income payments. The owner also has the right to decide when those payments will begin. Annuities include a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">payout options provision</span> or <em>settlement options provision</em> that identifies each of the payout options from which the contract owner may select."
                     },
                     {
-                        "Paragraph_txt": "The owner of a deferred annuity has additional ownership rights that exist during the contract’s accumulation period. State insurance laws require deferred annuities to provide nonforfeiture values. During the accumulation period, the contract owner has the right to withdraw all or part of the annuity’s accumulated value. The contract owner also has the right to surrender the annuity for its cash surrender value."
+                        "Paragraph_txt": "<br />The owner of a deferred annuity has additional ownership rights that exist during the contract’s accumulation period. State insurance laws require deferred annuities to provide nonforfeiture values. During the accumulation period, the contract owner has the right to withdraw all or part of the annuity’s accumulated value. The contract owner also has the right to surrender the annuity for its cash surrender value."
                     },
                     {
-                        "Paragraph_txt": "Deferred annuities typically provide a death benefit, known as a <em>survivor benefit</em>, that is payable to a beneficiary named by the contract owner. The survivor benefit is a determinable amount that is payable if the contract owner dies during the contract’s accumulation period. Unless the beneficiary is an irrevocable beneficiary, the contract owner has the right to change the beneficiary designation at any time during the accumulation period. At the contract’s maturity date, survivor benefits are no longer payable, and any rights the designated beneficiary had in the contract end."
+                        "Paragraph_txt": "<br />Deferred annuities typically provide a death benefit, known as a <em>survivor benefit</em>, that is payable to a beneficiary named by the contract owner. The survivor benefit is a determinable amount that is payable if the contract owner dies during the contract’s accumulation period. Unless the beneficiary is an irrevocable beneficiary, the contract owner has the right to change the beneficiary designation at any time during the accumulation period. At the contract’s maturity date, survivor benefits are no longer payable, and any rights the designated beneficiary had in the contract end."
                     },
                     {
-                        "Paragraph_txt": "The owner of an annuity may have the right to transfer ownership of the contract by means of an assignment. Whether the contract owner has that right depends on whether the annuity qualifies as an individual retirement arrangement. As we saw in Chapter 7, an <em>individual retirement arrangement (IRA)</em> is a retirement savings plan that allows individuals with taxable compensation to deposit a stated amount of that income into a savings arrangement that meets certain requirements specified in the federal tax laws and, thus, receives favorable tax treatment. An individual retirement arrangement may take one of two forms: an individual retirement account, or an individual retirement annuity."
+                        "Paragraph_txt": "<br />The owner of an annuity may have the right to transfer ownership of the contract by means of an assignment. Whether the contract owner has that right depends on whether the annuity qualifies as an individual retirement arrangement. As we saw in Chapter 7, an <em>individual retirement arrangement (IRA)</em> is a retirement savings plan that allows individuals with taxable compensation to deposit a stated amount of that income into a savings arrangement that meets certain requirements specified in the federal tax laws and, thus, receives favorable tax treatment. An individual retirement arrangement may take one of two forms: an individual retirement account, or an individual retirement annuity."
                     },
                     {
-                        "Paragraph_txt": "To satisfy federal tax law requirements, an individual retirement annuity must be nontransferable by the contract owner. Thus, the contract owner cannot assign her interest in the contract, and individual retirement annuity contracts must contain a provision that spells out this limitation. We describe assignments in Chapter 12."
+                        "Paragraph_txt": "<br />To satisfy federal tax law requirements, an individual retirement annuity must be nontransferable by the contract owner. Thus, the contract owner cannot assign her interest in the contract, and individual retirement annuity contracts must contain a provision that spells out this limitation. We describe assignments in Chapter 12."
                     }
                 ]
             },

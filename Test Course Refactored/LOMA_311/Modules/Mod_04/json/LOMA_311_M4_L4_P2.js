@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -269,7 +269,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Note, however, that once a contract ends, the parties may no longer contest the validity of that contract. For example, after policy proceeds have been paid, the policy ends and the insurer can no longer contest it."
                     },
                     {
-                        "Paragraph_txt": "Not every court action involving a life insurance policy is a policy contest. Sometimes, an insurer denies a claim or takes an action for a reason other than a challenge of a contract’s validity. For instance, an insurer may deny a claim because the insured died as a result of a cause that the policy excludes from coverage. When an insurer denies a claim based on a provision in the life insurance policy, the insurer is performing the contract according to the terms of the policy. Because such an action acknowledges the validity of the contract, it is not a policy contest. We discuss performance of contracts in more detail in Chapter 14. The following exercise illustrates the difference between performing and contesting a life insurance policy.&nbsp;"
+                        "Paragraph_txt": "<br />Not every court action involving a life insurance policy is a policy contest. Sometimes, an insurer denies a claim or takes an action for a reason other than a challenge of a contract’s validity. For instance, an insurer may deny a claim because the insured died as a result of a cause that the policy excludes from coverage. When an insurer denies a claim based on a provision in the life insurance policy, the insurer is performing the contract according to the terms of the policy. Because such an action acknowledges the validity of the contract, it is not a policy contest. We discuss performance of contracts in more detail in Chapter 14. The following exercise illustrates the difference between performing and contesting a life insurance policy.&nbsp;"
                     }
                 ]
             },
@@ -441,7 +441,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "&nbsp;"
+                        "Paragraph_txt": "<br />&nbsp;"
                     }
                 ]
             }

@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -326,7 +326,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A real estate agent (the agent) representing a home seller (the principal) has <em>express authority</em> per a sales agreement to sell the person’s home. The real estate agent has <em>implied authority</em> to speak to interested parties on behalf of the seller."
                     },
                     {
-                        "Paragraph_txt": "An insurance agent (the agent) has <em>express authority</em> per an agency agreement with an insurer (the principal) to solicit life insurance applications. The agent has <em>implied authority</em> to telephone potential applicants on behalf of the insurer to arrange sales appointments."
+                        "Paragraph_txt": "<br />An insurance agent (the agent) has <em>express authority</em> per an agency agreement with an insurer (the principal) to solicit life insurance applications. The agent has <em>implied authority</em> to telephone potential applicants on behalf of the insurer to arrange sales appointments."
                     }
                 ]
             },
@@ -389,13 +389,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "As a general rule, a principal may do anything through an agent that the principal can legally do for himself. Some acts, however, are of such a personal nature that they cannot be delegated to an agent. For example, an individual cannot make a statement under oath through an agent. The law requires individuals to perform such an act themselves."
                     },
                     {
-                        "Paragraph_txt": "The scope of an agent’s actual authority is a question of fact. The courts typically use an objective test to determine the scope of that authority. In applying this objective test, the trier of fact must determine what authority a reasonable person in the position of the agent would understand the principal to have conferred on the agent."
+                        "Paragraph_txt": "<br />The scope of an agent’s actual authority is a question of fact. The courts typically use an objective test to determine the scope of that authority. In applying this objective test, the trier of fact must determine what authority a reasonable person in the position of the agent would understand the principal to have conferred on the agent."
                     },
                     {
-                        "Paragraph_txt": "No formalities are required to create an agency relationship. The parties generally may consent either orally or in writing. Some agency agreements, however, must be in writing to be enforceable. For example, the Statute of Frauds requires an agency agreement that is to last for more than one year to be in writing in order to be enforceable by the courts."
+                        "Paragraph_txt": "<br />No formalities are required to create an agency relationship. The parties generally may consent either orally or in writing. Some agency agreements, however, must be in writing to be enforceable. For example, the Statute of Frauds requires an agency agreement that is to last for more than one year to be in writing in order to be enforceable by the courts."
                     },
                     {
-                        "Paragraph_txt": "We discuss the agency agreement between insurers and insurance agents in Chapter 10."
+                        "Paragraph_txt": "<br />We discuss the agency agreement between insurers and insurance agents in Chapter 10."
                     }
                 ]
             },
@@ -431,7 +431,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When an agent acts within the scope of her authority, the agent’s acts typically are considered to be the acts of the principal. Likewise, when an agent, acting within the scope of her authority, enters into a contract, the contract is binding on the principal."
                     },
                     {
-                        "Paragraph_txt": "Another basic rule of agency law is that knowledge of the agent is knowledge of the principal. In other words, while the agent is carrying out the principal’s business, any knowledge the agent gains typically is considered knowledge the principal has gained as well. The principal is deemed to have this information regardless of whether the agent actually communicates it to the principal."
+                        "Paragraph_txt": "<br />Another basic rule of agency law is that knowledge of the agent is knowledge of the principal. In other words, while the agent is carrying out the principal’s business, any knowledge the agent gains typically is considered knowledge the principal has gained as well. The principal is deemed to have this information regardless of whether the agent actually communicates it to the principal."
                     }
                 ]
             },

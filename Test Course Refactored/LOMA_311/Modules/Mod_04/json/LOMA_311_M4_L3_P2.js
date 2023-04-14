@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +178,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In general, the owner of any personal property may give away or sell his ownership rights in the property by assigning the rights to another. Similarly, a property owner can, by means of an assignment, pledge his rights in personal property as security for a debt."
                     },
                     {
-                        "Paragraph_txt": "Two methods of transferring life insurance policy ownership rights during the lifetime of the insured are through an absolute assignment and a collateral assignment. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">absolute assignment</span> is the irrevocable transfer to another of all of a policyowner’s ownership rights in a life insurance policy."
+                        "Paragraph_txt": "<br />Two methods of transferring life insurance policy ownership rights during the lifetime of the insured are through an absolute assignment and a collateral assignment. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">absolute assignment</span> is the irrevocable transfer to another of all of a policyowner’s ownership rights in a life insurance policy."
                     }
                 ]
             },
@@ -492,7 +492,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In practice, assignees do not exercise these rights unless the assignor fails to repay the loan as required. Collateral assignments usually state that the policyowner retains the right to designate and change the policy beneficiary and the right to select a settlement option."
                     },
                     {
-                        "Paragraph_txt": "A collateral assignment agreement typically does not require the collateral assignee to pay the policy’s renewal premiums. If the assignee does pay such premiums, however, the assignee has the right to recover the amount paid from the policy proceeds. Thus, the amount of premiums the assignee pays is in effect added to the debt the policyowner owes the assignee."
+                        "Paragraph_txt": "<br />A collateral assignment agreement typically does not require the collateral assignee to pay the policy’s renewal premiums. If the assignee does pay such premiums, however, the assignee has the right to recover the amount paid from the policy proceeds. Thus, the amount of premiums the assignee pays is in effect added to the debt the policyowner owes the assignee."
                     }
                 ]
             },
@@ -615,7 +615,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "According to conflict of laws rules, the validity and effect of an assignment agreement are governed by the laws of the state in which the assignment was made—that is, where the assignor signed the assignment agreement. As in the case of other contractual agreements, the parties to an assignment must have contractual capacity for the agreement to be valid and binding on the parties."
                     },
                     {
-                        "Paragraph_txt": "As discussed in Chapter 4, the parties to an assignment contract may include a choice of laws provision in the contract to decide which state’s laws govern their agreement. Life insurance policies, assignments, and other contracts usually specify which laws govern the agreement. If a contract does not specify which laws govern its execution, a court can apply conflict of laws rules."
+                        "Paragraph_txt": "<br />As discussed in Chapter 4, the parties to an assignment contract may include a choice of laws provision in the contract to decide which state’s laws govern their agreement. Life insurance policies, assignments, and other contracts usually specify which laws govern the agreement. If a contract does not specify which laws govern its execution, a court can apply conflict of laws rules."
                     }
                 ]
             },
@@ -651,16 +651,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "When a policyowner assigns his life insurance policy, the rights of the policy beneficiary vary depending on the type of assignment and on whether the beneficiary is revocable or irrevocable."
                     },
                     {
-                        "Paragraph_txt": "When a policy that has a <em>revocable beneficiary</em> is absolutely assigned, courts’ decisions concerning the beneficiary designation vary. Some courts hold that the absolute assignment of a policy revokes the beneficiary designation. Other courts have found that the designation remains in effect, but the absolute assignee has the right to change the designation."
+                        "Paragraph_txt": "<br />When a policy that has a <em>revocable beneficiary</em> is absolutely assigned, courts’ decisions concerning the beneficiary designation vary. Some courts hold that the absolute assignment of a policy revokes the beneficiary designation. Other courts have found that the designation remains in effect, but the absolute assignee has the right to change the designation."
                     },
                     {
-                        "Paragraph_txt": "Because a revocable beneficiary has no legal interest or involvement in a policy during the insured’s lifetime, the collateral assignee’s rights in the policy are superior to the beneficiary’s rights. Thus, the collateral assignee is entitled to be repaid from the policy proceeds even if the revocable beneficiary did not consent to the arrangement."
+                        "Paragraph_txt": "<br />Because a revocable beneficiary has no legal interest or involvement in a policy during the insured’s lifetime, the collateral assignee’s rights in the policy are superior to the beneficiary’s rights. Thus, the collateral assignee is entitled to be repaid from the policy proceeds even if the revocable beneficiary did not consent to the arrangement."
                     },
                     {
-                        "Paragraph_txt": "By comparison, an <em>irrevocable beneficiary</em>’s vested interest in a life insurance policy cannot be revoked without the beneficiary’s consent. According to the terms of most policies, when a beneficiary is designated irrevocably, the policyowner cannot transfer ownership of the policy without obtaining the beneficiary’s consent."
+                        "Paragraph_txt": "<br />By comparison, an <em>irrevocable beneficiary</em>’s vested interest in a life insurance policy cannot be revoked without the beneficiary’s consent. According to the terms of most policies, when a beneficiary is designated irrevocably, the policyowner cannot transfer ownership of the policy without obtaining the beneficiary’s consent."
                     },
                     {
-                        "Paragraph_txt": "When a policy that has an irrevocable beneficiary is absolutely assigned, the beneficiary remains the irrevocable beneficiary unless she consents to a change of beneficiary. In addition, the assignee cannot take out a policy loan or surrender the policy for cash without the irrevocable beneficiary’s consent. The following insight shows two examples of a beneficiary’s rights in collateral assignments."
+                        "Paragraph_txt": "<br />When a policy that has an irrevocable beneficiary is absolutely assigned, the beneficiary remains the irrevocable beneficiary unless she consents to a change of beneficiary. In addition, the assignee cannot take out a policy loan or surrender the policy for cash without the irrevocable beneficiary’s consent. The following insight shows two examples of a beneficiary’s rights in collateral assignments."
                     }
                 ]
             },
@@ -723,13 +723,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example 1.</strong> Mitsumi Kayano owned a $120,000 policy insuring her life. Her husband was the irrevocable beneficiary. Ms. Kayano borrowed $20,000 from her brother, Jiro, and collaterally signed the policy to Jiro as security for the loan. A week later, Ms. Kayano died without having told her husband about the assignment."
                     },
                     {
-                        "Paragraph_txt": "Because Mr. Kayano was the policy’s irrevocable beneficiary, his vested interest in the policy proceeds could not be assigned without his consent. Mr. Kayano did not consent to the assignment, and thus the $120,000 policy proceeds are payable to Mr. Kayano."
+                        "Paragraph_txt": "<br />Because Mr. Kayano was the policy’s irrevocable beneficiary, his vested interest in the policy proceeds could not be assigned without his consent. Mr. Kayano did not consent to the assignment, and thus the $120,000 policy proceeds are payable to Mr. Kayano."
                     },
                     {
-                        "Paragraph_txt": "<strong>Example 2.</strong> Karl Vogel purchased a $120,000 policy insuring his life and named his wife as the revocable beneficiary. He collaterally assigned the policy to Incipient Bank as security for a $40,000 loan without obtaining his wife’s consent. When Mr. Vogel died, he owed the bank $10,000."
+                        "Paragraph_txt": "<br /><strong>Example 2.</strong> Karl Vogel purchased a $120,000 policy insuring his life and named his wife as the revocable beneficiary. He collaterally assigned the policy to Incipient Bank as security for a $40,000 loan without obtaining his wife’s consent. When Mr. Vogel died, he owed the bank $10,000."
                     },
                     {
-                        "Paragraph_txt": "Because Mrs. Vogel was the policy’s revocable beneficiary, her husband was not required to obtain her consent to the collateral assignment. As a result, Incipient Bank is entitled to receive $10,000 of the policy proceeds, and the remaining $110,000 is payable to Mrs. Vogel."
+                        "Paragraph_txt": "<br />Because Mrs. Vogel was the policy’s revocable beneficiary, her husband was not required to obtain her consent to the collateral assignment. As a result, Incipient Bank is entitled to receive $10,000 of the policy proceeds, and the remaining $110,000 is payable to Mrs. Vogel."
                     }
                 ]
             },
@@ -792,10 +792,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because an owner’s right to assign her property is granted by general property law, an insurer is not required to give policyowners notice of their right to assign their policies. Most individual life insurance policies, however, do include an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">assignment provision</span>, which describes the roles of the insurer and the policyowner when the policy is assigned. Policies typically state that an assignment is not binding on the insurer unless the insurer is notified in writing of the assignment. Consider, for example, a situation in which a policyowner assigns the policy but does not provide written notice of this assignment to the insurer. If the insured dies, the insurer will pay the policy proceeds to the designated beneficiary in accordance with the terms of the policy. Because the insurer did not know of the assignment and paid the policy proceeds in good faith, the insurer would have no further liability under the policy, and the assignee will not be able to enforce a claim against the insurer."
                     },
                     {
-                        "Paragraph_txt": "The typical assignment provision in individual life insurance policies states that the insurer is not responsible for verifying the validity of an assignment of the policy. The insurer is not a party to an assignment and has no control over the validity of such an agreement. If the insurer has received a valid written notice of an assignment, then the insurer usually presumes that the assignment is valid. The insurer typically cannot be held liable if it acts in good faith and in accordance with an assignment that is later declared invalid. In other words, if an insurer pays policy proceeds to an assignee who appears entitled to the proceeds, but the assignment is subsequently determined to be invalid, then the insurer cannot be required to pay the proceeds again to the person who was in fact entitled to them. However, if the insurer had knowledge of circumstances that should have made it question the validity of an assignment, then the insurer may be liable if it acts in accordance with an invalid assignment."
+                        "Paragraph_txt": "<br />The typical assignment provision in individual life insurance policies states that the insurer is not responsible for verifying the validity of an assignment of the policy. The insurer is not a party to an assignment and has no control over the validity of such an agreement. If the insurer has received a valid written notice of an assignment, then the insurer usually presumes that the assignment is valid. The insurer typically cannot be held liable if it acts in good faith and in accordance with an assignment that is later declared invalid. In other words, if an insurer pays policy proceeds to an assignee who appears entitled to the proceeds, but the assignment is subsequently determined to be invalid, then the insurer cannot be required to pay the proceeds again to the person who was in fact entitled to them. However, if the insurer had knowledge of circumstances that should have made it question the validity of an assignment, then the insurer may be liable if it acts in accordance with an invalid assignment."
                     },
                     {
-                        "Paragraph_txt": "Assignment provisions also usually state that the rights of the insurer take precedence over the rights of an assignee with regard to the policy proceeds. Such a statement highlights the fact that an assignee cannot receive an amount greater than the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">net policy proceeds</span>—that is, the amount of the proceeds remaining after any overdue premiums and any outstanding policy loans and interest have been deducted. An insurer is never obligated to pay any claimant an amount greater than the net policy proceeds, regardless of whether this fact is explained in the policy."
+                        "Paragraph_txt": "<br />Assignment provisions also usually state that the rights of the insurer take precedence over the rights of an assignee with regard to the policy proceeds. Such a statement highlights the fact that an assignee cannot receive an amount greater than the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">net policy proceeds</span>—that is, the amount of the proceeds remaining after any overdue premiums and any outstanding policy loans and interest have been deducted. An insurer is never obligated to pay any claimant an amount greater than the net policy proceeds, regardless of whether this fact is explained in the policy."
                     }
                 ]
             },
@@ -891,10 +891,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Samir Murad owned a $100,000 policy on his life. He assigned the policy to Hummingbird Bank as security for a $75,000 loan, and then later assigned the same policy to Butterfly Bank as security for a second $75,000 loan. Although both banks notified the insurer of their assignments, Butterfly notified the insurer before Hummingbird did. When Mr. Murad died he had not repaid either loan, and he owed each bank $70,000."
                     },
                     {
-                        "Paragraph_txt": "In states that follow what is known as the <em>American rule</em>, the <strong>first assignment </strong>has priority over a later assignment. In this example, Hummingbird Bank would have the superior claim and be entitled to $70,000 of the policy proceeds. The remaining $30,000 is payable to Butterfly Bank."
+                        "Paragraph_txt": "<br />In states that follow what is known as the <em>American rule</em>, the <strong>first assignment </strong>has priority over a later assignment. In this example, Hummingbird Bank would have the superior claim and be entitled to $70,000 of the policy proceeds. The remaining $30,000 is payable to Butterfly Bank."
                     },
                     {
-                        "Paragraph_txt": "In states that follow what is known as the <em>English rule</em>, the <strong>first assignee to notify the insurer of its assignment </strong>has priority over other assignees. In this example, Butterfly would have the superior claim and be entitled to $70,000 of the policy proceeds. The remaining $30,000 is payable to Hummingbird."
+                        "Paragraph_txt": "<br />In states that follow what is known as the <em>English rule</em>, the <strong>first assignee to notify the insurer of its assignment </strong>has priority over other assignees. In this example, Butterfly would have the superior claim and be entitled to $70,000 of the policy proceeds. The remaining $30,000 is payable to Hummingbird."
                     }
                 ]
             },
@@ -957,7 +957,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Many individual life insurance policies issued in the United States include a provision that specifies a simple, direct method of transferring the policy’s ownership rights. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">change of ownership provision</span> permits a policyowner to transfer all operating rights by notifying the insurer in writing of the change, without having to enter into a separate assignment agreement. When the insurer records the ownership change in its files, the change generally becomes effective as of the date the policyowner signed the written notification."
                     },
                     {
-                        "Paragraph_txt": "The change of ownership provision typically gives the insurer the right to require a specific endorsement. In such a case, the policyowner must send the policy to the insurer, which adds an endorsement to the policy stating the name of the new owner. As in the case of a beneficiary change that must be endorsed on a policy, many courts apply the substantial compliance rule to situations in which an ownership change must be endorsed in the policy. If a policyowner has done everything possible to comply with the ownership change procedure set forth in the policy but has failed because of circumstances beyond her control, then such courts would consider the change to be effective."
+                        "Paragraph_txt": "<br />The change of ownership provision typically gives the insurer the right to require a specific endorsement. In such a case, the policyowner must send the policy to the insurer, which adds an endorsement to the policy stating the name of the new owner. As in the case of a beneficiary change that must be endorsed on a policy, many courts apply the substantial compliance rule to situations in which an ownership change must be endorsed in the policy. If a policyowner has done everything possible to comply with the ownership change procedure set forth in the policy but has failed because of circumstances beyond her control, then such courts would consider the change to be effective."
                     }
                 ]
             },
@@ -1133,13 +1133,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, the legal basis for the viatical settlement was established in a 1911 case in which a terminally ill patient sold his life insurance policy to his physician so that he could afford a surgical procedure. <span class=\"ens\" id=\"loma311-ch12-span-12\"> <span class=\"endnote hidden\" data-note=\"loma311-ch12-en1\" epub:type=\"noteref\" id=\"loma311-ch12-span-13\" role=\"doc-noteref\">1</span> </span>The Supreme Court ruled that the owner of a life policy should possess the right to sell the policy, as with other forms of property, to avoid diminishing the value of the contract. "
                     },
                     {
-                        "Paragraph_txt": "Viatical settlements became more common during the AIDS epidemic of the 1980s. The typical seller was younger and possessed a life insurance policy on his own life, often provided by his employer, but needed ready cash to pay for medical procedures such as experimental drug therapy. Gradually, viatical settlements became less common for AIDS and HIV patients as life expectancies increased. The introduction of accelerated death benefits also offered another option for terminally or chronically ill policyowners."
+                        "Paragraph_txt": "<br />Viatical settlements became more common during the AIDS epidemic of the 1980s. The typical seller was younger and possessed a life insurance policy on his own life, often provided by his employer, but needed ready cash to pay for medical procedures such as experimental drug therapy. Gradually, viatical settlements became less common for AIDS and HIV patients as life expectancies increased. The introduction of accelerated death benefits also offered another option for terminally or chronically ill policyowners."
                     },
                     {
-                        "Paragraph_txt": "The secondary market for life insurance has increased its focus on policyowners who are over 65 years of age, of high net worth, and who suffer from health impairments but are not necessarily terminally ill. Thus, many viatical settlement companies seek to purchase both viatical settlements and life settlements."
+                        "Paragraph_txt": "<br />The secondary market for life insurance has increased its focus on policyowners who are over 65 years of age, of high net worth, and who suffer from health impairments but are not necessarily terminally ill. Thus, many viatical settlement companies seek to purchase both viatical settlements and life settlements."
                     },
                     {
-                        "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
+                        "Paragraph_txt": "<br /><a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
                     }
                 ]
             },

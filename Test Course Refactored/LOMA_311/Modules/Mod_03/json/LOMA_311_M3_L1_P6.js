@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -234,13 +234,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Solvency regulation—often called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">prudential regulation</span>—is the primary focus in most countries. These countries impose minimum capital requirements as a prerequisite to obtaining a license to conduct insurance business. Regulators deny a license to any company that is financially unsound."
                     },
                     {
-                        "Paragraph_txt": "Regulators in most countries monitor and assess the solvency of all licensed insurers on an ongoing basis. Regulators require each life insurer to file periodic financial reports which are analyzed to assess the insurer’s solvency. Many countries require each life insurer to have an appointed actuary, who has specified qualifications and who is responsible for making sure that the insurer’s operations are financially sound. Most countries establish continuing minimum capital requirements. They also impose some type of restrictions on insurers’ investments."
+                        "Paragraph_txt": "<br />Regulators in most countries monitor and assess the solvency of all licensed insurers on an ongoing basis. Regulators require each life insurer to file periodic financial reports which are analyzed to assess the insurer’s solvency. Many countries require each life insurer to have an appointed actuary, who has specified qualifications and who is responsible for making sure that the insurer’s operations are financially sound. Most countries establish continuing minimum capital requirements. They also impose some type of restrictions on insurers’ investments."
                     },
                     {
-                        "Paragraph_txt": "As a general rule, when an insurer’s financial results fail to meet minimum requirements, regulators have the authority to intervene in the insurer’s operations. The actions that regulators may take vary by country. However, in those cases in which an insurer’s solvency cannot be restored, countries typically have procedures to liquidate the company. In all cases, the primary regulatory goal is to protect policyowner interests."
+                        "Paragraph_txt": "<br />As a general rule, when an insurer’s financial results fail to meet minimum requirements, regulators have the authority to intervene in the insurer’s operations. The actions that regulators may take vary by country. However, in those cases in which an insurer’s solvency cannot be restored, countries typically have procedures to liquidate the company. In all cases, the primary regulatory goal is to protect policyowner interests."
                     },
                     {
-                        "Paragraph_txt": "A number of countries have implemented reforms to address solvency concerns and the possibility of systemic risk. Video 7.2 provides an example of regulatory reform in China."
+                        "Paragraph_txt": "<br />A number of countries have implemented reforms to address solvency concerns and the possibility of systemic risk. Video 7.2 provides an example of regulatory reform in China."
                     }
                 ]
             },
