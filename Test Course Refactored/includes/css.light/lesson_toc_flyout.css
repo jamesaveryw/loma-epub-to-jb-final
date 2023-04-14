@@ -1,0 +1,23 @@
+#toc_fMenu {
+    margin-top: 100px;
+}
+#flyout_scroll {
+    overflow: hidden;
+    overflow-y: auto;
+}
+.fo_pgTitle {
+    display: inline-block;
+    max-width: 20ch;
+}
+.pg_complete {
+    float: right;
+    margin-right: 4px;
+    width: 20px;  
+}
+.toc_fly_buttons:focus {
+    border: solid black 3px;
+    outline: none;
+}
+.toc_fly_buttons:focus .pg_complete {
+    margin-right: 2px;
+}

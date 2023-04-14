@@ -1,0 +1,1747 @@
+<!--?xml version='1.0' encoding='UTF-8'?-->
+<!DOCTYPE html>
+<html xml:lang="en-us" lang="en-us" xmlns="http://www.w3.org/1999/xhtml"
+xmlns:epub="http://www.idpf.org/2007/ops">
+    
+    <head>
+        <link rel="stylesheet" type="text/css" href="../../css/base.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/base.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/kotobeeInteractive.css"
+        />
+        <link rel="stylesheet" type="text/css" href="../../css/reset.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/fonts.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/global.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/video-player.css"
+        />
+        <link rel="stylesheet" type="text/css" href="../../css/ibooks.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/ibooks-alt.css"
+        />
+        <script type="text/javascript" src="../../js/kotobeeInteractive.js"></script>
+        <script type="text/javascript" src="../../js/global.js"></script>
+        <title>Statistical Analysis</title>
+        <meta charset="utf-8" />
+    <meta name="kotobee-chapter" content="chapter8\page3.xhtml" />
+<meta name="kotobee-book" content="urn:uuid:bf952145-0ac0-c2a3-a4db-ea230708a7bb" />
+</head>
+    
+    <body onload="ready()">
+        <section class="section" epub:type="part" id="loma335-ch8-section-3" role="doc-part">
+            <img class="hidden-logo" src="../../imgs/loma.png" alt="" />
+            <h2 epub:type="title" id="loma335-ch8-h2-4">Statistical Analysis</h2>
+            <p class="txt-ni" id="loma335-ch8-p-18"><span class="gt" data-term="ch8-gt-statisticalanalysis" epub:type="glossref"
+                id="loma335-ch8-span-6" role="doc-glossref">Statistical analysis</span> is
+                the use of mathematical techniques for collecting, organizing, describing,
+                analyzing, and interpreting numerical data—called <em>statistics</em>—to
+                support decisions. Statistical analysis helps decision makers condense
+                large amounts of data into information that’s manageable enough to guide
+                decisions. Decision makers can use two types of statistical analysis to
+                draw conclusions: descriptive statistics and inferential statistics.</p>
+            <div
+            class="clearfix" id="loma335-ch8-div-8">&#160;</div>
+                <h3 id="loma335-ch8-h3-1">Descriptive Statistics</h3>
+                <p class="txt-ni" id="loma335-ch8-p-19">A <span class="gt" data-term="ch8-gt-population" epub:type="glossref" id="loma335-ch8-span-7"
+                    role="doc-glossref">population </span>is a set of all items that share
+                    a specified characteristic. In statistics, a population can include any
+                    number of quantifiable items that a researcher has defined for observation,
+                    such as people, objects, events, measurements, and ratings. Populations
+                    can vary in level of specificity depending on the goal of the researcher.
+                    In our survey example, the population includes every customer’s numerical
+                    rating for each question of the customer satisfaction survey.</p>
+                <div class="example" id="loma335-ch8-div-18">
+                    <p class="example-header" id="loma335-ch8-p-34">EXAMPLES</p>
+                    <div class="inner" id="loma335-ch8-div-19">
+                        <div>
+                            <p class="fig-inset" id="loma335-ch8-p-22"><strong>Populations in Statistics</strong>
+                            </p>
+                            <p class="fig-inset" id="loma335-ch8-p-23">All people in the United States
+                                <br />All customers in Region A between the ages of 40 and 60
+                                <br />All households with four or more family members
+                                <br />All life insurance claims over the past year
+                                <br />All mobile app purchases since the app’s launch
+                                <br />All mobile app purchases during the month of February
+                                <br />All answers to question #5 on a life insurance application</p>
+                        </div>
+                    </div>
+                </div>
+                <p class="txt" id="loma335-ch8-p-30">Statistics that summarize a population of data are <span class="gt" data-term="ch8-gt-descriptivestatistics"
+                    epub:type="glossref" id="loma335-ch8-span-8" role="doc-glossref">descriptive statistics</span>.
+                    Descriptive statistics use measures of central tendency and measures of
+                    dispersion.</p>
+                <div class="clearfix" id="loma335-ch8-div-10">&#160;</div>
+                <h4 id="loma335-ch8-h4-1">Measures of Central Tendency</h4>
+                <p class="txt-ni" id="loma335-ch8-p-31"><span class="gt" data-term="ch8-gt-measuresofcentraltendency" epub:type="glossref"
+                    id="loma335-ch8-span-9" role="doc-glossref">Measures of central tendency</span> are
+                    representative values that describe the values in the middle of a population.
+                    They allow decision makers to reduce large amounts of raw data into single
+                    representative values. For example, an analyst at EndiFirst could give
+                    managers the mean value for each item on the customer satisfaction survey
+                    to highlight each aspect’s overall performance. The three most common measures
+                    of central tendency are the mean, median, and mode.</p>
+                <p class="obj-txt"
+                id="loma335-ch8-p-32"><strong>Mean</strong>
+                </p>
+                <p id="loma335-ch8-p-33">The <span class="gt" data-term="ch8-gt-mean" epub:type="glossref" id="loma335-ch8-span-10"
+                    role="doc-glossref">mean</span> refers to the numerical average of a series
+                    of values. Knowing the mean value of a large number of observations can
+                    be a valuable tool. For example, knowing the mean number of claims processed
+                    in a typical month can help determine how many claim analysts an insurer
+                    needs.</p>
+                <div class="example" id="loma335-ch8-div-11">
+                    <p class="example-header" id="loma335-ch8-p-34a">EXAMPLE</p>
+                    <div class="inner" id="loma335-ch8-div-12">
+                        <p class="txt-ni" id="loma335-ch8-p-35"><strong>Mean Value of Yearly Life Claims Processed</strong>
+                        </p>
+                        <p class="txt-ni" id="loma335-ch8-p-36">Six years ago, EndiFirst expanded its offerings to a new region. Satish,
+                            the claims manager, wants to examine claims data since that time. He looks
+                            at the number of claims for each of the past six years.</p>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td style="text-align: right;"><p>Year 1:</p></td>
+                                    <td style="text-align: right;"><p>2,820</p></td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: right;"><p>Year 2:</p></td>
+                                    <td style="text-align: right;"><p>2,820</p></td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: right;"><p>Year 3:</p></td>
+                                    <td style="text-align: right;"><p>3,690</p></td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: right;"><p>Year 4:</p></td>
+                                    <td style="text-align: right;"><p>4,010</p></td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: right;"><p>Year 5:</p></td>
+                                    <td style="text-align: right;"><p>4,050</p></td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: right;"><p>Year 6:</p></td>
+                                    <td style="text-align: right;"><p>6,580</p></td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 65%;"><p><strong>Total Claims:</strong></p>
+                                    </td>
+                                    <td style="text-align: right;"><p><strong>23,970</strong></p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <p class="txt" id="loma335-ch8-p-44">To calculate the mean number of claims processed over the past six years,
+                    Satish takes the total of all claims received and divides that total by
+                    the number of years.</p>
+                <div class="example" id="loma335-ch8-div-13">
+                    <div class="inner" id="loma335-ch8-div-14">
+                        <table class="equation" id="loma335-ch8-table-1">
+                            <tbody>
+                                <tr>
+                                    <td id="loma335-ch8-td-1">Mean</td>
+                                    <td id="loma335-ch8-td-2">=</td>
+                                    <td id="loma335-ch8-td-3">Total number of claims ÷ Number of years</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="equation" id="loma335-ch8-p-45">= 23,970 ÷ 6</p>
+                        <p class="equation" id="loma335-ch8-p-46">= 3,995</p>
+                    </div>
+                </div>
+                <p class="txt" id="loma335-ch8-p-47">Although the mean is easy to calculate, its accuracy as a measure of central
+                    tendency can be limited if the population includes <span class="gt" data-term="ch8-gt-outliers"
+                    epub:type="glossref" id="loma335-ch8-span-11" role="doc-glossref">outliers</span>—extremely
+                    high or low values that are not representative of other values—like Year
+                    6, in which almost 6,600 claims were processed.</p>
+                <p class="obj-txt" id="loma335-ch8-p-48"><strong>Median</strong>
+                </p>
+                <p class="txt-ni" id="loma335-ch8-p-49">To gain insights about a dataset’s outliers, Satish might want to calculate
+                    the median. The <span class="gt" data-term="ch8-gt-median" epub:type="glossref"
+                    id="loma335-ch8-span-12" role="doc-glossref">median</span> is the middle
+                    value in a set of values arranged in numerical order. The median can describe
+                    economic characteristics, such as median family income, median household
+                    size, or median education level. The median is useful when making decisions
+                    influenced by population characteristics, such as decisions about marketing
+                    materials.</p>
+                <p class="txt" id="loma335-ch8-p-50">To find the median, (1) arrange the values in the population in numerical
+                    order, and (2) count the number of values. If the population contains an
+                    odd number of values, then the median is the middle value and has an equal
+                    number of values above and below it. If the population has an even number
+                    of values, the median is determined by calculating the average of the two
+                    middle values.</p>
+                <div class="example" id="loma335-ch8-div-15">
+                    <p class="example-header" id="loma335-ch8-p-51">EXAMPLE</p>
+                    <div class="inner" id="loma335-ch8-div-16">
+                        <p class="txt-ni" id="loma335-ch8-p-52"><strong>Median </strong>
+                        </p>
+                        <p class="txt-ni" id="loma335-ch8-p-53">Satish wants to know the median value of claims for the past six years.
+                            Note that the values in the population are already arranged in numerical
+                            order.</p>
+                        <p class="txt-ni" id="loma335-ch8-p-54">Year 1: 2,820
+                            <br />Year 2: 2,820
+                            <br /><strong>Year 3: 3,690&#160;<span style="font-family:verdana,geneva,sans-serif"></span><span style="font-family:verdana,geneva,sans-serif">◄</span><span style="font-family:verdana,geneva,sans-serif"></span><br />Year 4: 4,010&#160;◄</strong>
+                            <br
+                            />Year 5: 4,050
+                            <br />Year 6: 6,580</p>
+                        <p class="txt-ni">In this case, the population has six values—one for each year. Because
+                            six is an even number, Satish needs to find the average of the two middle
+                            values—3,690 and 4,010.</p>
+                        <p class="txt-ni">The average of these two values is 3,850 (3,690 + 4,010 = 7,700; 7,700
+                            ÷ 2 = 3,850). Therefore, the median value of the population is 3,850</p>
+                        <div>&#160;</div>
+                    </div>
+                </div>
+                <p class="txt" id="loma335-ch8-p-62">Unlike the mean, the median is not an arithmetic average of all the values
+                    in a population; it is simply the value that falls in the middle. The primary
+                    drawback of using the median as a measure of central tendency is that it
+                    ignores all the other values. If the population contains outliers or values
+                    are not evenly distributed, the median won’t accurately represent all the
+                    values.</p>
+                <p class="obj-txt" id="loma335-ch8-p-63"><strong>Mode</strong>
+                </p>
+                <p class="txt-ni" id="loma335-ch8-p-64">Sometimes it’s more helpful to know the most common value in a population
+                    rather than the mean or median value. The statistical measure that identifies
+                    the value that appears most often in a population is the <span class="gt"
+                    data-term="ch8-gt-mode" epub:type="glossref" id="loma335-ch8-span-13" role="doc-glossref">mode</span>.
+                    Finding the mode is easier with the population values listed in numerical
+                    order.</p>
+                <p class="txt" id="loma335-ch8-p-65">The mode can help to identify baseline values. For example, an insurer
+                    might want to know the most common amount of coverage its life insurance
+                    policies provide. Knowing this information could make it easier for the
+                    insurer to focus its marketing efforts on the types of products most likely
+                    to generate new business. An insurer might also want to know, for example,
+                    the most common time of day when people make claims in order to anticipate
+                    daily staffing needs.</p>
+                <p class="txt" id="loma335-ch8-p-66">Using our example, it’s easy to see that 2,820 appears more often than
+                    any other value:</p>
+                <div class="example" id="loma335-ch8-div-17">
+                    <p class="example-header" id="loma335-ch8-p-67">EXAMPLE</p>
+                    <div class="inner" id="loma335-ch8-div-18a">
+                        <p class="txt-ni" id="loma335-ch8-p-68"><strong>Mode</strong>
+                        </p>
+                        <p class="txt-ni" id="loma335-ch8-p-69"><strong>Year 1: 2,820&#160;<span style="font-family:verdana,geneva,sans-serif">◄</span><br />Year 2: 2,820&#160;<span style="font-family:verdana,geneva,sans-serif">◄</span></strong>
+                            <br
+                            />Year 3: 3,690
+                            <br />Year 4: 4,010
+                            <br />Year 5: 4,050
+                            <br />Year 6: 6,580</p>
+                    </div>
+                </div>
+                <p class="txt" id="loma335-ch8-p-75">However, the value 2,820 represents only the first two years and offers
+                    no information about the values in the middle or at the high end of the
+                    population. Therefore, this mode is not a useful measure for decision making.</p>
+                <p
+                class="txt" id="loma335-ch8-p-76">It’s possible to have no mode if no number appears more than once. It’s
+                    also possible to have more than one mode if more than one number appears
+                    at the same higher frequency (say, if three numbers appear twice, while
+                    all other numbers appear once). Too many modes or no mode at all make the
+                    mode a less useful value for decision making. Figure 8.1 provides a summary
+                    of these three measures of central tendency.</p>
+                    <figure class="figure numbered-fig"
+                    data-mwidth="max-width:2094px;" id="figure8-1">
+                        <p class="title" id="loma335-ch8-p-77"><span class="fig-num" id="loma335-ch8-span-14">Figure 8.1</span> The Three
+                            Measures of Central Tendency</p>
+                        <img alt="The Three Measures of Central Tendency"
+                        id="loma335-ch8-img-18" src="../../imgs/8-1figure.jpg" />
+                        <figcaption>
+                            <div class="img-desc hidden" id="loma335-ch8-div-19a"><span class="id-button" data-description="figure8-1" id="loma335-ch8-span-15"
+                                role="button" tabindex="0">Image Description</span>
+                            </div>
+                            <div class="static-img-desc visible" id="loma335-ch8-div-20"><a class="img-description" epub:type="noteref" href="../raw/descriptions.xhtml#figure8-1"
+                                id="loma335-ch8-a-8" role="doc-noteref">Figure 8-1 Description</a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <p class="txt" id="loma335-ch8-p-78">If Satish bases staffing decisions solely on measures of central tendency,
+                        the department would often be under- or overstaffed. Satish can reduce
+                        this risk by looking at more than one measure of central tendency or by
+                        evaluating measures of dispersion in addition to measures of central tendency.</p>
+                    <div
+                    class="clearfix" id="loma335-ch8-div-21">&#160;</div>
+                        <h4 id="loma335-ch8-h4-2">Measures of Dispersion</h4>
+                        <p class="txt-ni" id="loma335-ch8-p-79"><span class="gt" data-term="ch8-gt-measuresofdispersion" epub:type="glossref"
+                            id="loma335-ch8-span-16" role="doc-glossref">Measures of dispersion</span> are
+                            representative values that describe the distribution of data around specified
+                            central values. The three most common measures of dispersion are the range,
+                            variance, and standard deviation.</p>
+                        <p class="obj-txt" id="loma335-ch8-p-80"><strong>Range</strong>
+                        </p>
+                        <p class="txt-ni" id="loma335-ch8-p-81">The simplest measure of dispersion is the <span class="gt" data-term="ch8-gt-range"
+                            epub:type="glossref" id="loma335-ch8-span-17" role="doc-glossref">range</span>,
+                            which is the difference between the highest and lowest values in a particular
+                            population. Consider EndiFirst’s claim data. Because values in the dataset
+                            are listed in numerical order from lowest to highest, it’s easy to calculate
+                            the range: simply subtract the lowest number from the highest number.</p>
+                        <div
+                        class="example" id="loma335-ch8-div-22">
+                            <p class="example-header" id="loma335-ch8-p-82">EXAMPLE</p>
+                            <div class="inner" id="loma335-ch8-div-23">
+                                <p class="txt-ni" id="loma335-ch8-p-83"><strong>Range</strong>
+                                </p>
+                                <p class="txt-ni" id="loma335-ch8-p-84"><strong>Year 1: 2,820&#160;<span style="font-family:verdana,geneva,sans-serif">◄</span></strong>
+                                    <br
+                                    />Year 2: 2,820
+                                    <br />Year 3: 3,690
+                                    <br />Year 4: 4,010
+                                    <br />Year 5: 4,050
+                                    <br /><strong>Year 6: 6,580&#160;<span style="font-family:verdana,geneva,sans-serif">◄</span></strong>
+                                </p>
+                                <table class="equation" id="loma335-ch8-table-3">
+                                    <tbody>
+                                        <tr>
+                                            <td id="loma335-ch8-td-7">6,580
+                                                <wbr />–
+                                                <wbr />2,820</td>
+                                            <td id="loma335-ch8-td-8">=</td>
+                                            <td id="loma335-ch8-td-9">3,760</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            </div>
+                            <p class="txt" id="loma335-ch8-p-90">If Satish knows how many claims a single analyst can process each day,
+                                he could use the range to make decisions about lower and upper staffing
+                                limits. However, because the range varies considerably from year to year,
+                                even that information isn’t very helpful. In addition, it doesn’t indicate
+                                whether there are outliers or whether values are clustered at one or more
+                                points within the range. The range also doesn’t indicate data patterns.</p>
+                            <p
+                            class="obj-txt" id="loma335-ch8-p-91"><strong>Variance</strong>
+                                </p>
+                                <p class="txt-ni" id="loma335-ch8-p-92">We can use the variance to get a better understanding of how values are
+                                    dispersed. The <span class="gt" data-term="ch8-gt-variance" epub:type="glossref"
+                                    id="loma335-ch8-span-18" role="doc-glossref">variance</span> is the average
+                                    squared distance between the population mean and each individual item in
+                                    the population. Steps for finding the variance are as follows:</p>
+                                <ol class="objectives"
+                                epub:type="learning-objectives" id="loma335-ch8-ul-5">
+                                    <li epub:type="learning-objective" id="loma335-ch8-li-21">Calculate the mean.</li>
+                                    <li epub:type="learning-objective" id="loma335-ch8-li-22">Find the distance between each item of the population and the mean and
+                                        then square each distance.</li>
+                                    <li epub:type="learning-objective" id="loma335-ch8-li-23">Add all the squared values.</li>
+                                    <li epub:type="learning-objective" id="loma335-ch8-li-24">Divide the total by the number of items in the population.</li>
+                                </ol>
+                                <p class="txt" id="loma335-ch8-p-93">The results of variance calculations for these numbers are summarized
+                                    in the table below. Negative numbers in the center column indicate values
+                                    that are below the mean; positive numbers indicate values above the mean.</p>
+                                <table
+                                class="striped blue" id="loma335-ch8-table-4">
+                                    <tbody>
+                                        <tr>
+                                            <th id="loma335-ch8-td-10">
+                                                <p id="loma335-ch8-p-94" style="text-align: center;"><strong>Item Value</strong>
+                                                </p>
+                                            </th>
+                                            <th id="loma335-ch8-td-11">
+                                                <p id="loma335-ch8-p-95" style="text-align: center;"><strong>Distance from Mean</strong>
+                                                </p>
+                                            </th>
+                                            <th id="loma335-ch8-td-12">
+                                                <p id="loma335-ch8-p-96" style="text-align: center;"><strong>Squared Distance</strong>
+                                                </p>
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <td id="loma335-ch8-td-13">
+                                                <p id="loma335-ch8-p-97" style="text-align: center;">&#160; &#160; &#160;2,820</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-14">
+                                                <p id="loma335-ch8-p-98" style="text-align: center;">–1,175 (2,820 – 3,995)</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-15">
+                                                <p id="loma335-ch8-p-99" style="text-align: center;">1,380,625</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td id="loma335-ch8-td-16">
+                                                <p id="loma335-ch8-p-100" style="text-align: center;">&#160; &#160; &#160;2,820</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-17">
+                                                <p id="loma335-ch8-p-101" style="text-align: center;">–1,175 (2,820 – 3,995)</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-18">
+                                                <p id="loma335-ch8-p-102" style="text-align: center;">1,380,625</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td id="loma335-ch8-td-19">
+                                                <p id="loma335-ch8-p-103" style="text-align: center;">&#160; &#160; &#160;3,690</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-20">
+                                                <p id="loma335-ch8-p-104" style="text-align: center;">-305 (3,690 – 3,995)</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-21">
+                                                <p id="loma335-ch8-p-105" style="text-align: center;">93,025</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td id="loma335-ch8-td-22">
+                                                <p id="loma335-ch8-p-106" style="text-align: center;">&#160; &#160; &#160;4,010</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-23">
+                                                <p id="loma335-ch8-p-107" style="text-align: center;">+15 (4,010 – 3,995)</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-24">
+                                                <p id="loma335-ch8-p-108" style="text-align: center;">225</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td id="loma335-ch8-td-25">
+                                                <p id="loma335-ch8-p-109" style="text-align: center;">&#160; &#160; &#160;4,050</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-26">
+                                                <p id="loma335-ch8-p-110" style="text-align: center;">+55 (4,050 – 3,995)</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-27">
+                                                <p id="loma335-ch8-p-111" style="text-align: center;">3,025</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td id="loma335-ch8-td-28">
+                                                <p id="loma335-ch8-p-112" style="text-align: center;">&#160; &#160; &#160;6,580</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-29">
+                                                <p id="loma335-ch8-p-113" style="text-align: center;">+2,585 (6,580 – 3,995)</p>
+                                            </td>
+                                            <td id="loma335-ch8-td-30">
+                                                <p id="loma335-ch8-p-114" style="text-align: center;">6,682,225</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="3" id="loma335-ch8-td-31">
+                                                <p id="loma335-ch8-p-115" style="text-align: right;"><strong>Total of squared distances = 9,539,750</strong>
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="3" id="loma335-ch8-td-32">
+                                                <p id="loma335-ch8-p-116" style="text-align: right;"><strong>Variance (9,539,750 ÷ 6) = 1,589,958</strong>
+                                                </p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                    </table>
+                                    <div class="example" id="loma335-ch8-div-18b">
+                                        <p class="example-header" id="loma335-ch8-p-34b">EXAMPLE</p>
+                                        <div class="inner" id="loma335-ch8-div-19b">
+                                            <div>
+                                                <p class="fig-inset" id="loma335-ch4-p-18">Satish can get a picture of how claims numbers for each year relate to
+                                                    the mean and to each other. While calculating the variance, Satish discovers
+                                                    that the values range from 1,175 claims fewer than the mean to 2,585 claims
+                                                    more than the mean.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <p class="txt" id="loma335-ch8-p-121">In general, larger variances indicate that the values in a population
+                                        are further from the mean and more dispersed. Smaller variances indicate
+                                        that values in a population are closer to the mean and less dispersed.
+                                        Variance isn’t the most accurate measure of dispersion, however. Because
+                                        the variance is based on squared distances, it isn’t on the same numerical
+                                        scale as the raw data. Therefore, the variance doesn’t provide information
+                                        about the actual distance between different data items or between individual
+                                        data values and the mean. After calculating the variance, Satish should
+                                        determine the standard deviation, which will resolve the problem of numerical
+                                        scale.</p>
+                                    <p class="obj-txt" id="loma335-ch8-p-122"><strong>Standard Deviation</strong>
+                                    </p>
+                                    <p class="txt-ni" id="loma335-ch8-p-123">The <span class="gt" data-term="ch8-gt-standarddeviation" epub:type="glossref"
+                                        id="loma335-ch8-span-19" role="doc-glossref">standard deviation</span> of
+                                        a population is the square root of the variance. The square root of a number
+                                        is the value that, when multiplied by itself, produces the number. For
+                                        example, the square root of 25 is 5, because 5 x 5 = 25. In effect, calculating
+                                        the standard deviation of a population reverses the process used to calculate
+                                        the variance and thus puts the results back in the same numerical scale
+                                        as the raw data, providing a more intuitive picture of variation.</p>
+                                    <div
+                                    class="example" id="loma335-ch8-div-18c">
+                                        <p class="example-header" id="loma335-ch8-p-34c">EXAMPLE</p>
+                                        <div class="inner" id="loma335-ch8-div-19c">
+                                            <div>
+                                                <p class="fig-inset parsed" id="loma335-ch8-p-127">For the population Satish is examining, the standard deviation is&#160;
+                                                    <img
+                                                    class="kInteractive image inline" data-kotobee="Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVRYXEEAJREdGDAYBCg0YCjUXBFVjDgc5Bw0bBwpRXVBfEVdQBFlRWl0RBw4HHAwECEAAU0dOTV1AAgEYBgwAQBcXTVBGWgsbBkpGXVgLEElJTVBGWhwGEgMRSlBXX0tQDRlYTV1AAgITMAQMCUBLABgRTV1AUQEBAw5JQBcXERQAAEpAWVVRXVBLSwoLT1odBQgBRBwFHRZLFUtCREdGTVg2"
+                                                    height="16" src="../../imgs/sqrt.png" alt="square root" style="margin: 5px auto; position: static; transition: none;"
+                                                    />or 1,261, rounded to the nearest whole number.</p>
+                                                <p class="fig-inset"
+                                                id="loma335-ch8-p-128">This number tells Satish how much claims volume tends to vary from the
+                                                    mean, which can help Satish determine the degree of uncertainty he should
+                                                    account for when looking at incoming call data.</p>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        <p class="txt" id="loma335-ch8-p-129">The standard deviation assumes that values are distributed normally (in
+                                            other words, <em>evenly dispersed</em>). In general, the larger the standard
+                                            deviation, the further the values are from the mean (in other words, the
+                                            more <em>dispersed</em> the values in the population). Smaller standard deviations
+                                            indicate that values in the population are closer to the mean and less
+                                            dispersed.</p>
+                                        <p class="txt" id="loma335-ch8-p-130">Insurance companies frequently use the standard deviation to evaluate
+                                            risk factors such as mortality risk, market risk, interest-rate risk, or
+                                            customer behavior risk. For example, insurers can determine their likely
+                                            claim experience by using the standard deviation to identify the distribution
+                                            of customer ages and comparing the results to information in mortality
+                                            tables. This can help insurers frame financial decision-making.</p>
+                                        <p class="txt"
+                                        id="loma335-ch8-p-131">Figure 8.2 provides a summary of the three measures of dispersion discussed
+                                            here.</p>
+                                        <figure class="figure numbered-fig" data-mwidth="max-width:2094px;"
+                                        id="figure8-2">
+                                            <p class="title" id="loma335-ch8-p-132"><span class="fig-num" id="loma335-ch8-span-20">Figure 8.2</span> The Three
+                                                Measures of Dispersion</p>
+                                            <img alt="The Three Measures of Dispersion" id="loma335-ch8-img-19"
+                                            src="../../imgs/8-2figure.jpg" />
+                                            <figcaption>
+                                                <div class="img-desc hidden" id="loma335-ch8-div-26"><span class="id-button" data-description="figure8-2" id="loma335-ch8-span-21"
+                                                    role="button" tabindex="0">Image Description</span>
+                                                </div>
+                                                <div class="static-img-desc visible" id="loma335-ch8-div-27"><a class="img-description" epub:type="noteref" href="../raw/descriptions.xhtml#figure8-2"
+                                                    id="loma335-ch8-a-9" role="doc-noteref">Figure 8-2 Description</a>
+                                                </div>
+                                            </figcaption>
+                                        </figure>
+                                        <div class="question-wrapper" id="loma335-ch8-question-2-wrap">
+                                            <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-2">
+                                                <p class="q-title" id="loma335-ch8-p-133">
+                                                    <img alt="Let’s Review" id="loma335-ch8-img-20" src="../../imgs/lets-review.png"
+                                                    />
+                                                </p>
+                                                <div class="stem-cont" id="loma335-ch8-question-2-label">
+                                                    <p class="q-stem" id="loma335-ch8-p-134">The number of life insurance home office personnel in the United States
+                                                        has changed over the past five years. Use these numbers to calculate measures
+                                                        of central tendency and dispersion.</p>
+                                                    <p class="q-stem">&#160;</p>
+                                                    <p class="q-stem" id="loma335-ch8-p-135">Year 1: 346,700</p>
+                                                    <p class="q-stem" id="loma335-ch8-p-136">Year 2: 347,300</p>
+                                                    <p class="q-stem" id="loma335-ch8-p-137">Year 3: 340,600</p>
+                                                    <p class="q-stem" id="loma335-ch8-p-138">Year 4: 334,400</p>
+                                                    <p class="q-stem" id="loma335-ch8-p-139">Year 5: 325,500</p>
+                                                    <p class="q-stem">&#160;</p>
+                                                    <p class="q-stem" id="loma335-ch8-p-140">What is the mean number of life insurance company employees?</p>
+                                                </div>
+                                                <ol aria-labelledby="loma335-ch8-question-2-label" class="choices" id="loma335-ch8-ol-3"
+                                                role="radiogroup">
+                                                    <li aria-checked="false" id="loma335-ch8-question-2-i0" role="radio" tabindex="0">
+                                                        <label for="loma335-ch8-question-2-i0">338,900</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-28">
+                                                            <div class="check" id="loma335-ch8-div-29">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-21"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-22"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-23"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-24"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-2-i1" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-2-i1">340,600</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-30">
+                                                            <div class="check" id="loma335-ch8-div-31">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-25"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-26"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-27"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-28"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-2-i2" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-2-i2">347,300</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-32">
+                                                            <div class="check" id="loma335-ch8-div-33">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-29"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-30"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-31"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-32"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-2-i3" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-2-i3">None of these choices</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-34">
+                                                            <div class="check" id="loma335-ch8-div-35">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-33"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-34"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-35"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-36"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                </ol>
+                                                <p class="reveal" id="loma335-ch8-p-144"><span class="btn" data-answer="loma335-ch8-question-2-key" id="loma335-ch8-span-22"
+                                                    role="button" tabindex="0">Submit</span>
+                                                </p>
+                                            </div>
+                                            <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-2-static">
+                                                <p class="q-title-static" id="loma335-ch8-p-145">
+                                                    <img alt="Let’s Review" id="loma335-ch8-img-37" src="../../imgs/lets-review.png"
+                                                    />
+                                                </p>
+                                                <p class="q-stem-static" id="loma335-ch8-p-146">The number of life insurance home office personnel in the United States
+                                                    has changed over the past five years. Use these numbers to calculate measures
+                                                    of central tendency and dispersion.</p>
+                                                <p class="q-stem-static">&#160;</p>
+                                                <p class="q-stem-static" id="loma335-ch8-p-147">Year 1: 346,700</p>
+                                                <p class="q-stem-static" id="loma335-ch8-p-148">Year 2: 347,300</p>
+                                                <p class="q-stem-static" id="loma335-ch8-p-149">Year 3: 340,600</p>
+                                                <p class="q-stem-static" id="loma335-ch8-p-150">Year 4: 334,400</p>
+                                                <p class="q-stem-static" id="loma335-ch8-p-151">Year 5: 325,500</p>
+                                                <p class="q-stem-static">&#160;</p>
+                                                <p class="q-stem-static" id="loma335-ch8-p-152">What is the mean number of life insurance company employees?</p>
+                                                <ol class="choices-static"
+                                                id="loma335-ch8-ol-4">
+                                                    <li id="loma335-ch8-question-2-i0-static">338,900</li>
+                                                    <li id="loma335-ch8-question-2-i1-static">340,600</li>
+                                                    <li id="loma335-ch8-question-2-i2-static">347,300</li>
+                                                    <li id="loma335-ch8-question-2-i3-static">None of these choices</li>
+                                                </ol>
+                                                <p class="reveal-static" id="loma335-ch8-p-153"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma335-ch8-question-2-key"
+                                                    id="loma335-ch8-a-10" role="doc-noteref">Check your answer</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="question-wrapper" id="loma335-ch8-question-3-wrap">
+                                            <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-3">
+                                                <div class="stem-cont" id="loma335-ch8-question-3-label">
+                                                    <p class="q-stem" id="loma335-ch8-p-154">What is the median number of life insurance company employees?</p>
+                                                </div>
+                                                <ol aria-labelledby="loma335-ch8-question-3-label" class="choices" id="loma335-ch8-ol-5"
+                                                role="radiogroup">
+                                                    <li aria-checked="false" id="loma335-ch8-question-3-i0" role="radio" tabindex="0">
+                                                        <label for="loma335-ch8-question-3-i0">325,500</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-37">
+                                                            <div class="check" id="loma335-ch8-div-38">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-38"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-39"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-40"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-41"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-3-i1" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-3-i1">340,600</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-39">
+                                                            <div class="check" id="loma335-ch8-div-40">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-42"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-43"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-44"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-45"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-3-i2" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-3-i2">347,300</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-41">
+                                                            <div class="check" id="loma335-ch8-div-42">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-46"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-47"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-48"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-49"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-3-i3" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-3-i3">None of these choices</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-43">
+                                                            <div class="check" id="loma335-ch8-div-44">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-50"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-51"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-52"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-53"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                </ol>
+                                                <p class="reveal" id="loma335-ch8-p-161"><span class="btn" data-answer="loma335-ch8-question-3-key" id="loma335-ch8-span-23"
+                                                    role="button" tabindex="0">Submit</span>
+                                                </p>
+                                            </div>
+                                            <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-3-static">
+                                                <p class="q-stem-static" id="loma335-ch8-p-162">What is the median number of life insurance company employees?</p>
+                                                <ol
+                                                class="choices-static" id="loma335-ch8-ol-6">
+                                                    <li id="loma335-ch8-question-3-i0-static">325,500</li>
+                                                    <li id="loma335-ch8-question-3-i1-static">340,600</li>
+                                                    <li id="loma335-ch8-question-3-i2-static">347,300</li>
+                                                    <li id="loma335-ch8-question-3-i3-static">None of these choices</li>
+                                                    </ol>
+                                                    <p class="reveal-static" id="loma335-ch8-p-163"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma335-ch8-question-3-key"
+                                                        id="loma335-ch8-a-11" role="doc-noteref">Check your answer</a>
+                                                    </p>
+                                            </div>
+                                        </div>
+                                        <div class="question-wrapper" id="loma335-ch8-question-4-wrap">
+                                            <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-4">
+                                                <div class="stem-cont" id="loma335-ch8-question-4-label">
+                                                    <p class="q-stem" id="loma335-ch8-p-164">What is the mode for the number of life insurance company employees over
+                                                        these five years?</p>
+                                                </div>
+                                                <ol aria-labelledby="loma335-ch8-question-4-label" class="choices" id="loma335-ch8-ol-7"
+                                                role="radiogroup">
+                                                    <li aria-checked="false" id="loma335-ch8-question-4-i0" role="radio" tabindex="0">
+                                                        <label for="loma335-ch8-question-4-i0">325,000</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-46">
+                                                            <div class="check" id="loma335-ch8-div-47">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-54"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-55"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-56"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-57"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-4-i1" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-4-i1">334,400</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-48">
+                                                            <div class="check" id="loma335-ch8-div-49">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-58"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-59"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-60"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-61"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-4-i2" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-4-i2">346,700</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-50">
+                                                            <div class="check" id="loma335-ch8-div-51">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-62"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-63"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-64"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-65"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-4-i3" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-4-i3">None of these choices</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-52">
+                                                            <div class="check" id="loma335-ch8-div-53">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-66"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-67"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-68"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-69"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                </ol>
+                                                <p class="reveal" id="loma335-ch8-p-166"><span class="btn" data-answer="loma335-ch8-question-4-key" id="loma335-ch8-span-24"
+                                                    role="button" tabindex="0">Submit</span>
+                                                </p>
+                                            </div>
+                                            <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-4-static">
+                                                <p class="q-stem-static" id="loma335-ch8-p-167">What is the mode for the number of life insurance company employees over
+                                                    these five years?</p>
+                                                <ol class="choices-static" id="loma335-ch8-ol-8">
+                                                    <li id="loma335-ch8-question-4-i0-static">325,000</li>
+                                                    <li id="loma335-ch8-question-4-i1-static">334,400</li>
+                                                    <li id="loma335-ch8-question-4-i2-static">346,700</li>
+                                                    <li id="loma335-ch8-question-4-i3-static">None of these choices</li>
+                                                </ol>
+                                                <p class="reveal-static" id="loma335-ch8-p-168"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma335-ch8-question-4-key"
+                                                    id="loma335-ch8-a-12" role="doc-noteref">Check your answer</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="question-wrapper" id="loma335-ch8-question-5-wrap">
+                                            <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-5">
+                                                <div class="stem-cont" id="loma335-ch8-question-5-label">
+                                                    <p class="q-stem" id="loma335-ch8-p-169">What is the range for this population?</p>
+                                                </div>
+                                                <ol aria-labelledby="loma335-ch8-question-5-label" class="choices" id="loma335-ch8-ol-9"
+                                                role="radiogroup">
+                                                    <li aria-checked="false" id="loma335-ch8-question-5-i0" role="radio" tabindex="0">
+                                                        <label for="loma335-ch8-question-5-i0">21,800</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-55">
+                                                            <div class="check" id="loma335-ch8-div-56">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-70"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-71"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-72"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-73"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-5-i1" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-5-i1">24,500</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-57">
+                                                            <div class="check" id="loma335-ch8-div-58">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-74"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-75"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-76"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-77"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-5-i2" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-5-i2">325,500</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-59">
+                                                            <div class="check" id="loma335-ch8-div-60">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-78"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-79"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-80"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-81"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-5-i3" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-5-i3">None of these choices</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-61">
+                                                            <div class="check" id="loma335-ch8-div-62">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-82"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-83"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-84"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-85"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                </ol>
+                                                <p class="reveal" id="loma335-ch8-p-174"><span class="btn" data-answer="loma335-ch8-question-5-key" id="loma335-ch8-span-25"
+                                                    role="button" tabindex="0">Submit</span>
+                                                </p>
+                                            </div>
+                                            <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-5-static">
+                                                <p class="q-stem-static" id="loma335-ch8-p-175">What is the range for this population?</p>
+                                                <ol class="choices-static" id="loma335-ch8-ol-10">
+                                                    <li id="loma335-ch8-question-5-i0-static">21,800</li>
+                                                    <li id="loma335-ch8-question-5-i1-static">24,500</li>
+                                                    <li id="loma335-ch8-question-5-i2-static">325,500</li>
+                                                    <li id="loma335-ch8-question-5-i3-static">None of these choices</li>
+                                                </ol>
+                                                <p class="reveal-static" id="loma335-ch8-p-176"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma335-ch8-question-5-key"
+                                                    id="loma335-ch8-a-13" role="doc-noteref">Check your answer</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="question-wrapper" id="loma335-ch8-question-6-wrap">
+                                            <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-6">
+                                                <div class="stem-cont" id="loma335-ch8-question-6-label">
+                                                    <p class="q-stem" id="loma335-ch8-p-177">What is the variance?</p>
+                                                </div>
+                                                <ol aria-labelledby="loma335-ch8-question-6-label" class="choices" id="loma335-ch8-ol-11"
+                                                role="radiogroup">
+                                                    <li aria-checked="false" id="loma335-ch8-question-6-i0" role="radio" tabindex="0">
+                                                        <label for="loma335-ch8-question-6-i0">347,300</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-64">
+                                                            <div class="check" id="loma335-ch8-div-65">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-86"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-87"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-88"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-89"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-6-i1" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-6-i1">60,840,000</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-66">
+                                                            <div class="check" id="loma335-ch8-div-67">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-90"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-91"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-92"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-93"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-6-i2" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-6-i2">66,820,000</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-68">
+                                                            <div class="check" id="loma335-ch8-div-69">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-94"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-95"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-96"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-97"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-6-i3" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-6-i3">None of these choices</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-70">
+                                                            <div class="check" id="loma335-ch8-div-71">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-98"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-99"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-100"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-101"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                </ol>
+                                                <p class="reveal" id="loma335-ch8-p-200"><span class="btn" data-answer="loma335-ch8-question-6-key" id="loma335-ch8-span-26"
+                                                    role="button" tabindex="0">Submit</span>
+                                                </p>
+                                            </div>
+                                            <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-6-static">
+                                                <p class="q-stem-static" id="loma335-ch8-p-201">What is the variance?</p>
+                                                <ol class="choices-static" id="loma335-ch8-ol-12">
+                                                    <li id="loma335-ch8-question-6-i0-static">347,300</li>
+                                                    <li id="loma335-ch8-question-6-i1-static">60,840,000</li>
+                                                    <li id="loma335-ch8-question-6-i2-static">66,820,000</li>
+                                                    <li id="loma335-ch8-question-6-i3-static">None of these choices</li>
+                                                </ol>
+                                                <p class="reveal-static" id="loma335-ch8-p-202"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma335-ch8-question-6-key"
+                                                    id="loma335-ch8-a-14" role="doc-noteref">Check your answer</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="question-wrapper" id="loma335-ch8-question-7-wrap">
+                                            <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-7">
+                                                <div class="stem-cont" id="loma335-ch8-question-7-label">
+                                                    <p class="q-stem" id="loma335-ch8-p-203">What is the standard deviation in the population of life insurance company
+                                                        employees over the five years?</p>
+                                                </div>
+                                                <ol aria-labelledby="loma335-ch8-question-7-label" class="choices" id="loma335-ch8-ol-13"
+                                                role="radiogroup">
+                                                    <li aria-checked="false" id="loma335-ch8-question-7-i0" role="radio" tabindex="0">
+                                                        <label for="loma335-ch8-question-7-i0">147.6</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-73">
+                                                            <div class="check" id="loma335-ch8-div-74">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-102"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-103"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-104"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-105"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-7-i1" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-7-i1">8,174.4</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-75">
+                                                            <div class="check" id="loma335-ch8-div-76">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-106"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-107"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-108"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-109"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-7-i2" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-7-i2">18,278.4</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-77">
+                                                            <div class="check" id="loma335-ch8-div-78">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-110"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-111"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-112"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-113"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                    <li aria-checked="false" id="loma335-ch8-question-7-i3" role="radio" tabindex="-1">
+                                                        <label for="loma335-ch8-question-7-i3">None of these choices</label>
+                                                        <div class="radio-wrapper" id="loma335-ch8-div-79">
+                                                            <div class="check" id="loma335-ch8-div-80">&#160;</div>
+                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-114"
+                                                            src="../../imgs/checkmark-xs.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-115"
+                                                            src="../../imgs/times-circle-xs.png" />
+                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-116"
+                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-117"
+                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                        </div>
+                                                    </li>
+                                                </ol>
+                                                <p class="reveal" id="loma335-ch8-p-208"><span class="btn" data-answer="loma335-ch8-question-7-key" id="loma335-ch8-span-27"
+                                                    role="button" tabindex="0">Submit</span>
+                                                </p>
+                                            </div>
+                                            <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                            id="loma335-ch8-question-7-static">
+                                                <p class="q-stem-static" id="loma335-ch8-p-209">What is the standard deviation in the population of life insurance company
+                                                    employees over the five years?</p>
+                                                <ol class="choices-static" id="loma335-ch8-ol-14">
+                                                    <li id="loma335-ch8-question-7-i0-static">147.6</li>
+                                                    <li id="loma335-ch8-question-7-i1-static">8,174.4</li>
+                                                    <li id="loma335-ch8-question-7-i2-static">18,278.4</li>
+                                                    <li id="loma335-ch8-question-7-i3-static">None of these choices</li>
+                                                </ol>
+                                                <p class="reveal-static" id="loma335-ch8-p-210"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma335-ch8-question-7-key"
+                                                    id="loma335-ch8-a-15" role="doc-noteref">Check your answer</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="clearfix" id="loma335-ch8-div-82">&#160;</div>
+                                        <h3 id="loma335-ch8-h3-2">Inferential Statistics</h3>
+                                        <p class="txt-ni" id="loma335-ch8-p-211">Analyzing an entire population of data isn’t always practical. To gather
+                                            similar information based on a smaller number of values, insurers can analyze
+                                            a <em>sample</em> of the population. <span class="gt" data-term="ch8-gt-sampling"
+                                            epub:type="glossref" id="loma335-ch8-span-28" role="doc-glossref">Sampling</span> is
+                                            a statistical technique used to examine a portion of a given group in order
+                                            to develop conclusions about the entire group. Insurers use samples to
+                                            perform inferential statistics. <span class="gt" data-term="ch8-gt-inferentialstatistics"
+                                            epub:type="glossref" id="loma335-ch8-span-29" role="doc-glossref">Inferential statistics</span> allow
+                                            a decision maker to draw conclusions about a large population based on
+                                            the sample group.</p>
+                                        <p class="txt" id="loma335-ch8-p-212">Inferential statistics are not as precise as descriptive statistics, but
+                                            they can provide important information using fewer resources. The accuracy
+                                            of inferential statistics depends in large part on whether the sample is
+                                            representative of the population. The more representative the sample data
+                                            is of the underlying population of data, the more accurate the conclusions
+                                            drawn from sample data are likely to be.</p>
+                                        <p class="txt" id="loma335-ch8-p-213">The <span class="gt" data-term="ch8-gt-lawoflargenumbers" epub:type="glossref"
+                                            id="loma335-ch8-span-30" role="doc-glossref">law of large numbers</span> states
+                                            that, under normal circumstances, the more times a person observes a particular
+                                            event, the more likely the observations will approximate the “true” probability
+                                            of the event. A coin toss is a prime example of this concept. The more
+                                            times you toss a coin, the more likely you are to see an approximately
+                                            equal number of heads and tails.</p>
+                                        <p class="txt" id="loma335-ch8-p-214">The law of large numbers has important applications for insurance. Insurance
+                                            companies rely on the law of large numbers when they conduct financial
+                                            audits, interpret results from customer surveys, or use <span class="gt"
+                                            data-term="ch8-gt-mortalitytables" epub:type="glossref" id="loma335-ch8-span-31"
+                                            role="doc-glossref">mortality tables</span>, which present the number of
+                                            deaths projected to occur within a given group of people during a specified
+                                            period of time.</p>
+                                        <div class="clearfix" id="loma335-ch8-div-83">&#160;</div>
+                                        <h4 id="loma335-ch8-h4-3">Random Sampling</h4>
+                                        <p class="txt-ni" id="loma335-ch8-p-215">To ensure that a sample results in accurate inferences, insurers use random
+                                            sampling.<span class="gt" data-term="ch8-gt-randomsampling" epub:type="glossref"
+                                            id="loma335-ch8-span-32" role="doc-glossref"> Random sampling</span> is
+                                            a technique in which each item of a population has a determinable chance,
+                                            or probability, of selection. Using random sampling enables a company to
+                                            ensure that the values included in a sample are representative of all the
+                                            values in the population. Common types of random sampling are simple random
+                                            sampling, systematic random sampling, and stratified random sampling.</p>
+                                        <p
+                                        class="txt" id="loma335-ch8-p-216"><span class="gt" data-term="ch8-gt-simplerandomsampling" epub:type="glossref"
+                                            id="loma335-ch8-span-33" role="doc-glossref">Simple random sampling</span> is
+                                            a method of random sampling in which every member of the data population
+                                            has an equal chance of being included in the sample population. If a population
+                                            is well defined and the number of elements needed for a sample is relatively
+                                            small, a researcher can perform sampling using a table of random numbers
+                                            or random number generating software.</p>
+                                            <div class="example" id="loma335-ch8-div-18d">
+                                                <p class="example-header" id="loma335-ch8-p-34d">EXAMPLE</p>
+                                                <div class="inner" id="loma335-ch8-div-19d">
+                                                    <div>
+                                                        <p class="fig-inset" id="loma335-ch8-p-220">Satish is reviewing claims calls from the past month. Although the department
+                                                            received 1,000 calls about claims during the past month, Satish wants to
+                                                            examine only 100 of those calls.</p>
+                                                        <ol>
+                                                            <li class="fig-inset" id="loma335-ch8-p-221">To generate the sample group, he assigns each call log a number from 0001
+                                                                to 1,000.</li>
+                                                            <li class="fig-inset" id="loma335-ch8-p-222">Satish uses a random number generator to obtain 100 random numbers between
+                                                                1 and 1,000.</li>
+                                                            <li class="fig-inset" id="loma335-ch8-p-223">Satish examines only the 100 records indicated by the random number generator.</li>
+                                                        </ol>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <p class="txt" id="loma335-ch8-p-224">Another way of producing a random sample is to use systematic random sampling.
+                                                <span
+                                                class="gt" data-term="ch8-gt-systematicrandomsampling" epub:type="glossref"
+                                                id="loma335-ch8-span-34" role="doc-glossref">Systematic random sampling</span>involves selecting items from the population
+                                                    at a uniform interval. Systematic random sampling ensures that every item
+                                                    in the population has an equal and independent chance of being included
+                                                    in the sample.</p>
+                                            <div class="example" id="loma335-ch8-div-18e">
+                                                <p class="example-header" id="loma335-ch8-p-34e">EXAMPLE</p>
+                                                <div class="inner" id="loma335-ch8-div-19e">
+                                                    <div>
+                                                        <ul>
+                                                            <li class="fig-inset">A claims analyst examines one life insurance claim from each face value
+                                                                amount.</li>
+                                                            <li class="fig-inset">A call center manager monitors one customer telephone call every 15 minutes.</li>
+                                                            <li
+                                                            class="fig-inset">An auditor examines every fifth record in the underwriting department’s
+                                                                application file.</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <p class="txt" id="loma335-ch8-p-231">Researchers can use any size interval and can start sampling at any point
+                                                in the population.</p>
+                                            <div class="example" id="loma335-ch8-div-18f">
+                                                <p class="example-header" id="loma335-ch8-p-34f">EXAMPLE</p>
+                                                <div class="inner" id="loma335-ch8-div-19f">
+                                                    <div>
+                                                        <p class="fig-inset" id="loma335-ch8-p-235">Lisa, the assistant claim manager, started reviewing call recordings at
+                                                            the beginning of the 1,000-item call log and reviewed every 10th call.
+                                                            This means she selected calls #10, #20, #30, and so on.</p>
+                                                        <p>When Lisa reached the end of the call log, she had selected all 100 records
+                                                            needed for her sample (1,000 ÷ 10 = 100).</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <p class="txt" id="loma335-ch8-p-236">If the sample size is small relative to the size of the population, then
+                                                interval size, starting point, and sequence are important.</p>
+                                            <div class="example" id="loma335-ch8-div-18g">
+                                                <p class="example-header" id="loma335-ch8-p-34g">EXAMPLE</p>
+                                                <div class="inner" id="loma335-ch8-div-19g">
+                                                    <div>
+                                                        <p>Suppose Lisa sampled 100 of the 1,000 calls in the log by reviewing every
+                                                            other recorded call. In this case, Lisa would have selected 100 records
+                                                            when she had reached only the 200th record (100 × 2 = 200).</p>
+                                                        <p class="fig-inset"
+                                                        id="loma335-ch8-p-240">If the call logs were in order by date, those at the beginning of the
+                                                            month would be overrepresented, and those at the end of the month would
+                                                            be ignored. If Lisa had begun selecting calls near the middle of the log,
+                                                            she would have ignored calls at the beginning and end of the month.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <p class="txt-ni" id="loma335-ch8-p-241">To increase the likelihood of selecting a representative sample, analysts
+                                                should (1) select an appropriate sample size, (2) select a random interval
+                                                size, (3) choose a random starting point for sampling, and (4) proceed
+                                                through the entire population.</p>
+                                            <p class="txt" id="loma335-ch8-p-242">Simple random sampling and systematic random sampling are usually most
+                                                effective when population elements are <em>homogeneous</em>—that is, when
+                                                the elements in the population are similar. Simple and systematic random
+                                                sampling don’t work as well if the population is varied or segmented.</p>
+                                            <div
+                                            class="example" id="loma335-ch8-div-18h">
+                                                <p class="example-header" id="loma335-ch8-p-34h">EXAMPLE</p>
+                                                <div class="inner" id="loma335-ch8-div-19h">
+                                                    <div>
+                                                        <p class="fig-inset" id="loma335-ch8-p-246">EndiFirst has 140,000 customers in four regions, as follows:</p>
+                                                        <p class="fig-inset"
+                                                        id="loma335-ch8-p-247">Region A: 89,500
+                                                            <br />Region B: 5,000
+                                                            <br />Region C: 11,500
+                                                            <br />Region D: 34,000</p>
+                                                        <p class="fig-inset" id="loma335-ch8-p-251">EndiFirst’s researchers use simple random sampling to administer customer
+                                                            surveys to 1,000 of these customers. Using this approach, simple chance
+                                                            could lead to a sample that disproportionately includes Region C opinions.
+                                                            As a result, the views of Region C customers would be overrepresented in
+                                                            the final data, even though they don’t necessarily represent the views
+                                                            of the customers from other regions.</p>
+                                                    </div>
+                                                </div>
+                                                </div>
+                                                <p class="txt" id="loma335-ch8-p-252">To address the problems created by segmented populations, companies often
+                                                    use stratified random sampling. <span class="gt" data-term="ch8-gt-stratifiedrandomsampling"
+                                                    epub:type="glossref" id="loma335-ch8-span-35" role="doc-glossref">Stratified random sampling</span> is
+                                                    a technique in which the user divides the population into segments, or
+                                                    strata, and then selects a proportional number of items from each segment
+                                                    at random. Accordingly, a stratified random sample is one found by dividing
+                                                    the population into a number of distinct segments and then selecting cases
+                                                    at random and in proportion to the segment size. To determine the number
+                                                    of items from each segment to include in the sample, the researcher would
+                                                    first determine the ratio of items in the sample to the total number of
+                                                    items in the population.</p>
+                                                <div class="example" id="loma335-ch8-div-18i">
+                                                    <p class="example-header" id="loma335-ch8-p-34i">EXAMPLE</p>
+                                                    <div class="inner" id="loma335-ch8-div-19i">
+                                                        <div>
+                                                            <p class="fig-inset" id="loma335-ch8-p-256">EndiFirst’s researchers selected a stratified random sample of 1,000 customers
+                                                                from its population of 140,000 customers. To find the number of items to
+                                                                include from each region, the researcher</p>
+                                                            <ol>
+                                                                <li class="fig-inset" id="loma335-ch8-p-257">Calculated the ratio of items in the sample to the total items in the
+                                                                    population, which was 1,000/140,000, or 1/140.</li>
+                                                                <li class="fig-inset"
+                                                                id="loma335-ch8-p-258">Multiplied the number of items in each stratum—in this case, each of the
+                                                                    four regions—by the ratio.</li>
+                                                            </ol>
+                                                            <p class="fig-inset" id="loma335-ch8-p-259">The following table shows the number of employees to be selected from
+                                                                each stratum. Fractional values are rounded to the nearest whole number.</p>
+                                                            <table
+                                                            class="striped blue" id="loma335-ch8-table-8">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th id="loma335-ch8-td-59">
+                                                                            <p class="txt" id="loma335-ch8-p-260" style="text-align: center;">Location
+                                                                            </p>
+                                                                        </th>
+                                                                        <th id="loma335-ch8-td-60">
+                                                                            <p class="txt" id="loma335-ch8-p-261" style="text-align: center;">Number of Employees
+                                                                            </p>
+                                                                        </th>
+                                                                        <th id="loma335-ch8-td-61">
+                                                                            <p class="txt" id="loma335-ch8-p-262" style="text-align: center;">Number of Employees
+                                                                            </p>
+                                                                            <p class="txt" id="loma335-ch8-p-263" style="text-align: center;">x 1/140
+                                                                            </p>
+                                                                        </th>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td id="loma335-ch8-td-62">
+                                                                            <p class="txt" id="loma335-ch8-p-264" style="text-align: center;">Region A</p>
+                                                                        </td>
+                                                                        <td id="loma335-ch8-td-63">
+                                                                            <p class="txt" id="loma335-ch8-p-265" style="text-align: center;">89,500</p>
+                                                                        </td>
+                                                                        <td id="loma335-ch8-td-64">
+                                                                            <p class="txt" id="loma335-ch8-p-266" style="text-align: center;">639</p>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td id="loma335-ch8-td-65">
+                                                                            <p class="txt" id="loma335-ch8-p-267" style="text-align: center;">Region B</p>
+                                                                        </td>
+                                                                        <td id="loma335-ch8-td-66">
+                                                                            <p class="txt" id="loma335-ch8-p-268" style="text-align: center;">5,000</p>
+                                                                        </td>
+                                                                        <td id="loma335-ch8-td-67">
+                                                                            <p class="txt" id="loma335-ch8-p-269" style="text-align: center;">36</p>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td id="loma335-ch8-td-68">
+                                                                            <p class="txt" id="loma335-ch8-p-270" style="text-align: center;">Region C</p>
+                                                                        </td>
+                                                                        <td id="loma335-ch8-td-69">
+                                                                            <p class="txt" id="loma335-ch8-p-271" style="text-align: center;">11,500</p>
+                                                                        </td>
+                                                                        <td id="loma335-ch8-td-70">
+                                                                            <p class="txt" id="loma335-ch8-p-272" style="text-align: center;">82</p>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td id="loma335-ch8-td-71">
+                                                                            <p class="txt" id="loma335-ch8-p-273" style="text-align: center;">Region D</p>
+                                                                        </td>
+                                                                        <td id="loma335-ch8-td-72">
+                                                                            <p class="txt" id="loma335-ch8-p-274" style="text-align: center;">34,000</p>
+                                                                        </td>
+                                                                        <td id="loma335-ch8-td-73">
+                                                                            <p class="txt" id="loma335-ch8-p-275" style="text-align: center;">243</p>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                                </table>
+                                                                <p>In this example, the sample (the sum of the values in the third column)
+                                                                    is equal to 1,000. The customers from each stratum are selected at random.
+                                                                    Each customer, in this case, has a weighted rather than an equal probability
+                                                                    of being included in the sample.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <p class="txt" id="loma335-ch8-p-276">&#160;</p>
+                                                <div class="clearfix" id="loma335-ch8-div-90">&#160;</div>
+                                                <h4 id="loma335-ch8-h4-4">Nonrandom Sampling</h4>
+                                                <p class="txt-ni" id="loma335-ch8-p-277">Unlike random sampling, nonrandom sampling does not randomize sample selection.
+                                                    Instead, <span class="gt" data-term="ch8-gt-nonrandomsampling" epub:type="glossref"
+                                                    id="loma335-ch8-span-36" role="doc-glossref">nonrandom sampling</span> bases
+                                                    sample selection on specific, personally selected criteria.</p>
+                                                <p class="txt"
+                                                id="loma335-ch8-p-278">Because using specific selection criteria excludes some members of the
+                                                    population, not every member has an equal or even a predetermined probability
+                                                    of being selected. Thus, nonrandom sampling is less reliable than random
+                                                    sampling for predicting the characteristics of a population based on the
+                                                    characteristics of the sample.</p>
+                                                <p class="txt" id="loma335-ch8-p-279">Nonrandom sampling can be useful despite its limitations. Insurers often
+                                                    use nonrandom sampling when there is reason to believe that examining only
+                                                    a few clearly defined members of a population can identify a “typical”
+                                                    member.</p>
+                                                <div class="example" id="loma335-ch8-div-18j">
+                                                    <p class="example-header" id="loma335-ch8-p-34j">EXAMPLE</p>
+                                                    <div class="inner" id="loma335-ch8-div-19j">
+                                                        <div>
+                                                            <p class="fig-inset" id="loma335-ch8-p-283">Although employees created the survey to evaluate overall customer satisfaction,
+                                                                they sent the survey only to EndiFirst customers who have called into the
+                                                                office in the past two months.</p>
+                                                            <p class="fig-inset" id="loma335-ch8-p-284">The employees decided these customers know most about the <em>current quality</em> of
+                                                                customer service and are still relatively representative of EndiFirst’s
+                                                                entire customer population.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix" id="loma335-ch8-div-92">&#160;</div>
+                                                <h4 id="loma335-ch8-h4-5">Validity</h4>
+                                                <p class="txt-ni" id="loma335-ch8-p-285"><span class="gt" data-term="ch8-gt-statisticalvalidity" epub:type="glossref"
+                                                    id="loma335-ch8-span-37" role="doc-glossref">Statistical validity</span> is
+                                                    the degree to which an observed result can be relied upon and not attributed
+                                                    to random error in sampling or measurement. Decision makers can improve
+                                                    the accuracy of results drawn from sample data by ensuring that the observed
+                                                    results are statistically valid. Validity of sample results depends largely
+                                                    on large sample sizes. Other factors include the degree of confidence and
+                                                    the margin of error.</p>
+                                                <p class="txt" id="loma335-ch8-p-286"><span class="gt" data-term="ch8-gt-degreeofconfidence" epub:type="glossref"
+                                                    id="loma335-ch8-span-38" role="doc-glossref">Degree of confidence</span> refers
+                                                    to the likelihood that a calculated value accurately predicts the true
+                                                    value. For example, a 95 percent degree of confidence indicates a probability
+                                                    of 95 percent that calculated results are accurate.</p>
+                                                <p class="txt" id="loma335-ch8-p-287">In general, the larger the sample size, the higher the degree of confidence.
+                                                    If the risk involved with a decision based on sample data is low, managers
+                                                    may be able to select a relatively small sample. If the risk involved with
+                                                    a decision is high, managers may need to increase the size of the sample
+                                                    to increase the degree of confidence.</p>
+                                                <p class="txt" id="loma335-ch8-p-288"><span class="gt" data-term="ch8-gt-marginoferror" epub:type="glossref"
+                                                    id="loma335-ch8-span-39" role="doc-glossref">Margin of error</span> indicates
+                                                    the likely range of inaccuracy of a given sample result relative to a result
+                                                    based on the total population. In other words, the margin of error indicates
+                                                    how accurately a given sample represents the population. In most cases,
+                                                    the larger the sample size, the smaller the margin of error. In general,
+                                                    researchers consider a margin of error of 3 percent acceptable. If the
+                                                    margin of error is greater than 3 percent, increasing the sample size might
+                                                    be necessary.</p>
+                                                <div class="clearfix" id="loma335-ch8-div-93">&#160;</div>
+                                                <h4 id="loma335-ch8-h4-6">Avoiding Bias</h4>
+                                                <p class="txt-ni" id="loma335-ch8-p-289">Ensuring validity also means avoiding statistical bias. <span class="gt"
+                                                    data-term="ch8-gt-statisticalbias" epub:type="glossref" id="loma335-ch8-span-40"
+                                                    role="doc-glossref">Statistical bias </span>is a consistent or systemic
+                                                    error arising from a flaw in the research design. <span class="gt" data-term="ch8-gt-samplingbias"
+                                                    epub:type="glossref" id="loma335-ch8-span-41" role="doc-glossref">Sampling bias</span> is
+                                                    a type of statistical bias that occurs when the method used to obtain information
+                                                    results in a sample that is not representative of the population being
+                                                    studied. Even when researchers are careful to use appropriate sampling
+                                                    techniques, they can still fall prey to sampling bias. Three subtypes of
+                                                    sampling bias are response bias, nonresponse bias, and selection bias.</p>
+                                                <ul
+                                                class="list" id="loma335-ch8-ul-6">
+                                                    <li id="loma335-ch8-li-25">
+                                                        <p id="loma335-ch8-p-290"><span class="gt" data-term="ch8-gt-responsebias" epub:type="glossref"
+                                                            id="loma335-ch8-span-42" role="doc-glossref">Response bias</span> occurs
+                                                            when the way researchers word a question distorts the answer.</p>
+                                                    </li>
+                                                    </ul>
+                                                    <div class="example" id="loma335-ch8-div-18k">
+                                                        <p class="example-header" id="loma335-ch8-p-34k">EXAMPLE</p>
+                                                        <div class="inner" id="loma335-ch8-div-19k">
+                                                            <div>
+                                                                <p class="fig-inset" id="loma335-ch8-p-294"><em>How would you improve EndiFirst’s poor customer service? </em>is a
+                                                                    question that might elicit response bias because it does not define “poor
+                                                                    customer service,” identify what aspect is being evaluated, or provide
+                                                                    a rating scale. As a result, survey participants have to base their answers
+                                                                    on personal criteria.</p>
+                                                                <p class="fig-inset" id="loma335-ch8-p-295">The question also leads participants to think that EndiFirst’s customer
+                                                                    service is poor. How should a customer answer who believes the service
+                                                                    is excellent?</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <ul class="list" id="loma335-ch8-ul-7">
+                                                        <li id="loma335-ch8-li-26">
+                                                            <p id="loma335-ch8-p-296"><span class="gt" data-term="ch8-gt-nonresponsebias" epub:type="glossref"
+                                                                id="loma335-ch8-span-43" role="doc-glossref">Nonresponse bias </span>occurs
+                                                                when some members of a sample are inherently more likely to provide information
+                                                                than other members of the same sample.</p>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="example" id="loma335-ch8-div-18l">
+                                                        <p class="example-header" id="loma335-ch8-p-34l">EXAMPLE</p>
+                                                        <div class="inner" id="loma335-ch8-div-19l">
+                                                            <div>
+                                                                <p class="fig-inset" id="loma335-ch8-p-294a">Customer reviews posted on a website tend to demonstrate nonresponse bias,
+                                                                    because customers who have had neutral experiences are not as likely to
+                                                                    post.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <ul class="list" id="loma335-ch8-ul-8">
+                                                        <li id="loma335-ch8-li-27">
+                                                            <p id="loma335-ch8-p-301"><span class="gt" data-term="ch8-gt-selectionbias" epub:type="glossref"
+                                                                id="loma335-ch8-span-44" role="doc-glossref">Selection bias</span> occurs
+                                                                when the method of data collection systematically excludes certain members
+                                                                of the sample.</p>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="example" id="loma335-ch8-div-96">
+                                                        <p class="example-header" id="loma335-ch8-p-302">EXAMPLE</p>
+                                                        <p class="inner" id="loma335-ch8-p-303">A survey about overall customer service conducted through the mobile app
+                                                            only would exclude those customers who have had a customer service interaction
+                                                            but do not use the mobile app.</p>
+                                                    </div>
+                                                    <p class="txt" id="loma335-ch8-p-306">Other types of statistical bias can affect both population and sample
+                                                        data. Examples of these are measurement bias, cultural bias, attention
+                                                        bias, and social acceptance bias.</p>
+                                                    <p class="txt" id="loma335-ch8-p-307"><span class="gt" data-term="ch8-gt-measurementbias" epub:type="glossref"
+                                                        id="loma335-ch8-span-45" role="doc-glossref">Measurement bias</span> refers
+                                                        to a systematic error arising from the instruments used for data collection.</p>
+                                                    <div
+                                                    class="example" id="loma335-ch8-div-97">
+                                                        <p class="example-header" id="loma335-ch8-p-308">EXAMPLE</p>
+                                                        <p class="inner" id="loma335-ch8-p-309">Different body weight scales often don’t calibrate in the same way. If
+                                                            a variable is body weight, using different scales to weigh participants
+                                                            can result in measurement errors.</p>
+                                                        </div>
+                                                        <p class="txt" id="loma335-ch8-p-312"><span class="gt" data-term="ch8-gt-culturalbias" epub:type="glossref"
+                                                            id="loma335-ch8-span-46" role="doc-glossref">Cultural bias</span> refers
+                                                            to a consistent cognitive error resulting from the tendency to interpret
+                                                            and report data in terms of the observer’s own culture. Members of a culture
+                                                            tend to hold shared assumptions about conventions and can confuse these
+                                                            assumptions with fact. Cultural bias is important to consider when entering
+                                                            a new market.</p>
+                                                        <div class="example" id="loma335-ch8-div-98">
+                                                            <p class="example-header" id="loma335-ch8-p-313">EXAMPLE</p>
+                                                            <p class="inner" id="loma335-ch8-p-314">Some cultures write from left to right; others write from right to left.
+                                                                A survey using a left-to-right writing system should be redesigned to flow
+                                                                from right to left when introduced in a country with a right-to-left writing
+                                                                system.</p>
+                                                        </div>
+                                                        <p class="txt" id="loma335-ch8-p-317"><span class="gt" data-term="ch8-gt-attentionbias" epub:type="glossref"
+                                                            id="loma335-ch8-span-47" role="doc-glossref">Attention bias</span> is a
+                                                            consistent error in research outcomes that arises when people perform better
+                                                            because they know they are being studied.</p>
+                                                        <div class="example" id="loma335-ch8-div-99">
+                                                            <p class="example-header" id="loma335-ch8-p-318">EXAMPLE</p>
+                                                            <p class="inner" id="loma335-ch8-p-319">A researcher wants to see how people interact with the new website. Because
+                                                                the researcher is watching, some participants take care to avoid mistakes
+                                                                with website features that, in everyday life, might lead to customer mistakes.</p>
+                                                        </div>
+                                                        <p class="txt" id="loma335-ch8-p-322"><span class="gt" data-term="ch8-gt-socialacceptancebias" epub:type="glossref"
+                                                            id="loma335-ch8-span-48" role="doc-glossref">Social acceptance bias </span>refers
+                                                            to a consistent cognitive error based on a tendency for individuals to
+                                                            make socially acceptable statements even when they feel something else.</p>
+                                                        <div
+                                                        class="example" id="loma335-ch8-div-100">
+                                                            <p class="example-header" id="loma335-ch8-p-323">EXAMPLE</p>
+                                                            <p class="inner" id="loma335-ch8-p-324">When a product manager asks participants how they feel about EndiFirst’s
+                                                                new product, some participants omit negative opinions to be polite.</p>
+                                                            </div>
+                                                            <p id="loma335-ch8-p-327">Staying alert to the potential for bias helps decision makers identify
+                                                                when they might need more information to follow through with a decision.</p>
+                                                            <div
+                                                            class="question-wrapper" id="loma335-ch8-question-8-wrap">
+                                                                <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                                                id="loma335-ch8-question-8">
+                                                                    <p class="q-title" id="loma335-ch8-p-328">
+                                                                        <img alt="Let’s Review" id="loma335-ch8-img-118" src="../../imgs/lets-review.png"
+                                                                        />
+                                                                    </p>
+                                                                    <div class="stem-cont" id="loma335-ch8-question-8-label">
+                                                                        <p class="q-stem" id="loma335-ch8-p-329">Fill in the blanks.</p>
+                                                                        <p class="q-stem" id="loma335-ch8-p-330">__________ statistics summarize a population of data, and __________ statistics
+                                                                            draw conclusions about a population based on a sample group.</p>
+                                                                    </div>
+                                                                    <ol aria-labelledby="loma335-ch8-question-8-label" class="choices" id="loma335-ch8-ol-15"
+                                                                    role="radiogroup">
+                                                                        <li aria-checked="false" id="loma335-ch8-question-8-i0" role="radio" tabindex="0">
+                                                                            <label for="loma335-ch8-question-8-i0">Descriptive; biased</label>
+                                                                            <div class="radio-wrapper" id="loma335-ch8-div-101">
+                                                                                <div class="check" id="loma335-ch8-div-102">&#160;</div>
+                                                                                <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-119"
+                                                                                src="../../imgs/checkmark-xs.png" />
+                                                                                <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-120"
+                                                                                src="../../imgs/times-circle-xs.png" />
+                                                                                <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-121"
+                                                                                src="../../imgs/checkmark-xs-light.png" />
+                                                                                <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-122"
+                                                                                src="../../imgs/times-circle-xs-light.png" />
+                                                                            </div>
+                                                                        </li>
+                                                                        <li aria-checked="false" id="loma335-ch8-question-8-i1" role="radio" tabindex="-1">
+                                                                            <label for="loma335-ch8-question-8-i1">Descriptive; inferential</label>
+                                                                            <div class="radio-wrapper" id="loma335-ch8-div-103">
+                                                                                <div class="check" id="loma335-ch8-div-104">&#160;</div>
+                                                                                <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-123"
+                                                                                src="../../imgs/checkmark-xs.png" />
+                                                                                <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-124"
+                                                                                src="../../imgs/times-circle-xs.png" />
+                                                                                <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-125"
+                                                                                src="../../imgs/checkmark-xs-light.png" />
+                                                                                <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-126"
+                                                                                src="../../imgs/times-circle-xs-light.png" />
+                                                                            </div>
+                                                                        </li>
+                                                                        <li aria-checked="false" id="loma335-ch8-question-8-i2" role="radio" tabindex="-1">
+                                                                            <label for="loma335-ch8-question-8-i2">Inferential; random</label>
+                                                                            <div class="radio-wrapper" id="loma335-ch8-div-105">
+                                                                                <div class="check" id="loma335-ch8-div-106">&#160;</div>
+                                                                                <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-127"
+                                                                                src="../../imgs/checkmark-xs.png" />
+                                                                                <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-128"
+                                                                                src="../../imgs/times-circle-xs.png" />
+                                                                                <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-129"
+                                                                                src="../../imgs/checkmark-xs-light.png" />
+                                                                                <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-130"
+                                                                                src="../../imgs/times-circle-xs-light.png" />
+                                                                            </div>
+                                                                        </li>
+                                                                        <li aria-checked="false" id="loma335-ch8-question-8-i3" role="radio" tabindex="-1">
+                                                                            <label for="loma335-ch8-question-8-i3">Inferential; descriptive</label>
+                                                                            <div class="radio-wrapper" id="loma335-ch8-div-107">
+                                                                                <div class="check" id="loma335-ch8-div-108">&#160;</div>
+                                                                                <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-131"
+                                                                                src="../../imgs/checkmark-xs.png" />
+                                                                                <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-132"
+                                                                                src="../../imgs/times-circle-xs.png" />
+                                                                                <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-133"
+                                                                                src="../../imgs/checkmark-xs-light.png" />
+                                                                                <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-134"
+                                                                                src="../../imgs/times-circle-xs-light.png" />
+                                                                            </div>
+                                                                        </li>
+                                                                    </ol>
+                                                                    <p class="reveal" id="loma335-ch8-p-332"><span class="btn" data-answer="loma335-ch8-question-8-key" id="loma335-ch8-span-49"
+                                                                        role="button" tabindex="0">Submit</span>
+                                                                    </p>
+                                                                </div>
+                                                                <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                                                id="loma335-ch8-question-8-static">
+                                                                    <p class="q-title-static" id="loma335-ch8-p-333">
+                                                                        <img alt="Let’s Review" id="loma335-ch8-img-135" src="../../imgs/lets-review.png"
+                                                                        />
+                                                                    </p>
+                                                                    <p class="q-stem-static" id="loma335-ch8-p-334">Fill in the blanks.</p>
+                                                                    <p class="q-stem-static" id="loma335-ch8-p-335">__________ statistics summarize a population of data, and __________ statistics
+                                                                        draw conclusions about a population based on a sample group.</p>
+                                                                    <ol class="choices-static"
+                                                                    id="loma335-ch8-ol-16">
+                                                                        <li id="loma335-ch8-question-8-i0-static">Descriptive; biased</li>
+                                                                        <li id="loma335-ch8-question-8-i1-static">Descriptive; inferential</li>
+                                                                        <li id="loma335-ch8-question-8-i2-static">Inferential; random</li>
+                                                                        <li id="loma335-ch8-question-8-i3-static">Inferential; descriptive</li>
+                                                                    </ol>
+                                                                    <p class="reveal-static" id="loma335-ch8-p-336"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma335-ch8-question-8-key"
+                                                                        id="loma335-ch8-a-16" role="doc-noteref">Check your answer</a>
+                                                                    </p>
+                                                                </div>
+                                                                </div>
+                                                                <div class="question-wrapper" id="loma335-ch8-question-9-wrap">
+                                                                    <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                                                    id="loma335-ch8-question-9">
+                                                                        <div class="stem-cont" id="loma335-ch8-question-9-label">
+                                                                            <p class="q-stem" id="loma335-ch8-p-337">The following statements describe inferential statistics. If all three
+                                                                                statements are true, choose the last answer choice. Otherwise, choose the
+                                                                                correct statement.</p>
+                                                                        </div>
+                                                                        <ol aria-labelledby="loma335-ch8-question-9-label" class="choices" id="loma335-ch8-ol-17"
+                                                                        role="radiogroup">
+                                                                            <li aria-checked="false" id="loma335-ch8-question-9-i0" role="radio" tabindex="0">
+                                                                                <label for="loma335-ch8-question-9-i0">Nonrandom sampling is the best way to predict the characteristics of a
+                                                                                    population based on the characteristics of a sample.</label>
+                                                                                <div class="radio-wrapper"
+                                                                                id="loma335-ch8-div-110">
+                                                                                    <div class="check" id="loma335-ch8-div-111">&#160;</div>
+                                                                                    <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-136"
+                                                                                    src="../../imgs/checkmark-xs.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-137"
+                                                                                    src="../../imgs/times-circle-xs.png" />
+                                                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-138"
+                                                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-139"
+                                                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                                                </div>
+                                                                            </li>
+                                                                            <li aria-checked="false" id="loma335-ch8-question-9-i1" role="radio" tabindex="-1">
+                                                                                <label for="loma335-ch8-question-9-i1">Random sampling is less reliable than choosing the sample based on specific,
+                                                                                    personally selected criteria.</label>
+                                                                                <div class="radio-wrapper" id="loma335-ch8-div-112">
+                                                                                    <div class="check" id="loma335-ch8-div-113">&#160;</div>
+                                                                                    <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-140"
+                                                                                    src="../../imgs/checkmark-xs.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-141"
+                                                                                    src="../../imgs/times-circle-xs.png" />
+                                                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-142"
+                                                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-143"
+                                                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                                                </div>
+                                                                            </li>
+                                                                            <li aria-checked="false" id="loma335-ch8-question-9-i2" role="radio" tabindex="-1">
+                                                                                <label for="loma335-ch8-question-9-i2">The larger the sample group, the more likely it is to yield accurate results.</label>
+                                                                                <div
+                                                                                class="radio-wrapper" id="loma335-ch8-div-114">
+                                                                                    <div class="check" id="loma335-ch8-div-115">&#160;</div>
+                                                                                    <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-144"
+                                                                                    src="../../imgs/checkmark-xs.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-145"
+                                                                                    src="../../imgs/times-circle-xs.png" />
+                                                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-146"
+                                                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-147"
+                                                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                                    </div>
+                                                                    </li>
+                                                                    <li aria-checked="false" id="loma335-ch8-question-9-i3" role="radio" tabindex="-1">
+                                                                        <label for="loma335-ch8-question-9-i3">All of these choices are true.</label>
+                                                                        <div class="radio-wrapper" id="loma335-ch8-div-116">
+                                                                            <div class="check" id="loma335-ch8-div-117">&#160;</div>
+                                                                            <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-148"
+                                                                            src="../../imgs/checkmark-xs.png" />
+                                                                            <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-149"
+                                                                            src="../../imgs/times-circle-xs.png" />
+                                                                            <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-150"
+                                                                            src="../../imgs/checkmark-xs-light.png" />
+                                                                            <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-151"
+                                                                            src="../../imgs/times-circle-xs-light.png" />
+                                                                        </div>
+                                                                    </li>
+                                                                    </ol>
+                                                                    <p class="reveal" id="loma335-ch8-p-339"><span class="btn" data-answer="loma335-ch8-question-9-key" id="loma335-ch8-span-50"
+                                                                        role="button" tabindex="0">Submit</span>
+                                                                    </p>
+                                                                </div>
+                                                                <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                                                id="loma335-ch8-question-9-static">
+                                                                    <p class="q-stem-static" id="loma335-ch8-p-340">The following statements describe inferential statistics. If all three
+                                                                        statements are true, choose the last answer choice. Otherwise, choose the
+                                                                        correct statement.</p>
+                                                                    <ol class="choices-static" id="loma335-ch8-ol-18">
+                                                                        <li id="loma335-ch8-question-9-i0-static">Nonrandom sampling is the best way to predict the characteristics of a
+                                                                            population based on the characteristics of a sample.</li>
+                                                                        <li id="loma335-ch8-question-9-i1-static">Random sampling is less reliable than choosing the sample based on specific,
+                                                                            personally selected criteria.</li>
+                                                                        <li id="loma335-ch8-question-9-i2-static">The larger the sample group, the more likely it is to yield accurate results.</li>
+                                                                        <li
+                                                                        id="loma335-ch8-question-9-i3-static">All of these choices are true.</li>
+                                                                    </ol>
+                                                                    <p class="reveal-static" id="loma335-ch8-p-341"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma335-ch8-question-9-key"
+                                                                        id="loma335-ch8-a-17" role="doc-noteref">Check your answer</a>
+                                                                    </p>
+                                                                </div>
+                                                                </div>
+                                                                <div class="question-wrapper" id="loma335-ch8-question-10-wrap">
+                                                                    <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                                                    id="loma335-ch8-question-10">
+                                                                        <div class="stem-cont" id="loma335-ch8-question-10-label">
+                                                                            <p class="q-stem" id="loma335-ch8-p-342">To ensure that a sample results in accurate inferences, insurers should
+                                                                                use __________.</p>
+                                                                        </div>
+                                                                        <ol aria-labelledby="loma335-ch8-question-10-label" class="choices" id="loma335-ch8-ol-19"
+                                                                        role="radiogroup">
+                                                                            <li aria-checked="false" id="loma335-ch8-question-10-i0" role="radio"
+                                                                            tabindex="0">
+                                                                                <label for="loma335-ch8-question-10-i0">Decision criteria</label>
+                                                                                <div class="radio-wrapper" id="loma335-ch8-div-119">
+                                                                                    <div class="check" id="loma335-ch8-div-120">&#160;</div>
+                                                                                    <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-152"
+                                                                                    src="../../imgs/checkmark-xs.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-153"
+                                                                                    src="../../imgs/times-circle-xs.png" />
+                                                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-154"
+                                                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-155"
+                                                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                                                </div>
+                                                                            </li>
+                                                                            <li aria-checked="false" id="loma335-ch8-question-10-i1" role="radio"
+                                                                            tabindex="-1">
+                                                                                <label for="loma335-ch8-question-10-i1">Random sampling</label>
+                                                                                <div class="radio-wrapper" id="loma335-ch8-div-121">
+                                                                                    <div class="check" id="loma335-ch8-div-122">&#160;</div>
+                                                                                    <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-156"
+                                                                                    src="../../imgs/checkmark-xs.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-157"
+                                                                                    src="../../imgs/times-circle-xs.png" />
+                                                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-158"
+                                                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-159"
+                                                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                                                </div>
+                                                                            </li>
+                                                                            <li aria-checked="false" id="loma335-ch8-question-10-i2" role="radio"
+                                                                            tabindex="-1">
+                                                                                <label for="loma335-ch8-question-10-i2">Nonrandom sampling</label>
+                                                                                <div class="radio-wrapper" id="loma335-ch8-div-123">
+                                                                                    <div class="check" id="loma335-ch8-div-124">&#160;</div>
+                                                                                    <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-160"
+                                                                                    src="../../imgs/checkmark-xs.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-161"
+                                                                                    src="../../imgs/times-circle-xs.png" />
+                                                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-162"
+                                                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-163"
+                                                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                                                </div>
+                                                                            </li>
+                                                                            <li aria-checked="false" id="loma335-ch8-question-10-i3" role="radio"
+                                                                            tabindex="-1">
+                                                                                <label for="loma335-ch8-question-10-i3">Attention bias</label>
+                                                                                <div class="radio-wrapper" id="loma335-ch8-div-125">
+                                                                                    <div class="check" id="loma335-ch8-div-126">&#160;</div>
+                                                                                    <img alt="correct" class="answer-marker correct hide" id="loma335-ch8-img-164"
+                                                                                    src="../../imgs/checkmark-xs.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma335-ch8-img-165"
+                                                                                    src="../../imgs/times-circle-xs.png" />
+                                                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma335-ch8-img-166"
+                                                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma335-ch8-img-167"
+                                                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                                                </div>
+                                                                            </li>
+                                                                        </ol>
+                                                                        <p class="reveal" id="loma335-ch8-p-344"><span class="btn" data-answer="loma335-ch8-question-10-key" id="loma335-ch8-span-51"
+                                                                            role="button" tabindex="0">Submit</span>
+                                                                        </p>
+                                                                    </div>
+                                                                    <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                                                    id="loma335-ch8-question-10-static">
+                                                                        <p class="q-stem-static" id="loma335-ch8-p-345">To ensure that a sample results in accurate inferences, insurers should
+                                                                            use __________.</p>
+                                                                        <ol class="choices-static" id="loma335-ch8-ol-20">
+                                                                            <li id="loma335-ch8-question-10-i0-static">Decision criteria</li>
+                                                                            <li id="loma335-ch8-question-10-i1-static">Random sampling</li>
+                                                                            <li id="loma335-ch8-question-10-i2-static">Nonrandom sampling</li>
+                                                                            <li id="loma335-ch8-question-10-i3-static">Attention bias</li>
+                                                                        </ol>
+                                                                        <p class="reveal-static" id="loma335-ch8-p-346"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma335-ch8-question-10-key"
+                                                                            id="loma335-ch8-a-18" role="doc-noteref">Check your answer</a>
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                                <div aria-hidden="true" id="modalOverlay">
+                                                                    <div aria-labelledby="modalTitle" aria-modal="true" id="modalAlertBox"
+                                                                    role="dialog">
+                                                                        <div class="header"><span aria-label="Close" role="button" tabindex="0">×</span>
+                                                                        </div>
+                                                                        <div class="modalAlertContent">&#160;</div>
+                                                                    </div>
+                                                                </div>
+        </section>
+    </body>
+
+</html>

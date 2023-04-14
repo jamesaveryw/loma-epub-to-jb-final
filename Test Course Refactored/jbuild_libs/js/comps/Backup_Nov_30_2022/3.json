@@ -1,0 +1,126 @@
+
+
+
+
+
+c_div_maker = c_div_maker + "<div class='col-lg-12 col-md-12 col-xs-12' style='max-width:120ch; line-height:1.5';>";//container start   class='container'
+             //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=               
+             //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=              
+             //-------<( One Card Begin )>-------
+             //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    c_div_maker = c_div_maker + "<div id='card_"+c_ccnum+"_"+1+"' style='perspective: 2280px; position: relative;height:350px;'>"; 
+              
+        c_div_maker = c_div_maker + "<div class='front alert alert-info' style='backface-visibility: hidden; transform-style: preserve-3d; position: absolute; z-index: 1; height: 100%; width: 100%; transition: all 0.5s ease-out 0s; transform: rotateY(0deg); background-color:"+flip_card_data[0].card_01_front_color+"' onClick='javascript:rf_flip("+c_ccnum+","+1+")'>"; //c_ccnum
+             
+             //-------<( Add content here )>----
+             flip_card_contents(contents_values_array[1],1)
+                       c_div_maker = c_div_maker + "</div>";
+                       c_div_maker = c_div_maker + "<div class='back well well-lg' style='backface-visibility: hidden; transform-style: preserve-3d; position: relative; z-index: 0; height: 100%; width: 100%; transform: rotateY(-180deg); transition: all 0.5s ease-out 0s;background-color:"+flip_card_data[0].card_01_back_color+"'>";
+             //-------<( Add content here )>----
+             flip_card_contents(contents_values_array[2],2)
+             
+    c_div_maker = c_div_maker + "</div>";
+c_div_maker = c_div_maker + "</div>";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c_div_maker = c_div_maker + "<div class='col-lg-4 col-md-4 col-xs-12' style='max-width:120ch; line-height:1.5;'>";
+
+      c_div_maker = c_div_maker + "<div id='card_"+c_ccnum+"_"+1+"' class='card' style='perspective: 2280px; position: relative;height:350px; width:90%'>"; 
+
+//=======
+          c_div_maker = c_div_maker + "<div class='front alert alert-info' style='backface-visibility: hidden; transform-style: preserve-3d; position: absolute; z-index: 1; height: 100%; width: 100%; transition: all 0.5s ease-out 0s; transform: rotateY(0deg); background-color:"+flip_card_data[0].card_01_front_color+"' onClick='javascript:rf_flip("+c_ccnum+","+1+")'>";
+
+              flip_card_contents(contents_values_array[1],1)
+          c_div_maker = c_div_maker + "</div>";
+
+      c_div_maker = c_div_maker + "<div class='back well well-lg' style='backface-visibility: hidden; transform-style: preserve-3d; position: relative; z-index: 0; height: 100%; width: 100%; transform: rotateY(-180deg); transition: all 0.5s ease-out 0s;background-color:"+flip_card_data[0].card_01_back_color+"'>";
+  flip_card_contents(contents_values_array[2],2)
+c_div_maker = c_div_maker + "</div>";
+
+//=======
+
+c_div_maker = c_div_maker + "</div>";
+
+c_div_maker = c_div_maker + "</div>";
+//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ 
+c_div_maker = c_div_maker + "<div class='col-lg-4 col-md-4 col-xs-12'>";
+
+        c_div_maker = c_div_maker + "<div id='card_"+c_ccnum+"_"+2+"' class='card' style='perspective: 2280px; position: relative;height:350px; width:90%'>"; 
+//=======
+
+c_div_maker = c_div_maker + "<div class='front alert alert-info' style='backface-visibility: hidden; transform-style: preserve-3d; position: absolute; z-index: 1; height: 100%; width: 100%; transition: all 0.5s ease-out 0s; transform: rotateY(0deg); background-color:"+flip_card_data[0].card_01_front_color+"' onClick='javascript:rf_flip("+c_ccnum+","+2+")'>";
+
+  flip_card_contents(contents_values_array[3],3)
+
+c_div_maker = c_div_maker + "</div>";
+
+c_div_maker = c_div_maker + "<div class='back well well-lg' style='backface-visibility: hidden; transform-style: preserve-3d; position: relative; z-index: 0; height: 100%; width: 100%; transform: rotateY(-180deg); transition: all 0.5s ease-out 0s;background-color:"+flip_card_data[0].card_01_back_color+"'>";
+  flip_card_contents(contents_values_array[4],4)
+c_div_maker = c_div_maker + "</div>";
+
+//=======  
+   
+c_div_maker = c_div_maker + "</div>";
+c_div_maker = c_div_maker + "</div>";
+
+//@@@@@@@@@@@@@@@@@@@@
+c_div_maker = c_div_maker + "<div class='col-lg-4 col-md-4 col-xs-12'>";
+
+        c_div_maker = c_div_maker + "<div id='card_"+c_ccnum+"_"+3+"' class='card' style='perspective: 2280px; position: relative;height:350px; width:90%'>"; 
+//=======
+
+c_div_maker = c_div_maker + "<div class='front alert alert-info' style='backface-visibility: hidden; transform-style: preserve-3d; position: absolute; z-index: 1; height: 100%; width: 100%; transition: all 0.5s ease-out 0s; transform: rotateY(0deg); background-color:"+flip_card_data[0].card_01_front_color+"' onClick='javascript:rf_flip("+c_ccnum+","+3+")'>";
+
+  flip_card_contents(contents_values_array[5],5)
+
+c_div_maker = c_div_maker + "</div>";
+
+c_div_maker = c_div_maker + "<div class='back well well-lg' style='backface-visibility: hidden; transform-style: preserve-3d; position: relative; z-index: 0; height: 100%; width: 100%; transform: rotateY(-180deg); transition: all 0.5s ease-out 0s;background-color:"+flip_card_data[0].card_01_back_color+"'>";
+  flip_card_contents(contents_values_array[6],6)
+c_div_maker = c_div_maker + "</div>";
+
+//=======  
+   
+c_div_maker = c_div_maker + "</div>";
+c_div_maker = c_div_maker + "</div>";

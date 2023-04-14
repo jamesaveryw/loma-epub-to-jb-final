@@ -1,0 +1,491 @@
+/*******************************************************
+
+Project: LOMA Ebook Apple Books Gray/Night Theme overrides
+Developer: James Avery Wilhelm
+Date: 2018-03-16
+Modified: 2020-05-01
+
+*******************************************************/
+
+
+/*** Headings/Paras ***/
+:root[__ibooks_internal_theme*="Gray"] h1,
+:root[__ibooks_internal_theme*="Night"] h1, 
+:root[__ibooks_internal_theme*="Gray"] h2,
+:root[__ibooks_internal_theme*="Night"] h2,  
+:root[__ibooks_internal_theme*="Gray"] a ,
+:root[__ibooks_internal_theme*="Night"] a {
+	-webkit-text-fill-color: #189DDD;
+}
+:root[__ibooks_internal_theme*="Gray"] h3,
+:root[__ibooks_internal_theme*="Night"] h3, 
+:root[__ibooks_internal_theme*="Gray"] h4,
+:root[__ibooks_internal_theme*="Night"] h4, 
+:root[__ibooks_internal_theme*="Gray"] h5,
+:root[__ibooks_internal_theme*="Night"] h5, 
+:root[__ibooks_internal_theme*="Gray"] h6 ,
+:root[__ibooks_internal_theme*="Night"] h6,
+:root[__ibooks_internal_theme*="Gray"] p.fig-title,
+:root[__ibooks_internal_theme*="Night"] p.fig-title {
+	-webkit-text-fill-color: #14A693;
+}
+:root[__ibooks_internal_theme*="Gray"] h2:first-of-type ,
+:root[__ibooks_internal_theme*="Night"] h2:first-of-type {
+	border-bottom: 3px solid #b2b2b2;
+}
+:root[__ibooks_internal_theme*="Gray"] *:focus,
+:root[__ibooks_internal_theme*="Night"] *:focus {
+	outline-color: #c5eff7;
+}
+
+/*** Tables ***/
+:root[__ibooks_internal_theme*="Gray"] table :not(a), 
+:root[__ibooks_internal_theme*="Night"] table :not(a) {
+	-webkit-text-fill-color: #000000;
+}
+:root[__ibooks_internal_theme*="Gray"] table.blue ,
+:root[__ibooks_internal_theme*="Night"] table.blue {
+	background: -webkit-linear-gradient(#B2D2E6, #B2D2E6);
+	border-color: #189DDD;
+}
+:root[__ibooks_internal_theme*="Gray"] table.blue td,
+:root[__ibooks_internal_theme*="Night"] table.blue td,
+:root[__ibooks_internal_theme*="Gray"] table.blue th ,
+:root[__ibooks_internal_theme*="Night"] table.blue th {
+	border-color: #189DDD;
+}
+:root[__ibooks_internal_theme*="Gray"] table.blue tbody th ,
+:root[__ibooks_internal_theme*="Night"] table.blue tbody th {
+  	background: -webkit-linear-gradient(#189DDD, #189DDD);
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.blue tbody > tr:nth-child(odd) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.blue tbody > tr:nth-child(odd) {
+	background: -webkit-linear-gradient(rgba(0, 105, 173, .09), rgba(0, 105, 173, .09));
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.blue tbody > tr:nth-child(even) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.blue tbody > tr:nth-child(even) {
+	background: -webkit-linear-gradient(rgba(0, 105, 173, .3), rgba(0, 105, 173, .3));
+}
+
+:root[__ibooks_internal_theme*="Gray"] table.teal ,
+:root[__ibooks_internal_theme*="Night"] table.teal {
+	background: -webkit-linear-gradient(#B2D2D0, #B2D2D0);
+	border-color: #14A693;
+}
+:root[__ibooks_internal_theme*="Gray"] table.teal td ,
+:root[__ibooks_internal_theme*="Night"] table.teal td {
+	border-color: #14A693;
+}
+:root[__ibooks_internal_theme*="Gray"] table.teal tbody th ,
+:root[__ibooks_internal_theme*="Night"] table.teal tbody th {
+	background: -webkit-linear-gradient(#14A693, #14A693);
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.teal tbody > tr:nth-child(even) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.teal tbody > tr:nth-child(even) {
+	background: -webkit-linear-gradient(rgba(0, 106, 101, .3), rgba(0, 106, 101, .3));
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.teal tbody > tr:nth-child(odd) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.teal tbody > tr:nth-child(odd) {
+	background: -webkit-linear-gradient(rgba(0, 106, 101, .09), rgba(0, 106, 101, .09));
+}
+
+:root[__ibooks_internal_theme*="Gray"] table.orange ,
+:root[__ibooks_internal_theme*="Night"] table.orange {
+	background: -webkit-linear-gradient(#FFD8B2, #FFD8B2);
+	border-color: #EF7014;
+}
+:root[__ibooks_internal_theme*="Gray"] table.orange td ,
+:root[__ibooks_internal_theme*="Night"] table.orange td {
+	border-color: #EF7014;
+}
+:root[__ibooks_internal_theme*="Gray"] table.orange tbody th ,
+:root[__ibooks_internal_theme*="Night"] table.orange tbody th {
+	background: -webkit-linear-gradient(#EF7014, #EF7014);
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.orange tbody > tr:nth-child(even) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.orange tbody > tr:nth-child(even) {
+	background: -webkit-linear-gradient(rgba(239, 112, 20, .3), rgba(239, 112, 20, .3));
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.orange tbody > tr:nth-child(odd) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.orange tbody > tr:nth-child(odd) {
+	background: -webkit-linear-gradient(rgba(239, 112, 20, .09), rgba(239, 112, 20, .09));
+}
+
+:root[__ibooks_internal_theme*="Gray"] table.red ,
+:root[__ibooks_internal_theme*="Night"] table.red {
+	background: -webkit-linear-gradient(#F4B2B2, #F4B2B2);
+  	border-color: #FF5C52;
+}
+:root[__ibooks_internal_theme*="Gray"] table.red td ,
+:root[__ibooks_internal_theme*="Night"] table.red td {
+	border-color: #FF5C52;
+}
+:root[__ibooks_internal_theme*="Gray"] table.red tbody th ,
+:root[__ibooks_internal_theme*="Night"] table.red tbody th {
+	background: -webkit-linear-gradient(#FF5C52, #FF5C52);
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.red tbody > tr:nth-child(even) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.red tbody > tr:nth-child(even) {
+	background: -webkit-linear-gradient(rgba(255, 92, 82, .3), rgba(255, 92, 82, .3));
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.red tbody > tr:nth-child(odd) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.red tbody > tr:nth-child(odd) {
+	background: -webkit-linear-gradient(rgba(255, 92, 82, .09), rgba(255, 92, 82, .09));
+}
+
+:root[__ibooks_internal_theme*="Gray"] table.purple ,
+:root[__ibooks_internal_theme*="Night"] table.purple {
+	background: -webkit-linear-gradient(#D8B4EA, #D8B4EA);
+  	border-color: #D262FD;
+}
+:root[__ibooks_internal_theme*="Gray"] table.purple td ,
+:root[__ibooks_internal_theme*="Night"] table.purple td {
+	border-color: #D262FD;
+}
+:root[__ibooks_internal_theme*="Gray"] table.purple tbody th ,
+:root[__ibooks_internal_theme*="Night"] table.purple tbody th {
+  	background: -webkit-linear-gradient(#D262FD, #D262FD);
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.purple tbody > tr:nth-child(even) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.purple tbody > tr:nth-child(even) {
+  	background: -webkit-linear-gradient(rgba(210,98,253, .3), rgba(210,98,253, .3));
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.purple tbody > tr:nth-child(odd) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.purple tbody > tr:nth-child(odd) {
+  	background: -webkit-linear-gradient(rgba(210,98,253, .09), rgba(210,98,253, .09));
+}
+
+:root[__ibooks_internal_theme*="Gray"] table.green ,
+:root[__ibooks_internal_theme*="Night"] table.green {
+	background: -webkit-linear-gradient(#B2E6CA, #B2E6CA);
+  	border-color: #00ab4f;
+}
+:root[__ibooks_internal_theme*="Gray"] table.green td ,
+:root[__ibooks_internal_theme*="Night"] table.green td {
+	border-color: #00ab4f;
+}
+:root[__ibooks_internal_theme*="Gray"] table.green tbody th ,
+:root[__ibooks_internal_theme*="Night"] table.green tbody th {
+	background: -webkit-linear-gradient(#00ab4f, #00ab4f); 
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.green tbody > tr:nth-child(even) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.green tbody > tr:nth-child(even) {
+  	background: -webkit-linear-gradient(rgba(0, 171, 79, .3), rgba(0, 171, 79, .3));
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.green tbody > tr:nth-child(odd) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.green tbody > tr:nth-child(odd) {
+  	background: -webkit-linear-gradient(rgba(0, 171, 79, .09), rgba(0, 171, 79, .09));
+}
+
+:root[__ibooks_internal_theme*="Gray"] table.black ,
+:root[__ibooks_internal_theme*="Night"] table.black {
+	background: -webkit-linear-gradient(#b2b2b2, #b2b2b2);
+	border-color: #ffffff;
+}
+:root[__ibooks_internal_theme*="Gray"] table.black td ,
+:root[__ibooks_internal_theme*="Night"] table.black td {
+	border-color: #ffffff;
+}
+:root[__ibooks_internal_theme*="Gray"] table.black tbody th ,
+:root[__ibooks_internal_theme*="Night"] table.black tbody th {
+	background: -webkit-linear-gradient(#ffffff, #ffffff);
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.black tbody > tr:nth-child(even) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.black tbody > tr:nth-child(even) {
+  	background: -webkit-linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3));
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped.black tbody > tr:nth-child(odd) ,
+:root[__ibooks_internal_theme*="Night"] table.striped.black tbody > tr:nth-child(odd) {
+  	background: -webkit-linear-gradient(rgba(0, 0, 0, .09), rgba(0, 0, 0, .09));
+}
+
+:root[__ibooks_internal_theme*="Gray"] table.striped ,
+:root[__ibooks_internal_theme*="Night"] table.striped {
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 2px;
+	margin: 2em auto;
+	page-break-inside: avoid;
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped caption ,
+:root[__ibooks_internal_theme*="Night"] table.striped caption {
+	caption-side: bottom;
+	font-size: .85em;
+	font-weight: bold;
+	margin-top: .5em;
+	text-align: left;
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped tbody th ,
+:root[__ibooks_internal_theme*="Night"] table.striped tbody th {
+	-webkit-text-fill-color: #fff;
+	font-weight: bold;
+}
+:root[__ibooks_internal_theme*="Gray"] table.striped td,
+:root[__ibooks_internal_theme*="Night"] table.striped td, 
+:root[__ibooks_internal_theme*="Gray"] table.striped th ,
+:root[__ibooks_internal_theme*="Night"] table.striped th {
+	padding: 5px;
+}
+:root[__ibooks_internal_theme*="Gray"] table.black tbody th :not(a) ,
+:root[__ibooks_internal_theme*="Night"] table.black tbody th :not(a) {
+	-webkit-text-fill-color: #000000;
+}
+:root[__ibooks_internal_theme*="Gray"] table.tbexam :not(a),
+:root[__ibooks_internal_theme*="Night"] table.tbexam :not(a), 
+:root[__ibooks_internal_theme*="Gray"] table.team :not(a),
+:root[__ibooks_internal_theme*="Night"] table.team :not(a) {
+	-webkit-text-fill-color: #ffffff;
+}
+
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.blue tbody th,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.teal tbody th,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.orange tbody th,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.red tbody th,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.green tbody th,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.purple tbody th,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.black tbody th,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.blue tbody th,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.teal tbody th,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.orange tbody th,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.red tbody th,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.green tbody th,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.purple tbody th,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.black tbody th  {
+	background: -webkit-linear-gradient(transparent, transparent);
+}
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.blue tbody th p,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.teal tbody th p,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.orange tbody th p,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.red tbody th p,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.green tbody th p,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.purple tbody th p,
+:root[__ibooks_internal_theme*="Gray"] section.ibm table.black tbody th p,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.blue tbody th p,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.teal tbody th p,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.orange tbody th p,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.red tbody th p,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.green tbody th p,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.purple tbody th p,
+:root[__ibooks_internal_theme*="Night"] section.ibm table.black tbody th p {
+	-webkit-text-fill-color: #000000;
+}
+
+/*** 
+=  2 — SPECIFICS
+***/
+
+/*** Figures ***/
+:root[__ibooks_internal_theme*="Gray"] figure.numbered-fig p.title span.fig-num,
+:root[__ibooks_internal_theme*="Night"] figure.numbered-fig p.title span.fig-num, 
+:root[__ibooks_internal_theme*="Gray"] div.numbered-fig p.title span.fig-num,
+:root[__ibooks_internal_theme*="Night"] div.numbered-fig p.title span.fig-num, 
+:root[__ibooks_internal_theme*="Gray"] div.video-container p.title span.fig-num ,
+:root[__ibooks_internal_theme*="Night"] div.video-container p.title span.fig-num {
+	-webkit-text-fill-color: #14A693;
+}
+
+/*** 2.2: Example Boxes ***/
+:root[__ibooks_internal_theme*="Gray"] div.example ,
+:root[__ibooks_internal_theme*="Night"] div.example {
+	background: -webkit-linear-gradient(#00ab4f, #00ab4f); 
+  	border-color: #00ab4f;
+}
+
+:root[__ibooks_internal_theme*="Gray"] div.example div.inner ,
+:root[__ibooks_internal_theme*="Night"] div.example div.inner {
+	background: -webkit-linear-gradient(#B2E6CA, #B2E6CA);
+	-webkit-text-fill-color: #000000;
+}
+:root[__ibooks_internal_theme*="Gray"] div.example div.kbContent ,
+:root[__ibooks_internal_theme*="Night"] div.example div.kbContent {
+    background: -webkit-linear-gradient(#3e9f9b, #3e9f9b);
+	border-color: #3e9f9b;
+	border-radius: 3px;
+	border-width: 1px;
+}
+
+/*** Outline ***/
+:root[__ibooks_internal_theme*="Gray"] ul.outline li ,
+:root[__ibooks_internal_theme*="Night"] ul.outline li {
+    color: #189DDD;
+}
+
+/*** In-text Questions ***/
+:root[__ibooks_internal_theme*="Gray"] ol.choices li .check ,
+:root[__ibooks_internal_theme*="Night"] ol.choices li .check {
+	border: 2px solid #189DDD;
+}
+:root[__ibooks_internal_theme*="Gray"] ol.choices li[role="radio"][aria-checked="true"] div.radio-wrapper .check,
+:root[__ibooks_internal_theme*="Night"] ol.choices li[role="radio"][aria-checked="true"] div.radio-wrapper .check, 
+:root[__ibooks_internal_theme*="Gray"] ol.choices li[role="checkbox"][aria-checked="true"] div.radio-wrapper .check ,
+:root[__ibooks_internal_theme*="Night"] ol.choices li[role="checkbox"][aria-checked="true"] div.radio-wrapper .check {
+	background: -webkit-linear-gradient(#55bbed, #55bbed);
+	border: 2px solid #55bbed;
+}
+:root[__ibooks_internal_theme*="Gray"] ol.choices li:hover .check,
+:root[__ibooks_internal_theme*="Night"] ol.choices li:hover .check, 
+:root[__ibooks_internal_theme*="Gray"] ol.choices li:focus .check ,
+:root[__ibooks_internal_theme*="Night"] ol.choices li:focus .check {
+	border: 3px solid #55bbed;
+}
+:root[__ibooks_internal_theme*="Gray"] ol.choices li[role="radio"] div.radio-wrapper .check.answered, 
+:root[__ibooks_internal_theme*="Gray"] ol.choices li[role="checkbox"] div.radio-wrapper .check.answered,
+:root[__ibooks_internal_theme*="Night"] ol.choices li[role="radio"] div.radio-wrapper .check.answered, 
+:root[__ibooks_internal_theme*="Night"] ol.choices li[role="checkbox"] div.radio-wrapper .check.answered {
+	background: -webkit-linear-gradient(transparent, transparent);
+	border-color: transparent;
+	display: none;
+}
+:root[__ibooks_internal_theme*="Night"] ol.choices li.cr,
+:root[__ibooks_internal_theme*="Gray"] ol.choices li.cr {
+	border-color: #00ab4f;
+}
+:root[__ibooks_internal_theme*="Night"] .match-wrapper.cor .response,
+:root[__ibooks_internal_theme*="Gray"] .match-wrapper.cor .response {
+	-webkit-text-fill-color: #00ab4f;
+}
+:root[__ibooks_internal_theme*="Night"] .match-wrapper.incor .response,
+:root[__ibooks_internal_theme*="Gray"] .match-wrapper.incor .response {
+	-webkit-text-fill-color: #FF5C52;
+}
+:root[__ibooks_internal_theme*="Night"] div[data-qtype="dd"] ul.lb-options {
+	background: -webkit-linear-gradient(#171717, #171717);
+}
+:root[__ibooks_internal_theme*="Gray"] div[data-qtype="dd"] ul.lb-options {
+	background: -webkit-linear-gradient(#5c5c60, #5c5c60);
+}
+:root[__ibooks_internal_theme*="Gray"] .btn,
+:root[__ibooks_internal_theme*="Night"] .btn,
+:root[__ibooks_internal_theme*="Gray"] .id-button,
+:root[__ibooks_internal_theme*="Night"] .id-button,
+:root[__ibooks_internal_theme*="Gray"] .ts-button ,
+:root[__ibooks_internal_theme*="Night"] .ts-button {
+	background: -webkit-linear-gradient(#189DDD, #189DDD);
+	color: #000000;
+}
+:root[__ibooks_internal_theme*="Gray"] .btn:focus,
+:root[__ibooks_internal_theme*="Night"] .btn:focus,
+:root[__ibooks_internal_theme*="Gray"] .btn:hover,
+:root[__ibooks_internal_theme*="Night"] .btn:hover,
+:root[__ibooks_internal_theme*="Gray"] .id-button:focus,
+:root[__ibooks_internal_theme*="Night"] .id-button:focus,
+:root[__ibooks_internal_theme*="Gray"] .id-button:hover,
+:root[__ibooks_internal_theme*="Night"] .id-button:hover,
+:root[__ibooks_internal_theme*="Gray"] .ts-button:focus,
+:root[__ibooks_internal_theme*="Night"] .ts-button:focus,
+:root[__ibooks_internal_theme*="Gray"] .ts-button:hover ,
+:root[__ibooks_internal_theme*="Night"] .ts-button:hover {
+	background: -webkit-linear-gradient(#55bbed, #55bbed);
+	color: #000000;
+}
+
+/*** Insights ***/
+:root[__ibooks_internal_theme*="Gray"] div.insight  ,
+:root[__ibooks_internal_theme*="Night"] div.insight  {
+	border: #CD76BB solid 2px;
+}
+:root[__ibooks_internal_theme*="Gray"] div.insight p.insight-header ,
+:root[__ibooks_internal_theme*="Night"] div.insight p.insight-header {
+	background: -webkit-linear-gradient(#CD76BB, #CD76BB);
+}
+:root[__ibooks_internal_theme*="Gray"] div.insight p.insight-title,
+:root[__ibooks_internal_theme*="Night"] div.insight p.insight-title,
+:root[__ibooks_internal_theme*="Gray"] div.insight p.title ,
+:root[__ibooks_internal_theme*="Night"] div.insight p.title {
+	-webkit-text-fill-color: #CD76BB;
+}
+:root[__ibooks_internal_theme*="Gray"] div.insight ul li:before ,
+:root[__ibooks_internal_theme*="Night"] div.insight ul li:before {
+	-webkit-text-fill-color: #CD76BB;
+}
+
+/*** Video Player ***/
+:root[__ibooks_internal_theme*="Gray"] div.js div.video-controls ,
+:root[__ibooks_internal_theme*="Night"] div.js div.video-controls {
+    background: -webkit-linear-gradient(#189DDD, #189DDD);
+	border: solid 1px #189DDD;
+}
+:root[__ibooks_internal_theme*="Gray"] div.video-controls * ,
+:root[__ibooks_internal_theme*="Night"] div.video-controls * {
+    background: -webkit-linear-gradient(#189DDD, #189DDD);
+}
+:root[__ibooks_internal_theme*="Gray"] div.video-controls button ,
+:root[__ibooks_internal_theme*="Night"] div.video-controls button {
+    border: solid 3px #189DDD;
+}
+:root[__ibooks_internal_theme*="Gray"] div.progress-bar ,
+:root[__ibooks_internal_theme*="Night"] div.progress-bar {
+    background: -webkit-linear-gradient(#ffffff, #ffffff);
+}
+:root[__ibooks_internal_theme*="Gray"] div.progress-played ,
+:root[__ibooks_internal_theme*="Night"] div.progress-played {
+    background: -webkit-linear-gradient(#666666, #666666);
+}
+:root[__ibooks_internal_theme*="Gray"] div.v-title-overlay,
+:root[__ibooks_internal_theme*="Night"] div.v-title-overlay {
+    background: -webkit-linear-gradient(#ffffff, #ffffff);
+}
+:root[__ibooks_internal_theme*="Gray"] div.video-container div.v-title-overlay p.v-title,
+:root[__ibooks_internal_theme*="Night"] div.video-container div.v-title-overlay p.v-title {
+    -webkit-text-fill-color: #0069ad;
+}
+
+/*** Modals ***/
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox {
+	background: -webkit-linear-gradient(#6D6D6F, #6D6D6F);
+	border: 2px solid #99d6ff;
+	-webkit-text-fill-color: #FFFFFF;
+}
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox {
+	background: -webkit-linear-gradient(#000000, #000000);
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox.fb-correct ,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox.fb-correct {
+	border: 2px solid #00ab4f;
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox.fb-correct .header > span,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox.fb-correct .header > span {
+	background: -webkit-linear-gradient(#00ab4f, #00ab4f);
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox p.correct span.head,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox p.correct span.head{
+	-webkit-text-fill-color: #00ab4f;
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox.fb-incorrect ,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox.fb-incorrect {
+	border: 2px solid #FF5C52;
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox p.incorrect span.head,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox p.incorrect span.head {
+	-webkit-text-fill-color: #FF5C52;
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox.fb-incorrect .header > span,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox.fb-incorrect .header > span {
+	background: -webkit-linear-gradient(#FF5C52, #FF5C52);
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox.warning ,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox.warning {
+	border: 2px solid #EF7014;
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox.warning .header > span,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox.warning .header > span {
+	background: -webkit-linear-gradient(#EF7014, #EF7014);
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox p.warning,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox p.warning {
+	-webkit-text-fill-color: #EF7014;
+}
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox .header > span:focus,
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox .header > span:focus {
+	outline-color: #c5eff7;
+}
+:root[__ibooks_internal_theme*="Gray"] #modalAlertBox.description .header > span,
+:root[__ibooks_internal_theme*="Night"] #modalAlertBox.description .header > span {
+	background: -webkit-linear-gradient(#14A693, #14A693);
+}
+
+/*** Links ***/
+:root[__ibooks_internal_theme*="Gray"] span.alert ,
+:root[__ibooks_internal_theme*="Night"] span.alert {
+	-webkit-text-fill-color: #99d6ff;
+}

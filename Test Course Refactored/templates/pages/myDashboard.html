@@ -1,0 +1,47 @@
+<div id="portalContents" tabindex="-1" style="display: block; overflow-y: auto; top: 75px; height: 1162px; z-index: 99;">
+    <div class="theContent" tabindex="-1">
+        <h1>{{default_content.Labels.myDashboard}}</h1>
+        <div id="dashLarge">
+            <div class="circle btooltiplarge" id="big_circle" tooltip="{{course_settings.Portal_Setup.Course_Name}}" aria-label="{{default_content.Labels.courseProgress}}">
+                <canvas id="big_canvas-bg" class="bg-canvas" width="200" height="200"></canvas>
+                <canvas id="big_canvas" width="200" height="200"></canvas>
+                <span class="labeled">{{course_settings.Portal_Setup.Course_Number}}</span>
+                <!-- <span class="sr-only">{{default_content.Labels.courseProgress}}</span> -->
+            </div>
+        </div>
+        <div id="dashInfo">
+            <div id="dashIntro">
+                {{default_content.Dashboard_Text}}
+            </div>
+            <div id="dashModule" class="hidden">
+                <p class="dashModIntro">{{default_content.Labels.SelectToGoDirectlyToALessonExam}}</p>
+                <div id="dashGroupCont">
+                    <div class="dashgroup modulelink" aria-labelledby="module-{{data-index}}" aria-describedby="moduledate-{{data-index}}" role="link" tabindex="0" data-length="{{TOC.length}}" id="dashgroup-{{data-index}}" data-module="{{data-index}}">
+                        <div class="dashcheckmark"></div>
+                        <div id="module-{{data-index}}" class="dashlessonnumber">{{default_content.Labels.moduleNum}}</div>
+                        <div id="moduledate-{{data-index}}" class="dashlessondate">
+                            <span class="sr-only">{{default_content.Labels.incomplete}}</span>
+                            <span class="lesson-date" aria-hidden="true">---- - -- - --</span>
+                        </div>
+                        <div class="dashscore">--</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="dashSmall">
+            <div id="dashHybrid">
+                {{default_content.Ebook_Dashboard_Text}}
+            </div>
+            <div class="circle btooltip" id="circle-x" tooltip="{{default_content.Labels.courseProgress}}" tabindex="0" role="link" aria-label="{{default_content.Labels.courseProgress}}">
+                <canvas id="canvas-x-bg" class="bg-canvas" width="106" height="100"></canvas>
+                <canvas id="canvas-x" width="100" height="100"></canvas>
+                <span class="labeled">{{course_settings.Portal_Setup.Course_Number}}</span>
+            </div>
+            <div class="circle btooltip" data-length="{{TOC.length}}" id="circle-{{data-index}}" tooltip="{{default_content.Labels.moduleNum}}" data-module="true" tabindex="0" role="link" aria-label="{{default_content.Labels.moduleNum}}">
+                <canvas id="canvas-{{data-index}}-bg" class="bg-canvas" width="100" height="100"></canvas>
+                <canvas id="canvas-{{data-index}}" width="100" height="100"></canvas>
+                <span class="labeled">M{{mod-num}}</span>
+            </div>
+        </div>
+    </div>
+</div>

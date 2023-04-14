@@ -1,0 +1,62 @@
+*:focus, 
+a:focus, 
+.btn:focus {
+	outline: 3px solid #FF7D00;
+    outline-offset: 3px;
+}
+
+/* Accordion */
+.panel-title button {
+    background-color: transparent;
+    border: none;
+    display: block;
+    padding: 10px 15px;
+    width: 100%;
+}
+.panel-title button:hover {
+    text-decoration: underline;
+}
+.panel-title button:focus {
+}
+.panel-heading {
+    padding: 0;
+}
+
+/* Info box */
+button.info-btn {
+    border: none;
+}
+button.info-btn img {
+    margin-left: auto;
+    margin-right: auto;
+}
+p.info-btn-title {
+    font-size: 24px;    
+    font-weight: 500;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+/* Modal */
+body.modal-open {
+    overflow: hidden;
+}
+
+/* keyterm buttons */
+button.keyterm {
+    background-color: transparent;
+    border: none;
+    box-sizing: border-box;
+    color: #0069aa;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0;
+    text-decoration: underline;
+}
+
+button.modal-close-btn {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+}

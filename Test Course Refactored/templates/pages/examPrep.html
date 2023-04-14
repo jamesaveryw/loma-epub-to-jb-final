@@ -1,0 +1,56 @@
+<div class="portalContents">
+    <div class="description">
+        <h1>{{default_content.Labels.examPrep}}</h1>
+        <p>{{default_content.Exam_Prep[course-type].Description[0]}}</p>
+        <ul>
+            <li>{{default_content.Exam_Prep[course-type].Description[1]}}</li>
+            <li>{{default_content.Exam_Prep[course-type].Description[2]}}</li>
+            <li>{{default_content.Exam_Prep[course-type].Description[3]}}</li>
+        </ul>
+        <p class="hybrid-only">{{default_content.Exam_Prep[course-type].Description[4]}}</p>
+        <p class="hybrid-only">{{default_content.Exam_Prep[course-type].Description[5]}}</p>
+    </div>
+    <div id="theResources">
+        <div id="plans-tips-strat" class="examprep_block">
+            <div class="bSubHead">
+                <h2>{{default_content.Exam_Prep.PlansTipsStrategy.title}}</h2>
+            </div>
+            <div class="ep-btns">
+                <div class="examprep_btn pdf_btn" role="link" tabindex="0" data-length="{{default_content.Exam_Prep.PlansTipsStrategy.buttons.length}}" data-pdf="pdf/{{default_content.Exam_Prep.PlansTipsStrategy.buttons[i].link}}">{{default_content.Exam_Prep.PlansTipsStrategy.buttons[i].prepLabel}}</div>
+            </div>
+        </div>
+        <div class="examprep_block">
+            <div class="bSubHead">
+                <h2>{{default_content.Labels.practiceQuestions}}</h2>
+            </div>
+            <div class="pq_btn_cont" data-length="{{TOC.length}}" data-module="true">
+                <div>
+                    <!-- TODO: Check to make sure this renders in Hybrid/PDF courses-->
+                    <h3>{{default_content.Labels.moduleNum}}</h3>
+                </div>
+                <div class="dotted_seperator"></div>
+                <div class="examprep_btn pq_btn" role="link" tabindex="0" data-length="{{TOC[mod-index].length}}" data-chapter="{{TOC[mod-index][lsn-index][0].CH_Num}}" data-lesson="true">{{default_content.Labels.Chapter}} {{TOC[mod-index][lsn-index][0].CH_Num}}</div>
+            </div>
+        </div>
+        <div class="examprep_block hybrid-only">
+            <div class="bSubHead">
+                <h2>{{default_content.Labels.sampleExams}}</h2>
+            </div>
+            <!-- TODO: Check to make sure this renders in Hybrid/PDF courses-->
+            <div class="examprep_btn se_btn" role="link" tabindex="0" data-length="{{TOC.length}}" data-module="true">{{default_content.Labels.moduleNum}} {{default_content.Labels.sampleExam}}</div>
+        </div>
+        <div class="examprep_block pdf-only">
+            <div class="bSubHead">
+                <h2>{{default_content.Labels.sampleExam}}</h2>
+            </div>
+            <div class="examprep_btn se_btn" role="link" tabindex="0">{{default_content.Labels.sampleExam}}</div>
+        </div>
+        <div class="dotted_seperator"></div>
+        <!-- TODO: Check to make sure this renders in Hybrid/PDF courses-->
+        <p class="hybrid-only">{{default_content.Exam_Prep[course-type].Description[6]}}</p>
+        <img src="includes/images/{{video_library.helpVideos.examExperience_self_proctored.image}}" class="paraImage hybrid-only videoBtn" data-video="examExperience_self_proctored" alt="{{default_content.Labels.examExp}}" tabindex="0" role="button" />
+        <!-- TODO: Check to make sure this renders in Hybrid/PDF courses-->
+        <p class="pdf-only">{{default_content.Exam_Prep[course-type].Description[4]}}</p>
+        <img src="includes/images/{{video_library.helpVideos.examExperience_proctored.image}}" class="paraImage pdf-only videoBtn" data-video="examExperience_proctored" alt="{{default_content.Labels.examExp}}" tabindex="0" role="button" />
+    </div>
+</div>

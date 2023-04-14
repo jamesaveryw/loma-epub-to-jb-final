@@ -1,0 +1,61 @@
+
+
+<fieldset>
+    <legend>Enter text</legend>
+    <textarea></textarea>
+    <button id="btnSave">Save text file</button>
+  </fieldset>
+
+
+
+  <style>
+
+body {
+  font-family: 'Helvetica neue', sans-serif;
+  font-size: 16px;
+}
+
+fieldset {
+  max-width: 30%;
+  margin: 5em auto;
+  padding: 2em;
+  border: 3px groove #ececec;  
+  border-radius: 4px;
+}
+textarea {
+  width: 100%;
+  min-height: 15em;
+  display: block;
+  border: 1px solid #999;
+  border-radius: 4px;
+}
+button {
+  display: block;
+  margin: 1em 0 0;
+  border: 1px solid dark;
+  padding: 0.75em;
+  line-height: 1;
+  border-radius: 2px;
+  font-size: 16px;
+}
+
+  </style>
+
+  <script>
+      const downloadToFile = (content, filename, contentType) => {
+  const a = document.createElement('a');
+  const file = new Blob([content], {type: contentType});
+  
+  a.href= URL.createObjectURL(file);
+  a.download = filename;
+  a.click();
+  
+  URL.revokeObjectURL(a.href);
+};
+
+document.querySelector('#btnSave').addEventListener('click', () => {
+  const textArea = document.querySelector('textarea');
+  
+  downloadToFile(textArea.value, 'text_export.txt', 'text/plain'); //  This will save in your downloads folder
+});
+  </script>

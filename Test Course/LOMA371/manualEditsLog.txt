@@ -1,0 +1,192 @@
+
+LOMA_371_M1_L1:
+	Lesson has 8 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_371_M1_L2:
+	Lesson has 7 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_371_M1_L2_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M1_L2_P2.js. Refer to Solvency Standards in chapter 2 of the EPUB to see the equation.
+
+
+LOMA_371_M1_L3:
+	Lesson has 8 learning objectives, but 7 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_371_M1_L4:
+	Lesson has 9 learning objectives, but 6 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_371_M2_L1:
+	Lesson has 10 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_371_M2_L2:
+	Lesson has 6 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_371_M2_L2_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M2_L2_P2.js. Refer to Technical Product Design in chapter 6 of the EPUB to see the equation.
+
+
+LOMA_371_M3_L1:
+	Lesson has 9 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P2.js. Refer to Investment Earnings in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P3.js. Refer to Crediting Rates and Interest Spreads in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P3.js. Refer to Crediting Rates and Interest Spreads in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P3.js. Refer to Crediting Rates and Interest Spreads in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P3.js. Refer to Crediting Rates and Interest Spreads in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P4.js. Refer to Measuring Product Profitability in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P4.js. Refer to Measuring Product Profitability in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P4.js. Refer to Measuring Product Profitability in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P4 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L1_P4.js. Refer to Measuring Product Profitability in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P4.js. Refer to Measuring Product Profitability in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P4 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L1_P4.js. Refer to Measuring Product Profitability in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L1_P4.js. Refer to Measuring Product Profitability in chapter 7 of the EPUB to see the equation.
+
+	LOMA_371_M3_L1_P4 has a video (Video 7.2) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_371_M3_L1_P4.js. Refer to Measuring Product Profitability in chapter 7 of the EPUB to see the transcript.
+
+
+LOMA_371_M3_L2:
+	Lesson has 8 learning objectives, but 6 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_371_M3_L2_P3 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L2_P3.js. Refer to Interpreting Mortality Data in chapter 8 of the EPUB to see the equation.
+
+	LOMA_371_M3_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L2_P3.js. Refer to Interpreting Mortality Data in chapter 8 of the EPUB to see the equation.
+
+	LOMA_371_M3_L2_P3 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M3_L2_P3.js. Refer to Interpreting Mortality Data in chapter 8 of the EPUB to see the equation.
+
+	LOMA_371_M3_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L2_P3.js. Refer to Interpreting Mortality Data in chapter 8 of the EPUB to see the equation.
+
+	LOMA_371_M3_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L2_P3.js. Refer to Interpreting Mortality Data in chapter 8 of the EPUB to see the equation.
+
+	LOMA_371_M3_L2_P6 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L2_P6.js. Refer to Cost of Benefits in Technical Product Design in chapter 8 of the EPUB to see the equation.
+
+	LOMA_371_M3_L2_P6 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L2_P6.js. Refer to Cost of Benefits in Technical Product Design in chapter 8 of the EPUB to see the equation.
+
+	LOMA_371_M3_L2_P6 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L2_P6.js. Refer to Cost of Benefits in Technical Product Design in chapter 8 of the EPUB to see the equation.
+
+	LOMA_371_M3_L2_P6 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L2_P6.js. Refer to Cost of Benefits in Technical Product Design in chapter 8 of the EPUB to see the equation.
+
+
+LOMA_371_M3_L3:
+	Lesson has 8 learning objectives, but 6 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_371_M3_L3_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L3_P3.js. Refer to Assigning Expenses to Products or Product Lines in chapter 9 of the EPUB to see the equation.
+
+	LOMA_371_M3_L3_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L3_P3.js. Refer to Assigning Expenses to Products or Product Lines in chapter 9 of the EPUB to see the equation.
+
+	LOMA_371_M3_L3_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L3_P4.js. Refer to Setting Margins for Profits, Risks, and Policyholder Behavior in chapter 9 of the EPUB to see the equation.
+
+	LOMA_371_M3_L3_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M3_L3_P4.js. Refer to Setting Margins for Profits, Risks, and Policyholder Behavior in chapter 9 of the EPUB to see the equation.
+
+
+LOMA_371_M4_L1:
+	Lesson has 5 learning objectives, but 9 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_371_M4_L1_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P2.js. Refer to Key Life Insurance Benefits in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P4.js. Refer to Cost of Benefits for One-Year Term Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P4.js. Refer to Cost of Benefits for One-Year Term Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P4.js. Refer to Cost of Benefits for One-Year Term Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P4.js. Refer to Cost of Benefits for One-Year Term Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P4.js. Refer to Cost of Benefits for One-Year Term Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P6 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P6.js. Refer to Cost of Benefits for Whole Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has a video (Video 10.1) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the transcript.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P7.js. Refer to Cost of Benefits for Universal Life Insurance in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P8 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P8.js. Refer to Cost of Benefits for Riders in chapter 10 of the EPUB to see the equation.
+
+	LOMA_371_M4_L1_P9 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L1_P9.js. Refer to Setting Pricing Premium Rates in chapter 10 of the EPUB to see the equation.
+
+
+LOMA_371_M4_L2:
+	Lesson has 5 learning objectives, but 9 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_371_M4_L2_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L2_P5.js. Refer to Annuity Surrender and Withdrawal Benefits in chapter 11 of the EPUB to see the equation.
+
+	LOMA_371_M4_L2_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L2_P5.js. Refer to Annuity Surrender and Withdrawal Benefits in chapter 11 of the EPUB to see the equation.
+
+	LOMA_371_M4_L2_P7 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M4_L2_P7.js. Refer to Indexed Crediting for Fixed Indexed Annuities in chapter 11 of the EPUB to see the equation.
+
+	LOMA_371_M4_L2_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L2_P7.js. Refer to Indexed Crediting for Fixed Indexed Annuities in chapter 11 of the EPUB to see the equation.
+
+	LOMA_371_M4_L2_P7 has a MathML equation. Look for "[[MathML equation. NEEDS EDIT!]]" in LOMA_371_M4_L2_P7.js. Refer to Indexed Crediting for Fixed Indexed Annuities in chapter 11 of the EPUB to see the equation.
+
+	LOMA_371_M4_L2_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L2_P7.js. Refer to Indexed Crediting for Fixed Indexed Annuities in chapter 11 of the EPUB to see the equation.
+
+	LOMA_371_M4_L2_P7 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L2_P7.js. Refer to Indexed Crediting for Fixed Indexed Annuities in chapter 11 of the EPUB to see the equation.
+
+	LOMA_371_M4_L2_P8 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L2_P8.js. Refer to Variable Annuity Guarantee Riders in chapter 11 of the EPUB to see the equation.
+
+	LOMA_371_M4_L2_P9 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_371_M4_L2_P9.js. Refer to Summary of Annuity Product Costs and Charges in chapter 11 of the EPUB to see the equation.
+

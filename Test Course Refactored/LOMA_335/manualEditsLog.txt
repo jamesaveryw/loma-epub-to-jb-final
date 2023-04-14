@@ -1,0 +1,66 @@
+
+LOMA_335_M1_L1:
+	Lesson has 6 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_335_M1_L1_P5 has a figure (Figure 1.5) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_335_M1_L1_P5.js. Refer to The Changing Operating Environment in chapter 1 of the EPUB to see the figure description.
+
+	LOMA_335_M1_L1_P5 has a figure (Figure 1.8) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_335_M1_L1_P5.js. Refer to The Changing Operating Environment in chapter 1 of the EPUB to see the figure description.
+
+
+LOMA_335_M1_L2:
+	Lesson has 3 learning objectives, but 6 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_335_M1_L2_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M1_L2_P5.js. Refer to The Environment of Strategy in chapter 2 of the EPUB to see the equation.
+
+	LOMA_335_M1_L2_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M1_L2_P5.js. Refer to The Environment of Strategy in chapter 2 of the EPUB to see the equation.
+
+	LOMA_335_M1_L2_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M1_L2_P5.js. Refer to The Environment of Strategy in chapter 2 of the EPUB to see the equation.
+
+	LOMA_335_M1_L2_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M1_L2_P5.js. Refer to The Environment of Strategy in chapter 2 of the EPUB to see the equation.
+
+	LOMA_335_M1_L2_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M1_L2_P5.js. Refer to The Environment of Strategy in chapter 2 of the EPUB to see the equation.
+
+
+LOMA_335_M1_L3:
+	Lesson has 7 learning objectives, but 8 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_335_M1_L3_P5 has a figure (Figure 3.3) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_335_M1_L3_P5.js. Refer to Motivating Through Evaluation and Compensation in chapter 3 of the EPUB to see the figure description.
+
+	LOMA_335_M1_L3_P5 has a figure (Figure 3.4) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_335_M1_L3_P5.js. Refer to Motivating Through Evaluation and Compensation in chapter 3 of the EPUB to see the figure description.
+
+
+LOMA_335_M2_L1:
+
+LOMA_335_M2_L2:
+	Lesson has 8 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_335_M2_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M2_L2_P3.js. Refer to The Project Lifecycle in chapter 5 of the EPUB to see the equation.
+
+	LOMA_335_M2_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M2_L2_P3.js. Refer to The Project Lifecycle in chapter 5 of the EPUB to see the equation.
+
+	LOMA_335_M2_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M2_L2_P3.js. Refer to The Project Lifecycle in chapter 5 of the EPUB to see the equation.
+
+	LOMA_335_M2_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M2_L2_P3.js. Refer to The Project Lifecycle in chapter 5 of the EPUB to see the equation.
+
+
+LOMA_335_M2_L3:
+	Lesson has 4 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_335_M3_L1:
+	Lesson has 7 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_335_M3_L2:
+	Lesson has 7 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_335_M3_L2_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M3_L2_P2.js. Refer to Statistical Analysis in chapter 8 of the EPUB to see the equation.
+
+	LOMA_335_M3_L2_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_335_M3_L2_P2.js. Refer to Statistical Analysis in chapter 8 of the EPUB to see the equation.
+
+
+LOMA_335_M3_L3:
+	Lesson has 6 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_335_M3_L4:

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+ <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+
+  <link rel="stylesheet" href="../../../jbuild_libs/css/bootstrap.min.css">
+
+  <script src="../../../jbuild_libs/css/bootstrap.min.js"></script>
+</head>
+<body style='background-color:red'>
+
+     <div class="container"> <!-- class container begin -->
+       
+        <div class="panel-group" id="accordion"> <!-- class="panel-group" id="accordion" begin  -->
+
+          <div class="panel panel-default"> <!-- Tab 1 begin -->
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Collapsible Group 1</a>
+              </h4>
+            </div>
+            <div id="collapse1" class="panel-collapse collapse">
+              <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+              <button onclick="tbutton(1)">Test</button>
+            </div>
+            
+          </div> <!-- Tab 1 end -->
+        
+
+
+        </div> <!-- class="panel-group" id="accordion" ends  -->
+
+
+      </div> <!-- class container ends -->
+
+
+
+<!--
+<div class="container">
+  <h2>Collapsible Methods</h2>
+  <p>The toggle method toggles the collapsible content.</p>
+  <p>The show method shows the collapsible content.</p>
+  <p>The hide method hides the collapsible content.</p>
+  <button type="button" class="btn btn-primary">Toggle</button>
+  <button type="button" class="btn btn-success">Show</button>
+  <button type="button" class="btn btn-warning">Hide</button> 
+    
+  <div class="test">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+    <button onclick="tbutton()">Test</button>
+
+
+  </div>
+</div>
+-->
+<script>
+  /*  
+$(document).ready(function(){
+  $(".btn-primary").click(function(){
+    $(".test").collapse('toggle');
+  });
+  $(".btn-success").click(function(){
+    $(".test").collapse('show');
+  });
+  $(".btn-warning").click(function(){
+    $(".test").collapse('hide');
+  });
+});
+*/
+
+function tbutton(jcc)
+{
+    alert("tbutton " + jcc +  " was called");
+}
+
+</script>
+
+</body>
+</html>
+
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+    
+</body>
+</html>
+-->

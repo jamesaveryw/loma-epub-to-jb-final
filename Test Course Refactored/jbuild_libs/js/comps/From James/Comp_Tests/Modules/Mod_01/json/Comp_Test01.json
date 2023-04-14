@@ -1,0 +1,536 @@
+Lesson_Data_File([
+	{
+//      _            _    ____        _ _     _           
+//     | | __ _  ___| | _| __ ) _   _(_| | __| | ___ _ __ 
+//  _  | |/ _` |/ __| |/ |  _ \| | | | | |/ _` |/ _ | '__|
+// | |_| | (_| | (__|   <| |_) | |_| | | | (_| |  __| |   
+// _\___/ \__,_|\___|_|\_|____/ \__,_|_|_|\__,_|\___|_|   
+// \ \   / ___ _ __ ___(_) ___  _ __   |___ \  / _ \      
+//  \ \ / / _ | '__/ __| |/ _ \| '_ \    __) || | | |     
+//   \ V |  __| |  \__ | | (_) | | | |  / __/ | |_| |     
+//    \_/ \___|_|  |___|_|\___/|_| |_| |_____(_\___/      
+
+
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//▌░▒▓▓▓▓▓▓/                                                                 \▓▓▓▓▓▓▒░▐
+//▌░▒▓▓▓▓    DO NOT MOVE  "Page_Setup"  ABOVE OR BELOW ITS CURRENT LOCATION     ▓▓▓▓▒░▐
+//▌░▒▓▓▓▓▓▓\                                                                 /▓▓▓▓▓▓▒░▐		
+//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀	
+//╔══════════════════════════════════════════════════════════════════════════════════╗	
+//╚╣░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░╠╝
+		
+	
+//╔═══════════════════════════════════════════════════════════════════════════════════╗
+//║ -------<( Page Setup Begin )>-------        01/25/2021                            ║
+//╚═══════════════════════════════════════════════════════════════════════════════════╝		
+		"Page_Setup":
+			{
+			//╔══════════════════════════════════════════════════════════════════╗	
+				"Assets_folder":"Mod",				// Do not alter this field   ║
+			//╚══════════════════════════════════════════════════════════════════╝	
+				"Lesson_Header_Color":"#0070b0",	// Background color of the header
+				"Lesson_Title_Color":"#ffffff",		// Header text color
+				"Lesson_Title_Text":"Title Text", // This is for the text that will display inside the header.
+				"Page_Title":"Module 1 lesson 1",   // This is the page title tet that displays in the browser
+				"Progress_Bar_Color":"#f2c400",		// Progress bar color
+				"Progress_Bar_Height":"3px",		// Progress bar thickness
+				
+				"heroSize":"80%", 					// 50% is the default. to make the image bigger or smaller you need to use a percentage.		
+				"hImage":"",				// Hero image	
+				"hImage_Alt_Tag_Text":"",
+			},
+//╔═══════════════════════════════════════════════════════════════════════════════════╗
+//║ -------<( Page Setup End )>-------                                                ║
+//╚═══════════════════════════════════════════════════════════════════════════════════╝
+
+//╔╣░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░╠╗	
+//╚══════════════════════════════════════════════════════════════════════════════════╝	
+"JBuilder_Content":
+		[		
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//▌░▒▓▓▓▓▓▓/                                                                 \▓▓▓▓▓▓▒░▐
+//▌░▒▓▓▓▓    DO NOT MOVE  "Page_Setup"  ABOVE OR BELOW ITS CURRENT LOCATION     ▓▓▓▓▒░▐
+//▌░▒▓▓▓▓▓▓\                                                                 /▓▓▓▓▓▓▒░▐		
+//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀	
+
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄		
+//▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀	
+//▌▌▌▌-----------------------<( Place snippets below this line )>------------------------▐▐▐▐
+//▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄ 	
+//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄	
+//╔═════════════════════════════════════════════════════╗
+//║ -------<( Heading New Begin )>-------               ║
+//╚═════════════════════════════════════════════════════╝
+// A list of colors is available as a read only snippet.
+// Open the folder Colors and select "List of Colors"
+			
+{"Heading_New":
+	[
+			{"sngl_Heading":"Test Header"},
+			{"alignment":"center"}, // left, center, right, justify
+
+			{"top_margin":"10px"},//negative numbers to move the component up ex "-10px" 
+									//positive numbers to move the component down ex "10px"
+			{"size":"h2"},  // h1, h2, h3, h4, h5, h6
+			{"style":"normal"}, // normal, bold
+			{"color":"#ffffff"},  // Text Color
+		
+			{"background_color":"#ed8c01"}, // A Color chart is available in the help site.
+			
+			{"top_line_color":"", "top_line_weight":"", "top_line_style":"",},
+							
+			{"border_background_color":"","border_inside_color":"", "border_inside_weight":"", "border_inside_style":"","border_inside_radius":"", "border_width":"", "border_top_margin":"-10px", "border_padding":"",},
+		
+			{"bottom_line_color":"", "bottom_line_weight":"", "bottom_line_style":"",},
+			
+
+	],
+},					
+//╔═════════════════════════════════════════════════════╗
+//║ -------<( Heading New End )>-------                 ║
+//╠═════════════════════════════════════════════════════╣		
+//╚═════════════════════════════════════════════════════╝	
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄			
+//╔══════════════════════════════════════════════════════╗
+//║ -------<( Video Begin )>-------   01/25/2021         ║
+//╚══════════════════════════════════════════════════════╝
+// @@@ Currently does not work in the carousel @@@	
+			
+{Video_Files_New:
+	[
+	   
+	   {
+		   "Video":"http://ry6g4c.cloud.influxis.com/SourceContent/SRI_500_Overview.mp4",
+		   "Expert_View":"no",  // yes / no
+		   "Expert_View_Alt":"The is for the expert view video series",
+		   "top_margin":"20px",
+		   "back_color":"#ffffff", //#00aeef
+		   
+		   "Transcript_Text_font":"jb1",
+		   "Transcript_Text_align":"left",
+		   "Transcript_Text_color":"#000000",
+		   
+		   "Person_font":"jb2",
+		   "Person_align":"left",
+		   "Person_text_color":"#000000",
+		   "Person_underline":"", // no underline = "", underline = "u"
+		   
+	   }, 
+
+	   {
+		   "Person":"Person One:", // If no person is speaking list blank. "",
+		   "Transcript_Text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.",
+	   },
+	   
+	   {
+		   "Person":"Person Two:", // If no person is speaking list blank. "",
+		   "Transcript_Text":"Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante.",
+	   },			
+	   
+	   {
+		   "Person":"", // If no person is speaking list blank. "",
+		   "Transcript_Text":"Hello, how are you?. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.",
+	   },				
+
+	   {
+		   "Person":"", // If no person is speaking list blank. "",
+		   "Transcript_Text":"Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante.",
+	   },				
+	   
+	   
+   ],
+},
+//╔══════════════════════════════════════════════════════╗
+//║ -------<( Video End )>-------                        ║
+//╠══════════════════════════════════════════════════════╣		
+//╚══════════════════════════════════════════════════════╝				
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//╔═════════════════════════════════════════════════════╗
+//║ -------<( Info Contents Begin )>------- 01/25/2021  ║
+//╚═════════════════════════════════════════════════════╝
+{"Info_Box":
+	[
+	   {"Info_Box_Text":"Test for information box number 1"},
+	   {"Text_Color":"#000000"},
+	   {"Border_Color":"orange"},
+	   {"Border_Style":"solid"}, 			//solid, dashed, dotted, double, groove, inset, outset, ridge
+	   {"Border_Thickness":"5px"},        	// Default is 5px
+	   {"Text_Alignment":"center"},			// left, center, right, justify
+	   {"Background_Color":"#ffffff"},
+//-------------------------------------------------------------------------
+	   {"Icon":"information.png","Icon_alt":""},
+		  //--<( Avaiable Icons )>--
+		  // information.png | help.png | about_btn_color.png | gear.png | terms.png |
+		  // privacy.png | video.png | share.png | badge.png | bookmark.png	
+	   {"Icon_On_Off":"block"},			// block = on, none = off
+//-------------------------------------------------------------------------	
+	   {
+//-------<( The below settings are for the pop up dialog )>-------
+			"selectable":"false",	// true, false   If false no pop up dialog will appear
+		   "title_text":"Info Box One",
+		  "title_text_color":"#ffffff",
+		   "title_text_size":"26px",
+		   "title_text_alignment":"left",
+	   //------------------------------------------------------------------------	
+		   //"body_text":"This is text that will go into the pop up dialog.",
+		   "body_text_color":"#000000",
+		   "body_text_size":"20px",
+		   "body_text_alignment":"left",
+	   //------------------------------------------------------------------------
+		   "Header_color":"#0070b0",
+		   "Body_color":"#ffffff",
+		   "Footer_color":"#ffffff",
+		   "Footer_alignment":"left",
+	   },
+	   
+	   //------------------------------------------------------------------------
+	   //Body dialog text. Each line is a new sentene or paragragh. Copy or delete lines as needed.
+	   //-< Keep the body text in between these lines >-
+	   //▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+		   {"body_text":"This is text that will go into the pop up dialog sentence one."},
+		   {"body_text":"This is text that will go into the pop up dialog sentence two."},
+		   {"body_text":"This is text that will go into the pop up dialog sentence three."},
+		   {"body_text":"This is text that will go into the pop up dialog sentence four."},
+	   //▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+	   //-< Keep the body text in between these lines >-
+	   //------------------------------------------------------------------------
+  ],
+},
+//╔═════════════════════════════════════════════════════╗
+//║ -------<( Info Contents End )>-------               ║
+//╠═════════════════════════════════════════════════════╣
+//╚═════════════════════════════════════════════════════╝
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//╔═════════════════════════════════════════════════════╗
+//║ -------<( Info Contents Begin )>------- 01/25/2021  ║
+//╚═════════════════════════════════════════════════════╝
+{"Info_Box":
+	[
+	   {"Info_Box_Text":"Test for information box number 1"},
+	   {"Text_Color":"#000000"},
+	   {"Border_Color":"orange"},
+	   {"Border_Style":"solid"}, 			//solid, dashed, dotted, double, groove, inset, outset, ridge
+	   {"Border_Thickness":"5px"},        	// Default is 5px
+	   {"Text_Alignment":"center"},			// left, center, right, justify
+	   {"Background_Color":"#ffffff"},
+//-------------------------------------------------------------------------
+	   {"Icon":"information.png","Icon_alt":""},
+		  //--<( Avaiable Icons )>--
+		  // information.png | help.png | about_btn_color.png | gear.png | terms.png |
+		  // privacy.png | video.png | share.png | badge.png | bookmark.png	
+	   {"Icon_On_Off":"block"},			// block = on, none = off
+//-------------------------------------------------------------------------	
+	   {
+//-------<( The below settings are for the pop up dialog )>-------
+			"selectable":"true",	// true, false   If false no pop up dialog will appear
+		   "title_text":"Info Box One",
+		  "title_text_color":"#ffffff",
+		   "title_text_size":"26px",
+		   "title_text_alignment":"left",
+	   //------------------------------------------------------------------------	
+		   //"body_text":"This is text that will go into the pop up dialog.",
+		   "body_text_color":"#000000",
+		   "body_text_size":"20px",
+		   "body_text_alignment":"left",
+	   //------------------------------------------------------------------------
+		   "Header_color":"#0070b0",
+		   "Body_color":"#ffffff",
+		   "Footer_color":"#ffffff",
+		   "Footer_alignment":"left",
+	   },
+	   
+	   //------------------------------------------------------------------------
+	   //Body dialog text. Each line is a new sentene or paragragh. Copy or delete lines as needed.
+	   //-< Keep the body text in between these lines >-
+	   //▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+		   {"body_text":"This is text that will go into the pop up dialog sentence one."},
+		   {"body_text":"This is text that will go into the pop up dialog sentence two."},
+		   {"body_text":"This is text that will go into the pop up dialog sentence three."},
+		   {"body_text":"This is text that will go into the pop up dialog sentence four."},
+	   //▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+	   //-< Keep the body text in between these lines >-
+	   //------------------------------------------------------------------------
+  ],
+},
+//╔═════════════════════════════════════════════════════╗
+//║ -------<( Info Contents End )>-------               ║
+//╠═════════════════════════════════════════════════════╣
+//╚═════════════════════════════════════════════════════╝
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//╔══════════════════════════════════════════════════════════════════════════════════╗
+//║ ░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░ ║
+//╠══════════════════════════════════════════════════════════════════════════════════╣
+//║     -------<( Multi Dropdow Accordion begin )>------                             ║
+//╚══════════════════════════════════════════════════════════════════════════════════╝
+{"Accordion":  
+	[ 
+			{ 
+				"Label_Alignment":"center", 			// Default = ""   |  Alignment: left, right. center, justify 
+				//"Label_Color":"#ffffff",    			// Default = ""   |  Label text color 
+				"Label_Background_Color":"red", 	// Default = ""   |  Bacground color for tab  #0070b0 
+				"Tab_Radius":"10px", 
+				"top_margin":"20px", 
+//New fields ------- Begin 
+				"Border_width":"2px", 
+				"Border_color":"Orange", 
+				"Border_style":"solid", 
+				"Border_radius":"10px", 
+//New fields ------- End 
+			}, 
+			{"Dropdown_Background_Color":""},	// Default = ""   |  Bacground color for dropdown  ed8c01  #ffffff 
+		 
+//---------------------------------------------			 
+			{ 
+				"Acc_Label":"Tab One", 
+				"Acc_Label_Color":"#ffffff", 
+				"Acc_Label_Background_color":"gray", 
+				"Drop_Back_Color":"gray", 
+			},  
+//---------------------------------------------	 
+// Add snippet below this line 
+
+//---------------------------------------------	 
+
+// Add snippet below this line 
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//╔═════════════════════════════════════════════════════╗
+//║ -------<( Info Contents Begin )>------- 01/25/2021  ║
+//╚═════════════════════════════════════════════════════╝
+{"Info_Box":
+	[
+	   {"Info_Box_Text":"Test for information box number 1"},
+	   {"Text_Color":"#000000"},
+	   {"Border_Color":"orange"},
+	   {"Border_Style":"solid"}, 			//solid, dashed, dotted, double, groove, inset, outset, ridge
+	   {"Border_Thickness":"5px"},        	// Default is 5px
+	   {"Text_Alignment":"center"},			// left, center, right, justify
+	   {"Background_Color":"#ffffff"},
+//-------------------------------------------------------------------------
+	   {"Icon":"information.png","Icon_alt":""},
+		  //--<( Avaiable Icons )>--
+		  // information.png | help.png | about_btn_color.png | gear.png | terms.png |
+		  // privacy.png | video.png | share.png | badge.png | bookmark.png	
+	   {"Icon_On_Off":"block"},			// block = on, none = off
+//-------------------------------------------------------------------------	
+	   {
+//-------<( The below settings are for the pop up dialog )>-------
+			"selectable":"true",	// true, false   If false no pop up dialog will appear
+		   "title_text":"Info Box One",
+		  "title_text_color":"#ffffff",
+		   "title_text_size":"26px",
+		   "title_text_alignment":"left",
+	   //------------------------------------------------------------------------	
+		   //"body_text":"This is text that will go into the pop up dialog.",
+		   "body_text_color":"#000000",
+		   "body_text_size":"20px",
+		   "body_text_alignment":"left",
+	   //------------------------------------------------------------------------
+		   "Header_color":"#0070b0",
+		   "Body_color":"#ffffff",
+		   "Footer_color":"#ffffff",
+		   "Footer_alignment":"left",
+	   },
+	   
+	   //------------------------------------------------------------------------
+	   //Body dialog text. Each line is a new sentene or paragragh. Copy or delete lines as needed.
+	   //-< Keep the body text in between these lines >-
+	   //▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+		   {"body_text":"This is text that will go into the pop up dialog sentence one."},
+		   {"body_text":"This is text that will go into the pop up dialog sentence two."},
+		   {"body_text":"This is text that will go into the pop up dialog sentence three."},
+		   {"body_text":"This is text that will go into the pop up dialog sentence four."},
+	   //▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+	   //-< Keep the body text in between these lines >-
+	   //------------------------------------------------------------------------
+  ],
+},
+//╔═════════════════════════════════════════════════════╗
+//║ -------<( Info Contents End )>-------               ║
+//╠═════════════════════════════════════════════════════╣
+//╚═════════════════════════════════════════════════════╝
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+//---------------------------------------------	 
+//---------------------------------------------			 
+			{ 
+				"Acc_Label":"Tab Two", 
+				"Acc_Label_Color":"#ffffff", 
+				"Acc_Label_Background_color":"gray", 
+				"Drop_Back_Color":"gray", 
+			},  
+//---------------------------------------------	 
+// Add snippet below this line 
+ // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 
+ // ╔═══════════════════════════════════════════════════════════════════════════════════╗
+ // ║ -------<( List Paragraph Begin )>-------   01/25/2021                             ║
+ // ╚═══════════════════════════════════════════════════════════════════════════════════╝
+{"List_text_paragraph":
+   [
+				{
+				  "List_Heading":"Heading",
+				  "heading_alignment":"left", // left, right, center
+				  "heading_style":"solid", // "" for default, bold, italic,
+				  "heading_underline":"4px", // "" for no underline,  solid, dashed, dotted, double
+				  "heading_underline_color":" ",
+				  "heading_underline_height":"0px", // use px number 
+				  "heading_color":" ",
+				  "heading_size":"h2", // h1, h2, h3, h4, h5, h6
+
+				  "paragraph_alignment":"left", // left, right, center
+				  "paragraph_text_size":"jb1", // jb1, jb2, jb3. jb4, jb5, jb6: all of these are 16px
+
+				  "paragraph_top_text_color":"#000000",
+				  "paragraph_bot_text_color":"#000000",
+//-----------------------------------------------
+//-----------------------------------------------
+				  "border_color":"#000000",
+				  "border_weight":"0px", // Use px example 2px
+				  "border_style":"solid", // solid, dashed
+				  "border_radius":"0px", // Use px example 5px
+//-----------------------------------------------
+//-----------------------------------------------
+				},
+
+{"Top_Paragraphs":
+			  [
+					 // to add a paragraph copy the {"Paragraph_text":"One"}," then past it below {"Paragraph_text":"One"},
+					 // leave blank "" if there is no paragraph
+					 {"Paragraph_text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."},
+					 {"Paragraph_text":"Class aptent taciti <span class='keyterm' tabindex='0' role='button'>sociosqu</span> ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc."},
+			  ],
+},
+
+{"align_text":"One"}, // Do not alter or delete, this field will be phased out later.
+{
+				   //-------------------------------------------------------------------
+				   //  -------<( to customize the ul list use the folowing: )>-------
+				   "ul_type":"disc", // disc, circle, square, none, "" will be the default
+				   //-------------------------------------------------------------------
+
+				   //-------------------------------------------------------------------
+				   //  -------<( to customize the ol list use the folowing: )>-------
+				   "ol_type":" ", // 1, a, A, i, I, "" will be the default
+				   //-------------------------------------------------------------------
+				   // In order to change the bullet or number size of the list you will need to use pixel sizes
+				   // Below are the pixel sizes for each of the h1 - h6 tags. use the pixel size to change the "List_Text_Size"
+					 "List_Text_Size":"jb1", // jb1, jb2, jb3, jb4, jb5, jb6: all of these are 16px
+},
+					 {"top_margin":"10px"},  // negative numbers to move the component up ex "-10px" 
+											 // positive numbers to move the component down ex "-10px" 
+					 {"background_color":"#ffffff"},
+					 {"padding":"10px"},
+					 {"text_color":"#000000"},
+
+					 {"list_items":
+						 [
+							   // to add another list item, copy the previous lstText and paste it below the last lstText item
+							   {"lstText":"List Item One"},
+							   {"lstText":"List Item Two"},
+							   {"lstText":"List Item Three"},
+							   {"lstText":"List Item Four"},
+						 ],
+					  },
+
+					 {"Bottom_paragraphs":
+						 [
+							   // to add a paragraph copy the {"Paragraph_text":"One"}," then past it below {"Paragraph_text":"One"}
+							   // leave blank "" if there is no paragraph
+							   {"Paragraph_text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+							   {"Paragraph_text":"Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum."},
+						 ],
+					  },
+
+   ],
+}
+ // ╔═══════════════════════════════════════════════════════════════════════════════════╗
+ // ║ -------<( List Paragraph End )>-------                                            ║
+ // ╚═══════════════════════════════════════════════════════════════════════════════════╝
+ // ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 
+//---------------------------------------------	 
+
+
+	], 
+},		 
+//╔══════════════════════════════════════════════════════════════════════════════════╗
+//║      -------<( Multi Dropdow Accordion end )>------                              ║
+//╠══════════════════════════════════════════════════════════════════════════════════╣
+//║ ░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░ ║
+//╚══════════════════════════════════════════════════════════════════════════════════╝
+//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄			
+//╔══════════════════════════════════════════════════════╗
+//║ -------<( Video Begin )>-------   01/25/2021         ║
+//╚══════════════════════════════════════════════════════╝
+// @@@ Currently does not work in the carousel @@@	
+			
+	{Video_Files_New:
+		 [
+			
+			{
+				"Video":"http://ry6g4c.cloud.influxis.com/SourceContent/SRI_500_Overview.mp4",
+				"Expert_View":"no",  // yes / no
+				"Expert_View_Alt":"The is for the expert view video series",
+				"top_margin":"20px",
+				"back_color":"#ffffff", //#00aeef
+				
+				"Transcript_Text_font":"jb1",
+				"Transcript_Text_align":"left",
+				"Transcript_Text_color":"#000000",
+				
+				"Person_font":"jb2",
+				"Person_align":"left",
+				"Person_text_color":"#000000",
+				"Person_underline":"", // no underline = "", underline = "u"
+				
+			}, 
+	
+			{
+				"Person":"Person One:", // If no person is speaking list blank. "",
+				"Transcript_Text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.",
+			},
+			
+			{
+				"Person":"Person Two:", // If no person is speaking list blank. "",
+				"Transcript_Text":"Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante.",
+			},			
+			
+			{
+				"Person":"", // If no person is speaking list blank. "",
+				"Transcript_Text":"Hello, how are you?. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.",
+			},				
+
+			{
+				"Person":"", // If no person is speaking list blank. "",
+				"Transcript_Text":"Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante.",
+			},				
+			
+			
+		],
+	},
+//╔══════════════════════════════════════════════════════╗
+//║ -------<( Video End )>-------                        ║
+//╠══════════════════════════════════════════════════════╣		
+//╚══════════════════════════════════════════════════════╝				
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+
+//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄		
+//▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀	
+//▌▌▌▌-----------------------<( Place snippets Above this line )>------------------------▐▐▐▐
+//▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄ 	
+//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+		],
+	
+	}
+]);

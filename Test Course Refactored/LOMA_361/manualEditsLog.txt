@@ -1,0 +1,184 @@
+
+LOMA_361_M1_L1:
+	Lesson has 6 learning objectives, but 7 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M1_L1_P4 has a figure (Figure 1.5) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M1_L1_P4.js. Refer to Fields of Accounting in chapter 1 of the EPUB to see the figure description.
+
+
+LOMA_361_M1_L2:
+	Lesson has 3 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M1_L2_P1 has a matching question that needs to be revised. Look for "[[Matching q-type. NEEDS EDIT.]]" in LOMA_361_M1_L2_P1.js. Refer to Introduction in chapter 2 of the EPUB to see the question.
+
+
+LOMA_361_M1_L3:
+	Lesson has 4 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_361_M1_L4:
+	Lesson has 4 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M1_L4_P2 has a video (Video 4.2) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M1_L4_P2.js. Refer to Financial Statements in chapter 4 of the EPUB to see the transcript.
+
+	LOMA_361_M1_L4_P3 has a figure (Figure 4.3) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M1_L4_P3.js. Refer to Financial Reports in chapter 4 of the EPUB to see the figure description.
+
+
+LOMA_361_M2_L1:
+	Lesson has 7 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M2_L1_P2 has a video (Video 5.1) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M2_L1_P2.js. Refer to Asset Valuation in chapter 5 of the EPUB to see the transcript.
+
+	LOMA_361_M2_L1_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L1_P5.js. Refer to Investment Accounting in chapter 5 of the EPUB to see the equation.
+
+	LOMA_361_M2_L1_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L1_P5.js. Refer to Investment Accounting in chapter 5 of the EPUB to see the equation.
+
+	LOMA_361_M2_L1_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L1_P5.js. Refer to Investment Accounting in chapter 5 of the EPUB to see the equation.
+
+	LOMA_361_M2_L1_P5 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L1_P5.js. Refer to Investment Accounting in chapter 5 of the EPUB to see the equation.
+
+
+LOMA_361_M2_L2:
+	LOMA_361_M2_L2_P3 has a figure (Figure 6.5) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M2_L2_P3.js. Refer to Valuation and Reporting of Real Estate in chapter 6 of the EPUB to see the figure description.
+
+
+LOMA_361_M2_L3:
+	Lesson has 7 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M2_L3_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L3_P3.js. Refer to Reserves, Net Income, and Surplus in chapter 7 of the EPUB to see the equation.
+
+	LOMA_361_M2_L3_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L3_P3.js. Refer to Reserves, Net Income, and Surplus in chapter 7 of the EPUB to see the equation.
+
+
+LOMA_361_M2_L4:
+
+LOMA_361_M2_L5:
+	Lesson has 3 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M2_L5_P3 has a figure (Figure 9.1) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M2_L5_P3.js. Refer to Surplus Accounts in chapter 9 of the EPUB to see the figure description.
+
+	LOMA_361_M2_L5_P4 has a figure (Figure 9.2) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M2_L5_P4.js. Refer to Sources and Uses of Funds for Capital and Surplus in chapter 9 of the EPUB to see the figure description.
+
+	LOMA_361_M2_L5_P4 has a figure (Figure 9.3) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M2_L5_P4.js. Refer to Sources and Uses of Funds for Capital and Surplus in chapter 9 of the EPUB to see the figure description.
+
+
+LOMA_361_M2_L6:
+	Lesson has 5 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M2_L6_P2 has a figure (Figure 10.1) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M2_L6_P2.js. Refer to Revenues in chapter 10 of the EPUB to see the figure description.
+
+
+LOMA_361_M2_L7:
+	Lesson has 1 learning objectives, but 2 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has a figure (Figure 11.1) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the figure description.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
+
+
+LOMA_361_M3_L1:
+	Lesson has 4 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M3_L1_P3 has a video (Video 12.3) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L1_P3.js. Refer to Performance Measurement and Evaluation in chapter 12 of the EPUB to see the transcript.
+
+
+LOMA_361_M3_L2:
+	Lesson has 4 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_361_M3_L2_P3 has a figure (Figure 13.2) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L2_P3.js. Refer to Cost Classification in chapter 13 of the EPUB to see the figure description.
+
+	LOMA_361_M3_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L2_P3.js. Refer to Cost Classification in chapter 13 of the EPUB to see the equation.
+
+	LOMA_361_M3_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L2_P3.js. Refer to Cost Classification in chapter 13 of the EPUB to see the equation.
+
+	LOMA_361_M3_L2_P3 has a video (Video 13.1) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L2_P3.js. Refer to Cost Classification in chapter 13 of the EPUB to see the transcript.
+
+	LOMA_361_M3_L2_P4 has a figure (Figure 13.4) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L2_P4.js. Refer to Cost Accumulation in chapter 13 of the EPUB to see the figure description.
+
+	LOMA_361_M3_L2_P4 has a figure (Figure 13.5) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L2_P4.js. Refer to Cost Accumulation in chapter 13 of the EPUB to see the figure description.
+
+
+LOMA_361_M3_L3:
+	LOMA_361_M3_L3_P2 has a figure (Figure 14.1) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L3_P2.js. Refer to Comparative Analysis in chapter 14 of the EPUB to see the figure description.
+
+	LOMA_361_M3_L3_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L3_P2.js. Refer to Comparative Analysis in chapter 14 of the EPUB to see the equation.
+
+	LOMA_361_M3_L3_P2 has a video (Video 14.1) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L3_P2.js. Refer to Comparative Analysis in chapter 14 of the EPUB to see the transcript.
+
+	LOMA_361_M3_L3_P2 has a figure (Figure 14.3) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L3_P2.js. Refer to Comparative Analysis in chapter 14 of the EPUB to see the figure description.
+
+	LOMA_361_M3_L3_P3 has a figure (Figure 14.5) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L3_P3.js. Refer to Activity-Based Costing in chapter 14 of the EPUB to see the figure description.
+
+	LOMA_361_M3_L3_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L3_P4.js. Refer to Cost-Volume-Profit Analysis in chapter 14 of the EPUB to see the equation.
+
+	LOMA_361_M3_L3_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L3_P4.js. Refer to Cost-Volume-Profit Analysis in chapter 14 of the EPUB to see the equation.
+
+	LOMA_361_M3_L3_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L3_P4.js. Refer to Cost-Volume-Profit Analysis in chapter 14 of the EPUB to see the equation.
+
+	LOMA_361_M3_L3_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L3_P4.js. Refer to Cost-Volume-Profit Analysis in chapter 14 of the EPUB to see the equation.
+
+	LOMA_361_M3_L3_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L3_P4.js. Refer to Cost-Volume-Profit Analysis in chapter 14 of the EPUB to see the equation.
+
+	LOMA_361_M3_L3_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L3_P4.js. Refer to Cost-Volume-Profit Analysis in chapter 14 of the EPUB to see the equation.
+
+	LOMA_361_M3_L3_P4 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L3_P4.js. Refer to Cost-Volume-Profit Analysis in chapter 14 of the EPUB to see the equation.
+
+
+LOMA_361_M3_L4:
+	LOMA_361_M3_L4_P4 has a video (Video 15.1) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L4_P4.js. Refer to Budget Classifications in chapter 15 of the EPUB to see the transcript.
+
+	LOMA_361_M3_L4_P5 has a figure (Figure 15.3) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L4_P5.js. Refer to Types of Budgets in chapter 15 of the EPUB to see the figure description.
+
+	LOMA_361_M3_L4_P5 has a figure (Figure 15.4) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L4_P5.js. Refer to Types of Budgets in chapter 15 of the EPUB to see the figure description.
+
+	LOMA_361_M3_L4_P5 has a figure (Figure 15.5) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L4_P5.js. Refer to Types of Budgets in chapter 15 of the EPUB to see the figure description.
+
+	LOMA_361_M3_L4_P5 has a figure (Figure 15.6) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L4_P5.js. Refer to Types of Budgets in chapter 15 of the EPUB to see the figure description.
+
+	LOMA_361_M3_L4_P5 has a figure (Figure 15.8) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L4_P5.js. Refer to Types of Budgets in chapter 15 of the EPUB to see the figure description.
+
+
+LOMA_361_M3_L5:
+	Lesson has 6 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+

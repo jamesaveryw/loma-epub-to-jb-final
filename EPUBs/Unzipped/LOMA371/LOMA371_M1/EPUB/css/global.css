@@ -1,0 +1,2073 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+tr, td {
+	border: none;
+}
+p {
+	text-indent: 0 !important;
+}
+
+/*** Addition for Removing Slider Styles ***/
+/* Remove Slider Styles for all browsers */
+input[type=range] {
+    -webkit-appearance: none;
+    background: transparent;
+    border: solid 1px #000; 
+    height: 6px;
+    overflow: hidden; 
+    width: 100%; 
+    padding: 0;
+}
+input[type=range]:focus {
+    outline: none;
+}
+
+/*******************************************************
+
+Project: LOMA Ebook Fonts CSS
+Developer: James Avery Wilhelm
+Date: 2020-05-04
+Modified: 2020-05-04
+
+*******************************************************/
+@font-face {
+	font-family:"Open Sans";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../fonts/OpenSans-Regular.ttf");
+}
+@font-face {
+	font-family:"Open Sans";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../fonts/OpenSans-Italic.ttf");
+}
+@font-face {
+	font-family:"Open Sans";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../fonts/OpenSans-Bold.ttf");
+}
+@font-face {
+	font-family:"Open Sans";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../fonts/OpenSans-BoldItalic.ttf");
+}
+@font-face {
+	font-family:"Lato";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../fonts/Lato-Regular.ttf");
+}
+@font-face {
+	font-family:"Lato";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../fonts/Lato-Italic.ttf");
+}
+@font-face {
+	font-family:"Lato";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../fonts/Lato-Bold.ttf");
+}
+@font-face {
+	font-family:"Lato";
+	font-style:italic;
+	font-weight:bold;
+	src : url("../fonts/Lato-Italic.ttf");
+}
+
+
+/*******************************************************
+
+Project: LOMA Ebook Main CSS Template
+Developer: James Avery Wilhelm
+Date: 2018-02-28
+Modified: 2020-05-28
+
+=======================================
+
+1. GENERICS
+- 1.1: Body
+- 1.2: Headings
+- 1.3: Tables
+- 1.4: Lists
+- 1.5: Figures
+- 1.6: Videos
+- 1.7: Paragraphs
+- 1.8: States
+- 1.9: Inline Images
+
+2. SPECIFICS
+- 2.1: Table Colors, Stripes, Borders
+- 2.2: Example Boxes
+- 2.3: Numbered Figures
+- 2.4: Unumbered Figures
+- 2.5: In-Text Questions/Answer Key
+- 2.6: Insights
+- 2.7: Modals
+- 2.8: Glossary Definitions
+- 2.9: Links
+- 2.10: Equations
+
+3. SECTIONS
+- 3.1: Chapter Opener
+- 3.2: Objectives
+- 3.3: Outlines
+- 3.4: Endnotes
+- 3.5: Answer Key
+- 3.6: Glossary
+- 3.7: Front matter
+- 3.8: Figure and Video Descriptions
+
+4. MOBILE
+- 4.1: 768px
+- 4.2: 570px
+
+=======================================
+
+*******************************************************/
+
+/*
+Delete  is rule to show static versions of 
+questions in Kotobee. Don't forget to add it
+back in before exporting for production.
+*/
+.hidden {
+	display: none;
+}
+.incorrect.hidden {
+	display: none;
+}
+
+/**********************************************
+=  1 — GENERICS
+**********************************************/
+
+/*** 1.1: Body ***/
+body {
+	color: #2a2a2a;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	margin: 0;
+}
+section {
+	clear: both;
+	padding: 1em 2em;
+	position: relative;
+}
+em {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+div.clearfix {
+	clear: both;
+	height: 0;
+  	visibility: hidden;
+}
+sub {
+  	font-size: .9em;
+	margin-left: .1em;
+    vertical-align: -.2em;
+}
+sup {
+  	font-size: .9em;
+	margin-left: .1em;
+    vertical-align: .2em;
+}
+
+/*** 1.2: Headings ***/
+h1, h2, h3,
+h4, h5, h6 {
+	color: #0069ad;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	margin: 1em 0 .25em;
+	page-break-after: avoid;
+	text-align: left;
+	font-weight: bold;
+}
+h3, h4, h5, h5 {
+	color: #006a65;
+}
+h1 {
+	font-size: 2.4em;
+}
+h2 {
+	font-size: 2.2em;
+}
+h3 {
+	font-size: 1.9em;
+}
+h4 {
+	font-size: 1.4em;
+	font-style: italic;
+}
+h5 {
+	font-size: 1.2em;
+}
+h6 {
+	font-size: 1.1em;
+}
+h2:first-of-type {
+	border-bottom: 3px solid #666666;
+	padding-bottom: .25em;
+	margin-bottom: .5em;
+}
+
+/*** 1.3: Tables ***/
+table {
+  	margin: 1em auto;
+}
+table td,
+table th {
+	padding: 0.5em 1em;
+}
+table th {
+  	font-weight: bold;
+}
+table td p.txt,
+table th p.txt {
+ 	text-indent: 0 !important; 
+}
+table p {
+	text-align: left;
+	margin-top: 0;
+}
+table th {
+	background-color: #000000;
+	color: #fff;
+}
+table th b,
+table th strong {
+ 	font-weight: normal; 
+}
+/* table headers inserted into tds
+when the table is in responsive mode */
+table td span.resp-th {
+	display: none;
+	font-weight: bold;
+}
+
+/*** 1.4: Lists ***/
+ol, ul {
+	line-height: 1.5;
+	margin: 1em auto;
+}
+li {
+	margin-top: .25em;
+}
+ol {
+	list-style-type: decimal;
+	margin-left: 2.75em;
+}
+ul {
+	list-style-type: disc;
+	margin-left: 3em;
+}
+
+/*** 1.5: Figures ***/
+.figure {
+	position: relative;
+}
+figure img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+figure p {
+	text-indent: 0;
+}
+div.img-desc {
+	margin-top: 2em;
+	text-align: center;
+}
+/* there is a hidden logo on every page
+JS uses this to get the baseURL since
+different reading systems have a slightly
+different file structure */
+.hidden-logo {
+	display: none; 
+}
+
+/*** 1.6: Videos ***/
+video {
+    width: 100%;
+}
+
+/*** 1.7: Paras ***/
+p {
+	line-height: 1.5;
+	margin-top: .5em;
+	position: relative;
+}
+p.txt {
+	text-indent: 1.75em !important;
+}
+h1 + p, h2 + p, h3 + p, 
+h4 + p, h5 + p, h6 + p,
+table p, p.no-indent, .lo p,
+p.txt-ni, li p, p.section-title {
+	text-indent: 0;
+}
+p.section-title {
+	font-weight: bold;
+}
+p.indent1 {
+	margin-left: 2%!important;
+}
+p.indent2 {
+	margin-left: 6%!important;
+}
+p.indent3 {
+	margin-left: 15%!important;
+}
+
+/*** 1.8: States ***/
+/* Focus */
+*:focus {
+	outline-color: #263676;
+	outline-style: groove;
+	outline-width: 2px;
+	outline-offset: 2px;
+}
+
+/*** 1.9: Inline Images ***/
+img.in-line {
+	display: inline;
+	vertical-align: middle;
+}
+
+
+/**********************************************
+=  2 — SPECIFICS
+**********************************************/
+
+/*** 2.1: Table Colors, Stripes, Borders ***/
+/************************ 
+Table colors
+************************/
+/* Blue */
+table.blue {
+	background-color: rgba(0,105,173, .3);
+	border-color: #0069ad;
+}
+table.blue td,
+table.blue th {
+	border-color: #0069ad;
+}
+table.blue tbody th {
+  	background-color: #0069ad;
+}
+table.striped.blue tbody > tr:nth-child(odd) {
+	background-color: rgba(0, 105, 173, .09);
+}
+table.striped.blue tbody > tr:nth-child(even) {
+	background-color: rgba(0, 105, 173, .3);
+}
+/* Teal */
+table.teal {
+	background-color: rgba(0, 106, 101, .3);
+	border-color: #006a65;
+}
+table.teal td {
+	border-color: #006a65;
+}
+table.teal tbody th {
+	background-color: #006a65;
+}
+table.striped.teal tbody > tr:nth-child(even) {
+	background-color: rgba(0, 106, 101, .3);
+}
+table.striped.teal tbody > tr:nth-child(odd) {
+	background-color: rgba(0, 106, 101, .09);
+}
+/* Orange */
+table.orange {
+	background-color: rgba(255, 125, 0, .3);
+  	border-color: #EF7014;
+}
+table.orange td {
+	border-color: #EF7014;
+}
+table.orange tbody th {
+	background-color: #EF7014;
+}
+table.striped.orange tbody > tr:nth-child(even) {
+  background-color: rgba(239, 112, 20, .3);
+}
+table.striped.orange tbody > tr:nth-child(odd) {
+  background-color: rgba(239, 112, 20, .09);
+}
+/* Red */
+table.red {
+	background-color: rgba(217, 0, 0, .3);
+  	border-color: #d90000;
+}
+table.red td {
+	border-color: #d90000;
+}
+table.red tbody th {
+  	background-color: #d90000;
+}
+table.striped.red tbody > tr:nth-child(even) {
+  background-color: rgba(217, 0, 0, .3);
+}
+table.striped.red tbody > tr:nth-child(odd) {
+  background-color: rgba(217, 0, 0, .09);
+}
+/* Purple */
+table.purple {
+	background-color: rgba(126, 5, 187, .3);
+  	border-color: #7e05bb;
+}
+table.purple td {
+	border-color: #7e05bb;
+}
+table.purple tbody th {
+  	background-color: #7e05bb;
+}
+table.striped.purple tbody > tr:nth-child(even) {
+  background-color: rgba(126, 5, 187, .3);
+}
+table.striped.purple tbody > tr:nth-child(odd) {
+  background-color: rgba(126, 5, 187, .09);
+}
+/* Green */
+table.green {
+	background-color: rgba(0, 171, 79, .3);
+  	border-color: #00ab4f;
+}
+table.green td {
+	border-color: #00ab4f;
+}
+table.green tbody th {
+	background-color: #00ab4f; 
+}
+table.striped.green tbody > tr:nth-child(even) {
+  background-color: rgba(0, 171, 79, .3);
+}
+table.striped.green tbody > tr:nth-child(odd) {
+  background-color: rgba(0, 171, 79, .09);
+}
+/* Black */
+table.black {
+	background-color: rgba(0, 0, 0, .3);
+  	border-color: #000000;
+}
+table.black td {
+	border-color: #000000;
+}
+table.black tbody th {
+  	background-color: #000000;
+}
+table.striped.black tbody > tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, .3);
+}
+table.striped.black tbody > tr:nth-child(odd) {
+  background-color: rgba(0, 0, 0, .09);
+}
+
+/************************ 
+.striped 
+striped tables 
+default uses blue
+************************/
+table.striped {
+	background-color: transparent;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 2px;
+	margin: 2em auto;
+	page-break-inside: avoid;
+}
+table.striped tbody {
+	background-color: #ffffff;
+}
+table.striped caption {
+	caption-side: bottom;
+	font-size: .85em;
+	font-weight: bold;
+	margin-top: .5em;
+	text-align: left;
+}
+table.striped tbody th {
+	color: #fff;
+	font-weight: bold;
+}
+table.striped td, table.striped th {
+	padding: 5px;
+}
+
+/************************ 
+.borders / .cellborders
+************************/
+table.borders {
+	border-style: solid;
+	border-width: 2px;
+}
+table.cellborders td,
+table.cellborders th {
+	border-style: solid;
+	border-width: 1px;
+}
+table.cellborders th {
+	border-color: #fff;
+}
+
+/************************ 
+table alignment
+usefull to left/right
+align tables that house 
+equations
+************************/
+/* Align left */
+table.align-left {
+	margin-left: 0;
+	margin-right: auto;
+}
+/* Align right */
+table.align-right {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+
+table.tbexam td {
+    background-color: #F8F8FF;
+    border: 1px solid #DCDCDC;
+    vertical-align: top;
+    padding: 2px 10px 2px 10px;
+}
+
+/************************ 
+Specifics for Lists
+************************/ 
+ol.numbered, ol.notes {
+  	list-style-type: decimal;
+  	margin-left: 1em;
+}
+ul.list li,
+ul.outline li {
+	color: #0069ad;
+}
+ul.list li p,
+ul.outline li p {
+	color: #2a2a2a
+}
+
+
+/*** 2.2: Example Boxes ***/
+div.example {
+	background-color: #B2E6CA;
+	border: solid #00AB4F 2px;
+	border-radius: 3px;
+    /*display: table;*/
+	margin: 1em auto;
+	max-width: 700px;
+	page-break-inside: avoid;
+	width: 80%;
+}
+div.example .inner {
+	padding: 1em 2em;
+}
+div.example p.example-header + .inner {
+	padding-bottom: 2em;
+}
+div.example p.example-header {
+	background-color: #00AB4F;
+	color: #fff;
+	font-weight: bold;
+	padding: .5em 1em;
+	font-size: 1.5em;
+	margin-top: 0;
+}
+div.example p {
+	text-indent: 0;
+}
+div.example p + p {
+	margin-top: 1em;
+}
+
+/*** 2.3: Numbered Figures ***/
+figure.numbered-fig, div.numbered-fig {
+	border-bottom: 1px solid #666666;
+	border-top: 1px solid #666666;
+	clear: right;
+	margin: 1em auto;
+	padding: 1em 5%;
+	page-break-inside: avoid;
+	width: 85%;
+}
+figure.numbered-fig p.title,
+div.numbered-fig p.title,
+div.video-container p.title {
+	font-size: 1.2em;
+	margin-bottom: .5em;
+}
+figure.numbered-fig p.title span.fig-num,
+div.numbered-fig p.title span.fig-num,
+div.video-container p.title span.fig-num {
+	color: #006a65;
+	font-weight: bold;
+}
+figure.numbered-fig p.fig-caption,
+div.numbered-fig p.fig-caption {
+	font-size: .9em;
+}
+
+/*** 2.4: Unnumbered Figures ***/
+figure.unnumbered-fig, div.unnumbered-fig {
+	clear: right;
+	float: right;
+	margin: 1em 0 1em 1em;
+	max-width: 400px;
+  	z-index: 100;
+}
+figure.unnumbered-fig.center, div.unnumbered-fig.center {
+	float: none;
+	margin-left: auto;
+  	margin-right: auto;
+}
+/* static description links */
+figure div.static-img-desc,
+div.static-transcript {
+  	margin-top: 1em;
+	text-indent: 0;
+  	text-align: center;
+}
+
+
+/*** 2.5: In-Text Questions/Answer Key ***/
+.question-container,
+.question-container-static,
+.question-container-key {
+	border-bottom: solid 1px #666666;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em 0 2em;
+	page-break-inside: avoid;
+	position: relative;
+	width: 90%;
+}
+.question-container p.q-title,
+.question-container-static p.q-title-static,
+.question-container-key p.q-title {
+  	border-bottom: solid 1px #666666;
+  	color: #0069ad;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-size: 1.4em;
+	font-weight: bold;
+    	margin-bottom: 1em;
+  	padding-bottom: .5em;
+	text-align: center;
+}
+div.question-container + *,
+div.question-container-static + * {
+    margin-top: 3em;
+}
+div.question-container + div.question-container,
+div.question-container + div.question-container-static {
+	margin-top: 1em;
+}
+.question-wrapper + .question-wrapper p.q-title,
+.question-container-static + .question-container + .question-container-static p.q-title-static {
+	display: none;
+}
+.question-container-key p.q-stem,
+.question-container p.q-stem,
+.question-container p.reveal,
+.question-container-static p.q-stem-static,
+.question-container-static p.reveal-static,
+.question-container-static p.q-feedback {
+	margin: 0 1em;
+	text-indent: 0;
+}
+.question-container-static ul.q-feedback {
+	list-style-type: none;
+	margin-left: 1em;
+}
+.question-container-static ul.q-feedback li.incorrect{
+	display: none;
+}
+.question-container-static .q-stem-static + .q-feedback {
+	margin-top: 3em;
+}
+.question-container p.q-stem.indent1,
+.question-container-static p.q-stem.indent1 {
+  	margin-left: 4%;
+}
+.question-container p.q-stem.indent2,
+.question-container-static p.q-stem.indent2 {
+  	margin-left: 9%;
+}
+.question-container p.q-stem.indent3,
+.question-container-static p.q-stem.indent3 {
+  	margin-left: 14%;
+}
+.question-container p.q-stem + p.q-stem,
+.question-container-static p.q-stem + p.q-stem {
+	margin-top: 0.5em;
+}
+.question-container p.reveal,
+.question-container-static p.reveal-static,
+.question-container-static p.return,
+.pq-container-static p.reveal-static {
+	text-align: right;
+}
+.question-container-static p.return {
+	text-indent: 0;
+}
+ol.choices-static {
+	margin-left: 2.25em;
+	margin-right: 1em;
+	list-style-type: upper-alpha;
+}
+ol.choices {
+	list-style: none;
+	margin-left: 1em;
+    margin-right: 1em;
+	padding: 0;
+}
+ol.choices *.highlightSelected,
+ol.choices *.highlightSelected:after,
+ol.choices *.highlightOver,
+ol.choices *.highlightOver:after {
+	background-color: transparent!important;
+}
+ol.choices li {
+	color: #666666;
+	display: block;
+	margin-bottom: .25em;
+	padding: 0.25em .25em 0 .25em;
+	position: relative;
+	width: 100%;
+}
+ol.choices li img.answer-marker {
+	left: .15em;
+	max-width: 100%;
+	position: absolute;
+}
+ol.choices li img.answer-marker.hide {
+	display: none;
+}
+ol.choices div.radio-wrapper {
+	height: 1.2em;
+    left: .3em;
+    position: absolute;
+    top: .3em;
+    width: 1.2em;
+}
+ol.choices li .check {
+	display: block;
+	border: 2px solid #108fcf;
+	height: 1.25em;
+	left: .1em;
+	position: absolute;
+	top: .1em;
+	transition: border .25s linear;
+	width: 1.25em;
+	z-index: 5;
+	-webkit-transition: border .25s linear;
+}
+ol.choices li .check.answered {
+	border-color: transparent;
+	border-radius: 0;
+	height: 15px;
+	width: 15px;
+}
+ol.choices li:hover .check,
+ol.choices li:focus .check {
+	border: 3px solid #00548a;
+}
+ol.choices[aria-disabled="true"] li:hover .check,
+ol.choices[aria-disabled="true"] li:focus .check {
+	border: 2px solid #108fcf;
+}
+ol.choices li .check .inside {
+    display: block;
+    position: relative;
+    height: 8px;
+    width: 8px;
+    top: 0;
+    left: -1px;
+    margin: auto;
+    transition: background 0.25s linear;
+    -webkit-transition: background 0.25s linear;
+}
+/* ibooks placement is slightly different */
+ol.choices li .check .inside.ibooks {
+  	left: 0px;
+  	top: 1px;
+}
+ol.choices li[role=radio] div.radio-wrapper .check {
+	border-radius: 100%;
+}
+ol.choices li[role=radio] .check .inside {
+	border-radius: 100%
+}
+ol.choices li[role="radio"][aria-checked="true"] div.radio-wrapper .check,
+ol.choices li[role="checkbox"][aria-checked="true"] div.radio-wrapper .check {
+	background-color: #00548a;
+	border: 2px solid #00548a;
+}
+
+ol.choices li[role="radio"][aria-checked="true"] div.radio-wrapper .check.answered,
+ol.choices li[role="checkbox"][aria-checked="true"] div.radio-wrapper .check.answered { 
+	background-color: transparent;
+	border-color: transparent;
+}
+ol.choices li input:checked ~ .check .inside {
+	background: #00548a;
+}
+ol.choices li input:checked ~ label {
+	color: #000;
+	font-weight: bold;
+}
+ol.choices li input:checked ~ .check.answered,
+ol.choices li .check.answered {
+	border-color: transparent;
+}
+ol.choices li input:checked ~ .check.answered .inside, 
+ol.choices li .check.answered .inside {
+	background-color: transparent;
+	background: url("../imgs/times-circle-xs.png") no-repeat top;
+	background-size: 15px;
+	border-radius: 0;
+	height: 20px;
+	width: 20px;
+}
+ol.choices li.cr input:checked ~ .check.answered .inside, 
+ol.choices li.cr .check.answered .inside {
+	background: url("../imgs/checkmark-xs.png") no-repeat top;
+	background-size: 15px;
+}
+/* After submitted, add green border to CR */
+ol.choices li.cr {
+	background-color: #FAFCFA;
+	border: solid 1px #367E36;
+	border-radius: 3px;
+}
+
+/* buttons */
+.btn,
+.ts-button,
+.id-button {
+	background-color: #0069ad;
+    border: 1px solid #005a94;
+    border-radius: 4px;
+	color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: normal;
+    margin-bottom: 0;
+    padding: 11px 15px;
+    text-align: center;
+    touch-action: manipulation;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+	width: initial;
+}
+.btn:hover,
+.btn:focus,
+.ts-button:hover,
+.ts-button:focus,
+.id-button:hover,
+.id-button:focus {
+	background-color: #004a7a;
+	border-color: #003456;
+	color: #fff;
+	text-decoration: none;
+}
+.btn[aria-disabled="true"]:hover,
+.btn[aria-disabled="true"]:focus {
+    background-color: #0069ad;
+	border-color: #005a94;
+	cursor: default;
+}
+.disabled {
+	opacity: .6;
+}
+.disabled,
+ol.choices.disabled li label,
+.disabled .btn {
+	cursor: default;
+}
+.disabled .btn:hover {
+	background-color: #0069ad;
+	border-color: #005a94;
+}
+
+/* multi-select/mutliple choice questions */
+div[data-qtype="mc"] ol.choices li label,
+div[data-qtype="ms"] ol.choices li label {
+	cursor: pointer;
+	display: block;
+	padding: 0 0 .5em 2em;
+	position: relative;
+	transition: all 0.25s linear;
+	-ms-transition: all 0.25s linear; 
+	-webkit-transition: all 0.25s linear;
+	z-index: 9;
+}
+div[data-qtype="ms"] ol.choices li[aria-disabled="true"] label {
+	cursor: default;
+}
+div[data-qtype="mc"] ol.choices li:hover label,
+div[data-qtype="ms"] ol.choices li:hover label,
+div[data-qtype="mc"] ol.choices li:focus label,
+div[data-qtype="ms"] ol.choices li:focus label {
+	color: #000;
+}
+div[data-qtype="ms"] ol.choices li[aria-disabled="true"]:hover label
+div[data-qtype="ms"] ol.choices li[aria-disabled="true"]:focus label {
+	color: #666666;
+}
+div[data-qtype="mc"] ol.choices[aria-disabled="true"] li:hover label,
+div[data-qtype="ms"] ol.choices[aria-disabled="true"] li:hover label,
+div[data-qtype="mc"] ol.choices[aria-disabled="true"] li:focus label,
+div[data-qtype="ms"] ol.choices[aria-disabled="true"] li:focus label {
+	color: #666;
+	cursor: default;
+}
+
+/* fill in the blank questions */
+div[data-qtype="dd"] ol.choices-static {
+	list-style-type: none;
+	margin-left: 1.75em;
+}
+div[data-qtype="dd"] ol.choices li {
+	color: #2a2a2a;
+}
+div[data-qtype="dd"] ol.choices input[type=text] {
+    border-radius: 3px;
+  	border: 1px solid transparent;
+  	border-top: none;
+  	border-bottom: 1px solid #DDD;
+  	box-shadow: inset 0 1px 2px rgba(0,0,0,.39), 0 -1px 1px #FFF, 0 1px 0 #FFF;
+    display: inline-block;
+    margin-left: 1em;
+    text-align: center;
+}
+[data-qtype="dd"] ol.choices div.radio-wrapper {
+    left: -1.5em;
+    top: .35em;
+}
+div[data-qtype="dd"] div.radio-wrapper,
+div[data-qtype="dd"] ul.lb-options[aria-hidden="true"] {
+  display: none;
+}
+div[data-qtype="dd"] ol.choices {
+  list-style-type: none;
+}
+div[data-qtype="dd"] ol.choices > li {
+  margin-top: 1em;
+}
+div[data-qtype="dd"] .match-wrapper {
+  display: inline-block;
+  margin-left: 1em;
+  min-width: 50px;
+  position: relative;
+}
+div[data-qtype="dd"] ol.choices li span.dd-button {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: inline-block;
+  padding: .1em 1.5em .1em .5em;
+  position: relative;
+  text-align: center;
+  width: 6em;
+}
+div[data-qtype="dd"] ol.choices li span.dd-button::after {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #aaa;
+  content: " ";
+  position: absolute;
+  right: 5px;
+  top: 9px;
+}
+div[data-qtype="dd"] ul.lb-options {
+  list-style-type: none;
+  border: 1px solid #000000;
+  border-top: 0;
+  margin: 0;
+  padding: 0;
+}
+div[data-qtype="dd"] ul.lb-options[aria-hidden="false"] {
+  background-color: #fff;
+  display: block;
+  max-height: 10em;
+  overflow-y: auto;
+  position: absolute;
+  width: 6em;
+  z-index: 100;
+}
+section.ibooks div[data-qtype="dd"] ul.lb-options[aria-hidden="false"] {
+ 	overflow-x: hidden;	
+  	width: 8em; 
+}
+div[data-qtype="dd"] ul.lb-options li[role="option"] {
+  padding: .75em 2em;
+  text-align: center;
+}
+section.ibooks div[data-qtype="dd"] ul.lb-options li[role="option"] {
+	padding: .25em .25em 0 .25em;
+}
+div[data-qtype="dd"] ul.lb-options li[role="option"][aria-selected="true"] {
+  background-color: #46A4DA;
+}
+div[data-qtype="dd"] ul.lb-options li[role="option"][aria-selected="true"]::before {
+  content: "✓";
+  position: absolute;
+  left: 0.5em;
+}
+div[data-qtype="dd"] ol.choices {
+	margin-left: 2.75em;
+}
+div[data-qtype="dd"] ol.choices li {
+	margin-top: .75em;
+}
+div[data-qtype="dd"] .cor,
+div[data-qtype="dd"] .incor {
+	display: inline-block;
+	margin-left: 1em;
+}
+div[data-qtype="dd"] ol.choices span.response,
+div[data-qtype="dd"] ol.choices-static span.response {
+	color: #2a2a2a;
+	font-weight: bold;
+	margin-left: 1em;
+}
+div[data-qtype="dd"] ol.choices .cor span.response,
+div[data-qtype="dd"] ol.choices-static span.response {
+	color: #367E36;
+}
+div[data-qtype="dd"] ol.choices .incor span.response {
+	color: #D32D27;
+}
+
+/* Answer Key */
+/* Fall back for non-JS content */
+table.choice-table {
+	margin-left: .75em;
+	margin-right: 0;
+}
+table.choice-table td,
+table.choice-table th {
+	padding: .5em 1em;
+}
+table.choice-table tr > td:first-child {
+	padding-right: 0;
+}
+table.choice-table tr > td:nth-child(2) {
+	padding-left: .25em;
+}
+.question-container-static li.cr,
+.static-pq-container li.cr {
+	font-weight: bold;
+	position: relative;
+}
+.question-container-static li.cr img.answer-marker,
+.static-pq-container li.cr img.answer-marker,
+.static-pq-container tr.cr img.answer-marker {
+	left: -3em;
+	position: absolute;
+	top: .1em;
+	width: 1.3em;
+}
+.static-pq-container tr.cr img.answer-marker {
+	left: -1em;
+	top: .6em;
+}
+.static-pq-container tr.cr {
+	font-weight: bold;
+}
+.static-pq-container tr.cr > td:first-child {
+	position: relative;
+}
+.question-container-static li.cr img.answer-marker.hide,
+.static-pq-container li.cr img.answer-marke.hide {
+	display: none;
+}
+
+/*** 2.6: Insights ***/
+div.insight  {
+	background-color: rgba(145, 42, 116, .05);
+	border: #912A74 solid 2px;
+	border-radius: 3px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+	overflow: hidden;
+	page-break-inside: avoid; 
+	position: relative;
+	width: 90%;
+}
+div.insight img.lightbulb {
+	position: absolute;
+	opacity: .2;
+    right: 8%;
+    top: 10%;
+    width: 25%;
+}
+div.insight .inner {
+	padding: .25em 1.5em 1.5em;
+}
+div.insight .inner .inner {
+	padding: 0;
+}
+div.insight p.example-header + .inner {
+	padding: 1em 2em;
+}
+div.insight p.insight-header {
+	background-color: #912A74;
+	color: #fff;
+	font-weight: bold;
+	padding: .5em 1em;
+	font-size: 1.5em;
+	margin-top: 0;
+}
+div.insight p.insight-title,
+div.insight p.title {
+	color: #912A74;
+	font-weight: bold;
+	text-indent: 0;
+	font-size: 1.2em;
+}
+div.insight-inset {
+	border: solid 1px #333;
+  	border-radius: 3px;
+  	margin: 1em auto;
+	padding: 1em;
+	page-break-inside: avoid;  
+  	width: 80%;
+}
+div.insight p {
+	text-indent: 0!important;
+}
+div.insight ul {
+  	list-style-type: none;
+}
+div.insight ul li {
+	text-indent: -1.25em;
+	margin-left: 1.2em;
+}
+div.insight ul li:before {
+	color: #912A74;
+	content: "•";
+	font-weight: bold;
+	margin-right: .9em;
+}
+
+/*** 2.7: Modals ***/
+body.loma-modal-open {
+	margin-right: 16px;
+	overflow-y: hidden;
+	position: fixed;
+}
+.modal {
+	position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin-top: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 100;
+    overflow-x: hidden;
+	overflow-y: auto;
+	display: none;
+}
+.modal.show {
+	display: block;
+}
+#modalAlertBox {
+	background: #fefefe;
+	border: solid 2px #0069ad;
+	border-radius: 3px;
+	box-sizing: border-box;
+	color: #333;
+	left: 50%;
+    position: fixed;
+    width: 99.5%;
+    max-width: 400px;
+	-webkit-overflow-scrolling: touch !important;
+	overflow: auto !important;
+	padding: 1em 1.5em 1.5em;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+    z-index: 99999;
+}
+#modalAlertBox.mobile {
+    -webkit-transform: translate(-50%, 0%);
+    -ms-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
+}
+#modalAlertBox[aria-hidden="true"] {
+	display: none;
+}
+#modalAlertBox[aria-hidden="false"] {
+	display: block;
+}
+#modalAlertBox .header > span {
+	background-color: #0069ad;
+    border-radius: 13%;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 1.25em;
+	font-weight: bold;
+	margin-left: auto;
+    margin-top: 0;
+    opacity: .9;
+    text-align: center;
+    width: 1em;
+}
+#modalAlertBox .header > span:focus {
+	outline-color: blue;
+	outline-width: 2px;
+	outline-style: outset;
+}
+#modalAlertBox .ibid {
+	display: none;
+}
+#modalAlertBox.show {
+	opacity: 1;
+	-webkit-transform: translate(-50%, -50%) scale(1);
+	-ms-transform: translate(-50%, -50%) scale(1);
+	transform: translate(-50%, -50%) scale(1);
+}
+#modalAlertBox.hide {
+	display: none;
+}
+#modalAlertBox.ibooks,
+.ibm #modalAlertBox {
+  	top: 50%;
+}
+#modalAlertBox.fb-correct {
+	background-color: #FAFCFA;
+	border: solid 2px #367E36;
+}
+#modalAlertBox.fb-correct .header > span {
+	background-color: #367E36;
+}
+#modalAlertBox.fb-incorrect {
+	background-color: #FFF5F9;
+	border: solid 2px #D32D27;
+}
+#modalAlertBox.fb-incorrect .header > span {
+	background-color: #D32D27;
+}
+#modalAlertBox.warning {
+	background-color: #FFF9F4;
+	border: solid 2px #F7921E;
+}
+#modalAlertBox.warning .header > span {
+	background-color: #F7921E;
+}
+#modalAlertBox.description {
+	border-color: #006a65;
+    max-height: 90%;
+	max-width: 600px;
+	-webkit-overflow-scrolling: touch !important;
+	overflow: auto !important;
+}
+#modalAlertBox.description.ibooks {
+	max-width: 400px;
+}
+#modalAlertBox.show.description {
+	-webkit-transform: translate(-50%, 0%) scale(1);
+	-ms-transform: translate(-50%, 0%) scale(1);
+	transform: translate(-50%, 0%) scale(1);
+}
+#modalAlertBox.description .header > span {
+	background-color: #006a65;
+}
+#modalAlertBox.description p.md-title {
+	color: #006a65;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+#modalAlertBox.description ol,
+#modalAlertBox.description ul {
+	margin-left: 1.5em;
+}
+#modalAlertBox.description ol {
+	list-style-type: decimal;
+}
+#modalAlertBox.description ul {
+	list-style-type: disc;
+}
+#modalAlertBox.description p.vid-desc {
+	font-style: italic;
+}
+#modalAlertBox.description table {
+	margin-top: 1em;
+}
+#modalAlertBox.description table td,
+#modalAlertBox.description table th {
+	/*border: solid 1px #333;*/
+	padding: .5em 1em;
+}
+#modalAlertBox.description table th {
+	font-weight: bold;
+}
+#modalAlertBox.description th p {
+	color: #fff;
+}
+#modalAlertBox .content {
+	clear: right;
+	line-height: 1.5;
+}
+#modalAlertBox p {
+	color: #000;
+	margin-top: 0;
+	text-align: left;
+	text-indent: 0;
+}
+#modalAlertBox p.term {
+	color: #0069ad;
+	display: block;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+#modalAlertBox p.warning {
+	color: #F7921E;
+	display: block;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+#modalAlertBox p.correct span.head {
+	color: #367E36;
+	display: block;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+#modalAlertBox p.incorrect span.head {
+	color: #D32D27;
+	display: block;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+#modalAlertBox p.incorrect span.head {
+	color: #D32D27;
+	display: block;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+#modalAlertBox .footer {
+    margin-top: 17px;
+    text-align: center;
+}
+#modalAlertBox p + p {
+	margin-top: 1em;
+}
+#modalAlertBox p.equation {
+	text-align: center;
+}
+#modalOverlay {
+	background: rgba(0, 0, 0, 0.3);
+	bottom: 0;
+	height: 100%;
+	left: 0;
+	margin-top: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	width: 100%;
+	z-index: 99998;
+}
+#modalOverlay.iphone {
+	position: absolute;
+}
+#modalOverlay[aria-hidden='true'] {
+	display: none;
+}
+#modalOverlay[aria-hidden='false'] {
+	display: block;
+}
+
+/*** 2.8: Glossary Definitions ***/
+dt {
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-bottom: .5em;
+	margin-top: 1em;
+}
+dl dd {
+	margin-left: 1.75em;
+}
+
+/*** 2.9: Links ***/
+a {
+	color: #0069ad;
+	cursor: pointer;
+	font-weight: bold;
+	text-decoration: none;
+}
+span.gt {
+	font-weight: bold;
+	font-style: italic;
+}
+a.gt, a.modal-gt {
+  	color: #0069ad;
+  	cursor: pointer;
+	font-style: italic;
+  	font-weight: bold;
+}
+a:hover, a.gt:hover, a.modal-gt:hover {
+	color: #00548a;
+	text-decoration: underline;
+}
+
+a.endnote, span.endnote {
+	color: #006a65;
+	cursor: pointer;
+	font-size: .8em;
+	font-style: italic;
+	font-weight: bold;
+	margin-left: .1em;
+	margin-right: .25em;
+	text-decoration: none;
+	vertical-align: 20%;
+}
+a.endnote:hover, span.endnote:hover {
+	color: #003B39;
+	text-decoration: underline;
+}
+a.return {
+	font-size: .8em;
+}
+
+
+/*** 2.10: Equations ***/
+table.equation {
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+table.equation td,
+table.equation-left td,
+table.equation-right td {
+	padding: 7px 10px;
+	text-align: center;
+}
+table.equation td.eq {
+	padding-right: 20px;
+}
+table.equation td.ratio,
+table.equation td.eq {
+	vertical-align: middle;
+}
+table.equation td.num {
+	border-bottom: 2px solid #000000;
+}
+p.equation {
+	text-align: center;
+	text-indent: 0;
+}
+table.equation-left tbody tr:first-child > td:first-child {
+	border-bottom: 2px solid #000000;
+}
+table.equation-right tbody tr:first-child > td:last-child {
+	border-bottom: 2px solid #000000;
+}
+
+
+
+/*** 
+=  3 — SECTIONS
+***/
+
+/*** 3.1: Chapter Opener ***/
+h1.chapter {
+	margin: 2em 0 0;
+}
+h1.chapter span.ch-num {
+	color: #2a2a2a;
+	display: block;
+	font-size: .8em;
+	font-style: italic;
+}
+h1.chapter span.ch-title {
+	display: block;
+}
+h1.chapter span.ch-title,
+h1.chapter.gloss,
+h1.chapter.key,
+h1.chapter.ens {
+	background-color: #0069ad;
+	color: #fff;
+	margin-top: .25em;
+	padding: .5em .25em;
+}
+h2.ch-contents {
+	border-bottom: none;
+	color: #2a2a2a;
+	font-size: 1.3em;
+	font-style: italic;
+}
+figure.chapter-fig {
+	float: left;
+	margin-right: 1em;
+	width: 33%;
+}
+figure.chapter-fig img {
+	width: 100%;
+}
+figure.chapter-fig img.mobile {
+	display: none;
+} 
+figure.chapter-fig img.full {
+	display: block;
+}
+nav {
+	float: left;
+	margin-left: 2em;
+	margin-top: 1em;
+}
+nav ul {
+	list-style-type: none;
+	margin-left: 0;
+	margin-top: 0;
+}
+
+
+/*** 3.2: Learning Objectives ***/
+section.objectives img.bullseye {
+	position: absolute;
+    right: -12%;
+    top: -68%;
+    width: 60%;
+}
+section.objectives p.obj-txt {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-left: .5em;
+	min-height: 30px;
+}
+section.objectives ul.objectives {
+	list-style-type: none;
+	margin-left: 2.75em;
+}
+section.objectives ul.objectives li {
+	text-indent: -1.75em;
+	margin-left: 1.75em;
+}
+section.objectives ul.objectives li:before {
+	content: "✔";
+	color: green;
+	font-weight: bold;
+	margin-right: .9em;
+}
+
+/*** 3.3: Outline ***/
+section.outline p.outline {
+	font-weight: bold; 
+	text-indent: 0;
+}
+section.outline ul.outline {
+	list-style-type: square;
+	margin-left: 1.75em;
+	margin-top: .25em;
+}
+section.outline ul.outline li {
+	color: #006a65;
+}
+section.outline ul.outline li p {
+	color: #000;
+}
+
+
+/*** 3.4: Endnotes ***/
+body.endnotes h2,
+body.answer-key h2 {
+	padding-left: .25em;
+}
+body.endnotes ol.notes {
+	list-style-type: decimal;
+	margin-left: 2.5em;
+}
+ol.notes span.non-ibid {
+	display: none;
+}
+
+/*** 3.5: Answer Key ***/
+section.key h2 {
+	border-bottom: 3px solid #666666;
+    padding-bottom: .25em;
+    margin-bottom: .5em;
+}
+section.key .question-container-static p.q-title-static{
+	border-bottom: 0;
+}
+section.key div.question-container-static + h3.ch-pq {
+	margin-top: 1em;
+}
+section.key div.static-pq-container {
+    margin: 3em auto 4em;
+	width: 90%;
+}
+section.key div.static-pq-container > ol {
+	list-style-type: none;
+}
+section.key div.static-pq-container > ol > li {
+	border-bottom: solid 1px #666666;
+	counter-increment: step-counter;
+	margin-bottom: 1em;
+	padding: 1em 1em 2em;
+	position: relative;
+}
+section.key div.static-pq-container > ol > li::before {
+	content: counter(step-counter) ".";
+    left: -15px;
+	position: absolute;
+    top: 24px;
+}
+section.key div.question-container-static ol.choices-static {
+	margin-left: 4em;
+}
+section.key div.pq-container-static ol.choices-static {
+	margin-left: 3em;
+}
+section.key ol.choices-static {
+	margin-bottom: 3em;
+	margin-top: 2em;
+}
+section.key div[data-qtype="dd"] ol.choices-static {
+	list-style-type: upper-alpha;
+}
+section.key a.return {
+	font-size: 1em;
+}
+
+/*** 3.6: Glossary ***/
+section.glossary h1 {
+	margin-bottom: 1em;
+}
+section.glossary dt {
+	margin-top: 1.5em;
+}
+section.glossary dd {
+	line-height: 1.4;
+}
+
+/*** 3.7: Front matter ***/ 
+section.cover-page img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  	max-width: 1000px!important;
+  	width: 100%;
+}
+section.fm p.edition {
+	color: #333333;
+	font-size: 1.1em;
+	font-style: italic;
+	font-weight: bold;
+}
+section.fm p.ocp {
+	margin-top: 10em;
+	text-align: center;
+}
+section.fm p.ocp + p + p {
+	margin-top: 10em;
+}
+section.fm p.sop {
+	border-bottom: 1px solid #000000;
+	margin-top: 10em;
+}
+section.fm p.bk-title {
+	color: #0069ad;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-size: 2.4em;
+	line-height: inherit;
+    margin: 3em 0 .25em;
+    page-break-after: avoid;
+    text-align: left;
+    font-weight: bold;
+}
+section.fm img.logo {
+	margin: 12em 0 0 -.5em;
+	width: 150px;
+}
+section.fm img.logo + p,
+section.fm img.logo + p + p,
+section.fm img.logo + p + p + p {
+	margin-top: 0;
+}
+section.fm img.logo + p + p + p + p {
+	margin-top: 4em;
+}
+section.fm p.proj-team {
+	color: #0069ad;
+	font-size: 1.4em;
+	font-weight: bold; 
+	margin-top: 5em;
+}
+section.fm p.proj-team + p.txt {
+	text-indent: 0 !important;
+}
+section.fm table.team {
+	margin-top: 2em;
+}
+section.fm table.team th,
+section.fm table.team td {
+	padding: .5em 1em;
+}
+section.fm table.team th {
+	font-weight: bold;
+	text-align: left;
+	max-width: 35%;
+}
+section.fm table.team td span.tm {
+	display: block;
+	margin-bottom: .5em;
+}
+section.fm table.team + p.copyright,
+section.fm p.isbn {
+	margin-top: 5em;
+}
+section.fm table.team th {
+	background-color: transparent;
+	color: #000000;
+}
+section.fm ul {
+	list-style-type: disc;
+	margin-left: 1.75em
+}
+
+/*** 3.8: Figure and Video Descriptions ***/
+section.descriptions div.fig-desc {
+	border-bottom: 1px solid #333;
+	margin: 1em 0;
+	padding: 1em;
+}
+section.descriptions h2 {
+	border-bottom: 3px solid #666666;
+    padding-bottom: .25em;
+    margin-bottom: .5em
+}
+section.descriptions h2 + div.fig-desc {
+	margin-top: 0;
+}
+section.descriptions p.fig-num {
+	font-size: 1.3em;
+	font-weight: bold;
+}
+section.descriptions p.fig-title {
+	color: #006a65;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+section.descriptions p.return {
+	text-align: right;
+}
+section.descriptions ul,
+section.descriptions ol {
+	margin-left: 1.75em;
+}
+section.descriptions ul {
+	list-style-type: disc;
+}
+section.descriptions ol {
+	list-style-type: decimal;
+}
+section.descriptions p.vid-desc {
+	font-style: italic;
+}
+/*section.descriptions table td,
+section.descriptions table th {
+	border: solid 1px #333;
+	padding: .5em 1em;
+}*/
+section.descriptions th {
+	font-weight: bold;
+}
+section.descriptions tr > th:first-child {
+	text-align: left;
+}
+
+/*** 
+=  4 — MOBILE: Media Queries
+***/
+/*** 4.1: 768px ***/
+@media (max-width: 768px) {
+	/* Kotobee skips over the first CSS rule in a media query for some reason.
+	Leave this here so it reads all the styles */
+	body {
+		display: initial;
+	}
+	
+	p.indent1 {
+		margin-left: 6%!important;
+	}
+	p.indent2 {
+		margin-left: 12%!important;
+		text-align: right;
+	}
+	p.indent3 {
+		margin-left: 18%!important;
+		text-align: right;
+	}
+	/*** Tables ***/
+	table {
+		width: 100%;
+	}
+	table tr,
+	table td {
+		display: block;
+	}
+	table tr {
+		padding: 0.7em 2vw;
+	}
+	table tr.header {
+		display: none;
+		width: 0;
+	}
+	table.blue tbody > tr.title,
+	table.blue.striped tbody > tr.title {
+		background-color: #0069ad;
+	}
+	table.teal tbody > tr.title,
+	table.teal.striped tbody > tr.title {
+		background-color: #006a65;
+	}
+	table.orange tbody > tr.title,
+	table.striped tbody > tr.title {
+		background-color: #EF7014;
+	}
+	table.red tbody > tr.title,
+	table.red.striped tbody > tr.title {
+		background-color: #d90000;
+	}
+	table.green tbody > tr.title,
+	table.green.striped tbody > tr.title {
+		background-color: #00ab4f;
+	}
+	table.purple tbody > tr.title,
+	table.purple.striped tbody > tr.title {
+		background-color: #7e05bb;
+	}
+	table.black tbody > tr.title,
+	table.black.striped tbody > tr.title {
+		background-color: #000000;
+	}
+	table.blue tbody th,
+	table.teal tbody th,
+	table.orange tbody th,
+	table.red tbody th,
+	table.green tbody th,
+	table.purple tbody th,
+	table.black tbody th {
+		background-color: transparent;
+		color: #000000;
+	}
+	table tr.title th {
+		color: #ffffff;
+		display: block;
+		width: 100%;
+	}
+	table tr.data th {
+		border: none;
+		display: block;
+		font-size: 1.2em;
+		text-decoration: underline;
+		width: 100%;
+	}
+	table td {
+		display: grid;
+		/*width: 100%;*/
+	}
+	table td span.resp-th {
+		display: inline;
+	}
+	table.cellborders td,
+	table.cellborders th {
+		border-width: 0px;
+	}
+	table td.empty {
+		display: none;
+	}
+	table.equation {
+		width: initial;
+	}
+	table.choice-table tr.header,
+	table.choice-table tr.data,
+	table.tbexam tr.header,
+	table.tbexam tr.data,
+	table.equation tr {
+		display: table-row;
+	}
+	table.choice-table td,
+	table.tbexam td,
+	table.equation td {
+		display: table-cell;
+	}
+	table.choice-table td:first-child {
+		width: 35%;
+	}
+	
+
+	/*** media containers ***/
+	figure.numbered-fig,
+	div.figure,
+	div.question-container {
+		padding: 1em 0;
+		width: 100%;
+	}
+	
+	/*** In-Text Questions/Answer Key ***/
+	div.question-container,
+	div.question-container-key {
+		width: 100%;
+	}
+	div.question-container[data-qtype="mc"] ol.choices li,
+	div.question-container[data-qtype="ms"] ol.choices li {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	div.question-container ol.choices label {
+		padding-bottom: 0;
+	}
+	div.question-container p.stem, 
+	div.question-container[data-qtype="mc"] ol.choices,
+	div.question-container[data-qtype="ms"] ol.choices {
+		margin-left: .75em;
+		margin-right: .75em;
+	}
+	div.question-container-key p.q-stem, 
+	div.question-container-key ol.answer-choices {
+		margin-left: 0;
+		margin-right: 0;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	div.question-container-key ol.answer-choices {
+		padding-left: 2.75em;
+	}
+
+	/*** Insights ***/
+  	div.insight {
+      	width: 100%;
+  	}
+	div.insight img.lightbulb {
+	    right: 3%;
+	    top: 8%;
+		width: 40%;
+	}	
+	div.insight-inset {
+		width: 100%;
+	}
+
+	/*** Examples ***/ 
+	div.example {
+		width: 100%;
+	}
+	div.example .inner td {
+		padding: 5px 10px;
+	}
+	div.example .inner {
+		padding: 1em 1em 2em;
+	}
+
+	/*** Modals ***/ 
+	div#modalAlertBox {
+		width: 90%;
+	}
+	#modalAlertBox.description th p {
+		color: #000000;
+	}
+}
+
+/*** 4.2: 570px ***/
+@media (max-width: 570px) {
+
+	/* Kotobee skips over the first CSS rule in a media query for some reason.
+	Leave this here so it reads all the styles */
+	body {
+		display: initial;
+	}
+	figure.chapter-fig {
+		float: none;
+		margin-right: auto;
+		width: 100%;
+	}
+	figure.chapter-fig img.mobile {
+		display: block;
+	} 
+	figure.chapter-fig img.full {
+		display: none;
+	}
+	nav {
+		float: none;
+		margin-left: 0;
+	}
+	div.insight {
+		background-position-x: 95%;
+		background-position-y: 10%;
+		background-size: 40%;
+	}
+}

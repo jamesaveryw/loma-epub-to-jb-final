@@ -1,0 +1,192 @@
+@font-face {
+    font-family: 'Roboto';	
+    src: url("../fonts/Roboto/Roboto-Bold.ttf");
+}
+/*************************************************/
+/**                RESET                         */
+/*************************************************/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*************************************************/
+/**                RESET                         */
+/*************************************************/
+html, body{
+    font-family: Roboto,sans-serif;
+    font-size: 1rem;
+    line-height: 1.42857143;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#countryList{
+    display: none;
+    width: 85%;
+    height: 85%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin:0 auto;
+    border:1px solid rgb(169, 169, 169);
+    border-radius: 8px;
+}
+
+#listed li{
+    display: flex;
+    align-items: center;
+    list-style-type: none; 
+    vertical-align: middle;
+    font-size: .8rem;
+    cursor: pointer;
+    border-radius: 12px;
+    padding-left: 1.5rem;
+    margin-left: -1.5rem;
+}
+#listed li:hover, #listed li:active{
+    background: rgba(0, 159, 255, .2);
+    text-decoration: underline;
+}
+
+#listed li img{
+    flex: 0 2.6rem;
+    border-radius: 100%;
+    overflow: hidden;
+    margin: .5rem 1rem .5rem 1rem;
+}
+
+hr{
+    border:none;
+    border-bottom: 1px solid rgba(169, 169, 169, .5);
+}
+#instructions{
+    position: relative;
+    display: none;
+    font-size: 2rem;
+    text-align:center;
+    margin: 1rem auto;
+    line-height: 1.5;
+}
+#whyasking{
+    position: relative;
+    font-size: .75rem;
+    color: #0069aa;
+    cursor: pointer;
+    text-decoration: underline;
+    user-select: none;
+}
+#whyexplanation{
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 8px;
+    border:1px solid rgba(169, 169, 169, .5);
+    border: 2px solid #0069aa;
+    padding: 20px;
+    line-height: 1.5;
+    text-align: left;
+    font-size: .75rem;
+    width: 30%;
+    left: 50%;
+    z-index: 999;
+    cursor: pointer;
+    box-shadow: 5px 5px 2px rgba(0, 0, 0, .5);
+}
+#whyexplanation :nth-child(1){
+    margin-bottom: 10px;
+}
+
+#courseRegionMap{
+    display: none;
+    width: 1025px;
+    height: 620px;
+    margin: auto;
+    padding:10px;
+    background-color: #b7d9d1;
+    border: 3px solid #00609f;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+.outline div{
+    float:left;
+    line-height: 0;
+    cursor: pointer;
+}
+.region1{
+    width:391px;
+}
+.region2{
+    width: 261px;
+}
+.region3{
+    width: 150px;
+}
+.region4{
+    width:197px;
+}
+
+#outdated, #patience{
+    text-align: center;
+    width: 50%;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+#outdated p{
+    padding: 20px;
+}
+
+
+
+@media (max-width: 520px){
+    #instructions{font-size: 1.1rem;}
+}
+@media (max-height: 450px){
+    #countryList{height:60%;}
+}
+    
+

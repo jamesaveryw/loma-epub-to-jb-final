@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"> 
+<title>Exam Questions</title>
+<script type="text/javascript" src="LOMA_371_PQ_0_1.js"></script>
+<script type="text/javascript" src="../examincludes/strings_v9_1000.js"></script>
+<script type="text/javascript" src="../examincludes/APIWrapper.js"></script>
+<script type="text/javascript" src="../examincludes/tincan.min.js"></script>
+<script type="text/javascript" src="../examincludes/lrs.min.js"></script>
+<script type="text/javascript" src="../examincludes/examfunctions_tpg18.min.js"></script>
+
+<script type="text/javascript">
+window.onresize = showBottomNav;
+</script>
+<link href="../examincludes/tpg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body onload="javascript: initializeExam(false);" OnKeyPress="javascript: HandleKey(event);">
+    <div id="screen" class="screen" style="display:none"></div>
+    <div id="splash" class="tw" role="dialog" aria-modal="true" aria-labelledby="errMsg2">
+        <div id="target2" class="confirm">
+            <div id="errMsg2"></div>
+            <p class="swap" style="text-align:center; margin-left: 0px; margin-bottom: 0px">
+                <INPUT TYPE="BUTTON" ID="submitYes" NAME="Yes" VALUE="Yes" title="Yes" class="btn" onclick="javascript:confirmGetScore(true);">&nbsp;
+                <INPUT TYPE="BUTTON" ID="submitNo" NAME="No" VALUE="No" title="No" class="btn" onclick="javascript:confirmGetScore(false);">
+			</p>
+        </div>
+    </div>
+    <div id="feedback" class="tw" role="dialog" aria-modal="true" aria-labelledby="fbMsg">
+        <div id="target3" class="confirm">
+            <div id="fbMsg"><p class="swap"></p></div>
+            <p class="swap" style="text-align:center; margin-left: 0px; margin-bottom: 0px">
+                <INPUT TYPE="BUTTON" ID="fbOn" NAME="On" VALUE="On" title="On" class="btn" onclick="javascript:setFeedback(1, event);">&nbsp;
+                <INPUT TYPE="BUTTON" ID="fbOff" NAME="Off" VALUE="Off" title="Off" class="btn" onclick="javascript:setFeedback(0, event);">
+			</p>
+        </div>
+    </div>
+    <div id="help" class="help" role="dialog" aria-modal="true" aria-labelledby="hlpMsg">
+        <div id="hlptitle"></div>
+		<div id="hlptarget">
+            <div id="hlpMsg"></div>
+        </div>
+    </div>
+	
+    <div id="tcCHdiv">
+		<a class="sr-only" id="to-main-content" href="#examitem">Jump to main content</a>
+        <div class="navbar" id="navbar" role="banner">
+            <div class="menu-toggle" id="menu-toggle" onclick="javascript:toggleQuestionList(this);" role="button" aria-haspopup="true" aria-controls="quest-list" aria-label="toggle question list" tabindex="0" aria-expanded="false">
+                <div class="toggle-icon" title="Hide" id="toggle-icon"></div>
+            </div>
+            <div class="nav-menu-container" role="navigation" aria-label="Main menu">
+                <div id="mnuBegin" class="nav-menu">
+                    <div class="navcell" id="btnBegin" title="Begin" onclick="javascript:initializeFinish()" role="button" aria-label="begin examination" aria-disabled="false" tabindex="0" accesskey="b"><span class="label">BEGIN</span><span class="icon"><img src="../examincludes/media/begin.png" alt="" /></span></div>
+                </div>
+                <div id="mnuMain" class="nav-menu">
+                    <div class="navcell" id="btnRestart" title="Restart" onclick="javascript:initializeExam(true)" role="button" aria-label="restart the questions" aria-disabled="false" tabindex="0" accesskey="r"><span class="icon"><img src="../examincludes/media/restart.png" alt="" /></span><span class="label">RESTART</span></div>
+                    <div class="navcell" id="btnMark" title="Mark Question for Review" onclick="javascript:markReview(questionIndex)" role="button" aria-label="mark question for review" aria-disabled="false" tabindex="0" accesskey="m"><span class="icon"><img src="../examincludes/media/pencil.png" alt="" /></span><span class="label">MARK</span></div>
+                    <div class="navcell" id="btnHelp" title="Help" onclick="javascript:openHelp();" role="button" aria-label="help" aria-disabled="false" tabindex="0"><span class="icon"><img src="../examincludes/media/help.png" alt="" /></span><span class="label">HELP</span></div>
+				    <div class="navcell" id="btnFeedback" title="Toggle Feedback On/Off" onclick="javascript:toggleFeedback(true);" role="button" aria-label="toggle feedback on or off" aria-disabled="false" tabindex="0"><span class="icon"><img src="../examincludes/media/feedback.png" alt="" /></span><span class="label">FEEDBACK</span></div>
+                    <div class="navcell" id="btnPrevious" title="Previous Question" onclick="javascript:showQuestion(questionIndex - 1, event);" role="button" aria-label="previous question" aria-disabled="false" tabindex="0"><span class="icon"><img src="../examincludes/media/prev.png" alt="" /></span><span class="label">PREV</span></div>
+                    <div class="navcell" id="btnNext" title="Next Question" onclick="javascript:showQuestion(questionIndex + 1, event);" role="button" aria-label="next question" aria-disabled="false" tabindex="0"><span class="label">NEXT</span><span class="icon"><img src="../examincludes/media/next.png" alt="" /></span></div>
+                    <div class="navcell" id="btnGrade" title="Get My Score" onclick="javascript:checkGrade();" role="button" aria-label="submit for grading" tabindex="0"><span  aria-disabled="false" class="label">SUBMIT</span><span class="icon"><img src="../examincludes/media/submit.png" alt="" /></span></div>
+                </div>
+            </div>
+        </div>
+        <div id="container" role="main">
+            <h1 id="quiz-title" class="sr-only"></h1>
+            <div id="qlist" class="qlist">
+                <div id="QuestionList" class="QuestionList">
+                </div>
+            </div>
+            <div id="exam" class="exam">
+                <div id="welcome" class="tw2" role="alert">
+                    <div id="closewelcome" onclick="javascript:hideWelcome()" class="imglayer" aria-hidden="true">
+                        <p>&#215;</p>
+                    </div>
+                    <div id="target1" class="welcome"></div>
+                </div>
+                <div id="examitem" class="examitem" tabindex="-1"></div>
+            </div>
+        </div>
+    </div>
+    <div id="correct" onclick="javascript:hideAll();" role="dialog" tabindex="-1">
+        <p id="c-close" class="close" role="button" aria-label="close feedback" tabindex="0">×</p>
+        <div class="cf" id="cf">
+            <p id="strCorrect" class="tbar">Correct!</p>
+        </div>
+        <div id="expc"></div>
+    </div>
+    <div id="incorrect" onclick="javascript:hideAll();" role="dialog" tabindex="-1">
+        <p id="x-close" class="close" role="button" aria-label="close feedback" tabindex="0">×</p>
+        <div class="wf" id="wf">
+            <p id="strIncorrect" class="tbar">Incorrect</p>
+        </div>
+        <div id="expw"></div>
+    </div>
+	<div id="printable"></div>
+    <script type="text/javascript">
+    showBottomNav();
+    </script>
+</body>
+
+</html>

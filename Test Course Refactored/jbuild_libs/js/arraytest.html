@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Remove Duplicate Objects from Array Jquery Example - ItSolutionstuff.com</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+   
+<script type="text/javascript">
+  /*  
+  var myArray = [
+        { "id" : "1", "firstName" : "Hardik", "lastName" : "Savani" }, 
+        { "id" : "2", "firstName" : "Vimal", "lastName" : "Kashiyani" }, 
+        { "id" : "3", "firstName" : "Harshad", "lastName" : "Pathak" }, 
+        { "id" : "1", "firstName" : "Hardik", "lastName" : "Savani" }, 
+        { "id" : "5", "firstName" : "Harsukh", "lastName" : "Makawana" }
+      ];
+   */ 
+
+var myArray = ["Heading_New","Question_Comp","Info_Box,Heading_New"];
+
+  function removeDumplicateValue(myArray){ 
+      var newArray = [];
+    
+        $.each(myArray, function(key,value){
+            var exists = false;
+        }
+
+
+/*
+      $.each(myArray, function(key, value) {
+        var exists = false;
+        $.each(newArray, function(k, val2) {
+          if(value.id == val2.id){ exists = true }; 
+        });
+        if(exists == false && value.id != "") { newArray.push(value); }
+      });
+   */
+      return newArray;
+    }
+    
+    console.log(removeDumplicateValue(myArray));
+</script>
+    
+</body>
+</html>

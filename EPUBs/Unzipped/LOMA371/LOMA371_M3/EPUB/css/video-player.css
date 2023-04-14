@@ -1,0 +1,499 @@
+﻿/*******************************************************
+
+Project: LOMA Ebook Video Player CSS
+Developer: James Avery Wilhelm
+Date: 2020-05-01
+Modified: 2020-05-01
+
+*******************************************************/
+
+div.video-container {
+    font-family: TrebuchetMS, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    position: relative;
+    width: 100%;
+    z-index: 99997;
+}
+div.video-container.js {
+    border: solid #0069AD 3px;
+}
+div.video-container video {
+    padding: 0.5em 0;
+}
+div.video-container div.v-title-overlay {
+  	display: none;
+}
+div.video-container.js div.v-title-overlay {
+	background-color: #FFFFFF;
+  	display: block;
+    height: 84.25%;
+    left: 0;
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    -webkit-transition: opacity 300ms ease-out;
+    -ms-transition: opacity 300ms ease-out;
+    transition: opacity 300ms ease-out;
+    width: 100%;
+  	z-index: 50;
+}
+div.video-container div.v-title-overlay.playing {
+	opacity: 0;
+}
+div.video-container.full div.v-title-overlay {
+	height: 100%;
+}
+div.video-container div.v-title-overlay p.v-title {
+    color: #006a65;
+    font-size: 3em;
+	font-weight: bold;    
+	margin-top: 20%;
+    padding: 0 .5em;
+    text-align: center;
+}
+
+/*****************
+Controls
+*****************/
+div.video-container ul.vid-speeds {
+  	list-style-type: none;
+  	margin-left: .5em;
+  	margin-right: .5em;
+}
+div.video-controls {
+    display: none;
+}
+div.js div.video-controls {
+    background-color: #0069AD;
+    border: solid 1px #0069AD;
+    display: block;
+    padding-bottom: .5em;
+  	position: relative;
+    width: 100%;
+  	z-index: 100;
+}
+div.video-controls  * {
+    background-color: #0069AD;
+} 
+div.video-controls *:focus {
+    outline: none;
+}
+div.video-controls button {
+    border: solid 3px #0069AD;
+    cursor: pointer;
+    min-height: 3.25em;
+    margin: 0 2px;
+    transition: border-color 500ms ease-out;
+    -webkit-transition: border-color 500ms ease-out;
+    -ms-transition: border-color 500ms ease-out;
+    min-width: 3.25em;
+}
+div.video-controls img {
+    background: transparent;
+}
+/*** Add slider styles back in by browser ***/
+/* WebKit */
+div.video-controls input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    background: transparent;
+    border: none;
+    box-shadow: -100vw 0 0 100vw #666666;
+    cursor: pointer;
+    height: 8px;
+    margin-top: -1px;
+    width: 0px;
+}
+div.video-controls input[type=range]::-webkit-slider-runnable-track {
+    background: #E8E8E8;
+    border: none;
+    cursor: pointer;
+    height: 6px;
+    width: 100%;
+}
+/* Firefox */
+div.video-controls input[type=range]::-moz-range-thumb {
+    background: transparent;
+    border: none;
+    border-radius: 0 !important;
+    box-shadow: -100vw 0 0 100vw #666666;
+    cursor: pointer;
+    height: 6px;
+    width: 0px;
+}
+div.video-controls input[type=range]::-moz-range-track {
+    background: #E8E8E8;
+    border: none;
+    cursor: pointer;
+    height: 6px;
+    overflow: hidden;
+    width: 100%;
+}
+/* IE */
+div.video-controls input[type=range]::-ms-thumb {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    height: 8px;
+    width: 0px;
+}
+div.video-controls input[type=range]::-ms-track {
+    background: transparent;
+   
+    color: transparent;
+    cursor: pointer;
+    height: 6px;
+    width: 100%;
+}
+div.video-controls input[type=range]::-ms-fill-lower {
+    background: #666666;
+    border: none;
+}
+div.video-controls input[type=range]::-ms-fill-upper {
+    background: #E8E8E8;
+    border: none;
+}
+div.lt-controls > * {
+    display: inline-block;
+}
+div.video-controls div.lt-controls > input.volume-bar {
+    display: inline-block;
+    margin: 0 20px 0 10px;
+    max-width: 90px;
+    vertical-align: 100%;
+    width: 25%;
+}
+
+/* video buttons */
+div.video-controls button:focus, 
+div.video-controls input:focus, 
+div.video-controls[role="menuitem"]:focus {
+    box-shadow: 0px 0px 2px 2px #000;
+}
+div.video-controls button.play-pause-bg {
+    background-color: #666666;
+    border: none;
+    border-radius: 100%;
+    height: 80px;
+    left: 50%;
+    opacity: 0;
+    position: absolute;
+    top: -300%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 80px;
+}
+div.video-controls button.play-pause-bg:focus {
+	opacity: 0.2;
+}
+div.video-controls button.play-pause-bg img {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.video-controls button.play-pause img {
+    display: none;
+    width: 30px;
+}
+div.video-controls button.play-pause img.active,
+div.video-controls button.play-pause-bg img.active {
+    display: inline-block;
+}
+div.video-controls div.lt-controls,
+div.video-controls div.rt-controls {
+    display: inline-block;
+}
+div.video-controls div.rt-controls {
+    float: right;
+}
+div.video-controls div.lt-controls {  
+    margin-left: .5em;  
+    width: 60%;
+}
+div.video-controls div.lt-controls > *,
+div.video-controls div.rt-controls > * {
+    vertical-align: text-bottom;
+}
+div.video-controls button.vid-speed {
+    position: relative;
+}
+div.video-controls button.vid-speed span.txt {
+    color: #ffffff;
+    font-size: 1.5em;
+}
+div.video-controls button.vid-speed span.uarrow { 
+    border-bottom: 5px solid #ffffff;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    display: inline-block;
+    height: 0;
+    vertical-align: 5px;
+    width: 0; 
+}
+div.video-controls div.speed-pop {
+    border: solid 1px #fff;
+    bottom: 58px;
+    color: #ffffff;
+    opacity: .85;
+    padding: .5em;
+    position: absolute;
+    transition: opacity 500ms ease-out;
+    -webkit-transition: opacity 500ms ease-out;
+    -ms-transition: opacity 500ms ease-out;
+    z-index: 110;
+}
+div.video-controls div.speed-pop:after {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #ffffff;
+    bottom: -5px;
+    content: '';
+    display: inline-block;
+    height: 0;
+    left: 42%;
+    position: absolute;
+    width: 0;
+    z-index: 100;
+}
+div.video-controls div.speed-pop.hide {
+    opacity: 0;
+    z-index: -100;
+}
+div.video-controls ul.vid-speeds li {
+    cursor: pointer;
+    text-align: right;
+}
+div.video-controls ul.vid-speeds li + li {
+    margin-top: .5em;
+}
+div.video-controls ul.vid-speeds li.active {
+    color: #F9C606;
+}
+div.video-controls button.vid-speed img,
+div.video-controls button.full-screen img {
+    width: 30px;
+}
+div.video-controls img.logo {
+    background: transparent;
+    margin: -2px .75em 0px .5em;
+    vertical-align: 65%;
+    width: 65px;
+}
+div.video-controls img.volume-icon {
+    display: none;
+    width: 30px;
+}
+div.video-controls img.volume-icon.active {
+    display: inline-block;
+}
+div.video-controls div.time-display {
+    color: #ffffff;
+    display: inline-block;
+    font-family: TrebuchetMS, sans-serif;
+    font-size: 1.2em;
+    margin-left: 20px;
+    vertical-align: 100%;
+}
+
+
+/* PROGRESS BAR */
+div.progress-wrapper { 
+    border: 2px solid #000000;
+    cursor: pointer;
+    margin: 0.5em auto;
+    position: relative;
+    width: 97.5%;
+}
+div.progress-bar {
+    background: #ffffff;
+    height: 0.75em;
+    overflow: hidden;
+    width: 100%
+}
+div.progress-played {
+    background-color: #666666;
+    height: .75em;
+    position: relative;
+    width: 0%;
+    z-index: 75;
+}
+div.progress-thumb {
+    border: solid 2px #000;
+    border-radius: 50%;
+    box-shadow: inset 0px 0px 2px 2px #ffffff;
+    display: inline-block;
+    height: 1em;
+    left: 0;
+    position: absolute;
+    bottom: -.25em;
+    -ms-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 1em;
+    z-index: 100;
+}
+div.progress-thumb:focus {
+    outline: 2px solid yellow;
+}
+
+div.progress div.progress_box { 
+    background-color: #F5F5F2;
+    border: 1px solid #000000;
+    height: 12px; 
+    margin: .5em auto .75em; 
+    padding: 1px 2px;
+    overflow: hidden; 
+    width: 97%;
+}
+
+div.progress span.play_progress {
+    background-color: #666666;  
+    display: block; 
+    height: 12px; 
+    max-width: 99.999%;
+    width: 0px; 
+}
+
+/* VIDEO TIPS */
+div.tip-container {
+    background-color: #666;
+    bottom: 17%;
+    left: 50%;
+    opacity: 0;
+    padding: 0 1em;
+    position: absolute;
+    -ms-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    transition: opacity 500ms ease-out;
+    -webkit-transition: opacity 500ms ease-out;
+    -ms-transition: opacity 500ms ease-out;
+}
+div.tip-container p.tips {
+    color: #FFFF00;
+    font-size: 1em;
+    font-weight: normal;
+    text-align: left;
+}
+div.tip-container.visible {
+    opacity: .9;
+}
+button.play-pause.highlight,
+button.vid-speed.highlight {
+    border-color: #FFFF00;
+    transition: border-color 500ms ease-out;
+    -webkit-transition: border-color 500ms ease-out;
+    -ms-transition: border-color 500ms ease-out;
+}
+div.transcript {
+	margin-top: 2em;
+	text-align: center;
+}
+
+/* FULL SCREEN MODE */
+div.video-container.full {
+    max-width: 100%;
+}
+div.video-container.full video {
+    max-width: 100%;
+    width: 100%;
+}
+div.video-container.full div.video-controls {
+    bottom: 0;
+    position: fixed;
+    opacity: 0;
+    transition: opacity 500ms ease-out;
+    -webkit-transition: opacity 500ms ease-out;
+    -ms-transition: opacity 500ms ease-out;
+}
+div.video-container.full div.video-controls.visible {
+	z-index: 2147483647;
+    opacity: .9;
+}
+div.video-container.full.ie10 video {
+    max-width: 95%;
+}
+div.video-container.full.ie10 div.video-controls {
+    position: static;
+    opacity: 1;
+}
+div.video-container.full button.play-pause-bg {
+    height: 150px;
+    position: fixed;
+    top: 40%;
+    width: 150px;
+}
+
+
+/* responsive */
+@media (max-width: 768px) {
+
+    
+	div.video-container div.v-title-overlay p.v-title {
+		font-size: 1em;
+	}
+	div.lt-controls {
+		margin-left: 0;
+		width: 60%;
+	}
+	div.video-container button {
+		border: none;
+		margin: 0;
+		min-width: 40px;
+		padding: 0;
+	}
+	button.play-pause img,
+	button.mute img.volume-icon,
+	button.full-screen img.fs-icon {
+		width: 20px;
+	}
+	button.vid-speed span.txt {
+		font-size: .9em;
+	}
+	div.lt-controls > input.volume-bar {
+		margin: 0 6px 0 4px;
+		max-width: 36%;
+		width: 36%;
+	}
+	div.video-controls div.time-display {
+		display: none;
+    }
+    div.video-container img.logo {
+        display: none;
+    }
+    button.full-screen {
+        display: none;
+    }
+    div.video-container button.vid-speed {
+        margin-right: 1em;
+    }
+
+}
+
+@media (max-width: 600px) {
+    
+}
+@media (max-width: 440px) {
+
+    div.speed-pop {
+        bottom: 63px;
+	}
+
+}
+
+@media (max-width: 400px) {
+
+    .time-display {
+        margin-top: .25em;
+    }
+	
+	div.v-title-overlay p.v-title { 
+		font-size: 2em;
+	}
+
+}
+
+/***********************************
+grey/black theme changes 
+***********************************/

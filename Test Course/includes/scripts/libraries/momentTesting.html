@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+    <div id="output"></div>
+    <div id="outtwo"></div>
+    <div id="outthree"></div>
+<script src="moment.js"></script>
+<script>
+completiondate = new Date().toISOString();
+isodate = completiondate.split("T");
+isodatearray = isodate[0].split("-");
+    
+momentdate = moment().format("YYYY-MM-DD");
+document.getElementById("output").innerHTML = isodate[0];
+document.getElementById("outtwo").innerHTML = momentdate;//.format("YYYY-MM-DD");
+    
+for(var t_card = 1; t_card <= 4;t_card++){
+    document.getElementById("outthree").innerHTML += t_card + "<br>";
+}
+</script>
+</body>
+</html>

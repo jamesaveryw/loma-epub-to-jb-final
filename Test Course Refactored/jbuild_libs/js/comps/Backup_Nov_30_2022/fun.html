@@ -1,0 +1,568 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
+    <!-- -------<( Stylsheets and jquery for js dir )>------- -->
+    <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
+    <link rel="stylesheet" href="../../../jbuild_libs/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../jbuild_libs/css/creator.css">
+    <link href="../../../jbuild_libs/css/font-awesome.css" rel="stylesheet">
+    <!--
+	<script type="text/javascript" src="../../../jbuild_libs/js/jquery.min.js"></script>
+	<script type="text/javascript" src="../../../jbuild_libs/js/jquery-2.js"></script>
+	-->
+    <script type="text/javascript" src="../../../jbuild_libs/js/jquery.min.3.6.0.js"></script>
+    <script src="../../../jbuild_libs/js/jquery.flip.min.js"></script>
+
+
+    <script type="text/javascript" src="../../../jbuild_libs/js/comps/c_components.js"></script>
+    <script type="text/javascript" src="../../../jbuild_libs/js/Jc_creator_simple_one.js"></script>
+
+    <script type="text/javascript" src="../../../includes/scripts/toc_setup.js"></script>
+    <!-- Added for the table of contents -->
+
+    <!-- Jc_creator_simple_one   JB_creator_v2  Jc_creator_20 -->
+    <link rel="stylesheet" href="../../../jbuild_libs/fonts/font-awesome.min.css">
+
+    <title id="Lesson_Page_title"></title>
+    <!-- Component links -->
+    <script src="../../../jbuild_libs/js/comps/Heading_New.js" type="text/javascript"></script>
+    <script src="../../../jbuild_libs/js/comps/Flip_Multi_New.js" type="text/javascript"></script>
+    <script src="../../../jbuild_libs/js/comps/image_w_text.js" type="text/javascript"></script>
+    <script src="../../../jbuild_libs/js/comps/List_text_paragraph.js" type="text/javascript"></script>
+    <script src="../../../jbuild_libs/js/comps/Info_Box.js" type="text/javascript"></script>
+    <script
+        src="../../../jbuild_libs/js/comps/[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object].js"
+        type="text/javascript"></script>
+    <script
+        src="../../../jbuild_libs/js/comps/[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object].js"
+        type="text/javascript"></script>
+    <script
+        src="../../../jbuild_libs/js/comps/[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object].js"
+        type="text/javascript"></script>
+    <script
+        src="../../../jbuild_libs/js/comps/[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object].js"
+        type="text/javascript"></script>
+</head>
+
+<body id="Page_Body" class="c_jcc_back">
+    <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
+
+    <div id="pg_header" class="navbar navbar-inverse navbar-fixed-top col-lg-12 col-md-12 col-xs-12"
+        style="text-align: center; background-color: rgb(0, 112, 176); width: 100%;">
+        <page_title id="Page_Title"></page_title>
+        <div id="prg_Bar"
+            style="height: 2px; background-color: royalblue; width: 0px;margin-left: -20px; position: absolute; bottom: 0;">
+        </div>
+    </div>
+
+    <div id="JcComponents" class="col-lg-12 col-md-12 col-xs-12 Main_div_settings"
+        style="display: block; width: 100%; margin-top: 40px;" align="center">
+        <div class="col-lg-12 col-md-12 col-xs-12 Main_div_settings"><button class="sr-only" id="menubutton1"
+                aria-haspopup="true" aria-controls="menu1">Component Menu</button>
+            <ul class="sr-only" id="menu1" role="menu" aria-labelledby="menubutton1" tabindex="-1"
+                style="display: block; position: absolute; top: 28px; left: 0px;">
+                <li role="button" aria-pressed="false" onclick="compjump(undefined)" tabindex="-1">Component 1 undefined
+                </li>
+                <li role="button" aria-pressed="false" onclick="compjump(undefined)" tabindex="-1">Component 2 undefined
+                </li>
+                <li role="button" aria-pressed="false" onclick="compjump(undefined)" tabindex="-1">Component 3 undefined
+                </li>
+                <li role="button" aria-pressed="false" onclick="compjump(undefined)" tabindex="-1">Component 4 undefined
+                </li>
+                <li role="button" aria-pressed="false" onclick="compjump(undefined)" tabindex="-1">Component 5 undefined
+                </li>
+                <li role="button" aria-pressed="false" onclick="compjump(undefined)" tabindex="-1">Component 6 undefined
+                </li>
+                <li role="button" aria-pressed="false" onclick="compjump(undefined)" tabindex="-1">Component 7 undefined
+                </li>
+                <li role="button" aria-pressed="false" onclick="compjump(undefined)" tabindex="-1">Component 8 undefined
+                </li>
+            </ul>
+            <div id="keyTermModal" class="c_jb_modal">
+                <div id="jb_header_text" class="c_jb_modal-hdr-ftr" style="color:#000000;font-size:20px"></div>
+                <div class="jb_modal_width">
+                    <div class="alt_kt_width" id="jb_alt_modal" style="overflow-y:auto"><textarea role="input"
+                            id="jb_modal_main_text" rows="4" cols="84" autofocus="" readonly=""></textarea></div>
+                </div>
+                <div class="img_modal_hdr_ftr">
+                    <div class="jb_modal-hdr-ftr"><span class="jb_close" id="kt_btn"><button
+                                onclick="javascript:close_keyterm()" onfocusout="alt_jbfocusout(1)">
+                                <jb1>Close</jb1>
+                            </button></span></div>
+                </div>
+            </div>
+            <div id="imageModal" class="img_modal" style="margin-top:36px; overflow: hidden">
+                <div class="img_modal_hdr_ftr">
+                    <p id="jb_img_modal" style="color: #ffffff; text-align:left;"></p>
+                </div>
+                <div id="imgContainer" class="img_modal_content">
+                    <div id="sld_mimage"><button aria-label="Scroll image" id="imgJbscrl"
+                            onfocus="jbfocus(5)"><img 'role'="button" id="mdl_image"
+                                style="width:90%; height:90%; background-color:black; margin-left:auto; margin-right:auto;"
+                                src="" x="" alt=""></button></div>
+                </div>
+                <div class="img_modal_hdr_ftr">
+                    <div id="img_mdl_btns"><button aria-label="Zoom in" id="img_zoom" class="btn"
+                            style="background-color:#0070b0;" onclick="javascript:mi_iwt_zi_image()"
+                            onfocus="jbfocus(1)" onfocusout="jbfocusout(1)"><img img=""
+                                src="../../../jbuild_libs/images/plus_icon.png"></button><span
+                            class="zicon"></span><button aria-label="Zoom out" id="img_zoom_out" class="btn"
+                            style="background-color:#0070b0;" onclick="javascript:mi_iwt_zo_image()"
+                            onfocus="jbfocus(2)" onfocusout="jbfocusout(2)"><img img=""
+                                src="../../../jbuild_libs/images/minus_sign.png"></button><span
+                            class="zicon"></span><button aria-label="Fit image" id="img_fit" class="btn"
+                            style="background-color:#0070b0;" onclick="javascript:mi_iwt_fit_image()"
+                            onfocus="jbfocus(3)" onfocusout="jbfocusout(3)"><img img=""
+                                src="../../../jbuild_libs/images/resize_full.png"></button><span
+                            class="zicon"></span><span class="jb_close"><button id="image_Modal"
+                                onclick="javascript:close_image_modal()" onfocus="jbfocus(4)"
+                                onfocusout="jbfocusout(4)">
+                                <jb1>Close</jb1>
+                            </button></span></div>
+                </div>
+            </div>
+        </div>
+        <div id="Heading_0" class="col-lg-12 col-md-12 col-xs-12"
+            style="width:100%; margin-top:10px;background-color: #ffffff; border-top-color:; border-top-width:undefined; border-top-style:undefined; border-bottom-color:; border-bottom-width:undefined; border-bottom-style:undefined">
+            <h1>
+                <p
+                    style="background-color:; margin-top:undefined; padding:undefined; border-radius:undefined; border-color:undefined; border-width:undefined; border-style:undefined ; width:undefined; color: #000000; font-weight: normal;text-align: center">
+                    Heading Main First Comp</p>
+            </h1>
+        </div>
+        <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top:20px;height:auto;background-color: ">
+            <div class="col-lg-6 col-md-6 col-xs-12"
+                style="max-width:120ch; line-height:1.5;height:auto;background-color: ">
+                <p style="margin-top:10px;color: ;text-align:center">
+                    <jb1> </jb1>
+                </p>
+                <div aria-label="Select card 1 to flip" type="button" tabindex="0" id="card_1_1"
+                    style="perspective: 2280px; position: relative;height:350px;">
+                    <div class="front alert alert-info"
+                        style="overflow-y:auto; backface-visibility: hidden; transform-style: preserve-3d; position: absolute; z-index: 1; height: 100%; width: 100%; transition: all 0.5s ease-out 0s; transform: rotateY(0deg); background-color: "
+                        onclick="rf_flip(1,1,event)" onkeydown="rf_flip(1,1,event)">
+                        <div class="col-lg-12 col-md-12 col-xs-12" style=" background-color:#ffffff; margin-top:10px;">
+                            <div class="c_lesson_width">
+                                <div
+                                    style="border-style:solid; border-color:#000000; border-width:undefined; border-radius:0px; width:100%; padding:10px">
+                                    <div class="jb_column1">
+                                        <h2
+                                            style="border-bottom-style: 4px; border-bottom-color:  ;border-bottom-width: 0px; color: ; font-style: solid; text-align: left">
+                                            Flip 01 Front Heading</h2>
+                                    </div>
+                                    <div class="jb_column1">
+                                        <jb1>
+                                            <p style="text-align: left; color:#000000">List text paragraph 01 para 1</p>
+                                        </jb1>
+                                    </div>
+                                    <div class="jb_column1">
+                                        <jb1>
+                                            <p style="text-align: left; color:#000000">List text paragraph 01 para 2</p>
+                                        </jb1>
+                                    </div>
+                                    <div class="jb_column1">
+                                        <jb1>
+                                            <p style="text-align: left; color:#000000">List text paragraph 01 para 3</p>
+                                        </jb1>
+                                    </div>
+                                    <div class="jb_column1">
+                                        <jb1>
+                                            <p style="text-align: left; color:#000000">List text paragraph 01 para 4</p>
+                                        </jb1>
+                                    </div>
+                                    <div class="jb_column1">
+                                        <jb1>
+                                            <p style="text-align: left; color:#000000">List text paragraph 01 para 5</p>
+                                        </jb1>
+                                    </div>
+                                    <undefined type=" " style="list-style-type: ">
+                                        <li class="jb_column1"
+                                            style="margin-left:40px; color:#000000; text-align: One;">
+                                            <jb1>List 01 Item One</jb1>
+                                        </li>
+                                        <li class="jb_column1"
+                                            style="margin-left:40px; color:#000000; text-align: One;">
+                                            <jb1>List 01 Item Two</jb1>
+                                        </li>
+                                        <li class="jb_column1"
+                                            style="margin-left:40px; color:#000000; text-align: One;">
+                                            <jb1>List 01 Item Three</jb1>
+                                        </li>
+                                        <li class="jb_column1"
+                                            style="margin-left:40px; color:#000000; text-align: One;">
+                                            <jb1>List 01 Item Four</jb1>
+                                        </li>
+                                    </undefined>
+                                    <div class="jb_column1">
+                                        <jb1>
+                                            <p style="font-size:jb1;text-align: left; color:#000000">Bottom 01 One</p>
+                                        </jb1>
+                                    </div>
+                                    <div class="jb_column1">
+                                        <jb1>
+                                            <p style="font-size:jb1;text-align: left; color:#000000">Bottom 01 Two</p>
+                                        </jb1>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="back well well-lg"
+                        style="overflow-y:auto; backface-visibility: hidden; transform-style: preserve-3d; position: relative; z-index: 0; height: 100%; width: 100%; transform: rotateY(-180deg); transition: all 0.5s ease-out 0s;background-color: ">
+                        <div tabindex="0" id="IMG_WTL_flip_2" class="col-lg-12 col-md-12 col-xs-12 c_jb_car_acc_wd"
+                            style="margin-top:10px; background-color:[object Object]">
+                            <p class="sr-only">Image with text component'</p>
+                            <div style="max-width:960px;">
+                                <div class="col-lg-6 col-md-6 col-xs-12" style="text-align:center;">
+                                    <div style="text-align:center">
+                                        <div>
+                                            <p style="text-align:left; color:#bf0d3f">Power Windows is the eleventh
+                                                studio album by Canadian rock band Rush, released on October 11, 1985
+                                            </p>
+                                        </div>
+                                        <div>
+                                            <p style="text-align:left; color:#bf0d3f">Lorem ipsum dolor sit amet,
+                                                consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
+                                                adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing
+                                                elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem
+                                                ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                        </div>
+                                        <ol type="">
+                                            <li style="text-align:left; color:#bf0d3f">The Big Money</li>
+                                            <li style="text-align:left; color:#bf0d3f">Grand Designs</li>
+                                            <li style="text-align:left; color:#bf0d3f">Manhattan Project</li>
+                                            <li style="text-align:left; color:#bf0d3f">Marathon</li>
+                                        </ol>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-xs-12" style="text-align:center;"><button
+                                        aria-label="Select image to zoom in" class="btn_w_image" id=""
+                                        onclick="FL_show_L_image(&quot;power.jpg&quot;,2)"><img style="width:50%"
+                                            src="images/power.jpg" alt=""></button></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p style="margin-top:10px;color: ;text-align:center">
+                    <jb1> </jb1>
+                </p>
+                <div><button onclick="rf_flip(1,1)">Click to flip</button></div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-xs-12"
+                style="max-width:120ch; line-height:1.5;height:auto;background-color: ">
+                <p style="margin-top:10px;color: ;text-align:center">
+                    <jb1> </jb1>
+                </p>
+                <div aria-label="Select card 2 to flip" type="button" tabindex="0" id="card_1_2"
+                    style="perspective: 2280px; position: relative;height:350px;">
+                    <div class="front alert alert-info"
+                        style="overflow-y:auto; backface-visibility: hidden; transform-style: preserve-3d; position: absolute; z-index: 1; height: 100%; width: 100%; transition: all 0.5s ease-out 0s; transform: rotateY(0deg); background-color: "
+                        onclick="rf_flip(1,2,event)" onkeydown="rf_flip(1,2,event)">
+                        <div role="main" aria-label="Heading" id="Heading_3" class="col-lg-12 col-md-12 col-xs-12"
+                            style="width:100%; margin-top:10px;background-color: #ffffff; border-top-color:; border-top-width:undefined; border-top-style:undefined; border-bottom-color:; border-bottom-width:undefined; border-bottom-style:undefined">
+                            <h1>
+                                <p
+                                    style="background-color:; margin-top:undefined; padding:undefined; border-radius:undefined; border-color:undefined; border-width:undefined; border-style:undefined ; width:undefined; color: #000000; font-weight: normal;text-align: center">
+                                    Heading</p>
+                            </h1>
+                        </div>
+                    </div>
+                    <div class="back well well-lg"
+                        style="overflow-y:auto; backface-visibility: hidden; transform-style: preserve-3d; position: relative; z-index: 0; height: 100%; width: 100%; transform: rotateY(-180deg); transition: all 0.5s ease-out 0s;background-color: ">
+                        <div role="main" aria-label="Heading" id="Heading_4" class="col-lg-12 col-md-12 col-xs-12"
+                            style="width:100%; margin-top:10px;background-color: #ffffff; border-top-color:; border-top-width:undefined; border-top-style:undefined; border-bottom-color:; border-bottom-width:undefined; border-bottom-style:undefined">
+                            <h1>
+                                <p
+                                    style="background-color:; margin-top:undefined; padding:undefined; border-radius:undefined; border-color:undefined; border-width:undefined; border-style:undefined ; width:undefined; color: #000000; font-weight: normal;text-align: center">
+                                    Heading</p>
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+                <p style="margin-top:10px;color: ;text-align:center">
+                    <jb1> </jb1>
+                </p>
+                <div><button onclick="rf_flip(1,2)">Click to flip</button></div>
+            </div>
+        </div>
+        <div style="max-width:960px;">
+            <div id="IMG_WTL_2_2" class="col-lg-12 col-md-12 col-xs-12 c_jb_car_acc_wd"
+                style="margin-top:10px; background-color:">
+                <div class="col-lg-6 col-md-6 col-xs-12" style="text-align:center;">
+                    <div>
+                        <p style="text-align:left; color:#bf0d3f">Wish You Were Here, Pink Floyd</p>
+                    </div>
+                    <div>
+                        <p style="text-align:left; color:#bf0d3f">This is the follow up album of Pink Floyd's The Dark
+                            Side Of The Moon</p>
+                    </div>
+                    <ol type=" ">
+                        <li style="text-align:left; color:#bf0d3f">Speak to Me</li>
+                        <li style="text-align:left; color:#bf0d3f">Breathe</li>
+                        <li style="text-align:left; color:#bf0d3f">On the Run</li>
+                        <li style="text-align:left; color:#bf0d3f">Time</li>
+                        <li style="text-align:left; color:#bf0d3f">The Great Gig in the Sky</li>
+                        <li style="text-align:left; color:#bf0d3f">Money</li>
+                        <li style="text-align:left; color:#bf0d3f">Us and Them</li>
+                        <li style="text-align:left; color:#bf0d3f">Any Colour You Like</li>
+                        <li style="text-align:left; color:#bf0d3f">Brain Damage</li>
+                        <li style="text-align:left; color:#bf0d3f">Eclipse</li>
+                    </ol>
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12" style="text-align:center;"><button
+                        aria-label="Select image to zoom in" class="btn_w_image" id="iwt_img_2"
+                        onclick="show_L_image(&quot;darkside.jpg&quot;,2)"><img style="width:50%"
+                            src="images/darkside.jpg"
+                            alt="Select Image Description Button for more information"></button>
+                    <div style="margin-top:10px;margin-left:50%%; margin-right:50%%"><button id="iwt_btn_2"
+                            class="btn btn-primary btn-sm"
+                            onclick="alt_tag_text(&quot;The Dark Side of the Moon is one of the most successful albums of all time. It was on the top 100 charts 962 weeks. It was the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. Primarily developed during live performances, the band premiered an early version of the suite several months before recording began. The record was conceived as an album that focused on the pressures faced by the band during their arduous lifestyle, and dealing with the apparent mental health problems suffered by former band member Syd Barrett, who departed the group in 1968. New material was recorded in two sessions in 1972 and 1973 at Abbey Road Studios in London. &quot;,&quot;iwt_btn_2&quot;)">Image
+                            Description</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-12 col-md-12 col-xs-12" style=" background-color:#ffffff; margin-top:10px;">
+            <div class="lst_border_width"
+                style="border-style:solid; border-color:#000000; border-width:undefined; border-radius:0px;padding:10px">
+                <div class="c_lesson_width">
+                    <div class="jb_column1">
+                        <h2
+                            style="border-bottom-style: 4px; border-bottom-color:  ;border-bottom-width: 0px; color: ; font-style: solid; text-align: left">
+                            Heading 01 01</h2>
+                    </div>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="text-align: left; color:#000000">01 Top Paragraph first</p>
+                        </jb1>
+                    </div>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="text-align: left; color:#000000">01 Top Paragraph second</p>
+                        </jb1>
+                    </div>
+                    <undefined type=" " style="list-style-type: ">
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>01 List Item One</jb1>
+                        </li>
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>01 List Item Two</jb1>
+                        </li>
+                    </undefined>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="font-size:jb1;text-align: left; color:#000000">01 Bottom first</p>
+                        </jb1>
+                    </div>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="font-size:jb1;text-align: left; color:#000000">01 Bottom second</p>
+                        </jb1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-12 col-md-12 col-xs-12" style=" background-color:#ffffff; margin-top:10px;">
+            <div class="lst_border_width"
+                style="border-style:solid; border-color:#000000; border-width:undefined; border-radius:0px;padding:10px">
+                <div class="c_lesson_width">
+                    <div class="jb_column1">
+                        <h2
+                            style="border-bottom-style: 4px; border-bottom-color:  ;border-bottom-width: 0px; color: ; font-style: solid; text-align: left">
+                            Heading 02</h2>
+                    </div>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="text-align: left; color:#000000">Lorem ipsum dolor sit amet, consectetur
+                                adipiscing elit. Integer nec odio.</p>
+                        </jb1>
+                    </div>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="text-align: left; color:#000000">Class aptent taciti sociosqu ad litora torquent
+                                per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed
+                                dignissim lacinia nunc.</p>
+                        </jb1>
+                    </div>
+                    <undefined type=" " style="list-style-type: ">
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>List Item One</jb1>
+                        </li>
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>List Item Two</jb1>
+                        </li>
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>List Item Three</jb1>
+                        </li>
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>List Item Four</jb1>
+                        </li>
+                    </undefined>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="font-size:jb1;text-align: left; color:#000000">Lorem ipsum dolor sit amet,
+                                consectetur adipiscing elit.</p>
+                        </jb1>
+                    </div>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="font-size:jb1;text-align: left; color:#000000">Nulla quis sem at nibh elementum
+                                imperdiet. Duis sagittis ipsum.</p>
+                        </jb1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="infobox_5" class="col-lg-12 col-md-12 col-xs-12 info-comp-container">
+            <div id="c_info_Modal_5" class="c_jb_modal">
+                <div class="c_jb_modal_container" tabindex="-1" 'role'="dialog" 'aria-modal'="true"
+                    aria-labelledby="c_info_Modal_title_5">
+                    <div class="c_jb_modal-hdr-ftr" style="background-color:#0070b0">
+                        <h2 id="c_info_Modal_title_5" style="text-align:left ;color:#ffffff; font-size:26px">Info Box
+                            One</h2>
+                    </div>
+                    <div class="c_jb_modal-content" style="overflow-y: scroll;background-color:#ffffff">
+                        <p style="text-align:left;color:#000000;font-size:18px">
+                            <jb8>This is text that will go into the pop up dialog sentence one.</jb8>
+                        </p>
+                        <p style="text-align:left;color:#000000;font-size:18px">
+                            <jb8>This is text that will go into the pop up dialog sentence two.</jb8>
+                        </p>
+                        <p style="text-align:left;color:#000000;font-size:18px">
+                            <jb8>This is text that will go into the pop up dialog sentence three.</jb8>
+                        </p>
+                        <p style="text-align:left;color:#000000;font-size:18px">
+                            <jb8>This is text that will go into the pop up dialog sentence four.</jb8>
+                        </p>
+                    </div>
+                    <div class="c_jb_modal-hdr-ftr"><span class="c_jb_close" id="info_btn"></span><button
+                            class="modal-close-btn" onclick="close_Info_modal(5); modalClose(event);">Close</button>
+                    </div>
+                </div>
+            </div><br><br><button class="info-btn" onclick="c_info_box_event(5); openModal(event);"
+                style="cursor: pointer; background-color:#ffffff; outline: 5px solid orange; padding: 20px; display:inline-block"
+                ;=""><img style="text-align:left; display:block; width: 20px ;height:auto"
+                    src="../../../jbuild_libs/images/information.png" alt="">
+                <p class="info-btn-title" style="color:#000000;text-align:center">Test for information box number 1</p>
+            </button><br><br>
+        </div>
+        <div class="col-lg-12 col-md-12 col-xs-12" style=" background-color:#ffffff; margin-top:10px;">
+            <div class="lst_border_width"
+                style="border-style:solid; border-color:#000000; border-width:undefined; border-radius:0px;padding:10px">
+                <div class="c_lesson_width">
+                    <div class="jb_column1">
+                        <h2
+                            style="border-bottom-style: 4px; border-bottom-color:  ;border-bottom-width: 0px; color: ; font-style: solid; text-align: left">
+                            Heading</h2>
+                    </div>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="text-align: left; color:#000000">Lorem ipsum dolor sit amet, consectetur
+                                adipiscing elit. Integer nec odio.</p>
+                        </jb1>
+                    </div>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="text-align: left; color:#000000">Class aptent taciti sociosqu ad litora torquent
+                                per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed
+                                dignissim lacinia nunc.</p>
+                        </jb1>
+                    </div>
+                    <undefined type=" " style="list-style-type: ">
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>List Item One</jb1>
+                        </li>
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>List Item Two</jb1>
+                        </li>
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>List Item Three</jb1>
+                        </li>
+                        <li class="jb_column1" style="margin-left:40px; color:#000000; text-align: left">
+                            <jb1>List Item Four</jb1>
+                        </li>
+                    </undefined>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="font-size:jb1;text-align: left; color:#000000">Lorem ipsum dolor sit amet,
+                                consectetur adipiscing elit.</p>
+                        </jb1>
+                    </div>
+                    <div class="jb_column1">
+                        <jb1>
+                            <p style="font-size:jb1;text-align: left; color:#000000">Nulla quis sem at nibh elementum
+                                imperdiet. Duis sagittis ipsum.</p>
+                        </jb1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="max-width:960px;">
+            <div id="IMG_WTL_7_7" class="col-lg-12 col-md-12 col-xs-12 c_jb_car_acc_wd"
+                style="margin-top:10px; background-color:">
+                <div class="col-lg-6 col-md-6 col-xs-12" style="text-align:center;">
+                    <div>
+                        <p style="text-align:left; color:#bf0d3f">Rush Moving Pictures</p>
+                    </div>
+                    <div>
+                        <p style="text-align:left; color:#bf0d3f">Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem
+                            ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    </div>
+                    <ol type=" ">
+                        <li style="text-align:left; color:#bf0d3f">Tom Sawyer</li>
+                        <li style="text-align:left; color:#bf0d3f">Red Barchetta</li>
+                        <li style="text-align:left; color:#bf0d3f">YYZ</li>
+                        <li style="text-align:left; color:#bf0d3f">Limelight</li>
+                    </ol>
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12" style="text-align:center;"><button
+                        aria-label="Select image to zoom in" class="btn_w_image" id="iwt_img_7"
+                        onclick="show_L_image(&quot;Moving_Pictures.jpg&quot;,7)"><img style="width:50%"
+                            src="images/Moving_Pictures.jpg"
+                            alt="Select Image Description Button for more information"></button>
+                    <div style="margin-top:10px;margin-left:50%%; margin-right:50%%"><button id="iwt_btn_7"
+                            class="btn btn-primary btn-sm"
+                            onclick="alt_tag_text(&quot;Rush Moving Pictures. Moving Pictures received a positive reception from current and retrospective music critics and became an instant commercial success, reaching number one in Canada and number 3 in both the United States and the United Kingdom. It remains Rushs highest-selling album in the United States, with 5 million copies sold.&quot;,&quot;iwt_btn_7&quot;)">Image
+                            Description</button></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= -->
+    <!--	<div id="Next_Lesson" class="col-lg-12 col-md-12 col-xs-12 next_lesson" onClick="javascript:next_lesson()" style="display: block; width: 100%"><l3>Next Page/Lesson</l3></div> -->
+    <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= -->
+
+
+
+
+
+    <script src="../../../jbuild_libs/css/jquery.min.js"></script>
+    <script src="../../../jbuild_libs/css/bootstrap.min.js"></script>
+    <script src="../../../jbuild_libs/css/jquery.navgoco.js"></script>
+    <!--
+	<script type="text/javascript" src="../../../jbuild_libs/js/jq_flip.js"></script>
+	-->
+    <script type="text/javascript" src="../../../jbuild_libs/js/flip.js"></script>
+    <!--
+	<script type="text/javascript" src="../../../jbuild_libs/js/jb_flip.js"></script>
+
+
+jquery-2.js
+flip.jss
+index.css
+-->
+
+
+    <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
+    <!-- -------<( Json file )>------- -->
+    <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  -->
+    <!-- the below link is for the json file for this lesson page testdel.json  big_test  acc -->
+    <script src="json/big_test.json"></script>
+
+    <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
+    <!-- -------<( Json file )>------- -->
+    <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
+</body>

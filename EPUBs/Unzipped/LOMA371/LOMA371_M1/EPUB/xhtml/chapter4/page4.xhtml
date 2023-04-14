@@ -1,0 +1,402 @@
+<!--?xml version='1.0' encoding='UTF-8'?--><!DOCTYPE html><html xml:lang="en-us" lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head>
+    <link rel="stylesheet" type="text/css" href="../../css/base.css" />
+<link rel="stylesheet" type="text/css" href="../../css/kotobeeInteractive.css" />
+<link rel="stylesheet" type="text/css" href="../../css/reset.css" />
+<link rel="stylesheet" type="text/css" href="../../css/fonts.css" />
+<link rel="stylesheet" type="text/css" href="../../css/global.css" />
+<link rel="stylesheet" type="text/css" href="../../css/video-player.css" />
+<link rel="stylesheet" type="text/css" href="../../css/ibooks.css" />
+<link rel="stylesheet" type="text/css" href="../../css/ibooks-alt.css" />
+
+    <script type="text/javascript" src="../../js/kotobeeInteractive.js"></script>
+<script type="text/javascript" src="../../js/global.js"></script>
+
+    <title>Model Inputs</title>
+    
+
+<meta charset="utf-8" />
+ <meta name="kotobee-chapter" content="chapter4\page4.xhtml" />
+<meta name="kotobee-book" content="urn:uuid:41cff080-a472-2d4e-cc0e-fdc7bfddfde1" />
+</head>
+<body>
+<section class="section" epub:type="part" id="loma371-ch4-section-4" role="doc-part"><img alt="" class="hidden-logo" src="../../imgs/loma.png" />
+<h2 epub:type="title" id="loma371-ch4-h2-5">Model Inputs</h2>
+
+<p class="txt-ni">&#160;</p>
+
+<p class="txt-ni">&#160;</p>
+
+<p class="txt-ni" id="loma371-ch4-p-62">As previously stated, insurers typically derive model inputs for financial models from four sources: actuarial assumptions, experience data, regulatory requirements and estimates of possible future conditions. Each of these sources provides independent variables to be used as inputs. In some cases, the values of these independent variables are derived from real-world observations—for example, a company’s experience with lapse rates on previous products. In other cases, the values of independent variables are selected randomly from a data distribution.</p>
+
+<div class="clearfix" id="loma371-ch4-div-51">&#160;</div>
+
+<h3 id="loma371-ch4-h3-2">Actuarial Assumptions</h3>
+
+<p class="txt-ni" id="loma371-ch4-p-63">Companies use assumptions that represent unknown future values within the context of product pricing, product reserving, and other modeling applications for life insurance and annuity products. Assumptions may be classified as fixed, dynamic, or stochastic.</p>
+
+<ul class="list" id="loma371-ch4-ul-9">
+	<li id="loma371-ch4-li-44">
+	<p id="loma371-ch4-p-64"><span class="gt" data-term="ch4-gt-fixedassumptions" epub:type="glossref" id="loma371-ch4-span-19" role="doc-glossref">Fixed assumptions</span>, also known as<em> constants</em>, are variables for which actuaries assign a specific value or proportional relationship, and the value or proportion remains unchanged throughout multiple iterations of a model. Typically, such assumptions are fixed by policy or contract terms, or are dictated by regulation.</p>
+	</li>
+</ul>
+
+<div class="example" id="loma371-ch4-div-52">
+<div class="inner" id="loma371-ch4-div-53">
+<p class="txt-ni" id="loma371-ch4-p-65">An actuary calculates a life annuity factor using assumptions mandated by regulators. Because these particular assumptions are fixed, the calculations don’t allow for any discretion by the actuary.</p>
+</div>
+</div>
+
+<ul class="list" id="loma371-ch4-ul-10">
+	<li id="loma371-ch4-li-45">
+	<p id="loma371-ch4-p-66"><span class="gt" data-term="ch4-gt-dynamicassumptions" epub:type="glossref" id="loma371-ch4-span-20" role="doc-glossref">Dynamic assumptions </span>are variables that change over time, but in a way that is predictable and formula driven. Actuaries use dynamic assumptions to model policyholder behavior with respect to lapse and surrender rates, flexible premium payments, and utilization of optional benefits. Both interest-rate movements and policyholder behavior can have significant effects on an insurance company; we will discuss these effects in detail in Chapters 7 and 9.</p>
+	</li>
+</ul>
+
+<div class="example" id="loma371-ch4-div-54">
+<div class="inner" id="loma371-ch4-div-55">
+<p class="txt-ni" id="loma371-ch4-p-67">A fixed-rate deferred annuity product has a current interest-crediting rate of 4%. Contract owners who are beyond the eight-year surrender period for this product can withdraw their money at any time without incurring a financial penalty. If such a contract owner can earn more than 4% in another investment, then he is more likely to exchange his annuity for another insurer’s fixed-rate deferred annuity. On the other hand, if other investments are earning less than 4%, the contract owner is more likely to keep their funds with the insurer. Based on these different scenarios, the insurer can use a dynamic formula that models a higher withdrawal rate when market interest rates are high and a lower withdrawal rate when market interest rates are low.</p>
+</div>
+</div>
+
+<ul class="list" id="loma371-ch4-ul-11">
+	<li id="loma371-ch4-li-46">
+	<p id="loma371-ch4-p-68"><span class="gt" data-term="ch4-gt-stochasticassumptions" epub:type="glossref" id="loma371-ch4-span-21" role="doc-glossref">Stochastic assumptions</span> are variables that are selected randomly from a specified statistical distribution applied across multiple simulations or scenarios. Stochastic assumptions are used when assumptions are unknown and cannot be easily modeled using a dynamic formula. Some assumptions are unknown because a product is new or contains new features with which an insurer has no experience. Other times, assumptions are unknown because they are based on factors that are completely outside the control of the insurer, such as assumptions about market interest rates and equity market returns. Insurers can use stochastic assumptions to model unknown future quantities, as well as to measure the <em>sensitivity</em> of an assumption to the model’s result. The insight below discusses two tools used to generate random selections.</p>
+	</li>
+</ul>
+
+<div class="insight" id="loma371-ch4-div-56" role="complementary" aria-label="Random Generators"><img alt="" class="lightbulb" id="loma371-ch4-img-74" src="../../imgs/lightbulb.png" />
+<p class="insight-header" id="loma371-ch4-p-69">INSIGHT</p>
+
+<div class="inner" id="loma371-ch4-div-57">
+<p class="insight-title" id="loma371-ch4-p-70">Random Generators</p>
+
+<p class="txt" id="loma371-ch4-p-71">If an insurer wants to randomly select an independent variable, it can use a random number generator or a random scenario generator.</p>
+
+<ul>
+	<li class="txt">A <span class="gt" data-term="ch4-gt-randomnumbergenerator" epub:type="glossref" id="loma371-ch4-span-22" role="doc-glossref">random number generator</span> is a software application that automatically identifies a pattern of values that we would expect to get by sampling from a given probability distribution. Insurers limit the number of independent variable values by setting parameters for the distribution and selecting a random sample of values that meet the defined parameters. A <span class="gt" data-term="ch4-gt-randomsample" epub:type="glossref" id="loma371-ch4-span-23" role="doc-glossref">random sample</span> is a statistical sample in which each possible value is equally likely to be selected.</li>
+</ul>
+
+<div class="example" id="loma371-ch4-div-58">
+<p class="example-header" id="loma371-ch4-p-72">EXAMPLE</p>
+
+<div class="inner" id="loma371-ch4-div-59">
+<p class="fig-inset" id="loma371-ch4-p-73">Chevalier Life Insurance wants to model lapse rates over a ten-year period for a life insurance product, and chooses a random number generator to determine the lapse rate for the scenario. Although values in the data set might range from 0% to 100%, many of these values can be eliminated because they are not realistic. So, Chevalier limits the number of independent variables by setting parameters of 5% to 20% for the distribution. The random number generator produces a random sample of values that fall within these defined parameters.</p>
+</div>
+</div>
+
+<ul>
+	<li class="txt">A <em>random scenario generator </em>is a software application that uses defined parameters, such as value ranges and time periods, to create sets of scenarios that meet the defined parameters. In the context of financial modeling, a <em>scenario</em> is a set of values that describes actuarial and economic conditions. These scenarios represent possible examples of values that could occur. The scenario generator then selects a random sample of scenarios to use as input variables.</li>
+</ul>
+
+<div class="example" id="loma371-ch4-div-58a">
+<p class="example-header" id="loma371-ch4-p-72a">EXAMPLE</p>
+
+<div class="inner" id="loma371-ch4-div-59a">
+<p class="fig-inset" id="loma371-ch4-p-73a">Chevalier Life Insurance is planning a new life insurance product that falls under specific regulatory requirements due to the features it offers. One of the regulatory requirements is that Chevalier must test the new product using a prescribed economic scenario generator to ensure that the product performs adequately under certain scenarios.</p>
+</div>
+</div>
+</div>
+</div>
+
+<p class="txt" id="loma371-ch4-p-75">Within any model, a company may use combinations of fixed, dynamic, and stochastic assumptions. Also, actuaries must decide which assumptions will be represented by variables and which assumptions will be fixed by the model’s software.</p>
+
+<div class="clearfix" id="loma371-ch4-div-60">&#160;</div>
+
+<h3 id="loma371-ch4-h3-3">Experience Data</h3>
+
+<p class="txt-ni" id="loma371-ch4-p-76">Insurance company records and systems, such as accounting, ALM, and ERM, maintain a large amount of experience data about the past behavior of factors such as mortality rates and expenses. Insurers also have access to external experience data published in experience studies. An <span class="gt" data-term="ch4-gt-experiencestudy" epub:type="glossref" id="loma371-ch4-span-24" role="doc-glossref">experience study </span>is a compilation of data representing company or industry-wide historical experience with a specified modeling variable.</p>
+
+<p class="txt" id="loma371-ch4-p-77">Actuaries use data from experience studies to help them determine the appropriate input to use in the model and to test the model’s assumptions against past experience. Insurance industry and company experience studies address observed trends in mortality rates, lapse rates, product expenses, product persistency, and policyholder behavior. Many experience studies focus on specific subsets of customers, such as studying mortality rates among groups selected by age, sex, or smoking status.</p>
+
+<p class="txt" id="loma371-ch4-p-78">Experience data can provide insurers with valuable information about how financial variables behaved in the past and how they can be expected to behave in the future, if conditions remain stable. One limitation of experience data is that such data cannot accurately predict how variables will behave if future conditions do not follow historical trends.</p>
+
+<div class="clearfix" id="loma371-ch4-div-61">&#160;</div>
+
+<h3 id="loma371-ch4-h3-4">Estimates of Future Conditions</h3>
+
+<p class="txt-ni" id="loma371-ch4-p-79">Because life insurance and annuity products are designed to be long-term products, a major part of their financial success depends on how accurately insurers can estimate the behavior of key risk factors over the lifetime of the products. For decision makers, these estimated values can help identify possible courses of action and alert companies to potential opportunities or threats.</p>
+
+<p class="txt" id="loma371-ch4-p-80">The outcomes generated by analyzing estimated future values are <em>possible outcomes</em>, which represent the range of outcomes that can happen. Possible outcomes include probable outcomes and preferred, or desired, outcomes:</p>
+
+<ul class="list" id="loma371-ch4-ul-14">
+	<li id="loma371-ch4-li-49">
+	<p id="loma371-ch4-p-81"><strong>Probable outcomes </strong>represent what is likely to happen and are based on constant trends, such as the estimates produced by modeling experience data.</p>
+	</li>
+	<li id="loma371-ch4-li-50">
+	<p id="loma371-ch4-p-82"><strong>Preferred, or desired, outcomes </strong>represent outcomes that a company would like to happen and are based on planned strategies and actions.</p>
+	</li>
+	<li id="loma371-ch4-li-51">
+	<p id="loma371-ch4-p-83"><strong>Improbable outcomes </strong>represent what is unlikely to happen. Improbable outcomes can be desirable, such as a product succeeding well beyond expectations, or highly undesirable, such as circumstances that cause much larger losses than the company was prepared to endure.</p>
+	</li>
+</ul>
+
+<p class="txt" id="loma371-ch4-p-84">Unlike the outcomes derived from experience data, outcomes derived from estimated future values may fall outside the range of real-world observation. Insurers can use trend analysis and futures studies to estimate future conditions.</p>
+
+<div class="clearfix" id="loma371-ch4-div-62">&#160;</div>
+
+<h4 id="loma371-ch4-h4-5">Trend Analysis</h4>
+
+<p class="txt-ni" id="loma371-ch4-p-85">For some tasks, insurers can use trend analysis to forecast future values for design elements that follow known patterns, such as the cost of benefits and operating expenses. <span class="gt" data-term="ch4-gt-trendanalysis" epub:type="glossref" id="loma371-ch4-span-25" role="doc-glossref">Trend analysis</span> is a form of technical analysis that projects the future movement of specified variables based on historical patterns. Trend analysis can identify patterns in experience data that could, if they persist, have a significant impact on the company. Mortality trends are a particularly important area of analysis for the insurance industry.</p>
+
+<p class="txt" id="loma371-ch4-p-86">Although trend analysis can be a valuable tool for forecasting the behaviors of variables that follow regular patterns, it generally doesn’t provide accurate estimates for variables whose behavior is volatile or that can’t be described in terms of observed values. In these cases, insurers typically use modeling to produce estimates of future conditions.</p>
+
+<div class="clearfix" id="loma371-ch4-div-63">&#160;</div>
+
+<h4 id="loma371-ch4-h4-6">Futures Studies</h4>
+
+<p class="txt-ni" id="loma371-ch4-p-87">Insurers use futures studies to gain insight into the type of future conditions that are most likely to affect life insurance and annuity risk factors. <span class="gt" data-term="ch4-gt-futuresstudies" epub:type="glossref" id="loma371-ch4-span-26" role="doc-glossref">Futures studies</span> identify possible developments that could disrupt trends and then produce an array of possibilities for future values based on these developments.</p>
+
+<div class="example" id="loma371-ch4-div-64">
+<div class="inner" id="loma371-ch4-div-65">
+<p class="txt-ni" id="loma371-ch4-p-88">Insurers use futures studies in ERM to identify potential future, low-probability, high-impact events, known as <em>wild cards</em>, which may constitute turning points in the evolution of a trend or system.</p>
+</div>
+</div>
+
+<p class="txt" id="loma371-ch4-p-89">Futures studies employ a variety of<em> quantitative</em> and <em>qualitative methods</em> to produce images of the future.</p>
+
+<ul class="list" id="loma371-ch4-ul-15">
+	<li id="loma371-ch4-li-52">
+	<p id="loma371-ch4-p-90">Quantitative methods generally use data about past events and values to forecast future events and values.</p>
+	</li>
+	<li id="loma371-ch4-li-53">
+	<p id="loma371-ch4-p-91">Qualitative methods typically rely on expert opinion, judgment, and other subjective factors to forecast the future. Qualitative methods are best used when there is little available historical data or when there is reason to believe that the past is not a reliable predictor of the future.</p>
+	</li>
+</ul>
+
+<p class="txt" id="loma371-ch4-p-92">Compared to traditional experience studies, futures studies require users to view information from a broader perspective, conduct more detailed analyses of results, and project outcomes along a longer time horizon. Futures studies also require a shift from scientific thinking to speculative, or even visionary, thinking.</p>
+
+<div class="clearfix" id="loma371-ch4-div-66">&#160;</div>
+
+<h3 id="loma371-ch4-h3-5">Quality of Inputs</h3>
+
+<p class="txt-ni" id="loma371-ch4-p-93">A model’s outputs are only as good as the inputs and assumptions that go into it. Insurers must be careful to use high-quality data to receive accurate results, rather than selecting data that implies the most favorable result for the insurer. In general, analysts measure data quality in terms of the data’s</p>
+
+<ul class="list" id="loma371-ch4-ul-16">
+	<li id="loma371-ch4-li-54">
+	<p id="loma371-ch4-p-94"><strong>Appropriateness. </strong>The degree to which data meet the requirements of the intended purpose.</p>
+	</li>
+	<li id="loma371-ch4-li-55">
+	<p id="loma371-ch4-p-95"><strong>Accuracy.</strong> The degree to which data correctly describe the real-world phenomena they are designed to measure.</p>
+	</li>
+	<li id="loma371-ch4-li-56">
+	<p id="loma371-ch4-p-96"><strong>Relevance.</strong> The degree to which information derived through data analysis meets the needs of users.</p>
+	</li>
+	<li id="loma371-ch4-li-57">
+	<p id="loma371-ch4-p-97"><strong>Timeliness.</strong> A measure of the delay between the reference date for the data and the date the analysis is published.</p>
+	</li>
+	<li id="loma371-ch4-li-58">
+	<p id="loma371-ch4-p-98"><strong>Interpretability.</strong> The ease with which data can be correctly interpreted.</p>
+	</li>
+	<li id="loma371-ch4-li-59">
+	<p id="loma371-ch4-p-99"><strong>Accessibility.</strong> The degree of ease with which needed data can be obtained.</p>
+	</li>
+	<li id="loma371-ch4-li-60">
+	<p id="loma371-ch4-p-100"><strong>Coherence.</strong> The degree to which data can successfully be integrated with other statistical information over time.</p>
+	</li>
+</ul>
+
+<p class="txt" id="loma371-ch4-p-101">Ideally, the data used in financial modeling should have all the attributes of quality data. In reality, trade-offs are often necessary. For example, new products have no existing data from which to draw assumptions, and an insurer must determine which data from other existing products would meet the required quality standards. Figure 4.1 shows some of the obstacles in acquiring quality data.</p>
+
+<figure class="figure numbered-fig" data-mwidth="max-width:1000px;" id="figure4-1">
+<p class="title" id="loma371-ch4-p-102"><span class="fig-num" id="loma371-ch4-span-27">Figure 4.1</span> Sample Challenges of Acquiring Quality Data</p>
+<img alt="Sample Challenges of Acquiring Quality Data" class="usesFloatingControlbar" id="loma371-ch4-img-75" src="../../imgs/4-1figure.jpg" />
+<figcaption>
+<div class="img-desc hidden" id="loma371-ch4-div-67"><span class="id-button" data-description="figure4-1" id="loma371-ch4-span-28" role="button" tabindex="0">Image Description</span></div>
+
+<div class="static-img-desc visible" id="loma371-ch4-div-68"><a class="img-description" epub:type="noteref" href="../raw/descriptions.xhtml#figure4-1" id="loma371-ch4-a-14" role="doc-noteref">Figure 4-1 Description</a></div>
+</figcaption>
+</figure>
+
+<div class="question-wrapper" id="loma371-ch4-question-4-wrap">
+<div class="question-container hidden" data-qtype="mc" epub:type="question" id="loma371-ch4-question-4">
+<p class="q-title" id="loma371-ch4-p-103"><img alt="Let’s Review" id="loma371-ch4-img-76" src="../../imgs/lets-review.png" /></p>
+
+<div class="stem-cont" id="loma371-ch4-question-4-label">
+<p class="q-stem" id="loma371-ch4-p-104">Chevalier Life Insurance is modeling a new product. For one key variable, Chevalier applies an assumption that is selected randomly from a specified statistical distribution applied across multiple simulations or scenarios. What type of assumption is Chevalier using for this variable?</p>
+</div>
+
+<ol aria-labelledby="loma371-ch4-question-4-label" class="choices" id="loma371-ch4-ol-7" role="radiogroup">
+	<li aria-checked="false" id="loma371-ch4-question-4-i0" role="radio" tabindex="0"><label for="loma371-ch4-question-4-i0">Fixed </label>
+
+	<div class="radio-wrapper" id="loma371-ch4-div-69">
+	<div class="check" id="loma371-ch4-div-70">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-77" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-78" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-79" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-80" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-4-i1" role="radio" tabindex="-1"><label for="loma371-ch4-question-4-i1">Dynamic </label>
+	<div class="radio-wrapper" id="loma371-ch4-div-71">
+	<div class="check" id="loma371-ch4-div-72">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-81" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-82" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-83" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-84" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-4-i2" role="radio" tabindex="-1"><label for="loma371-ch4-question-4-i2">Stochastic</label>
+	<div class="radio-wrapper" id="loma371-ch4-div-73">
+	<div class="check" id="loma371-ch4-div-74">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-85" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-86" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-87" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-88" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+</ol>
+
+<p class="reveal" id="loma371-ch4-p-105"><span class="btn" data-answer="loma371-ch4-question-4-key" id="loma371-ch4-span-32" role="button" tabindex="0">Submit</span></p>
+</div>
+
+<div class="question-container-static visible" data-qtype="mc" epub:type="question" id="loma371-ch4-question-4-static">
+<p class="q-title-static" id="loma371-ch4-p-106"><img alt="Let’s Review" id="loma371-ch4-img-89" src="../../imgs/lets-review.png" /></p>
+
+<p class="q-stem-static" id="loma371-ch4-p-107">Chevalier Life Insurance is modeling a new product. For one key variable, Chevalier applies an assumption that is selected randomly from a specified statistical distribution applied across multiple simulations or scenarios. What type of assumption is Chevalier using for this variable?</p>
+
+<ol class="choices-static" id="loma371-ch4-ol-8">
+	<li id="loma371-ch4-question-4-i0-static">Fixed</li>
+	<li id="loma371-ch4-question-4-i1-static">Dynamic</li>
+	<li id="loma371-ch4-question-4-i2-static">Stochastic</li>
+</ol>
+
+<p class="reveal-static" id="loma371-ch4-p-108"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma371-ch4-question-4-key" id="loma371-ch4-a-15" role="doc-noteref">Check your answer</a></p>
+</div>
+</div>
+
+<div class="question-wrapper" id="loma371-ch4-question-5-wrap">
+<div class="question-container hidden" data-qtype="mc" epub:type="question" id="loma371-ch4-question-5">
+<p class="q-title" id="loma371-ch4-p-109"><img alt="Let’s Review" id="loma371-ch4-img-90" src="../../imgs/lets-review.png" /></p>
+
+<div class="stem-cont" id="loma371-ch4-question-5-label">
+<p class="q-stem" id="loma371-ch4-p-110">Assumptions dictated by regulation or by policy or contract terms are typically</p>
+</div>
+
+<ol aria-labelledby="loma371-ch4-question-5-label" class="choices" id="loma371-ch4-ol-9" role="radiogroup">
+	<li aria-checked="false" id="loma371-ch4-question-5-i0" role="radio" tabindex="0"><label for="loma371-ch4-question-5-i0">fixed assumptions</label>
+
+	<div class="radio-wrapper" id="loma371-ch4-div-75">
+	<div class="check" id="loma371-ch4-div-76">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-91" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-92" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-93" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-94" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-5-i1" role="radio" tabindex="-1"><label for="loma371-ch4-question-5-i1">dynamic assumptions </label>
+	<div class="radio-wrapper" id="loma371-ch4-div-77">
+	<div class="check" id="loma371-ch4-div-78">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-95" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-96" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-97" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-98" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-5-i2" role="radio" tabindex="-1"><label for="loma371-ch4-question-5-i2">stochastic assumptions </label>
+	<div class="radio-wrapper" id="loma371-ch4-div-79">
+	<div class="check" id="loma371-ch4-div-80">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-99" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-100" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-101" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-102" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+</ol>
+
+<p class="reveal" id="loma371-ch4-p-111"><span class="btn" data-answer="loma371-ch4-question-5-key" id="loma371-ch4-span-36" role="button" tabindex="0">Submit</span></p>
+</div>
+
+<div class="question-container-static visible" data-qtype="mc" epub:type="question" id="loma371-ch4-question-5-static">
+<p class="q-title-static" id="loma371-ch4-p-112"><img alt="Let’s Review" id="loma371-ch4-img-103" src="../../imgs/lets-review.png" /></p>
+
+<p class="q-stem-static" id="loma371-ch4-p-113">Assumptions dictated by regulation or by policy or contract terms are typically</p>
+
+<ol class="choices-static" id="loma371-ch4-ol-10">
+	<li id="loma371-ch4-question-5-i0-static">fixed assumptions</li>
+	<li id="loma371-ch4-question-5-i1-static">dynamic assumptions</li>
+	<li id="loma371-ch4-question-5-i2-static">stochastic assumptions</li>
+</ol>
+
+<p class="reveal-static" id="loma371-ch4-p-114"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma371-ch4-question-5-key" id="loma371-ch4-a-16" role="doc-noteref">Check your answer</a></p>
+</div>
+</div>
+
+<div class="question-wrapper" id="loma371-ch4-question-6-wrap">
+<div class="question-container hidden" data-qtype="mc" epub:type="question" id="loma371-ch4-question-6">
+<p class="q-title" id="loma371-ch4-p-115"><img alt="Let’s Review" id="loma371-ch4-img-104" src="../../imgs/lets-review.png" /></p>
+
+<div class="stem-cont" id="loma371-ch4-question-6-label">
+<p class="q-stem" id="loma371-ch4-p-116">Quality data relies on a number of characteristics. One of these characteristics is the degree to which information gathered through data analysis meets the needs of users. This data characteristic is known as</p>
+</div>
+
+<ol aria-labelledby="loma371-ch4-question-6-label" class="choices" id="loma371-ch4-ol-11" role="radiogroup">
+	<li aria-checked="false" id="loma371-ch4-question-6-i0" role="radio" tabindex="0"><label for="loma371-ch4-question-6-i0">appropriateness </label>
+
+	<div class="radio-wrapper" id="loma371-ch4-div-81">
+	<div class="check" id="loma371-ch4-div-82">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-105" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-106" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-107" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-108" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-6-i1" role="radio" tabindex="-1"><label for="loma371-ch4-question-6-i1">accuracy </label>
+	<div class="radio-wrapper" id="loma371-ch4-div-83">
+	<div class="check" id="loma371-ch4-div-84">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-109" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-110" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-111" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-112" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-6-i2" role="radio" tabindex="-1"><label for="loma371-ch4-question-6-i2">relevance</label>
+	<div class="radio-wrapper" id="loma371-ch4-div-85">
+	<div class="check" id="loma371-ch4-div-86">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-113" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-114" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-115" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-116" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-6-i3" role="radio" tabindex="-1"><label for="loma371-ch4-question-6-i3">coherence </label>
+	<div class="radio-wrapper" id="loma371-ch4-div-87">
+	<div class="check" id="loma371-ch4-div-88">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-117" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-118" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-119" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-120" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+</ol>
+
+<p class="reveal" id="loma371-ch4-p-117"><span class="btn" data-answer="loma371-ch4-question-6-key" id="loma371-ch4-span-41" role="button" tabindex="0">Submit</span></p>
+</div>
+
+<div class="question-container-static visible" data-qtype="mc" epub:type="question" id="loma371-ch4-question-6-static">
+<p class="q-title-static" id="loma371-ch4-p-118"><img alt="Let’s Review" id="loma371-ch4-img-121" src="../../imgs/lets-review.png" /></p>
+
+<p class="q-stem-static" id="loma371-ch4-p-119">Quality data relies on a number of characteristics. One of these characteristics is the degree to which information gathered through data analysis meets the needs of users. This data characteristic is known as</p>
+
+<ol class="choices-static" id="loma371-ch4-ol-12">
+	<li id="loma371-ch4-question-6-i0-static">appropriateness</li>
+	<li id="loma371-ch4-question-6-i1-static">accuracy</li>
+	<li id="loma371-ch4-question-6-i2-static">relevance</li>
+	<li id="loma371-ch4-question-6-i3-static">coherence</li>
+</ol>
+
+<p class="reveal-static" id="loma371-ch4-p-120"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma371-ch4-question-6-key" id="loma371-ch4-a-17" role="doc-noteref">Check your answer</a></p>
+</div>
+</div>
+
+<div class="question-wrapper" id="loma371-ch4-question-7-wrap">
+<div class="question-container hidden" data-qtype="mc" epub:type="question" id="loma371-ch4-question-7">
+<p class="q-title" id="loma371-ch4-p-121"><img alt="Let’s Review" id="loma371-ch4-img-122" src="../../imgs/lets-review.png" /></p>
+
+<div class="stem-cont" id="loma371-ch4-question-7-label">
+<p class="q-stem" id="loma371-ch4-p-122">True/False: Experience data provides insurers with valuable information about how financial variables behaved in the past and how these variables can be expected to behave in the future if future conditions do not follow historical trends.</p>
+</div>
+
+<ol aria-labelledby="loma371-ch4-question-7-label" class="choices" id="loma371-ch4-ol-13" role="radiogroup">
+	<li aria-checked="false" id="loma371-ch4-question-7-i0" role="radio" tabindex="0"><label for="loma371-ch4-question-7-i0">True </label>
+
+	<div class="radio-wrapper" id="loma371-ch4-div-89">
+	<div class="check" id="loma371-ch4-div-90">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-123" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-124" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-125" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-126" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-7-i1" role="radio" tabindex="-1"><label for="loma371-ch4-question-7-i1">False</label>
+	<div class="radio-wrapper" id="loma371-ch4-div-91">
+	<div class="check" id="loma371-ch4-div-92">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-127" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-128" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-129" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-130" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+</ol>
+
+<p class="reveal" id="loma371-ch4-p-123"><span class="btn" data-answer="loma371-ch4-question-7-key" id="loma371-ch4-span-44" role="button" tabindex="0">Submit</span></p>
+</div>
+
+<div class="question-container-static visible" data-qtype="mc" epub:type="question" id="loma371-ch4-question-7-static">
+<p class="q-title-static" id="loma371-ch4-p-124"><img alt="Let’s Review" id="loma371-ch4-img-131" src="../../imgs/lets-review.png" /></p>
+
+<p class="q-stem-static" id="loma371-ch4-p-125">True/False: Experience data provides insurers with valuable information about how financial variables behaved in the past and how these variables can be expected to behave in the future if future conditions do not follow historical trends.</p>
+
+<ol class="choices-static" id="loma371-ch4-ol-14">
+	<li id="loma371-ch4-question-7-i0-static">True</li>
+	<li id="loma371-ch4-question-7-i1-static">False</li>
+</ol>
+
+<p class="reveal-static" id="loma371-ch4-p-126"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma371-ch4-question-7-key" id="loma371-ch4-a-18" role="doc-noteref">Check your answer</a></p>
+</div>
+</div>
+
+<div aria-hidden="true" id="modalOverlay">
+<div aria-labelledby="modalTitle" aria-modal="true" id="modalAlertBox" role="dialog">
+<div class="header"><span aria-label="Close" role="button" tabindex="0">×</span></div>
+
+<div class="modalAlertContent">&#160;</div>
+</div>
+</div>
+</section>
+
+
+
+
+</body></html>

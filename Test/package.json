@@ -1,0 +1,16 @@
+{
+  "name": "epub-jb-converter",
+  "version": "0.0.1",
+  "description": "Converts LOMA EPUBs to JackBuilder content",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Avery Wilhelm",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "html-prettify": "^1.0.6",
+    "jsdom": "^19.0.0",
+    "pretty": "^2.0.0"
+  }
+}

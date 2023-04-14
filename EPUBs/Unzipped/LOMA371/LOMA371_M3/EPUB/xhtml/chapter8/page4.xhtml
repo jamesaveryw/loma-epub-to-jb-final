@@ -1,0 +1,263 @@
+<!--?xml version='1.0' encoding='UTF-8'?--><!DOCTYPE html><html xml:lang="en-us" lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head>
+    <link rel="stylesheet" type="text/css" href="../../css/base.css" />
+<link rel="stylesheet" type="text/css" href="../../css/kotobeeInteractive.css" />
+<link rel="stylesheet" type="text/css" href="../../css/reset.css" />
+<link rel="stylesheet" type="text/css" href="../../css/fonts.css" />
+<link rel="stylesheet" type="text/css" href="../../css/global.css" />
+<link rel="stylesheet" type="text/css" href="../../css/video-player.css" />
+<link rel="stylesheet" type="text/css" href="../../css/ibooks.css" />
+<link rel="stylesheet" type="text/css" href="../../css/ibooks-alt.css" />
+<link rel="stylesheet" type="text/css" href="../../css/mathml.css" />
+
+    <script type="text/javascript" src="../../js/kotobeeInteractive.js"></script>
+<script type="text/javascript" src="../../js/global.js"></script>
+
+    <title>Interpreting Mortality Data</title>
+    
+
+<meta charset="utf-8" />
+ <meta name="kotobee-chapter" content="chapter8\page4.xhtml" />
+<meta name="kotobee-book" content="urn:uuid:286f71f4-7f29-c034-ebe0-5bf8d98721e0" />
+</head>
+<body>
+<section class="section" epub:type="part" id="loma371-ch8-section-4" role="doc-part"><img alt="" class="hidden-logo" src="../../imgs/loma.png" />
+<h2 epub:type="title" id="loma371-ch8-h2-5">Interpreting Mortality Data</h2>
+
+<p class="txt-ni" id="loma371-ch8-p-60">Actuaries design mortality tables in a number of formats, some of which are as simple as two columns: an age and a mortality rate. Mortality rates are often expressed in terms of deaths per thousand lives for a specific period, usually a year. To illustrate mortality rates and survival rates, we will refer to this excerpt from a mortality table for men.</p>
+
+<table class="blue striped" id="loma371-ch8-table-1">
+	<tbody>
+		<tr>
+			<th id="loma371-ch8-td-1">
+			<p class="txt" id="loma371-ch8-p-61" style="text-align: center;">Age</p>
+			</th>
+			<th id="loma371-ch8-td-2">
+			<p class="txt" id="loma371-ch8-p-62" style="text-align: center;">Death Probability</p>
+			</th>
+		</tr>
+		<tr>
+			<td id="loma371-ch8-td-3">
+			<p class="txt" id="loma371-ch8-p-63" style="text-align: center;">65</p>
+			</td>
+			<td id="loma371-ch8-td-4">
+			<p class="txt" id="loma371-ch8-p-64" style="text-align: center;">0.015808</p>
+			</td>
+		</tr>
+		<tr>
+			<td id="loma371-ch8-td-5">
+			<p class="txt" id="loma371-ch8-p-65" style="text-align: center;">66</p>
+			</td>
+			<td id="loma371-ch8-td-6">
+			<p class="txt" id="loma371-ch8-p-66" style="text-align: center;">0.016868</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="source-line" id="loma371-ch8-p-67">Source: Social Security Administration, <em>2016 period life table for the Social Security area population</em>, <a href="https://www.ssa.gov/oact/STATS/table4c6.html#ss" id="loma371-ch8-a-14">https://www.ssa.gov/<wbr />oact/<wbr />STATS/<wbr />table4c6.html#ss</a> (December, 2019)</p>
+
+<div class="clearfix" id="loma371-ch8-div-35">&#160;</div>
+
+<h3 id="loma371-ch8-h3-5">Calculating Mortality Rates</h3>
+
+<p class="txt-ni" id="loma371-ch8-p-68">The listed probability of death for men age 65 tells us that the number of men within the age 65 cohort who are expected to die is roughly 15.8 per thousand (calculated as 0.015808 × 1,000). Actuaries calculate the mortality rate by dividing the number of deaths by a number representing the size of the cohort. The number representing the size of the cohort is based on the concept of <em>exposure</em>, or how many individuals in the age group were “exposed” to death during the time period in question. This distinction is necessary for insurers because if an insured surrenders, lapses, or otherwise ends his policy, the insurer can no longer accurately track that individual’s mortality after the policy ends. The size of the cohort changes each year as cohort members die.</p>
+
+<div class="example" id="loma371-ch8-div-36">
+<div class="inner" id="loma371-ch8-div-37">
+<p class="txt-ni" id="loma371-ch8-p-69">At the age of 65, Judd Sassone purchased an insurance policy on his own life from Metric Life Insurance. Three months later, Mr. Sassone surrendered the policy. Metric later creates a mortality table based on a five-year study, with mortality rates expressed in one-year periods. When calculating the size of the cohort for men age 65, Mr. Sassone contributes 0.25 to the cohort’s exposure, because he was exposed to death for only three months—one-quarter, or 25% of a full one-year period—while insured by Metric.</p>
+</div>
+</div>
+
+<p class="txt" id="loma371-ch8-p-70">Let’s look at a larger excerpt from the same mortality table for men.</p>
+
+<table class="blue striped" id="loma371-ch8-table-2">
+	<tbody>
+		<tr>
+			<th id="loma371-ch8-td-7">
+			<p class="txt" id="loma371-ch8-p-71" style="text-align: center;">Age</p>
+			</th>
+			<th id="loma371-ch8-td-8">
+			<p class="txt" id="loma371-ch8-p-72" style="text-align: center;">Death Probability</p>
+			</th>
+			<th id="loma371-ch8-td-9">
+			<p class="txt" id="loma371-ch8-p-73" style="text-align: center;">Number of Lives</p>
+			</th>
+		</tr>
+		<tr>
+			<td id="loma371-ch8-td-10">
+			<p class="txt" id="loma371-ch8-p-74" style="text-align: center;"><strong>0</strong></p>
+			</td>
+			<td id="loma371-ch8-td-11">
+			<p class="txt" id="loma371-ch8-p-75" style="text-align: center;">0.006364</p>
+			</td>
+			<td id="loma371-ch8-td-12">
+			<p class="txt" id="loma371-ch8-p-76" style="text-align: center;">100,000</p>
+			</td>
+		</tr>
+		<tr>
+			<td id="loma371-ch8-td-13">
+			<p class="txt" id="loma371-ch8-p-77" style="text-align: center;"><strong>1</strong></p>
+			</td>
+			<td id="loma371-ch8-td-14">
+			<p class="txt" id="loma371-ch8-p-78" style="text-align: center;">0.000432</p>
+			</td>
+			<td id="loma371-ch8-td-15">
+			<p class="txt" id="loma371-ch8-p-79" style="text-align: center;">99,364</p>
+			</td>
+		</tr>
+		<tr>
+			<td id="loma371-ch8-td-16">
+			<p class="txt" id="loma371-ch8-p-80" style="text-align: center;"><strong>--</strong></p>
+			</td>
+			<td id="loma371-ch8-td-17">
+			<p class="txt" id="loma371-ch8-p-81" style="text-align: center;">--</p>
+			</td>
+			<td id="loma371-ch8-td-18">
+			<p class="txt" id="loma371-ch8-p-82" style="text-align: center;">--</p>
+			</td>
+		</tr>
+		<tr>
+			<td id="loma371-ch8-td-19">
+			<p class="txt" id="loma371-ch8-p-83" style="text-align: center;"><strong>65</strong></p>
+			</td>
+			<td id="loma371-ch8-td-20">
+			<p class="txt" id="loma371-ch8-p-84" style="text-align: center;">0.015809</p>
+			</td>
+			<td id="loma371-ch8-td-21">
+			<p class="txt" id="loma371-ch8-p-85" style="text-align: center;">79,893</p>
+			</td>
+		</tr>
+		<tr>
+			<td id="loma371-ch8-td-22">
+			<p class="txt" id="loma371-ch8-p-86" style="text-align: center;"><strong>66</strong></p>
+			</td>
+			<td id="loma371-ch8-td-23">
+			<p class="txt" id="loma371-ch8-p-87" style="text-align: center;">0.016868</p>
+			</td>
+			<td id="loma371-ch8-td-24">
+			<p class="txt" id="loma371-ch8-p-88" style="text-align: center;">78,630</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="txt" id="loma371-ch8-p-89">From this excerpt we can see that the mortality table begins with a cohort of 100,000 members, a number that decreases each year as some members of the cohort die. In the year when members of the cohort turned 65, the cohort consisted of 79,893 living members. We can see from the next year’s statistics that 1,263 members are expected to die over the course of the year (79,893 – 78,630 = 1,263). So, to determine the mortality rate for the age 65 cohort, an actuary divides the number of deaths by the size of the cohort, as follows:</p>
+
+<div class="example" id="loma371-ch8-div-38">
+<div class="inner" id="loma371-ch8-div-39">
+<table class="equation" id="loma371-ch8-table-3">
+	<tbody>
+		<tr>
+			<td id="loma371-ch8-td-25"><span class="equation equation991 kInline kInteractive" data-kotobee="Tlg2SlBXBkpLFRAaHEpAWVVRXVBAVmZIBwcVC0pBLkpBLAxAVxUAU0VRWywfGQADSlEgQBBmD1BGWEpAW0pGX0dXVQAWIhgaTVw3WkNGWVFAVmYKDBtRWypXXiwaSlBVQBcVREY3RwIABBhRXCdAUGZLREdETV1CTlw3AhAKEgAWJFBBKwFXWV9RXVJAVxUAU0VRWywfBUpHKlVcSR0cUlBHK0AfBUpHKkdQJksAU0VRWl9XWCxbAhAKEgAWJFBBKwFXWCxbAgQXBEYAUjBRWl1eTl1GGxsVAAAXU09RWl0fChscAg5AVxcJREdGGAMTCAoZCgwRQBcXW1BGWgYcBwYaCkdXVwkAU0cVBAYVBQIRARZAVxcfREdGCwocHwoGSlBXSQAXUxgVGggbBUpGXVhQSQAXUxkVEQAHH0pGXVhAUmcAU0cECQsWAgETSlBXXwAXU0BRWl1eTl1GCQ0LEXZMGxBRWl1ITl1GXkdXVwkAU0cXBwMdGUpGXVhAVxcGUkZHW1xBTl1GQ0dXV1VJABYRBQocH0pGXVhAVxdMDxkdBgpXWV1RWCZJQBcXAhkVGxwcCgIRSlBXXwAXUxAFHQ4GAgAaVltUQBcXTVBGWgsbBkpGXVgLEElJREIw" data-preservedclasses="kInteractive equation equation991 kInline" id="ki-equation-0" style="color:rgb(51, 51, 51); display:inline !important; font-size:1em; padding:5px; text-align:center"></span></td>
+			<td id="loma371-ch8-td-26">=</td>
+			<td id="loma371-ch8-td-27">0.015809</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+
+<p class="txt-ni" id="loma371-ch8-p-90">As shown above, if an actuary were building a mortality table that expresses the mortality rate as the number of deaths per thousand lives, the mortality rate for the cohort of men at age 65 would be roughly 15.8, calculated as (1,000 × 0.015808 = 15.808). These calculations are the foundation of mortality tables.</p>
+
+<div class="clearfix" id="loma371-ch8-div-40">&#160;</div>
+
+<h3 id="loma371-ch8-h3-6">Calculating Survival Rates</h3>
+
+<p class="txt-ni" id="loma371-ch8-p-91">Mortality tables can also provide survival rates for each age, which are particularly useful for designing annuities. A <span class="gt" data-term="ch8-gt-survivalrate" epub:type="glossref" id="loma371-ch8-span-25" role="doc-glossref">survival rate</span> is the percentage of people within a cohort who have attained a given age and are expected to be alive at their next birthday. We calculate the survival rate by dividing the number of <em>survivors</em> by the size of the cohort. The calculation for the survival rate for the age 65 cohort is as follows:</p>
+
+<div class="example" id="loma371-ch8-div-41">
+<div class="inner" id="loma371-ch8-div-42">
+<table class="equation" id="loma371-ch8-table-4">
+	<tbody>
+		<tr>
+			<td id="loma371-ch8-td-28"><span class="equation equation615 kInline kInteractive" data-kotobee="Tlg2SlBXBkpLFRAaHEpAWVVRXVBAVmZIBwcVC0pBLkpBLAxAVxUAU0VRWywfGQADSlEgQBBmD1BGWEpAW0pGX0dXVQAWIhgaTVw3XFdYWVFVQBZmThgaTVw3Tlo3AUdXVQAXUVBHK0AfGQADSlEgQBBmD1BGWEpAW0pHLA8XClIAUjBRXSwcTl1ESlBVQBcVREdETVwxBgFRXCdSXAkdWEZRWyxdBgFRXCdAUGZLREdETV1CTlw3QA8XClIAUjBRXSwcTlw3QA8DF0RGREYxTV1AR0pGXRYcFUAAU0dOTV1ABg4ABw8JQBcXTVBGWh8eCgwRAgcLEQAXU09RWl0bBQMdAQdAVxcJREdGCQMbDAEZCgwRQBcXW1BGWgwXBRsRHUdXVwkAU0cZCR0VAgFRXVBfUAkAU0cYCRYdHhtRXVBfQBJnREdGGA4WDwYaCEdXVx8AU0dBTV1AR0pGXQQKC1F2CA8RTV1AUUpGXVNAVxcJREdGCwAeBB1RXVBfQBcXQkZHW1xBWEpGXU5AVxdVDRQXDQIXBRtRXVBfQBcXCBsYAQEXTl1GSlUhSQAXUxYYCRwBBQ4ZCkdXVx8AU0cRGRoTHwYbAVRUUAAXU1lRWl0WAgJRXVBfC1BJDVBDLA==" data-preservedclasses="kInteractive equation equation615 kInline" id="ki-equation-1" style="color:rgb(51, 51, 51); display:inline !important; font-size:1em; padding:5px; text-align:center"></span></td>
+			<td id="loma371-ch8-td-29">=</td>
+			<td id="loma371-ch8-td-30">0.984191</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+
+<p class="txt" id="loma371-ch8-p-92">Another way to determine a survival rate is by subtracting the equivalent mortality rate from 1. For a given age and cohort, the sum of the mortality rate and the survival rate always equals 1.</p>
+
+<div class="example" id="loma371-ch8-div-43">
+<div class="inner" id="loma371-ch8-div-44">
+<p class="equation" id="loma371-ch8-p-93"><strong>For a given age and cohort:</strong></p>
+
+<table class="equation" id="loma371-ch8-table-5">
+	<tbody>
+		<tr>
+			<td id="loma371-ch8-td-31">Mortality rate <wbr />+<wbr /> Survival rate</td>
+			<td id="loma371-ch8-td-32">=</td>
+			<td id="loma371-ch8-td-33">1</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+
+<p class="txt" id="loma371-ch8-p-94">So, if the mortality rate for the age 65 cohort is 0.016—meaning 16 out of every 1,000 men are expected to die between the ages of 65 and 66—then the remaining 984 men are expected to survive, calculated as 1,000 – 16. Therefore, the survival rate for men at age 65 would equal 0.984, calculated as 1 – 0.016.</p>
+
+<div class="question-wrapper" id="loma371-ch8-question-4-wrap">
+<div class="question-container hidden" data-qtype="mc" epub:type="question" id="loma371-ch8-question-4">
+<p class="q-title" id="loma371-ch8-p-95"><img alt="Let’s Review" id="loma371-ch8-img-54" src="../../imgs/lets-review.png" /></p>
+
+<div class="stem-cont" id="loma371-ch8-question-4-label">
+<p class="q-stem" id="loma371-ch8-p-96">Metric Life Insurance is designing a mortality table for women with a base cohort of 100,000 members. At the age of 49, the number of living members in the cohort is 95,802. At the age of 50, the number of living members in the cohort is 95,529. The survival rate of the cohort at age 50, calculated to three decimal points, is</p>
+</div>
+
+<ol aria-labelledby="loma371-ch8-question-4-label" class="choices" id="loma371-ch8-ol-7" role="radiogroup">
+	<li aria-checked="false" id="loma371-ch8-question-4-i0" role="radio" tabindex="0"><label for="loma371-ch8-question-4-i0">0.003</label>
+
+	<div class="radio-wrapper" id="loma371-ch8-div-45">
+	<div class="check" id="loma371-ch8-div-46">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch8-img-55" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch8-img-56" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch8-img-57" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch8-img-58" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch8-question-4-i1" role="radio" tabindex="-1"><label for="loma371-ch8-question-4-i1">0.045</label>
+	<div class="radio-wrapper" id="loma371-ch8-div-47">
+	<div class="check" id="loma371-ch8-div-48">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch8-img-59" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch8-img-60" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch8-img-61" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch8-img-62" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch8-question-4-i2" role="radio" tabindex="-1"><label for="loma371-ch8-question-4-i2">0.955</label>
+	<div class="radio-wrapper" id="loma371-ch8-div-49">
+	<div class="check" id="loma371-ch8-div-50">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch8-img-63" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch8-img-64" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch8-img-65" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch8-img-66" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch8-question-4-i3" role="radio" tabindex="-1"><label for="loma371-ch8-question-4-i3">0.997</label>
+	<div class="radio-wrapper" id="loma371-ch8-div-51">
+	<div class="check" id="loma371-ch8-div-52">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch8-img-67" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch8-img-68" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch8-img-69" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch8-img-70" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+</ol>
+
+<p class="reveal" id="loma371-ch8-p-98"><span class="btn" data-answer="loma371-ch8-question-4-key" id="loma371-ch8-span-26" role="button" tabindex="0">Submit</span></p>
+</div>
+
+<div class="question-container-static visible" data-qtype="mc" epub:type="question" id="loma371-ch8-question-4-static">
+<p class="q-title-static" id="loma371-ch8-p-99"><img alt="Let’s Review" id="loma371-ch8-img-71" src="../../imgs/lets-review.png" /></p>
+
+<p class="q-stem-static" id="loma371-ch8-p-100">Metric Life Insurance is designing a mortality table for women with a base cohort of 100,000 members. At the age of 49, the number of living members in the cohort is 95,802. At the age of 50, the number of living members in the cohort is 95,529. The survival rate of the cohort at age 50, calculated to three decimal points, is</p>
+
+<ol class="choices-static" id="loma371-ch8-ol-8">
+	<li id="loma371-ch8-question-4-i0-static">0.003</li>
+	<li id="loma371-ch8-question-4-i1-static">0.045</li>
+	<li id="loma371-ch8-question-4-i2-static">0.955</li>
+	<li id="loma371-ch8-question-4-i3-static">0.997</li>
+</ol>
+
+<p class="reveal-static" id="loma371-ch8-p-101"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma371-ch8-question-4-key" id="loma371-ch8-a-15" role="doc-noteref">Check your answer</a></p>
+</div>
+</div>
+
+<div aria-hidden="true" id="modalOverlay">
+<div aria-labelledby="modalTitle" aria-modal="true" id="modalAlertBox" role="dialog">
+<div class="header"><span aria-label="Close" role="button" tabindex="0">×</span></div>
+
+<div class="modalAlertContent">&#160;</div>
+</div>
+</div>
+</section>
+
+
+</body></html>

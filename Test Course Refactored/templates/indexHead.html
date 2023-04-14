@@ -1,0 +1,30 @@
+<header id="indexHead">
+    <img alt="{{default_content.Labels.home}}" aria-label="{{default_content.Labels.home}}" title="{{default_content.Labels.home}}" class="lomalogo homelink" id="course_logo" src="includes/images/{{course_settings.Portal_Setup.LM_Logo}}" role="link" tabindex="0" />
+    <a id="courseTitle" class="homelink" aria-label="{{default_content.Labels.home}}" title="{{default_content.Labels.home}}" role="link" tabindex="0">{{course_settings.Portal_Setup.Course_Number}}</a>
+    <ul id="headerModules">
+        <li data-length="{{TOC.length}}" data-module="true">
+            <a class="modulelink" role="link" tabindex="0">{{default_content.Labels.moduleNum}}</a>
+        </li>
+    </ul>
+    <div id="homehelpexit">
+        <a id="hhe_home" class="homelink btooltip" tooltip="{{default_content.Labels.home}}" aria-label="{{default_content.Labels.home}}" title="{{default_content.Labels.home}}" role="link" tabindex="0">
+            <img src="includes/images/homew.png" alt="" />
+        </a>
+        <a id="hhe_help" class="helplink btooltip" tooltip="{{default_content.Labels.help}}" aria-label="{{default_content.Labels.help}}" title="{{default_content.Labels.help}}" role="link" tabindex="0">
+            <img src="includes/images/helpw.png" alt="" />
+        </a>
+        <button id="hhe_exit" class="exit btooltip" tooltip="{{default_content.Labels.exit}}" aria-label="{{default_content.Labels.exit}}" title="{{default_content.Labels.exit}}">
+            <img src="includes/images/exitw.png" alt="" />
+        </button>
+    </div>
+    <div id="namebar">
+        <div id="returnToLsn" class="returnToLsn hidden" tabindex="0" role="link" aria-disabled="true">{{default_content.ReturnTo.returnToModule}}</div>
+        <div class="menu-toggle" id="indexName" tabindex="0" role="button" aria-label="{{default_content.Labels.menu}}" aria-controls="menu-container" aria-haspopup="true">
+            {{sFirstname||default_content.Labels.name}}
+            <span style="padding-left: 15px;">
+                <!-- <img src="includes/images/sm_rev_hamburger.png" alt="" /> -->
+                <i class="fa fa-bars fa-lg white" id="menu_close"></i>
+            </span>
+        </div>
+    </div>
+</header>

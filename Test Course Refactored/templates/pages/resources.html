@@ -1,0 +1,58 @@
+<div id="portalContents" tabindex="-1">
+    <div class="theContent">
+        <div class="description">
+            <h1>{{default_content.Labels.resources}}</h1>
+            <p>{{default_content.Resources.IntroParagraph}}</p>
+            <ul>
+                <li data-length="{{default_content.Resources.IntroLIs.length}}"
+                    class="{{default_content.Resources.IntroLIs[i].0}} hidden">
+                    {{default_content.Resources.IntroLIs[i].1}}</li>
+            </ul>
+            <div id="resource_buttons">
+                <button class="resource_btn type_summary hidden" id="Lesson_Summaries_Btn">{{default_content.Labels.lessonSummaries}}</button>
+                <button class="resource_btn type_expert_vid hidden" id="Expert_Videos_Btn">{{default_content.Labels.expertVideos}}</button>
+                <button class="resource_btn type_doc hidden" id="Add_Docs_Btn">{{default_content.Labels.additionalDocs}}</button>
+                <button class="resource_btn type_summary hidden" id="Study_Plan_Btn" data-doc="StudyPlans.pdf">{{default_content.Labels.studyPlan}}</button>
+                <button class="resource_btn type_expert_vid hidden" id="Library_Videos_Btn">{{default_content.Labels.videoLibrary}}</button>
+                <button class="resource_btn type_summary hidden" id="Answer_Key_Btn" data-doc="{{course_settings.CourseContentContent.AnswerKeyPDF}}">{{default_content.Labels.answerKey}}</button>
+                <a class="resource_btn type_summary hidden" id="Course_Glossary_Btn" role="link">{{default_content.Labels.courseGlossary}}</a>
+            </div>
+        </div>
+        <div id="theResources" tabindex="-1">
+            <div id="Lesson_Summaries_all" class="hidden">
+                <h2>{{default_content.Labels.lessonSummaries}}</h2>
+                <div class="mod_container" data-length="{{TOC.length}}" data-module="true">
+                    <!-- TODO: Check to make sure moduleLesson renders in an course with lesson summaries -->
+                    <div class="summary_btn" role="link" tabindex="0" data-length="{{TOC[i].length}}" data-docnum="{{mod-num}},{{lsn-num}}" data-lesson="true">{{default_content.Labels.moduleLesson}}</div>
+                </div>
+            </div>
+            <div id="Expert_Videos_all" class="hidden">
+                <h2>{{default_content.Labels.expertVideos}}</h2>
+                <div class="mod_container" data-length="{{video_library.expertvids_setup.length}}" data-module="true">
+                    <h3>{{default_content.Labels.moduleNum}}</h3>
+                    <button class="expertVidBlock vid_btn" data-length="{{video_library.expertvids_setup[i].length}}" data-vidnum="{{mod-num}},{{data-index}}">
+                        <img src="includes/images/expertVideos/{{video_library.expertvids_setup[mod-index][i].thumb_image}}" alt="" />
+                        <span class="video-desc">{{video_library.expertvids_setup[mod-index][i].vid_description}}</span>
+                        <span class="expertVidBlockTime">({{video_library.expertvids_setup[mod-index][i].vid_time}})</span>
+                    </button>
+                </div>
+            </div>
+            <div id="Library_Videos_all" class="hidden">
+                <h2>{{default_content.Labels.videoLibrary}}</h2>
+                <div class="mod_container" data-length="{{video_library.libraryvids.length}}" data-module="true">
+                    <h3>{{default_content.Labels.module}} {{video_library.libraryvids[i].module}}</h3>
+                    <!-- TODO: Check to make sure moduleLesson renders in an course with library videos -->
+                    <div class="figureVidBlock vid_btn" data-length="{{video_library.libraryvids[i].length}}" data-vidnum="{{mod-num}},{{data-index}}" role="button" tabindex="0">
+                        <img src="includes/images/libraryvids/{{video_library.libraryvids[mod-index][i].thumb_image}}" alt="" />
+                        <p><strong>{{video_library.libraryvids[mod-index][i].label}}</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div id="Add_Docs_all" class="hidden">
+                <h2>{{default_content.Labels.additionalDocs}}</h2>
+                <div class="add_doc_btn" role="link" tabindex="0" data-length="{{course_settings.Additional_Docs.length}}" data-doc="{{course_settings.Additional_Docs[i].doc}}">{{course_settings.Additional_Docs[i].name}}</div>
+            </div>
+            <div class="spacer">&#160;</div>
+        </div>
+    </div>
+</div>

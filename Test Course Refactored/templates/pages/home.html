@@ -1,0 +1,58 @@
+<div id="portalContents" tabindex="-1" style="display: block; overflow-y: auto; top: 75px; height: 1162px; z-index: 99;">
+    <style>
+        @media (min-width: 750px) {
+            .theContent p {
+                width: 50%;
+            }
+
+            #portalContents .theContent {
+                background: url('./includes/images/{{course_settings.Portal_Setup.Hero_Image}}') no-repeat right 5% top 1%;
+                background-size: 40%;
+            }
+        }
+        @media (max-width: 750px) {
+            p {
+                width: 100%;
+            }
+
+            .theContent {
+                background: none;
+            }
+        }
+    </style>
+    <div class="theContent" tabindex="-1">
+        <h1 id="title">{{course_settings.Portal_Setup.Course_Title}}</h1>
+        <p class="welcome-txt" data-length="{{course_settings.Portal_Setup.Welcome_text.Intro_Copy.length}}">
+            {{course_settings.Portal_Setup.Welcome_text.Intro_Copy[i]}}</p>
+        <div id="contentBtns">
+            <div class="indexBtn gettingStartedlink" tabindex="0" role="link">
+                <img src="includes/images/glyphicons-45-keys.png" alt="" />
+                {{default_content.Labels.gettingStarted}}
+            </div>
+            <div class="indexBtn about" tabindex="0" role="link">
+                <img src="includes/images/info_btn_blk.png" alt="" />
+                {{default_content.Labels.about}}
+            </div>
+            <div class="indexBtn myDashboardlink" tabindex="0" role="link">
+                <img src="includes/images/dash_btn_color.png" alt="" />
+                {{default_content.Labels.myDashboard}}
+            </div>
+            <div class="indexBtn examPreplink" tabindex="0" role="link">
+                <img src="includes/images/glyphicons-88-log-book.png" alt="" />
+                {{default_content.Labels.examPrep}}
+            </div>
+            <div class="indexBtn resourceslink" tabindex="0" role="link">
+                <img src="includes/images/xtra_features_btn.png" alt="" />
+                {{default_content.Labels.resources}}
+            </div>
+            <div class="indexBtn helplink" tabindex="0" role="link">
+                <img src="includes/images/glyphicons-195-question-sign.png" alt="" />
+                {{default_content.Labels.help}}
+            </div>
+            <div class="indexBtn start" tabindex="0" role="link" data-module="1" data-lesson="1" data-page="1">
+                {{default_content.Labels.Start}}
+            </div>
+        </div>
+        <div style="height: 200px; width:100%; background: transparent;"> </div>
+    </div>
+</div>

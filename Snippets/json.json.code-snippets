@@ -1,0 +1,2146 @@
+{
+	
+	/*	
+		"JB Single Image": // For version 3.0
+		{
+			"prefix": "JB_Single_Image",
+			"body": [
+	
+			  " // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+			  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  " // ║ -------<( Single Image Begin )>-------  01/25/2021                                ║",
+			  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+			  "{\"Single_Image\":",
+			  "   [",
+			  "      {",
+	
+			  "          \"image_name\":\"$1\",",
+			  "          \"image_height\":\"\",",
+			  "          \"top_margin\":\"\",",
+			  "          \"background_color\":\"\",",
+			  "          \"image_padding\":\"\",",
+			  "",
+			  "          \"border_style\":\"\",",
+			  "          \"border_color\":\"\",",
+			  "          \"border_weight\":\"\",",
+			  "",
+			  "          \"border_radius\":\"\",",
+			  
+	
+			  "      },",
+			  "   ],",
+			  "},",
+			  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  " // ║ -------<( Single Image End )>-------                                              ║",
+			  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+			  " // ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ",
+			],
+	
+		},
+	*/
+	//-------------------------------------------
+	//-------<( Sets up a new json page )>-------
+	//-------------------------------------------
+	
+	"JB A New Json Lesson Page": {
+		"prefix": "JB_A_New_Json_Page",
+		"body": [
+	
+		  "Lesson_Data_File([",
+	
+		  "	{",
+	
+		  "//      _            _    ____        _ _     _           ",
+		  "//     | | __ _  ___| | _| __ ) _   _(_| | __| | ___ _ __ ",
+		  "//  _  | |/ _` |/ __| |/ |  _ \\| | | | | |/ _` |/ _ | '__|",
+		  "// | |_| | (_| | (__|   <| |_) | |_| | | | (_| |  __| |   ",
+		  "// _\\___/ \\__,_|\\___|_|\\_|____/ \\__,_|_|_|\\__,_|\\___|_|   ",
+		  "// \\ \\   / ___ _ __ ___(_) ___  _ __   |___ \\  / _ \\      ",
+		  "//  \\ \\ / / _ | '__/ __| |/ _ \\| '_ \\    __) || | | |     ",
+		  "//   \\ V |  __| |  \\__ | | (_) | | | |  / __/ | |_| |     ",
+		  "//    \\_/ \\___|_|  |___|_|\\___/|_| |_| |_____(_\\___/      ",
+		  "",
+		  "",
+	
+		  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+		  "//▌░▒▓▓▓▓▓▓/                                                                 \\▓▓▓▓▓▓▒░▐",
+		  "//▌░▒▓▓▓▓    DO NOT MOVE  \"Page_Setup\"  ABOVE OR BELOW ITS CURRENT LOCATION     ▓▓▓▓▒░▐",
+		  "//▌░▒▓▓▓▓▓▓\\                                                                 /▓▓▓▓▓▓▒░▐	",
+		  "//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀	",
+		  "//╔══════════════════════════════════════════════════════════════════════════════════╗",
+		  "//╚╣░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░╠╝",
+		  "		",
+		  "	",
+		  "//╔═══════════════════════════════════════════════════════════════════════════════════╗",
+		  "//║ -------<( Page Setup Begin )>-------        01/25/2021                            ║",
+		  "//╚═══════════════════════════════════════════════════════════════════════════════════╝		",
+		  "		\"Page_Setup\":",
+		  "			{",
+		  "			//╔══════════════════════════════════════════════════════════════════╗	",
+		  "				\"Assets_folder\":\"Mod\",				// Do not alter this field   ║",
+		  "			//╚══════════════════════════════════════════════════════════════════╝	",
+		  "				\"Lesson_Header_Color\":\"#0070b0\",	// Background color of the header",
+		  "				\"Lesson_Title_Color\":\"#ffffff\",		// Header text color",
+		  "				\"Lesson_Title_Text\":\"$1Title Text\", // This is for the text that will display inside the header.",
+		  "				\"Page_Title\":\"Module 1 lesson 1\",   // This is the page title tet that displays in the browser",
+		  "				\"Progress_Bar_Color\":\"#f2c400\",		// Progress bar color",
+		  "				\"Progress_Bar_Height\":\"3px\",		// Progress bar thickness",
+		  "				",
+		  "				\"heroSize\":\"80%\", 					// 50% is the default. to make the image bigger or smaller you need to use a percentage.",
+		  "				\"hImage\":\"\",				// Hero image",
+		  "				\"hImage_Alt_Tag_Text\":\"\",",
+		  "			},",
+		  "//╔═══════════════════════════════════════════════════════════════════════════════════╗",
+		  "//║ -------<( Page Setup End )>-------                                                ║",
+		  "//╚═══════════════════════════════════════════════════════════════════════════════════╝",
+		  "",
+		  "//╔╣░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░╠╗",
+		  "//╚══════════════════════════════════════════════════════════════════════════════════╝",
+		  "\"JBuilder_Content\":",
+		  "		[		",
+		  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+		  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+		  "//▌░▒▓▓▓▓▓▓/                                                                 \\▓▓▓▓▓▓▒░▐",
+		  "//▌░▒▓▓▓▓    DO NOT MOVE  \"Page_Setup\"  ABOVE OR BELOW ITS CURRENT LOCATION     ▓▓▓▓▒░▐",
+		  "//▌░▒▓▓▓▓▓▓\\                                                                 /▓▓▓▓▓▓▒░▐",
+		  "//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀",
+		  "",
+		  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+		  "//▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀",
+		  "//▌▌▌▌-----------------------<( Place snippets below this line )>------------------------▐▐▐▐",
+		  "//▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄ ",
+		  "//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀",
+		  "",
+		  "",
+	
+		  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+		  "//▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀─▀",
+		  "//▌▌▌▌-----------------------<( Place snippets Above this line )>------------------------▐▐▐▐",
+		  "//▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄─▄",
+		  "//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀",
+	
+		  "        ],",
+		 
+		  "    }",
+		  "]);",
+		  ""
+		],
+		"description": "_____________________"
+	  },
+	
+	
+		"JB_Keyterm":
+		{ 
+			"prefix": "JB_KeyTerm",
+			
+				//"key":"ctrl+k",
+				//"command":"editor.action.insertSnippet",    "<i>$TM_SELECTED_TEXT</i>",
+	
+			"body": [
+						"<span class='keyterm' tabindex='0' role='button'>$TM_SELECTED_TEXT</span>",
+					],
+			//"description": "KeyTerm"
+		},
+	
+	
+	
+	/*
+		"JB_Keyterm":
+		{
+			"prefix": "KeyTerm",
+			"body": ["$LINE_COMMENT SPLN${1:1}.00 - Start",
+			"\t$TM_SELECTED_TEXT",
+			"$LINE_COMMENT SPLN${1:1}.00 - END",
+			],
+			"description": "Comment for Code changes"
+		
+		
+		},
+	*/	
+	
+// /*
+
+"JB LO":
+{
+
+	"prefix": "JB_LO (Learning Objective)",
+    "body": [
+		"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",				
+		"//╔══════════════════════════════════════════════════════╗",
+		"//║ -------<( LEARNING OBJECTIVES BEGIN )>-------        ║",
+		"//╚══════════════════════════════════════════════════════╝",	
+
+		"{",
+		"			\"Learning_Objectives\":",
+			"		[",
+			"			{\"color\": \"006aac\"}, ",
+			"		],",
+				"			// 000000 || 00ab4f || 006aac || 46a4da ||",
+				"			// 0075a8 || 82c341 || 912a74 || 007569 ||", 
+				"			// 263676 || 479997 || d2232a || e72856 ||",
+				"			// f9c606 || f7921e",
+		"},",
+
+		"//╔══════════════════════════════════════════════════════╗",
+		"//║ -------<(  LEARNING OBJECTIVES END  )>-------        ║", 
+		"//╚══════════════════════════════════════════════════════╝",	
+		"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",	
+	],
+},
+
+
+	
+	"JB_Table":
+	{ 
+		"prefix": "JB_Table",
+		"body": [
+					
+			"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+			"//╔══════════════════════════════════════════════════════╗ ",
+			"//║ ----<( JB_Table Table Begin )>----                   ║ ",
+			"//╚══════════════════════════════════════════════════════╝ ",
+			"/*",
+			"    Heading Snippet Key: ",
+			
+			"┌────────────────────────────────┐ ┌────────────────────────────┐ ",
+			"| \"Cell_Color\":\"#ed8c01\",        ├─┤  Snippet name: Cell_Color  | ",
+			"└────────────────────────────────┘ └────────────────────────────┘ ",
+			
+			"┌─────────────────────────────────────────────┐ ┌───────────────────────────────┐",
+			"│  \"Border\":\"block,4px,solid,#015d52\",        ├─┤  Snippet name: Single_Border  |",
+			"└────────────┬────┬────┬──────┬───────────────┘ └───────────────────────────────┘",
+			"             │    │    │      │ ",
+			"             │    │    │      └─ Color of the Border ",
+			"             │    │    │  ",
+			"             │    │    └─ This is the style of the border. solid, dashed, dotted ",
+			"             │    │ ",
+			"             │    └─ This is the weight of the border use px. ",
+			"             │ ",
+			"             └─ Change this value to any of the following: block, left, top, right, bottom, LT, TR, LR, LB, BR, TB, LTR, LBR, TLB, TRB ",
+			"                                                                                          (example: LT = left top) ",
+			
+			"  ┌──────────────────────────────────────────────────────────────┐ ┌───────────────────────────────┐",
+			"  │ \"Txt_Font_Settings\":\"left,#ffffff,normal,italic,jb7\",        ├─┤  Snippet name: Font_Settings  |",
+			"  └──────────────────────┬──────┬───────┬──────┬────┬────────────┘ └───────────────────────────────┘",
+			"                         │      │       │      │    │ ",
+			"                         │      │       │      │    └─ Font: Use jb1-jb7 ",
+			"                         │      │       │      │ ",
+			"                         │      │       │      └─ Font Style: normal, italic ",
+			"                         │      │       │ ",
+			"                         │      │       └─ Font weight: normal, bold ",
+			"                         │      │ ",
+			"                         │      └─ Font color ",
+			"                         │ ",
+			"                         └─ Font alignment ",
+			
+			"*/",
+			
+			
+			"{\"JB_Table\": ",
+			" [  // -------<( Heading Row )>------- // Border Style:  block, left, top, right, bottom, LT, TR, LR, LB, BR, TB, LTR, LBR, TLB, TRB ",
+			"{   \"Col_Heading\":                   // Text Settings: Alignment,Color,Weight,Style,Font",
+			"      [ ",
+			"           {\"Heading\":\"Heading 01\",}, ",
+			"           {\"Heading\":\"Heading 02\",}, ",
+			"           {\"Heading\":\"Heading 03\",}, ",
+			"           {\"Heading\":\"Heading 04\",}, ",
+			"      ], ",
+			"     \"Row_Heading_Color\":\"#0070b0\", // Whole row color ",
+			"     \"Row_Heading_Height\":\"\", // use px: example 50px ",
+			"     \"Row_Heading_Font_Whole\":\"Alignment,#ffffff,Weight,Style,jb7\", // \"Row_Heading_Font\":\"Alignment,Color,Weight,Style,Font\", ",
+			"}, ",
+			"    // -------<( Heading Row )>------- //   ",
+			
+			
+			"   // -------<( Data Row )>------- //  ",
+			"{\"Row_Information\": ",
+			" [  ",
+			"     {\"Row_Data\":// Row 01 ",
+			"       [ ",
+			"           {\"Data_Info\":\"Data 01\",}, ",
+			"           {\"Data_Info\":\"Data 02\",}, ",
+			"           {\"Data_Info\":\"Data 03\",}, ",
+			"           {\"Data_Info\":\"Data 04\",}, ",
+			"       ], ",
+			"        \"Row_Data_Color\":\"\", // Whole row color ",
+			"        \"Row_Data_Height\":\"\", //\"\" or use px: example 50px ",
+			"        \"Row_Data_Font_Whole\":\"\", // \"Row_Heading_Font\":\"Alignment,Color,Weight,Style,Font\", ",
+			"      }, ",
+			
+			" ], ",
+			"}, ",
+			"     // -------<( Data Row )>------- //",
+			"     // -------<( Table Settings )>------- //",
+			"{\"Whole_Table_Settings\": ",
+			"    [ ",
+			"       { ",
+			"           \"Top_Margin\":\"10px\", // use px: Example: 10px  \"Border\":\"block,4px,solid,#015d52\", ",
+			"           \"Heading_Text_Settings\":\"\", ",
+			"           \"Row_Text_Settings\":\"\",",
+			"           \"Table_Background_Color\":\"\", ",
+			"           \"Table_Border_Settings\":\"block\", //block = on, none = off, 1px solid red = a thickness of 1px a solid line and red color ",
+			"//====================================================================",
+			"           \"Table_Width\":\"100%\", // Use Percentage only!",
+			"//====================================================================",
+			"//==================================================================== ",
+			"//| When the table exceeds 320px a scroll bar will appear.           | ",
+			"//====================================================================",
+			"            \"Table_Max_Height\":\"320px\", // Use px. example: 320px ",
+			"//====================================================================",
+			
+			"       }, ",
+			"    ], ",
+			"}, ",
+			"       // -------<( Table Settings )>------- //",
+			"",
+			" ], ",
+			
+			"},",
+			"//╔══════════════════════════════════════════════════════╗",
+			"//║ ----<( JB_Table Table End )>----                     ║",
+			"//╠══════════════════════════════════════════════════════╣",
+			"//╚══════════════════════════════════════════════════════╝",
+			"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+	
+				],
+		//"description": "JB Table"
+	},
+	
+	
+	
+		"JB_Timeline":
+		{
+			"prefix": "JB_Timeline",
+			"body": [
+						
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄	 ",
+				"//╔══════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Timeline Begin )>-------                   ║ ",
+				"//╚══════════════════════════════════════════════════════╝			 ",
+				"{\"Timeline\": ",
+				
+				" 		[ ",
+				"			{ ",
+				"				// Heading text for timeline ",
+				"				\"timeline_heading\":\"Title for timeline 01\", ",
+				"				\"timeline_heading_alignment\":\"left\", ",
+				
+				"			},  ",
+				"			{\"timeline_font_heading_color\":\"white\"},		// Heading text color ",
+				"			{\"timeline_heading_b_color\":\"#0070b0;\"},		// Heading backgroung color ",
+				"			{\"timeline_background_color\":\"#00a9e0\"},		// Timeline background color ",
+				"			{\"top_margin\":\"10px\"}, //negative numbers to move the component up ex \"-10px\"  ",
+				"								 //positive numbers to move the component down ex \"10px\"			 ",
+				"//---------------------------------------------------------			 ",
+				"			{  // Info box, vertical line and circle styling: ",
+				"				\"Info_Back\":\"#ffffff\",//#ffffff is the default; ",
+				"				\"Vertical_Line_Color\":\"#ffffff\", ",
+				"				\"Circle_Color\":\"white\", ",
+				"				\"Circle_Outline_Color\":\"orange\", ",
+				"				\"Circle_Weight\":\"4px\", ",
+				"			}, ",
+				
+				"			{  // Box heading styling: ",
+				"				\"Box_Heading_alignment\":\"left\",// left, center, right, justify ",
+				"				\"Box_Heading_weight\":\"normal\",// normal, bold ",
+				"				\"Box_Heading_style\":\"normal\",// normal, italic    font-style: normal; ",
+				"				\"Box_Heading_underline\":\"normal\",// normal, underline; ",
+				"				\"Box_Heading_Size\":\"\",// \"\" is default. use pixel for size: example: 18px. Use if you need to specify a text size ",
+				"				\"box_Contents_font_size\":\"jb1\", // ******* Use jb1 - jb6 only ******* ",
+				
+				"				\"Box_heading_text_color\":\"#000000\", ",
+				
+				
+				"				\"box_Contents_alignment\":\"left\", ",
+				"				\"box_Contents_Image_alignment\":\"center\", ",
+				"			}, ",
+				
+				"//---------------------------------------------------------			 ",
+				
+				"// box_Heading = The label text for each box. ",
+				"// box_Contents = the file or text you with to place in each box. ",
+				"/* ",
+				"			Examples:  ",
+				"				For text just type what you want in the box. ",
+				"				Image files: name.jpg, name.png ",
+				"				Audio files: name.mp3 ",
+				"				Videos: http://ry6g4c.cloud.influxis.com/SourceContent/SRI_500_Overview.mp4 ",
+				"						(You will need the web address for the video to view it) ",
+				
+				"*/ ",
+				"			{\"box_Heading\":\"Image of people\", \"box_Contents\":\"Compliance.png\",\"timeline_img_alt\":\"\",}, ",
+				"			{\"box_Heading\":\"Calling all Units\", \"box_Contents\":\"file.mp3\",\"timeline_img_alt\":\"\",}, ",
+				"			{\"box_Heading\":\"2016\", \"box_Contents\":\"Text for 2016\",\"timeline_img_alt\":\"\",}, ",
+				"			{\"box_Heading\":\"Calling all Units\", \"box_Contents\":\"http://ry6g4c.cloud.influxis.com/SourceContent/SRI_500_Overview.mp4\",\"timeline_img_alt\":\"\",}, ",
+				"			{\"box_Heading\":\"2015\", \"box_Contents\":\"Text for 2015\",\"timeline_img_alt\":\"\",}, ",
+				"			{\"box_Heading\":\"2014\", \"box_Contents\":\"517132068-170667a.jpg\",\"timeline_img_alt\":\"\",}, ",
+				"			{\"box_Heading\":\"2013\", \"box_Contents\":\"Text for 2013\",\"timeline_img_alt\":\"\",}, ",
+				
+				
+				"		],		 ",
+				
+				"}, ",
+				
+				"//╔═════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Timeline End )>-------                    ║ ",
+				"//╠═════════════════════════════════════════════════════╣		 ",
+				"//╚═════════════════════════════════════════════════════╝ ",
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+	
+					],
+	
+		},
+	
+
+
+
+	
+		"JB_Speech_Bubbles":
+		{
+			"prefix": "JB_Speech_Bubbles",
+			"body": [
+			
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄	 ",
+				"//╔══════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Speech Bubbles Begin )>-------             ║ ",
+				"//╚══════════════════════════════════════════════════════╝ ",
+				"",
+				"{\"Speech_Bubbles\": ",
+				"//  	When adding another Speechbubble, change the ending number by 1.                    		 ",
+				"//  	\"Speech_Bubbles1\" becomes \"Speech_Bubbles2\"			 ",
+				"		[ ",
+				"			{ ",
+				"				\"talking_head_image\":\"heads.jpg\", // Image size must be 583 x 232",
+				"				\"talking_head_image_alt\":\"\", ",
+				"			 ",
+				"			}, ",
+				"",
+				"			{\"start_text\":\"Start Text\"}, ",
+				
+				"			{\"top_margin\":\"\"},     //negative numbers to move the component up ex \"-10px\"  ",
+				"								 //positive numbers to move the component down ex \"10px\" ",
+				"			 ",
+				"			// The text below needs to be in the order it will be spoken. ",
+				"			{\"bbl_txt\":\"Response Text 1\"}, ",
+				"			{\"bbl_txt\":\"Response Text 2\"}, ",
+				"			{\"bbl_txt\":\"Response Text 3\"}, ",
+				"			{\"bbl_txt\":\"Response Text 4\"}, ",
+				"			{\"bbl_txt\":\"Response Text 5\"}, ",
+				"			{\"bbl_txt\":\"Response Text 6\"}, ",
+				"			{\"bbl_txt\":\"Response Text 7\"}, ",
+				"		], ",
+				"}, ",
+				
+				"//╔══════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Speech Bubbles End )>-------               ║ ",
+				"//╠══════════════════════════════════════════════════════╣		 ",
+				"//╚══════════════════════════════════════════════════════╝ ",
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄	 ",
+	
+					],
+			"description": "_____________________"
+		},
+	
+	
+		"JB_Paragraph(s)":
+		{
+			"prefix": "JB_Paragraphs_New",
+			"body": [
+						
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄					 ",
+				"//╔══════════════════════════════════════════════════════╗ ",
+				"//║ ----<( Paragraph(s) New Begin )>----                 ║ ",
+				"//╚══════════════════════════════════════════════════════╝					 ",
+				"	{\"Paragraphs_New\": ",
+				"			 [ ",
+				"				{ ",
+				"					\"Paragraph_align\":\"left\",// Align the paragraph: left, center, right, justify ",
+				"					\"Paragraph_Font_Size\":\"jb1\",  // jb1, jb2, jb3, jb4, jb5, jb6, jb7 ",
+				"				//------------------------------------------------------------------- ",
+				"					\"Paragraph_Font_color\":\"\", //Can be used on jb7 style only ",
+				
+				"					\"Paragraph_Font_style\":\"\", // Can be used on jb1-jb7 styles ",
+				"					// normal, italic, oblique ",
+				"					\"Paragraph_Font_variant\":\"\", // Can be used on jb1-jb7 styles ",
+				"					// normal, small-caps ",
+				"					\"Paragraph_Font_weight\":\"\", // Can be used on jb1-jb7 styles ",
+				"					// normal, bold:  font-weight: normal; ",
+				"				//-------------------------------------------------------------------	 ",
+				
+				"					\"Padding\":\"4px\", ",
+				"					\"background_color\":\"\",//#FBF6D9 ",
+				"					\"top_margin\":\"20px\", ",
+				"					\"border_color\":\"\", ",
+				"					\"border_weight\":\"\", // thin, medium thick, or pixel size \"10px\" ",
+				"					\"border_style\":\"\", // solid, dashed, dotted, double ",
+				"					\"border_radius\":\"0px\", // 0px = no radius ",
+				
+				"					\"heading\":\"This is the heading!\", ",
+				"					\"heading_font_size\":\"h2\",  // h1, h2, h3, h4, h5, h6 ",
+				"					\"heading_alignment\":\"center\", // left, center, right, justify   alignment   heading_alignmet ",
+				"					\"heading_color\":\"#000000\", ",
+				"					\"heading_weight\":\"normal\",  // normal, bold ",
+				"					\"heading_style\":\"normal\",   // normal, italic, oblique ",
+				"					\"heading_variant\":\"normal\", // normal, small-caps ",
+				"					\"heading_transform\":\"\", // \"\" is default, uppercase, lowercase, capitalize ",
+	
+				"					\"columns\":\"1\",// 1 , 2 ",
+				"					\"line_spacing\":\"1.5\", ",
+				"					\"background_image\":\"\", ",
+				
+				"				},  ",
+				"			//------------------------------------------ ",
+				
+	
+				"				{\"Paragraph_txt\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.\"}, ",
+	
+				"				{\"Paragraph_txt\":\"Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante.\"}, ",
+				
+				"				{\"Paragraph_txt\":\"Hello, how are you?. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.\"},	 ",
+				
+				"				{\"Paragraph_txt\":\"Hello, how are you?. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.\"},					  ",
+				"			 ], ",
+				"			},	 ",
+				
+				"//╔══════════════════════════════════════════════════════╗ ",
+				"//║ ----<( Paragraph(s) New End )>----                   ║ ",
+				"//╠══════════════════════════════════════════════════════╣		 ",
+				"//╚══════════════════════════════════════════════════════╝			 ",
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+	
+					],
+			//"description": "JB Paragraph(s)"
+		},
+	
+	
+	
+	
+	
+		"JB_Flip_Card":
+		{
+			"prefix": "JB_Flip_Multi",
+			"body": [
+	
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄				 ",
+				"//╔══════════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Flip_Multi_New Begin )>------- V 5.0           ║ ",
+				"//╚══════════════════════════════════════════════════════════╝ ",
+				"//-=-=-=-<( 01/29/2020 )>-=-=-=- ",
+				"// Single, Two or Three in a row flip card.			 ",
+				"		{\"Flip_Multi_New\":",
+				"		  ",
+				"		 [ ",
+				"			 { ",
+				"//-------------------------------------------- ",
+				"//-------<(  Global Settings  )>-------				  ",
+				"//--------------------------------------------				  ",
+				"//▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄					  ",
+				"				\"main_background_color\":\"\", // This will change the background color only, not the card color. Leave blank for no color ",
+				"     			\"top_margin\":\"20px\", ",
+				"				//\"flip_box_height\":\"\", //Default is 320px <- Not used, keep commented out: if needed will add to future version ",
+				"//▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄				  ",
+				"//-------------------------------------------- ",
+				"//-------<(  Card One setting begin  )>-------				  ",
+				"//--------------------------------------------				  ",
+				"				\"card_01_background_color\":\"\", // Leave blank for no color ",
+				"				\"card_01_front_color\":\"\", // Leave blank for default beige color  ",
+				"				\"card_01_back_color\":\"\", // Leave blank for default beige color  ",
+				"				 // If header text is needed: No header will display unless \"card_01_header_title\" has text ",
+				"					\"card_01_header_text_color\":\"\", ",
+				"					\"card_01_header_title\":\"\", //Modal 01 Front ",
+				"					\"card_01_header_align\":\"center\", ",
+				"					\"card_01_header_font\":\"jb1\", // Use: jb1 - jb6 ",
+				"					//\"card_01_header_background_color\":\"\", <- Not used, keep commented out: if needed will add to future version	 ",
+				"				  ",
+				"				 // If footer text is needed: No footer will display unless \"card_01_footer_title\" has text ",
+				"					\"card_01_footer_text_color\":\"\", ",
+				"					\"card_01_footer_title\":\"\",//select image to flip ",
+				"					\"card_01_footer_align\":\"center\", ",
+				"					\"card_01_footer_font\":\"jb1\", // Use: jb1 - jb6				  ",
+				"				 	//\"card_01_footer_background_color\":\"\", <- Not used, keep commented out: if needed will add to future version	 ",
+				"//-------------------------------------------- ",
+				"//-------<(   Card One setting end   )>-------				  ",
+				"//--------------------------------------------	 ",
+				"//▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ ",
+				"//-------------------------------------------- ",
+				"//-------<(  Card Two setting begin  )>-------				  ",
+				"//--------------------------------------------				  ",
+				"				\"card_02_background_color\":\"\", // Leave blank for no color ",
+				"				\"card_02_front_color\":\"\", // Leave blank for default beige color  ",
+				"				\"card_02_back_color\":\"\", // Leave blank for default beige color  ",
+				"				 // If header text is needed: No header will display unless \"card_02_header_title\" has text ",
+				"					\"card_02_header_text_color\":\"\", ",
+				"					\"card_02_header_title\":\"\", //Modal 01 Front ",
+				"					\"card_02_header_align\":\"center\", ",
+				"					\"card_02_header_font\":\"jb1\", // Use: jb1 - jb6 ",
+				"					//\"card_01_header_background_color\":\"\", <- Not used, keep commented out: if needed will add to future version	 ",
+				"				  ",
+				"				 // If footer text is needed: No footer will display unless \"card_01_footer_title\" has text ",
+				"					\"card_02_footer_text_color\":\"\", ",
+				"					\"card_02_footer_title\":\"\",//select image to flip ",
+				"					\"card_02_footer_align\":\"center\", ",
+				"					\"card_02_footer_font\":\"jb1\", // Use: jb1 - jb6				  ",
+				"				 	//\"card_01_footer_background_color\":\"\", <- Not used, keep commented out: if needed will add to future version	 ",
+				"//-------------------------------------------- ",
+				"//-------<(   Card Two setting end   )>-------				  ",
+				"//--------------------------------------------				  ",
+				"//▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ ",
+				"//-------------------------------------------- ",
+				"//-------<( Card Three setting begin )>-------				  ",
+				"//--------------------------------------------				  ",
+				"				\"card_03_background_color\":\"\", // Leave blank for no color ",
+				"				\"card_03_front_color\":\"\", // Leave blank for default beige color  ",
+				"				\"card_03_back_color\":\"\", // Leave blank for default beige color  ",
+				"				 // If header text is needed: No header will display unless \"card_03_header_title\" has text ",
+				"					\"card_03_header_text_color\":\"\", ",
+				"					\"card_03_header_title\":\"\", //Modal 01 Front ",
+				"					\"card_03_header_align\":\"center\", ",
+				"					\"card_03_header_font\":\"jb1\", // Use: jb1 - jb6 ",
+				"					//\"card_01_header_background_color\":\"\", <- Not used, keep commented out: if needed will add to future version	 ",
+				"				  ",
+				"				 // If footer text is needed: No footer will display unless \"card_01_footer_title\" has text ",
+				"					\"card_03_footer_text_color\":\"\", ",
+				"					\"card_03_footer_title\":\"\",//select image to flip ",
+				"					\"card_03_footer_align\":\"center\", ",
+				"					\"card_03_footer_font\":\"jb1\", // Use: jb1 - jb6				  ",
+				"				 	//\"card_01_footer_background_color\":\"\", <- Not used, keep commented out: if needed will add to future version	 ",
+				"//-------------------------------------------- ",
+				"//-------<(  Card Three setting end  )>-------				  ",
+				"//--------------------------------------------	 ",
+				"//▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄	 ",
+				"				  ",
+				
+				"			 }, ",
+				"			  ",
+				"// Place up to 6 snippets below. ",
+				"// For one flip card place two snippets, two flip cards place four and three flip cards place six			  ",
+				"/*			  ",
+				"	<< The only snippets that will work in the flipcrd at the moment are the following. >> ",
+				"		List v1 ",
+				"		Paragraph(s)_v2.0 ",
+				"		Heading v1 ",
+				"		Image With Text  v2.0 ",
+				"			(Currently the Image With Text  v2.0 will only alow the image to be placed top or bottom of the text ",
+				"			 this is do to the size of the flip card) ",
+				"*/ ",
+				"//▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐			  ",
+				"//------------------------------------------------------------------ ",
+				"// Card one front begin			  ",
+				"//------------------------------------------------------------------ ",
+				"// Place snippet below this line ",
+				"					  ",
+				"			  ",
+				"//------------------------------------------------------------------ ",
+				"// Card one front end			  ",
+				"//------------------------------------------------------------------			  ",
+				"//▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀		  ",
+				"//------------------------------------------------------------------ ",
+				"// Card one back begin			  ",
+				"//------------------------------------------------------------------			  ",
+				"// Place snippet below this line ",
+				"		 ",
+				
+				"//------------------------------------------------------------------ ",
+				"// Card one back end			  ",
+				"//------------------------------------------------------------------			  ",
+				"//▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐ ",
+				"//------------------------------------------------------------------ ",
+				"// Card two front begin			  ",
+				"//------------------------------------------------------------------			  ",
+				"// Place snippet below this line ",
+				
+				"					  ",
+				
+				"//------------------------------------------------------------------ ",
+				"// Card two front end			  ",
+				"//------------------------------------------------------------------ ",
+				"//▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀			  ",
+				"//------------------------------------------------------------------ ",
+				"// Card two back begin			  ",
+				"//------------------------------------------------------------------			  ",
+				"// Place snippet below this line ",
+				
+				"		  ",
+				"			  ",
+				"//------------------------------------------------------------------ ",
+				"// Card two back end			  ",
+				"//------------------------------------------------------------------	 ",
+				"//▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐			  ",
+				"//------------------------------------------------------------------ ",
+				"// Card three front begin			  ",
+				"//------------------------------------------------------------------			  ",
+				"// Place snippet below this line ",
+				
+				"			  ",
+				"//------------------------------------------------------------------ ",
+				"// Card three front end			  ",
+				"//------------------------------------------------------------------				  ",
+				"//▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀ ",
+				"//------------------------------------------------------------------ ",
+				"// Card three back begin			  ",
+				"//------------------------------------------------------------------			  ",
+				"// Place snippet below this line ",
+				
+				"			  ",
+				"			  ",
+				"//------------------------------------------------------------------ ",
+				"// Card three back end			  ",
+				"//------------------------------------------------------------------			  ",
+				"//▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐ ",
+				"		 ], ",
+				"			 ",
+				"		}, ",
+				"//╔══════════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Flip_Multi_New End )>-------                   ║ ",
+				"//╠══════════════════════════════════════════════════════════╣		 ",
+				"//╚══════════════════════════════════════════════════════════╝			 ",
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+	
+					],
+			//"description": "FlipCard Multi"
+		},
+	
+	
+	
+	
+	
+		"JB Multi Image":
+		{
+			"prefix": "JB_Image_Multi",
+			"body": [
+	
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄				 ",
+				"//╔══════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Multi Image Begin )>-------                ║ ",
+				"//╚══════════════════════════════════════════════════════╝					 ",
+				"	 ",
+				"{\"Image_Multi\": ",
+				" 	[ ",
+				"		{ ",
+				"			\"main_background_color\":\"\", // #efefef === 239,239,239 ",
+				"			\"main_border_radius\":\"\", ",
+				"			\"main_border_style\":\"\", ",
+				"			\"main_border_color\":\"\", ",
+				"			\"main_border_width\":\"\", ",
+				"			\"total_images\":\"1\", // 1, 2 or 3 ",
+				"		}, ",
+	
+				"		{// image_one ",
+				"			\"image_file\":\"$1\", ",
+				"			\"image_file_tag\":\"\", //Alt Tag Text ",
+				"			\"image_width\":\"90%\", // default is 90% ",
+				"			\"image_top_margin\":\"10px\", // default is 10px ",
+				"			\"image_border_radius\":\"\",  ",
+				"			// For radius use px or %. ",
+				"			// if you want to control each side corner  ",
+				"			// use the following:  20px 20px 0px 0px This will round off the top left and right and keep the bottom square ",
+				"			//                     tl   tr   br  bl  ",
+				"			// tl = top left, tr = top right, br = bottom right, bl = bottom left. ",
+				"			 ",
+				"			\"image_border_style\":\"\", ",
+				"			\"image_border_color\":\"\", ",
+				"			\"image_border_width\":\"\", ",
+				"		}, ",
+	
+				"		{//image_two ",
+				"			\"image_file\":\"\", ",
+				"			\"image_file_tag\":\"\", //Alt Tag Text ",
+				"			\"image_width\":\"90%\", // default is 90% ",
+				"			\"image_top_margin\":\"10px\", // default is 10px ",
+				"			\"image_border_radius\":\"\", ",
+				"			// For radius use px or %. ",
+				"			// if you want to control each side corner  ",
+				"			// use the following:  20px 20px 0px 0px This will round off the top left and right and keep the bottom square ",
+				"			//                     tl   tr   br  bl  ",
+				"			// tl = top left, tr = top right, br = bottom right, bl = bottom left.			 ",
+				"			\"image_border_style\":\"\", ",
+				"			\"image_border_color\":\"\", ",
+				"			\"image_border_width\":\"\", ",
+				"		}, ",
+	
+				"		{//image_three ",
+				"			\"image_file\":\"\", ",
+				"			\"image_file_tag\":\"\", //Alt Tag Text ",
+				"			\"image_width\":\"90%\", // default is 90% ",
+				"			\"image_top_margin\":\"10px\", // default is 10px ",
+				"			\"image_border_radius\":\"\", ",
+				"			// For radius use px or %. ",
+				"			// if you want to control each side corner  ",
+				"			// use the following:  20px 20px 0px 0px This will round off the top left and right and keep the bottom square ",
+				"			//                     tl   tr   br  bl  ",
+				"			// tl = top left, tr = top right, br = bottom right, bl = bottom left.			 ",
+				"			\"image_border_style\":\"\", ",
+				"			\"image_border_color\":\"\", ",
+				"			\"image_border_width\":\"\", ",
+				"		},		 ",
+				"	], ",
+				"},			 ",
+				"//╔══════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Multi Image End )>-------                  ║ ",
+				"//╠══════════════════════════════════════════════════════╣		 ",
+				"//╚══════════════════════════════════════════════════════╝ ",
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",			
+	
+					],
+			//"description": "JB Multiple Image"
+		},
+	
+	
+	
+	
+	
+		"JB Image with Text List":
+		{
+			"prefix": "JB_image_w_text",
+			"body": [
+	
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄	 ",
+				"//╔══════════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Image w/Text/List Begin )>-------  11/21/2019  ║ ",
+				"//╚══════════════════════════════════════════════════════════╝ ",
+				"		 ",
+				"{\"image_w_text\": ",
+				"	 ",
+				"		[ ",
+				"			// make sure any images are in the images folder for the module you are in. ",
+				"			{ // 0 ",
+				"				\"image_name\":\"$1\", ",
+				"				\"image_w_text_tag\":\"This is a text tag\", ",
+				"				\"border_style\":\"\", //solid, dashed, dotted, double, ridge, groove, ",
+				"				\"border_height\":\"\",   // \"\" or 0px  will have no border, add a number with px for a border ",
+				"				\"border_color\":\"\", ",
+				"			}, ",
+				"				 ",
+				"			{ // 1 ",
+				"				\"image_position\":\"right\",// When using the Flip Card only top and bottom are avilable  left ",
+				"				// top, bottom, left, right ",
+				"				\"image_aligmnent\":\"center\", ",
+				"				// left, center, right  ",
+				"			}, ",
+				"				 ",
+	
+				"			{\"image_size\":\"50%\"}, // 2 ",
+				"				// use either percentages of pixels. For Percent \"50%\" - for Pixels use \"50px\"		 ",
+				"			{ // 3 ",
+				"				 ",
+				"				\"image_text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.\", ",
+				"				 ",
+				"				\"image_list\": // If no list is required then leave the \"img_lstText\" line commented out with the //.  ",
+				"							  // To enable the list remove the //	 ",
+				"					[ ",
+				"						// to add another list item, copy the previous lstText and paste it below the last lstText item DO NOT REMOVE THE // on this line. ",
+				"						//================================================================================================================================= ",
+				"						// If no list is required then leave the \"img_lstText\" line commented out with the //.  ",
+				"					    // To enable the list remove the // ",
+				"						//================================================================================================================================= ",
+				"						{\"img_lstText\":\"List item 1\"}, ",
+				"						{\"img_lstText\":\"List item 2\"}, ",
+				"						{\"img_lstText\":\"List item 3\"}, ",
+				"						{\"img_lstText\":\"List item 4\"}, ",
+				"					], ",
+				"								\"list_position\":\"bottom\", // top, bottom ",
+				"								\"top_margin\":\"10px\", ",
+				"								\"Type_of_List\":\"ol\",    //ol = is an ordered list with numbers,  ul = unordered list with bullets ",
+				"								 ",
+				"								//------------------------------------------------------------------- ",
+				"								//  -------<( to customize the ul list use the folowing: )>------- ",
+				"								\"ul_type\":\"\",	// disc, circle, square, none, \"\" will be the default ",
+				"								//------------------------------------------------------------------- ",
+				"								 ",
+				"								//------------------------------------------------------------------- ",
+				"								//  -------<( to customize the ol list use the folowing: )>------- ",
+				"								\"ol_type\":\"\",  // 1, a, A, i, I, none \"\" will be the default ",
+				"								//------------------------------------------------------------------- ",
+				"								 ",
+				"							// In order to change the bullet or number size of the list you will need to use pixel sizes ",
+				"							// Below are the pixel sizes for each of the h1 - h6 tags. use the pixel size to change the \"List_Text_Size\" ",
+				"								\"List_Text_Size\":\"jb1\",    // jb1, jb2, jb3, jb4, jb5, jb6: all of these are 16px ",
+				"				 ",
+				"								\"list_border_style\":\"\",  //solid, dashed, dotted, double, ridge, groove, ",
+				"								\"list_border_height\":\"\", // \"\" or 0px  will have no border, add a number with px for a border ",
+				"								\"list_border_color\":\"\", ",
+				"				 ",
+				"				\"image_text_below\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit\", ",
+				"				\"image_text_below_top_margin\":\"10px\", ",
+				"								 ",
+	
+				"			}, ",
+	
+				"			{// Use image font size jb1-jb7 for custom style, color, ect. // 4 ",
+	
+				"				\"image_text_color\":\"#bf0d3f\",  ",
+				"			//-------------------------------------------------------------------	 ",
+				"				\"image_text_style\":\"normal\",  ",
+				"				// normal, italic, oblique ",
+				"				\"image_text_variant\":\"normal\", ",
+				"				// normal, small-caps ",
+				"				\"image_text_weight\":\"normal\", // If Image_font_style is jb2 or jb5 bold will have no effect, since these are already bold ",
+				"				// normal, bold:  font-weight: normal; ",
+				"				\"image_text_top_margin\":\"0%\", // use a percentage, This controls the text vertical placement. ",
+				"				 ",
+				"				\"image_text_padding\":\"0px\", ",
+				"			}, ",
+				"			 ",
+				"			{ ",
+				"				\"image_text_alignmnet\":\"left\",   ",
+				"				// left, center, right, justify ",
+				"				\"image_font_size\":\"jb1\", ",
+				"			}, ",
+				"				 ",
+				"			 ",
+				"			{ ",
+				"				\"top_margin\":\"0px\",   // To move the image up use a negative number: A positive number will move it down. ",
+				"				\"snippet_top_margin\":\"10px\", // Moves the entire snippet down or up ",
+				"			}, ",
+				"				 ",
+				"			{\"background_color\":\"\"}, ",
+				"				// You can use color names or #ffffff ",
+				"			{\"image_radius\":\"\"},  ",
+				"				// for a image with squared edges use 0% : for a circle use 50% for rounded edges use 10% thru 50% ",
+				"			    // If the image is a square image using 50% will make a circle, any other dimension will give an oval ",
+				"		], ",
+				"},		 ",
+				"//╔══════════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Image w/Text/List End )>-------                ║ ",
+				"//╚══════════════════════════════════════════════════════════╝				 ",
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+	
+	
+	
+					],
+			//"description": "Image with Text and List"
+		},
+	
+	
+	
+	
+	/*
+		"JB Image With Text":
+		{
+			"prefix": "JB_image_w_text",
+			"body": [
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄	 ",
+				"//╔══════════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Image w/Text Begin )>-------                   ║ ",
+				"//╚══════════════════════════════════════════════════════════╝ ",
+				"		 ",
+				"{\"image_w_text\": ",
+				"	 ",
+				"		[ ",
+				"			// make sure any images are in the images folder for the module you are in. ",
+				"			{  ",
+				"				\"image_name\":\"$1\", ",
+				"				\"image_w_text_tag\":\"\", ",
+				"				\"border_style\":\"\", //solid, dashed, dotted, double, ridge, groove, ",
+				"				\"border_height\":\"\",   // \"\" or 0px  will have no border, add a number with px for a border ",
+				"				\"border_color\":\"\", ",
+				"			}, ",
+				"				 ",
+				"			{ ",
+				"				\"image_position\":\"top\",// When using the Flip Card only top and bottom are avilable ",
+				"				// top, bottom, left, right ",
+				"				\"image_aligmnent\":\"center\", ",
+				"				// left, center, right  ",
+				"			}, ",
+				"				 ",
+	
+				"			{\"image_size\":\"100%\"}, ",
+				"				// use either percentages of pixels. For Percent \"50%\" - for Pixels use \"50px\"		 ",
+				"			{\"image_text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Image of the Statue of Liberty\"}, ",
+	
+				"			{// Use image font size jb1-jb7 for custom style, color, ect. ",
+	
+				"				\"image_text_color\":\"#000000\",  ",
+				"			//-------------------------------------------------------------------	 ",
+				"				\"image_text_style\":\"normal\",  ",
+				"				// normal, italic, oblique ",
+				"				\"image_text_variant\":\"normal\", ",
+				"				// normal, small-caps ",
+				"				\"image_text_weight\":\"normal\", // If Image_font_style is jb2 or jb5 bold will have no effect, since these are already bold ",
+				"				// normal, bold:  font-weight: normal; ",
+				"				\"image_text_top_margin\":\"10%\", // use a percentage, This controls the text vertical placement. ",
+				"			}, ",
+				"			 ",
+				"			{ ",
+				"				\"image_text_alignmnet\":\"left\", ",
+				"				// left, center, right, justify ",
+				"				\"image_font_size\":\"jb1\", ",
+				"			}, ",
+				"				 ",
+				"			 ",
+				"			{\"top_margin\":\"20px\"}, ",
+				"				// To move the image up use a negative number: A positive number will move it down. ",
+				"			{\"background_color\":\"\"}, ",
+				"				// You can use color names or #ffffff ",
+				"			{\"image_radius\":\"\"},  ",
+				"				// for a image with squared edges use 0% : for a circle use 50% for rounded edges use 10% thru 50% ",
+				"			    // If the image is a square image using 50% will make a circle, any other dimension will give an oval ",
+				"		], ",
+				"},		 ",
+				"//╔══════════════════════════════════════════════════════════╗ ",
+				"//║ -------<( Image w/Text End )>-------                     ║ ",
+				"//╚══════════════════════════════════════════════════════════╝				 ",
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+					],
+			//"description": "Image with text"
+		},
+	*/
+		"JB Question Comp":
+		{
+			"prefix": "JB_Question_Comp",
+			"body": [
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",	  
+				"//╔═════════════════════════════════════════════════════════════════════════╗",
+				"//║ -------<( Question(s) Begin )>-------   added extra image               ║",
+				"//╚═════════════════════════════════════════════════════════════════════════╝",			
+				"	{\"Question_Comp\":",
+				"		[",
+				"			{// Question setup",
+				"				\"Question_type\":\"1\", // 1 = Single answer, 2 = Multiple answer",
+				"				\"text_color\":\"#000000\",",
+				"				\"question_size\":\"jb1\", // For question text and feedback text",
+				"				\"background_color\":\"\", //#FBF6D9",
+				"				\"border_color\":\"black\",",
+				"				\"border_weight\":\"thin\", // thin, medium thick, or pixel size \"10px\"\"",
+				"				\"border_style\":\"solid\", // solid, dashed, dotted, double",
+				"				\"border_radius\":\"10px\", // 0px = no radius",
+				"				\"question_align\":\"left\",",
+				"				\"feedback_align\":\"left\",",	
+				"				\"top_margin\":\"10px\",",
+				"				\"image\":\"What-do-you-think.png\", // What-do-you-think.png    Lets Review.jpg",
+				"				\"image_alt_text\":\"\",",
+				"				\"question\":\"This is for question number 1\",",
+				"				\"question_image\":\"\", //image file",
+				"				\"question_image_placement\":\"none\", // none, top or bottom",
+				"				\"question_image_alt_tag\":\"\",",
+				"			},",
+							
+				"			{\"paragraph_top_text\":",
+				"			 	[",
+				"					{\"paragraph_top\":\"\"}, //Paragraph 1 for the top",
+				"					{\"paragraph_top\":\"\"}, //Paragraph 2 for the top",
+				"					{\"paragraph_top\":\"\"}, //Paragraph 3 for the top",
+				"					{\"paragraph_top\":\"\"}, //Paragraph 4 for the top",
+				"				],",
+				"			},",
+							
+				"			{\"qList\":",
+				"				[",
+				"					{//list_settings",
+				"						\"qList_on_off\":\"off\", // off, on  | to display a list use \"on\", for no list use \"off\"",
+				"						\"align_text\":\"left\",",
+				"						\"Type_of_List\":\"ol\",",
+				"					  //-------------------------------------------------------------------",
+				"					  //  -------<( to customize the ul list use the folowing: )>-------",
+				"					  //\"ul_type\":\"\",	// disc, circle, square, none, \"\" will be the default",
+				"					  //-------------------------------------------------------------------",
+				"								
+				"					  //-------------------------------------------------------------------",
+				"					  //  -------<( to customize the ol list use the folowing: )>-------",
+				"						\"ol_type\":\"\",  // 1, a, A, i, I, \"\" will be the default
+				"					  //-------------------------------------------------------------------",
+				"						\"Heading_Text_Size\":\"h1\", // h1, h2, h3, h4, h5, h6	",					
+				"					},",
+									
+				"					// to add another list item, copy the previous lstText and paste it below the last lstText item",
+				"					{\"lstText\":\"List One\"},",
+				"					{\"lstText\":\"List Two\"},", 
+				"					{\"lstText\":\"List Three\"},", 
+				"					{\"lstText\":\"List Four\"},",  
+				
+				"				],",
+				"			},",
+							
+				
+				"			{\"paragraph_bottom_text\": // If you do not want any paragraph text keep the fields blank like this \"\"",
+				"			 // if you need more space between paragraphs you can add: {\"paragraph_bottom\":\"<br>\"},",
+				"			 	[",
+				"					{\"paragraph_bottom\":\"Paragraph 1 for the bottom\"}, //Paragraph 1 for the bottom",
+				"					{\"paragraph_bottom\":\"Paragraph 2 for the bottom\"}, //Paragraph 2 for the bottom",
+				"					{\"paragraph_bottom\":\"Paragraph 3 for the bottom\"}, //Paragraph 3 for the bottom",
+				"				],",
+				"			},",			
+							
+				
+				"			{\"question_answers\":",
+							 
+				"				[// For a single answer question only one \"true_false\" value should be true.",
+				"					{\"q_answer\":\"Answer multiple 1\", \"true_false\":\"true\",\"q_feedback\":\"feedback for question 1\",},",
+				"					{\"q_answer\":\"Answer multiple 2\", \"true_false\":\"false\",\"q_feedback\":\"feedback for question 2\",},",
+				"					{\"q_answer\":\"Answer multiple 3\", \"true_false\":\"false\",\"q_feedback\":\"feedback for question 3\",},",
+				"					{\"q_answer\":\"Answer multiple 4\", \"true_false\":\"false\",\"q_feedback\":\"feedback for question 4\",},",
+				"					{\"q_answer\":\"Answer multiple 5\", \"true_false\":\"false\",\"q_feedback\":\"feedback for question 5\",},",
+				"					{\"q_answer\":\"Answer multiple 6\", \"true_false\":\"false\",\"q_feedback\":\"feedback for question 6\",},",
+				"				],",
+				
+				
+				"			},",
+							
+				"			{",
+				"				// Feedback\",
+				"				\"correct_feedback\":\"That's correct!\",",
+				"				\"correct_remediation\":\"Correct feedback remediation\",",
+								
+				"				\"incorrect_feedback\":\"Sorry, That's incorrect.\",",
+				"				\"incorrect_remediation\":\"Incorrect feedback remediation\",",
+								
+				"				\"correct_incorrect_font_size\":\"h2\", // jb1-jb6, h1- h6",
+								
+				"				\"Additional_feedback\":\"Additional feedback\", // If no additional feedback is needed leave blank /"/"",
+				"				\"Additional_font_size\":\"jb1\", // jb1-jb6",
+				"			},",
+							
+				"		],",
+				"	},",
+						
+				"//╔═════════════════════════════════════════════════════════════════════════╗",
+				"//║ -------<( Question(s) End )>-------                                     ║",
+				"//╚═════════════════════════════════════════════════════════════════════════╝",				
+				"//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀",
+					],
+			//"description": "Question Comp"
+		},
+	
+	
+	
+	
+	
+		"JB Info_Box":
+		{
+			"prefix": "JB_Info_Box",
+			"body": [
+						
+	"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",				
+	"//╔═════════════════════════════════════════════════════╗",
+	"//║ -------<( Info Contents Begin )>------- 01/25/2021  ║",
+	"//╚═════════════════════════════════════════════════════╝",
+				
+	"{\"Info_Box\":",
+	"	[",
+	"	   {\"Info_Box_Text\":\"$1Test for information box number 1\"},",
+	"	   {\"Text_Color\":\"#000000\"},",
+	"	   {\"Border_Color\":\"orange\"},",
+	"	   {\"Border_Style\":\"solid\"}, 			//solid, dashed, dotted, double, groove, inset, outset, ridge",
+	"	   {\"Border_Thickness\":\"5px\"},        	// Default is 5px",
+	"	   {\"Text_Alignment\":\"center\"},			// left, center, right, justify",
+	"	   {\"Background_Color\":\"#ffffff\"},",
+	"//-------------------------------------------------------------------------",
+	"	   {\"Icon\":\"information.png\",\"Icon_alt\":\"\"},",
+	"		  //--<( Avaiable Icons )>--",
+	"		  // information.png | help.png | about_btn_color.png | gear.png | terms.png |",
+	"		  // privacy.png | video.png | share.png | badge.png | bookmark.png	",
+	"	   {\"Icon_On_Off\":\"block\"},			// block = on, none = off",
+	"//-------------------------------------------------------------------------	",
+	   
+	"	   {",
+	"//-------<( The below settings are for the pop up dialog )>-------",
+	"			\"selectable\":\"true\",	// true, false   If false no pop up dialog will appear",
+	"		   \"title_text\":\"Info Box One\",",
+	"		  \"title_text_color\":\"#ffffff\",",
+	"		   \"title_text_size\":\"26px\",",
+	"		   \"title_text_alignment\":\"left\",",
+	"	   //------------------------------------------------------------------------	",
+	"		   //\"body_text\":\"This is text that will go into the pop up dialog.\",",
+	"		   \"body_text_color\":\"#000000\",",
+	"		   \"body_text_size\":\"20px\",",
+	"		   \"body_text_alignment\":\"left\",",
+	"	   //------------------------------------------------------------------------",		
+	"		   \"Header_color\":\"#0070b0\",",
+	"		   \"Body_color\":\"#ffffff\",",
+	"		   \"Footer_color\":\"#ffffff\",",
+	"		   \"Footer_alignment\":\"left\",",
+	"	   },",
+	"	   
+	"	   //------------------------------------------------------------------------",
+	"	   //Body dialog text. Each line is a new sentene or paragragh. Copy or delete lines as needed.",
+	"	   //-< Keep the body text in between these lines >-",
+	"	   //▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄",	
+		   
+	"		   {\"body_text\":\"This is text that will go into the pop up dialog sentence one.\"},",
+	"		   {\"body_text\":\"This is text that will go into the pop up dialog sentence two.\"},",
+	"		   {\"body_text\":\"This is text that will go into the pop up dialog sentence three.\"},",
+	"		   {\"body_text\":\"This is text that will go into the pop up dialog sentence four.\"},",
+		   
+	"	   //▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄",	
+	"	   //-< Keep the body text in between these lines >-",
+	"	   //------------------------------------------------------------------------",
+	"  ],",
+	
+	"},",
+	   
+	"//╔═════════════════════════════════════════════════════╗",
+	"//║ -------<( Info Contents End )>-------               ║",
+	"//╠═════════════════════════════════════════════════════╣",		
+	"//╚═════════════════════════════════════════════════════╝",			
+	"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+	
+	
+	
+				],
+			//"description": "Info Box"
+		},
+	
+	
+	
+	
+	
+	
+	
+		"JB Divider":
+		{
+			"prefix": "JB_Divider",
+			"body": [
+	
+			  " // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+			  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  " // ║ -------<( Divider Begin )>-------  01/25/2021                                     ║",
+			  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+			  "{\"Divider\":",
+			  "   [",
+			  "         {\"divider_image\":\"$1\"}, // for the divider image,",
+			  "				{",
+			  "                  \"height\":\"50px\", //height will be the height you want",
+			  "                  \"width\":\"100%\", // For width, use px or %",
+			  "				},",
+			  
+			  "         {\"top_margin\":\"\"},",
+			  "",
+			  "",
+			  "         {\"flip\":\"false\"},  // false is the default, true will flip the image 180 degrees",
+			  "         {\"back_color\":\"\"}, //#00aeef - back_color will be the color you want",
+			  "",
+			  "				{",
+			  "                  \"Line_Display\":\"true\", //true , false",
+			  "                  \"Line_Style\":\"solid\", // solid, dashed, dotted, double, ridge, groove,",
+			  "                  \"Line_height\":\"4px\", // For width, use px or %",
+			  "                  \"Line_Color\":\"#000000\", // For width, use px or %",
+			  "                  \"top_margin\":\"0px\", // For width, use px or %",
+			  "				},",		  
+	
+			  "   ],",
+			  "},",
+			  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  " // ║ -------<( Divider End )>-------                                                   ║",
+			  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+			  " // ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ",
+			],
+	
+		},
+	
+	
+	
+		"JB Heading New":
+		{
+			"prefix": "JB_heading",
+			"body": [
+	
+			  " // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+			  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  " // ║ -------<( Heading New Begin )>-------   01/25/2021                                ║",
+			  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+			  "{\"Heading_New\":",
+			  "   [",
+			  "         {\"sngl_Heading\":\"$1Heading\"},",
+			  "         {\"alignment\":\"center\"},	// left, center, right, justify",
+			  "",
+			  "         {\"top_margin\":\"10px\"},	// negative numbers to move the component up ex  \"-10px\" ",
+			  "                                 // positive numbers to move the component down ex \"10px\" ",		  
+			  "         {\"size\":\"h1\"},	// h1, h2, h3, h4, h5, h6",
+			  "         {\"style\":\"normal\"},	// normal, bold",
+			  "         {\"color\":\"#000000\"},	// Text Color",
+			  "         {\"background_color\":\"#ffffff\"},	// A Color chart is available in the help site.",
+			  "         {\"top_line_color\":\"\"},	// black, red , green, blue, white, tan",
+			  "         {\"border_background_color\":\"\"},	// black, red , green, blue, white, tan",
+			  "         {\"bottom_line_color\":\"\"},	// black, red , green, blue, white, tan",
+				
+			  "   ],",
+			  "},",
+			  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  " // ║ -------<( Heading New End )>-------                                               ║",
+			  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+			  " // ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ",
+			],
+	
+		},
+	
+	
+	
+	
+
+	
+		"JB Carousel": {
+			"prefix": "JB_Carousel",
+			"body": [
+			  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄			",
+			  "//╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  "//║ -------<( Carousel New Begin )>-------       01/25/2021                           ║",
+			  "//╚═══════════════════════════════════════════════════════════════════════════════════╝			",
+			  "		{\"Carousel\":",
+			  "		 	[",
+			  "			// Configuration",
+			  "				",
+			  "				",
+			  "				{",
+			  "					\"height\":\"50px\",",
+			  "					\"top_margin\":\"20px\",",
+			  "					//negative numbers to move the component up ex \"-10px\" ",
+			  "					//positive numbers to move the component down ex \"10px\"",
+			  "					\"back_color\":\"#ffffff\",",
+			  "					\"Text_align\":\"left\",// Align the paragraph: left, center, right, justify",
+			  "					\"slide_top_margin\":\"10px\",",
+			  "					\"repeat\":\"false\", // false, true",
+			  "				},	",
+			  "//▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄			",
+			  "",
+			  "				",
+			  "//-------<( Slide Begin )>-------					",
+			  "				{",
+			  "",
+			  "					\"Slide\": ",
+			  "						{",
+			  "						//-------<( Image )>-------	",
+			  "						// For text only leave the Image field blank: \"\"",
+			  "							\"Image\":\"$1\", // leave blank for no image",
+			  "							\"image_size\":\"50%\", //50% use percent or px",
+			  "							\"Image_tag\":\"\", //Alt Tag Text",
+			  "							",
+			  "							\"Text\":\"Place text here One\",",
+			  "							",
+			  "							\"Text_Font_Size\":\"jb1\",  // jb1 - jb6 , h1 - h6",
+			  "							\"Text_Color\":\"#000000\",",
+			  "							\"Padding\":\"10px\",",
+			  "							",
+			  "							",
+			  "						},",
+			  "					",
+			  "					",
+			  "				},",
+			  "//-------<( Slide End )>-------	",
+			  "				",
+			  "//-------<( Slide Begin )>-------				",
+			  "				{",
+			  "",
+			  "					\"Slide\": ",
+			  "						{",
+			  "						//-------<( Image )>-------	",
+			  "						// For text only leave the Image field blank: \"\"	",
+			  "							\"Image\":\"\", // leave blank for no image",
+			  "							\"image_size\":\"50%\", //50% use percent or px",
+			  "							\"Image_tag\":\"\", //Alt Tag Text",
+			  "							",
+			  "							\"Text\":\"Place text here Two\",",
+			  "							\"Text_Font_Size\":\"h1\",  // jb1 - jb6 , h1 - h6",
+			  "							\"Text_Color\":\"#ffffff\",",
+			  "							\"Padding\":\"10px\",",
+			  "						},",
+			  "					",
+			  "					",
+			  "				},",
+			  "//-------<( Slide End )>-------	",
+			  "				",
+			  "//-------<( Slide Begin )>-------				",
+			  "				{",
+			  "",
+			  "					\"Slide\": ",
+			  "						{",
+			  "						//-------<( Image )>-------	",
+			  "						// For text only leave the Image field blank: \"\"	",
+			  "							\"Image\":\"\", // leave blank for no image",
+			  "							\"image_size\":\"50%\", //50% use percent or px",
+			  "							\"Image_tag\":\"\", //Alt Tag Text",
+			  "							\"Text\":\"Place text here Three\",",
+			  "							\"Text_Font_Size\":\"jb2\",  // // jb1 - jb6 , h1 - h6",
+			  "							\"Text_Color\":\"#ffffff\",",
+			  "							\"Padding\":\"10px\",",
+			  "						},",
+			  "					",
+			  "					",
+			  "				},",
+			  "//-------<( Slide End )>-------	",
+			  "			",
+			  "//▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄		",
+			  "			],",
+			  "		},			",
+			  "			",
+			  "//╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  "//║ -------<( Carousel New End )>-------                                              ║",
+			  "//╚═══════════════════════════════════════════════════════════════════════════════════╝		",
+			  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
+			],
+			//"description": "Carousel"
+		  },
+	
+	
+		  "JB Video": {
+			"prefix": "JB_Video",
+			"body": [
+			  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄			",
+			  "//╔══════════════════════════════════════════════════════╗",
+			  "//║ -------<( Video Begin )>-------   01/25/2021         ║",
+			  "//╚══════════════════════════════════════════════════════╝",
+			  "// @@@ Currently does not work in the carousel @@@	",
+			  "			",
+			  "	{\"Video_Files_New\":",
+			  "	 	[",
+			  "			",
+			  "			{",
+			  "				\"Video\":\"$1http://ry6g4c.cloud.influxis.com/SourceContent/SRI_500_Overview.mp4\",",
+			  "				\"Expert_View\":\"no\",  // yes / no",
+			  "				\"Expert_View_Alt\":\"The is for the expert view video series\",",
+			  "				\"top_margin\":\"20px\",",
+			  "				\"back_color\":\"#ffffff\", //#00aeef",
+			  "				",
+			  "				\"Transcript_Text_font\":\"jb1\",",
+			  "				\"Transcript_Text_align\":\"left\",",
+			  "				\"Transcript_Text_color\":\"#000000\",",
+			  "				",
+			  "				\"Person_font\":\"jb2\",",
+			  "				\"Person_align\":\"left\",",
+			  "				\"Person_text_color\":\"#000000\",",
+			  "				\"Person_underline\":\"\", // no underline = \"\", underline = \"u\"",
+			  "				",
+			  "			}, ",
+			  "	",
+			  "			{",
+			  "				\"Person\":\"Person One:\", // If no person is speaking list blank. \"\",",
+			  "				\"Transcript_Text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.\",",
+			  "			},",
+			  "			",
+			  "			{",
+			  "				\"Person\":\"Person Two:\", // If no person is speaking list blank. \"\",",
+			  "				\"Transcript_Text\":\"Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante.\",",
+			  "			},			",
+			  "			",
+			  "			{",
+			  "				\"Person\":\"\", // If no person is speaking list blank. \"\",",
+			  "				\"Transcript_Text\":\"Hello, how are you?. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.\",",
+			  "			},				",
+			  "",
+			  "			{",
+			  "				\"Person\":\"\", // If no person is speaking list blank. \"\",",
+			  "				\"Transcript_Text\":\"Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante.\",",
+			  "			},				",
+			  "			",
+			  "			",
+			  "		],",
+			  "	},",
+			  "//╔══════════════════════════════════════════════════════╗",
+			  "//║ -------<( Video End )>-------                        ║",
+			  "//╠══════════════════════════════════════════════════════╣		",
+			  "//╚══════════════════════════════════════════════════════╝				",
+			  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
+			],
+			//"description": "Video Player"
+		  },	  
+	
+
+
+
+		  "JB Reference Video": {
+			"prefix": "JB_Reference_Video",
+			"body": [",
+	"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄			",
+	"//╔═══════════════════════════════════════════════════════════════════════════════════╗",
+	"//║ -------<( Video Question/Reflection Question Begin )>-------   08/18/2021         ║",
+	"//╚═══════════════════════════════════════════════════════════════════════════════════╝",
+	"// @@@ Does not work in the carousel @@@	",
+
+	"{\"Video_Reflection\":",
+	"    [",
+
+	"       {",
+	"           \"Video\":\"https://loma.azureedge.net/videos/ACS101/Module%201/Lesson%201/M1_L1_P24_03.mp4\", // Address should start with https://",
+
+	"           \"top_margin\":\"20px\",",
+	"           \"back_color\":\"#ffffff\", //#00aeef",
+	"           ",
+	"           \"Transcript_Text_font\":\"jb1\",",
+	"           \"Transcript_Text_align\":\"left\",",
+	"           \"Transcript_Text_color\":\"#000000\",",
+	"           ",
+	"           \"Person_font\":\"jb2\",",
+	"           \"Person_align\":\"left\",",
+	"           \"Person_text_color\":\"#000000\",",
+	"			  \"Person_underline\":\" \", // no underline = \"\", underline = \"u\"",
+	"//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-",
+	"           \"End_of_lesson\":\"yes\", // yes, no",
+	"//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-",
+	"           \"Reflection_Question\":\"How are changing customer expectations affecting the work that you do?<br><br>How might you use innovation to meet these expectations?\",",
+	"           \"Reflection_Question_Text_Color\":\"white\",",
+	"           \"Reflection_Question_Background_Color\":\"#0070b0\",",
+	"           \"Reflection_Question_Font\":\"jb2\",",
+	"           \"Reflection_Question_Required_Text\":\"- Required -\",",
+	"           \"Reflection_Question_Feedback\":\"Thank you for your thoughts. As Kelly states, customers would like their experiences with us to be easier, faster, and more transparent. They want to use intuitive websites, quickly know if they are approved for coverage, and know exactly what the status is of their claim. Can you stretch your thinking to look at how your experiences with other industries can help your team think differently? Can you help your area streamline processes and capitalize on opportunities? Perhaps you can invite a speaker to help your area drive inspiration.\",",
+
+	"           \"Optional_Questions\":",
+	"            [",
+	"               // {\"OptQuestion\":\"This is optional question one\"}, ",
+	"               // {\"OptQuestion\":\"This is optional question two\"}, ",
+	"               // {\"OptQuestion\":\"This is optional question three\"}, ",
+	"            ],",
+	"           \"OptQuestion_Font\":\"jb2\",",
+
+	"           \"Optional_Question_Text_Color\":\"white\", ",
+	"           \"Optional_Question_Background_Color\":\"orange\",",
+	"           \"Optional_Question_Border_Weight\":\"4px\",",
+	"           \"Optional_Question_Border_Style\":\"dashed\",",
+	"           \"Optional_Question_Border_Color\":\"black\",",
+	"       }, ",
+
+	"       {",
+	"			  \"Person\":\"Person One:\", // If no person is speaking list blank. \"\",",
+	"           \"Transcript_Text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.\",",
+	"       },",
+	"       ",
+	"       {",
+	"			 \"Person\":\"Person Two:\", // If no person is speaking list blank. \"\",",
+	"           \"Transcript_Text\":\"Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante.\",",
+	"       },			",
+	"       ",
+	"       {",
+	"				\"Person\":\" \", // If no person is speaking list blank. \"\",",
+	"           \"Transcript_Text\":\"Hello, how are you?. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.\",",
+	"       },				",
+
+	"       {",
+	"				\"Person\":\" \", // If no person is speaking list blank. \"\",",
+	"           \"Transcript_Text\":\"Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante.\",",
+	"       },				",
+
+	"       ",
+	"       ",
+	"   ],",
+	"	},",
+	"//╔═════════════════════════════════════════════════════════════╗",
+	"//║ -------<( Video Question/Reflection Question End )>-------  ║",
+	"//╠═════════════════════════════════════════════════════════════╣",
+	"//╚═════════════════════════════════════════════════════════════╝",
+	"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+
+		],
+		//"description": "Video Reference Player",
+	  },
+
+
+
+		  
+		  "JB List Text Paragraph":
+		  {
+			  "prefix": "JB_List_text_paragraph",
+			  "body": [
+		  
+				  " // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+				  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+				  " // ║ -------<( List Paragraph Begin )>-------   01/25/2021                             ║",
+				  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+				  "{\"List_text_paragraph\":",
+				  "   [",	
+				  "				{",
+				  "                  \"List_Heading\":\"$1Heading\",",
+				  "                  \"heading_alignment\":\"left\", // left, right, center",
+				  "                  \"heading_style\":\"solid\", // \"\" for default, bold, italic,",
+				  "                  \"heading_underline\":\"4px\", // \"\" for no underline,  solid, dashed, dotted, double",
+				  "                  \"heading_underline_color\":\"\",",
+				  "                  \"heading_underline_height\":\"0px\", // use px number ",
+				  "                  \"heading_color\":\"\",",
+				  "                  \"heading_size\":\"h2\", // h1, h2, h3, h4, h5, h6",
+				  "",
+				  "                  \"paragraph_alignment\":\"left\", // left, right, center",
+				  "                  \"paragraph_text_size\":\"jb1\", // jb1, jb2, jb3. jb4, jb5, jb6: all of these are 16px",
+				  "",
+				  "                  \"paragraph_top_text_color\":\"#000000\",",
+				  "                  \"paragraph_bot_text_color\":\"#000000\",",
+				  "//-----------------------------------------------",
+				  "//-----------------------------------------------",
+				  "                  \"border_color\":\"#000000\",",
+				  "                  \"border_weight\":\"0px\", // Use px example 2px",
+				  "                  \"border_style\":\"solid\", // solid, dashed",
+				  "                  \"border_radius\":\"0px\", // Use px example 5px",
+				  "//-----------------------------------------------",
+				  "//-----------------------------------------------",		
+				  "				},",	
+				  "",
+				  "{\"Top_Paragraphs\":",
+				  "              [",
+				  "                     // to add a paragraph copy the {\"Paragraph_text\":\"One\"},\" then past it below {\"Paragraph_text\":\"One\"},",
+				  "                     // leave blank \"\" if there is no paragraph",
+				  "                     {\"Paragraph_text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.\"},",
+				  "                     {\"Paragraph_text\":\"Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.\"},",
+				  "              ],",
+				  "},",
+				  "",
+				  "{\"align_text\":\"left\"}, // Do not alter or delete, this field will be phased out later.",
+				  "{",
+
+                "						\"Type_of_List\":\"ul\",    //\"\" = no bullet list,  ol = is an ordered list with numbers,  ul = unordered list with bullets",
+
+
+				  "                   //-------------------------------------------------------------------",
+				  "                   //  -------<( to customize the ul list use the folowing: )>-------",		
+				  "                   \"ul_type\":\"\", // disc, circle, square, none, \"\" will be the default",
+				  "                   //-------------------------------------------------------------------",
+				  "",
+				  "                   //-------------------------------------------------------------------",
+				  "                   //  -------<( to customize the ol list use the folowing: )>-------",		
+				  "                   \"ol_type\":\"\", // 1, a, A, i, I, \"\" will be the default",
+				  "                   //-------------------------------------------------------------------",
+				  "                   // In order to change the bullet or number size of the list you will need to use pixel sizes",
+				  "                   // Below are the pixel sizes for each of the h1 - h6 tags. use the pixel size to change the \"List_Text_Size\"",
+				  "                     \"List_Text_Size\":\"jb1\", // jb1, jb2, jb3, jb4, jb5, jb6: all of these are 16px",
+		  
+				  "},",
+				  "                     {\"top_margin\":\"10px\"},  // negative numbers to move the component up ex \"-10px\" ",
+				  "                                             // positive numbers to move the component down ex \"-10px\" ",		
+				  "                     {\"background_color\":\"#ffffff\"},",	
+				  "                     {\"padding\":\"10px\"},",	
+				  "                     {\"text_color\":\"#000000\"},",
+				  "", 	
+				  "                     {\"list_items\":",
+				  "                         [",
+				  "                               // to add another list item, copy the previous lstText and paste it below the last lstText item",
+				  "                               {\"lstText\":\"List Item One\"},",
+				  "                               {\"lstText\":\"List Item Two\"},",
+				  "                               {\"lstText\":\"List Item Three\"},",
+				  "                               {\"lstText\":\"List Item Four\"},",
+				  "                         ],",
+				  "                      },",
+				  "", 	
+				  "                     {\"Bottom_paragraphs\":",
+				  "                         [",
+				  "                               // to add a paragraph copy the {\"Paragraph_text\":\"One\"},\" then past it below {\"Paragraph_text\":\"One\"}",
+				  "                               // leave blank \"\" if there is no paragraph",		
+				  "                               {\"Paragraph_text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\"},",
+				  "                               {\"Paragraph_text\":\"Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.\"},",
+				  "                         ],",
+				  "                      },",		
+				  "", 
+				  "   ],",
+				  "},",
+				  
+				  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+				  " // ║ -------<( List Paragraph End )>-------                                            ║",
+				  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+				  " // ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ",		
+		  
+			  ],
+			  //"description": "List Paragraph"
+		  },
+
+		  "JB Expert Quote": {
+			"prefix": "JB_Expert_Quote",
+			"body": [
+			  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄			",
+			  "//╔═════════════════════════════════════════════════════╗",
+			  "//║ -------<( Expert Quote Begin )>-------  08/26/2020  ║",
+			  "//╚═════════════════════════════════════════════════════╝			",
+			  "",
+			  "{\"Expert_Quote\":",
+			  "[",
+			  "	{",
+			  "		\"top_margin\":\"10px;\",",
+			  "		\"bottom_margin\":\"10px;\",",
+			  "		\"image\":\"$1\",",
+			  "	//---------------------------------",
+			  "	//-------<( Heading text  )>-------",
+			  "	//---------------------------------		 ",
+			  "		\"heading\":\"$1\",",
+			  "		\"heading_bold\":\"\", // yes / no",
+			  "		\"Heading_italic\":\"\",  // yes / no",
+			  "		\"heading_font_color\":\"#ffffff\", // Default = #ffffff;",
+			  "		\"heading_alignment\":\"left\", // left right center",
+			  "	//---------------------------------	",
+			  "		",
+			  "	//-------------------------------",
+			  "	//-------<( Quote text  )>-------",
+			  "	//-------------------------------",
+			  "		\"quote\":\"\",",
+			  "		\"quote_bold\":\"yes\", // yes / no",
+			  "	//-------------------------------",
+			  "	",
+			  "	//-------------------------------",
+			  "	//-------<(  info text  )>-------",
+			  "	//-------------------------------",
+			  "		\"expert_info\":\"\",",
+			  "		\"expert_info_color\":\"#000000\", // Default = #000000;",
+			  "		\"expert_info_bold\":\"no\", // yes / no",
+			  "		\"expert_info_italic\":\"no\", // yes / no",
+			  "		\"expert_info_back_color\":\"#b9dded\", // for light gray background leave the field blank;",
+			  "											// Default = #b9dded;",
+			  "	//-------------------------------",
+			  "		",
+			  "	},",
+			  "],",
+			  "",
+			  "},",
+			  "//╔═════════════════════════════════════════════════════╗",
+			  "//║ -------<( Expert Quote End )>-------                ║",
+			  "//╚═════════════════════════════════════════════════════╝			",
+			  "//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
+			],
+			//"description": "Expert Quote"
+		  },
+	
+		 
+			"JB Accordion": {
+				"prefix": "JB_Accordion",
+				//"description": "JB Accordion",
+				"body": [
+					"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\r",
+					"//╔══════════════════════════════════════════════════════════════════════════════════╗\r",
+					"//║ ░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░ ║\t\t\t\r",
+					"//╠══════════════════════════════════════════════════════════════════════════════════╣\t\t\t\t\r",
+					"//║     -------<( Multi Dropdow Accordion begin )>------     01/25/2021              ║\r",
+					"//╚══════════════════════════════════════════════════════════════════════════════════╝\t\t\r",
+					"\t\r",
+					"{\"Accordion\": \r",
+					"\r",
+					"\t[\r",
+					"\t\t\t{\r",
+					"\t\t\t\t\"Label_Alignment\":\"$1\", \t\t\t// Default = \"\"   |  Alignment: left, right. center, justify\r",
+					"\t\t\t\t\"Label_Color\":\"#ffffff\",    \t\t\t// Default = \"\"   |  Label text color\r",
+					"\t\t\t\t\"Label_Background_Color\":\"#0070b0\", \t// Default = \"\"   |  Bacground color for tab\r",
+					"\t\t\t\t\"Tab_Radius\":\"10px\",\r",
+					"\t\t\t\t\"top_margin\":\"20px\",\r",
+					"\t\t\t},\r",
+					"\r",
+					"\t\t\t{\"Dropdown_Background_Color\":\"\"},\t// Default = \"\"   |  Bacground color for dropdown\r",
+					"\t\t\r",
+					"//<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>//\t\r",
+					"\t\t\r",
+					"//---------------------------------------------\t\t\t\r",
+					"\t\t\t{\"Acc_Label\":\"JackBuilder Info Box\"}, // Label for the Dropdown Tab\r",
+					"\t\t\t//place snippet below Acc_Label\r",
+					"//---------------------------------------------\t\r",
+					"\r",
+					"//---------------------------------------------\t\t\t\r",
+					"\t\t\t//{\"Acc_Label\":\"JackBuilder Info Box\"}, // Label for the Dropdown Tab\r",
+					"\t\t\t//place snippet below Acc_Label\r",
+					"//---------------------------------------------\t\r",
+					"\t\t\r",
+					"//---------------------------------------------\t\t\t\r",
+					"\t\t\t//{\"Acc_Label\":\"JackBuilder Info Box\"}, // Label for the Dropdown Tab\r",
+					"\t\t\t//place snippet below Acc_Label\r",
+					"//---------------------------------------------\t\r",
+					"\t\t\r",
+					"\t],\r",
+					"\t\r",
+					"},\t\t\r",
+					"\r",
+					"//╔══════════════════════════════════════════════════════════════════════════════════╗\r",
+					"//║      -------<( Multi Dropdow Accordion end )>------                              ║\t\t\r",
+					"//╠══════════════════════════════════════════════════════════════════════════════════╣\t\t\r",
+					"//║ ░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░░▒▓▒░ ║\r",
+					"//╚══════════════════════════════════════════════════════════════════════════════════╝\t\t\t\r",
+					"//▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀"
+				],
+			},
+	
+			
+			"JB audio New":
+			{
+				"prefix": "JB_audio",
+				"body": [
+		
+				  " // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+				  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+				  " // ║ -------<( Audio New Begin )>-------     01/25/2021                                ║",
+				  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+				  "{\"audio\":",
+				  "   [",
+				  "         {\"Audio_File\":\"$1\"},",
+				  "         {\"Label\":\"\"},",
+				  "         {\"Label_Font_Size\":\"\"},  // h1, h2, h3, h4, h5, h6",
+				  "         {\"Lable_Position\":\"\"},   // top, bottom",
+				  "         {\"background_color\":\"\"}, // A Color chart is available in the help site.",
+				  "         {\"Padding\":\"\"},",
+				  "         {\"top_margin\":\"\"},",
+				  
+				  "				{",
+				  "					\"Transcript_Text_font\":\"jb1\",",
+				  "					\"Transcript_Text_font_weight\":\"20px\",",
+				  "					\"Transcript_Text_align\":\"#ffffff\",",
+				  "					\"Transcript_Text_color\":\"left\",  // Align the paragraph: left, center, right, justify",
+				  "",
+				  "					\"Person_font\":\"jb1\",",
+				  "					\"Person_font_weight\":\"\",",
+				  "                    \"Person_text_color\":\"\",",
+				  "                    \"Person_align\":\"\",",
+				  "				},	",
+				  "",
+				  "             { // values for per_underline = \"\" or \"u\"",
+				  "                 \"Person\":\"text\",",
+				  "                 \"per_underline\":\"u\",",
+				  "                 \"Transcript_Text\":\"text\",",
+				  "             },	",
+				  "",	
+				  "             { // values for per_underline = \"\" or \"u\"",
+				  "                 \"Person\":\"text\",",
+				  "                 \"per_underline\":\"u\",",
+				  "                 \"Transcript_Text\":\"text\",",
+				  "             },	",          
+				
+				  "   ],",
+				  "},",
+				  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+				  " // ║ -------<( Audio New End )>-------                                                 ║",
+				  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+				  " // ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ",
+				],
+				"description": "_____________________"
+			},
+	
+	/*
+			"		{",
+			"			\"Pdf_Box_Text\":\"PDF box text heading\",",
+			"			\"Pdf_Body_Text\":\"This text will be displayed below the link for any extra information.\",",
+			"			\"Pdf_Icon\":\"pdf.png\",",
+			"			\"Border_Color\":\"orange\",",
+			"			\"Border_Style\":\"solid\",       //solid, dashed, dotted, double, groove, inset, outset, ridge",
+			"			\"Border_Thickness\":\"5px\",",
+			"			\"Text_Alignment\":\"center\",    // left, center, right, justify",
+			"			\"Background_Color\":\"#ffffff\",",
+			"			\"Padding\":\"10px\",",
+			"		},",
+			"
+			"		{",
+			"			\"Pdf_File\":\"LOMA_302_M1_L1_Summary.pdf\",",
+			"		},",
+			"
+	
+		],
+	*/	
+	
+		
+		"JB_PDF_Link": // For version 3.0
+		{
+			"prefix": "JB_PDF_Link",
+			"body": [
+	
+			  " // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ",
+			  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  " // ║ -------<( PDF Begin )>-------  01/25/2021                                         ║",
+			  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+			  "{\"PDF_Box\":",
+			  "   [",
+			  "      {",
+	
+			  "			\"Pdf_Box_Text\":\"PDF box text heading\",",
+			  "			\"Pdf_Body_Text\":\"This text will be displayed below the link for any extra information.\",",
+			  "			\"Pdf_Icon\":\"pdf.png\",",
+			  "			\"Border_Color\":\"orange\",",
+			  "			\"Border_Style\":\"solid\",       //solid, dashed, dotted, double, groove, inset, outset, ridge",
+			  "			\"Border_Thickness\":\"5px\",",
+			  "			\"Text_Alignment\":\"center\",    // left, center, right, justify",
+			  "			\"Background_Color\":\"#ffffff\",",
+			  "			\"Padding\":\"10px\",",
+			  
+	
+			  "      },",
+			  "		{",
+			  "			\"Pdf_File\":\"LOMA_302_M1_L1_Summary.pdf\",",
+			  "		},",
+			  "   ],",
+			  "},",
+			  " // ╔═══════════════════════════════════════════════════════════════════════════════════╗",
+			  " // ║ -------<( PDF End )>-------                                                       ║",
+			  " // ╚═══════════════════════════════════════════════════════════════════════════════════╝",
+			  " // ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ",
+			],
+	
+		},
+	
+	
+	"JB_Stopwatch":
+		{
+			"prefix": "JB_Stopwatch",
+			"body": [ 
+		
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+				"//╔══════════════════════════════════════════════════════╗",
+				"//║ ----<( Stopwatch Begin )>----                        ║",
+				"//╚══════════════════════════════════════════════════════╝",
+				"		{\"JB_Stopwatch\":",
+				"			[",
+				"				{",
+				"					\"Main_Background_Color\":\"\",",
+				"					\"Countdown_text_color\":\"#ffffff\",",
+				"				},",
+				"				 ",
+				"				{ ",
+				"					\"top_line_color\":\"\",",
+				"					\"top_line_weight\":\"\",",
+				"					\"top_line_style\":\"\",",
+				"				}, ",
+				"				",
+				"				{ ",
+				"					\"border_background_color\":\"#0070b0\",",
+				"					\"border_inside_color\":\"\",",
+				"					\"border_inside_weight\":\"\",",
+				"					\"border_inside_style\":\"\",",
+				"					\"border_inside_radius\":\"\",",
+				"					\"border_padding\":\"10px\",",
+				"				},",
+				"			 ",
+				"				{",
+				"					\"bottom_line_color\":\"\",",
+				"					\"bottom_line_weight\":\"\",",
+				"					\"bottom_line_style\":\"\",",
+				"				},",
+				"				 ",
+				"			],",
+				"		},",
+	
+				"//╔══════════════════════════════════════════════════════╗",
+				"//║ ----<( Stopwatch End )>----                          ║",
+				"//╠══════════════════════════════════════════════════════╣",
+				"//╚══════════════════════════════════════════════════════╝",
+				"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",	
+	
+					],
+	
+		},
+	
+
+
+
+
+		
+	"JB_Table_Cell_Color":
+	{
+		"prefix": "- JB_Table_Cell_Color",
+		"body": [
+					"\"Cell_Color\":\"#ed8c01\","
+				],
+		//"description": "Only For the table",
+		
+	},
+	
+	
+	"JB_Table_Font_Settings":
+	{
+		"prefix": "- JB_Table_Settings",
+		"body": [
+					"\"Txt_Font_Settings\":\"left,#ffffff,normal,italic,jb7\","
+				],
+				"description": "_____________________"
+	},
+	
+	
+	"JB_Table_Merge":
+	{
+		"prefix": "- JB_Table_Merge",
+		"body": [
+					"\"merge\":\"2\","
+				],
+		//"description": "_____________________"
+	},
+	
+	
+	"JB_Table_Merge_Column":
+	{
+		"prefix": "- JB_Table_Merge_Column",
+		"body": [
+					"\"col_merge\":\"2\","
+				],
+		//"description": "_____________________"
+	},
+	
+	
+	"JB_Table_Merge_Column_Align":
+	{
+		"prefix": "- JB_Table_Merge_Column_Align",
+		"body": [
+					"\"col_vert_align\":\"middle\","
+				],
+		//"description": "_____________________"
+	},
+	
+	"JB_Table_Merge_Column_Width":
+	{
+		"prefix": "- JB_Table_Merge_Column_Width",
+		"body": [
+					"\"col_width\":\"20%\","
+				],
+		"description": "_____________________"
+	},
+	
+	"JB_Table_Border":
+	{
+		"prefix": "- JB_Table_Border",
+		"body": [
+					"\"Border\":\"block,4px,solid,#015d52\","
+				],
+		//"description": "Only For the table"
+	
+	},
+	
+
+	//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+	//-------<( Colors )>------- ,#0070b0,navy,royalblue,purple,red,orange,yellow,beige
+	//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+	"JB_Colors":
+	{
+		"prefix": "JB_Colors: new LOMA brand colors are the first 11 selections",
+		"body": [
+					"${1|#004C9D,#002F70,#62B6F3,#97722A,#006847,#DAAA00,#9E5332,#9D9795,#69625D,#B67238,#C4BFC0,black,white|}",
+					
+				],
+		"description": "_____________________" 
+	},
+	
+	
+	
+	"JB_Special_Characters":
+	{
+		"prefix": "JB_Special_Characters ( break, double quotes, em dash, single quotes )",
+		"body": [
+	
+					"${1|<br>,&quot;,&#8212,&apos;|}",
+				],
+		
+	
+	},
+	
+	"JB_PDF_Inline":
+	{
+		"prefix": "JB_PDF_Inline",
+		"body": [
+					"<a href='../pdf/file.pdf' target='_blank' class='pdf_inline_style'>pdf file</a>",
+				],
+		//"description": "_____________________" 
+	},
+	
+
+	"JBC_Italics":
+	{
+		"prefix":"JB_Italics",
+		"body":[
+			"<i>$TM_SELECTED_TEXT</i>",
+		],
+	},
+
+	"JBC_Bold":
+	{
+		"prefix":"JB_Bold",
+		"body":[
+			"<b>$TM_SELECTED_TEXT</b>",
+		],
+	},
+
+
+	"JBC_Source_Info":
+	{
+		"prefix":"JB_Source_Info",
+		"body":[
+			"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",				
+			"//╔══════════════════════════════════════════════════════╗",
+			"//║ -------<( Inline Source Info Begin )>-------         ║",
+			"//╚══════════════════════════════════════════════════════╝",				
+						
+			"{\"Inline_Source_File\":",
+			
+			 "   [",
+			 "      {",
+			"           \"Source_Info\":\"$1\",",
+			"       },",
+				   
+			"       {",
+			"           \"Source_Info\":\"$2\",",
+			"       },",
+				   
+				   
+			"   ],",
+			
+			"},",
+			"//╔══════════════════════════════════════════════════════╗",
+			"//║ -------<( Inline Source Info End )>-------           ║",
+			"//╠══════════════════════════════════════════════════════╣",		
+			"//╚══════════════════════════════════════════════════════╝",			
+			"//▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+			
+		],
+	},
+
+	"JBC_Source_Info_Line":
+	{
+		"prefix":"JB_Source_Info_Line",
+		"body":[
+			"<a class='pdf_inline_style' href='javascript:jb_src(0)'>Text for source</a>",
+		],
+		"description": "_____________________"
+	},
+
+
+	"JBC_href":
+	{
+		"prefix":"JB_href",
+		"body":[
+			"<a href=''></a>",
+		],
+	},
+
+
+	
+	"JBC_Target_Blank":
+	{
+		"prefix":"JB_Target_Blank",
+		"body":[
+			"target='_blank'",
+		],
+	},	
+
+	"JBC_Break_DBL":
+	{
+		"prefix":"JB_Break_DBL",
+		"body":[
+			"<br><br>",
+		],
+	},
+
+	"JBC_Break_Single":
+	{
+		"prefix":"JB_Break_Single",
+		"body":[
+			"<br>",
+		],
+	},
+
+	"JBC_Carriage_Return":
+	{
+		"prefix":"JBC_Carriage_Return",
+		"body":[
+			"<br>",
+		],
+	},
+
+	"JBC_Double_Quote":
+	{
+		"prefix":"JBC_Double_Quote",
+		"body":[
+			"&quot;",
+		],
+	},
+
+	"JBC_Single_Quote":
+	{
+		"prefix":"JBC_Single_Quote",
+		"body":[
+			"&apos;",
+		],
+		"description": "_____________________"
+	},
+
+	"JBC_EM_Dash":
+	{
+		"prefix":"JBC_EM_Dash",
+		"body":[
+			"&#8212;",
+		],
+	},	
+
+	
+
+	}
+	
+	

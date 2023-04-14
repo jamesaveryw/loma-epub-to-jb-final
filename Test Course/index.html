@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOMA</title>
+    <link href="locale_includes/css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div id="patience">
+        <p>Please wait while the course loads...</p>
+    </div>
+    <div id="instructions">
+        <p>Please choose your location</p>
+        <div id="whyasking" tabindex="0">Why are you asking?</div>
+        <div id="whyexplanation">
+            <p>We are asking for your location so that we can give you the best possible experience in the course.</p>
+        </div>
+    </div>
+
+    <div id="courseRegionMap"></div>
+
+    <div id="countryList">
+        <ul id="listed"></ul>
+    </div>
+
+<script>
+    //MAKE SURE THIS FILE CAN ONLY BE LAUNCHED FROM SERVICES
+    let currentlocation = document.location.href;
+    if(currentlocation.indexOf("ll-content.ccedge.cn") !== -1){
+        let redirectURL = currentlocation.replace("ll-content.ccedge.cn","services.loma.org");
+        window.location.href=redirectURL;
+    }
+</script>
+
+<script type="text/javascript" src="locale_includes/scripts/locations.js"></script>
+<script type="text/javascript" src="locale_includes/scripts/libraries/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="locale_includes/scripts/libraries/ua-parser.min.js"></script>
+<script>
+var bParser = new UAParser();
+var bResult = bParser.getResult();
+if(bResult.browser.name === "IE"){
+    $("#patience").css("display", "none");
+    //var outdatedHTML = "<div id=\"outdated\"><img src=\"locale_includes/images/Randy.png\"><br>You're browser sucks and we don't support it! Nyah!</div>";
+    var outdatedHTML = "<div id=\"outdated\"><p>Sorry. We no longer support IE 11.</p><img src=\"locale_includes/images/no-ie.png\"><p>Please use a modern browser such as Edge, Chrome, Firefox, or Safari.</p></div>";
+    $("body").prepend(outdatedHTML);
+}
+</script>
+<script type="text/javascript" src="locale_includes/scripts/libraries/aicc.js"></script>
+<script type="text/javascript" src="locale_includes/scripts/libraries/tincan-min.js"></script>
+<script type="text/javascript" src="locale_includes/scripts/lmslrs.js"></script>
+
+</body>
+</html>

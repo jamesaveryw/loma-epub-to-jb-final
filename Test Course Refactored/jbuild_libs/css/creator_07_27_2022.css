@@ -1,0 +1,2006 @@
+@charset "utf-8";
+/* CSS Document */
+.body_style
+{
+	/*
+	padding-left: 14%;
+	padding-right: 14%;
+	background-color: #063c68; */
+	margin: 0;
+	padding: 0;
+}
+
+/* IPAD fix for lists in question stems */
+ul, ol {  clear: left; }
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.car_contain
+{
+ /* object-fit: contain; cover; scale-fit*/
+  object-fit: contain;
+}
+
+.crd_width
+{
+  width:750px;
+ /* align-content: center; 
+  text-align: center;*/
+}
+
+.btn_w_image
+{
+  background-color:Transparent;
+  border-color:Transparent;
+}
+
+.lst_border_width
+{
+  max-width: 80%;
+}
+
+.c_lesson_width
+{
+  max-width: 120ch;
+	line-height: 1.5;	
+}
+
+.c_Img
+{
+  width:100%; /* 100% */
+  height:auto;
+     
+}	 
+
+
+.c_width
+{
+  width:100%;
+}
+
+.flip_con
+{
+ /*  left:25%; */
+}
+
+audio {
+  display: block;
+/* margin-left: -8px; */
+  width: 120ch; /* 60% 220px */
+}
+
+audio::-webkit-media-controls-enclosure {
+  max-width: 120ch; /*60% or inherit*/
+line-height: 1.5;
+}
+
+/* New Flip Card Styling Begin */
+.front-cont, .back-cont {
+  backface-visibility: hidden;
+  height: 95%;
+  left: 1.25%;
+  margin: 1.25%;
+  position: absolute;
+  top: 1.25%;
+  transform: translated(-50%, -50%);
+  width: 95%;
+}
+.front-cont {
+  border: solid 1px green;
+}
+.back-cont {
+  background-color: #fff;
+  border: solid 1px blue;
+  transform:rotateY(180deg);
+}
+div.front, div.back {
+  height: 100%;
+}
+div.content-container {
+  border: 1px solid black;
+  height: 100%;
+}
+button.flip {
+  color: #000;
+  cursor: pointer;
+  display: block;
+  margin: 3px auto;
+}
+span.flip-inst {
+}
+div.image {
+  backface-visibility: hidden;
+  background-color: purple;
+  color: #fff;
+  cursor: pointer;
+  margin: 10px;
+  padding: 5px;
+}
+.flipCard {
+  transform: rotateY(180deg);
+}
+
+*:focus {
+  outline-color: black;
+  outline-offset: 2px;
+  outline-style: solid;
+  outline-width: 2px;
+}
+
+/* New Flip Card Styling End */
+
+/* -------<( Flip Card Settings )>-------*/
+
+jbfl::before{
+  content: "front"
+}
+/*
+jbfl::after{
+  content: "back"
+}
+*/
+.cardcontainer
+{
+	/* position: absolute; */
+
+
+	width: 100%;
+	height: 100%;
+  top: 50%;
+	left: 50%;
+  transform: translate(24%);
+   /* 
+	background: none;
+    background: orange;
+  
+	top: 50%;
+
+	transform: translate(-50%, -50%);
+*/
+}
+
+.cardwhole
+{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	transform-style: preserve-3d;
+	transition: all 0.8s ease;
+    display: inline-block;
+}
+
+.frontcard
+{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+/*	background: #ffc728; */
+	color: #000000;
+	text-align: center;
+
+}
+
+.backcard
+{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+/*	background: purple; */
+	color: #ffffff;
+	text-align: center;
+	transform: rotateY(180deg);
+    
+}
+
+.flipCard
+{
+	transform: rotateY(180deg);
+}
+
+
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+.card {
+	width: 350px;
+	height: 300px;
+
+}
+
+.card-grid {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  display: inline-block;
+  
+}
+
+.card-grid .front, .card-grid .back {
+  padding: 10px;
+  text-align: center;
+  border: 1px #333 solid;
+  
+}
+
+.card-grid .front {
+  background-color: #eee;
+}
+
+.card-grid .back {
+  background-color: #333;
+  color: white;
+}
+
+.card .front{
+	text-align: center;
+	font-size: 30px;
+	font-weight: 200;
+}
+
+.card .back{
+	text-align: center;
+	font-size: 30px;
+	font-weight: 200;
+	background-color: #eee;
+}
+/* -------<( Flip Card Settings )>-------*/
+
+
+.Main_div_settings
+{
+	padding: 0px; /* 10px */
+	/* top: 40px; */
+	align-content: center;
+	width: 100%; /* 90 */
+  margin: 0 auto; 
+  background-color: #ffffff;
+}
+
+#Comp_Sizer
+{
+	width: 100%;
+}
+
+.prev_off
+{
+	height: 50px;
+	width: 100%;
+	margin-top: 40px;
+	text-align: center;
+	padding-top: 15px;
+	background-color: #dddddd; /* #D7D7D7 */
+	vertical-align: middle;
+	position: relative;
+	cursor:not-allowed;
+	
+
+}
+
+.prev_lesson
+{
+	height: 50px;
+	width: 100%;
+	margin-top: 40px;
+	text-align: center;
+	padding-top: 15px;
+	background-color: #F1F1F1; /* #F1F1F1 */
+	vertical-align: middle;
+	position: relative;
+	cursor:pointer;
+	
+
+}
+
+
+.next_lesson
+{
+	height: 50px;
+	width: 100%;
+	margin-top: 40px;
+	text-align: center;
+	padding-top: 15px;
+	background-color: #F1F1F1;
+	vertical-align: middle;
+	position: relative;
+	cursor:pointer;
+
+}
+
+
+
+
+/* Timeline container comp */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+
+}
+
+.timeline_line{
+  position: absolute;
+  width: 6px;
+  /* background-color: white; */
+  top: 0;
+  bottom: 0;
+  left: 50%; /* for the line down the middle */
+
+margin-left: -3px;
+z-index: 1;
+}
+
+
+.timeline_container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+
+}
+
+.timeline_circle_left{
+   
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  right: -14px; /* -14px */
+/*
+  background-color: white;
+  border: 4px solid #FF9F55;
+*/
+  top: 15px;
+  border-radius: 50%;
+  z-index: 3;	
+
+}
+
+.timeline_circle_right{
+ 
+  position: absolute;
+  width: 28px;
+  height: 28px;
+left:-14px;
+  /*right: 82%;  95% */
+/*
+  background-color: white;
+  border: 4px solid #FF9F55;
+*/
+  top: 15px;
+  border-radius: 50%;
+  z-index: 3;	
+
+}
+
+/* Place the timeline_container to the left */
+.left {
+  left: -25%;
+}
+
+/* Place the timeline_container to the right */
+.right {
+  left: 25%;
+}
+
+/* Add arrows to the left timeline_container (pointing right) */
+
+.left_arrow{
+
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 9;
+  right: 32px;
+  border: medium solid white;       
+  border-width: 12px 0 12px 12px;
+border-style: solid;
+
+
+}
+
+/*
+.left::before {
+
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 9;
+  right: 32px;
+  border: medium solid white;       
+  border-width: 12px 0 12px 12px;
+  border-color: transparent transparent transparent white; 
+
+border-style: solid;
+}
+*/
+
+
+/*
+.left:before {  /* White arrows on the left for the bubble * /
+
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 10;
+  right: 32px;
+  border: medium solid white;       /* border: medium solid black; * /
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent white; 
+
+}
+*/
+
+/* Add arrows to the right timeline_container (pointing left) */
+.right_arrow{
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 10;
+  left: 32px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+/* border-color: transparent white transparent transparent; */
+}
+
+
+/*
+.right::before {   White arrows on the right for the bubble 
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 10;
+  left: 32px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent; 
+}
+*/
+
+/* Fix the circle for timeline_containers on the right side */
+.right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.content {  /* The bubbles */
+  padding: 20px 30px;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+border-color: black;
+
+border-width: thin;
+border-style: solid;
+
+}
+
+
+/* Timeline container comp */
+
+.carousel{
+  background: #2f4357;
+  margin-top: 200px;
+}
+.carousel .item{
+  min-height: 300px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.carousel .item img{
+  margin: 0 auto; /* Align slide image horizontally center */
+}
+.carousel_margin{
+margin: 0px; /*was 20 */ 
+}
+
+.zicon{
+margin-right: 20%;
+}
+
+
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* New Toc Button styles added by Jack */
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+
+
+toc{
+  font-size:14px;
+  color:#bf0d3f;
+  /* max-width: 20ch; */
+}
+
+.toc_main_buttons {
+
+
+background-color: #fafafa;
+border: none; /* Remove borders */
+color: black; /* White text */
+padding: 12px 24px; /* Some padding */
+font-size: 16px; /* Set a font-size */
+width: 100%;
+text-align: left;	
+}
+
+
+
+.toc_fly_buttons {
+
+background: #fafafa; 
+background: -moz-linear-gradient(left, #fafafa 0%, #fafafa 98%, #6b6b6b 100%); 
+background: -webkit-linear-gradient(left, #fafafa 0%,#fafafa 98%,#6b6b6b 100%); 
+background: linear-gradient(to right, #fafafa 0%,#fafafa 98%,#6b6b6b 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#6b6b6b',GradientType=1 );
+/*	
+background-color: #fafafa;  max-width: 20ch;
+*/	
+border: none; /* Remove borders */
+color: black; /* White text
+padding-right: 90px; */
+ padding-top: 10px;
+  padding-left: 10px;
+padding-bottom: 10px;
+/*padding: 12px 12px;  Some padding  max-width: 20ch; */
+font-size: 16px;  /*Set a font-size */
+
+width: 100%;
+text-align: left;
+/* max-width: 20ch; */
+border-bottom-style: solid;
+border-bottom-width: thin;
+border-bottom-color: #000000;
+}
+
+
+
+.toc_main_buttons:hover {
+  background-color: #f3f3f3;
+}
+
+.toc_fly_buttons:hover {
+  background-color: #C7C7C7;
+}
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* New Toc Button styles added by Jack */
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+
+.Toc_nav {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #F5F5F5; 
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the Toc_nav */
+}
+
+/* The navigation menu links */
+.Toc_nav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.Toc_nav a:hover {
+  color: #000000;
+}
+
+/* Position and style the close button (top right corner) */
+.Toc_nav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+  transition: margin-left .5s;
+  padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the Toc_nav (less padding and a smaller font size)
+@media screen and (max-height: 450px) {
+  .Toc_nav {padding-top: 15px;}
+  .Toc_nav a {font-size: 18px;}
+}
+*/
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* End Table of contents  */
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* -------<( Survey Settings Begin )>------- */
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+.container_survey input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.survey_buttons
+{
+  background-color: #0070b0;
+  border: none;
+  margin: 4px 2px;
+  padding: 10px 30px;   /* 10px 30px; */
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  opacity: 0.6;
+
+}
+
+.skip_button
+{
+  background-color: #0070b0;
+  border: none;
+  margin: 4px 2px;
+  padding: 4px 20px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  opacity: 1.0;
+  z-index: 99999;
+}
+
+
+
+/*
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+*/
+
+
+.ad_row {
+
+  display: inline-block;
+  padding:10px;
+  background-color: #F1F1F1;
+  margin-right: 4px;
+
+}
+
+.survey_alignment {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.survey_check_alignment {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top:20px;
+}
+
+.survey_block {
+  border-color: #dfdfdf;
+  border-width: 1px;
+  border-style: solid;
+  padding: 10px;
+}
+
+.survey_question_color {
+  color:#000000;
+}
+
+textarea {
+  width: 100%; /* 400px */
+  height: 250px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: vertical;
+}
+
+
+
+
+
+.checkmark_survey {
+     /*
+  margin-left: 10px;     
+   */
+  position:absolute;  /*  absolute */
+
+    /*
+  height: 25px;
+  width: 25px;
+    */
+  
+  /* background-color: #eee; */
+  background-image: url(../../jbuild_libs/images/circle-xs.png);
+  background-size: 25px;		 /* contain */
+}
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* -------<( Survey Settings End )>------- */
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* -------<( Updated for keyterm )>-------         */
+
+/* =============================================== */
+.keyterm{
+  box-sizing: border-box;
+font-weight:bold;
+color: #0069aa;
+text-decoration: underline;
+cursor: pointer;
+}
+.keyterm:hover{color: rgba(0,106,101,1);}
+
+.keyterm:focus{
+  /*background: rgba(0,112,175,0.35);*/
+  /*background: rgba(160,222,199,0.65);*/ /*Pastel Green*/
+  color: rgba(0,106,101,1);
+  font-style: italic;
+}    
+
+#keytermsparent, #keytermsdiv, #termtitle{
+-webkit-user-select: none;  /* Chrome all / Safari all */
+-moz-user-select: none;     /* Firefox all */
+-ms-user-select: none;      /* IE 10+ */
+user-select: none;          /* Likely future */  	
+}
+
+#keytermsparent{
+position: fixed;
+top: 0;
+left:0;
+width: 100%;
+height: 100%;
+display: none;
+background-color: rgba(0,0,0,0.2);
+}
+#keytermsdiv{
+position: absolute;
+width: 260px;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background: #0069aa;
+color: #fff;
+padding: 20px 20px 30px 20px;
+border-radius: 15px;
+border: 1px solid #004067;
+cursor: pointer;
+}
+#termtitle{
+font-size: 150%;
+line-height: 175%;
+font-weight: bold;
+}
+
+
+
+/* =============================================== */
+
+
+.qSpacing {
+	max-width: 90ch;
+	line-height: 1.5;
+}
+
+.qstImg
+{
+	width:400px; /* 50% */
+	height:auto;
+		 
+}
+
+.questImage
+{
+	max-width: 100%;
+	height: auto;
+}
+
+.quest_list {
+	margin-left:150px; /* 140px */
+}
+
+.quest_char {
+	max-width: 90ch;
+	line-height: 1.5;
+}
+
+.q_cor_border {
+  border : 4px solid #85be00;
+  background-color: #ffffff;
+}
+
+.q_txthead_c {
+  font-weight: bold;
+  color: #85be00;
+}
+
+.q_inc_border {
+  border : 4px solid #FF0004;
+  background-color: #ffffff;
+}
+
+.q_txthead_i {
+    font-weight: bold;
+    color: #FF0004;
+}
+.c_white {
+	color: #ffffff;
+}
+
+.c_jc_table {
+   
+   border-collapse: collapse;
+    width: 100%;
+	display: table;
+}
+
+.c_jcc_border {
+	border-style: solid;
+	border-width: medium;
+	border-color: #000000;
+
+}
+
+.c_qtext {
+	display: inline-block;
+	vertical-align: 0px;
+	font-style: normal;
+	padding-left: 50px;
+  padding-right: 10px;
+  margin-top:-18px;
+}
+
+
+.c_qSpacing{
+  margin-top: 10px;
+
+}	
+
+.c_jb_column1 {
+  -webkit-column-count: 1; /* Chrome, Safari, Opera */
+  -moz-column-count: 1; /* Firefox */
+  column-count: 1;
+max-width: 90ch;
+line-height: 1.5;
+}
+
+.expertContainer
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	width:50%
+}
+.ex_qt
+{
+	/*
+	margin-left:-10%;
+	
+  */
+  text-align: left;
+}
+
+.expert_bmargin
+	{
+		margin-bottom: 10px;
+	}
+
+  .panel-footer {
+    /* position: absolute; */
+     right: 0;
+     bottom: 0;
+     left: 0;
+ }
+
+
+.ex_img
+{
+  display: inline;
+	height:100%; /*140px*/
+	width:60px; /*100px */
+	object-fit: contain; /* cover */
+  overflow: hidden;
+  margin-right:10px;
+}
+
+
+.c_container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  /* font-size: 22px; */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.c_container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  /* margin-right: 20px; */
+}
+
+
+.c_check{
+ /* opacity: 0; */
+  cursor: pointer;
+
+}
+
+.c_checkboxes label {
+  display: block;
+  padding-right: 10px;
+  padding-left: 22px;
+  text-indent: -22px;
+  /* background-color: orange; */
+}
+.c_checkboxes input {
+  vertical-align: middle;
+}
+.c_checkboxes label span {
+  vertical-align: middle;
+}
+
+.c_checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  
+  /* background-color: #eee; */
+  background-image: url(../../jbuild_libs/images/checkmark-xs.png);
+  background-size: contain;		
+}
+
+.i_checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  
+  /* background-color: #eee; */
+  background-image: url(../../jbuild_libs/images/times-circle-xs.png);
+  background-size: contain;		
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  
+  /* background-color: #eee; */
+  background-image: url(../../jbuild_libs/images/circle-xs.png);
+  background-size: contain;		
+}
+
+
+.checkmark_square {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  
+  /* background-color: #eee; */
+  background-image: url(../../jbuild_libs/images/square-xs.png);
+  background-size: contain;		
+}
+
+.checkmark_correct_square {
+	
+  background-image: url(../../jbuild_libs/images/checkmark_square-xs.png);
+  background-size: contain;
+}
+
+.checkmark_wrong_square {
+  background-image: url(../../jbuild_libs/images/times-square-xs.png);
+  background-size: contain;
+}
+
+.checkmark_square_wait {
+/* .container input:checked ~ .q_comp_mw { */
+ /* background-image: url(../../jbuild_libs/images/times-circle-wait-xs.png); */
+ position: absolute;
+ top: 0;
+ left: 0;
+ height: 25px;
+ width: 25px;
+ 
+  background-image: url(../../jbuild_libs/images/times-square-wait-xs.png);
+  background-size: contain;
+}
+
+
+
+.jb_column1 {
+  -webkit-column-count: 1; /* Chrome, Safari, Opera */
+  -moz-column-count: 1; /* Firefox */
+  column-count: 1;
+max-width: 90ch;
+line-height: 1.5;
+}
+
+.jb_column2 {
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+max-width: 90ch;
+line-height: 1.5;
+}
+
+.carousel_margin{
+	margin: 0px; /*was 20 */ 
+}
+
+
+
+
+/* ------- */
+
+.alt_kt_width
+{
+  width: 580px;
+  margin: auto;
+  padding: 10px;
+  overflow-y: auto;	
+  height: 140px;
+  background-color: #0070b0;
+}
+
+.jb_modal_width
+{
+  width: 600px;
+  margin: auto;
+  padding: 10px;
+  overflow: none;	
+  height: 150px;
+  background-color: #0070b0;
+}
+
+jb1{font-size:16px; color:#000000;} /* color: #00ff00; */
+jb2{font-size:16px; font-weight:bold;}
+jb3{font-size:16px; font-style: italic;}
+jb4{font-size:16px; color:#ffffff;} /* color: #ffffff; */
+jb5{font-size:16px; font-weight:bold; }
+jb6{font-size:16px; font-style: italic; }
+  jb7{font-size:16px;} /* 16px */
+  jb8{font-size:18px; color:#000000;}
+
+.c_jcc_back{background-color: #ffffff;} /* #000000;    #ffffff*/
+
+
+.c_jb_modal {
+  display: none; /* none by default block */
+	
+  position: fixed; /* Stay in place */
+  margin-top:30px;
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width 100% */ 
+  height: 100%; /* Full height 100% */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  text-align: center;
+
+}
+
+
+
+/* Modal Content */
+.c_jb_modal-content {
+  background-color: #0070b0;
+  margin: auto;
+  padding: 10px;
+  width: 600px; /*  350px   60% */
+  overflow-y: auto;	
+  height: 400px;
+  /* max-height: 450px;	*/	
+}
+
+.c_jb_modal-hdr-ftr {
+ /* background-color: #ffffff; */
+  background-color: #0070b0;
+  margin: auto;
+  padding: 10px;
+  height:60px;
+ 
+	  
+  width: 600px; /* 60% */
+}
+
+.c_jb_close:hover,
+.c_jb_close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.bExpertVid{position: relative; max-width:120ch; /* height: 360px; */} /* 640px */
+.bExpertVid::after{
+    content: '';
+    display:block;
+    width: 147px; /* 147 */
+    height: 147px; /* 147 */
+   background:url(../../jbuild_libs/images/expert_video.png) no-repeat;
+    position:absolute;
+    top: -7px; /* -7px */
+    right: -7px; /* -7px */
+}
+
+.c_jb_car_acc_wd
+{
+	max-width: 120ch;
+	line-height: 1.5;	
+}
+
+
+
+.carousel{
+/* background: #ffffff;   #2f4357 */
+  margin-top: 20px;
+}
+.carousel .item{
+  min-height: 300px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.carousel .item img{
+  margin: 0 auto; /* Align slide image horizontally center */
+}
+.carousel_margin{
+margin: 0px; /*was 0 */ 
+}
+
+.zicon{
+	margin-right: 20%;
+}
+
+.c_jb_acc_margin
+{
+  margin-top:10px;
+}
+
+.new_accordion
+{
+  max-height: 580px;
+  overflow-x: none;
+  overflow-y: scroll  
+}
+
+
+
+.img_modal_hdr_ftr {
+  background-color: #0070b0;
+  margin: auto;
+  padding: 10px;
+  height:8px;
+  /* height: auto; */
+	height: auto;  
+  width: 600px; /*100% 600px 60% */
+}
+/*
+.img_modal_hdr_ftr {
+  background-color: #0070b0;
+  margin: auto;
+  padding: 10px;
+  height:8px;
+  height: auto;
+	  
+  width: 600px; / *100% 600px 60% * /
+}
+*/
+
+.zicon{
+	margin-right: 15%;
+}
+
+.jb_close:hover,
+.jb_close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+
+.img_modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width 100% */ 
+  height: 100%; /* Full height 100% */
+  overflow: auto; /* Enable scroll if needed */
+  
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  
+  text-align: center;
+  
+}	
+	
+.img_modal:focusimg_modal{
+  border: 2px solid orange;
+}
+
+
+	
+.img_modal_content {
+  background-color: #0070b0;
+  margin: auto;
+  padding: 10px;
+  /*width: 600px;  100% 600px  350px   60% */
+  max-width: 600px;	
+	
+  overflow-y: auto;	
+  max-height: 450px;		
+}	
+	
+    /* primary button */
+    .btn-accordion {
+      background-color: #FFF;
+      color: #285e8e;
+      border-color: #3276b1;
+      border-radius: 25px;
+  }
+  .btn-accordion:hover,
+  .btn-accordion:focus,
+  .btn-accordion:active    {
+      background-color: #3276b1;
+      color: #FFF;
+      border-color: #285e8e;
+  }
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/* Text Bubble Style
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+
+
+.bbl_btns{
+	
+	border-radius: 5px;
+	border-color: #ffffff;
+	border-style: double;
+	/* position: absolute; */
+	width: 100px;
+	padding-top:3px;
+	margin: 10px;
+	cursor: pointer;
+}
+
+	.bubbles{
+		position: relative;
+		font:15px/22px "Myriad Pro", Helvetica, Arial, "sans-serif";
+		max-width: 538px;
+		border: 3px double #0069aa;
+		margin: 0 auto;
+		line-height: 1.5;
+	}
+
+
+
+	.balloons{min-height: 50%;}
+	.bLeft, .bRight{position: relative; display:inline-block; width: 250px; height:160px; margin: 10px 10px 0 23px;}
+	.bLeft{background: url(../images/CurledLeft.png) no-repeat 0 0; left: -130px;}
+	.bRight{background: url(../images/CurledRight.png) no-repeat 0 0; left: 130px;} /* left: 270px; */
+	.bText{
+		display:table;
+		position: absolute; 
+		top: 10px; 
+		left: 10px; 
+		width: 230px; 
+		height: 110px; 
+	}
+	.bText p{display: table-cell; vertical-align: middle;}
+	.talkingheads{max-height: 232px;}
+	.talkingheads img{width: 100%;}
+	.backNext{
+		position: absolute;
+		width: 100px;
+		padding-top:3px;
+		background:#0069aa;
+		color: #fff;
+		text-align: center;
+		line-height: 2em;
+		border-radius: 8px;
+		box-shadow: 0 0 0 1px #0069aa;
+		border:1px solid #fff;
+		margin: 10px;
+		cursor: pointer;
+		user-select: none;
+		z-index: 999;
+	}
+	.backNext:hover{
+		background:#fff;
+		color: #0069aa;
+		box-shadow: 0 0 0 1px #fff;
+		border:1px solid #0069aa;
+		font-weight: bold;
+	}
+
+  .jb_mx_wd
+  {
+    max-width: 90ch;
+    line-height: 1.5;
+  }
+
+  pv_fv_title{font-size:26px; color:#0070b0;font-weight:bold;}
+	pv_fv{font-size:20px; color:#000000;font-weight:bold;}
+	pv_fv_lbl{font-size:20px; color:#000000;font-weight:bold;}
+	pv_fv_display{font-size:20px; color:#000000;font-weight:bold;}
+/*-------<( FV_PV calc settings Begin )>------- */
+
+.slidecontainer {
+	width:100%;
+	
+}
+
+
+.value_bar_setup{
+	/*
+	    -webkit-transform: rotate(-180deg);
+        -ms-transform: rotate(-180deg);
+        transform:  rotate(-180deg);
+	*/
+	
+            bottom: 2.5%;
+            font-size: 1.5em;
+            font-weight: bold;
+            left: 50%;
+            position: absolute;
+            text-align: center;
+            -webkit-transform: translate(-50%, 0%) scale(1);
+            -ms-transform: translate(-50%, 0%) scale(1);
+            transform: translate(-50%, 0%) scale(1);
+            -webkit-transition: bottom 300ms ease-out;
+            -ms-transition: bottom 300ms ease-out;
+            transition: bottom 300ms ease-out;
+	
+}
+
+
+.value_fbar_setup{
+	/*
+	    -webkit-transform: rotate(-180deg);
+        -ms-transform: rotate(-180deg);
+        transform:  rotate(-180deg);
+	*/
+	
+            bottom: 2.5%;
+            font-size: 1.5em;
+            font-weight: bold;
+            left: 50%;
+            position: absolute;
+            text-align: center;
+            -webkit-transform: translate(-50%, 0%) scale(1);
+            -ms-transform: translate(-50%, 0%) scale(1);
+            transform: translate(-50%, 0%) scale(1);
+            -webkit-transition: bottom 300ms ease-out;
+            -ms-transition: bottom 300ms ease-out;
+            transition: bottom 300ms ease-out;
+	
+}
+
+
+#rotText{
+   width: 120px;
+   transform: rotate(270deg);
+   font-size: 12px;
+   color:#000000;
+   font-weight: bold;
+   position:absolute;
+   margin-left:50%;	
+	
+/*	
+   position: absolute;
+   bottom: 12%;
+   left:37%;
+	
+	
+	
+	font-size:20px;
+	color:#000000;
+	font-weight:bold;	
+ */  
+}
+
+#rotfText{
+   width: 120px;
+   transform: rotate(270deg);
+   font-size: 12px;
+   color:#000000;
+   font-weight: bold;
+   position:absolute;
+   margin-left:50%;	
+	
+/*	
+   position: absolute;
+   bottom: 12%;
+   left:37%;
+	
+	
+	
+	font-size:20px;
+	color:#000000;
+	font-weight:bold;	
+ */  
+}
+
+vert_label{
+	font-size:20px;
+	color:#000000;
+	font-weight:bold;
+	margin-left:-200px;
+	top: 50%;
+	
+}
+
+/* Slider settings for all browsers begin */
+
+.calc_readout{
+	font-size:20px;
+	color:#000000;
+	font-weight:bold;
+}
+
+
+
+input[type=range] {
+    -webkit-appearance: none;
+    margin: 18px 0;
+    width: 100%;
+  }
+  input[type=range]:focus {
+    outline: none;
+  }
+  input[type=range]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    animate: 0.2s;
+    background: #222222;
+  }
+  input[type=range]::-webkit-slider-thumb {
+    border: 1px solid #adadad;
+    height: 36px;
+    width: 16px;
+    background: #0070b0;
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -14px;
+  }
+  input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #222222;
+  }
+  input[type=range]::-moz-range-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    animate: 0.2s;
+    background: #222222;
+  }
+  input[type=range]::-moz-range-thumb {
+    border: 1px solid #adadad;
+    border-radius: 0;
+    height: 36px;
+    width: 16px;
+    background: #0070b0;
+    cursor: pointer;
+  }
+  input[type=range]::-ms-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    animate: 0.2s;
+    background: transparent;
+    border-color: transparent;
+    border-width: 16px 0;
+    color: transparent;
+  }
+  input[type=range]::-ms-fill-lower {
+    background: #222222;
+  }
+  input[type=range]::-ms-fill-upper {
+    background: #222222;
+  }
+  input[type=range]::-ms-thumb {
+    border: 1px solid #adadad;
+    height: 36px;
+    width: 16px;
+    border-radius: 0;
+    background: #0070b0;
+    cursor: pointer;
+  }
+  input[type=range]:focus::-ms-fill-lower {
+    background: #222222;
+  }
+  input[type=range]:focus::-ms-fill-upper {
+    background: #222222;
+  }
+
+
+
+/* Slider settings for all browsers end */
+
+.pv_slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 10px;
+  background: #222222;
+  outline: none;
+  /* opacity: 0.7; */
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.pv_slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 36px;
+  background: #0070b0;
+  cursor: pointer;
+  border-radius:10px;	
+}
+/*
+.pv_slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+  cursor: pointer;
+}
+*/
+
+
+
+.slidecontainer {
+	width:100%;
+	
+}
+
+
+.jb_slider_inside {
+	width: 100%;
+	height: 400px;
+	max-width: 500px;
+	background: #0070b0;
+}
+
+
+.jb_slider_display{
+	height:auto;
+	/* background-color:#ffffff; */
+	width:100%;	
+}
+
+.inside_sld{
+	height:auto;
+	/* background-color:#ffffff; */
+	width:80%;
+
+} 
+
+.pv_fv_td_border{
+	border: none;
+	padding-bottom: 50px;
+}
+
+
+/*-------<( FV_PV calc settings End )>------- */
+
+
+
+
+@media (max-width: 590px){
+	.bubbles{font-size: 14px}
+	.bLeft{background: url(../images/StraightLeft.svg) no-repeat 0 0; left: 0px;}
+	.bRight{background: url(../images/StraightRight.svg) no-repeat 0 0;}
+	.bLeft, .bRight{display: block; margin: 10px auto;  background-size: 99% 90%; background-position: center;/*width: 270px;*/  width: 98%; }
+	.bRight{left: auto;}
+	.bText{width: 92% ;top: 12px; left: 15px;}
+}
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/* Text Bubble Style
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+  /* Place the timelime to the left */
+  .timeline::after {
+    left: 28px; /* 31px moves vertical line */
+  }
+
+	
+.timeline_line{
+left: 28px;
+}
+	
+	
+  /* Full-width timeline_containers */
+  .timeline_container {
+    width: 100%;
+    padding-left: 70px;  /* 70px */
+    padding-right: 25px;
+  }
+  
+  /* Make sure that all arrows are pointing leftwards */
+  .timeline_container::before {
+    left: 60px;                     /* 60px */
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+  }
+
+.left_arrow{
+
+ 	left: 60px;
+	transform: rotate(180deg);
+}
+	
+.right_arrow{
+
+	left: 60px;	
+}	
+	
+	
+.expert_img_pos{
+	margin-top:-18px;
+	margin-right: 2px;
+}	
+	
+	
+.timeline_circle_left{
+   
+    position: absolute;
+    width: 28px;
+    height: 28px;
+	left: 15px; 
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;	
+	
+}
+
+.timeline_circle_right{
+   
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 15px; 
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;	
+	
+}	
+	
+	
+  /* Make sure all circles are at the same spot */
+  .left::after, .right::after {
+    left: 15px; /* 15px */
+  }
+  
+	.left {
+		left: 0%;
+	}	
+	
+  /* Make all right timeline_containers behave like the left ones */
+  .right {
+    left: 0%; /* 0% */
+  }
+}
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/* Timeline Style */
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+
+
+@media screen and (max-width: 1024px) {
+
+  .expertContainer
+  {
+    
+    padding-right: 1px;
+    padding-left: 1px;
+    margin-right: auto;
+    margin-left: auto;
+    /* padding-bottom: 20px; */
+    width:80%
+  }
+
+  
+}
+
+@media screen and (max-width: 992px){
+
+}
+
+@media screen and (max-width: 768px) {
+
+  .expertContainer
+  {
+    
+    padding-right: 1px;
+    padding-left: 1px;
+    margin-right: auto;
+    margin-left: auto;
+    /* padding-bottom: 20px; */
+    width:100%
+  }
+
+  .ex_img
+  {
+    /* margin-left:-30%; */
+    height:130px;
+    width:60px;
+    object-fit: cover;
+    overflow: hidden;
+  }	
+
+  .ex_qt
+  {
+    
+    margin-left:0px;
+    text-align: left;
+    
+  }	
+
+  .tbDiv
+  {
+    overflow: auto;
+    padding: 10px;
+  }
+
+  audio {
+    display: block;
+	/* margin-left: -8px; */
+    width: 90ch; /* 60% 220px */
+}
+
+audio::-webkit-media-controls-enclosure {
+    max-width: 90ch; /*60% or inherit*/
+	line-height: 1.5;
+}
+
+pv_fv_title{font-size:22px; color:#0070b0;font-weight:bold;}	
+pv_fv{font-size:16px; color:#000000;font-weight:bold;}	
+pv_fv_lbl{font-size:16px; color:#000000;font-weight:bold;}
+
+
+}
+
+
+
+@media screen and (max-width: 414px) {
+
+.flip_con
+{
+  left:0%;
+}
+
+  .alt_kt_width
+  {
+    width: 364px;
+    margin: auto;
+    padding: 10px;
+    overflow-y: auto;	
+    height: 140px;
+    background-color: #0070b0;
+  }
+
+.jb_modal_width
+{
+  width: 384px;
+  margin: auto;
+  padding: 10px;
+  overflow: none;	
+  height: 150px;
+  background-color: #0070b0;
+}
+
+
+
+  .img_modal_hdr_ftr {
+    background-color: #0070b0;
+    margin: auto;
+    padding: 10px;
+    height:8px;
+    /* height: auto; */
+    height: auto;  
+    width: 384px; /*100% 600px 60% */
+  }
+
+  .zicon{
+    margin-right: 10%;
+  }
+
+  .jb_m_width
+  {
+    width: 100%;
+  }
+
+  .tbDiv
+  {
+    overflow: auto;
+    /* padding: 10px; */
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+
+    jb1{font-size:14px; color:#000000;} /* color: #00ff00; */
+    jb2{font-size:14px; font-weight:bold;}
+    jb3{font-size:14px; font-style: italic;}
+    jb4{font-size:14px; color:#ffffff;} /* color: #ffffff; */
+    jb5{font-size:14px; font-weight:bold; }
+    jb6{font-size:14px; font-style: italic; }
+    jb7{font-size:14px;} /* 16px */
+    jb8{font-size:16px; color:#000000;}
+
+
+  .carousel_margin
+  {
+    margin: 20px;  /* 0px; */
+  }
+
+  .expertContainer
+  {
+    
+    padding-right: 1px;
+    padding-left: 1px;
+    margin-right: auto;
+    margin-left: auto;
+    /* padding-bottom: 20px; */
+    width:100%
+  }
+
+  .expert_bmargin
+	{
+		margin-bottom: 30px;
+	}
+
+  .ex_img
+  {
+    /* margin-left:-20px; */
+    height:100%; /* 100px */
+    width:60px;
+    overflow: hidden;
+    object-fit: cover;
+  } 
+
+  .c_width
+  {
+    width:50%;
+  }
+
+  .new_accordion
+  {
+    max-height: 480px;
+    overflow-x: none;
+    overflow-y: scroll
+  }
+
+  .lst_border_width
+  {
+    max-width: 100%;
+  }
+
+  .c_Img
+  {
+    width:300px; /* 100% */
+    height:auto;
+       
+  }	
+  
+  
+  .bExpertVid{position: relative; max-width:120ch; /* height: 360px; */} /* 640px */
+.bExpertVid::after{
+    content: '';
+    display:block;
+    width: 70px; /* 147 */
+    height: 70px; /* 147 */
+   background:url(../../jbuild_libs/images/expert_video_small.png) no-repeat;
+    position:absolute;
+    top: -3px; /* -7px */
+    right: -3px; /* -7px */
+}	
+
+pv_fv_title{font-size:20px; color:#0070b0;font-weight:bold;}
+pv_fv{font-size:14px; color:#000000;font-weight:bold;}		
+pv_fv_display{font-size:15px; color:#000000;font-weight:bold;}
+
+}
+
+
+@media screen and (max-width: 375px) {
+
+  audio {
+    display: block;
+	  margin-left: -8px;
+    width: 45ch; /* 60% 180px */
+}
+
+audio::-webkit-media-controls-enclosure {
+    max-width: 45ch; /*60% or inherit 180px*/
+}
+
+
+}
+
+@media screen and (max-width: 360px) {
+  audio {
+    display: block;
+	  margin-left: -14px;
+    width: 45ch; /* 60% */
+}
+
+  audio::-webkit-media-controls-enclosure {
+    max-width: 45ch; /*60% or inherit*/
+}
+
+}
+
+@media screen and (max-width: 320px) {
+
+  audio {
+    display: block;
+	  margin-left: -80px;
+    width: 130px; /* 60% */
+}
+
+  audio::-webkit-media-controls-enclosure {
+    max-width: 130px; /*60% or inherit*/
+}
+
+}

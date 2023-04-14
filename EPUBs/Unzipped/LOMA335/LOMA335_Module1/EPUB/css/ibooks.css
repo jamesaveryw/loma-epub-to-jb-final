@@ -1,0 +1,300 @@
+﻿/*******************************************************
+
+Project: LOMA Ebook Apple Books specific CSS
+Developer: James Avery Wilhelm
+Date: 2020-05-01
+Modified: 2020-05-01
+
+*******************************************************/
+
+section.ibooks ol.choices li .check {
+	height: 15px;
+	width: 15px;
+}
+section.ibooks ol.choices li .check .inside.ibooks {
+	left: 0px;
+	top: 1px;
+}
+section.ibooks ol.choices li img.answer-marker {
+	left: .05em;
+	top: .1em;
+	z-index: 100;
+}
+
+section.ibooks div[data-qtype="dd"] ul.lb-options[aria-hidden="false"] {
+	overflow-x: hidden;	
+	 width: 8em; 
+}
+section.ibooks div[data-qtype="dd"] ul.lb-options li[role="option"] {
+	padding: .25em .25em 0 .25em;
+}
+#modalOverlay.iphone {
+	position: absolute;
+}
+#modalAlertBox.description.ibooks {
+	max-width: 400px;
+}
+#modalAlertBox.ibooks,
+.ibm #modalAlertBox {
+  	top: 50%;
+}
+section.ibm #modalAlertBox.description th p {
+	color: #000000;
+}
+section.ibm {
+	padding: 0;
+}
+
+section.ibm p.indent1 {
+	margin-left: 6%!important;
+}
+section.ibm p.indent2 {
+	margin-left: 12%!important;
+	text-align: right;
+}
+section.ibm p.indent3 {
+	margin-left: 18%!important;
+	text-align: right;
+}
+
+section.ibm table {
+	width: 100%;
+}
+section.ibm table tr,
+section.ibm table td {
+	display: table-row;
+}
+section.ibm table tr {
+	padding: 4px 14px 4px 5px;
+}
+section.ibm table tr.header {
+	display: none;
+	width: 0;
+}
+section.ibm table.blue tbody > tr.title,
+section.ibm table.blue.striped tbody > tr.title {
+	background-color: #0069ad;
+}
+section.ibm table.teal tbody > tr.title,
+section.ibm table.teal.striped tbody > tr.title {
+	background-color: #006a65;
+}
+section.ibm table.orange tbody > tr.title,
+section.ibm table.striped tbody > tr.title {
+	background-color: #EF7014;
+}
+section.ibm table.red tbody > tr.title,
+section.ibm table.red.striped tbody > tr.title {
+	background-color: #d90000;
+}
+section.ibm table.green tbody > tr.title,
+section.ibm table.green.striped tbody > tr.title {
+	background-color: #00ab4f;
+}
+section.ibm table.purple tbody > tr.title,
+section.ibm table.purple.striped tbody > tr.title {
+	background-color: #7e05bb;
+}
+section.ibm table.black tbody > tr.title,
+section.ibm table.black.striped tbody > tr.title {
+	background-color: #000000;
+}
+section.ibm table.blue tbody th,
+section.ibm table.teal tbody th,
+section.ibm table.orange tbody th,
+section.ibm table.red tbody th,
+section.ibm table.green tbody th,
+section.ibm table.purple tbody th,
+section.ibm table.black tbody th {
+	background-color: transparent;
+	color: #000000;
+}
+section.ibm table td {
+	display: grid;
+}
+section.ibm table td span.resp-th {
+	display: inline;
+}
+section.ibm table.choice-table tr.header,
+section.ibm table.choice-table tr.data,
+section.ibm table.tbexam tr.header,
+section.ibm table.tbexam tr.data,
+section.ibm table.equation tr,
+section.ibm table.equation-left tr,
+section.ibm table.equation-right tr {
+	display: table-row;
+}
+section.ibm table tr.title th {
+	color: #ffffff;
+	display: block;
+	/*width: 100%;*/
+}
+section.ibm table tr.data th {
+	border: none;
+	display: block;
+	font-size: 1.2em;
+	text-decoration: underline;
+	/*width: 100%;*/
+}
+section.ibm table.choice-table td,
+section.ibm table.tbexam td,
+section.ibm table.equation td,
+section.ibm table.equation-left td,
+section.ibm table.equation-right td  {
+	display: table-cell;
+}
+section.ibm table.choice-table td:first-child {
+	width: 35%;
+}
+
+
+
+/*** 5.1: Figures ***/
+section.ibm figure.unnumbered-fig,
+section.ibm div.unnumbered-fig {
+	float: none;
+	margin: 1em auto;
+}
+figure.numbered-fig,
+div.numbered-fig,
+div.question-container {
+	padding: 1em 0;
+	width: 100%;
+}
+
+/*** 5.2: Videos ***/
+section.ibm div.video-container video {
+	width: 100%;
+}
+section.ibm div.video-container img.logo {
+	display: none;
+}
+section.ibm div.video-container div.speed-pop {
+	bottom: 63px;
+}
+section.ibm div.video-container .time-display {
+	/*margin-top: .25em;*/
+	display: none;
+}
+section.ibm div.v-title-overlay p.v-title {
+	font-size: 1.2em;
+}
+section.ibm div.lt-controls {
+	width: 56%;
+}
+section.ibm div.lt-controls > input.volume-bar {
+	margin: 0 5px 0 5px;
+	width: 35%;
+}
+
+/*** 5.3: Insights ***/
+section.ibm div.insight {
+	overflow: unset;
+  	width: 100%;
+}	
+section.ibm div.insight-inset {
+  	width: 100%;
+}
+
+/*** 5.4: Practice Questions ***/
+section.ibm #tcCHdiv {
+	overflow-y: auto;
+}
+section.ibooks-pq div.navbar {
+	position: absolute;
+	width: 95.5%;
+}
+section.ibm #tcCHdiv #navbar.navbar .nav-menu > div.navcell {
+	margin: 0 .1em;
+}
+section.ibm .nav-menu > div span {
+	padding: 0 .05em;
+}
+section.ibm .nav-menu-container {
+	margin-top: 0;
+}
+section.ibm .nav-menu > div span.label {
+	display: none;
+}
+section.ibm .nav-menu > div {
+	padding: 0.5em .05em 0.5em;
+}
+section.ibm .nav-menu > div span.icon img {
+	width: 26px;
+}
+section.ibm div.qlist-header {
+	height: 60px;
+}
+section.ibm #exam div.anstable {
+	margin: 1em;
+}
+section.ibm div#examitem[aria-hidden="true"] {
+	display: none;
+}
+div#examitem[aria-hidden="false"] {
+	display: block;
+}
+section.ibm #examitem span.exam-title {
+	display: block;
+	float: none;
+}
+section.ibm .menu-toggle[aria-expanded="true"] ~ #exam {
+	margin-left: 4.3em;
+}
+section.ibm div.qlist {
+	width: 4em;
+}
+section.ibm #exam div.ref-bar > p.textref {
+	display: block;
+	position: unset;
+}
+section.ibm h3.overall-score,
+section.ibm h3.lo-scores {
+	margin: 1em 0;
+}
+section.ibm div.overall > div.donut-container,
+section.ibm div.overall > div.expl-container {
+	display: block;
+	float: none;
+	margin: 1em 0;
+	width: 100%;
+}
+section.ibm div.overall div.scalable {
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 55%;
+	width: 55%;
+}
+section.ibm div.overall svg {
+	margin: 0;
+}
+section.ibm table.lo-head thead th,
+section.ibm table.chapterscore thead th,
+section.ibm table.chapterscore td, 
+table.lo-head td {
+	padding: .5em;
+}
+
+section.ibm table.lo-head td img.c-marker,
+section.ibm table.lo-head td img.x-marker {
+	left: 5%;
+	top: 25%;
+}
+
+section.ibooks-pq #splash,
+section.ibooks-pq #feedback,
+section.ibooks-pq #correct,
+section.ibooks-pq #incorrect {
+	position: absolute;
+}
+section.ibm #splash,
+section.ibm #correct, 
+section.ibm #incorrect {
+	max-height: 70%;
+}
+section.ibm #lo-pop {
+	-webkit-transform: translate(-50%, 0%) scale(1);
+	-ms-transform: translate(-50%, 0%) scale(1);
+	transform: translate(-50%, 0%) scale(1);
+	width: 85%;
+}

@@ -1,0 +1,258 @@
+<!--?xml version='1.0' encoding='UTF-8'?--><!DOCTYPE html><html xml:lang="en-us" lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head>
+    <link rel="stylesheet" type="text/css" href="../../css/base.css" />
+<link rel="stylesheet" type="text/css" href="../../css/kotobeeInteractive.css" />
+<link rel="stylesheet" type="text/css" href="../../css/reset.css" />
+<link rel="stylesheet" type="text/css" href="../../css/fonts.css" />
+<link rel="stylesheet" type="text/css" href="../../css/global.css" />
+<link rel="stylesheet" type="text/css" href="../../css/video-player.css" />
+<link rel="stylesheet" type="text/css" href="../../css/ibooks.css" />
+<link rel="stylesheet" type="text/css" href="../../css/ibooks-alt.css" />
+
+    <script type="text/javascript" src="../../js/kotobeeInteractive.js"></script>
+<script type="text/javascript" src="../../js/global.js"></script>
+
+    <title>Introduction to Financial Modeling</title>
+    
+
+<meta charset="utf-8" />
+ <meta name="kotobee-chapter" content="chapter4\page3.xhtml" />
+<meta name="kotobee-book" content="urn:uuid:3ae6713d-28a0-c509-76ec-6cbc8dd1b695" />
+</head>
+<body>
+<section class="section" epub:type="part" id="loma371-ch4-section-3" role="doc-part"><img alt="" class="hidden-logo" src="../../imgs/loma.png" />
+<h2 epub:type="title" id="loma371-ch4-h2-4">Introduction to Financial Modeling</h2>
+
+<p class="txt-ni" id="loma371-ch4-p-28">Financial models forecast a company’s or product’s future financial performance using historical data and assumptions about the future. Insurance companies commonly use financial models that interact with company accounting and financial reporting systems to generate financial reports and produce estimates of future financial conditions. These estimates are an important part of insurance company efforts in ERM, ALM, portfolio management, and technical product design. Practical uses of financial models include</p>
+
+<ul class="list" id="loma371-ch4-ul-8">
+	<li id="loma371-ch4-li-32">
+	<p id="loma371-ch4-p-29">Estimating future cash inflows, future cash outflows, net cash flows, and the timing around such activities</p>
+	</li>
+	<li id="loma371-ch4-li-33">
+	<p id="loma371-ch4-p-30">Estimating future values for assets, reserves, capital, and expenses</p>
+	</li>
+	<li id="loma371-ch4-li-34">
+	<p id="loma371-ch4-p-31">Determining the value of an insurance company, a new product, or product line</p>
+	</li>
+	<li id="loma371-ch4-li-35">
+	<p id="loma371-ch4-p-32">Evaluating how future economic and regulatory environments might affect financial health</p>
+	</li>
+	<li id="loma371-ch4-li-36">
+	<p id="loma371-ch4-p-33">Analyzing risks that threaten an insurer’s solvency</p>
+	</li>
+</ul>
+
+<p class="txt" id="loma371-ch4-p-34">Poor assumptions and ineffective models can lead to problems in risk management and product development—in particular, the technical product design phase, where most financial modeling occurs. An insurer’s long-term financial success relies on the ability to estimate the future behavior of key risk factors, such as mortality or investment performance, over the lifetime of insurance and annuity products.</p>
+
+<p class="txt" id="loma371-ch4-p-35">While actuaries do the majority of financial modeling work, other employees at an insurance company are also vital to the process. For example, any historical data used in a model must be accurate and precise. So, employees in other departments, such as underwriting, claims, accounting, and marketing, all play a critical role by providing accurate data, and therefore building a foundation for the company’s financial projections.</p>
+
+<div class="clearfix" id="loma371-ch4-div-12">&#160;</div>
+
+<h3 id="loma371-ch4-h3-1">Components of Financial Models</h3>
+
+<p class="txt-ni" id="loma371-ch4-p-36">Financial models consist of four primary components: inputs, approaches, outputs, and analysis.</p>
+
+<div class="clearfix" id="loma371-ch4-div-13">&#160;</div>
+
+<h4 id="loma371-ch4-h4-1">Model Inputs</h4>
+
+<p class="txt-ni" id="loma371-ch4-p-37">The inputs in financial models take the form of <span class="gt" data-term="ch4-gt-variables" epub:type="glossref" id="loma371-ch4-span-4" role="doc-glossref">variables</span>, which are items of data whose numerical value varies. The input variables used in models are independent variables that represent the measurement of real-world financial values. An <span class="gt" data-term="ch4-gt-independentvariable" epub:type="glossref" id="loma371-ch4-span-5" role="doc-glossref">independent variable</span> is a variable that influences the behavior of another variable—called the <em>dependent variable</em>—and determines the outcome of a financial model. By definition, independent variables are not influenced by other variables. By convention, independent variables are labeled <em>x</em>. Multiple independent variables are labeled <em>x</em> <sub>1</sub>, <em>x</em> <sub>2</sub>, and so on.</p>
+
+<p class="txt" id="loma371-ch4-p-38">Insurers typically derive model inputs for financial models from four sources: actuarial assumptions, internal and industry experience data, regulatory requirements, and estimates of possible future conditions. Recall from Chapter 1 that insurers use assumptions in risk management or technical product design to represent the estimated value of components, such as investment earnings, the cost of benefits, company expenses, and unexpected financial results. The accuracy of the assumptions and inputs used in financial models directly affect the success or failure of new and existing products. Even a small change in an assumption’s value can result in significant changes in the model’s results.</p>
+
+<div class="example" id="loma371-ch4-div-14">
+<div class="inner" id="loma371-ch4-div-15">
+<p class="txt-ni" id="loma371-ch4-p-39">Flambeau Life Insurance is modeling the effect of investment earnings on the interest-crediting rate for a proposed fixed-rate deferred annuity product. The assumption in this model is the investment earnings. One example of an input for this model would be investment earnings of 4%.</p>
+</div>
+</div>
+
+<div class="clearfix" id="loma371-ch4-div-16">&#160;</div>
+
+<h4 id="loma371-ch4-h4-2">Modeling Approaches</h4>
+
+<p class="txt-ni" id="loma371-ch4-p-40">The goal of financial modeling is to test a scenario by extrapolating multiple outcomes as variables change, determining the most probable outcomes so that the insurer can plan for them accordingly. Realistically, there are far too many variables that can potentially influence a scenario over a number of years for any one financial model to incorporate. An insurer must therefore choose the right model for the task at hand.</p>
+
+<p class="txt" id="loma371-ch4-p-41">Modeling approaches include deterministic modeling, stochastic modeling, and optimization modeling. We discuss these approaches in a later section.</p>
+
+<div class="clearfix" id="loma371-ch4-div-17">&#160;</div>
+
+<h4 id="loma371-ch4-h4-3">Model Outputs</h4>
+
+<p class="txt-ni" id="loma371-ch4-p-42">The outputs of financial models represent the projected future values produced by processing inputs—the <em>independent variables</em>—through the model. In financial modeling, a <span class="gt" data-term="ch4-gt-dependentvariable" epub:type="glossref" id="loma371-ch4-span-6" role="doc-glossref">dependent variable </span>is a variable that reacts to changes in other variables. By convention, dependent variables are labeled <em>y</em>, and multiple dependent variables are labeled <em>y</em> <sub>1</sub>, <em>y</em> <sub>2</sub>, and so on. The rule, or <em>function</em>, that describes how a dependent variable relates to—or depends on—an independent variable is usually written as <em>y</em> = <em>f</em>(<em>x</em>).</p>
+
+<p class="txt" id="loma371-ch4-p-43">Insurers use the outputs of financial models to perform financial analysis and to help them make decisions about deploying capital, budgeting and forecasting, growing the business, and prioritizing product ideas.</p>
+
+<div class="example" id="loma371-ch4-div-18">
+<div class="inner" id="loma371-ch4-div-19">
+<p class="txt-ni" id="loma371-ch4-p-44">Flambeau Life Insurance is modeling the effect of investment earnings on the interest-crediting rate for its proposed fixed-rate deferred annuity product. The interest-crediting rate <em>depends</em> on the investment earnings, so the interest-crediting rate is the <em>dependent</em> variable, while the investment earnings act as the <em>independent</em> variable.</p>
+</div>
+</div>
+
+<div class="clearfix" id="loma371-ch4-div-20">&#160;</div>
+
+<h4 id="loma371-ch4-h4-4">Model Analysis</h4>
+
+<p class="txt-ni" id="loma371-ch4-p-45">Model analysis involves examining all the outputs of a financial model to see whether patterns or correlations exist. Model analysis can determine the direction of the change in output variables created by changes in input variables—as well as the amount and timing of those changes—and whether the outcomes represent favorable or unfavorable conditions.</p>
+
+<p class="txt" id="loma371-ch4-p-46">Testing multiple scenarios is a key component in model analysis. In product design, testing involves using one or more sets of assumed values in the model to ensure that the product can produce sound financial results for the customer and the insurer. Throughout product testing, the company must ensure that the assumed values are realistic, actuarially sound, and validated by testing.</p>
+
+<p class="txt" id="loma371-ch4-p-47">Watch Video 4.1 for a summary of how the components of financial models interact.</p>
+
+<div class="figure numbered-fig" id="video4-1">
+<div class="video-container" id="loma371-ch4-div-21">
+<div class="v-title-overlay" id="loma371-ch4-div-22">
+<p class="v-title" id="loma371-ch4-p-48">&#160;</p>
+</div>
+
+<video controls="controls" epub:type="learning-resource"><source src="../../video/4-1video.mp4" /> Sorry, it appears your system either does not support video playback or cannot play the MP4 format provided. Go to the online course portal to view the video.</video>
+
+<div class="video-controls" id="loma371-ch4-div-23"><button aria-label="play" class="play-pause-bg" style="opacity: 0;" type="button"><img alt="" class="play-icon active" id="loma371-ch4-img-26" src="../../imgs/play.png" /> <img alt="" class="pause-icon" id="loma371-ch4-img-27" src="../../imgs/pause.png" /> <img alt="" class="restart-icon" id="loma371-ch4-img-28" src="../../imgs/vid-restart.png" /></button>
+
+<div class="progress-wrapper" id="loma371-ch4-div-24">
+<div class="progress-bar" id="loma371-ch4-div-25">
+<div class="progress-played" id="loma371-ch4-div-26">&#160;</div>
+</div>
+
+<div aria-label="video progress bar" aria-valuemax="0" aria-valuemin="0" aria-valuenow="0" aria-valuetext="0 seconds" class="progress-thumb" id="loma371-ch4-div-27" orientation="horizontal" role="slider" tabindex="0">&#160;</div>
+</div>
+
+<div class="lt-controls" id="loma371-ch4-div-28"><button aria-label="play" class="play-pause" type="button"><img alt="" class="play-icon active" id="loma371-ch4-img-29" src="../../imgs/play.png" /> <img alt="" class="pause-icon" id="loma371-ch4-img-30" src="../../imgs/pause.png" /> <img alt="" class="restart-icon" id="loma371-ch4-img-31" src="../../imgs/vid-restart.png" /></button><button aria-label="mute" class="mute" type="button"><img alt="" class="volume-icon vol-0" id="loma371-ch4-img-32" src="../../imgs/speaker0.png" /> <img alt="" class="volume-icon vol-1" id="loma371-ch4-img-33" src="../../imgs/speaker1.png" /> <img alt="" class="volume-icon vol-2" id="loma371-ch4-img-34" src="../../imgs/speaker2.png" /> <img alt="" class="volume-icon vol-3 active" id="loma371-ch4-img-35" src="../../imgs/speaker3.png" /></button><input aria-label="volume control" class="volume-bar" max="1" min="0" step="0.1" type="range" value="1" />
+<div class="time-display" id="loma371-ch4-div-29"><span class="time" id="loma371-ch4-span-7">0:00</span> <span class="time-sep" id="loma371-ch4-span-8"> / </span> <span class="duration" id="loma371-ch4-span-9">1:05</span></div>
+</div>
+
+<div class="rt-controls" id="loma371-ch4-div-30">
+<div class="speed-pop hide" id="loma371-ch4-div-31" style="display:none;">
+<ul aria-hidden="true" aria-label="video speeds menu" class="vid-speeds" id="speed-menu-4-1" role="menu">
+	<li aria-label="change video speed to 1.75" data-pb-rate="1.75" id="loma371-ch4-li-37" role="menuitem" tabindex="0">1.75x</li>
+	<li aria-label="change video speed to 1.5" data-pb-rate="1.5" id="loma371-ch4-li-38" role="menuitem" tabindex="0">1.50x</li>
+	<li aria-label="change video speed to 1.25" data-pb-rate="1.25" id="loma371-ch4-li-39" role="menuitem" tabindex="0">1.25x</li>
+	<li aria-label="change video speed to 1" class="active" data-pb-rate="1" id="loma371-ch4-li-40" role="menuitem" tabindex="0">1.00x</li>
+	<li aria-label="change video speed to 0.75" data-pb-rate=".75" id="loma371-ch4-li-41" role="menuitem" tabindex="0">0.75x</li>
+	<li aria-label="change video speed to 0.5" data-pb-rate=".5" id="loma371-ch4-li-42" role="menuitem" tabindex="0">0.50x</li>
+	<li aria-label="change video speed to 0.25" data-pb-rate=".25" id="loma371-ch4-li-43" role="menuitem" tabindex="0">0.25x</li>
+</ul>
+</div>
+<button aria-haspopup="menu" aria-label="change video speed: current speed 1.00" class="vid-speed" ria-controls="speed-menu-4-1" type="button"><span class="txt" id="loma371-ch4-span-10">1.00x</span> <span class="uarrow" id="loma371-ch4-span-11"></span></button><button aria-label="full screen" class="full-screen" type="button"><img alt="" class="fs-icon" id="loma371-ch4-img-36" src="../../imgs/fullscreen.png" /></button><img alt="LOMA" class="logo" id="loma371-ch4-img-37" src="../../imgs/loma.png" /></div>
+</div>
+</div>
+
+<div class="transcript hidden" id="loma371-ch4-div-32"><span class="ts-button" data-description="video4-1" id="loma371-ch4-span-12" tabindex="0">Transcript</span></div>
+
+<div class="static-transcript visible" id="loma371-ch4-div-33"><a class="vid-ts" epub:type="noteref" href="../raw/descriptions.xhtml#video4-1" id="loma371-ch4-a-11" role="doc-noteref">Video 4-1 Transcript</a></div>
+</div>
+
+<div class="question-wrapper" id="loma371-ch4-question-2-wrap">
+<div class="question-container hidden" data-qtype="mc" epub:type="question" id="loma371-ch4-question-2">
+<p class="q-title" id="loma371-ch4-p-49"><img alt="Let’s Review" class="usesFloatingControlbar" id="loma371-ch4-img-38" src="../../imgs/lets-review.png" /></p>
+
+<div class="stem-cont" id="loma371-ch4-question-2-label">
+<p class="q-stem" id="loma371-ch4-p-50">An insurer is modeling the effect of investment earnings on the interest-crediting rate for a proposed annuity. As investment earnings increase, the interest-crediting rate increases. In this model, the investment earnings are an example of an (<strong>input</strong> / <strong>output</strong>) and a/an (<strong>dependent variable</strong> / <strong>independent variable</strong>).</p>
+</div>
+
+<ol aria-labelledby="loma371-ch4-question-2-label" class="choices" id="loma371-ch4-ol-3" role="radiogroup">
+	<li aria-checked="false" id="loma371-ch4-question-2-i0" role="radio" tabindex="0"><label for="loma371-ch4-question-2-i0">input / dependent variable </label>
+
+	<div class="radio-wrapper" id="loma371-ch4-div-34">
+	<div class="check" id="loma371-ch4-div-35">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-39" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-40" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-41" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-42" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-2-i1" role="radio" tabindex="-1"><label for="loma371-ch4-question-2-i1">input / independent variable</label>
+	<div class="radio-wrapper" id="loma371-ch4-div-36">
+	<div class="check" id="loma371-ch4-div-37">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-43" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-44" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-45" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-46" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-2-i2" role="radio" tabindex="-1"><label for="loma371-ch4-question-2-i2">output / dependent variable </label>
+	<div class="radio-wrapper" id="loma371-ch4-div-38">
+	<div class="check" id="loma371-ch4-div-39">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-47" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-48" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-49" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-50" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-2-i3" role="radio" tabindex="-1"><label for="loma371-ch4-question-2-i3">output / independent variable </label>
+	<div class="radio-wrapper" id="loma371-ch4-div-40">
+	<div class="check" id="loma371-ch4-div-41">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-51" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-52" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-53" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-54" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+</ol>
+
+<p class="reveal" id="loma371-ch4-p-51"><span class="btn" data-answer="loma371-ch4-question-2-key" id="loma371-ch4-span-17" role="button" tabindex="0">Submit</span></p>
+</div>
+
+<div class="question-container-static visible" data-qtype="mc" epub:type="question" id="loma371-ch4-question-2-static">
+<p class="q-title-static" id="loma371-ch4-p-52"><img alt="Let’s Review" id="loma371-ch4-img-55" src="../../imgs/lets-review.png" /></p>
+
+<p class="q-stem-static" id="loma371-ch4-p-53">An insurer is modeling the effect of investment earnings on the interest-crediting rate for a proposed annuity. As investment earnings increase, the interest-crediting rate increases. In this model, the investment earnings are an example of an (<strong>input</strong> / <strong>output</strong>) and a/an (<strong>dependent variable</strong> / <strong>independent variable</strong>).</p>
+
+<ol class="choices-static" id="loma371-ch4-ol-4">
+	<li id="loma371-ch4-question-2-i0-static">input / dependent variable</li>
+	<li id="loma371-ch4-question-2-i1-static">input / independent variable</li>
+	<li id="loma371-ch4-question-2-i2-static">output / dependent variable</li>
+	<li id="loma371-ch4-question-2-i3-static">output / independent variable</li>
+</ol>
+
+<p class="reveal-static" id="loma371-ch4-p-54"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma371-ch4-question-2-key" id="loma371-ch4-a-12" role="doc-noteref">Check your answer</a></p>
+</div>
+</div>
+
+<div class="question-wrapper" id="loma371-ch4-question-3-wrap">
+<div class="question-container hidden" data-qtype="ms" epub:type="question" id="loma371-ch4-question-3">
+<p class="q-title" id="loma371-ch4-p-55"><img alt="Let’s Review" id="loma371-ch4-img-56" src="../../imgs/lets-review.png" /></p>
+
+<div class="stem-cont" id="loma371-ch4-question-3-label">
+<p class="q-stem" id="loma371-ch4-p-56">Insurers typically derive financial model inputs from which sources? (Choose all that apply.)</p>
+</div>
+
+<ol aria-labelledby="loma371-ch4-question-3-label" class="choices" id="loma371-ch4-ol-5" role="group">
+	<li aria-checked="false" id="loma371-ch4-question-3-i0" role="checkbox" tabindex="0"><label for="loma371-ch4-question-3-i0">Actuarial assumptions</label>
+
+	<div class="radio-wrapper" id="loma371-ch4-div-42">
+	<div class="check" id="loma371-ch4-div-43">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-57" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-58" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-59" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-60" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-3-i1" role="checkbox" tabindex="0"><label for="loma371-ch4-question-3-i1">Internal and industry experience data</label>
+	<div class="radio-wrapper" id="loma371-ch4-div-44">
+	<div class="check" id="loma371-ch4-div-45">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-61" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-62" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-63" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-64" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-3-i2" role="checkbox" tabindex="0"><label for="loma371-ch4-question-3-i2">Regulatory requirements</label>
+	<div class="radio-wrapper" id="loma371-ch4-div-46">
+	<div class="check" id="loma371-ch4-div-47">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-65" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-66" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-67" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-68" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+	<li aria-checked="false" id="loma371-ch4-question-3-i3" role="checkbox" tabindex="0"><label for="loma371-ch4-question-3-i3">Estimates of possible future conditions</label>
+	<div class="radio-wrapper" id="loma371-ch4-div-48">
+	<div class="check" id="loma371-ch4-div-49">&#160;</div>
+	<img alt="correct" class="answer-marker correct hide" id="loma371-ch4-img-69" src="../../imgs/checkmark-xs.png" /> <img alt="incorrect" class="answer-marker incorrect hide" id="loma371-ch4-img-70" src="../../imgs/times-circle-xs.png" /> <img alt="correct" class="answer-marker correct-ib hide" id="loma371-ch4-img-71" src="../../imgs/checkmark-xs-light.png" /> <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma371-ch4-img-72" src="../../imgs/times-circle-xs-light.png" /></div>
+	</li>
+</ol>
+
+<p class="reveal" id="loma371-ch4-p-58"><span class="btn" data-answer="loma371-ch4-question-3-key" id="loma371-ch4-span-18" role="button" tabindex="0">Submit</span></p>
+</div>
+
+<div class="question-container-static visible" data-qtype="ms" epub:type="question" id="loma371-ch4-question-3-static">
+<p class="q-title-static" id="loma371-ch4-p-59"><img alt="Let’s Review" id="loma371-ch4-img-73" src="../../imgs/lets-review.png" /></p>
+
+<p class="q-stem-static" id="loma371-ch4-p-60">Insurers typically derive financial model inputs from which sources? (Choose all that apply.)</p>
+
+<ol class="choices-static" id="loma371-ch4-ol-6">
+	<li id="loma371-ch4-question-3-i0-static">Actuarial assumptions</li>
+	<li id="loma371-ch4-question-3-i1-static">Internal and industry experience data</li>
+	<li id="loma371-ch4-question-3-i2-static">Regulatory requirements</li>
+	<li id="loma371-ch4-question-3-i3-static">Estimates of possible future conditions</li>
+</ol>
+
+<p class="reveal-static" id="loma371-ch4-p-61"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma371-ch4-question-3-key" id="loma371-ch4-a-13" role="doc-noteref">Check your answer</a></p>
+</div>
+</div>
+
+<div aria-hidden="true" id="modalOverlay">
+<div aria-labelledby="modalTitle" aria-modal="true" id="modalAlertBox" role="dialog">
+<div class="header"><span aria-label="Close" role="button" tabindex="0">×</span></div>
+
+<div class="modalAlertContent">&#160;</div>
+</div>
+</div>
+</section>
+
+
+
+
+</body></html>

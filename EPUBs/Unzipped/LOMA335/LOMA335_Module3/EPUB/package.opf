@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Operational Excellence for Insurance Professionals - Module 3</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:978-1-57974-467-0M3</dc:identifier>
+        <meta name="cover" content="img27" />
+
+        <dc:creator>LOMA</dc:creator>
+        <dc:publisher>LOMA</dc:publisher>
+        <dc:rights>LOMA 2019</dc:rights>
+        <dc:language>en-US</dc:language>
+        <dc:description>&lt;p&gt;The insurance industry is in the midst of fundamental changes in technology, products and markets, and customer expectations. &lt;em&gt;LOMA 335&amp;mdash;Operational Excellence for Insurance Professionals&lt;/em&gt; presents the business conditions and risks unique to the life insurance industry and helps you understand how to maximize value from company operations.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Find out about effective decision making in insurance company operations. Module 3 &lt;/strong&gt;presents the steps in the decision-making process, types of data needed for decision making, as well as data analysis and modeling concepts. Plus, you&amp;rsquo;ll learn about innovation and ways to spur innovative thinking during the decision-making process.&amp;nbsp;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 7: &lt;/strong&gt;The Decision-Making Process&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 8: &lt;/strong&gt;Analysis and Modeling&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 9: &lt;/strong&gt;Data for Decision Making&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 10: &lt;/strong&gt;Innovation and Innovative Thinking&lt;/li&gt;
+&lt;/ul&gt;
+</dc:description>
+        <meta property="dcterms:modified">2022-04-28T12:35:00Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.8.0</meta>
+        <meta property="kotobee:build">2261</meta>
+
+        <!-- DAISY requirements -->
+        <meta property="schema:accessMode">textual</meta>
+        <meta property="schema:accessMode">visual</meta>
+        <meta property="schema:accessModeSufficient">textual, visual</meta>
+        <meta property="schema:accessibilityFeature">structuralNavigation</meta> 
+        <meta property="schema:accessibilityHazard">none</meta> 
+        <meta property="schema:accessibilitySummary">The publication contains structural and page navigation.</meta>
+
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/fm/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/fm/page1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/fm/page2.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/fm/page3.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/fm/page4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/chapter7/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/chapter7/page1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/chapter7/page2.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/chapter7/page3.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/chapter7/page4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html10" href="xhtml/chapter7/page5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html11" href="xhtml/chapter7/page6.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html12" href="xhtml/chapter7/page7.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html13" href="xhtml/chapter8/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html14" href="xhtml/chapter8/page1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html15" href="xhtml/chapter8/page2.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html16" href="xhtml/chapter8/page3.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html17" href="xhtml/chapter8/page4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html18" href="xhtml/chapter8/page5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html19" href="xhtml/chapter8/page6.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html20" href="xhtml/chapter9/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html21" href="xhtml/chapter9/page1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html22" href="xhtml/chapter9/page2.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html23" href="xhtml/chapter9/page3.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html24" href="xhtml/chapter9/page4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html25" href="xhtml/chapter9/page5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html26" href="xhtml/chapter9/page6.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html27" href="xhtml/chapter9/page7.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html28" href="xhtml/chapter9/page8.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html29" href="xhtml/chapter10/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html30" href="xhtml/chapter10/page1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html31" href="xhtml/chapter10/page2.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html32" href="xhtml/chapter10/page3.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html33" href="xhtml/chapter10/page4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html34" href="xhtml/chapter10/page5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html35" href="xhtml/chapter10/page6.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html36" href="xhtml/chapter10/page7.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html37" href="xhtml/chapter10/page8.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html38" href="xhtml/chapter10/page9.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html39" href="xhtml/chapter10/page10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html40" href="xhtml/raw/answer-key.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html41" href="xhtml/raw/descriptions.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html42" href="xhtml/raw/endnotes.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html43" href="xhtml/raw/glossary.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/10-2figure.jpg" media-type="image/jpeg"/>
+<item id="img1" href="imgs/10-3figure.jpg" media-type="image/jpeg"/>
+<item id="img2" href="imgs/10-4figure.jpg" media-type="image/jpeg"/>
+<item id="img3" href="imgs/10-5figure.jpg" media-type="image/jpeg"/>
+<item id="img4" href="imgs/7-1figure.jpg" media-type="image/jpeg"/>
+<item id="img5" href="imgs/7-2figure.jpg" media-type="image/jpeg"/>
+<item id="img6" href="imgs/7-3figure.jpg" media-type="image/jpeg"/>
+<item id="img7" href="imgs/7-4figure.jpg" media-type="image/jpeg"/>
+<item id="img8" href="imgs/7-5figure.jpg" media-type="image/jpeg"/>
+<item id="img9" href="imgs/7-6figure.jpg" media-type="image/jpeg"/>
+<item id="img10" href="imgs/8-1figure.jpg" media-type="image/jpeg"/>
+<item id="img11" href="imgs/8-2figure.jpg" media-type="image/jpeg"/>
+<item id="img12" href="imgs/8-3figure.jpg" media-type="image/jpeg"/>
+<item id="img13" href="imgs/8-4figure.jpg" media-type="image/jpeg"/>
+<item id="img14" href="imgs/9-1figure.jpg" media-type="image/jpeg"/>
+<item id="img15" href="imgs/9-2figure.jpg" media-type="image/jpeg"/>
+<item id="img16" href="imgs/9-3figure.jpg" media-type="image/jpeg"/>
+<item id="img17" href="imgs/9-4figure.jpg" media-type="image/jpeg"/>
+<item id="img18" href="imgs/9-5figure.jpg" media-type="image/jpeg"/>
+<item id="img19" href="imgs/9-7figure.jpg" media-type="image/jpeg"/>
+<item id="img20" href="imgs/9-8figure.jpg" media-type="image/jpeg"/>
+<item id="img21" href="imgs/bullseye-trans.png" media-type="image/png"/>
+<item id="img22" href="imgs/ch-opener-desktop.jpg" media-type="image/jpeg"/>
+<item id="img23" href="imgs/ch-opener-mobile.jpg" media-type="image/jpeg"/>
+<item id="img24" href="imgs/chapter_9_epub_table.png" media-type="image/png"/>
+<item id="img25" href="imgs/checkmark-xs-light.png" media-type="image/png"/>
+<item id="img26" href="imgs/checkmark-xs.png" media-type="image/png"/>
+<item id="img27" href="imgs/coverm3.jpg" properties="cover-image" media-type="image/jpeg"/>
+<item id="img28" href="imgs/feedback.png" media-type="image/png"/>
+<item id="img29" href="imgs/fullscreen.png" media-type="image/png"/>
+<item id="img30" href="imgs/help.png" media-type="image/png"/>
+<item id="img31" href="imgs/lets-review.png" media-type="image/png"/>
+<item id="img32" href="imgs/loma.png" media-type="image/png"/>
+<item id="img33" href="imgs/loma_335_chapter-102.png" media-type="image/png"/>
+<item id="img34" href="imgs/loma_335_chapter-901.png" media-type="image/png"/>
+<item id="img35" href="imgs/loma_335_chapter-9_f.png" media-type="image/png"/>
+<item id="img36" href="imgs/loma_blue.jpg" media-type="image/jpeg"/>
+<item id="img37" href="imgs/next.png" media-type="image/png"/>
+<item id="img38" href="imgs/pause.png" media-type="image/png"/>
+<item id="img39" href="imgs/pencil.png" media-type="image/png"/>
+<item id="img40" href="imgs/play.png" media-type="image/png"/>
+<item id="img41" href="imgs/prev.png" media-type="image/png"/>
+<item id="img42" href="imgs/speaker0.png" media-type="image/png"/>
+<item id="img43" href="imgs/speaker1.png" media-type="image/png"/>
+<item id="img44" href="imgs/speaker2.png" media-type="image/png"/>
+<item id="img45" href="imgs/speaker3.png" media-type="image/png"/>
+<item id="img46" href="imgs/sqrt.png" media-type="image/png"/>
+<item id="img47" href="imgs/submit.png" media-type="image/png"/>
+<item id="img48" href="imgs/times-circle-xs-light.png" media-type="image/png"/>
+<item id="img49" href="imgs/times-circle-xs.png" media-type="image/png"/>
+<item id="img50" href="imgs/vid-restart.png" media-type="image/png"/>
+<item id="img51" href="imgs/what-do-you-think.png" media-type="image/png"/>
+<item id="vid0" href="video/10-1video.mp4" media-type="video/mp4"/>
+<item id="vid1" href="video/10-2video.mp4" media-type="video/mp4"/>
+<item id="vid2" href="video/8-1video.mp4" media-type="video/mp4"/>
+<item id="vid3" href="video/9-1video.mp4" media-type="video/mp4"/>
+<item id="css0" href="css/base.css" media-type="text/css"/>
+<item id="css1" href="css/fonts.css" media-type="text/css"/>
+<item id="css2" href="css/global.css" media-type="text/css"/>
+<item id="css3" href="css/ibooks-alt.css" media-type="text/css"/>
+<item id="css4" href="css/ibooks.css" media-type="text/css"/>
+<item id="css5" href="css/kotobeeInteractive.css" media-type="text/css"/>
+<item id="css6" href="css/pqs.css" media-type="text/css"/>
+<item id="css7" href="css/reset.css" media-type="text/css"/>
+<item id="css8" href="css/video-player.css" media-type="text/css"/>
+<item id="js0" href="js/global.js" media-type="text/javascript"/>
+<item id="js1" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
+<item id="js12" href="js/loma_335_PQ_0_10.js" media-type="text/javascript"/>
+<item id="js13" href="js/loma_335_PQ_0_7.js" media-type="text/javascript"/>
+<item id="js14" href="js/loma_335_PQ_0_8.js" media-type="text/javascript"/>
+<item id="js15" href="js/loma_335_PQ_0_9.js" media-type="text/javascript"/>
+<item id="txt0" href="package.xml" media-type="application/xml"/>
+<item id="font0" href="fonts/Lato-Bold.ttf" media-type="application/x-font-ttf"/>
+<item id="font1" href="fonts/Lato-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+<item id="font2" href="fonts/Lato-Italic.ttf" media-type="application/x-font-ttf"/>
+<item id="font3" href="fonts/Lato-Regular.ttf" media-type="application/x-font-ttf"/>
+<item id="font4" href="fonts/OpenSans-Bold.ttf" media-type="application/x-font-ttf"/>
+<item id="font5" href="fonts/OpenSans-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+<item id="font6" href="fonts/OpenSans-Italic.ttf" media-type="application/x-font-ttf"/>
+<item id="font7" href="fonts/OpenSans-Regular.ttf" media-type="application/x-font-ttf"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-reflowable"/>
+<itemref idref="html4" properties="rendition:layout-reflowable"/>
+<itemref idref="html5" properties="rendition:layout-reflowable"/>
+<itemref idref="html6" properties="rendition:layout-reflowable"/>
+<itemref idref="html7" properties="rendition:layout-reflowable"/>
+<itemref idref="html8" properties="rendition:layout-reflowable"/>
+<itemref idref="html9" properties="rendition:layout-reflowable"/>
+<itemref idref="html10" properties="rendition:layout-reflowable"/>
+<itemref idref="html11" properties="rendition:layout-reflowable"/>
+<itemref idref="html12" properties="rendition:layout-reflowable"/>
+<itemref idref="html13" properties="rendition:layout-reflowable"/>
+<itemref idref="html14" properties="rendition:layout-reflowable"/>
+<itemref idref="html15" properties="rendition:layout-reflowable"/>
+<itemref idref="html16" properties="rendition:layout-reflowable"/>
+<itemref idref="html17" properties="rendition:layout-reflowable"/>
+<itemref idref="html18" properties="rendition:layout-reflowable"/>
+<itemref idref="html19" properties="rendition:layout-reflowable"/>
+<itemref idref="html20" properties="rendition:layout-reflowable"/>
+<itemref idref="html21" properties="rendition:layout-reflowable"/>
+<itemref idref="html22" properties="rendition:layout-reflowable"/>
+<itemref idref="html23" properties="rendition:layout-reflowable"/>
+<itemref idref="html24" properties="rendition:layout-reflowable"/>
+<itemref idref="html25" properties="rendition:layout-reflowable"/>
+<itemref idref="html26" properties="rendition:layout-reflowable"/>
+<itemref idref="html27" properties="rendition:layout-reflowable"/>
+<itemref idref="html28" properties="rendition:layout-reflowable"/>
+<itemref idref="html29" properties="rendition:layout-reflowable"/>
+<itemref idref="html30" properties="rendition:layout-reflowable"/>
+<itemref idref="html31" properties="rendition:layout-reflowable"/>
+<itemref idref="html32" properties="rendition:layout-reflowable"/>
+<itemref idref="html33" properties="rendition:layout-reflowable"/>
+<itemref idref="html34" properties="rendition:layout-reflowable"/>
+<itemref idref="html35" properties="rendition:layout-reflowable"/>
+<itemref idref="html36" properties="rendition:layout-reflowable"/>
+<itemref idref="html37" properties="rendition:layout-reflowable"/>
+<itemref idref="html38" properties="rendition:layout-reflowable"/>
+<itemref idref="html39" properties="rendition:layout-reflowable"/>
+<itemref idref="html40" properties="rendition:layout-reflowable"/>
+<itemref idref="html41" properties="rendition:layout-reflowable"/>
+<itemref idref="html42" properties="rendition:layout-reflowable"/>
+<itemref idref="html43" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>

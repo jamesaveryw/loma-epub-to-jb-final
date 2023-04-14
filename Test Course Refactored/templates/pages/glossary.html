@@ -1,0 +1,38 @@
+<div id="portalContents" tabindex="-1">
+    <div class="bTopBlock">
+        <div class="description">
+            <h1>{{default_content.Labels.courseGlossary}}</h1>
+            <p>{{default_content.Glossary.Intro}}</p>
+            <hr />
+            <p class="perLOMACOM">{{default_content.Glossary.SubIntro}}</p>
+        </div>
+    </div>
+    <div class="glossary_items">
+        <div id="gloss-input" class="autocomplete-wrapper">
+            <label for="autocomplete" id="ac-label">{{default_content.Labels.search}}</label>
+			<input class="autocomplete" aria-labelledby="ac-label" aria-controls="suggestions" aria-expanded="false" aria-autocomplete="both" role="combobox" id="autocomplete" type="text" aria-activedescendant="" />
+            <ul id="suggestions" class="ac-suggestions hidden" role="listbox" aria-label="{{default_content.Labels.suggestions}}"></ul>
+        </div>
+        <ul>
+            <li data-length="{{glossarySortLetters.length}}">
+                <a class="glossLnk" role="link" tabindex="0">
+                    <span>{{glossarySortLetters[i]}}</span>
+                </a>
+            </li>
+            
+        </ul>
+        <div class="letter-group" data-length="{{glossarySortLetters.length}}" data-letter="{{glossarySortLetters[i]}}"> 
+            <h2 class="bAlpha" id="gloss{{glossarySortLetters[i]}}">{{glossarySortLetters[i]}}</h2>
+            <dl>
+                <div class="gloss-entry" id="{{glossarySorted[data-letter][i].term}}" data-length="{{glossarySorted[{{glossarySortLetters[i]}}].length}}" tabindex="-1">
+                    <dt>{{glossarySorted[data-letter][i].term}}</dt>
+                    <dd>{{glossarySorted[data-letter][i].definition}}</dd>
+                </div>
+            </dl>
+        </div>
+    </div>
+    <a class="glossLnk" id="to-top" role="link" tabindex="0">
+        <span class="to-top-arrow" aria-hidden="true">🞁</span>
+        <span class="to-top-label">{{default_content.Labels.backToTop}}</span>
+    </a>
+</div>

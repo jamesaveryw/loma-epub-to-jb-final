@@ -1,0 +1,586 @@
+<!--?xml version='1.0' encoding='UTF-8'?-->
+<!DOCTYPE html>
+<html xml:lang="en-us" lang="en-us" xmlns="http://www.w3.org/1999/xhtml"
+xmlns:epub="http://www.idpf.org/2007/ops">
+    
+    <head>
+        <link rel="stylesheet" type="text/css" href="../../css/base.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/base.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/kotobeeInteractive.css"
+        />
+        <link rel="stylesheet" type="text/css" href="../../css/reset.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/fonts.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/global.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/video-player.css"
+        />
+        <link rel="stylesheet" type="text/css" href="../../css/ibooks.css" />
+        <link rel="stylesheet" type="text/css" href="../../css/ibooks-alt.css"
+        />
+        <script type="text/javascript" src="../../js/kotobeeInteractive.js"></script>
+        <script type="text/javascript" src="../../js/global.js"></script>
+        <title>Tools for ALM Analysis</title>
+        <meta charset="utf-8" />
+    <meta name="kotobee-chapter" content="chapter6\page6.xhtml" />
+<meta name="kotobee-book" content="urn:uuid:809634f7-13b8-0e2c-b7d5-820ed0a8a3b4" />
+</head>
+    
+    <body>
+        <section class="section" epub:type="part" id="loma357-ch6-section-6" role="doc-part">
+            <img class="hidden-logo" src="../../imgs/loma.png" alt="" />
+            <h2 epub:type="title" id="loma357-ch6-h2-7">Tools for ALM Analysis</h2>
+            <p class="txt-ni" id="loma357-ch6-p-183">ALM professionals at life insurance companies monitor anticipated cash
+                flows and project the future values of their assets, liabilities, and capital.
+                They also use <span class="gt" data-term="ch6-gt-assetadequacyanalysis"
+                epub:type="glossref" id="loma357-ch6-span-37" role="doc-glossref">asset adequacy analysis</span>,
+                which determines whether the company’s assets are sufficient to support
+                certain reserves and other liabilities. In addition, asset adequacy analysis
+                tests the liquidity of assets, which is important because insurers must
+                be able to pay obligations in cash on short notice.</p>
+            <p class="txt" id="loma357-ch6-p-184">As part of ALM, insurers need to be able to measure their risk exposures
+                and asset adequacy. Insurers use cash-flow testing and a variety of reports
+                as tools for their ALM analysis.</p>
+            <div class="clearfix" id="loma357-ch6-div-77">&#160;</div>
+            <h3 id="loma357-ch6-h3-9">Cash-Flow Testing</h3>
+            <p class="txt-ni" id="loma357-ch6-p-185">For insurance companies, the most popular method of asset adequacy analysis
+                is cash-flow testing. <span class="gt" data-term="ch6-gt-cashflowtesting"
+                epub:type="glossref" id="loma357-ch6-span-38" role="doc-glossref">Cash-flow testing</span> uses
+                simulation modeling to project the cash flows associated with an insurance
+                company’s assets and liabilities as of a given valuation date in the future.
+                Insurers can also use cash-flow testing to compare the timing and amounts
+                of asset and liability cash flows at various times after the valuation
+                date.</p>
+            <p class="txt" id="loma357-ch6-p-186">Insurance companies generally use cash-flow testing when the cash flows
+                of assets, products, or other liabilities have the potential to vary under
+                different economic scenarios, such as an increase in inflation or a decrease
+                in market interest rates. Insurers use financial modeling software to project
+                the future values of cash</p>
+            <ul class="list" id="loma357-ch6-ul-15">
+                <li id="loma357-ch6-li-66">
+                    <p id="loma357-ch6-p-187"><strong>Inflows from investments</strong>. Projection begins with asset
+                        values and applies mathematical processes to reflect the company’s assumptions
+                        for prevailing market interest rates, inflation or deflation rates, asset
+                        return rates, asset prepayment rates, asset default rates, and reinvestment
+                        rates.</p>
+                </li>
+                <li id="loma357-ch6-li-67">
+                    <p id="loma357-ch6-p-188"><strong>Outflows to support products</strong>. Projection begins with
+                        data about liability reserve values and applies processes to reflect (1)
+                        assumptions about interest rates and other economic variables, (2) anticipated
+                        product cash outflows—including interest-crediting rates on certain products—and
+                        (3) policyowner behavior variables, such as withdrawal and surrender rates.</p>
+                </li>
+            </ul>
+            <p class="txt" id="loma357-ch6-p-189">Modeling uses assumptions to generate probable outcomes, but a model’s
+                output is only as good as its inputs. Thus, insurers must select appropriate
+                assumptions for use in their models. Acceptable assumptions can be based
+                on data from a company’s historical experience, data from industry studies,
+                or random variables based on statistical distributions. Insurers conduct <em>back-testing</em>,
+                which involves applying the models and their assumptions to known past
+                data, to see if the models produce accurate projections of known data.
+                By back-testing models and assumptions, insurers can identify areas for
+                improvement.</p>
+            <p class="txt" id="loma357-ch6-p-190">To test the adequacy of cash flows, insurers analyze the projected net
+                cash flow values for their assets and liabilities. Two common approaches
+                to this analysis are sensitivity analysis and scenario testing.</p>
+            <div
+            class="clearfix" id="loma357-ch6-div-78">&#160;</div>
+                <h4 id="loma357-ch6-h4-6">Sensitivity Analysis</h4>
+                <p class="txt-ni" id="loma357-ch6-p-191">Insurers can run multiple simulations to understand the effects that increases
+                    or decreases in a given variable would have on their assets and liabilities
+                    portfolios. In other words, they can determine how sensitive their portfolios
+                    are to changes in that one variable through sensitivity analysis.
+                    <span
+                    class="gt" data-term="ch6-gt-sensitivityanalysis" epub:type="glossref"
+                    id="loma357-ch6-span-39" role="doc-glossref">Sensitivity analysis</span>is a method of measuring the responsiveness
+                        of the outputs produced by a mathematical model to changes in the values
+                        of the model’s input variables.</p>
+                <p class="txt" id="loma357-ch6-p-192">Insurers can apply sensitivity analysis to an entire portfolio or to just
+                    a portfolio segment. For example, by changing the assumed surrender rate
+                    for its whole life insurance product, an insurer can see how various surrender
+                    rates affect the liabilities portfolio segment devoted to whole life policies.</p>
+                <p
+                class="txt" id="loma357-ch6-p-193">An important type of sensitivity analysis for insurers is <em>duration analysis</em>,
+                    which evaluates the market-value sensitivity of assets and liabilities
+                    portfolios to changes in market interest rates. ALM professionals compare
+                    the two portfolios for differences in duration. A <em>duration gap</em> is
+                    a type of ALM mismatch in which the asset duration does not match the liability
+                    duration. Duration gaps can be</p>
+                    <ul class="list" id="loma357-ch6-ul-16">
+                        <li id="loma357-ch6-li-68">
+                            <p id="loma357-ch6-p-194">Positive, meaning asset duration is greater than liability duration. If
+                                interest rates change, asset values will move more than liability values.</p>
+                        </li>
+                        <li id="loma357-ch6-li-69">
+                            <p id="loma357-ch6-p-195">Negative, meaning asset duration is less than liability duration. If interest
+                                rates change, asset values will move less than liability values.</p>
+                        </li>
+                    </ul>
+                    <p class="txt" id="loma357-ch6-p-196">Whether a duration gap is good or bad for an insurer depends on the type
+                        of gap and the direction of market interest rate changes. Regardless, the
+                        ALM function tries to avoid duration gaps. As you will see later in this
+                        chapter, investment professionals have a technique for narrowing duration
+                        gaps.</p>
+                    <div class="clearfix" id="loma357-ch6-div-79">&#160;</div>
+                    <h4 id="loma357-ch6-h4-7">Scenario Testing</h4>
+                    <p class="txt-ni" id="loma357-ch6-p-197">Using financial modeling simulations, insurance companies project multiple
+                        scenarios for their assets and liabilities portfolios. <span class="gt"
+                        data-term="ch6-gt-scenariotesting" epub:type="glossref" id="loma357-ch6-span-40"
+                        role="doc-glossref">Scenario testing</span> is a method of evaluating modeling
+                        results that involves entering different sets of data—which represent a
+                        given scenario—into a model and then determining how changes in the input
+                        data affect the model’s output.</p>
+                    <p class="txt" id="loma357-ch6-p-198">Unlike sensitivity analysis, which changes the input of one variable between
+                        a series of simulations, scenario testing changes the inputs of multiple
+                        variables for a single simulation. As such, scenario testing seeks to identify
+                        the probable outcome given a particular set of circumstances. For example,
+                        one testable scenario is an economic recession, which would involve a contracting
+                        economic growth rate, falling market interest rates, and, generally, falling
+                        asset values.</p>
+                    <p class="txt" id="loma357-ch6-p-199">For each scenario, ALM professionals assign values to their assumptions
+                        that reflect the scenario’s characteristics. Then they run their model
+                        to simulate the scenario, which generates outcomes for the assets portfolio
+                        and the liabilities portfolio. ALM professionals run multiple simulations,
+                        moderately changing input values for each scenario, to create a variety
+                        of outcomes that they can study.</p>
+                    <p class="txt" id="loma357-ch6-p-200">Typically, insurers run multiple interest-rate scenarios to test cash
+                        flows for their assets and liabilities portfolios. Examples of other possible
+                        scenarios to test are different economic growth stages or financial market
+                        environments.</p>
+                    <p class="txt" id="loma357-ch6-p-201">Insurers can include stress tests as part of their scenario testing protocol.
+                        A <span class="gt" data-term="ch6-gt-stresstest" epub:type="glossref" id="loma357-ch6-span-41"
+                        role="doc-glossref">stress test</span> is a form of scenario testing that
+                        uses an extreme scenario, such as a severe economic downturn, to test a
+                        portfolio’s expected performance during adverse conditions. Since the 2007–2008
+                        financial crisis, the results of stress tests are of increasing interest
+                        to regulators around the world.</p>
+                    <div class="example" id="loma357-ch6-div-80">
+                        <div class="inner" id="loma357-ch6-div-81">
+                            <p class="txt-ni" id="loma357-ch6-p-202"><strong>Sensitivity Analysis or Scenario Testing?</strong>
+                            </p>
+                            <p class="txt-ni" id="loma357-ch6-p-203">Sensitivity analysis and scenario testing both start with selecting all
+                                of the variable inputs for the first simulation, but differ in the number
+                                of variables changed in subsequent simulations. Thus, the number of variables
+                                changed depends on the purpose of the simulations.</p>
+                            <p class="txt-ni"
+                            id="loma357-ch6-p-204">If you are changing the input of one variable in multiple simulations
+                                to see how much a portfolio responds, you are conducting <em>sensitivity analysis</em>.
+                                For example, run multiple simulations with different values for the market
+                                interest rate if you want to determine how sensitive your portfolio is
+                                to market interest rate changes. By keeping the values of other variables
+                                constant, you can isolate the effects of market interest rate changes on
+                                your portfolio.</p>
+                            <p class="txt-ni" id="loma357-ch6-p-205">If you are changing the inputs of multiple variables in a single simulation
+                                to see how a portfolio responds to a particular set of inputs, you are
+                                conducting <em>scenario testing</em>. For example, if you want to see how
+                                your portfolio would respond during a recession, input values that reflect
+                                conditions during a recession—such as a low value for the economic growth
+                                rate and a high value for the unemployment rate. In addition, you could
+                                determine how your portfolio would respond if the recession worsens by
+                                testing another scenario with less favorable variable inputs than the first
+                                recession scenario—such as a lower economic growth rate value and a higher
+                                unemployment rate value.</p>
+                        </div>
+                    </div>
+                    <div class="clearfix" id="loma357-ch6-div-82">&#160;</div>
+                    <h3 id="loma357-ch6-h3-10">Internal Reports</h3>
+                    <p class="txt-ni" id="loma357-ch6-p-206">Insurance companies use a variety of internal reports for ALM. Some reports
+                        provide details concerning the company’s liabilities. Other reports provide
+                        details about investments in the assets portfolio. Some common investment
+                        reports are the investment activity report, investment portfolio performance
+                        review, duration gap report, risk positioning report, and hedge effectiveness
+                        report.</p>
+                    <div class="clearfix" id="loma357-ch6-div-83">&#160;</div>
+                    <h4 id="loma357-ch6-h4-8">Investment Activity Report</h4>
+                    <p class="txt-ni" id="loma357-ch6-p-207">An <span class="gt" data-term="ch6-gt-investmentactivityreport" epub:type="glossref"
+                        id="loma357-ch6-span-42" role="doc-glossref">investment activity report</span> specifies
+                        the details of all investment portfolio transactions, including all asset
+                        acquisitions and all dispositions of assets from the portfolio through
+                        sales, prepayments, or repayment at maturity. The report also specifies
+                        realized and unrealized capital gain and loss status, estimated investment
+                        returns, and the portfolio’s risk metrics in relation to the company’s
+                        risk policies.</p>
+                    <p class="txt" id="loma357-ch6-p-208">Although narrow in scope, the investment activity report is usually the
+                        most detailed and most frequently produced of the investment reports used
+                        for ALM purposes. For instance, for each newly acquired debt security,
+                        the investment activity report typically provides the asset’s yield, term
+                        to maturity, duration, and quality ratings.</p>
+                    <div class="clearfix" id="loma357-ch6-div-84">&#160;</div>
+                    <h4 id="loma357-ch6-h4-9">Investment Portfolio Performance Review</h4>
+                    <p class="txt-ni" id="loma357-ch6-p-209">An <span class="gt" data-term="ch6-gt-investmentportfolioperformancereview"
+                        epub:type="glossref" id="loma357-ch6-span-43" role="doc-glossref">investment portfolio performance review</span> is
+                        a management report that presents a portfolio’s investment performance
+                        for presentation to the company’s oversight committees. This report is
+                        usually the broadest in scope of any ALM report, but is not the most detailed
+                        because it covers much of the information in summary form.</p>
+                    <p class="txt"
+                    id="loma357-ch6-p-210">The investment portfolio performance review typically presents quarterly
+                        and year-to-date information about the following aspects of investment
+                        performance:</p>
+                    <ul class="list" id="loma357-ch6-ul-17">
+                        <li id="loma357-ch6-li-70">
+                            <p id="loma357-ch6-p-211">Details about overall growth trends in the portfolio’s monetary value,
+                                specified in terms of market value appreciation and income growth</p>
+                        </li>
+                        <li id="loma357-ch6-li-71">
+                            <p id="loma357-ch6-p-212">Analysis of realized capital gains and losses</p>
+                        </li>
+                        <li id="loma357-ch6-li-72">
+                            <p id="loma357-ch6-p-213">Analysis of changes in asset market values</p>
+                        </li>
+                        <li id="loma357-ch6-li-73">
+                            <p id="loma357-ch6-p-214">Summary of purchases and sales of assets by asset type</p>
+                        </li>
+                        <li id="loma357-ch6-li-74">
+                            <p id="loma357-ch6-p-215">Analysis of the effect of purchases and sales on asset yields</p>
+                        </li>
+                        <li id="loma357-ch6-li-75">
+                            <p id="loma357-ch6-p-216">Discussion of the portfolio’s asset allocation, including the suitability
+                                of the current asset mix</p>
+                        </li>
+                        <li id="loma357-ch6-li-76">
+                            <p id="loma357-ch6-p-217">Explanations of key events in the external environment that affect investments
+                                and the company’s strategic responses to those events</p>
+                        </li>
+                        <li id="loma357-ch6-li-77">
+                            <p id="loma357-ch6-p-218">Summary reports on special topics such as problem assets, real estate
+                                investments, and international investments</p>
+                        </li>
+                    </ul>
+                    <div class="clearfix" id="loma357-ch6-div-85">&#160;</div>
+                    <h4 id="loma357-ch6-h4-10">Duration Gap Report</h4>
+                    <p class="txt-ni" id="loma357-ch6-p-219">A <span class="gt" data-term="ch6-gt-durationgapreport" epub:type="glossref"
+                        id="loma357-ch6-span-44" role="doc-glossref">duration gap report</span> provides
+                        a snapshot of a company’s asset-liability match at the time of the report.
+                        Typically, the duration gap report is submitted quarterly to the company’s
+                        board of directors.</p>
+                    <p class="txt" id="loma357-ch6-p-220">The report describes the results of duration analysis of the company’s
+                        assets and liabilities and discusses the insurer’s current exposure to
+                        cash-flow mismatches arising from changes in market interest rates. Even
+                        small changes in market interest rates can produce dramatic changes in
+                        the asset-liability duration gap, so information in the gap report is time-sensitive.</p>
+                    <p
+                    class="txt" id="loma357-ch6-p-221">A duration gap report can include (1) duration statistics for assets and
+                        liabilities portfolios and (2) actual portfolio durations as compared to
+                        target portfolio durations.</p>
+                        <div class="clearfix" id="loma357-ch6-div-86">&#160;</div>
+                        <h4 id="loma357-ch6-h4-11">Risk Positioning Report</h4>
+                        <p class="txt-ni" id="loma357-ch6-p-222">For fixed-income assets, a <span class="gt" data-term="ch6-gt-riskpositioningreport"
+                            epub:type="glossref" id="loma357-ch6-span-45" role="doc-glossref">risk positioning report</span> typically
+                            shows an actual versus target comparison for security quality, duration,
+                            and performance relative to benchmarks. For assets portfolios, the report
+                            shows how far current asset allocations have drifted from the intended
+                            allocations.</p>
+                        <div class="clearfix" id="loma357-ch6-div-87">&#160;</div>
+                        <h4 id="loma357-ch6-h4-12">Hedge Effectiveness Report</h4>
+                        <p class="txt-ni" id="loma357-ch6-p-223">Many insurance companies use derivatives in their general accounts for
+                            hedging purposes. Each hedge position is intended to directly offset a
+                            specified financial risk. For a given hedge position, any change in the
+                            underlying risk exposure could prevent the hedge from fulfilling its intended
+                            purpose of risk reduction. Furthermore, these changes could cause derivative
+                            use to increase the financial risks to the company.</p>
+                        <p class="txt" id="loma357-ch6-p-224">Typically, insurers apply statistical tests on at least a quarterly basis
+                            to establish the effectiveness of their hedging positions. <em>Hedge effectiveness</em> describes
+                            the extent to which a hedge position actually reduces risk in a portfolio.
+                            The <span class="gt" data-term="ch6-gt-hedgeeffectivenessreport" epub:type="glossref"
+                            id="loma357-ch6-span-46" role="doc-glossref">hedge effectiveness report</span> provides
+                            information on every position established for hedging purposes.</p>
+                        <p class="txt"
+                        id="loma357-ch6-p-225">A particular hedge can lose its effectiveness when the insurance company</p>
+                        <ul
+                        class="list" id="loma357-ch6-ul-18">
+                            <li id="loma357-ch6-li-78">
+                                <p id="loma357-ch6-p-226">Purchases another derivative security that creates a better match</p>
+                            </li>
+                            <li id="loma357-ch6-li-79">
+                                <p id="loma357-ch6-p-227">Sells the asset that formerly required a hedge</p>
+                            </li>
+                            <li id="loma357-ch6-li-80">
+                                <p id="loma357-ch6-p-228">Reinsures a product liability that formerly required a hedge</p>
+                            </li>
+                            <li id="loma357-ch6-li-81">
+                                <p id="loma357-ch6-p-229">Sells a product line that formerly required a hedge</p>
+                            </li>
+                            </ul>
+                            <p class="txt" id="loma357-ch6-p-230">The following chart summarizes the internal reports covered in this section.</p>
+                            <table
+                            class="striped blue" id="loma357-ch6-table-3" style="max-width:700px">
+                                <tbody>
+                                    <tr>
+                                        <th id="loma357-ch6-td-29">
+                                            <p id="loma357-ch6-p-231" style="text-align: center;">Report Name</p>
+                                        </th>
+                                        <th id="loma357-ch6-td-30">
+                                            <p id="loma357-ch6-p-232" style="text-align: center;">Description of Report’s Purpose</p>
+                                        </th>
+                                    </tr>
+                                    <tr>
+                                        <td id="loma357-ch6-td-31">
+                                            <p id="loma357-ch6-p-233" style="text-align: center;">Investment Activity Report</p>
+                                        </td>
+                                        <td id="loma357-ch6-td-32">
+                                            <p id="loma357-ch6-p-234" style="text-align: center;">Provides specific details of a portfolio’s transactions and its realized
+                                                and unrealized capital gains/losses</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="loma357-ch6-td-33">
+                                            <p id="loma357-ch6-p-235" style="text-align: center;">Investment Portfolio Performance Review</p>
+                                        </td>
+                                        <td id="loma357-ch6-td-34">
+                                            <p id="loma357-ch6-p-236" style="text-align: center;">Summarizes a portfolio’s performance information for an insurer’s oversight
+                                                committees</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="loma357-ch6-td-35">
+                                            <p id="loma357-ch6-p-237" style="text-align: center;">Duration Gap Report</p>
+                                        </td>
+                                        <td id="loma357-ch6-td-36">
+                                            <p id="loma357-ch6-p-238" style="text-align: center;">Provides a snapshot of a company’s asset-liability match at the time of
+                                                the report</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="loma357-ch6-td-37">
+                                            <p id="loma357-ch6-p-239" style="text-align: center;">Risk Positioning Report</p>
+                                        </td>
+                                        <td id="loma357-ch6-td-38">
+                                            <p id="loma357-ch6-p-240" style="text-align: center;">Presents the actual quality of fixed-income assets to their intended quality,
+                                                based on specified risk characteristics</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="loma357-ch6-td-39">
+                                            <p id="loma357-ch6-p-241" style="text-align: center;">Hedge Effectiveness Report</p>
+                                        </td>
+                                        <td id="loma357-ch6-td-40">
+                                            <p id="loma357-ch6-p-242" style="text-align: center;">Provides information regarding the effectiveness of an insurer’s hedge
+                                                positions</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                                </table>
+                                <div class="question-wrapper" id="loma357-ch6-question-7-wrap">
+                                    <div class="question-container hidden" data-qtype="ms" epub:type="question"
+                                    id="loma357-ch6-question-7">
+                                        <p class="q-title" id="loma357-ch6-p-243">
+                                            <img alt="Let’s Review" id="loma357-ch6-img-99" src="../../imgs/lets-review.png"
+                                            />
+                                        </p>
+                                        <div class="stem-cont" id="loma357-ch6-question-7-label">
+                                            <p class="q-stem" id="loma357-ch6-p-244">Which type(s) of cash-flow testing approach(es) involve first changing
+                                                the input values of multiple variables to represent a particular set of
+                                                circumstances, then running a single simulation to identify the probable
+                                                outcome? (Select all that apply.)</p>
+                                        </div>
+                                        <ol aria-labelledby="loma357-ch6-question-7-label" class="choices" id="loma357-ch6-ol-13"
+                                        role="group">
+                                            <li aria-checked="false" id="loma357-ch6-question-7-i0"
+                                            role="checkbox" tabindex="0">
+                                                <label for="loma357-ch6-question-7-i0">Sensitivity analysis</label>
+                                                <div class="radio-wrapper" id="loma357-ch6-div-88">
+                                                    <div class="check" id="loma357-ch6-div-89">&#160;</div>
+                                                    <img alt="correct" class="answer-marker correct hide" id="loma357-ch6-img-100"
+                                                    src="../../imgs/checkmark-xs.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma357-ch6-img-101"
+                                                    src="../../imgs/times-circle-xs.png" />
+                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma357-ch6-img-102"
+                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma357-ch6-img-103"
+                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                </div>
+                                            </li>
+                                            <li aria-checked="false" id="loma357-ch6-question-7-i1"
+                                            role="checkbox" tabindex="0">
+                                                <label for="loma357-ch6-question-7-i1">Duration analysis</label>
+                                                <div class="radio-wrapper" id="loma357-ch6-div-90">
+                                                    <div class="check" id="loma357-ch6-div-91">&#160;</div>
+                                                    <img alt="correct" class="answer-marker correct hide" id="loma357-ch6-img-104"
+                                                    src="../../imgs/checkmark-xs.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma357-ch6-img-105"
+                                                    src="../../imgs/times-circle-xs.png" />
+                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma357-ch6-img-106"
+                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma357-ch6-img-107"
+                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                </div>
+                                            </li>
+                                            <li aria-checked="false" id="loma357-ch6-question-7-i2"
+                                            role="checkbox" tabindex="0">
+                                                <label for="loma357-ch6-question-7-i2">Scenario testing</label>
+                                                <div class="radio-wrapper" id="loma357-ch6-div-92">
+                                                    <div class="check" id="loma357-ch6-div-93">&#160;</div>
+                                                    <img alt="correct" class="answer-marker correct hide" id="loma357-ch6-img-108"
+                                                    src="../../imgs/checkmark-xs.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma357-ch6-img-109"
+                                                    src="../../imgs/times-circle-xs.png" />
+                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma357-ch6-img-110"
+                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma357-ch6-img-111"
+                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                </div>
+                                            </li>
+                                            <li aria-checked="false" id="loma357-ch6-question-7-i3"
+                                            role="checkbox" tabindex="0">
+                                                <label for="loma357-ch6-question-7-i3">Stress testing</label>
+                                                <div class="radio-wrapper" id="loma357-ch6-div-94">
+                                                    <div class="check" id="loma357-ch6-div-95">&#160;</div>
+                                                    <img alt="correct" class="answer-marker correct hide" id="loma357-ch6-img-112"
+                                                    src="../../imgs/checkmark-xs.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma357-ch6-img-113"
+                                                    src="../../imgs/times-circle-xs.png" />
+                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma357-ch6-img-114"
+                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma357-ch6-img-115"
+                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                </div>
+                                            </li>
+                                        </ol>
+                                        <p class="reveal" id="loma357-ch6-p-246"><span class="btn" data-answer="loma357-ch6-question-7-key" id="loma357-ch6-span-47"
+                                            role="button" tabindex="0">Submit</span>
+                                        </p>
+                                    </div>
+                                    <div class="question-container-static visible" data-qtype="ms" epub:type="question"
+                                    id="loma357-ch6-question-7-static">
+                                        <p class="q-title-static" id="loma357-ch6-p-247">
+                                            <img alt="Let’s Review" id="loma357-ch6-img-116" src="../../imgs/lets-review.png"
+                                            />
+                                        </p>
+                                        <p class="q-stem-static" id="loma357-ch6-p-248">Which type(s) of cash-flow testing approach(es) involve first changing
+                                            the input values of multiple variables to represent a particular set of
+                                            circumstances, then running a single simulation to identify the probable
+                                            outcome? (Select all that apply.)</p>
+                                        <ol aria-labelledby="loma357-ch6-question-7-label"
+                                        class="choices-static" id="loma357-ch6-ol-14">
+                                            <li id="loma357-ch6-question-7-i0-static">Sensitivity analysis</li>
+                                            <li id="loma357-ch6-question-7-i1-static">Duration analysis</li>
+                                            <li id="loma357-ch6-question-7-i2-static">Scenario testing</li>
+                                            <li id="loma357-ch6-question-7-i3-static">Stress testing</li>
+                                        </ol>
+                                        <p class="reveal-static" id="loma357-ch6-p-249"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma357-ch6-question-7-key"
+                                            id="loma357-ch6-a-20" role="doc-noteref">Check your answer</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="question-wrapper" id="loma357-ch6-question-8-wrap">
+                                    <div class="question-container hidden" data-qtype="mc" epub:type="question"
+                                    id="loma357-ch6-question-8">
+                                        <!--<p class="q-title" id="loma357-ch6-p-250">
+                                            <img alt="Let’s Review" id="loma357-ch6-img-117" src="../../imgs/lets-review.png"
+                                            />
+                                        </p>-->
+                                        <div class="stem-cont" id="loma357-ch6-question-8-label">
+                                            <p class="q-stem" id="loma357-ch6-p-251">Which of the following internal reports typically summarizes information
+                                                about a portfolio’s quarterly and year-to-date investment performance?</p>
+                                        </div>
+                                        <ol aria-labelledby="loma357-ch6-question-8-label" class="choices" id="loma357-ch6-ol-15"
+                                        role="radiogroup">
+                                            <li aria-checked="false" id="loma357-ch6-question-8-i0" role="radio" tabindex="0">
+                                                <label for="loma357-ch6-question-8-i0">Investment activity report</label>
+                                                <div class="radio-wrapper" id="loma357-ch6-div-97">
+                                                    <div class="check" id="loma357-ch6-div-98">&#160;</div>
+                                                    <img alt="correct" class="answer-marker correct hide" id="loma357-ch6-img-118"
+                                                    src="../../imgs/checkmark-xs.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma357-ch6-img-119"
+                                                    src="../../imgs/times-circle-xs.png" />
+                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma357-ch6-img-120"
+                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma357-ch6-img-121"
+                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                </div>
+                                            </li>
+                                            <li aria-checked="false" id="loma357-ch6-question-8-i1" role="radio" tabindex="-1">
+                                                <label for="loma357-ch6-question-8-i1">Investment portfolio performance review</label>
+                                                <div class="radio-wrapper"
+                                                id="loma357-ch6-div-99">
+                                                    <div class="check" id="loma357-ch6-div-100">&#160;</div>
+                                                    <img alt="correct" class="answer-marker correct hide" id="loma357-ch6-img-122"
+                                                    src="../../imgs/checkmark-xs.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma357-ch6-img-123"
+                                                    src="../../imgs/times-circle-xs.png" />
+                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma357-ch6-img-124"
+                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma357-ch6-img-125"
+                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                </div>
+                                            </li>
+                                            <li aria-checked="false" id="loma357-ch6-question-8-i2" role="radio" tabindex="-1">
+                                                <label for="loma357-ch6-question-8-i2">Duration gap report</label>
+                                                <div class="radio-wrapper" id="loma357-ch6-div-101">
+                                                    <div class="check" id="loma357-ch6-div-102">&#160;</div>
+                                                    <img alt="correct" class="answer-marker correct hide" id="loma357-ch6-img-126"
+                                                    src="../../imgs/checkmark-xs.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma357-ch6-img-127"
+                                                    src="../../imgs/times-circle-xs.png" />
+                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma357-ch6-img-128"
+                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma357-ch6-img-129"
+                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                </div>
+                                            </li>
+                                            <li aria-checked="false" id="loma357-ch6-question-8-i3" role="radio" tabindex="-1">
+                                                <label for="loma357-ch6-question-8-i3">Risk positioning report</label>
+                                                <div class="radio-wrapper" id="loma357-ch6-div-103">
+                                                    <div class="check" id="loma357-ch6-div-104">&#160;</div>
+                                                    <img alt="correct" class="answer-marker correct hide" id="loma357-ch6-img-130"
+                                                    src="../../imgs/checkmark-xs.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma357-ch6-img-131"
+                                                    src="../../imgs/times-circle-xs.png" />
+                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma357-ch6-img-132"
+                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma357-ch6-img-133"
+                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                </div>
+                                            </li>
+                                            <li aria-checked="false" id="loma357-ch6-question-8-i4" role="radio" tabindex="-1">
+                                                <label for="loma357-ch6-question-8-i4">Hedge effectiveness report</label>
+                                                <div class="radio-wrapper" id="loma357-ch6-div-105">
+                                                    <div class="check" id="loma357-ch6-div-106">&#160;</div>
+                                                    <img alt="correct" class="answer-marker correct hide" id="loma357-ch6-img-134"
+                                                    src="../../imgs/checkmark-xs.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect hide" id="loma357-ch6-img-135"
+                                                    src="../../imgs/times-circle-xs.png" />
+                                                    <img alt="correct" class="answer-marker correct-ib hide" id="loma357-ch6-img-136"
+                                                    src="../../imgs/checkmark-xs-light.png" />
+                                                    <img alt="incorrect" class="answer-marker incorrect-ib hide" id="loma357-ch6-img-137"
+                                                    src="../../imgs/times-circle-xs-light.png" />
+                                                </div>
+                                            </li>
+                                        </ol>
+                                        <p class="reveal" id="loma357-ch6-p-252"><span class="btn" data-answer="loma357-ch6-question-8-key" id="loma357-ch6-span-53"
+                                            role="button" tabindex="0">Submit</span>
+                                        </p>
+                                    </div>
+                                    <div class="question-container-static visible" data-qtype="mc" epub:type="question"
+                                    id="loma357-ch6-question-8-static">
+                                        <!--<p class="q-title-static" id="loma357-ch6-p-253">
+                                            <img alt="Let’s Review" id="loma357-ch6-img-138" src="../../imgs/lets-review.png"
+                                            />
+                                        </p>-->
+                                        <p class="q-stem-static" id="loma357-ch6-p-254">Which of the following internal reports typically summarizes information
+                                            about a portfolio’s quarterly and year-to-date investment performance?</p>
+                                        <ol
+                                        class="choices-static" id="loma357-ch6-ol-16">
+                                            <li id="loma357-ch6-question-8-i0-static">Investment activity report</li>
+                                            <li id="loma357-ch6-question-8-i1-static">Investment portfolio performance review</li>
+                                            <li id="loma357-ch6-question-8-i2-static">Duration gap report</li>
+                                            <li id="loma357-ch6-question-8-i3-static">Risk positioning report</li>
+                                            <li id="loma357-ch6-question-8-i4-static">Hedge effectiveness report</li>
+                                            </ol>
+                                            <p class="reveal-static" id="loma357-ch6-p-255"><a class="btn-static" epub:type="noteref" href="../raw/answer-key.xhtml#loma357-ch6-question-8-key"
+                                                id="loma357-ch6-a-21" role="doc-noteref">Check your answer</a>
+                                            </p>
+                                    </div>
+                                </div>
+                                <div aria-hidden="true" id="modalOverlay">
+                                    <div aria-labelledby="modalTitle" aria-modal="true" id="modalAlertBox"
+                                    role="dialog">
+                                        <div class="header"><span aria-label="Close" role="button" tabindex="0">×</span>
+                                        </div>
+                                        <div class="modalAlertContent">&#160;</div>
+                                    </div>
+                                </div>
+        </section>
+    </body>
+
+</html>

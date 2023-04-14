@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Institutional Investing: Principles and Practices - Module 4</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:978-1-57974-479-3mod4</dc:identifier>
+        <dc:identifier id="isbn-id">urn:isbn:978-1-57974-479-3M4</dc:identifier><meta refines="#isbn-id" property="identifier-type" scheme="onix:codelist5">15</meta><meta name="cover" content="img19" />
+
+        <dc:creator>LOMA</dc:creator>
+        <dc:publisher>LOMA</dc:publisher>
+        <dc:rights>LOMA 2020</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>&lt;p&gt;Learn about the regulation of the insurance business and how financial services companies uphold ethical standards related to their investment activities. Module 4 describes important securities regulations, entities involved in securities and insurance regulation, and the primary focus of insurance regulators around the world. In addition, the module explores ethical considerations for investment professionals and the role the audit function plays in insurance company compliance.&amp;nbsp;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Chapter 10: Regulations and the Investment Function&lt;/li&gt;
+	&lt;li&gt;Chapter 11: Ethical Standards and Governance for the Investment Function&lt;/li&gt;
+&lt;/ul&gt;
+</dc:description>
+        <meta property="dcterms:modified">2020-06-18T10:27:24Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.6.4</meta>
+        <meta property="kotobee:build">905</meta>
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/fm/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/fm/page1.xhtml" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/fm/page2.xhtml" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/fm/page3.xhtml" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/fm/page4.xhtml" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/chapter10/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/chapter10/page1.xhtml" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/chapter10/page2.xhtml" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/chapter10/page3.xhtml" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/chapter10/page4.xhtml" media-type="application/xhtml+xml"/>
+<item id="html10" href="xhtml/chapter10/page5.xhtml" media-type="application/xhtml+xml"/>
+<item id="html11" href="xhtml/chapter10/page6.xhtml" media-type="application/xhtml+xml"/>
+<item id="html12" href="xhtml/chapter10/page7.xhtml" media-type="application/xhtml+xml"/>
+<item id="html13" href="xhtml/chapter10/page8.xhtml" media-type="application/xhtml+xml"/>
+<item id="html14" href="xhtml/chapter11/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html15" href="xhtml/chapter11/page1.xhtml" media-type="application/xhtml+xml"/>
+<item id="html16" href="xhtml/chapter11/page2.xhtml" media-type="application/xhtml+xml"/>
+<item id="html17" href="xhtml/chapter11/page3.xhtml" media-type="application/xhtml+xml"/>
+<item id="html18" href="xhtml/chapter11/page4.xhtml" media-type="application/xhtml+xml"/>
+<item id="html19" href="xhtml/chapter11/page5.xhtml" media-type="application/xhtml+xml"/>
+<item id="html20" href="xhtml/chapter11/page6.xhtml" media-type="application/xhtml+xml"/>
+<item id="html21" href="xhtml/raw/answer-key.xhtml" media-type="application/xhtml+xml"/>
+<item id="html22" href="xhtml/raw/descriptions.xhtml" media-type="application/xhtml+xml"/>
+<item id="html23" href="xhtml/raw/endnotes.xhtml" media-type="application/xhtml+xml"/>
+<item id="html24" href="xhtml/raw/glossary.xhtml" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/10-1figure.jpg" media-type="image/jpeg"/>
+<item id="img1" href="imgs/10-1unnumbered.jpg" media-type="image/jpeg"/>
+<item id="img2" href="imgs/11-1figure.jpg" media-type="image/jpeg"/>
+<item id="img3" href="imgs/bullseye-trans.png" media-type="image/png"/>
+<item id="img4" href="imgs/ch-opener-desktop.jpg" media-type="image/jpeg"/>
+<item id="img5" href="imgs/ch-opener-mobile.jpg" media-type="image/jpeg"/>
+<item id="img6" href="imgs/checkmark-xs-light.png" media-type="image/png"/>
+<item id="img7" href="imgs/checkmark-xs.png" media-type="image/png"/>
+<item id="img8" href="imgs/esc_fullscreen.png" media-type="image/png"/>
+<item id="img9" href="imgs/feedback-bk.png" media-type="image/png"/>
+<item id="img10" href="imgs/feedback.png" media-type="image/png"/>
+<item id="img11" href="imgs/fullscreen.png" media-type="image/png"/>
+<item id="img12" href="imgs/hamburger.png" media-type="image/png"/>
+<item id="img13" href="imgs/help-bk.png" media-type="image/png"/>
+<item id="img14" href="imgs/help.png" media-type="image/png"/>
+<item id="img15" href="imgs/lets-review.png" media-type="image/png"/>
+<item id="img16" href="imgs/lightbulb.png" media-type="image/png"/>
+<item id="img17" href="imgs/loma.png" media-type="image/png"/>
+<item id="img18" href="imgs/loma_blue.jpg" media-type="image/jpeg"/>
+<item id="img19" href="imgs/m4cover.jpg" properties="cover-image" media-type="image/jpeg"/>
+<item id="img20" href="imgs/next-bk.png" media-type="image/png"/>
+<item id="img21" href="imgs/next.png" media-type="image/png"/>
+<item id="img22" href="imgs/pause.png" media-type="image/png"/>
+<item id="img23" href="imgs/pencil-bk.png" media-type="image/png"/>
+<item id="img24" href="imgs/pencil.png" media-type="image/png"/>
+<item id="img25" href="imgs/play.png" media-type="image/png"/>
+<item id="img26" href="imgs/prev-bk.png" media-type="image/png"/>
+<item id="img27" href="imgs/prev.png" media-type="image/png"/>
+<item id="img28" href="imgs/restart-bk.png" media-type="image/png"/>
+<item id="img29" href="imgs/restart.png" media-type="image/png"/>
+<item id="img30" href="imgs/speaker0.png" media-type="image/png"/>
+<item id="img31" href="imgs/speaker1.png" media-type="image/png"/>
+<item id="img32" href="imgs/speaker2.png" media-type="image/png"/>
+<item id="img33" href="imgs/speaker3.png" media-type="image/png"/>
+<item id="img34" href="imgs/submit-bk.png" media-type="image/png"/>
+<item id="img35" href="imgs/submit.png" media-type="image/png"/>
+<item id="img36" href="imgs/times-circle-xs-light.png" media-type="image/png"/>
+<item id="img37" href="imgs/times-circle-xs.png" media-type="image/png"/>
+<item id="img38" href="imgs/vid-restart.png" media-type="image/png"/>
+<item id="img39" href="imgs/what-do-you-think.png" media-type="image/png"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-reflowable"/>
+<itemref idref="html4" properties="rendition:layout-reflowable"/>
+<itemref idref="html5" properties="rendition:layout-reflowable"/>
+<itemref idref="html6" properties="rendition:layout-reflowable"/>
+<itemref idref="html7" properties="rendition:layout-reflowable"/>
+<itemref idref="html8" properties="rendition:layout-reflowable"/>
+<itemref idref="html9" properties="rendition:layout-reflowable"/>
+<itemref idref="html10" properties="rendition:layout-reflowable"/>
+<itemref idref="html11" properties="rendition:layout-reflowable"/>
+<itemref idref="html12" properties="rendition:layout-reflowable"/>
+<itemref idref="html13" properties="rendition:layout-reflowable"/>
+<itemref idref="html14" properties="rendition:layout-reflowable"/>
+<itemref idref="html15" properties="rendition:layout-reflowable"/>
+<itemref idref="html16" properties="rendition:layout-reflowable"/>
+<itemref idref="html17" properties="rendition:layout-reflowable"/>
+<itemref idref="html18" properties="rendition:layout-reflowable"/>
+<itemref idref="html19" properties="rendition:layout-reflowable"/>
+<itemref idref="html20" properties="rendition:layout-reflowable"/>
+<itemref idref="html21" properties="rendition:layout-reflowable"/>
+<itemref idref="html22" properties="rendition:layout-reflowable"/>
+<itemref idref="html23" properties="rendition:layout-reflowable"/>
+<itemref idref="html24" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>

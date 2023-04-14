@@ -1,0 +1,17 @@
+<div id="menu">
+    <!-- <div class="menu-toggle" id="indexClose" title="{{default_content.Labels.bClose}}" tabindex="0" role="button" aria-controls="menu" aria-expanded="false" aria-label="{{default_content.Labels.bClose}}">×</div> -->
+    <ul id="menu-container" role="menu" aria-labelledby="indexName" aria-hidden="true">
+        <!-- <li>{{sFirstname||default_content.Labels.name}}</li> -->
+        <li class="menuitem mystatus" tabindex="-1" role="menuitem" data-module="1" data-lesson="1">
+            <span id="status-label">{{default_content.Labels.currentStatus}}</span>
+            <span id="mystatus">{{default_content.Labels.moduleLesson}}</span>
+        </li>
+        <li data-length="{{TOC.length}}" class="moduleLink" tabindex="-1" role="menuitem" data-module="true">{{default_content.Labels.moduleNum}}</li>
+        <li class="menuitem resourceslink" tabindex="-1" role="menuitem">{{default_content.Labels.resources}}</li>
+        <li class="menuitem homelink" tabindex="-1" role="menuitem">{{default_content.Labels.home}}</li>
+        <li class="menuitem helplink" tabindex="-1" role="menuitem">{{default_content.Labels.help}}</li>
+        <li class="menuitem termsBtn" tabindex="-1" role="menuitem">{{default_content.Labels.termsOfUse}}</li>
+        <li class="menuitem privacyBtn" tabindex="-1" role="menuitem">{{default_content.Labels.privacyPolicy}}</li>
+        <li class="menuitem exitlink" tabindex="-1" role="menuitem">{{default_content.Labels.exit}}</li>
+    </ul>
+</div>

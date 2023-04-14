@@ -1,0 +1,63 @@
+<div id="portalContents" tabindex="-1">
+	<div class="btopBlock">
+		<div class="description">
+			<h1>{{default_content.Labels.moduleNum}}: {{course_settings.Lesson_setup[mod-index].Title}} </h1>
+			<div class="mod-intro">
+				<p class="mIntroParas">{{course_settings.Lesson_setup[mod-index].Paragraph}}</p>
+				<ul class="mLOList">
+					<li data-length="{{course_settings.Lesson_setup[mod-index].List.length}}"> {{course_settings.Lesson_setup[mod-index].List[i].List_info}}</li>
+				</ul>
+			</div>
+			<div class="mod-img">
+				<img src="includes/images/{{course_settings.Lesson_setup[mod-index].Image}}" alt="" />
+			</div>
+		</div>
+	</div>
+	<div class="bLessonBlock hioc-only">
+		<div class="flex-container">
+			<div class="modulePageBlocks lessonBlock" data-length="{{TOC[mod-index].length}}" data-lesson="true">
+				<h2 id="lessonBlock-label-{{data-index}}" class="lesson_num">{{default_content.Labels.lessonNum}}</h2>
+				<!-- TODO: Test after app server blackout -->
+				<div class="lesson_indicator lesson_indicator_incomplete">
+					<span class="check">&#10003;</span>
+					<span class="sr-only">{{default_content.Labels.incomplete}}</span>
+					<!-- <img class="incomplete" src="includes/images/lesson_indicator_circle_dk_blue.png" alt="{{default_content.Labels.incomplete}}" />
+					<img class="complete" src="includes/images/lesson_indicator_chk.png" alt="{{default_content.Labels.complete}}" /> -->
+				</div>
+				<div class="lesson_date" aria-hidden="true">---- - -- - --</div>
+				<div class="lesson_description">{{course_settings.Lesson_setup[mod-index].lesson_paragraph[i].MLP_text}} </div>
+				<div class="lesson_launch_btn" tabindex="0" role="link" aria-describedby="lessonBlock-label-{{data-index}}">{{default_content.Labels.viewLesson}}</div>
+			</div>
+			<div id="examBlock" class="modulePageBlocks examBlock">
+				<h2 class="lesson_num">{{default_content.Labels.exam}}</h2>
+				<!-- TODO: Test after app server blackout -->
+				<div class="lesson_indicator lesson_indicator_incomplete">
+					<span class="check">&#10003;</span>
+					<span class="sr-only">{{default_content.Labels.incomplete}}</span>
+					<!-- <img class="incomplete" src="includes/images/lesson_indicator_circle_lt_blue.png" alt="{{default_content.Labels.incomplete}}" />
+					<img class="complete" src="includes/images/lesson_indicator_chk.png" alt="{{default_content.Labels.complete}}" /> -->
+				</div>
+				<div class="lesson_date" aria-hidden="true">--/--/----</div>
+				<div class="lesson_description">{{default_content.Exam_Dialog_Paragraph}}</div>
+				<div class="disabled_launch_btn" tabindex="0" role="link" id="moduleexam" aria-disabled="true" data-module="{{mod-num}}">{{default_content.Labels.examLocked}}</div>
+			</div>
+		</div>
+	</div>
+	<div id="moduleBtns">
+		<img src="includes/images/Video_Study_Experience.png" class="paraImageLeft videoBtn m1_only" data-video="studyExperience" alt="{{default_content.Labels.studyExp}}" tabindex="0" role="button" />
+		<p class="pdfEbookInstructions">{{default_content.Instructions.introParas[0]}}</p>
+		<a class="module_btn ebook_btn" id="ebook_btn" role="link" tabindex="0" type="application/epub+zip" href="ebooks/{{course_settings.CourseContentContent.ebooklinks[mod-index].link}}" download="">{{default_content.Labels.moduleNum}} {{default_content.Labels.ebook}}</a>
+		<a class="module_btn pdf_btn" id="pdf_btn" role="link" type="application/pdf" data-pdf="ebooks/{{course_settings.CourseContentContent.pdflinks[mod-index].link}}" download="">{{default_content.Labels.moduleNum}} {{default_content.Labels.pdf}}</a>
+		<div class="dotted_seperator"></div>
+		<p class="pdf instructions">{{default_content.Instructions.pParas[0]}}</p>
+		<p class="pdf_ebook instructions">{{default_content.Instructions.introParas[1]}}</p>
+		<a class="module_btn pq_btn" tabindex="0" role="link" data-length="{{TOC.mod-index.length}}" data-chapter="{{TOC.mod-index[i][0].CH_Num}}">{{default_content.Labels.chapAbbr}} {{TOC.mod-index[i][0].CH_Num}} {{default_content.Labels.practice}}</a>
+		<p class="ebook">{{default_content.Instructions.spParas[0]}}</p>
+		<a class="module_btn se_btn ebook" tabindex="0" role="link">{{default_content.Labels.sampleExam}}</a>
+		<div class="dotted_seperator"></div>
+		<img src="includes/images/Video_Exam_Experience_Self_Proctored.png" class="paraImageLeft videoBtn m1_only ebook" data-video="examExperience_self_proctored" alt="{{default_content.Labels.examExp}}" tabindex="0" role="button" />
+		<p class="ebook">{{default_content.Instructions.spParas[1]}}</p>
+		<p class="ebook NOTE">{{default_content.Instructions.spParas[2]}}</p>
+		<a class="module_btn exam_btn ebook" id="exam_btn" tabindex="0" role="link" data-module="{{mod-num}}">{{default_content.Labels.moduleExam}}</a>
+	</div>
+</div>
