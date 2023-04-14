@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +178,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The Age Discrimination in Employment Act (ADEA) is a federal law that protects workers who are age 40 and older from being discriminated against because of their age. The ADEA applies to employers with 20 or more employees. Because the cost of providing group life insurance benefits to older workers is greater than the cost of providing the same benefits to younger workers, older workers are at risk of experiencing discrimination regarding employee benefits. The ADEA seeks to protect older workers from this type of discrimination."
                     },
                     {
-                        "Paragraph_txt": "The ADEA permits employers to reduce the level of certain group life insurance benefits so that the cost to the employer of providing these benefits to older workers is no greater than the cost of providing the full benefits to younger workers. For example, the life insurance benefit might be reduced to 65 percent at age 65 if the actual amount of payment made or cost incurred on behalf of the 65-year-old is no less than that made or incurred on behalf of a younger worker. In other words, the ADEA requires that an employer’s premium contributions for benefits provided to older workers be at least equal to the employer’s premium contributions for benefits provided to younger workers."
+                        "Paragraph_txt": "<br />The ADEA permits employers to reduce the level of certain group life insurance benefits so that the cost to the employer of providing these benefits to older workers is no greater than the cost of providing the full benefits to younger workers. For example, the life insurance benefit might be reduced to 65 percent at age 65 if the actual amount of payment made or cost incurred on behalf of the 65-year-old is no less than that made or incurred on behalf of a younger worker. In other words, the ADEA requires that an employer’s premium contributions for benefits provided to older workers be at least equal to the employer’s premium contributions for benefits provided to younger workers."
                     }
                 ]
             },
@@ -247,10 +247,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most employer-sponsored group insurance plans and retirement plans in the United States must comply with the <em>Employee Retirement Income Security Act (ERISA)</em>, which, as we saw in Chapter 7, is a federal law designed to ensure that retirement and welfare benefit plans meet certain minimum plan requirements. ERISA does not require employers to establish a plan. However, if an employer does establish a plan, then in most cases the plan must comply with ERISA. The purpose of ERISA’s minimum plan requirements is to safeguard the benefits of covered employees and group members."
                     },
                     {
-                        "Paragraph_txt": "Although ERISA includes “retirement income security” in its title, the law applies to many types of employee benefits in addition to retirement plans. In this section, we describe ERISA requirements that apply to both retirement and welfare benefit plans. Later in this chapter, we describe ERISA requirements that apply only to retirement plans."
+                        "Paragraph_txt": "<br />Although ERISA includes “retirement income security” in its title, the law applies to many types of employee benefits in addition to retirement plans. In this section, we describe ERISA requirements that apply to both retirement and welfare benefit plans. Later in this chapter, we describe ERISA requirements that apply only to retirement plans."
                     },
                     {
-                        "Paragraph_txt": "Under ERISA, a <em>welfare benefit plan</em> is a plan that an employer establishes to provide specified benefits to plan participants and their beneficiaries. One such benefit is a death benefit provided by life insurance coverage. For ERISA purposes, a welfare benefit plan is a plan that an employer establishes to provide any of the benefits to plan participants and their beneficiaries that are shown in Figure 9.1."
+                        "Paragraph_txt": "<br />Under ERISA, a <em>welfare benefit plan</em> is a plan that an employer establishes to provide specified benefits to plan participants and their beneficiaries. One such benefit is a death benefit provided by life insurance coverage. For ERISA purposes, a welfare benefit plan is a plan that an employer establishes to provide any of the benefits to plan participants and their beneficiaries that are shown in Figure 9.1."
                     }
                 ]
             },
@@ -502,7 +502,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The plan document must name the plan sponsor, the plan administrator, and one or more fiduciaries who are responsible for controlling and managing the operation of the plan."
                     },
                     {
-                        "Paragraph_txt": "A summary plan description must be provided to each plan participant and to the federal Department of Labor (DOL). A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">summary plan description (SPD)</span> is an abbreviated version of the plan document that is understandable by the average plan participant and that reasonably informs participants and beneficiaries of their rights and obligations under the plan. If the plan changes significantly, each participant and the DOL must receive a <em>summary of material modifications (SMM).</em> ERISA also requires that an annual report be filed with the Internal Revenue Service. Figure 9.2 lists some of the information that must be included in plan documents and summary plan descriptions."
+                        "Paragraph_txt": "<br />A summary plan description must be provided to each plan participant and to the federal Department of Labor (DOL). A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">summary plan description (SPD)</span> is an abbreviated version of the plan document that is understandable by the average plan participant and that reasonably informs participants and beneficiaries of their rights and obligations under the plan. If the plan changes significantly, each participant and the DOL must receive a <em>summary of material modifications (SMM).</em> ERISA also requires that an annual report be filed with the Internal Revenue Service. Figure 9.2 lists some of the information that must be included in plan documents and summary plan descriptions."
                     }
                 ]
             },

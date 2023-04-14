@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -480,10 +480,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers must file a comprehensive financial report, known as an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Annual Statement</span>, with the NAIC and all the state insurance departments with which they are licensed. We discuss the NAIC’s role in the regulation of insurance later in this chapter. "
                     },
                     {
-                        "Paragraph_txt": "Insurers generally must file their Annual Statements by March 1 each year. The Annual Statement must reflect that the insurer has met all the financial requirements of the state insurance laws. Most states require companies to file shorter versions of these reports quarterly as well."
+                        "Paragraph_txt": "<br />Insurers generally must file their Annual Statements by March 1 each year. The Annual Statement must reflect that the insurer has met all the financial requirements of the state insurance laws. Most states require companies to file shorter versions of these reports quarterly as well."
                     },
                     {
-                        "Paragraph_txt": "States also require insurers to file other types of reports and materials, such as insurance policy forms. Insurers typically create standard policy forms for each life and annuity product they sell. As a general rule, before issuing or delivering a policy form in a state, an insurer submits the form to the insurance department for approval. We discuss state filing requirements in more detail in Chapter 8."
+                        "Paragraph_txt": "<br />States also require insurers to file other types of reports and materials, such as insurance policy forms. Insurers typically create standard policy forms for each life and annuity product they sell. As a general rule, before issuing or delivering a policy form in a state, an insurer submits the form to the insurance department for approval. We discuss state filing requirements in more detail in Chapter 8."
                     }
                 ]
             },
@@ -581,7 +581,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A state insurance department, for instance, may suspend or revoke an insurance company’s certificate if the insurer is financially unsound or knowingly fails to comply with state laws, regulations, or an order issued by the department. An insurance department also may suspend or revoke the license of an insurance agent."
                     },
                     {
-                        "Paragraph_txt": "The state insurance department may not take action against an insurer without an administrative hearing, unless the insurer consents to the action. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">administrative hearing</span> is a proceeding held by an administrative agency—in this case, the insurance department—in accordance with the state’s administrative laws and procedures. An individual, known as an <em>administrative law judge</em>, conducts the hearing. The administrative law judge has the authority to hear testimony and decide questions of law and fact. The insurance department must give the insurer proper notice of the hearing."
+                        "Paragraph_txt": "<br />The state insurance department may not take action against an insurer without an administrative hearing, unless the insurer consents to the action. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">administrative hearing</span> is a proceeding held by an administrative agency—in this case, the insurance department—in accordance with the state’s administrative laws and procedures. An individual, known as an <em>administrative law judge</em>, conducts the hearing. The administrative law judge has the authority to hear testimony and decide questions of law and fact. The insurance department must give the insurer proper notice of the hearing."
                     }
                 ]
             },
@@ -682,13 +682,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "The NAIC develops model insurance laws and regulations. States respond to model laws and regulations in one of the following ways: (1) they may adopt the model exactly as written, (2) they may use the model as the basis for developing legislation or regulation, or (3) they may ignore the model. However, for a state’s insurance department to maintain accreditation with the NAIC, the department must have adequate statutory and administrative authority to regulate an insurer’s corporate and financial affairs. This authority is established in part by the adoption of model solvency laws."
                     },
                     {
-                        "Paragraph_txt": "The NAIC provides a forum for state insurance department staff to discuss regulatory policy issues and develop national policy on certain issues. The NAIC assigns responsibility for studying such issues to membership committees. These committees receive information from many sources, such as legislators, insurance regulators, insurers, industry groups, and consumer groups. Committees then make recommendations to the NAIC Executive Committee. A recommendation may entail, for instance, adoption of a model law. A recommendation is adopted only if approved by the NAIC Executive Committee."
+                        "Paragraph_txt": "<br />The NAIC provides a forum for state insurance department staff to discuss regulatory policy issues and develop national policy on certain issues. The NAIC assigns responsibility for studying such issues to membership committees. These committees receive information from many sources, such as legislators, insurance regulators, insurers, industry groups, and consumer groups. Committees then make recommendations to the NAIC Executive Committee. A recommendation may entail, for instance, adoption of a model law. A recommendation is adopted only if approved by the NAIC Executive Committee."
                     },
                     {
-                        "Paragraph_txt": "The NAIC also provides services for state insurance regulators. These services help the states coordinate their oversight activities and avoid duplication of effort and conflicting rules. The NAIC provides several computerized databases to insurance departments. These databases, for example, enable the departments to simplify the licensing process for insurance agents, screen insurers that apply for a certificate of authority, and exchange information about licensed insurers and insurance agents."
+                        "Paragraph_txt": "<br />The NAIC also provides services for state insurance regulators. These services help the states coordinate their oversight activities and avoid duplication of effort and conflicting rules. The NAIC provides several computerized databases to insurance departments. These databases, for example, enable the departments to simplify the licensing process for insurance agents, screen insurers that apply for a certificate of authority, and exchange information about licensed insurers and insurance agents."
                     },
                     {
-                        "Paragraph_txt": "The NAIC <em>Examination Tracking System (ETS)</em> enables state insurance departments to schedule and coordinate on-site examinations of insurers. Also, the NAIC maintains a financial database containing information from insurers’ Annual Statements and assists state insurance departments in overseeing the solvency of insurers. We discuss these activities later in the chapter."
+                        "Paragraph_txt": "<br />The NAIC <em>Examination Tracking System (ETS)</em> enables state insurance departments to schedule and coordinate on-site examinations of insurers. Also, the NAIC maintains a financial database containing information from insurers’ Annual Statements and assists state insurance departments in overseeing the solvency of insurers. We discuss these activities later in the chapter."
                     }
                 ]
             },
@@ -789,7 +789,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As part of its goal to ensure state regulation of insurance, NCOIL members testify before federal legislative committees and lobby federal legislators. NCOIL also develops proposals to help the states respond to federal congressional criticisms of state regulation. Like the NAIC, NCOIL drafts model laws that the states may adopt."
                     },
                     {
-                        "Paragraph_txt": "NCOIL holds meetings to address key insurance issues. These meetings bring together representatives from consumer groups, the insurance industry, and state and federal regulators. NCOIL also conducts studies that provide information on insurance topics and hosts seminars designed to educate state legislators about insurance issues."
+                        "Paragraph_txt": "<br />NCOIL holds meetings to address key insurance issues. These meetings bring together representatives from consumer groups, the insurance industry, and state and federal regulators. NCOIL also conducts studies that provide information on insurance topics and hosts seminars designed to educate state legislators about insurance issues."
                     }
                 ]
             },
@@ -1161,7 +1161,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Insurance Regulators</strong> "
                     },
                     {
-                        "Paragraph_txt": "From an insurance regulator’s point of view, a balance sheet addresses the question, “As of this date, how solvent is the insurer?” The relationship between the various components of a balance sheet are measures of a company’s solvency. For instance, a company with too little capital and surplus compared to its liabilities may come under regulatory supervision."
+                        "Paragraph_txt": "<br />From an insurance regulator’s point of view, a balance sheet addresses the question, “As of this date, how solvent is the insurer?” The relationship between the various components of a balance sheet are measures of a company’s solvency. For instance, a company with too little capital and surplus compared to its liabilities may come under regulatory supervision."
                     }
                 ]
             },
@@ -1224,13 +1224,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "State insurance laws apply reserve requirements for life insurance and annuity policies. These laws for reserve requirements, which are based on the <em>NAIC Standard Valuation Law</em>, are fairly uniform across the United States. The laws impose minimum requirements on the size of policy reserves by establishing guidelines that insurers must apply to calculate their reserves."
                     },
                     {
-                        "Paragraph_txt": "State solvency requirements specify that an insurer must maintain assets that are at least equal to the amount of its policy reserve liabilities plus capital and surplus. Most insurers maintain reserves much larger than the minimum amount required by the states. Insurers acquire assets by investing the premiums they receive. They report the value of their assets on the Annual Statements they file with state regulators and the NAIC."
+                        "Paragraph_txt": "<br />State solvency requirements specify that an insurer must maintain assets that are at least equal to the amount of its policy reserve liabilities plus capital and surplus. Most insurers maintain reserves much larger than the minimum amount required by the states. Insurers acquire assets by investing the premiums they receive. They report the value of their assets on the Annual Statements they file with state regulators and the NAIC."
                     },
                     {
-                        "Paragraph_txt": "The states define which assets an insurer may include on its Annual Statement. The assets that an insurer may report as statutory assets are known as <em>admitted assets</em>. All other assets are known as <em>nonadmitted assets</em>. An insurer must report nonadmitted assets, such as furniture and fixtures, separately and may not use them to support its required reserves. The admitted assets held by U.S. life and health insurers primarily consist of corporate stocks and bonds, government securities, mortgages, and real estate."
+                        "Paragraph_txt": "<br />The states define which assets an insurer may include on its Annual Statement. The assets that an insurer may report as statutory assets are known as <em>admitted assets</em>. All other assets are known as <em>nonadmitted assets</em>. An insurer must report nonadmitted assets, such as furniture and fixtures, separately and may not use them to support its required reserves. The admitted assets held by U.S. life and health insurers primarily consist of corporate stocks and bonds, government securities, mortgages, and real estate."
                     },
                     {
-                        "Paragraph_txt": "Solvency laws also govern how insurers determine the value of their assets for statutory reporting. These valuation requirements make sure that all insurers use the same standards in the asset valuation process and that valuations are accurate."
+                        "Paragraph_txt": "<br />Solvency laws also govern how insurers determine the value of their assets for statutory reporting. These valuation requirements make sure that all insurers use the same standards in the asset valuation process and that valuations are accurate."
                     }
                 ]
             },
@@ -1459,7 +1459,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "State regulators, assisted by the NAIC, use tools to monitor the financial condition of insurers. For instance, state insurance departments refer to the NAIC’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Financial Analysis Handbook</span> to evaluate insurers and to identify insurers having financial problems as well as those that might develop problems in the future. The NAIC maintains separate handbooks for life, health, and property/casualty insurers."
                     },
                     {
-                        "Paragraph_txt": "The NAIC also applies 12 financial ratio tests, called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">IRIS ratios</span>, to the information reported in each insurer’s Annual Statement. IRIS is an acronym for <em>Insurance Regulatory Information System</em>. Figure 7.2 shows how the NAIC uses IRIS ratios to conduct a financial analysis."
+                        "Paragraph_txt": "<br />The NAIC also applies 12 financial ratio tests, called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">IRIS ratios</span>, to the information reported in each insurer’s Annual Statement. IRIS is an acronym for <em>Insurance Regulatory Information System</em>. Figure 7.2 shows how the NAIC uses IRIS ratios to conduct a financial analysis."
                     }
                 ]
             },
@@ -1622,10 +1622,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "If the adopted examination report indicates that the insurer is operating in violation of any state law or regulation, the department may order the insurer to take appropriate action to cure the violation. If the report indicates that the insurer is financially impaired, then the state insurance department will act to protect the insurer’s customers."
                     },
                     {
-                        "Paragraph_txt": "For financial examinations of some multistate insurers, the states work through the NAIC to administer <em>association examinations</em>. Each insurer is domiciled in one of four geographic zones. If an insurer operates in more than one zone or more than three states, the NAIC recommends that the insurer receive an association examination. Examiners representing states in the zones in which the insurer operates participate in the association examination."
+                        "Paragraph_txt": "<br />For financial examinations of some multistate insurers, the states work through the NAIC to administer <em>association examinations</em>. Each insurer is domiciled in one of four geographic zones. If an insurer operates in more than one zone or more than three states, the NAIC recommends that the insurer receive an association examination. Examiners representing states in the zones in which the insurer operates participate in the association examination."
                     },
                     {
-                        "Paragraph_txt": "Also, the NAIC provides guidance for financial examinations of insurance holding companies and other groups of companies under common control. The participating state insurance departments decide how the examinations of the various insurers will be coordinated and which insurance department—called the <em>Lead State</em>—will assume the leadership role for the overall examination. Among other things, the Lead State maintains a coordination plan, works with all the other states to implement the plan, and schedules all the examinations. In addition, the Lead State names an <em>Exam Facilitator</em> for each examination. Often, the Exam Facilitator is the Lead State, but depending on the circumstances, another participating state may be the Exam Facilitator. Typically, the Exam Facilitator’s chief examiner is the designated contact person for the examination."
+                        "Paragraph_txt": "<br />Also, the NAIC provides guidance for financial examinations of insurance holding companies and other groups of companies under common control. The participating state insurance departments decide how the examinations of the various insurers will be coordinated and which insurance department—called the <em>Lead State</em>—will assume the leadership role for the overall examination. Among other things, the Lead State maintains a coordination plan, works with all the other states to implement the plan, and schedules all the examinations. In addition, the Lead State names an <em>Exam Facilitator</em> for each examination. Often, the Exam Facilitator is the Lead State, but depending on the circumstances, another participating state may be the Exam Facilitator. Typically, the Exam Facilitator’s chief examiner is the designated contact person for the examination."
                     }
                 ]
             },

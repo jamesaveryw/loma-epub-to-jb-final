@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +145,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, many aspects of a corporation’s organization and operation are found in the articles of incorporation and bylaws. In addition, a domestic corporation’s organization and operation are governed by statutes imposed by the state in which it is incorporated."
                     },
                     {
-                        "Paragraph_txt": "All corporations, including insurers, must demonstrate effective corporate governance. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Corporate governance</span> is a framework of rules and processes for directing and controlling a corporation that emphasizes integrity, transparency, and balancing the interests of stakeholders while fulfilling strategic goals. In the United States, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">NAIC Corporate Governance Annual Disclosure Act</span>(also called the <em>Corporate Governance Model Act</em>) requires an insurer to provide information regarding corporate governance practices to its state of domicile annually by June 1. The information provided by an insurer is called the <em>corporate governance annual disclosure.</em> "
+                        "Paragraph_txt": "<br />All corporations, including insurers, must demonstrate effective corporate governance. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Corporate governance</span> is a framework of rules and processes for directing and controlling a corporation that emphasizes integrity, transparency, and balancing the interests of stakeholders while fulfilling strategic goals. In the United States, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">NAIC Corporate Governance Annual Disclosure Act</span>(also called the <em>Corporate Governance Model Act</em>) requires an insurer to provide information regarding corporate governance practices to its state of domicile annually by June 1. The information provided by an insurer is called the <em>corporate governance annual disclosure.</em> "
                     },
                     {
-                        "Paragraph_txt": "In a broad sense, three groups are involved in the governance of a corporation. These groups are (1) the board of directors, (2) the officers of the corporation, and (3) the stockholders."
+                        "Paragraph_txt": "<br />In a broad sense, three groups are involved in the governance of a corporation. These groups are (1) the board of directors, (2) the officers of the corporation, and (3) the stockholders."
                     }
                 ]
             },
@@ -184,10 +184,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Directors</span> are individuals who are appointed or elected by the stockholders or policyholders to manage and direct the affairs of a corporation. State law may also provide for board seats appointed by members of the executive, legislative, or judicial branch of the state government. Collectively, the directors are known as the corporation’s <em>board of directors</em>. Directors who are otherwise employed by the corporation or are major stockholders of the corporation are known as <em>inside directors</em>, and typically are officers of the corporation. Directors who are not otherwise employed by or have no significant direct interest in the corporation are referred to as <em>outside directors</em>."
                     },
                     {
-                        "Paragraph_txt": "Actions of a board are legally binding on the corporation if they are the result of a legal vote by at least a quorum of the board members. A <em>quorum</em> is a specified percentage of an entire body, in this case, a board of directors. State laws and corporate articles of incorporation or bylaws may establish the number or percentage of directors who must be present to constitute a quorum. In the absence of such controlling authority, a simple majority of directors constitutes a quorum."
+                        "Paragraph_txt": "<br />Actions of a board are legally binding on the corporation if they are the result of a legal vote by at least a quorum of the board members. A <em>quorum</em> is a specified percentage of an entire body, in this case, a board of directors. State laws and corporate articles of incorporation or bylaws may establish the number or percentage of directors who must be present to constitute a quorum. In the absence of such controlling authority, a simple majority of directors constitutes a quorum."
                     },
                     {
-                        "Paragraph_txt": "Boards of directors typically meet at scheduled times. They must meet at least once a year. A board of directors may act without an in-person meeting if all directors consent to the action in writing."
+                        "Paragraph_txt": "<br />Boards of directors typically meet at scheduled times. They must meet at least once a year. A board of directors may act without an in-person meeting if all directors consent to the action in writing."
                     }
                 ]
             },
@@ -350,13 +350,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Officers</span> of a corporation are the people responsible for carrying out important management functions for the operation of the corporation. Officers may include the CEO, president, and treasurer, to name a few. A corporation’s board of directors usually appoints the top-level officers in accordance with applicable state laws and the corporation’s articles of incorporation and bylaws. Such appointed officers often are authorized to appoint additional officers."
                     },
                     {
-                        "Paragraph_txt": "Corporate officers are fiduciaries who are obligated to act in the best interests of the corporation and its stockholders. Officers have a duty of loyalty and a duty to exercise due care in carrying out their responsibilities. In addition, laws in some states require officers to disclose all relevant information to the board of directors. In this way the board is fully informed before making decisions on behalf of the corporation."
+                        "Paragraph_txt": "<br />Corporate officers are fiduciaries who are obligated to act in the best interests of the corporation and its stockholders. Officers have a duty of loyalty and a duty to exercise due care in carrying out their responsibilities. In addition, laws in some states require officers to disclose all relevant information to the board of directors. In this way the board is fully informed before making decisions on behalf of the corporation."
                     },
                     {
-                        "Paragraph_txt": "Officers are almost always employees of the corporation. They often enter into employment contracts and related types of agreements. Such a contract often imposes additional duties on the officers, who may be held legally liable to the corporation for violating these duties."
+                        "Paragraph_txt": "<br />Officers are almost always employees of the corporation. They often enter into employment contracts and related types of agreements. Such a contract often imposes additional duties on the officers, who may be held legally liable to the corporation for violating these duties."
                     },
                     {
-                        "Paragraph_txt": "Like directors, officers may be personally liable if they breach their duties and obligations to the corporation. Unlike directors, officers generally are not afforded protection under the business judgment rule. They may be personally liable for acts that are negligent. Recall that directors may be liable for <em>gross negligence</em>, which involves an element of willful misconduct. By contrast, the legal standard for officers is <em>negligent conduct</em>, which involves only an element of inattention or thoughtlessness in acting or failing to act."
+                        "Paragraph_txt": "<br />Like directors, officers may be personally liable if they breach their duties and obligations to the corporation. Unlike directors, officers generally are not afforded protection under the business judgment rule. They may be personally liable for acts that are negligent. Recall that directors may be liable for <em>gross negligence</em>, which involves an element of willful misconduct. By contrast, the legal standard for officers is <em>negligent conduct</em>, which involves only an element of inattention or thoughtlessness in acting or failing to act."
                     }
                 ]
             },

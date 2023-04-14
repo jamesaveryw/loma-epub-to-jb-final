@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -793,7 +793,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A person who holds all of the legal rights that exist in certain property is the absolute owner of the property. An owner’s rights in property, however, are not always absolute, because property rights may be subject to some governmental restrictions. In the United States, most state legislatures have delegated to cities and other local governments the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">police power</span>, which is the power to enact laws to promote public health, safety, and welfare. Examples of a local government’s use of police power with regard to property include zoning laws and building codes. For instance, a local government might zone a portion of land for use as commercial property as opposed to residential property."
                     },
                     {
-                        "Paragraph_txt": "An owner’s rights also may be limited if another person has rights in the same property. Because property is a bundle of rights, the owner may transfer any or all of those rights to others. For example, when a property owner uses the property as collateral for a loan, he gives the creditor an interest in the property. We discuss the rights of creditors further in Chapter 12."
+                        "Paragraph_txt": "<br />An owner’s rights also may be limited if another person has rights in the same property. Because property is a bundle of rights, the owner may transfer any or all of those rights to others. For example, when a property owner uses the property as collateral for a loan, he gives the creditor an interest in the property. We discuss the rights of creditors further in Chapter 12."
                     }
                 ]
             },

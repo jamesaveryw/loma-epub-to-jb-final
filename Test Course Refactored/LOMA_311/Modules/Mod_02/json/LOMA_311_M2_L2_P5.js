@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -660,10 +660,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we saw in Chapter 3, the law distinguishes between employees and independent contractors. An agent may be either an employee of the principal or an independent contractor. A business might appoint an employee as an agent who is authorized to contract on behalf of the business or the business might appoint someone other than an employee to do so."
                     },
                     {
-                        "Paragraph_txt": "The principal’s duties and liabilities with respect to an agent vary depending on whether the agent is the principal’s employee or an independent contractor. Employers must comply with the applicable jurisdiction’s employment laws. If an agent is considered an employee under a given employment law, the principal-agent relationship must comply with that law. In addition, whether an agent acted in a given situation as an employee or an independent contractor determines the extent of a principal’s vicarious liability."
+                        "Paragraph_txt": "<br />The principal’s duties and liabilities with respect to an agent vary depending on whether the agent is the principal’s employee or an independent contractor. Employers must comply with the applicable jurisdiction’s employment laws. If an agent is considered an employee under a given employment law, the principal-agent relationship must comply with that law. In addition, whether an agent acted in a given situation as an employee or an independent contractor determines the extent of a principal’s vicarious liability."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Vicarious liability</span> is indirect liability. As a general rule, every person is responsible for his own acts. Thus, all individuals are personally liable for the torts they commit. Generally, an employer has no vicarious liability for the torts of an independent contractor. In contrast, when an employee commits a tort in the course of employment, the employer also is liable for the tort. In other words, the employer is vicariously liable for the harm that resulted from the tort even though the employer may not have been directly at fault. Thus, from a legal standpoint, the actions of many employees in a life insurance company can have an impact on the company. As we saw in Chapter 1, an effective compliance and ethics program along with a strong corporate culture provides important safeguards against such liability. The insight below describes vicarious liability in more detail."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Vicarious liability</span> is indirect liability. As a general rule, every person is responsible for his own acts. Thus, all individuals are personally liable for the torts they commit. Generally, an employer has no vicarious liability for the torts of an independent contractor. In contrast, when an employee commits a tort in the course of employment, the employer also is liable for the tort. In other words, the employer is vicariously liable for the harm that resulted from the tort even though the employer may not have been directly at fault. Thus, from a legal standpoint, the actions of many employees in a life insurance company can have an impact on the company. As we saw in Chapter 1, an effective compliance and ethics program along with a strong corporate culture provides important safeguards against such liability. The insight below describes vicarious liability in more detail."
                     }
                 ]
             },

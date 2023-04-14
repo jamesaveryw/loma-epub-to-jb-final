@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -238,10 +238,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A few states prohibit insurers from charging different premium rates based on an <em>insured’s sex</em>. Most states, however permit different premium rates for men and women as long as the rates are based on sound actuarial principles."
                     },
                     {
-                        "Paragraph_txt": "Most states prohibit insurers from basing an underwriting decision solely on a proposed insured’s <em>sexual orientation</em>. Thus, the questions on a life insurance application should be designed to elicit medical and factual information relevant to the insurability of the proposed insured. Questions should not be designed solely to determine the proposed insured’s sexual orientation."
+                        "Paragraph_txt": "<br />Most states prohibit insurers from basing an underwriting decision solely on a proposed insured’s <em>sexual orientation</em>. Thus, the questions on a life insurance application should be designed to elicit medical and factual information relevant to the insurability of the proposed insured. Questions should not be designed solely to determine the proposed insured’s sexual orientation."
                     },
                     {
-                        "Paragraph_txt": "People who are victims of domestic abuse tend to have increased mortality risk. Even so, most states prohibit insurers from basing an underwriting decision <em>solely</em> on whether a proposed insured has been the victim of domestic abuse. However, underwriters may consider a proposed insured’s existing medical conditions, including those caused by domestic abuse. Such laws attempt to balance the right of insurers to evaluate a proposed insured’s risk against the public interest in protecting the financial security of abuse victims."
+                        "Paragraph_txt": "<br />People who are victims of domestic abuse tend to have increased mortality risk. Even so, most states prohibit insurers from basing an underwriting decision <em>solely</em> on whether a proposed insured has been the victim of domestic abuse. However, underwriters may consider a proposed insured’s existing medical conditions, including those caused by domestic abuse. Such laws attempt to balance the right of insurers to evaluate a proposed insured’s risk against the public interest in protecting the financial security of abuse victims."
                     }
                 ]
             },
@@ -840,10 +840,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "Laws based on the NAIC Unfair Claims Settlement Practices Act require insurers to establish reasonable standards for the prompt investigation and settlement of claims. If an insurer engages in an unfair claims practice, the state insurance commissioner may order the insurer to cease and desist such practice. Also, the commissioner may impose fines on the insurer. If the insurer knew or reasonably should have known it had violated the law, the insurance commissioner may suspend or revoke the insurer’s license."
+                        "Paragraph_txt": "<br />Laws based on the NAIC Unfair Claims Settlement Practices Act require insurers to establish reasonable standards for the prompt investigation and settlement of claims. If an insurer engages in an unfair claims practice, the state insurance commissioner may order the insurer to cease and desist such practice. Also, the commissioner may impose fines on the insurer. If the insurer knew or reasonably should have known it had violated the law, the insurance commissioner may suspend or revoke the insurer’s license."
                     },
                     {
-                        "Paragraph_txt": "Almost half the states have adopted regulations based on the NAIC <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Unfair Life, Accident and Health Claims Settlement Practices Model Regulation (Unfair Claims Settlement Model Regulation)</span>. This Model Regulation sets minimum standards that insurers must meet in handling life and health insurance claims. Among other things, the regulation requires insurers to keep their claim files in a form that is accessible for examination by state regulators. Claim files must contain detailed documentation of the insurer’s handling of each claim, so that regulators can reconstruct the insurer’s actions. "
+                        "Paragraph_txt": "<br />Almost half the states have adopted regulations based on the NAIC <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Unfair Life, Accident and Health Claims Settlement Practices Model Regulation (Unfair Claims Settlement Model Regulation)</span>. This Model Regulation sets minimum standards that insurers must meet in handling life and health insurance claims. Among other things, the regulation requires insurers to keep their claim files in a form that is accessible for examination by state regulators. Claim files must contain detailed documentation of the insurer’s handling of each claim, so that regulators can reconstruct the insurer’s actions. "
                     }
                 ]
             },
@@ -879,10 +879,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "If an insurer cannot find the person who is entitled to life insurance policy proceeds, those proceeds become subject to state unclaimed property laws. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Unclaimed property</span> is intangible personal property that has gone unclaimed by its rightful owner for a specified time, typically three to five years. There are many types of unclaimed property, including insurance policy proceeds and annuity values. All states have unclaimed property laws, but the laws vary by state."
                     },
                     {
-                        "Paragraph_txt": "Generally, when an insurer cannot locate the beneficiary of policy proceeds, it handles the proceeds according to the state unclaimed property laws. Some states require that insurers periodically review the Social Security Administration’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Death Master File (DMF)</span>, which is a database of information about people whose deaths were reported to the Social Security Administration."
+                        "Paragraph_txt": "<br />Generally, when an insurer cannot locate the beneficiary of policy proceeds, it handles the proceeds according to the state unclaimed property laws. Some states require that insurers periodically review the Social Security Administration’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Death Master File (DMF)</span>, which is a database of information about people whose deaths were reported to the Social Security Administration."
                     },
                     {
-                        "Paragraph_txt": "Also, to address the issue of unclaimed property, the NAIC offers a policy locator to the public. The NAIC’s <em>Life Insurance Policy Locator</em> helps consumers find life insurance policies and annuity contracts of deceased family members. When the NAIC receives a request from a consumer, it asks participating insurers to search their records to see if they have a policy in the name of the deceased. If there is such a policy, the insurer contacts the beneficiary or the authorized representative."
+                        "Paragraph_txt": "<br />Also, to address the issue of unclaimed property, the NAIC offers a policy locator to the public. The NAIC’s <em>Life Insurance Policy Locator</em> helps consumers find life insurance policies and annuity contracts of deceased family members. When the NAIC receives a request from a consumer, it asks participating insurers to search their records to see if they have a policy in the name of the deceased. If there is such a policy, the insurer contacts the beneficiary or the authorized representative."
                     }
                 ]
             },
@@ -918,7 +918,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "State insurance laws regulate how insurers handle complaints they receive, either directly from customers or from the insurance department. Many states require the insurer to respond within a specified period of time—such as seven calendar days or 10 business days—from the date the insurer receives the complaint."
                     },
                     {
-                        "Paragraph_txt": "Complaints directed to the insurance department generally must be in writing. Figure 8.3 shows the typical process when a complaint is directed to the insurance department."
+                        "Paragraph_txt": "<br />Complaints directed to the insurance department generally must be in writing. Figure 8.3 shows the typical process when a complaint is directed to the insurance department."
                     }
                 ]
             },

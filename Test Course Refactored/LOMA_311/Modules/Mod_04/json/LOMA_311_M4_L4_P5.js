@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +178,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that the formation of a valid informal contract, such as a life insurance policy, involves four requirements: mutual assent, adequate consideration, contractual capacity, and lawful purpose. If any one of these requirements is missing, the parties never entered into a valid contract. A party has the right to contest a contract’s validity at any time if any requirement was not met."
                     },
                     {
-                        "Paragraph_txt": "As we have seen, state insurance laws impose an insurable interest requirement on individual life insurance policies. This requirement guards against policies being purchased as wagering contracts. Requiring the policyowner to have had an insurable interest when the policy was issued ensures that the lawful purpose requirement for forming a contract is met. If no insurable interest existed at the time of contracting, the contract is void. The incontestability provision, therefore, does not prohibit contesting a policy based on lack of an insurable interest. The insurer may contest a contract’s validity based on lack of an insurable interest at any time while the policy is in force."
+                        "Paragraph_txt": "<br />As we have seen, state insurance laws impose an insurable interest requirement on individual life insurance policies. This requirement guards against policies being purchased as wagering contracts. Requiring the policyowner to have had an insurable interest when the policy was issued ensures that the lawful purpose requirement for forming a contract is met. If no insurable interest existed at the time of contracting, the contract is void. The incontestability provision, therefore, does not prohibit contesting a policy based on lack of an insurable interest. The insurer may contest a contract’s validity based on lack of an insurable interest at any time while the policy is in force."
                     }
                 ]
             },
@@ -307,7 +307,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An applicant applied for an individual life insurance policy. Both the applicant and the insurer were aware that the policy, if issued, would have a free look provision as required by law. This provision would give the applicant a certain period of time after the policy was issued to return the policy to the insurer for a full refund of the initial premium. The applicant believed that the law in his state required a 30-day free look provision. In fact, the law required a 10-day free look provision."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>The insurer issued a policy with a 10-day free look provision. The applicant made a mistake of law in believing that the law required a 30-day free look provision. This mistake of law, however, had no effect on the validity of the contract."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>The insurer issued a policy with a 10-day free look provision. The applicant made a mistake of law in believing that the law required a 30-day free look provision. This mistake of law, however, had no effect on the validity of the contract."
                     }
                 ]
             },
@@ -403,10 +403,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">unilateral mistake</span> is a mistake made by only one of the parties to a contract. The effect of a unilateral mistake of fact depends on the type of mistake and the circumstances. For example, assume that the offeror mistakenly misstates the price of the contract. If the offeree reasonably relied on the price as it was stated and entered into a contract, the contract is valid and binding. In contrast, if a reasonable person in the position of the offeree would have known that the offeror made a mistake in stating the price, then the contract generally is voidable by the offeror. In such a case, the party who made the unilateral mistake may avoid the contract after discovering the mistake."
                     },
                     {
-                        "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">bilateral mistake</span> occurs when both parties are mistaken when they enter into a contract. Bilateral mistakes can be either <em>common mistakes</em> or <em>mutual mistakes</em>."
+                        "Paragraph_txt": "<br />A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">bilateral mistake</span> occurs when both parties are mistaken when they enter into a contract. Bilateral mistakes can be either <em>common mistakes</em> or <em>mutual mistakes</em>."
                     },
                     {
-                        "Paragraph_txt": "The parties to a contract make a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">common mistake</span> when they both make the same mistake. When the parties make a common mistake as to the<em> identity or existence </em>of the subject matter of the contract, the contract is void."
+                        "Paragraph_txt": "<br />The parties to a contract make a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">common mistake</span> when they both make the same mistake. When the parties make a common mistake as to the<em> identity or existence </em>of the subject matter of the contract, the contract is void."
                     }
                 ]
             },
@@ -649,10 +649,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mutual mistake</span> occurs when both parties to a contract make a mistake, but they make different mistakes. If the parties are unaware of a mutual mistake as to the subject matter of the contract and are at cross-purposes when entering the contract, then the contract usually is void. This type of mutual mistake involves a misunderstanding between the parties."
                     },
                     {
-                        "Paragraph_txt": "Note that some mutual mistakes may not render a contract void if both parties are in agreement as to what the terms of the agreement <em>should</em> have been. For example, when both parties make mutual mistakes in drafting a contract, a common remedy is to permit reformation of the contract to reflect the actual intent of the parties."
+                        "Paragraph_txt": "<br />Note that some mutual mistakes may not render a contract void if both parties are in agreement as to what the terms of the agreement <em>should</em> have been. For example, when both parties make mutual mistakes in drafting a contract, a common remedy is to permit reformation of the contract to reflect the actual intent of the parties."
                     },
                     {
-                        "Paragraph_txt": "Figure 13.1 illustrates the distinctions between the various types of mistakes."
+                        "Paragraph_txt": "<br />Figure 13.1 illustrates the distinctions between the various types of mistakes."
                     }
                 ]
             },
@@ -744,10 +744,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States and other common law jurisdictions, laws exist to prevent people from profiting from criminal acts. For this reason, when a person purchases a life insurance policy with the intention of killing the insured to collect policy proceeds, the insurance policy is void. Many times such intent is proven through evidence presented at a trial. When an insurer relies upon evidence presented at a trial that resulted in a conviction, the insurer has good reason to believe that its claim denial will stand if challenged."
                     },
                     {
-                        "Paragraph_txt": "When a person purchases a life insurance policy with the intention of killing the insured to collect policy proceeds, the insurer is not liable to pay the policy proceeds and is responsible only for returning to the policyowner the premiums paid plus any interest minus any withdrawals. In this situation, the incontestability provision does not prohibit a contest of the policy, and the insurer can contest the contract’s validity at any time."
+                        "Paragraph_txt": "<br />When a person purchases a life insurance policy with the intention of killing the insured to collect policy proceeds, the insurer is not liable to pay the policy proceeds and is responsible only for returning to the policyowner the premiums paid plus any interest minus any withdrawals. In this situation, the incontestability provision does not prohibit a contest of the policy, and the insurer can contest the contract’s validity at any time."
                     },
                     {
-                        "Paragraph_txt": "If, on the other hand, the policy was not purchased with the intention of killing the insured, but a beneficiary later is convicted in a civil or criminal court of wrongfully killing the insured, the contract is valid. The beneficiary, however, is disqualified from receiving policy proceeds. In this situation, the insurer must pay the policy proceeds to someone—usually another beneficiary. If no other beneficiary exists, the insurer usually pays the proceeds to the policyowner or the policyowner’s estate. We discuss disqualification of a beneficiary in more detail in Chapter 14."
+                        "Paragraph_txt": "<br />If, on the other hand, the policy was not purchased with the intention of killing the insured, but a beneficiary later is convicted in a civil or criminal court of wrongfully killing the insured, the contract is valid. The beneficiary, however, is disqualified from receiving policy proceeds. In this situation, the insurer must pay the policy proceeds to someone—usually another beneficiary. If no other beneficiary exists, the insurer usually pays the proceeds to the policyowner or the policyowner’s estate. We discuss disqualification of a beneficiary in more detail in Chapter 14."
                     }
                 ]
             },

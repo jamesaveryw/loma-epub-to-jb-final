@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -327,7 +327,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "By contrast, when one party substantially breaches a contract, the innocent party has two possible courses of action. She can affirm the contract and treat it as if it were valid and binding. Alternatively, the innocent party can treat the contract as if it were terminated. This option excuses her from performing any remaining contractual obligations. In addition, the innocent party has a right to a remedy for the damages that resulted from the breach."
                     },
                     {
-                        "Paragraph_txt": "Whether a contract has been performed and whether a party has breached a contract are questions of fact. In deciding such questions of fact, the courts are likely to consider all of the circumstances surrounding the transaction. For example, the trier of fact will consider whether the innocent party received the benefit he bargained for and the extent to which the breaching party performed the contract."
+                        "Paragraph_txt": "<br />Whether a contract has been performed and whether a party has breached a contract are questions of fact. In deciding such questions of fact, the courts are likely to consider all of the circumstances surrounding the transaction. For example, the trier of fact will consider whether the innocent party received the benefit he bargained for and the extent to which the breaching party performed the contract."
                     }
                 ]
             },

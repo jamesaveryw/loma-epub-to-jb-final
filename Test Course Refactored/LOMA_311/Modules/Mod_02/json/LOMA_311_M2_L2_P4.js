@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -362,7 +362,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Indemnification</span> means the compensation or reimbursement of another person’s loss. A principal generally has a duty to indemnify an agent for any losses the agent incurs while performing his duties as long as the loss was not the result of the agent’s negligence or misconduct."
                     },
                     {
-                        "Paragraph_txt": "A principal’s duty to indemnify an agent usually arises in situations in which the agent’s liability results from no fault of the agent and while the agent is following the principal’s instructions. For example, assume an agent followed his principal’s instructions and entered into a contract with a third party. If the agent was held personally liable on the contract and was forced to pay money to the third party, the principal has a duty to indemnify the agent for the amount the agent had to pay out under the contract."
+                        "Paragraph_txt": "<br />A principal’s duty to indemnify an agent usually arises in situations in which the agent’s liability results from no fault of the agent and while the agent is following the principal’s instructions. For example, assume an agent followed his principal’s instructions and entered into a contract with a third party. If the agent was held personally liable on the contract and was forced to pay money to the third party, the principal has a duty to indemnify the agent for the amount the agent had to pay out under the contract."
                     }
                 ]
             },
@@ -398,7 +398,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "If the principal breaches the agency agreement, the agent typically can terminate the contract. In addition, the agent has a legal cause of action against the principal for breach of contract. For example, if the principal fails to compensate the agent, the agent may bring a civil lawsuit to recover the amount owed."
                     },
                     {
-                        "Paragraph_txt": "Figure 5.3 summarizes the duties in an agency relationship."
+                        "Paragraph_txt": "<br />Figure 5.3 summarizes the duties in an agency relationship."
                     }
                 ]
             },

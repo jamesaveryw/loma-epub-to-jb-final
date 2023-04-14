@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +145,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States and many other common law jurisdictions, the courts have developed a body of common law, known as <em>case law</em>, to govern contracts. Case law includes general principles and rules that govern the formation and legal effect of contracts."
                     },
                     {
-                        "Paragraph_txt": "Over time, legislatures have modified the common law principles by enacting statutes that apply to specific types of financial services contracts, such as insurance contracts. In Chapter 10, we describe how such statutes modify the general rules of contract law."
+                        "Paragraph_txt": "<br />Over time, legislatures have modified the common law principles by enacting statutes that apply to specific types of financial services contracts, such as insurance contracts. In Chapter 10, we describe how such statutes modify the general rules of contract law."
                     },
                     {
-                        "Paragraph_txt": "In the United States, the state governments are responsible for enacting laws that govern most contracts. Thus, each state has created its own body of contract law that generally applies to contracts entered into within that state. The basic features of these state laws, however, are fairly uniform and are found in the laws of many other common law jurisdictions."
+                        "Paragraph_txt": "<br />In the United States, the state governments are responsible for enacting laws that govern most contracts. Thus, each state has created its own body of contract law that generally applies to contracts entered into within that state. The basic features of these state laws, however, are fairly uniform and are found in the laws of many other common law jurisdictions."
                     }
                 ]
             },

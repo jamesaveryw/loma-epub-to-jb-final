@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -204,7 +204,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Antitrust laws are designed to promote competition in the marketplace and prevent monopolies and other specified business practices that unfairly restrain trade. In other words, antitrust laws seek to enable the markets to operate as closely to a state of pure competition as possible. These laws ensure that markets are free and open. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">free and open market</span> is a market in which prices are established by market forces with little or no intervention from the government or other powerful economic entities, such as monopolies."
                     },
                     {
-                        "Paragraph_txt": "The insight below explains why employees of life insurance companies must be aware of antitrust laws."
+                        "Paragraph_txt": "<br />The insight below explains why employees of life insurance companies must be aware of antitrust laws."
                     }
                 ]
             },
@@ -267,7 +267,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although antitrust regulations often apply to activities at the corporate level, it is possible for virtually anyone in a company to violate antitrust regulations. For example, industry professionals must be careful about the kind of information they share outside the organization. Even a casual conversation may give the appearance that competitors are sharing information in violation of federal antitrust laws."
                     },
                     {
-                        "Paragraph_txt": "Whether employees can share information with competitors depends on how the information is classified. Public information—which includes information about product features—can be shared. On the other hand, nonpublic information—for instance, information about a marketing strategy or product pricing—should not be shared."
+                        "Paragraph_txt": "<br />Whether employees can share information with competitors depends on how the information is classified. Public information—which includes information about product features—can be shared. On the other hand, nonpublic information—for instance, information about a marketing strategy or product pricing—should not be shared."
                     }
                 ]
             },
@@ -704,7 +704,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Some mergers and acquisitions may benefit competition by creating stronger competitors with a more efficient cost structure. Others may lessen competition because they create monopoly power. Federal law requires that parties to certain mergers or acquisitions notify the FTC and the DOJ before completing the proposed transaction. Whether a particular transaction must be reported depends on the value of the acquisition and the size of the parties, as measured by their sales and assets. Also, other acquisitions that are likely to raise antitrust concerns must be reported."
                     },
                     {
-                        "Paragraph_txt": "After notification, the FTC and DOJ have a stated period of time in which to evaluate the proposed transaction. The agencies’ evaluation is aimed at determining whether the transaction would substantially concentrate market power and make it difficult for new firms to enter the market. If the FTC or DOJ believes that a proposed transaction violates the antitrust laws, they may seek an injunction in federal district court to prohibit the parties from completing the transaction."
+                        "Paragraph_txt": "<br />After notification, the FTC and DOJ have a stated period of time in which to evaluate the proposed transaction. The agencies’ evaluation is aimed at determining whether the transaction would substantially concentrate market power and make it difficult for new firms to enter the market. If the FTC or DOJ believes that a proposed transaction violates the antitrust laws, they may seek an injunction in federal district court to prohibit the parties from completing the transaction."
                     }
                 ]
             },

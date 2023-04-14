@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +145,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Fraud that involves an insurance company is called <em>insurance fraud</em> and has long been a concern for insurers and regulators. In today’s rapidly changing marketplace, this concern is greater than ever."
                     },
                     {
-                        "Paragraph_txt": "Insurance fraud is a crime in every state. Also, businesses and individuals who are victims of insurance fraud have the right to pursue a civil lawsuit against parties who commit fraudulent acts. The victims have the right to attempt to recover any financial losses that result from fraud."
+                        "Paragraph_txt": "<br />Insurance fraud is a crime in every state. Also, businesses and individuals who are victims of insurance fraud have the right to pursue a civil lawsuit against parties who commit fraudulent acts. The victims have the right to attempt to recover any financial losses that result from fraud."
                     },
                     {
-                        "Paragraph_txt": "Insurance fraud can be classified as internal or external. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Internal fraud</span> is fraud that is committed by an insurer’s employees, such as officers, directors, and insurance agents. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">External fraud</span>is fraud committed by individuals who are not employed by the insurer, such as consumers, claimants, and individuals who have some type of business relationship with the insurer or who are in some way connected with an insurance transaction. "
+                        "Paragraph_txt": "<br />Insurance fraud can be classified as internal or external. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Internal fraud</span> is fraud that is committed by an insurer’s employees, such as officers, directors, and insurance agents. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">External fraud</span>is fraud committed by individuals who are not employed by the insurer, such as consumers, claimants, and individuals who have some type of business relationship with the insurer or who are in some way connected with an insurance transaction. "
                     }
                 ]
             },
@@ -211,7 +211,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Internal Fraud:&nbsp;</strong>An underwriter approves a life insurance application for a friend, and the application does not meet the insurer’s underwriting guidelines."
                     },
                     {
-                        "Paragraph_txt": "<strong>External Fraud:&nbsp;</strong>A doctor, at the request of a life insurance applicant, knowingly fails to disclose a medical condition on an attending physician’s statement. <em>An attending physician’s statement (APS)</em> is a report completed by a physician who has treated or is currently treating a proposed insured."
+                        "Paragraph_txt": "<br /><strong>External Fraud:&nbsp;</strong>A doctor, at the request of a life insurance applicant, knowingly fails to disclose a medical condition on an attending physician’s statement. <em>An attending physician’s statement (APS)</em> is a report completed by a physician who has treated or is currently treating a proposed insured."
                     }
                 ]
             },
@@ -336,13 +336,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although only a few states have enacted the Insurance Fraud Prevention Model Act, almost all of the states have enacted statutes with similar provisions."
                     },
                     {
-                        "Paragraph_txt": "The Insurance Fraud Prevention Model Act requires insurers to include a fraud warning statement on all insurance applications and claim forms. Also, in almost all states, insurance professionals who have knowledge of a fraudulent insurance act are required to report this knowledge to the appropriate authorities. In this context, “knowledge” means that the person knows—or reasonably believes—that a fraudulent insurance act has been committed or that someone is planning to commit such an act. To encourage people to report suspected fraud, the laws in most states protect from civil liability anyone who in good faith makes such a report."
+                        "Paragraph_txt": "<br />The Insurance Fraud Prevention Model Act requires insurers to include a fraud warning statement on all insurance applications and claim forms. Also, in almost all states, insurance professionals who have knowledge of a fraudulent insurance act are required to report this knowledge to the appropriate authorities. In this context, “knowledge” means that the person knows—or reasonably believes—that a fraudulent insurance act has been committed or that someone is planning to commit such an act. To encourage people to report suspected fraud, the laws in most states protect from civil liability anyone who in good faith makes such a report."
                     },
                     {
-                        "Paragraph_txt": "The Insurance Fraud Prevention Model Act also requires states to create an insurance fraud unit within an administrative agency of the state government. Most states have such a unit. The state insurance fraud units work with law enforcement agencies, insurers, and consumers to investigate insurance fraud. Fraud unit employees typically are authorized to investigate fraud, make arrests, and refer criminal cases to prosecuting authorities."
+                        "Paragraph_txt": "<br />The Insurance Fraud Prevention Model Act also requires states to create an insurance fraud unit within an administrative agency of the state government. Most states have such a unit. The state insurance fraud units work with law enforcement agencies, insurers, and consumers to investigate insurance fraud. Fraud unit employees typically are authorized to investigate fraud, make arrests, and refer criminal cases to prosecuting authorities."
                     },
                     {
-                        "Paragraph_txt": "A number of states require each licensed insurer to develop and maintain an antifraud plan and to file it with the state insurance department. Figure 8.4 shows typical procedures found in an insurer’s antifraud plan."
+                        "Paragraph_txt": "<br />A number of states require each licensed insurer to develop and maintain an antifraud plan and to file it with the state insurance department. Figure 8.4 shows typical procedures found in an insurer’s antifraud plan."
                     }
                 ]
             },

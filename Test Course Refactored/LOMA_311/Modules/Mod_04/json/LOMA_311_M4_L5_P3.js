@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +145,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we saw in Chapter 4, a life insurance contract is a unilateral contract under which the insurer promises to pay the policy proceeds to the named beneficiary following the insured’s death. The insurer performs its contractual promise when it pays the policy proceeds."
                     },
                     {
-                        "Paragraph_txt": "In performing its contractual obligations, an insurer carefully evaluates each claim to ensure that it pays the policy proceeds to the correct person according to the terms of the life insurance contract. In certain situations, an insurer may deny a claim and refuse to pay policy proceeds if the terms of the contract require such an action. In all cases, insurers review all relevant information before approving or denying a claim."
+                        "Paragraph_txt": "<br />In performing its contractual obligations, an insurer carefully evaluates each claim to ensure that it pays the policy proceeds to the correct person according to the terms of the life insurance contract. In certain situations, an insurer may deny a claim and refuse to pay policy proceeds if the terms of the contract require such an action. In all cases, insurers review all relevant information before approving or denying a claim."
                     }
                 ]
             },
@@ -282,7 +282,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A person who files a claim for life insurance policy proceeds must give the insurer proof of that claim—called <em>proof of death</em> or <em>proof of loss</em>—by providing evidence that the insured person has died. Acceptable evidence of an insured’s death varies among jurisdictions."
                     },
                     {
-                        "Paragraph_txt": "In the United States, most insurers require claimants to submit a <em>certified death certificate</em>, also called an <em>official death certificate</em>, as proof that the insured has died. Some insurers also accept an Attending Physician’s Statement. Insurers in other countries may require claimants to submit more extensive information, or they may accept other forms of documentation as proof of a claim."
+                        "Paragraph_txt": "<br />In the United States, most insurers require claimants to submit a <em>certified death certificate</em>, also called an <em>official death certificate</em>, as proof that the insured has died. Some insurers also accept an Attending Physician’s Statement. Insurers in other countries may require claimants to submit more extensive information, or they may accept other forms of documentation as proof of a claim."
                     }
                 ]
             },
@@ -438,22 +438,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "For most claims, the identity of the proper payee is clear, and the insurer is able to pay policy proceeds to a named beneficiary. Some claims, however, require an insurer to conduct an investigation to determine the proper payee of policy proceeds. In the following sections, we describe three situations that require further investigation by the insurer: conflicting claimants, common disasters, and short-term survivorship."
                     },
                     {
-                        "Paragraph_txt": "<strong>Conflicting Claimants</strong> "
+                        "Paragraph_txt": "<br /><strong>Conflicting Claimants</strong> "
                     },
                     {
-                        "Paragraph_txt": "Sometimes, two or more claimants assert a right to life insurance policy proceeds. For example, both a beneficiary and an assignee might assert a claim to the policy proceeds. Insurers usually settle these types of claims by encouraging the claimants to agree on how the proceeds should be divided. For some claims, however, claimants are unable to agree."
+                        "Paragraph_txt": "<br />Sometimes, two or more claimants assert a right to life insurance policy proceeds. For example, both a beneficiary and an assignee might assert a claim to the policy proceeds. Insurers usually settle these types of claims by encouraging the claimants to agree on how the proceeds should be divided. For some claims, however, claimants are unable to agree."
                     },
                     {
-                        "Paragraph_txt": "As we saw in Chapter 13, <em>interpleader</em> is a court proceeding under which an insurer that cannot determine the proper recipient of policy proceeds pays the proceeds to a court and asks the court to decide the proper recipient. The court, not the insurer, determines who is entitled to the proceeds. After paying the money into the court, the insurer usually is released from any further liability under the insurance contract."
+                        "Paragraph_txt": "<br />As we saw in Chapter 13, <em>interpleader</em> is a court proceeding under which an insurer that cannot determine the proper recipient of policy proceeds pays the proceeds to a court and asks the court to decide the proper recipient. The court, not the insurer, determines who is entitled to the proceeds. After paying the money into the court, the insurer usually is released from any further liability under the insurance contract."
                     },
                     {
-                        "Paragraph_txt": "<strong>Common Disasters</strong> "
+                        "Paragraph_txt": "<br /><strong>Common Disasters</strong> "
                     },
                     {
-                        "Paragraph_txt": "Sometimes an insured and the primary beneficiary die as a result of a common disaster, such as an automobile accident or a plane crash. In such cases, the insurer must determine whether the beneficiary survived the insured. A primary beneficiary is entitled to receive policy proceeds only if she survived the insured."
+                        "Paragraph_txt": "<br />Sometimes an insured and the primary beneficiary die as a result of a common disaster, such as an automobile accident or a plane crash. In such cases, the insurer must determine whether the beneficiary survived the insured. A primary beneficiary is entitled to receive policy proceeds only if she survived the insured."
                     },
                     {
-                        "Paragraph_txt": "In the United States, when the insurer cannot determine whether the insured or the primary beneficiary died first, most states have a simultaneous death act that provides a reasonable solution. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">simultaneous death act</span> states that if the insured and beneficiary die at the same time or under circumstances that make it impossible to determine which of them died first, then the insured is deemed to have survived the beneficiary. Unless the policy states otherwise, policy proceeds are payable as though the insured outlived the beneficiary."
+                        "Paragraph_txt": "<br />In the United States, when the insurer cannot determine whether the insured or the primary beneficiary died first, most states have a simultaneous death act that provides a reasonable solution. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">simultaneous death act</span> states that if the insured and beneficiary die at the same time or under circumstances that make it impossible to determine which of them died first, then the insured is deemed to have survived the beneficiary. Unless the policy states otherwise, policy proceeds are payable as though the insured outlived the beneficiary."
                     }
                 ]
             },
@@ -516,10 +516,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Mike and Amy Dare each had life insurance coverage. The state where they lived had a simultaneous death act. The Dares died in a plane crash, but evidence did not show who died first. Therefore, the state’s simultaneous death act determines how policy proceeds are paid."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis of Mr. Dare’s policy. </strong>Mr. Dare was the policyowner-insured of a life insurance policy that named Mrs. Dare as the primary beneficiary and their daughter, Edna, as the contingent beneficiary. Mr. Dare, the insured, is deemed to have survived the primary beneficiary, Mrs. Dare. The policy proceeds are payable to Edna, the contingent beneficiary of the policy."
+                        "Paragraph_txt": "<br /><strong>Analysis of Mr. Dare’s policy. </strong>Mr. Dare was the policyowner-insured of a life insurance policy that named Mrs. Dare as the primary beneficiary and their daughter, Edna, as the contingent beneficiary. Mr. Dare, the insured, is deemed to have survived the primary beneficiary, Mrs. Dare. The policy proceeds are payable to Edna, the contingent beneficiary of the policy."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis of Mrs. Dare’s policy.</strong> Mrs. Dare was the policyowner-insured of a life insurance policy that named Mr. Dare as the primary beneficiary. Her policy did not name a contingent beneficiary and did not include a survivorship clause. Mrs. Dare, the insured, is deemed to have survived the primary beneficiary, Mr. Dare. Because Mrs. Dare’s policy did not name a contingent beneficiary, the policy proceeds are payable to her estate."
+                        "Paragraph_txt": "<br /><strong>Analysis of Mrs. Dare’s policy.</strong> Mrs. Dare was the policyowner-insured of a life insurance policy that named Mr. Dare as the primary beneficiary. Her policy did not name a contingent beneficiary and did not include a survivorship clause. Mrs. Dare, the insured, is deemed to have survived the primary beneficiary, Mr. Dare. Because Mrs. Dare’s policy did not name a contingent beneficiary, the policy proceeds are payable to her estate."
                     }
                 ]
             },
@@ -582,10 +582,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Short-Term Survivorship</strong> "
                     },
                     {
-                        "Paragraph_txt": "Simultaneous death acts govern situations in which an insurer cannot determine if the primary beneficiary outlived the insured. However, sometimes a beneficiary survives the insured for a short period of time, called <em>short-term survivorship</em>, and the right to receive the life insurance policy proceeds vests in the beneficiary at the insured’s death. If the beneficiary dies before receiving the policy proceeds, then the insurer must pay the proceeds to the beneficiary’s estate. This situation can cause policy proceeds to be paid in a manner contrary to what the policyowner intended."
+                        "Paragraph_txt": "<br />Simultaneous death acts govern situations in which an insurer cannot determine if the primary beneficiary outlived the insured. However, sometimes a beneficiary survives the insured for a short period of time, called <em>short-term survivorship</em>, and the right to receive the life insurance policy proceeds vests in the beneficiary at the insured’s death. If the beneficiary dies before receiving the policy proceeds, then the insurer must pay the proceeds to the beneficiary’s estate. This situation can cause policy proceeds to be paid in a manner contrary to what the policyowner intended."
                     },
                     {
-                        "Paragraph_txt": "To prevent such a result, life insurance policies may contain a survivorship clause, as we saw in Chapter 11. This clause requires the beneficiary to survive the insured by a stated period of time, usually 30 or 60 days, to be entitled to receive the policy proceeds. If the beneficiary does not survive for the stated period of time, the insurer pays the proceeds as if the insured outlived the beneficiary. When a policy includes a survivorship clause, the insurer must delay paying a death claim until the required survivorship period has expired (or the beneficiary dies, if earlier). Thus, for example, if a policy requires the beneficiary to survive the insured by at least 30 days, then the insurer must wait until the earlier of the end of the specified 30-day period or the death of the beneficiary before paying the policy proceeds. Video 14.1 shows the effect of a survivorship clause."
+                        "Paragraph_txt": "<br />To prevent such a result, life insurance policies may contain a survivorship clause, as we saw in Chapter 11. This clause requires the beneficiary to survive the insured by a stated period of time, usually 30 or 60 days, to be entitled to receive the policy proceeds. If the beneficiary does not survive for the stated period of time, the insurer pays the proceeds as if the insured outlived the beneficiary. When a policy includes a survivorship clause, the insurer must delay paying a death claim until the required survivorship period has expired (or the beneficiary dies, if earlier). Thus, for example, if a policy requires the beneficiary to survive the insured by at least 30 days, then the insurer must wait until the earlier of the end of the specified 30-day period or the death of the beneficiary before paying the policy proceeds. Video 14.1 shows the effect of a survivorship clause."
                     }
                 ]
             },
@@ -1157,31 +1157,31 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most life insurance policies contain exclusions. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">exclusion</span> is a provision that specifies certain situations under which the insurer will not pay the policy’s face amount. If the cause of an insured’s death was excluded from coverage, then the insurer has no contractual liability to pay the full policy death benefit. Policies typically state that the insurer’s liability is limited to the amount of premiums paid for the policy. Sometimes a policy provides that the insurer will be liable only for the policy’s cash surrender value."
                     },
                     {
-                        "Paragraph_txt": "In the past, during periods of war, insurers sometimes included a war exclusion in life insurance policies. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">war exclusion provision</span> states that an insurer will not pay the full policy proceeds if an insured’s death is caused by war-related activities. U.S. insurers, however, rarely add war exclusions to modern-day life insurance policies, and insurers often do not enforce such clauses found in older policies."
+                        "Paragraph_txt": "<br />In the past, during periods of war, insurers sometimes included a war exclusion in life insurance policies. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">war exclusion provision</span> states that an insurer will not pay the full policy proceeds if an insured’s death is caused by war-related activities. U.S. insurers, however, rarely add war exclusions to modern-day life insurance policies, and insurers often do not enforce such clauses found in older policies."
                     },
                     {
-                        "Paragraph_txt": "Another type of exclusion, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">aviation exclusion provision</span>, states that an insurer will not pay the policy face amount if the insured’s death is caused by certain aviation-related activities. Insurers usually add these exclusions to policies that insure people involved in military or experimental aviation activities and to those employed by airlines as pilots and flight attendants. Aviation exclusions typically do not exclude coverage for passenger travel on regularly scheduled commercial airlines."
+                        "Paragraph_txt": "<br />Another type of exclusion, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">aviation exclusion provision</span>, states that an insurer will not pay the policy face amount if the insured’s death is caused by certain aviation-related activities. Insurers usually add these exclusions to policies that insure people involved in military or experimental aviation activities and to those employed by airlines as pilots and flight attendants. Aviation exclusions typically do not exclude coverage for passenger travel on regularly scheduled commercial airlines."
                     },
                     {
-                        "Paragraph_txt": "<strong>Suicide Exclusion</strong> "
+                        "Paragraph_txt": "<br /><strong>Suicide Exclusion</strong> "
                     },
                     {
-                        "Paragraph_txt": "The most common policy exclusion is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">suicide exclusion provision</span>, which states that the insurer will not pay the policy face amount if the insured dies as a result of suicide within a stated period of time after the date that the policy was issued. Laws in most states limit the length of the suicide exclusion period to a specified maximum, usually two years."
+                        "Paragraph_txt": "<br />The most common policy exclusion is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">suicide exclusion provision</span>, which states that the insurer will not pay the policy face amount if the insured dies as a result of suicide within a stated period of time after the date that the policy was issued. Laws in most states limit the length of the suicide exclusion period to a specified maximum, usually two years."
                     },
                     {
-                        "Paragraph_txt": "According to the terms of a typical suicide exclusion provision, if the insured dies as a result of suicide during the suicide exclusion period, the insurer is not liable to pay the policy face amount. Instead, the insurer’s liability is limited to a return of any premiums paid for the policy minus any unpaid policy loans. After the expiration of the suicide exclusion period, the death of the insured as a result of suicide is covered by the policy and the insurer must pay the full policy benefit."
+                        "Paragraph_txt": "<br />According to the terms of a typical suicide exclusion provision, if the insured dies as a result of suicide during the suicide exclusion period, the insurer is not liable to pay the policy face amount. Instead, the insurer’s liability is limited to a return of any premiums paid for the policy minus any unpaid policy loans. After the expiration of the suicide exclusion period, the death of the insured as a result of suicide is covered by the policy and the insurer must pay the full policy benefit."
                     },
                     {
-                        "Paragraph_txt": "The suicide exclusion is intended to guard against antiselection, which, as we have seen, is the tendency for people who are most likely to have claims to be the ones most likely to apply for insurance. The general opinion is that a one- or two-year exclusion period is sufficient to protect the insurer against “planned suicides.” In other words, it is unlikely that a person would purchase life insurance with the intention of committing suicide one or two years later."
+                        "Paragraph_txt": "<br />The suicide exclusion is intended to guard against antiselection, which, as we have seen, is the tendency for people who are most likely to have claims to be the ones most likely to apply for insurance. The general opinion is that a one- or two-year exclusion period is sufficient to protect the insurer against “planned suicides.” In other words, it is unlikely that a person would purchase life insurance with the intention of committing suicide one or two years later."
                     },
                     {
-                        "Paragraph_txt": "Most jurisdictions have developed a strong presumption against suicide—that is, the law presumes that a person’s death did <em>not</em> result from suicide. If the facts of a case can be interpreted in more than one way, a court usually will presume that the insured did not take his own life."
+                        "Paragraph_txt": "<br />Most jurisdictions have developed a strong presumption against suicide—that is, the law presumes that a person’s death did <em>not</em> result from suicide. If the facts of a case can be interpreted in more than one way, a court usually will presume that the insured did not take his own life."
                     },
                     {
-                        "Paragraph_txt": "When an insurer refuses to pay a policy’s face amount based on the suicide exclusion provision and the claimant later sues the insurer, the insurer has the burden of proving that the insured’s death was caused by suicide during the policy’s suicide exclusion period. An insurer’s assertion that the insured committed suicide is an affirmative defense—that is, it is an allegation of facts that constitutes a defense to a plaintiff’s claim. Whether the insured committed suicide is a question of fact that depends on all of the circumstances surrounding the death."
+                        "Paragraph_txt": "<br />When an insurer refuses to pay a policy’s face amount based on the suicide exclusion provision and the claimant later sues the insurer, the insurer has the burden of proving that the insured’s death was caused by suicide during the policy’s suicide exclusion period. An insurer’s assertion that the insured committed suicide is an affirmative defense—that is, it is an allegation of facts that constitutes a defense to a plaintiff’s claim. Whether the insured committed suicide is a question of fact that depends on all of the circumstances surrounding the death."
                     },
                     {
-                        "Paragraph_txt": "Another question of fact that sometimes arises in suicide cases concerns whether an insured was sane when she committed suicide. According to laws in most states, suicide requires that the person must have intended to kill herself; a person who is insane cannot form the necessary intent to commit suicide. As a result, the insurer is liable to pay policy proceeds if the insured died as a result of self-inflicted injury while insane. To avoid this result, the suicide exclusion provision included in most policies indicates that the insurer is not liable to pay the policy proceeds if the insured died as a result of suicide or self-inflicted injury, while <em>sane or insane</em>."
+                        "Paragraph_txt": "<br />Another question of fact that sometimes arises in suicide cases concerns whether an insured was sane when she committed suicide. According to laws in most states, suicide requires that the person must have intended to kill herself; a person who is insane cannot form the necessary intent to commit suicide. As a result, the insurer is liable to pay policy proceeds if the insured died as a result of self-inflicted injury while insane. To avoid this result, the suicide exclusion provision included in most policies indicates that the insurer is not liable to pay the policy proceeds if the insured died as a result of suicide or self-inflicted injury, while <em>sane or insane</em>."
                     }
                 ]
             },
@@ -1217,7 +1217,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When an insured disappears, a claimant to life insurance policy proceeds cannot provide the insurer with proof that the insured is dead. If a claimant cannot provide acceptable proof of her claim, the insurer will not pay the claim. When this situation occurs in the United States, a claimant can ask a court to declare the insured dead. A court’s willingness to declare a missing person dead often depends on the circumstances surrounding the person’s disappearance."
                     },
                     {
-                        "Paragraph_txt": "When an insured disappears from an identifiable cause under circumstances that suggest he is likely dead, a court usually declares the insured dead. A court typically makes this determination when the insured disappears as a result of a specific peril that can reasonably account for his death."
+                        "Paragraph_txt": "<br />When an insured disappears from an identifiable cause under circumstances that suggest he is likely dead, a court usually declares the insured dead. A court typically makes this determination when the insured disappears as a result of a specific peril that can reasonably account for his death."
                     }
                 ]
             },
@@ -1405,7 +1405,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "If a claimant satisfactorily proves the required facts, a court will presume that the insured is dead. In most jurisdictions, a court’s presumption of death is a <em>rebuttable presumption</em>, which is a presumption that can be disproven but that stands until adequate evidence is presented to the contrary. Therefore, a party wishing to show that the insured is not dead is allowed to present evidence to the court to prove that fact. If a court’s presumption of death is rebutted, the insured’s status becomes a question of fact."
                     },
                     {
-                        "Paragraph_txt": "See Figure 14.1 for an example of a life insurance claim in which the insured’s disappearance cannot be attributed to an identifiable cause."
+                        "Paragraph_txt": "<br />See Figure 14.1 for an example of a life insurance claim in which the insured’s disappearance cannot be attributed to an identifiable cause."
                     }
                 ]
             },
@@ -1497,10 +1497,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "When a court declares an insured to be dead, a court order serves as proof of death, and policy proceeds become payable. Many times, the court order specifies the date on which the insured is presumed to have died. When the court order does not specify the date of death for the insured, the insured is presumed to have died on the date of the court order."
                     },
                     {
-                        "Paragraph_txt": "Note that when an insured disappears, the contract owner or another interested party, such as the beneficiary, must keep the policy in force until the court issues an order declaring the insured dead. Therefore, premiums must be paid or the policy must be continued under a nonforfeiture option such as the extended term insurance option. If the policy lapses for nonpayment of premiums <em>before the date of the court order</em>, the insurer is not liable to pay the policy proceeds."
+                        "Paragraph_txt": "<br />Note that when an insured disappears, the contract owner or another interested party, such as the beneficiary, must keep the policy in force until the court issues an order declaring the insured dead. Therefore, premiums must be paid or the policy must be continued under a nonforfeiture option such as the extended term insurance option. If the policy lapses for nonpayment of premiums <em>before the date of the court order</em>, the insurer is not liable to pay the policy proceeds."
                     },
                     {
-                        "Paragraph_txt": "Sometimes an insured who has been declared dead by a court reappears. If an insurer paid a claim and the insured later reappears, the insurer generally is entitled to recover the amount it paid under the claim because the insurer paid the claim as the result of a mistake of fact. The insurer, however, may be prevented from recovering such a mistaken payment if it paid less than the full amount of policy proceeds as part of a compromise settlement with the beneficiary. We describe compromise settlements later in the chapter."
+                        "Paragraph_txt": "<br />Sometimes an insured who has been declared dead by a court reappears. If an insurer paid a claim and the insured later reappears, the insurer generally is entitled to recover the amount it paid under the claim because the insurer paid the claim as the result of a mistake of fact. The insurer, however, may be prevented from recovering such a mistaken payment if it paid less than the full amount of policy proceeds as part of a compromise settlement with the beneficiary. We describe compromise settlements later in the chapter."
                     }
                 ]
             },
@@ -1634,7 +1634,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">accidental death benefit</span> is a supplemental life insurance policy benefit that requires the insurer to pay a specified amount of money in addition to the policy’s basic death benefit if an insured dies as a result of an accident. When a life insurance policy contains an accidental death benefit, the insurer must evaluate the cause of the insured’s death to determine whether the accidental death benefit is payable."
                     },
                     {
-                        "Paragraph_txt": "When a claim is made for accidental death benefits, the insurer usually requires the claimant to submit additional information to show proof of the claim. For example, an insurer may require a claimant to provide an autopsy report in addition to a death certificate. The insurer uses this additional information to determine whether the insured’s death was <em>accidental</em> as defined by the terms of the life insurance policy. A typical definition of <em>accidental death</em> found in many life insurance policies reads as follows:"
+                        "Paragraph_txt": "<br />When a claim is made for accidental death benefits, the insurer usually requires the claimant to submit additional information to show proof of the claim. For example, an insurer may require a claimant to provide an autopsy report in addition to a death certificate. The insurer uses this additional information to determine whether the insured’s death was <em>accidental</em> as defined by the terms of the life insurance policy. A typical definition of <em>accidental death</em> found in many life insurance policies reads as follows:"
                     }
                 ]
             },
@@ -1757,10 +1757,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "When a claimant sues an insurer over the denial of accidental death benefits, the claimant has the burden of proving that the insured’s death was caused by an accident. Whether the insured’s death was caused by an accident is a question of fact."
                     },
                     {
-                        "Paragraph_txt": "Some life insurance policies contain a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">time limitation clause</span> that specifies that the insured’s death must occur within a certain period of time—usually 90 or 180 days—from the date of an accident for accidental death benefits to be payable. The purpose of a time limitation clause is to ensure to a reasonable degree that the accident was the cause of the insured’s death."
+                        "Paragraph_txt": "<br />Some life insurance policies contain a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">time limitation clause</span> that specifies that the insured’s death must occur within a certain period of time—usually 90 or 180 days—from the date of an accident for accidental death benefits to be payable. The purpose of a time limitation clause is to ensure to a reasonable degree that the accident was the cause of the insured’s death."
                     },
                     {
-                        "Paragraph_txt": "Most contracts also contain accidental death benefit exclusions, which state that if an insured dies as a result of certain specified causes, the insurer is not required to pay accidental death benefits. An example of such a cause might be a drug overdose or an accident that occurs while a person is under the influence of drugs or alcohol. As a general rule, the insurer has the burden of proving that the insured died as a result of a cause excluded from coverage."
+                        "Paragraph_txt": "<br />Most contracts also contain accidental death benefit exclusions, which state that if an insured dies as a result of certain specified causes, the insurer is not required to pay accidental death benefits. An example of such a cause might be a drug overdose or an accident that occurs while a person is under the influence of drugs or alcohol. As a general rule, the insurer has the burden of proving that the insured died as a result of a cause excluded from coverage."
                     }
                 ]
             },
@@ -1796,7 +1796,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers try to avoid litigation because it is time-consuming and costly. When an insurer is involved in claim litigation, the insurer’s attorneys spend a great deal of time gathering evidence to justify the denial of the claim. Other employees of the insurer spend time gathering pertinent documents and information requested by the legal staff. In some cases, claim litigation may require employees who were involved in the claim decision to give depositions. In other cases, an employee may be called to testify at a trial. In cases such as these, a claimant may want to prove that there was an error in the process or that inappropriate considerations were applied."
                     },
                     {
-                        "Paragraph_txt": "Often, insurers must hire outside attorneys to assist with claim litigation. Depending on the length and complexity of a trial, attorneys’ fees can be a significant expense for an insurer. Because of the many potential drawbacks of litigation, insurers often try to reach a compromise with potential plaintiffs as a way to avoid litigation."
+                        "Paragraph_txt": "<br />Often, insurers must hire outside attorneys to assist with claim litigation. Depending on the length and complexity of a trial, attorneys’ fees can be a significant expense for an insurer. Because of the many potential drawbacks of litigation, insurers often try to reach a compromise with potential plaintiffs as a way to avoid litigation."
                     }
                 ]
             },
@@ -1952,7 +1952,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most insurers are willing to enter into compromise settlements because they want to avoid the possibility of paying a large damage award if the claimant files a successful lawsuit. Damage awards can decrease an insurer’s profits and weaken its reputation."
                     },
                     {
-                        "Paragraph_txt": "When a claim is paid under a compromise settlement, the insurer cannot demand repayment of the amount it paid in settlement of the claim. For example, suppose an insurer entered into a compromise settlement with a claimant but later discovered facts indicating that the claim should not have been paid. In the absence of fraud, the insurer cannot recover the amount it paid because the courts will not disturb such a compromise settlement entered into by competent parties."
+                        "Paragraph_txt": "<br />When a claim is paid under a compromise settlement, the insurer cannot demand repayment of the amount it paid in settlement of the claim. For example, suppose an insurer entered into a compromise settlement with a claimant but later discovered facts indicating that the claim should not have been paid. In the absence of fraud, the insurer cannot recover the amount it paid because the courts will not disturb such a compromise settlement entered into by competent parties."
                     }
                 ]
             },
@@ -1988,10 +1988,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A claimant who disagrees with an insurer’s decision to deny a claim for life insurance policy proceeds may file a civil action against the insurer alleging that the insurer breached the contract."
                     },
                     {
-                        "Paragraph_txt": "<strong>Conflict of Laws</strong> "
+                        "Paragraph_txt": "<br /><strong>Conflict of Laws</strong> "
                     },
                     {
-                        "Paragraph_txt": "Actions involving life insurance policies often involve the laws of multiple jurisdictions. As we saw in Chapter 4, conflict of law rules are used to determine which substantive laws apply to the issues in a civil lawsuit when the laws of more than one jurisdiction are involved in the lawsuit."
+                        "Paragraph_txt": "<br />Actions involving life insurance policies often involve the laws of multiple jurisdictions. As we saw in Chapter 4, conflict of law rules are used to determine which substantive laws apply to the issues in a civil lawsuit when the laws of more than one jurisdiction are involved in the lawsuit."
                     }
                 ]
             },
@@ -2114,7 +2114,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Damages</strong> "
                     },
                     {
-                        "Paragraph_txt": "As we saw in Chapter 13, if a court rules that the insurer breached the contract, the court typically orders the insurer to pay compensatory damages. For a claimant to life insurance policy proceeds, this usually is the amount of policy proceeds payable by the insurer. Furthermore, in many jurisdictions, an insurer found to have acted in bad faith may be liable for punitive damages, in addition to compensatory damages, and the plaintiff may recover damages that exceed the amount of the policy’s basic death benefit and supplemental benefits."
+                        "Paragraph_txt": "<br />As we saw in Chapter 13, if a court rules that the insurer breached the contract, the court typically orders the insurer to pay compensatory damages. For a claimant to life insurance policy proceeds, this usually is the amount of policy proceeds payable by the insurer. Furthermore, in many jurisdictions, an insurer found to have acted in bad faith may be liable for punitive damages, in addition to compensatory damages, and the plaintiff may recover damages that exceed the amount of the policy’s basic death benefit and supplemental benefits."
                     }
                 ]
             },

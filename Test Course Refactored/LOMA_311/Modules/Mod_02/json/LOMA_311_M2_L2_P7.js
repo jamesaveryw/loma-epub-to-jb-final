@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -210,7 +210,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The method by which an agency relationship terminates affects the rights and liabilities of the principal, the agent, and any third parties who then deal with the agent."
                     },
                     {
-                        "Paragraph_txt": "Note that termination of an agency relationship must be distinguished from termination of an employment relationship. Employment relationships are governed by federal and state laws, such as those described in Chapter 3. Thus, termination of an agency relationship when the agent is an employee is governed by both employment law and agency law."
+                        "Paragraph_txt": "<br />Note that termination of an agency relationship must be distinguished from termination of an employment relationship. Employment relationships are governed by federal and state laws, such as those described in Chapter 3. Thus, termination of an agency relationship when the agent is an employee is governed by both employment law and agency law."
                     }
                 ]
             },
@@ -246,7 +246,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because agency is a relationship requiring the consent of both parties, either party has the power to end the relationship at any time. A party, however, may have the <em>power</em> to end the relationship but not the <em>legal right</em> to do so. For example, assume that a principal and an agent enter into an agency agreement that is for a term of one year. Either party has the power to end the relationship at any time during that year, but neither has the legal right to do so without the other’s consent. A party who ends an agency relationship without the legal right to do so is in breach of the agency agreement and is liable to the other party for any damages that result from the breach."
                     },
                     {
-                        "Paragraph_txt": "As we have noted, if an agent breaches a fiduciary duty, the principal has the right to terminate the agency relationship without having further liability to the agent. Similarly, when an agent has the legal right to terminate the agency relationship, the agent may do so without having further liability to the principal. For example, an agent typically has a legal right to end the agency relationship when the principal fails to compensate the agent per the terms of the agency agreement."
+                        "Paragraph_txt": "<br />As we have noted, if an agent breaches a fiduciary duty, the principal has the right to terminate the agency relationship without having further liability to the agent. Similarly, when an agent has the legal right to terminate the agency relationship, the agent may do so without having further liability to the principal. For example, an agent typically has a legal right to end the agency relationship when the principal fails to compensate the agent per the terms of the agency agreement."
                     }
                 ]
             },
@@ -315,7 +315,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Many agency agreements state that they are to continue until a specified date or until a specified purpose is accomplished. When an agency agreement contains a termination provision, the agreement terminates upon the occurrence of the condition specified. Neither party has a duty to notify the other party of the termination or to take any action for the termination to be effective. When an agency agreement has been performed, the parties have no further liabilities or duties to each other."
                     },
                     {
-                        "Paragraph_txt": "When an agency agreement does not have a termination provision, the relationship terminates after a reasonable time. What constitutes a reasonable time is a question of fact that depends on the circumstances surrounding the agency relationship. An agency relationship that is to continue for an unspecified amount of time is known as an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">agency at will</span>. Either the principal or agent has the legal right to terminate an agency at will at any time and for any reason by giving the other party notice of termination of the relationship. If the amount of notice required is not stated in the agency agreement, the terminating party must give a reasonable amount of notice. The amount of time that constitutes reasonable notice is a question of fact that may be affected by a number of factors, such as the customs and trade practices of the industry."
+                        "Paragraph_txt": "<br />When an agency agreement does not have a termination provision, the relationship terminates after a reasonable time. What constitutes a reasonable time is a question of fact that depends on the circumstances surrounding the agency relationship. An agency relationship that is to continue for an unspecified amount of time is known as an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">agency at will</span>. Either the principal or agent has the legal right to terminate an agency at will at any time and for any reason by giving the other party notice of termination of the relationship. If the amount of notice required is not stated in the agency agreement, the terminating party must give a reasonable amount of notice. The amount of time that constitutes reasonable notice is a question of fact that may be affected by a number of factors, such as the customs and trade practices of the industry."
                     }
                 ]
             },
@@ -515,7 +515,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When an agency relationship terminates for reasons other than by operation of law, the agent may continue to have apparent authority even though her actual authority to bind the principal has ended. Because apparent authority is created by the principal’s actions, such authority continues until the principal takes action to revoke it. Any third party who is unaware that the agency relationship ended and who enters into a contract with the agent on behalf of the principal can enforce the contract against the principal. Therefore, the principal must take steps to revoke the agent’s apparent authority by providing notice that the agent’s authority has ended. Such notice must be made to third parties who dealt with the agent during the agency relationship."
                     },
                     {
-                        "Paragraph_txt": "The principal also must take whatever steps are reasonable to notify third parties who did not deal with the agent but who knew of the agency relationship. What steps are reasonable is a question of fact that depends on the circumstances of the case."
+                        "Paragraph_txt": "<br />The principal also must take whatever steps are reasonable to notify third parties who did not deal with the agent but who knew of the agency relationship. What steps are reasonable is a question of fact that depends on the circumstances of the case."
                     }
                 ]
             },

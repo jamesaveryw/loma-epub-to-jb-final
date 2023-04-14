@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -243,7 +243,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, a financial institution that provides a full range of financial services must qualify as a financial holding company. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">financial holding company (FHC)</span>is a holding company that conducts activities that are financial in nature or incidental to financial activities, such as insurance, securities, banking, and investment and advisory services. "
                     },
                     {
-                        "Paragraph_txt": "An FHC must include a depository institution, which may be a national, state, foreign, or savings bank. The process to become an FHC is regulated by the Federal Reserve System. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Federal Reserve System (the Fed)</span> is a system consisting of 12 regional banks, all national banks, and most state banks. These banks are known as Fed members. The Fed has a number of primary functions. It conducts the nation’s monetary policy, maintains the stability of the nation’s financial system, and provides certain financial services to the U.S. government, the public, and financial institutions. The Fed also supervises and regulates banking institutions and protects the credit rights of consumers. Although the Fed focuses primarily on banking activities, it does provide oversight of financial holding companies and thus some insurance companies. If an insurer is included in an FHC, then the FHC also must comply with state insurance holding company laws."
+                        "Paragraph_txt": "<br />An FHC must include a depository institution, which may be a national, state, foreign, or savings bank. The process to become an FHC is regulated by the Federal Reserve System. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Federal Reserve System (the Fed)</span> is a system consisting of 12 regional banks, all national banks, and most state banks. These banks are known as Fed members. The Fed has a number of primary functions. It conducts the nation’s monetary policy, maintains the stability of the nation’s financial system, and provides certain financial services to the U.S. government, the public, and financial institutions. The Fed also supervises and regulates banking institutions and protects the credit rights of consumers. Although the Fed focuses primarily on banking activities, it does provide oversight of financial holding companies and thus some insurance companies. If an insurer is included in an FHC, then the FHC also must comply with state insurance holding company laws."
                     }
                 ]
             }

@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +145,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most applicants for life insurance pay the initial premium when they complete their application for insurance. The applicant, the insurer, and the financial professional all benefit when the applicant submits the initial premium along with the application. The advantage to the applicant is that, under certain circumstances, the applicant can receive insurance coverage before the policy itself is effective. Although many insurers are attempting to streamline the underwriting process, the process can take several weeks, and many applicants pay the initial premium so that their coverage can begin before the underwriting and policy issue processes are completed. The advantage to the insurer and the financial professional is that an applicant who has paid the initial premium is more likely to accept the policy when it is delivered than is an applicant who has not paid the initial premium."
                     },
                     {
-                        "Paragraph_txt": "When an applicant pays the initial premium with the application, the financial professional gives the applicant a premium receipt that acknowledges the premium payment and often includes a temporary insurance agreement. Such an agreement provides insurance coverage on the proposed insured before a policy is issued and delivered, although such coverage may be subject to certain conditions. A temporary insurance agreement is a contract between the insurer and the life insurance applicant. The contract is formed when the financial professional—who is acting as an authorized agent of the insurer—makes an offer to provide temporary insurance coverage if the applicant pays the initial premium. The applicant accepts the insurer’s offer by paying that premium, and the temporary insurance agreement is then effective."
+                        "Paragraph_txt": "<br />When an applicant pays the initial premium with the application, the financial professional gives the applicant a premium receipt that acknowledges the premium payment and often includes a temporary insurance agreement. Such an agreement provides insurance coverage on the proposed insured before a policy is issued and delivered, although such coverage may be subject to certain conditions. A temporary insurance agreement is a contract between the insurer and the life insurance applicant. The contract is formed when the financial professional—who is acting as an authorized agent of the insurer—makes an offer to provide temporary insurance coverage if the applicant pays the initial premium. The applicant accepts the insurer’s offer by paying that premium, and the temporary insurance agreement is then effective."
                     },
                     {
-                        "Paragraph_txt": "A premium receipt that provides temporary insurance coverage states (1) when that coverage becomes effective, (2) the conditions that must be met for the coverage to become effective, and (3) when the coverage will end. Premium receipts also usually state that the temporary insurance coverage is provided subject to the terms of the insurance policy for which the applicant applied."
+                        "Paragraph_txt": "<br />A premium receipt that provides temporary insurance coverage states (1) when that coverage becomes effective, (2) the conditions that must be met for the coverage to become effective, and (3) when the coverage will end. Premium receipts also usually state that the temporary insurance coverage is provided subject to the terms of the insurance policy for which the applicant applied."
                     }
                 ]
             },
@@ -629,7 +629,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another type of conditional receipt is an <em>approval premium receipt</em>, which provides temporary insurance coverage only when the insurer approves the proposed insured as a standard or better-than-average risk. U.S. insurers rarely issue approval premium receipts."
                     },
                     {
-                        "Paragraph_txt": "To protect consumers, some states prohibit insurers and producers from describing a conditional premium receipt as a <em>temporary insurance agreement</em>. Lawmakers in these states reason that the term <em>temporary insurance agreement</em> may cause confusion. If the receipt is described as a <em>temporary agreement</em>, some applicants could think that coverage is in force when it is not."
+                        "Paragraph_txt": "<br />To protect consumers, some states prohibit insurers and producers from describing a conditional premium receipt as a <em>temporary insurance agreement</em>. Lawmakers in these states reason that the term <em>temporary insurance agreement</em> may cause confusion. If the receipt is described as a <em>temporary agreement</em>, some applicants could think that coverage is in force when it is not."
                     }
                 ]
             },

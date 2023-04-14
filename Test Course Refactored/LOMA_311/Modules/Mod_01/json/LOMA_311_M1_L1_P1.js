@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -110,251 +110,6 @@ Lesson_Data_File([
                     },
                     {
                         "Paragraph_txt": ""
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Sources of Law"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Constitutions"
-                            },
-                            {
-                                "lstText": "Statutes"
-                            },
-                            {
-                                "lstText": "Administrative Regulations"
-                            },
-                            {
-                                "lstText": "Treaties and International Agreements"
-                            },
-                            {
-                                "lstText": "Case Law"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Legal Systems"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Common Law Systems"
-                            },
-                            {
-                                "lstText": "Civil Law Systems"
-                            },
-                            {
-                                "lstText": "Mixed Legal Systems"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Court Systems"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Federal Court System"
-                            },
-                            {
-                                "lstText": "State Court Systems"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "The Legal and Compliance Functions"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Compliance and Ethics Programs"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
                     }
                 ]
             },
@@ -458,25 +213,25 @@ Lesson_Data_File([
                         "Paragraph_txt": "The life insurance industry is of such importance to so many people that it occupies a special position of public trust. Millions of families rely on life insurance and annuity products for savings and financial protection against the risks of dying too soon or outliving assets. Also, the reserves held by life insurers are one of the largest sources of private funds in the world’s financial markets."
                     },
                     {
-                        "Paragraph_txt": "Life insurers balance the needs of a variety of stakeholders. By <span class=\"keyterm\" tabindex=\"0\" role=\"button\">stakeholders</span>we mean the parties who have an interest in how the company conducts its business. A life insurance company’s stakeholders include stockholders (for stock companies), the board of directors, executives, managers, employees, agents, potential customers, policyowners, beneficiaries, annuity participants, and regulators, among others. "
+                        "Paragraph_txt": "<br />Life insurers balance the needs of a variety of stakeholders. By <span class=\"keyterm\" tabindex=\"0\" role=\"button\">stakeholders</span>we mean the parties who have an interest in how the company conducts its business. A life insurance company’s stakeholders include stockholders (for stock companies), the board of directors, executives, managers, employees, agents, potential customers, policyowners, beneficiaries, annuity participants, and regulators, among others. "
                     },
                     {
-                        "Paragraph_txt": "The financial health and business practices of life insurance companies are of such importance to society that governments rely on the legal system to put in place specific insurance laws and regulations that safeguard this public trust. Also, in a business as complex and important as the life insurance industry, mistakes and disagreements happen, and the parties often turn to the legal system to resolve disputes."
+                        "Paragraph_txt": "<br />The financial health and business practices of life insurance companies are of such importance to society that governments rely on the legal system to put in place specific insurance laws and regulations that safeguard this public trust. Also, in a business as complex and important as the life insurance industry, mistakes and disagreements happen, and the parties often turn to the legal system to resolve disputes."
                     },
                     {
-                        "Paragraph_txt": "A legal system includes two major components: (1) <em>laws and regulations</em> that regulate conduct and (2) <em>legal processes</em> to enforce those laws and regulations. The laws and regulations provide guidelines and rules to help people, companies, and governments interact in an orderly way. The legal processes are used to resolve disputes, provide remedies for victims, and punish those who break laws. A legal system enables individuals and organizations to anticipate the outcomes of their actions with some certainty, manage affairs with a minimum of conflict, and resolve disputes fairly."
+                        "Paragraph_txt": "<br />A legal system includes two major components: (1) <em>laws and regulations</em> that regulate conduct and (2) <em>legal processes</em> to enforce those laws and regulations. The laws and regulations provide guidelines and rules to help people, companies, and governments interact in an orderly way. The legal processes are used to resolve disputes, provide remedies for victims, and punish those who break laws. A legal system enables individuals and organizations to anticipate the outcomes of their actions with some certainty, manage affairs with a minimum of conflict, and resolve disputes fairly."
                     },
                     {
-                        "Paragraph_txt": "Life insurers, like most other businesses, must comply with general business regulations. They also must comply with insurance regulations. Furthermore, certain areas of law, such as contract law, agency law, and property law, have a significant impact on how life insurers conduct business."
+                        "Paragraph_txt": "<br />Life insurers, like most other businesses, must comply with general business regulations. They also must comply with insurance regulations. Furthermore, certain areas of law, such as contract law, agency law, and property law, have a significant impact on how life insurers conduct business."
                     },
                     {
-                        "Paragraph_txt": "For years, leaders in the life insurance industry have cited regulation as a major challenge. This observation is especially true today. Increased competition and customer expectations put pressure on companies to innovate. Technologies such as artificial intelligence, big data, and predictive analytics are driving new business models. As companies change the way they do business, they increase the risk of not complying with existing laws. Not only must insurers comply with all existing laws, they must contend with new and evolving regulations and court decisions. Insurers must be careful to avoid fines, lawsuits, and negative publicity, all of which can harm the company’s reputation and profits."
+                        "Paragraph_txt": "<br />For years, leaders in the life insurance industry have cited regulation as a major challenge. This observation is especially true today. Increased competition and customer expectations put pressure on companies to innovate. Technologies such as artificial intelligence, big data, and predictive analytics are driving new business models. As companies change the way they do business, they increase the risk of not complying with existing laws. Not only must insurers comply with all existing laws, they must contend with new and evolving regulations and court decisions. Insurers must be careful to avoid fines, lawsuits, and negative publicity, all of which can harm the company’s reputation and profits."
                     },
                     {
-                        "Paragraph_txt": "<em>Business Law for Insurance Professionals</em> provides a basic knowledge of the legal system as well as legal and regulatory issues unique to the life insurance industry. With the knowledge this course provides, you will be more aware of potential legal and regulatory challenges that may arise as you perform your job. In many cases, employees are considered agents of the company, and their communications and activities create legally binding obligations. An understanding of legal and regulatory principles can help you become a more effective employee."
+                        "Paragraph_txt": "<br /><em>Business Law for Insurance Professionals</em> provides a basic knowledge of the legal system as well as legal and regulatory issues unique to the life insurance industry. With the knowledge this course provides, you will be more aware of potential legal and regulatory challenges that may arise as you perform your job. In many cases, employees are considered agents of the company, and their communications and activities create legally binding obligations. An understanding of legal and regulatory principles can help you become a more effective employee."
                     },
                     {
-                        "Paragraph_txt": "Although this text focuses primarily on the United States, the types of legal issues it addresses apply in most countries. For students who work outside the United States, familiarity with these issues should help prepare you for the challenges of your own legal system. Specific laws vary by country, but many legal principles are similar around the world. Also, as globalization of the life insurance industry continues, many insurers and their employees must understand how the legal system works in every country in which their company operates."
+                        "Paragraph_txt": "<br />Although this text focuses primarily on the United States, the types of legal issues it addresses apply in most countries. For students who work outside the United States, familiarity with these issues should help prepare you for the challenges of your own legal system. Specific laws vary by country, but many legal principles are similar around the world. Also, as globalization of the life insurance industry continues, many insurers and their employees must understand how the legal system works in every country in which their company operates."
                     }
                 ]
             }

@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -210,13 +210,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Illustrations, as noted in the list above, are sales aids that are subject to the Model Advertisements Regulation. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">illustration</span> is a presentation or depiction that shows consumers how the nonguaranteed values of a policy might vary over time. Most states have laws or regulations based on the NAIC <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Life Insurance Illustrations Model Regulation</span>, which sets rules that insurers and insurance agents must follow when using illustrations in life insurance sales. The goals of this model regulation are to (1) ensure that illustrations do not mislead consumers and (2) make illustrations easier for consumers to understand."
                     },
                     {
-                        "Paragraph_txt": "Insurance departments have broad powers to regulate any type of communication, whether or not it is listed in the state’s advertising regulations. For example, most states do not specifically address social media in advertising requirements. Yet insurance departments expect communications via social media to comply with advertising standards."
+                        "Paragraph_txt": "<br />Insurance departments have broad powers to regulate any type of communication, whether or not it is listed in the state’s advertising regulations. For example, most states do not specifically address social media in advertising requirements. Yet insurance departments expect communications via social media to comply with advertising standards."
                     },
                     {
-                        "Paragraph_txt": "As a general rule, advertisements must be truthful and must not mislead or have the capacity to mislead. State insurance departments look at the overall impression an advertisement may reasonably create for a typical person in the target market. Such an impression is created not only by language but by graphics, format, and emphasis."
+                        "Paragraph_txt": "<br />As a general rule, advertisements must be truthful and must not mislead or have the capacity to mislead. State insurance departments look at the overall impression an advertisement may reasonably create for a typical person in the target market. Such an impression is created not only by language but by graphics, format, and emphasis."
                     },
                     {
-                        "Paragraph_txt": "The Model Advertisements Regulation requires insurers to maintain a system of control over the content, form, and method of dissemination of all advertisements. Some states require that insurers set up an advertisement tracking database. Also, the model regulation and some states require each insurer to include with its Annual Statement a certification that the advertisements used by or on behalf of the insurer comply with all applicable requirements. This certification must be signed by an authorized officer of the insurer."
+                        "Paragraph_txt": "<br />The Model Advertisements Regulation requires insurers to maintain a system of control over the content, form, and method of dissemination of all advertisements. Some states require that insurers set up an advertisement tracking database. Also, the model regulation and some states require each insurer to include with its Annual Statement a certification that the advertisements used by or on behalf of the insurer comply with all applicable requirements. This certification must be signed by an authorized officer of the insurer."
                     }
                 ]
             }

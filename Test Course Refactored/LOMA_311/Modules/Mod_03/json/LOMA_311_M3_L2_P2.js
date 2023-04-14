@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -582,10 +582,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Some states prohibit insurers from limiting the time in which a person may commence an action at law or in equity after the cause of action. For instance, the law might require a person to have no less than three years to commence such an action."
                     },
                     {
-                        "Paragraph_txt": "Some states prohibit the forfeiture of a policy for failure to repay a loan or failure to pay interest on a loan, except under specified conditions."
+                        "Paragraph_txt": "<br />Some states prohibit the forfeiture of a policy for failure to repay a loan or failure to pay interest on a loan, except under specified conditions."
                     },
                     {
-                        "Paragraph_txt": "Many states prohibit insurers from backdating individual life insurance policies for a period of time more than six months. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Backdating</span> is a practice in which the insurer makes the policy’s effective date earlier than the date of the application. In this situation, the policyowner pays premiums for a period of time—before the effective date—when coverage was not provided. Insurers typically use backdating to lower the premium or to comply with a legal agreement, such as a divorce decree. However, to protect policyowners, the states limit the period of time during which premiums are payable when no coverage was provided."
+                        "Paragraph_txt": "<br />Many states prohibit insurers from backdating individual life insurance policies for a period of time more than six months. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Backdating</span> is a practice in which the insurer makes the policy’s effective date earlier than the date of the application. In this situation, the policyowner pays premiums for a period of time—before the effective date—when coverage was not provided. Insurers typically use backdating to lower the premium or to comply with a legal agreement, such as a divorce decree. However, to protect policyowners, the states limit the period of time during which premiums are payable when no coverage was provided."
                     }
                 ]
             },
