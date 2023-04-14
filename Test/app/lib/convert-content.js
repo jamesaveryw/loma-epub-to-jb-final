@@ -159,35 +159,34 @@ let lessonBuilder = {
 		// convert to DOM
 		const dom = new JSDOM(pageContent);
 		lessonBuilder.doc = dom.window.document;
+		
+		if (!/LO$/.test(fileName)) {
+			// add LO elements to beginning of page
+			let divLO = lessonBuilder.doc.createElement("div");
+			let headingLO = lessonBuilder.doc.createElement("h3");
+			let paraLO = lessonBuilder.doc.createElement("p");
 
-		// add LO elements to beginning of page
-		let divLO = lessonBuilder.doc.createElement("div");
-		let headingLO = lessonBuilder.doc.createElement("h3");
-		let paraLO = lessonBuilder.doc.createElement("p");
+			divLO.className = "lo-cont";
+			headingLO.className = "lo-heading";
+			paraLO.className = "lo";
 
-		divLO.className = "lo-cont";
-		headingLO.className = "lo-heading";
-		paraLO.className = "lo";
+			headingLO.innerHTML = "Learning Objective";
+			// only add objective text if the
+			// page has an objective assigned
+			if (page.objective) {
+				paraLO.innerHTML = page.objective;
+			}
 
-		headingLO.innerHTML = "Learning Objective";
-		// only add objective text if the
-		// page has an objective assigned
-		if (page.objective) {
-			paraLO.innerHTML = page.objective;
+			lessonBuilder.doc.querySelector("h2").after(divLO);
+			lessonBuilder.doc.querySelector("div.lo-cont").appendChild(headingLO);
+			lessonBuilder.doc.querySelector("div.lo-cont").appendChild(paraLO);
 		}
-
-		lessonBuilder.doc.querySelector("h2").after(divLO);
-		lessonBuilder.doc.querySelector("div.lo-cont").appendChild(headingLO);
-		lessonBuilder.doc.querySelector("div.lo-cont").appendChild(paraLO);
 
 		// parse the dom
 		lessonBuilder.parseDOM(dom, fileName, page);
 	},
 
 	parseDOM: function (dom, fileName, page) {
-		let container = lessonBuilder.doc.querySelector("section");
-		let pageEls = slice(container.children);
-
 		// get empty JB Page Object
 		// and set Page_Title
 		let JB_Page = JB.JB_Page();
@@ -195,6 +194,17 @@ let lessonBuilder = {
 			lessonBuilder.doc.title = 'Introduction';
 			lessonBuilder.doc.querySelector('h2').innerHTML = 'Introduction';
 		}
+
+		if (lessonBuilder.doc.title == 'Objectives') {
+			lessonBuilder.doc.title = 'Learning Objectives';
+			lessonBuilder.doc.querySelector('h2').innerHTML = 'Learning Objectives';
+			lessonBuilder.doc.querySelector('p.obj-txt').remove();
+		}
+
+		// collect elements
+		let container = lessonBuilder.doc.querySelector("section");
+		let pageEls = slice(container.children);
+
 		JB_Page[0].Page_Setup.Page_Title = lessonBuilder.doc.title;
 
 		// used for splice later
@@ -228,9 +238,10 @@ let lessonBuilder = {
 				containsList = true;
 			}
 			// first heading tag or heading not followed by list or para
-			if (/H\d/.test(pageEl.tagName) && (pageEl.getAttribute("epub:type") == "title" || pageEl == container.lastElementChild || !/(p|ul|ol|)/i.test(pageEl.nextElementSibling.tagName))) {
+			if (/H\d/.test(pageEl.tagName) && !/Learning Objectives/.test(pageEl.innerHTML) && (pageEl.getAttribute("epub:type") == "title" || pageEl == container.lastElementChild || !/(p|ul|ol|)/i.test(pageEl.nextElementSibling.tagName))) {
 				// build heading snippet and add to page
 				JB_Page[0].JBuilder_Content.push(buildHeading(pageEl));
+				continue;
 			}
 
 			// LOs come after page title
