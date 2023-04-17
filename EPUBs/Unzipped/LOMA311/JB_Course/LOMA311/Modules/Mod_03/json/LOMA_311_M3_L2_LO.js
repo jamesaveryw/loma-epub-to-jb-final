@@ -14,46 +14,16 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Learning Objectives",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "",
+                        "List_Heading": "Learning Objectives",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
                         "heading_color": "",
-                        "heading_size": "h1",
+                        "heading_size": "h2",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
                         "paragraph_top_text_color": "#000000",
@@ -86,28 +56,28 @@ Lesson_Data_File([
                     {
                         "list_items": [
                             {
-                                "lstText": "<strong>8A&nbsp;</strong>Identify and explain the provisions that state insurance laws require insurers to include in individual life insurance policy forms"
+                                "lstText": "Identify and explain the provisions that state insurance laws require insurers to include in individual life insurance policy forms"
                             },
                             {
-                                "lstText": "<strong>8B&nbsp;</strong>Describe the state regulatory requirements that apply to life insurance and annuity advertisements"
+                                "lstText": "Describe the state regulatory requirements that apply to life insurance and annuity advertisements"
                             },
                             {
-                                "lstText": "<strong>8C&nbsp;</strong>Give examples of common state regulatory requirements that apply to insurance agents and sales activities"
+                                "lstText": "Give examples of common state regulatory requirements that apply to insurance agents and sales activities"
                             },
                             {
-                                "lstText": "<strong>8D&nbsp;</strong>Give examples of how state insurance laws regulate underwriting, claim practices, and complaint handling"
+                                "lstText": "Give examples of how state insurance laws regulate underwriting, claim practices, and complaint handling"
                             },
                             {
-                                "lstText": "<strong>8E&nbsp;</strong>Compare and contrast U.S. privacy requirements and the privacy requirements in the European Union and other countries"
+                                "lstText": "Compare and contrast U.S. privacy requirements and the privacy requirements in the European Union and other countries"
                             },
                             {
-                                "lstText": "<strong>8F&nbsp;</strong>Explain electronic commerce laws that are designed to facilitate electronic signatures, contracts, and documents"
+                                "lstText": "Explain electronic commerce laws that are designed to facilitate electronic signatures, contracts, and documents"
                             },
                             {
-                                "lstText": "<strong>8G&nbsp;</strong>Give examples of measures that state insurance departments and insurers have taken to increase their capacity to detect and prevent insurance fraud"
+                                "lstText": "Give examples of measures that state insurance departments and insurers have taken to increase their capacity to detect and prevent insurance fraud"
                             },
                             {
-                                "lstText": "<strong>8H&nbsp;</strong>List the range of actions an insurance department can take based on market analysis findings"
+                                "lstText": "List the range of actions an insurance department can take based on market analysis findings"
                             }
                         ]
                     },

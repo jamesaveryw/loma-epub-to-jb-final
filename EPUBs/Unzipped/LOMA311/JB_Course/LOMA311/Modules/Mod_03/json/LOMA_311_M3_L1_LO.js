@@ -14,46 +14,16 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Learning Objectives",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "",
+                        "List_Heading": "Learning Objectives",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
                         "heading_color": "",
-                        "heading_size": "h1",
+                        "heading_size": "h2",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
                         "paragraph_top_text_color": "#000000",
@@ -86,25 +56,25 @@ Lesson_Data_File([
                     {
                         "list_items": [
                             {
-                                "lstText": "<strong>7A&nbsp;</strong>Explain the preemption legal doctrine and describe the relationship between federal and state regulation in the United States"
+                                "lstText": "Explain the preemption legal doctrine and describe the relationship between federal and state regulation in the United States"
                             },
                             {
-                                "lstText": "<strong>7B&nbsp;</strong>Classify an insurance law as either a solvency law or a market conduct law"
+                                "lstText": "Classify an insurance law as either a solvency law or a market conduct law"
                             },
                             {
-                                "lstText": "<strong>7C&nbsp;</strong>Describe the actions a state insurance department may take if it finds that an insurer is in financial difficulty or is not complying with regulatory requirements"
+                                "lstText": "Describe the actions a state insurance department may take if it finds that an insurer is in financial difficulty or is not complying with regulatory requirements"
                             },
                             {
-                                "lstText": "<strong>7D&nbsp;</strong>Identify and describe the tools available to state insurance regulators to monitor the solvency of insurers"
+                                "lstText": "Identify and describe the tools available to state insurance regulators to monitor the solvency of insurers"
                             },
                             {
-                                "lstText": "<strong>7E&nbsp;</strong>Give examples of how the U.S. federal government regulates the life insurance industry in the United States"
+                                "lstText": "Give examples of how the U.S. federal government regulates the life insurance industry in the United States"
                             },
                             {
-                                "lstText": "<strong>7F&nbsp;</strong>Identify life insurance and annuity products that qualify as securities and describe the types of regulatory requirements that federal securities laws impose on individuals and companies that issue and sell securities"
+                                "lstText": "Identify life insurance and annuity products that qualify as securities and describe the types of regulatory requirements that federal securities laws impose on individuals and companies that issue and sell securities"
                             },
                             {
-                                "lstText": "<strong>7G&nbsp;</strong>Give examples of the types of regulatory requirements that apply to insurers around the world"
+                                "lstText": "Give examples of the types of regulatory requirements that apply to insurers around the world"
                             }
                         ]
                     },

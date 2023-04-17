@@ -195,10 +195,22 @@ let lessonBuilder = {
 			lessonBuilder.doc.querySelector('h2').innerHTML = 'Introduction';
 		}
 
+		// learning objectives page needs some edits
 		if (lessonBuilder.doc.title == 'Objectives') {
+			// change title
 			lessonBuilder.doc.title = 'Learning Objectives';
 			lessonBuilder.doc.querySelector('h2').innerHTML = 'Learning Objectives';
+			lessonBuilder.doc.querySelector('h2').removeAttribute('epub:type');
+			
+			// remove unneeded elements
 			lessonBuilder.doc.querySelector('p.obj-txt').remove();
+			lessonBuilder.doc.querySelector('img.bullseye').remove();
+
+			// remove LO leadins
+			let los = slice(lessonBuilder.doc.querySelectorAll('ul.objectives li'));
+			for (let lo of los) {
+				lo.innerHTML = lo.innerHTML.replace(/<strong>.*?<\/strong>(.*?)$/, '$1');
+			}
 		}
 
 		// collect elements
