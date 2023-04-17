@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Volatility as a Measure of Investment Risk",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,16 +115,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "As previously mentioned, many investment return measures do not indicate the likelihood that a particular investment’s rate of return in a given year will match the investment’s historical average rate of return. In other words, investors need a way to measure how much to expect an investment’s rate of return to vary from year to year. Turning to statistics, <em>volatility</em> is a measure of the tendency for a value to fluctuate over a specified time period."
                     },
                     {
-                        "Paragraph_txt": "Investors can use volatility to describe price movements, but in this chapter, we focus on its application to returns. In the context of investment returns, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">volatility</span> measures the tendency for an investment’s rate of return to fluctuate from year to year, as indicated by the investment’s historical rates of return over a specified time period."
+                        "Paragraph_txt": "<br />Investors can use volatility to describe price movements, but in this chapter, we focus on its application to returns. In the context of investment returns, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">volatility</span> measures the tendency for an investment’s rate of return to fluctuate from year to year, as indicated by the investment’s historical rates of return over a specified time period."
                     },
                     {
-                        "Paragraph_txt": "Many investors purchase an asset expecting to get a rate of return similar to the asset’s historical rate of return. However, an investment with high volatility can produce a single-year rate of return that deviates significantly from the expected rate of return. Investments with low volatility have a low range of variability in year-to-year rates of return. Thus, the returns of low-volatility investments are more predictable than the returns of high-volatility investments."
+                        "Paragraph_txt": "<br />Many investors purchase an asset expecting to get a rate of return similar to the asset’s historical rate of return. However, an investment with high volatility can produce a single-year rate of return that deviates significantly from the expected rate of return. Investments with low volatility have a low range of variability in year-to-year rates of return. Thus, the returns of low-volatility investments are more predictable than the returns of high-volatility investments."
                     },
                     {
-                        "Paragraph_txt": "Volatility introduces investment risk in the form of uncertainty. The level of volatility of an asset indicates the level of uncertainty that asset owners will receive an actual rate of return that comes close to the expected rate of return. With a more volatile asset, asset owners have a higher risk that actual returns will be different from expected returns. While asset volatility means that an investor might not receive the average return in a given year, the investor does receive the potential to earn above-average returns in any given year."
+                        "Paragraph_txt": "<br />Volatility introduces investment risk in the form of uncertainty. The level of volatility of an asset indicates the level of uncertainty that asset owners will receive an actual rate of return that comes close to the expected rate of return. With a more volatile asset, asset owners have a higher risk that actual returns will be different from expected returns. While asset volatility means that an investor might not receive the average return in a given year, the investor does receive the potential to earn above-average returns in any given year."
                     },
                     {
-                        "Paragraph_txt": "People tend to think of “risk” in terms of downside potential or possible negative outcomes. For investment returns, risk is the concept that a return could be higher or lower than expected. Volatility measures can estimate the size of a return “surprise,” but do not indicate whether the surprise is positive or negative to the investor."
+                        "Paragraph_txt": "<br />People tend to think of “risk” in terms of downside potential or possible negative outcomes. For investment returns, risk is the concept that a return could be higher or lower than expected. Volatility measures can estimate the size of a return “surprise,” but do not indicate whether the surprise is positive or negative to the investor."
                     }
                 ]
             },
@@ -192,6 +162,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.2 Dispersion of a Sample Portfolio’s Annual Rates of Return</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "4-2figure.jpg",
@@ -210,7 +213,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.2</strong> Dispersion of a Sample Portfolio’s Annual Rates of Return",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -279,7 +282,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Using historical return data for an asset, investors can (1) find the mean of a data set consisting of multiple annual rates of return during a specific time period and (2) calculate the standard deviation for the data set. Investors can use the calculated mean historical rate of return to represent the typical annual rate of return for the asset."
                     },
                     {
-                        "Paragraph_txt": "Investors also use standard deviation to create a range of expected return values for a given investment by (1) subtracting the standard deviation from the mean to get the lower end of the range and (2) adding the standard deviation from the mean to get the upper end of the range."
+                        "Paragraph_txt": "<br />Investors also use standard deviation to create a range of expected return values for a given investment by (1) subtracting the standard deviation from the mean to get the lower end of the range and (2) adding the standard deviation from the mean to get the upper end of the range."
                     }
                 ]
             },
@@ -342,7 +345,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Roger Lesser calculates 10% as the mean annual rate of return for shares of Berriwyne Company stock over the last 50 years. He calculates 8% as the stock’s standard deviation during that period. Roger wants to estimate the range of return rates that he could expect if he owned Berriwyne shares for one year."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: At one standard deviation, the stock’s annual rate of return ranged from 2%, found as 10% – 8% to 18%, found as 10% + 8%. Using the stock’s measure of standard deviation, Roger expects that next year’s rate of return will fall within the range of 2% to 18%."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: At one standard deviation, the stock’s annual rate of return ranged from 2%, found as 10% – 8% to 18%, found as 10% + 8%. Using the stock’s measure of standard deviation, Roger expects that next year’s rate of return will fall within the range of 2% to 18%."
                     }
                 ]
             },
@@ -405,7 +408,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A higher standard deviation signifies greater volatility. The higher the standard deviation of the historical returns on an asset, the more an investor can expect the actual return for a given year to vary from the mean historical return. Therefore, a higher standard deviation indicates a greater risk that an investment’s future returns will not be consistent with the average returns it has earned in the past."
                     },
                     {
-                        "Paragraph_txt": "In addition, investors can compare the riskiness of two investments by comparing their standard deviations."
+                        "Paragraph_txt": "<br />In addition, investors can compare the riskiness of two investments by comparing their standard deviations."
                     }
                 ]
             },
@@ -639,7 +642,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "When investors consider the dispersion of investment return values, they often assume that the values are distributed evenly on both sides of the mean. This dispersion pattern, called a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">normal distribution</span>, is a type of data distribution in which the number of values that are less than the mean is the same as the number of values greater than the mean."
                     },
                     {
-                        "Paragraph_txt": "Data distributions can be normal or nonnormal. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">nonnormal distribution</span> is a type of data distribution in which the number of values on one side of the mean is greater than the number of values on the other side of the mean. Figure 4.3 illustrates the difference between normal and nonnormal data distributions."
+                        "Paragraph_txt": "<br />Data distributions can be normal or nonnormal. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">nonnormal distribution</span> is a type of data distribution in which the number of values on one side of the mean is greater than the number of values on the other side of the mean. Figure 4.3 illustrates the difference between normal and nonnormal data distributions."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.3 Sample Normal and Nonnormal Data Distributions</strong>"
                     }
                 ]
             },
@@ -662,7 +698,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.3</strong> Sample Normal and Nonnormal Data Distributions",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -731,7 +767,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although normal distributions are an intuitive way to illustrate the standard deviation concept, in reality, some assets have historical returns that are distributed nonnormally. For example, a distribution could be nonnormal if the historical period being measured included a significant economic downturn. Still, many portfolio managers assume normal distributions as part of the theoretical basis that they use to construct portfolios."
                     },
                     {
-                        "Paragraph_txt": "Remember that actual returns for a holding period can deviate from historical averages, so an investor’s experience may differ from an asset’s normal distribution patterns. Thus, investors cannot guarantee that actual returns will fall within the range implied by a normal distribution pattern."
+                        "Paragraph_txt": "<br />Remember that actual returns for a holding period can deviate from historical averages, so an investor’s experience may differ from an asset’s normal distribution patterns. Thus, investors cannot guarantee that actual returns will fall within the range implied by a normal distribution pattern."
                     }
                 ]
             },
@@ -1070,10 +1106,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "Many investors use two standard deviations to estimate the range of expected returns for an asset. Two standard deviations from the mean encompass approximately 95% of the outcomes in a normal distribution, so investors can have a great amount of confidence in their expected return estimates."
                     },
                     {
-                        "Paragraph_txt": "In a normal distribution curve, the areas containing values that are more than three standard distributions from the mean are called <em>tails</em>. Because three standard deviations from the mean encompasses approximately 99% of the estimated outcomes in a normal distribution, a low probability exists that a return will fall outside the expected range of outcomes. Such extreme return outcomes are <span class=\"keyterm\" tabindex=\"0\" role=\"button\">tail risks</span>, which generally signify risks of low-probability but high-impact occurrences. Return values that are far above the mean—indicating huge gains—are welcome, while values that are far less than the mean—indicating huge losses—are undesirable. Thus, tail risks have the potential to result in large financial losses on investments."
+                        "Paragraph_txt": "<br />In a normal distribution curve, the areas containing values that are more than three standard distributions from the mean are called <em>tails</em>. Because three standard deviations from the mean encompasses approximately 99% of the estimated outcomes in a normal distribution, a low probability exists that a return will fall outside the expected range of outcomes. Such extreme return outcomes are <span class=\"keyterm\" tabindex=\"0\" role=\"button\">tail risks</span>, which generally signify risks of low-probability but high-impact occurrences. Return values that are far above the mean—indicating huge gains—are welcome, while values that are far less than the mean—indicating huge losses—are undesirable. Thus, tail risks have the potential to result in large financial losses on investments."
                     },
                     {
-                        "Paragraph_txt": "To summarize, Figure 4.4 shows two normal distribution curves with standard deviations of different sizes. The figure also illustrates tails beyond three standard deviations."
+                        "Paragraph_txt": "<br />To summarize, Figure 4.4 shows two normal distribution curves with standard deviations of different sizes. The figure also illustrates tails beyond three standard deviations."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.4 Standard Deviations and Confidence Intervals for Normal Distribution Curves</strong>"
                     }
                 ]
             },
@@ -1096,7 +1165,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.4</strong> Standard Deviations and Confidence Intervals for Normal Distribution Curves",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1165,13 +1234,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Volatility factors into the decisions that investors make. Greater volatility leads to greater uncertainty that an investment’s actual performance will be consistent with its average performance. Institutional investors plan their portfolios to achieve certain expected rates of return, so risky investments add doubt to their return projections."
                     },
                     {
-                        "Paragraph_txt": "Frequently, institutional investors use investment return estimates for long-term planning. Investments with higher return volatility are harder to incorporate into plans and can lead to challenging business situations. For example, an insurance company that earns actual investment returns that deviate from its expected returns may experience a mismatch between its asset portfolio and its liability portfolio. (We revisit this concept in Chapter 6.)"
+                        "Paragraph_txt": "<br />Frequently, institutional investors use investment return estimates for long-term planning. Investments with higher return volatility are harder to incorporate into plans and can lead to challenging business situations. For example, an insurance company that earns actual investment returns that deviate from its expected returns may experience a mismatch between its asset portfolio and its liability portfolio. (We revisit this concept in Chapter 6.)"
                     },
                     {
-                        "Paragraph_txt": "Typically, investment return volatility is more of a concern for investors with short holding periods. Over longer periods of time, overall returns tend to “average out,” or approach the typical return—a concept called mean reversion. In the context of investing, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mean reversion</span> is the theory that returns will eventually move back toward their historical averages after a temporary period of significant deviation. Thus, one method for decreasing the impact of return volatility on an investment portfolio is to hold volatile investments for longer periods than less volatile investments."
+                        "Paragraph_txt": "<br />Typically, investment return volatility is more of a concern for investors with short holding periods. Over longer periods of time, overall returns tend to “average out,” or approach the typical return—a concept called mean reversion. In the context of investing, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mean reversion</span> is the theory that returns will eventually move back toward their historical averages after a temporary period of significant deviation. Thus, one method for decreasing the impact of return volatility on an investment portfolio is to hold volatile investments for longer periods than less volatile investments."
                     },
                     {
-                        "Paragraph_txt": "Another portfolio management method for decreasing the impact of return volatility is diversification. As you will read in Chapter 7, constructing a portfolio holding asset classes with different volatility characteristics can decrease the portfolio’s overall risk over the long term."
+                        "Paragraph_txt": "<br />Another portfolio management method for decreasing the impact of return volatility is diversification. As you will read in Chapter 7, constructing a portfolio holding asset classes with different volatility characteristics can decrease the portfolio’s overall risk over the long term."
                     }
                 ]
             },

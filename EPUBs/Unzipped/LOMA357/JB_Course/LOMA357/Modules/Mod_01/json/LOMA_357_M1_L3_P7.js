@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Capital Market Transactions",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +148,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">primary market</span> is the market in which new issues of securities—including stocks and bonds—are sold to investors for the first time. Issuers sell new issues of debt and equity securities directly to investors—mostly institutional investors and financial intermediaries—through the primary market."
                     },
                     {
-                        "Paragraph_txt": "The two methods of issuing securities in the primary market are public offerings and private placements."
+                        "Paragraph_txt": "<br />The two methods of issuing securities in the primary market are public offerings and private placements."
                     }
                 ]
             },
@@ -276,7 +246,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Typically, an issuer and an investment bank agree to either a firm commitment contract or a best efforts contract to complete a new issue. However, some issuers complete new issues without help from an investment bank. For example, the U.S. Treasury Department issues bonds and sells them at regularly scheduled public auctions."
                     },
                     {
-                        "Paragraph_txt": "Issuers also use public offerings to issue additional shares of publicly traded securities. Newly issued shares of a security increase the total number of shares outstanding of that security."
+                        "Paragraph_txt": "<br />Issuers also use public offerings to issue additional shares of publicly traded securities. Newly issued shares of a security increase the total number of shares outstanding of that security."
                     }
                 ]
             },
@@ -422,13 +392,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">secondary market</span> is a market in which issues of securities are subsequently traded after the initial sale. The bulk of securities trading takes place in secondary markets."
                     },
                     {
-                        "Paragraph_txt": "While security prices in the primary market are often set in advance of sales to investors, secondary market prices fluctuate regularly due to market forces, such as changes in overall economic conditions. Prices also move when investor perceptions of a particular security’s value change due to current events or newly available information."
+                        "Paragraph_txt": "<br />While security prices in the primary market are often set in advance of sales to investors, secondary market prices fluctuate regularly due to market forces, such as changes in overall economic conditions. Prices also move when investor perceptions of a particular security’s value change due to current events or newly available information."
                     },
                     {
-                        "Paragraph_txt": "Secondary markets give securities their liquidity because of the large number of participants. When a market has more participants, more opportunities exist for transactions between participants. In addition, more transaction volume in a security means the transaction prices more closely approximate the current market value for the security."
+                        "Paragraph_txt": "<br />Secondary markets give securities their liquidity because of the large number of participants. When a market has more participants, more opportunities exist for transactions between participants. In addition, more transaction volume in a security means the transaction prices more closely approximate the current market value for the security."
                     },
                     {
-                        "Paragraph_txt": "Institutional investors occasionally sell securities in the secondary market by means of a secondary offering. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">secondary offering</span>—also known as a <em>secondary distribution</em>—is a sale of a large block of registered securities by a private investor through an investment bank, typically at a set price. Generally, the securities that institutional investors sell in a secondary offering were previously acquired in a private placement."
+                        "Paragraph_txt": "<br />Institutional investors occasionally sell securities in the secondary market by means of a secondary offering. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">secondary offering</span>—also known as a <em>secondary distribution</em>—is a sale of a large block of registered securities by a private investor through an investment bank, typically at a set price. Generally, the securities that institutional investors sell in a secondary offering were previously acquired in a private placement."
                     }
                 ]
             },
@@ -599,10 +569,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Stocks not listed on any type of organized exchange are traded in the OTC market. Alternative electronic markets trade in OTC stocks, as well as in stocks listed on organized exchanges."
                     },
                     {
-                        "Paragraph_txt": "The secondary market for previously issued bonds is conducted primarily in OTC markets. However, some bonds can also be traded in organized bond exchanges, such as the New York Stock Exchange Bond Platform."
+                        "Paragraph_txt": "<br />The secondary market for previously issued bonds is conducted primarily in OTC markets. However, some bonds can also be traded in organized bond exchanges, such as the New York Stock Exchange Bond Platform."
                     },
                     {
-                        "Paragraph_txt": "Derivatives are traded in OTC markets or exchanges, usually depending on the type of derivative. For instance, swaps and forwards are commonly traded in OTC markets. Options and futures are typically traded on exchanges."
+                        "Paragraph_txt": "<br />Derivatives are traded in OTC markets or exchanges, usually depending on the type of derivative. For instance, swaps and forwards are commonly traded in OTC markets. Options and futures are typically traded on exchanges."
                     }
                 ]
             },

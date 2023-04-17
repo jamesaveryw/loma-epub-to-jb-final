@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Investment Strategies Related to ALM",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As part of an ALM framework, investment professionals coordinate investments to cover outgoing cash flows with incoming cash flows, both in the present and the future. However, financial risks—such as interest-rate risk and liquidity risk—can jeopardize cash flows."
                     },
                     {
-                        "Paragraph_txt": "To hedge against financial risks, investment professionals use derivatives—as you will read about in Chapter 8. In addition, they use portfolio management strategies such as portfolio immunization, portfolio dedication, and interest-rate anticipation. The strategy selected typically depends on the needs of each portfolio segment. In some situations, investment professionals apply aspects of several strategies to a particular segment."
+                        "Paragraph_txt": "<br />To hedge against financial risks, investment professionals use derivatives—as you will read about in Chapter 8. In addition, they use portfolio management strategies such as portfolio immunization, portfolio dedication, and interest-rate anticipation. The strategy selected typically depends on the needs of each portfolio segment. In some situations, investment professionals apply aspects of several strategies to a particular segment."
                     }
                 ]
             },
@@ -274,7 +244,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;Dexicos Life Insurance Company’s assets portfolio has a duration of six years. Its liabilities portfolio has a duration of seven years. To reduce the mismatch, the company’s investment professionals identify and purchase assets that will increase the assets portfolio’s duration."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Once the assets portfolio’s duration is seven years, the duration difference will be zero and the general account portfolio’s duration gap will be closed."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Once the assets portfolio’s duration is seven years, the duration difference will be zero and the general account portfolio’s duration gap will be closed."
                     }
                 ]
             },
@@ -337,10 +307,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Ideally, the assets duration perfectly matches the liabilities duration. However, because a perfect duration match is often difficult to obtain, life insurance companies usually set duration objectives in which the assets duration slightly exceeds the liabilities duration. With this approach, when interest rates are high and start to fall, asset values will rise faster than liability values. For assets and liabilities with long durations, duration matching is particularly important because their market values are more sensitive to market interest-rate changes."
                     },
                     {
-                        "Paragraph_txt": "Duration matching can be difficult to implement and maintain. Because the technique involves complicated duration calculations, investment professionals rely on optimization software. In addition, asset and liability durations do not stay constant, so professionals have to make periodic adjustments to keep durations matched. Furthermore, life insurers may have trouble finding assets with durations long enough to match the long durations of certain liabilities, such as contractual obligations for whole life insurance and annuity products."
+                        "Paragraph_txt": "<br />Duration matching can be difficult to implement and maintain. Because the technique involves complicated duration calculations, investment professionals rely on optimization software. In addition, asset and liability durations do not stay constant, so professionals have to make periodic adjustments to keep durations matched. Furthermore, life insurers may have trouble finding assets with durations long enough to match the long durations of certain liabilities, such as contractual obligations for whole life insurance and annuity products."
                     },
                     {
-                        "Paragraph_txt": "Another drawback of duration matching is that it does not appropriately address insurer cash flow needs. For example, even when the asset and liability durations are matched, the asset cash inflows could be insufficient to match the liability cash outflows, which would threaten the insurer’s surplus."
+                        "Paragraph_txt": "<br />Another drawback of duration matching is that it does not appropriately address insurer cash flow needs. For example, even when the asset and liability durations are matched, the asset cash inflows could be insufficient to match the liability cash outflows, which would threaten the insurer’s surplus."
                     }
                 ]
             },
@@ -469,7 +439,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Dexicos Life has a cash flow mismatch between its assets and liabilities portfolios. In a given year, Dexicos is projected to have $25 million in inflows from assets but $30 million in outflows for liabilities. Investment professionals select and purchase a collection of bonds with varying face values, coupon rates, and maturity dates to bring projected cash inflows from assets to $30 million."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: By selecting assets with certain characteristics, Dexicos was able to match cash inflows with outflows. Thus, cash-flow matching reduced the risk that the company will not have enough cash to meet its contractual obligations."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: By selecting assets with certain characteristics, Dexicos was able to match cash inflows with outflows. Thus, cash-flow matching reduced the risk that the company will not have enough cash to meet its contractual obligations."
                     }
                 ]
             },
@@ -532,13 +502,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "In general, cash-flow matching works well for life insurance companies because their liabilities are fairly predictable and relatively long. Life insurers typically buy fixed-income investments to ensure predictable cash inflows. For debt securities, they plan to hold the securities until maturity, so they select securities with terms to maturity that match the anticipated length of time of their liabilities."
                     },
                     {
-                        "Paragraph_txt": "Cash-flow matching does have its drawbacks, though. Because many life insurers have large liabilities, they need to find enough assets with matching cash flow characteristics that also fall within their risk limits. These risk limits preclude certain investment options—for example, callable bonds are unattractive because they can be called before their maturity date, reducing the cash inflows available for matching to liability cash outflows."
+                        "Paragraph_txt": "<br />Cash-flow matching does have its drawbacks, though. Because many life insurers have large liabilities, they need to find enough assets with matching cash flow characteristics that also fall within their risk limits. These risk limits preclude certain investment options—for example, callable bonds are unattractive because they can be called before their maturity date, reducing the cash inflows available for matching to liability cash outflows."
                     },
                     {
-                        "Paragraph_txt": "Another challenge concerns the liability cash outflows that need matching. For instance, less predictable liability cash outflows are harder to match with asset cash inflows. In addition, the size of the liabilities can add complexity to the cash-flow matching exercise. Thus, insurers may require optimization software to maximize a portfolio dedication strategy."
+                        "Paragraph_txt": "<br />Another challenge concerns the liability cash outflows that need matching. For instance, less predictable liability cash outflows are harder to match with asset cash inflows. In addition, the size of the liabilities can add complexity to the cash-flow matching exercise. Thus, insurers may require optimization software to maximize a portfolio dedication strategy."
                     },
                     {
-                        "Paragraph_txt": "Note that cash-flow matching can also be part of a portfolio immunization strategy. Asset cash inflows are matched to liability cash outflows in such a way that the portfolio’s cash flows are protected from interest-rate changes. For life insurers, cash-flow matching may be a more effective technique for immunizing a portfolio than duration matching. The following chart compares the techniques of duration matching and cash-flow matching."
+                        "Paragraph_txt": "<br />Note that cash-flow matching can also be part of a portfolio immunization strategy. Asset cash inflows are matched to liability cash outflows in such a way that the portfolio’s cash flows are protected from interest-rate changes. For life insurers, cash-flow matching may be a more effective technique for immunizing a portfolio than duration matching. The following chart compares the techniques of duration matching and cash-flow matching."
                     }
                 ]
             },
@@ -732,7 +702,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Marie Gaudet manages a fixed-income portfolio. She expects market interest rates to decrease over the next three months. In anticipation of the rate changes, she sells some shorter-duration bonds from the portfolio and purchases bonds with longer durations to replace them."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Marie’s transactions changed the composition of the portfolio and increased its overall duration. If interest rates decrease as Marie anticipates, her trades have positioned the portfolio for additional market-value gains."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Marie’s transactions changed the composition of the portfolio and increased its overall duration. If interest rates decrease as Marie anticipates, her trades have positioned the portfolio for additional market-value gains."
                     }
                 ]
             },
@@ -795,7 +765,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "If successful, an interest-rate anticipation strategy reduces interest-rate risk. However, this strategy is risky because it relies on the ability of investment professionals to accurately predict how and when market interest rates will change."
                     },
                     {
-                        "Paragraph_txt": "Typically, an investment professional uses an interest-rate anticipation strategy for the short-term positioning of interest-sensitive securities. For instance, some insurance companies may use the strategy for short-term positioning within certain portfolio segments. However, insurers generally consider the strategy to be unsuitable for entire general account portfolios."
+                        "Paragraph_txt": "<br />Typically, an investment professional uses an interest-rate anticipation strategy for the short-term positioning of interest-sensitive securities. For instance, some insurance companies may use the strategy for short-term positioning within certain portfolio segments. However, insurers generally consider the strategy to be unsuitable for entire general account portfolios."
                     }
                 ]
             },

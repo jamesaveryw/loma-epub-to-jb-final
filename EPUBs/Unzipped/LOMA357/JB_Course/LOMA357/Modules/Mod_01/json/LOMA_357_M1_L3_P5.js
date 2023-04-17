@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Types of Investment Funds",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment fund</span>—known in some countries as a <em>collective investment vehicle</em>—is a type of investment vehicle that pools capital to purchase a portfolio of securities. Investors own shares that represent their portion of the portfolio’s returns."
                     },
                     {
-                        "Paragraph_txt": "Collectively, investment funds possess large amounts of capital. Figure 3.3 illustrates the total net assets of investment funds registered in the United States (as of 2017)."
+                        "Paragraph_txt": "<br />Collectively, investment funds possess large amounts of capital. Figure 3.3 illustrates the total net assets of investment funds registered in the United States (as of 2017)."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.3 Net Assets of Investment Funds Registered in the United States</strong>"
                     }
                 ]
             },
@@ -168,7 +171,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.3</strong> Net Assets of Investment Funds Registered in the United States",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -179,7 +182,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a><br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -202,6 +205,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
                     }
                 ]
             },
@@ -305,10 +341,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Fund investors generally benefit from (1) the expertise of fund managers, (2) access to a broad, diversified investment portfolio, and (3) lower transaction costs—through economies of scale—for a portfolio of securities than if they purchased the securities on their own."
                     },
                     {
-                        "Paragraph_txt": "Investment fund types vary in their expense and fee structures. In addition, ownership in each type of fund has different tax implications for investors."
+                        "Paragraph_txt": "<br />Investment fund types vary in their expense and fee structures. In addition, ownership in each type of fund has different tax implications for investors."
                     },
                     {
-                        "Paragraph_txt": "In the previous section, you read about hedge funds. Other types of investment funds include mutual funds, unit investment trusts, and exchange-traded funds."
+                        "Paragraph_txt": "<br />In the previous section, you read about hedge funds. Other types of investment funds include mutual funds, unit investment trusts, and exchange-traded funds."
                     }
                 ]
             },
@@ -344,13 +380,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mutual fund</span> is an investment vehicle that pools the funds of investors and uses the funds to buy a diversified portfolio of financial securities. The value of each mutual fund share is determined by calculating the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">net asset value (NAV)</span>, which is the total value of the mutual fund assets—after expenses—divided by the total number of <em>fund shares outstanding</em>, which represents the number of fund shares that shareholders currently own. The NAV is calculated each day after securities markets close."
                     },
                     {
-                        "Paragraph_txt": "Before conducting business in the United States, mutual funds must register with the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Securities and Exchange Commission (SEC)</span>, which is a federal agency responsible for administering and enforcing federal securities laws and regulating the securities industry, as well as for executing policies that affect securities markets. For the purpose of federal securities regulation, mutual funds are legally structured as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment companies</span>, which are entities that issue securities and engage primarily in investing, reinvesting, and trading in securities. As such, mutual funds are registered with the SEC as investment companies."
+                        "Paragraph_txt": "<br />Before conducting business in the United States, mutual funds must register with the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Securities and Exchange Commission (SEC)</span>, which is a federal agency responsible for administering and enforcing federal securities laws and regulating the securities industry, as well as for executing policies that affect securities markets. For the purpose of federal securities regulation, mutual funds are legally structured as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment companies</span>, which are entities that issue securities and engage primarily in investing, reinvesting, and trading in securities. As such, mutual funds are registered with the SEC as investment companies."
                     },
                     {
-                        "Paragraph_txt": "The investment management firm that registers a particular mutual fund with the SEC is known as the <em>fund sponsor</em>. To avoid confusion between the terms “fund sponsor” and “investment company,” this text only uses the term “investment company” when referring to the technical classification under U.S. securities laws."
+                        "Paragraph_txt": "<br />The investment management firm that registers a particular mutual fund with the SEC is known as the <em>fund sponsor</em>. To avoid confusion between the terms “fund sponsor” and “investment company,” this text only uses the term “investment company” when referring to the technical classification under U.S. securities laws."
                     },
                     {
-                        "Paragraph_txt": "Two types of mutual funds are open-end mutual funds and closed-end mutual funds."
+                        "Paragraph_txt": "<br />Two types of mutual funds are open-end mutual funds and closed-end mutual funds."
                     }
                 ]
             },
@@ -386,10 +422,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most mutual funds are open-end mutual funds. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">open-end mutual fund</span> establishes a portfolio of securities with a flexible number of outstanding shares and trades shares directly with investors."
                     },
                     {
-                        "Paragraph_txt": "When an investor invests in the fund, the fund issues more shares—thus increasing the total number of outstanding shares. When an investor <em>redeems</em> shares, the fund buys back the investor’s shares—thus decreasing the total number of outstanding shares."
+                        "Paragraph_txt": "<br />When an investor invests in the fund, the fund issues more shares—thus increasing the total number of outstanding shares. When an investor <em>redeems</em> shares, the fund buys back the investor’s shares—thus decreasing the total number of outstanding shares."
                     },
                     {
-                        "Paragraph_txt": "Purchases and redemptions of open-end mutual fund shares are executed once a day, after the market closes. When an investor submits a purchase or redemption order, the price she receives per share is equal to the NAV that was calculated at the end of the day when the order is received. Because investors submit their orders before the NAV is calculated, they do not know the exact price they will receive on the shares they buy or redeem."
+                        "Paragraph_txt": "<br />Purchases and redemptions of open-end mutual fund shares are executed once a day, after the market closes. When an investor submits a purchase or redemption order, the price she receives per share is equal to the NAV that was calculated at the end of the day when the order is received. Because investors submit their orders before the NAV is calculated, they do not know the exact price they will receive on the shares they buy or redeem."
                     }
                 ]
             },
@@ -425,7 +461,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">closed-end mutual fund</span> establishes a portfolio of securities with a fixed number of outstanding shares that are traded on securities exchanges or in the OTC market. The fund does not issue new shares and does not redeem outstanding shares."
                     },
                     {
-                        "Paragraph_txt": "Investors can trade shares in a closed-end mutual fund at any time while the market is open. Because closed-end mutual fund shares are traded in the marketplace, share prices are determined by market forces instead of by NAV calculations. Therefore, a fund’s shares can trade at a (1) <em>discount</em> when the current market price is below its NAV, or (2) <em>premium</em> when the current market price is above its NAV."
+                        "Paragraph_txt": "<br />Investors can trade shares in a closed-end mutual fund at any time while the market is open. Because closed-end mutual fund shares are traded in the marketplace, share prices are determined by market forces instead of by NAV calculations. Therefore, a fund’s shares can trade at a (1) <em>discount</em> when the current market price is below its NAV, or (2) <em>premium</em> when the current market price is above its NAV."
                     }
                 ]
             },
@@ -523,10 +559,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Unlike mutual funds, a UIT has a fixed investment portfolio. The portfolio’s securities holdings are determined prior to the creation date and usually do not change for the life of the UIT. UITs typically focus on bond holdings or stock holdings."
                     },
                     {
-                        "Paragraph_txt": "At the time of creation, a UIT establishes a termination date. Upon termination, any securities in the portfolio are sold and the proceeds are distributed to investors."
+                        "Paragraph_txt": "<br />At the time of creation, a UIT establishes a termination date. Upon termination, any securities in the portfolio are sold and the proceeds are distributed to investors."
                     },
                     {
-                        "Paragraph_txt": "Based on the<em> Investment Company Act of 1940</em>—which you will learn about in Chapter 10—the SEC considers UITs, like open-end and closed-end mutual funds, to be a form of an investment company. In addition, the SEC typically classifies insurance company separate accounts as UITs because of their legal structure (the full explanation is beyond the scope of this text). Therefore, most separate accounts are registered with the SEC as UITs to comply with the Investment Company Act."
+                        "Paragraph_txt": "<br />Based on the<em> Investment Company Act of 1940</em>—which you will learn about in Chapter 10—the SEC considers UITs, like open-end and closed-end mutual funds, to be a form of an investment company. In addition, the SEC typically classifies insurance company separate accounts as UITs because of their legal structure (the full explanation is beyond the scope of this text). Therefore, most separate accounts are registered with the SEC as UITs to comply with the Investment Company Act."
                     }
                 ]
             },
@@ -633,10 +669,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In general, ETFs have lower expenses and fees than mutual funds holding a similar group of securities. Furthermore, ETFs have the potential for more favorable tax treatment of capital gains."
                     },
                     {
-                        "Paragraph_txt": "As more ETF variations have come onto the market, the popularity of ETFs has grown significantly. Many institutional investors—including life insurance companies—hold ETFs in their portfolios."
+                        "Paragraph_txt": "<br />As more ETF variations have come onto the market, the popularity of ETFs has grown significantly. Many institutional investors—including life insurance companies—hold ETFs in their portfolios."
                     },
                     {
-                        "Paragraph_txt": "The following chart compares the characteristics of each type of investment vehicle mentioned in Chapters 2 and 3. Within each type of vehicle, individual investments may diverge from the general characteristics. For example, the stock of a company with high growth potential is going to score higher on price appreciation potential than the stock of a company with low growth potential."
+                        "Paragraph_txt": "<br />The following chart compares the characteristics of each type of investment vehicle mentioned in Chapters 2 and 3. Within each type of vehicle, individual investments may diverge from the general characteristics. For example, the stock of a company with high growth potential is going to score higher on price appreciation potential than the stock of a company with low growth potential."
                     }
                 ]
             },

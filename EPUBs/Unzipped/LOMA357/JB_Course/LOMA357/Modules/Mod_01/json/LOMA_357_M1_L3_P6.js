@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Capital Markets",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -473,13 +443,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Institutional investors are large suppliers of capital. They collect funds from households, retirement funds, and other businesses. Through their investing activities, they move money into the capital markets. For example, insurance companies collect funds to support their insurance products and insert funds into capital markets through their investment purchases."
                     },
                     {
-                        "Paragraph_txt": "Institutional investors can also act as capital users. For instance, stock insurers sell shares of their stock to the public to raise funds for business operations."
+                        "Paragraph_txt": "<br />Institutional investors can also act as capital users. For instance, stock insurers sell shares of their stock to the public to raise funds for business operations."
                     },
                     {
-                        "Paragraph_txt": "By supplying funds to capital markets, investors provide an important service to the global economy. They supply capital needed for productive projects that generate economic growth. Countries with growing economies enable businesses to make more profits. Increasingly profitable businesses can afford to pay employees higher wages and hire new employees. Therefore, capital suppliers contribute to rising standards of living around the world."
+                        "Paragraph_txt": "<br />By supplying funds to capital markets, investors provide an important service to the global economy. They supply capital needed for productive projects that generate economic growth. Countries with growing economies enable businesses to make more profits. Increasingly profitable businesses can afford to pay employees higher wages and hire new employees. Therefore, capital suppliers contribute to rising standards of living around the world."
                     },
                     {
-                        "Paragraph_txt": "Capital suppliers also promote capital efficiency. Excess funds from one part of the world flow to other parts of the world that are in need of financial resources. Both parties benefit from participating in capital markets: suppliers earn better returns on their capital than they could by saving, and users gain access to funding that may not have been available through other means."
+                        "Paragraph_txt": "<br />Capital suppliers also promote capital efficiency. Excess funds from one part of the world flow to other parts of the world that are in need of financial resources. Both parties benefit from participating in capital markets: suppliers earn better returns on their capital than they could by saving, and users gain access to funding that may not have been available through other means."
                     }
                 ]
             },

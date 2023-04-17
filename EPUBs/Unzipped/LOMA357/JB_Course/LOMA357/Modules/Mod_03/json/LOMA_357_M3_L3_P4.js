@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Metrics for Performance Measurement",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When evaluating a portfolio’s performance, investment professionals can use a variety of performance metrics. For the sake of brevity, we restrict our coverage to a few common metrics. As we briefly introduce these metrics, we explain how investment professionals interpret the results. Note that many of these metrics are also used to evaluate investment funds, such as mutual funds and ETFs."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals use certain performance metrics to measure investment returns. Other metrics help investment professionals quantify the level of risk within a particular portfolio. As you will see, investment professionals also combine return and risk metrics to evaluate performance through risk-adjusted return metrics."
+                        "Paragraph_txt": "<br />Investment professionals use certain performance metrics to measure investment returns. Other metrics help investment professionals quantify the level of risk within a particular portfolio. As you will see, investment professionals also combine return and risk metrics to evaluate performance through risk-adjusted return metrics."
                     }
                 ]
             },
@@ -214,7 +184,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In Chapter 4, you learned that <em>total return</em> is the sum of all returns—including all income, as well as all realized and unrealized gains or losses—from an investment over a given period, typically one year. Investment professionals can calculate total return for a single investment or for an entire portfolio."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals usually express total return as a percentage. Percentage values are useful for comparing performance across different periods and different portfolios. For instance, investment professionals often compare a particular portfolio’s rate of total annual return against the rate of total annual return of a designated benchmark. Ideally, the portfolio’s rate of return is higher than its benchmark’s rate of return."
+                        "Paragraph_txt": "<br />Investment professionals usually express total return as a percentage. Percentage values are useful for comparing performance across different periods and different portfolios. For instance, investment professionals often compare a particular portfolio’s rate of total annual return against the rate of total annual return of a designated benchmark. Ideally, the portfolio’s rate of return is higher than its benchmark’s rate of return."
                     }
                 ]
             },
@@ -250,7 +220,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A more useful way to compare a portfolio’s total return to its benchmark return is by finding its <span class=\"keyterm\" tabindex=\"0\" role=\"button\">excess return</span>, which is the amount of the portfolio’s total return that exceeds the benchmark return. For proper comparison, the portfolio’s return and benchmark return should be measured over the same period."
                     },
                     {
-                        "Paragraph_txt": "Because total return and benchmark return are often expressed as percentages, excess return can also be expressed as a percentage, as seen in the following formula:"
+                        "Paragraph_txt": "<br />Because total return and benchmark return are often expressed as percentages, excess return can also be expressed as a percentage, as seen in the following formula:"
                     }
                 ]
             },
@@ -446,7 +416,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals do not consider excess return to be the only measure of a portfolio’s investment success. Effective portfolio management considers other factors. For example, how much risk did a portfolio have to accept to earn its returns? Did the level of accepted risk exceed the portfolio’s risk objectives?"
                     },
                     {
-                        "Paragraph_txt": "Investment professionals use multiple metrics to quantify a portfolio’s level of risk, such as standard deviation, tracking error, beta, and Value at Risk."
+                        "Paragraph_txt": "<br />Investment professionals use multiple metrics to quantify a portfolio’s level of risk, such as standard deviation, tracking error, beta, and Value at Risk."
                     }
                 ]
             },
@@ -482,7 +452,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "One of the most common metrics for investment risk is standard deviation. We defined <em>standard deviation</em> in Chapter 4 as a statistical measure of the dispersion of an asset’s historical returns around its mean return. In general, a larger standard deviation indicates that historical returns are more widely distributed around the mean. Therefore, assets with larger standard deviations generally experience greater return volatility than assets with smaller standard deviations. Remember that investors often use volatility to signify risk; high-volatility investments are considered riskier than low-volatility investments because their returns are less predictable."
                     },
                     {
-                        "Paragraph_txt": "In addition to measuring the risk of individual assets, investment professionals use standard deviation to measure an entire portfolio’s risk. A portfolio with a high standard deviation is generally considered riskier than a portfolio with a low standard deviation. The calculation of an entire portfolio’s standard deviation is beyond the scope of this text."
+                        "Paragraph_txt": "<br />In addition to measuring the risk of individual assets, investment professionals use standard deviation to measure an entire portfolio’s risk. A portfolio with a high standard deviation is generally considered riskier than a portfolio with a low standard deviation. The calculation of an entire portfolio’s standard deviation is beyond the scope of this text."
                     }
                 ]
             },
@@ -518,10 +488,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another metric that incorporates standard deviation is tracking error. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Tracking error</span>, also known as <em>active risk</em>, is a measure that indicates the closeness of fit between a portfolio’s returns and the returns of its benchmark. Typically, tracking error is expressed as a percentage."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals calculate tracking error as the standard deviation of the difference between the portfolio’s returns and the returns of its benchmark over a period of time. Thus, for a series of benchmark and portfolio returns, the value of the tracking error indicates how widely distributed the portfolio’s returns are in relation to the benchmark’s returns."
+                        "Paragraph_txt": "<br />Investment professionals calculate tracking error as the standard deviation of the difference between the portfolio’s returns and the returns of its benchmark over a period of time. Thus, for a series of benchmark and portfolio returns, the value of the tracking error indicates how widely distributed the portfolio’s returns are in relation to the benchmark’s returns."
                     },
                     {
-                        "Paragraph_txt": "In addition, investment professionals can use tracking error to predict a portfolio’s range of expected returns relative to a benchmark’s returns. In the following example, we assume that the tracking error is calculated using one standard deviation, which means the confidence interval is approximately 67%."
+                        "Paragraph_txt": "<br />In addition, investment professionals can use tracking error to predict a portfolio’s range of expected returns relative to a benchmark’s returns. In the following example, we assume that the tracking error is calculated using one standard deviation, which means the confidence interval is approximately 67%."
                     }
                 ]
             },
@@ -703,7 +673,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals can use tracking error to measure the level of risk exposure for a portfolio. A higher value for tracking error indicates a greater degree of return volatility relative to the benchmark and, thus, higher risk exposure. Therefore, some insurance companies set limits for the size of acceptable tracking errors."
                     },
                     {
-                        "Paragraph_txt": "A portfolio with a high tracking error has the potential to significantly outperform (or underperform) its benchmark. However, a portfolio that has a high tracking error and regularly underperforms its benchmark may not be managing risk effectively."
+                        "Paragraph_txt": "<br />A portfolio with a high tracking error has the potential to significantly outperform (or underperform) its benchmark. However, a portfolio that has a high tracking error and regularly underperforms its benchmark may not be managing risk effectively."
                     }
                 ]
             },
@@ -739,7 +709,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Beta</span> is a measure of the volatility of an asset or portfolio in relation to the volatility of a market. Although beta is potentially applicable to equity and fixed-income markets, it is typically more useful for portfolios with equity investments."
                     },
                     {
-                        "Paragraph_txt": "The market has a beta of 1. A portfolio with a beta greater than 1 is more volatile than the market. While the portfolio has the potential to earn greater returns than the market (when the market’s returns are positive), it also has the potential for greater losses (when the market’s returns are negative). A portfolio with a beta lower than 1 is less volatile than the market. Such a portfolio has lower potential returns, but also lower potential losses."
+                        "Paragraph_txt": "<br />The market has a beta of 1. A portfolio with a beta greater than 1 is more volatile than the market. While the portfolio has the potential to earn greater returns than the market (when the market’s returns are positive), it also has the potential for greater losses (when the market’s returns are negative). A portfolio with a beta lower than 1 is less volatile than the market. Such a portfolio has lower potential returns, but also lower potential losses."
                     }
                 ]
             },
@@ -802,7 +772,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Portfolio 1 has a beta of 0.7, which is lower than the market’s beta of 1. Portfolio 2 has a beta of 1.5, which is higher than the market’s beta."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Portfolio 1 is less volatile, and thus less risky, than the market. Portfolio 2 is more volatile than the market. If the market’s returns are positive, Portfolio 1’s returns will be positive but will likely underperform the market; Portfolio 2’s returns will be positive and will likely outperform the market. Similarly, if the market’s returns are negative, Portfolio 1 and Portfolio 2 will have negative returns. However, Portfolio 1 will likely lose less than the market, while Portfolio 2 will likely lose more than the market."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Portfolio 1 is less volatile, and thus less risky, than the market. Portfolio 2 is more volatile than the market. If the market’s returns are positive, Portfolio 1’s returns will be positive but will likely underperform the market; Portfolio 2’s returns will be positive and will likely outperform the market. Similarly, if the market’s returns are negative, Portfolio 1 and Portfolio 2 will have negative returns. However, Portfolio 1 will likely lose less than the market, while Portfolio 2 will likely lose more than the market."
                     }
                 ]
             },
@@ -865,13 +835,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "A portfolio with a negative beta value will experience returns that move in the opposite direction of the market. For example, when the market’s returns are positive, the negative-beta portfolio’s returns are negative. In general, though, a portfolio with a negative beta is unlikely. For a portfolio to have a negative beta, it would need to possess significant holdings of assets that are negatively correlated with the market."
                     },
                     {
-                        "Paragraph_txt": "Beta is a useful measure for understanding a particular portfolio’s overall exposure to <em>systematic risk</em>, which is also called <em>market risk</em>. A portfolio with a beta value greater than 1 has more exposure to the risks that affect all investments in a given market. Conversely, a portfolio with a beta value less than 1 has less exposure to the same risks."
+                        "Paragraph_txt": "<br />Beta is a useful measure for understanding a particular portfolio’s overall exposure to <em>systematic risk</em>, which is also called <em>market risk</em>. A portfolio with a beta value greater than 1 has more exposure to the risks that affect all investments in a given market. Conversely, a portfolio with a beta value less than 1 has less exposure to the same risks."
                     },
                     {
-                        "Paragraph_txt": "Note that a portfolio’s beta measures its volatility against an index or benchmark, which is used to represent the market. Thus, beta is a measure of a portfolio’s systematic risk. In contrast, a portfolio’s standard deviation measures its volatility against its own historical returns, which include both systematic risk and <em>specific risk</em>—also called <em>unsystematic risk</em>. Therefore, standard deviation is a broader measure of risk than beta."
+                        "Paragraph_txt": "<br />Note that a portfolio’s beta measures its volatility against an index or benchmark, which is used to represent the market. Thus, beta is a measure of a portfolio’s systematic risk. In contrast, a portfolio’s standard deviation measures its volatility against its own historical returns, which include both systematic risk and <em>specific risk</em>—also called <em>unsystematic risk</em>. Therefore, standard deviation is a broader measure of risk than beta."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals can use a portfolio’s beta to calculate an expected portfolio return based on an expected market return. Later in this chapter, we introduce a risk-adjusted return metric based on this calculation of expected portfolio return."
+                        "Paragraph_txt": "<br />Investment professionals can use a portfolio’s beta to calculate an expected portfolio return based on an expected market return. Later in this chapter, we introduce a risk-adjusted return metric based on this calculation of expected portfolio return."
                     }
                 ]
             },
@@ -907,7 +877,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Thus far, we have described volatility as a measure of investment risk. We’ve also noted that a portfolio with high volatility can potentially experience large gains or large losses. However, sometimes investment professionals want to isolate and measure the downside risk of their investments. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Value at Risk (VaR)</span>is a measure that (1) estimates the maximum amount that a group of investments could potentially lose in a specified time period and (2) assigns a probability to indicate the level of confidence in that estimate. Essentially, VaR attempts to quantify the worst-case scenario for investment returns for the time period."
                     },
                     {
-                        "Paragraph_txt": "VaR has three main components: a time period, a confidence level (as indicated by the assigned probability), and the estimated amount of maximum investment loss. The loss amount is sometimes expressed as a loss percentage. The following insight provides an example of a portfolio’s VaR in terms of all of the possible investment return outcomes over a given period."
+                        "Paragraph_txt": "<br />VaR has three main components: a time period, a confidence level (as indicated by the assigned probability), and the estimated amount of maximum investment loss. The loss amount is sometimes expressed as a loss percentage. The following insight provides an example of a portfolio’s VaR in terms of all of the possible investment return outcomes over a given period."
                     }
                 ]
             },
@@ -1117,10 +1087,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "VaR is an important risk management metric for financial services companies—particularly banks and insurance companies. Companies use VaR to estimate the amount of assets needed to cover their largest possible investment losses for a given period during normal market conditions."
                     },
                     {
-                        "Paragraph_txt": "One criticism of VaR is that it does not take extreme events into account. In other words, VaR does not consider <em>negative tail risk</em>, or the risk of a low-probability but high-impact loss that exceeds the maximum amount estimated by VaR. For instance, even with a 99% confidence level of a loss estimate, a 1% chance still exists that the loss will be worse than anticipated. The 1% chance represents the negative tail risk. During an extreme event, such as the 2007–2008 financial crisis, actual losses can exceed loss estimates."
+                        "Paragraph_txt": "<br />One criticism of VaR is that it does not take extreme events into account. In other words, VaR does not consider <em>negative tail risk</em>, or the risk of a low-probability but high-impact loss that exceeds the maximum amount estimated by VaR. For instance, even with a 99% confidence level of a loss estimate, a 1% chance still exists that the loss will be worse than anticipated. The 1% chance represents the negative tail risk. During an extreme event, such as the 2007–2008 financial crisis, actual losses can exceed loss estimates."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the risk metrics covered in this chapter."
+                        "Paragraph_txt": "<br />The following chart summarizes the risk metrics covered in this chapter."
                     }
                 ]
             },
@@ -1413,10 +1383,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In general, investors like excess returns but not excess risk. Therefore, a common question for performance evaluation is: were excess returns earned by accepting excess risk, or by wisely investing while maintaining a particular level of risk? To answer this question, investment professionals use <em>risk-adjusted return metrics</em>, which measure how effectively a portfolio uses risk to generate its returns. In general, higher risk-adjusted return values indicate better returns per unit of risk."
                     },
                     {
-                        "Paragraph_txt": "In addition, investment professionals can use risk-adjusted return metrics to evaluate portfolio managers. Typically, investment professionals believe that, within a particular peer group, a portfolio manager who generates larger risk-adjusted returns is more skilled than a portfolio manager who generates smaller risk-adjusted returns."
+                        "Paragraph_txt": "<br />In addition, investment professionals can use risk-adjusted return metrics to evaluate portfolio managers. Typically, investment professionals believe that, within a particular peer group, a portfolio manager who generates larger risk-adjusted returns is more skilled than a portfolio manager who generates smaller risk-adjusted returns."
                     },
                     {
-                        "Paragraph_txt": "Some important risk-adjusted return metrics include the Sharpe ratio, the Sortino ratio, the information ratio, and Jensen’s alpha."
+                        "Paragraph_txt": "<br />Some important risk-adjusted return metrics include the Sharpe ratio, the Sortino ratio, the information ratio, and Jensen’s alpha."
                     }
                 ]
             },
@@ -1596,10 +1566,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Remember that the <em>risk-free rate of return</em> is the rate of return on a “risk-free” investment—that is, the least risky investment opportunity available in the market. For example, in the United States, investors commonly use the current interest rate on a three-month U.S. Treasury bill to represent the risk-free rate. To justify selecting investments that carry risk, the portfolio needs to earn a higher rate of total return than the risk-free rate of return."
                     },
                     {
-                        "Paragraph_txt": "A higher positive value for the Sharpe ratio generally indicates a better risk-adjusted return for a portfolio. A negative value for the Sharpe ratio indicates that the portfolio would have performed better by investing in the risk-free asset than by selecting its own investments. Thus, the Sharpe ratio is one measure for evaluating a portfolio manager’s effectiveness in generating portfolio returns. You will see other methods later in the chapter."
+                        "Paragraph_txt": "<br />A higher positive value for the Sharpe ratio generally indicates a better risk-adjusted return for a portfolio. A negative value for the Sharpe ratio indicates that the portfolio would have performed better by investing in the risk-free asset than by selecting its own investments. Thus, the Sharpe ratio is one measure for evaluating a portfolio manager’s effectiveness in generating portfolio returns. You will see other methods later in the chapter."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals can use the Sharpe ratio to compare the performance of one portfolio to the performance of another portfolio. In addition, they can compare a portfolio’s performance to the performance of the benchmark. For example, if a portfolio’s Sharpe ratio is greater than the Sharpe ratio for a market index, then the portfolio has outperformed the market on a risk-adjusted basis."
+                        "Paragraph_txt": "<br />Investment professionals can use the Sharpe ratio to compare the performance of one portfolio to the performance of another portfolio. In addition, they can compare a portfolio’s performance to the performance of the benchmark. For example, if a portfolio’s Sharpe ratio is greater than the Sharpe ratio for a market index, then the portfolio has outperformed the market on a risk-adjusted basis."
                     }
                 ]
             },
@@ -1897,7 +1867,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The Sharpe ratio does not distinguish between positive and negative fluctuations in portfolio returns. Thus, some investment professionals use the <em>Sortino ratio</em>, which is a modified version of the Sharpe ratio. The Sortino ratio isolates negative volatility by using the portfolio’s standard deviation of negative returns instead of the standard deviation of total returns, as the Sharpe ratio uses."
                     },
                     {
-                        "Paragraph_txt": "As with the Sharpe ratio, a higher risk-adjusted return value for the Sortino ratio represents better returns per unit of risk than a lower value. In addition, a negative Sortino ratio value indicates that the portfolio’s rate of total return is below the risk-free rate of return."
+                        "Paragraph_txt": "<br />As with the Sharpe ratio, a higher risk-adjusted return value for the Sortino ratio represents better returns per unit of risk than a lower value. In addition, a negative Sortino ratio value indicates that the portfolio’s rate of total return is below the risk-free rate of return."
                     }
                 ]
             },
@@ -2167,7 +2137,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The information ratio indicates a portfolio’s excess return over its benchmark return, per unit of risk. In other words, the information ratio can indicate a portfolio manager’s effectiveness in actively deviating from a benchmark to generate superior returns."
                     },
                     {
-                        "Paragraph_txt": "An information ratio with a value higher than zero signifies that the portfolio manager demonstrated skill in using risk to generate higher returns. In general, a higher value for the information ratio indicates a greater effectiveness or skill in using risk to generate returns."
+                        "Paragraph_txt": "<br />An information ratio with a value higher than zero signifies that the portfolio manager demonstrated skill in using risk to generate higher returns. In general, a higher value for the information ratio indicates a greater effectiveness or skill in using risk to generate returns."
                     }
                 ]
             },
@@ -2519,7 +2489,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Alpha</span> is a measure of the difference between a portfolio’s actual returns and its expected returns. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Jensen’s alpha</span> is a risk-adjusted measure of alpha that factors in the portfolio’s beta to determine whether the portfolio generated positive returns as compensation for the investment risk it assumed."
                     },
                     {
-                        "Paragraph_txt": "In the calculation of Jensen’s alpha, the portfolio’s beta indicates its expected risk in relation to the market. As such, the portfolio’s expected return is influenced by its beta. Incorporating beta, a portfolio’s expected return—expressed below as a rate of return—is as follows:"
+                        "Paragraph_txt": "<br />In the calculation of Jensen’s alpha, the portfolio’s beta indicates its expected risk in relation to the market. As such, the portfolio’s expected return is influenced by its beta. Incorporating beta, a portfolio’s expected return—expressed below as a rate of return—is as follows:"
                     }
                 ]
             },
@@ -2870,7 +2840,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "If the Jensen’s alpha value is positive, then the portfolio’s return has outperformed its expected risk-adjusted return. If the value is negative, then the portfolio has underperformed relative to expectations."
                     },
                     {
-                        "Paragraph_txt": "As with other risk-adjusted return metrics, investment professionals interpret the value of Jensen’s alpha to be an indicator of a portfolio manager’s skill. Thus, a higher value for Jensen’s alpha signifies greater skill in generating returns in excess of the returns expected for a given level of portfolio risk."
+                        "Paragraph_txt": "<br />As with other risk-adjusted return metrics, investment professionals interpret the value of Jensen’s alpha to be an indicator of a portfolio manager’s skill. Thus, a higher value for Jensen’s alpha signifies greater skill in generating returns in excess of the returns expected for a given level of portfolio risk."
                     }
                 ]
             },
@@ -3092,7 +3062,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The portfolio’s actual rate of return was 11%. Therefore, the value for Jensen’s alpha is 2.5% (11% – 8.5%)."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: The portfolio generated a positive value for Jensen’s alpha, meaning the portfolio outperformed its expected return for the one-year period."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: The portfolio generated a positive value for Jensen’s alpha, meaning the portfolio outperformed its expected return for the one-year period."
                     }
                 ]
             },

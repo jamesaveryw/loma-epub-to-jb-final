@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Corporate Governance in Insurance Companies",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -409,10 +379,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "In Chapter 5, you read about an <em>investment policy</em>, which is a statement that an insurer’s board establishes to outline a set of formal rules and guidelines for investing. The corporate investment policy communicates the board’s priorities for the management of corporate assets to the investment committee and, more broadly, to the investment function."
                     },
                     {
-                        "Paragraph_txt": "Within the investment function, managers may enact additional investment policies for investment professionals to follow. For instance, a functional-level investment policy about asset classes provides portfolio managers with details about authorized asset classes and acceptable ranges for holding each class in a portfolio."
+                        "Paragraph_txt": "<br />Within the investment function, managers may enact additional investment policies for investment professionals to follow. For instance, a functional-level investment policy about asset classes provides portfolio managers with details about authorized asset classes and acceptable ranges for holding each class in a portfolio."
                     },
                     {
-                        "Paragraph_txt": "Each level of an insurance company has different responsibilities for controlling the activities of the investment function. Figure 11.1 shows the relationships between the corporate, functional, and operational levels of controls."
+                        "Paragraph_txt": "<br />Each level of an insurance company has different responsibilities for controlling the activities of the investment function. Figure 11.1 shows the relationships between the corporate, functional, and operational levels of controls."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 11.1 Control Framework for the Investment Function</strong>"
                     }
                 ]
             },
@@ -435,7 +438,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 11.1</strong> Control Framework for the Investment Function",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -661,10 +664,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">audit committee</span> assists a company’s board of directors in overseeing the internal audit function, independent external auditors, financial reporting practices, and internal controls. The internal audit function typically presents results directly to the audit committee. Because the audit staff must maintain a high degree of independence and objectivity, their function is separate from those of the departments they examine."
                     },
                     {
-                        "Paragraph_txt": "In some insurance companies, the audit committee also oversees the company’s ethics policy and its compliance with regulations and standards. Other insurers maintain a separate <span class=\"keyterm\" tabindex=\"0\" role=\"button\">compliance committee</span>, which may handle a variety of corporate issues such as corporate privacy policies, data security and usage policies, market conduct, and general compliance. In addition, the board often charges the compliance committee with developing the employee code of conduct."
+                        "Paragraph_txt": "<br />In some insurance companies, the audit committee also oversees the company’s ethics policy and its compliance with regulations and standards. Other insurers maintain a separate <span class=\"keyterm\" tabindex=\"0\" role=\"button\">compliance committee</span>, which may handle a variety of corporate issues such as corporate privacy policies, data security and usage policies, market conduct, and general compliance. In addition, the board often charges the compliance committee with developing the employee code of conduct."
                     },
                     {
-                        "Paragraph_txt": "Regardless of an insurer’s committee structure, its board develops a corporate <span class=\"keyterm\" tabindex=\"0\" role=\"button\">audit policy</span>, which states a company’s process for systematically examining, testing, and evaluating the company’s compliance with one or more specified sets of standards. In other words, the corporate audit policy describes the company’s control framework for conducting audits—including audits of the ALM and investment functions. "
+                        "Paragraph_txt": "<br />Regardless of an insurer’s committee structure, its board develops a corporate <span class=\"keyterm\" tabindex=\"0\" role=\"button\">audit policy</span>, which states a company’s process for systematically examining, testing, and evaluating the company’s compliance with one or more specified sets of standards. In other words, the corporate audit policy describes the company’s control framework for conducting audits—including audits of the ALM and investment functions. "
                     }
                 ]
             },
@@ -845,7 +848,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Auditors also review the investment function’s internal controls. The investment function establishes controls to achieve objectives such as operating efficiently, safeguarding assets, behaving ethically, and promoting compliance. Many of these controls have been covered throughout this text."
                     },
                     {
-                        "Paragraph_txt": "Some insurance companies outsource investment management duties to external vendors. External vendors can pose risks to client privacy and data security. Therefore, auditors check to ensure that the investment function is maintaining sufficient oversight of its vendors. Vendor oversight is of increasing interest to regulators as well."
+                        "Paragraph_txt": "<br />Some insurance companies outsource investment management duties to external vendors. External vendors can pose risks to client privacy and data security. Therefore, auditors check to ensure that the investment function is maintaining sufficient oversight of its vendors. Vendor oversight is of increasing interest to regulators as well."
                     }
                 ]
             },

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Portfolio Objectives and Constraints",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Institutional investors incorporate basic investment goals into their portfolios by designating a portfolio’s investment objectives. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Investment objectives</span> are statements that describe a portfolio’s purpose, typically by describing how the portfolio will meet an investor’s financial goals."
                     },
                     {
-                        "Paragraph_txt": "When constructing a portfolio, an investor may have to work around <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment constraints</span>, which are circumstances that limit the investment options that an investor has for a particular portfolio."
+                        "Paragraph_txt": "<br />When constructing a portfolio, an investor may have to work around <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment constraints</span>, which are circumstances that limit the investment options that an investor has for a particular portfolio."
                     }
                 ]
             },
@@ -241,7 +211,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Investment Objective</strong>"
                     },
                     {
-                        "Paragraph_txt": "The objective of this investment portfolio is to meet the current income requirements of the Camion Industrial Corporation’s employee pension plan while protecting the value of the plan’s invested capital."
+                        "Paragraph_txt": "<br />The objective of this investment portfolio is to meet the current income requirements of the Camion Industrial Corporation’s employee pension plan while protecting the value of the plan’s invested capital."
                     }
                 ]
             },
@@ -820,10 +790,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The asset allocation for any portfolio reflects the objectives and philosophy of the portfolio, while factoring in regulations and other constraints. Proper asset allocation diversifies a portfolio’s holdings among different asset classes to align the portfolio’s risks and expected returns with the investor’s (1) portfolio objectives, (2) risk tolerance, and (3) time horizon. For instance, an investor with a growth objective, a high tolerance for risk, and a long time horizon is likely to have a large percentage of equity securities in her portfolio."
                     },
                     {
-                        "Paragraph_txt": "In addition, asset allocation reflects return expectations. Portfolio managers assess financial market conditions and the economic environment when developing their long-term expectations for the performance of specific asset classes. They use their asset class return expectations to help them determine the best asset allocation to meet portfolio objectives."
+                        "Paragraph_txt": "<br />In addition, asset allocation reflects return expectations. Portfolio managers assess financial market conditions and the economic environment when developing their long-term expectations for the performance of specific asset classes. They use their asset class return expectations to help them determine the best asset allocation to meet portfolio objectives."
                     },
                     {
-                        "Paragraph_txt": "For institutional investment portfolios, portfolio managers are responsible for maintaining appropriate asset allocations. When initially constructing a portfolio, the portfolio manager purchases assets in the proportions specified by the planned asset allocation. Over time, market values fluctuate and actual asset proportions usually drift from a portfolio’s intended asset proportions. The portfolio manager can return the portfolio to the intended asset allocation by rebalancing it. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Rebalancing</span> is the process of periodically adjusting the percentage of funds invested in a particular asset class in an investment portfolio to ensure that the portfolio continues to contain the desired mix of assets."
+                        "Paragraph_txt": "<br />For institutional investment portfolios, portfolio managers are responsible for maintaining appropriate asset allocations. When initially constructing a portfolio, the portfolio manager purchases assets in the proportions specified by the planned asset allocation. Over time, market values fluctuate and actual asset proportions usually drift from a portfolio’s intended asset proportions. The portfolio manager can return the portfolio to the intended asset allocation by rebalancing it. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Rebalancing</span> is the process of periodically adjusting the percentage of funds invested in a particular asset class in an investment portfolio to ensure that the portfolio continues to contain the desired mix of assets."
                     }
                 ]
             },

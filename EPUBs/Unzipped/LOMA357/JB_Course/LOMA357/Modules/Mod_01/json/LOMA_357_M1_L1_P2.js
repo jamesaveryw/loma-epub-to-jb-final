@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "What Is Investing?",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment</span> is any use of an investor’s resources that is intended to generate a positive return of some kind. Examples of investable resources include time, energy, and money. For the purposes of this text, we focus on the investment of financial resources, known as <em>capital</em>. In the context of investing, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">capital</span>is a financial resource available to initiate an investment."
                     },
                     {
-                        "Paragraph_txt": "Investors strive to use capital productively to create additional value or wealth. For instance, companies invest capital now in projects that will grow their business in the future, and individuals invest capital now to have more money available later for spending."
+                        "Paragraph_txt": "<br />Investors strive to use capital productively to create additional value or wealth. For instance, companies invest capital now in projects that will grow their business in the future, and individuals invest capital now to have more money available later for spending."
                     }
                 ]
             },
@@ -208,7 +178,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example 1</strong>: Camion Industrial Corporation, a company that manufactures building equipment, is not manufacturing equipment quickly enough to meet customer demand. To increase production capacity, Camion invests money in a project to build an additional manufacturing plant. Once complete, the plant will enable the company to supply more equipment to customers."
                     },
                     {
-                        "Paragraph_txt": "<strong>Example 2</strong>: Annabelle Boneca, an employee at Camion, regularly puts some of her monthly salary into a savings account intended to cover her anticipated living expenses during retirement. At her current savings rate, Annabelle estimates that her total savings will not grow fast enough to meet her retirement needs. So, she invests additional savings in the stock market with the expectation that these investments will provide her with extra money that she can use to reach her savings goal."
+                        "Paragraph_txt": "<br /><strong>Example 2</strong>: Annabelle Boneca, an employee at Camion, regularly puts some of her monthly salary into a savings account intended to cover her anticipated living expenses during retirement. At her current savings rate, Annabelle estimates that her total savings will not grow fast enough to meet her retirement needs. So, she invests additional savings in the stock market with the expectation that these investments will provide her with extra money that she can use to reach her savings goal."
                     }
                 ]
             },
@@ -588,7 +558,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In a financial context, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">speculation</span> is the practice of engaging in a financial transaction—particularly, a risky transaction—with the intent of benefiting from a short-term fluctuation in an asset’s price."
                     },
                     {
-                        "Paragraph_txt": "In general, investors consider a wider range of factors over a longer length of time than do speculators. Speculation does not require a careful examination of an asset’s current or projected value. Instead, speculators consider a limited set of factors, such as an asset’s current price and patterns of price changes. Speculators believe they can identify asset trends without having a comprehensive understanding of asset values."
+                        "Paragraph_txt": "<br />In general, investors consider a wider range of factors over a longer length of time than do speculators. Speculation does not require a careful examination of an asset’s current or projected value. Instead, speculators consider a limited set of factors, such as an asset’s current price and patterns of price changes. Speculators believe they can identify asset trends without having a comprehensive understanding of asset values."
                     }
                 ]
             },
@@ -651,10 +621,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Adam Cain is a commodities speculator. Adam notices that, every few years, corn prices spike in the United States. Looking closer, he sees that harsh weather preceded and adversely affected corn production in each year that the price spiked."
                     },
                     {
-                        "Paragraph_txt": "At the beginning of the year, Adam observes that the weather in the United States has been colder than the last few years. Remembering the pattern he noticed, Adam thinks that the weather will hurt corn production in the upcoming year. Knowing that a reduced supply would prompt a surge in corn prices, he purchases a contract for 15,000 bushels of corn that locks in the price of the bushels for six months."
+                        "Paragraph_txt": "<br />At the beginning of the year, Adam observes that the weather in the United States has been colder than the last few years. Remembering the pattern he noticed, Adam thinks that the weather will hurt corn production in the upcoming year. Knowing that a reduced supply would prompt a surge in corn prices, he purchases a contract for 15,000 bushels of corn that locks in the price of the bushels for six months."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: If the price of corn rises during the six-month period, the contract becomes more valuable and Adam can sell it to a corn buyer for a profit. Therefore, by purchasing the contract now, Adam is positioning himself to benefit if the price of corn increases."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: If the price of corn rises during the six-month period, the contract becomes more valuable and Adam can sell it to a corn buyer for a profit. Therefore, by purchasing the contract now, Adam is positioning himself to benefit if the price of corn increases."
                     }
                 ]
             },
@@ -717,10 +687,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investors and speculators also differ in their approach to risk. Investors assess the risk associated with an investment and only accept the risk if the anticipated return is suitable for the level of risk assumed. In general, speculators are willing to take on larger risks in return for the chance of larger rewards. Speculators are also more likely to borrow money to make concentrated bets in the hope of amplifying returns."
                     },
                     {
-                        "Paragraph_txt": "Many investors are more conservative than speculators and limit exposure to unnecessary risks. In addition, some investors are subject to regulations that limit the types of investments that they can make. For example, regulators place investment restrictions on insurance companies. Because of regulations involving their use of capital, insurers generally are cautious investors that do not speculate."
+                        "Paragraph_txt": "<br />Many investors are more conservative than speculators and limit exposure to unnecessary risks. In addition, some investors are subject to regulations that limit the types of investments that they can make. For example, regulators place investment restrictions on insurance companies. Because of regulations involving their use of capital, insurers generally are cautious investors that do not speculate."
                     },
                     {
-                        "Paragraph_txt": "Investors tend to hold investments longer than speculators and use different selection methodologies. Investors employ a deliberate, strategic process to carefully select investments to hold for a specific length of time. Speculators are opportunistic, hoping to take advantage of quick movements in an asset’s price. In their rush to exploit a brief window of time, speculators may base decisions on limited information."
+                        "Paragraph_txt": "<br />Investors tend to hold investments longer than speculators and use different selection methodologies. Investors employ a deliberate, strategic process to carefully select investments to hold for a specific length of time. Speculators are opportunistic, hoping to take advantage of quick movements in an asset’s price. In their rush to exploit a brief window of time, speculators may base decisions on limited information."
                     }
                 ]
             },
@@ -756,10 +726,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investing and speculating are different from <span class=\"keyterm\" tabindex=\"0\" role=\"button\">gambling</span>, which is the act of wagering something of value—such as money—on the outcome of an event involving chance. If a gambler’s bet is successful, he wins a prize. However, if his bet is unsuccessful, the gambler loses the item of value that he wagered."
                     },
                     {
-                        "Paragraph_txt": "Many gamblers bet on outcomes that have very low odds of success. For example, you are gambling whenever you buy a lottery ticket. Your ticket usually has unfavorable odds—such as a 1-in-300 million chance—of winning the drawing."
+                        "Paragraph_txt": "<br />Many gamblers bet on outcomes that have very low odds of success. For example, you are gambling whenever you buy a lottery ticket. Your ticket usually has unfavorable odds—such as a 1-in-300 million chance—of winning the drawing."
                     },
                     {
-                        "Paragraph_txt": "Some gamblers believe that by observing past outcomes, they are able to predict future outcomes of random events. However, in random events—such as coin flips or games of chance—outcomes occur independently, meaning a single outcome is not affected by previous outcomes and does not affect future outcomes. Thus, the <em>gambler’s fallacy</em>, also known as the <em>Monte Carlo fallacy</em>, is the mistaken belief that random events become less random—and more predictable—the more frequently certain outcomes are observed."
+                        "Paragraph_txt": "<br />Some gamblers believe that by observing past outcomes, they are able to predict future outcomes of random events. However, in random events—such as coin flips or games of chance—outcomes occur independently, meaning a single outcome is not affected by previous outcomes and does not affect future outcomes. Thus, the <em>gambler’s fallacy</em>, also known as the <em>Monte Carlo fallacy</em>, is the mistaken belief that random events become less random—and more predictable—the more frequently certain outcomes are observed."
                     }
                 ]
             },
@@ -822,13 +792,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Why is the gambler’s fallacy also called the Monte Carlo fallacy?</strong>"
                     },
                     {
-                        "Paragraph_txt": "A famous example of the gambler’s fallacy occurred on August 18, 1913, at the Monte Carlo Casino in Monaco. At one of the roulette tables, some gamblers noticed that the ball kept falling on black."
+                        "Paragraph_txt": "<br />A famous example of the gambler’s fallacy occurred on August 18, 1913, at the Monte Carlo Casino in Monaco. At one of the roulette tables, some gamblers noticed that the ball kept falling on black."
                     },
                     {
-                        "Paragraph_txt": "Even though each spin of the wheel had the same odds of the ball landing on red as earlier spins, the gamblers started to believe that the growing streak increased the odds that the next roll would end with the ball landing on red. As the streak of rolls landing on black continued, more gamblers got involved. With each roll, gamblers placed larger bets on the ball landing on red. However, the ball kept landing on black."
+                        "Paragraph_txt": "<br />Even though each spin of the wheel had the same odds of the ball landing on red as earlier spins, the gamblers started to believe that the growing streak increased the odds that the next roll would end with the ball landing on red. As the streak of rolls landing on black continued, more gamblers got involved. With each roll, gamblers placed larger bets on the ball landing on red. However, the ball kept landing on black."
                     },
                     {
-                        "Paragraph_txt": "The ball finally landed on red after landing on black twenty-six times in a row. Because of the extremely unlikely occurrence of the streak, gamblers at the roulette table lost millions of francs betting against black."
+                        "Paragraph_txt": "<br />The ball finally landed on red after landing on black twenty-six times in a row. Because of the extremely unlikely occurrence of the streak, gamblers at the roulette table lost millions of francs betting against black."
                     }
                 ]
             },
@@ -891,7 +861,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because the odds are against them, gamblers typically have to rely on luck to be successful over time. In contrast, speculators and investors apply their skills to increase the likelihood of experiencing favorable outcomes. Speculators who can skillfully spot short-term trends are more likely to capitalize on asset price fluctuations. Investors who can skillfully assess asset values are more likely to select long-term investments that earn positive returns."
                     },
                     {
-                        "Paragraph_txt": "Compared to speculators and investors, gamblers have the least amount of control in preventing the loss of committed capital. For a gambler, a bad bet wipes out all of the capital wagered on the bet. Speculators and investors can sell assets before they lose all of their committed capital."
+                        "Paragraph_txt": "<br />Compared to speculators and investors, gamblers have the least amount of control in preventing the loss of committed capital. For a gambler, a bad bet wipes out all of the capital wagered on the bet. Speculators and investors can sell assets before they lose all of their committed capital."
                     }
                 ]
             },

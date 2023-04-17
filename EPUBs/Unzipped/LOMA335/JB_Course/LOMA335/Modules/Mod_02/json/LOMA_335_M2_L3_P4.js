@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Quality Management Approaches",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -210,7 +180,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The primary advantage of TQM is that it provides a gradual way for companies to improve the quality of their operations, products, and services. Its primary drawback is its rigidity. TQM relies on upper management for close control and supervision. In addition, TQM is designed to mitigate risk by making incremental changes and “doing things right the first time.” The emphasis on risk mitigation can discourage agile thinking and large-scale innovation.<span class=\"ens\" id=\"loma335-ch6-span-68\"> <span class=\"endnote hidden\" data-note=\"loma335-ch6-en7\" epub:type=\"noteref\" id=\"loma335-ch6-span-69\" role=\"doc-noteref\">7</span> </span> "
                     },
                     {
-                        "Paragraph_txt": "Keep in mind that TQM is one of many possible approaches to quality management. The insight below is an abridged list of quality management approaches, including those we described in detail in Chapter 4. Companies should evaluate these approaches and choose whichever approach or combination of approaches suits their needs."
+                        "Paragraph_txt": "<br />Keep in mind that TQM is one of many possible approaches to quality management. The insight below is an abridged list of quality management approaches, including those we described in detail in Chapter 4. Companies should evaluate these approaches and choose whichever approach or combination of approaches suits their needs."
                     }
                 ]
             },

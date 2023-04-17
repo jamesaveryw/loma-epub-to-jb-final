@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Stocks",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,16 +115,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">equity security</span> is a security that represents an ownership interest in the issuing company. When most people think of equity securities, they think of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">stocks</span>, which represent equity ownership through units called <em>shares</em>. A person or organization that owns shares of a company’s stock is a <em>shareholder</em>—also known as a <em>stockholder</em>."
                     },
                     {
-                        "Paragraph_txt": "In general, the historical return on stocks has been substantially higher than the historical return on bonds. Also, stocks are generally very liquid assets, and are often more liquid than bonds."
+                        "Paragraph_txt": "<br />In general, the historical return on stocks has been substantially higher than the historical return on bonds. Also, stocks are generally very liquid assets, and are often more liquid than bonds."
                     },
                     {
-                        "Paragraph_txt": "On the other hand, stocks are associated with higher risks than bonds. Stock prices are typically more volatile than bond prices. Shareholders also have fewer protections against a company’s default than bondholders do."
+                        "Paragraph_txt": "<br />On the other hand, stocks are associated with higher risks than bonds. Stock prices are typically more volatile than bond prices. Shareholders also have fewer protections against a company’s default than bondholders do."
                     },
                     {
-                        "Paragraph_txt": "Stocks can earn returns through price appreciation and dividend income. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Price appreciation</span>is an increase in the market value of an invested asset. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">dividend</span> is a distribution of a company’s profits payable to owners of the company’s stock. "
+                        "Paragraph_txt": "<br />Stocks can earn returns through price appreciation and dividend income. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Price appreciation</span>is an increase in the market value of an invested asset. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">dividend</span> is a distribution of a company’s profits payable to owners of the company’s stock. "
                     },
                     {
-                        "Paragraph_txt": "Depending on the institutional investor, stocks can make up a significant portion of an investment portfolio. For life insurers, stocks make up a large share of the assets held in separate account portfolios. However, stocks make up a smaller share of general account portfolios because of regulations that restrict the amount of common stock an insurer can have in its general account."
+                        "Paragraph_txt": "<br />Depending on the institutional investor, stocks can make up a significant portion of an investment portfolio. For life insurers, stocks make up a large share of the assets held in separate account portfolios. However, stocks make up a smaller share of general account portfolios because of regulations that restrict the amount of common stock an insurer can have in its general account."
                     }
                 ]
             },
@@ -190,16 +160,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Companies issue two basic types of stock. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">common stock</span> is a type of stock that usually entitles the owner to (1) vote on the selection of the board of directors and on other important company matters and (2) receive dividends on the stock, if they are declared. Not all common stocks pay dividends."
                     },
                     {
-                        "Paragraph_txt": "In contrast, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">preferred stock</span> is a type of stock that typically does not carry the voting rights of common stock but does carry a stated dividend rate. Companies pay dividends to preferred shareholders before common shareholders."
+                        "Paragraph_txt": "<br />In contrast, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">preferred stock</span> is a type of stock that typically does not carry the voting rights of common stock but does carry a stated dividend rate. Companies pay dividends to preferred shareholders before common shareholders."
                     },
                     {
-                        "Paragraph_txt": "Preferred stocks are <span class=\"keyterm\" tabindex=\"0\" role=\"button\">hybrid securities</span> because they have characteristics of both equity and debt securities. Like the fixed-interest payments of bonds, preferred stocks have fixed dividend rates. Preferred stocks also have par values, like bonds. Like equity securities, preferred stocks can appreciate in price—although preferred stock prices typically appreciate less than common stock prices."
+                        "Paragraph_txt": "<br />Preferred stocks are <span class=\"keyterm\" tabindex=\"0\" role=\"button\">hybrid securities</span> because they have characteristics of both equity and debt securities. Like the fixed-interest payments of bonds, preferred stocks have fixed dividend rates. Preferred stocks also have par values, like bonds. Like equity securities, preferred stocks can appreciate in price—although preferred stock prices typically appreciate less than common stock prices."
                     },
                     {
-                        "Paragraph_txt": "In the event of a company’s liquidation, owners of preferred stock have a higher claim priority over company assets than common shareholders. However, a company’s bondholders have a higher claim priority than its preferred and common shareholders."
+                        "Paragraph_txt": "<br />In the event of a company’s liquidation, owners of preferred stock have a higher claim priority over company assets than common shareholders. However, a company’s bondholders have a higher claim priority than its preferred and common shareholders."
                     },
                     {
-                        "Paragraph_txt": "As mentioned above, common stocks typically have a stronger potential for price appreciation than preferred stocks. Therefore, many institutional investors focus on common stock over preferred stock. For example, insurance companies typically own little preferred stock."
+                        "Paragraph_txt": "<br />As mentioned above, common stocks typically have a stronger potential for price appreciation than preferred stocks. Therefore, many institutional investors focus on common stock over preferred stock. For example, insurance companies typically own little preferred stock."
                     }
                 ]
             },

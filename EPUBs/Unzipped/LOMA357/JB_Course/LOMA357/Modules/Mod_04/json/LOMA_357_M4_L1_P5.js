@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Regulation outside the United States",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -344,7 +314,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The EIOPA was responsible for implementing Solvency II.<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Solvency II</span> is a European-sponsored solvency standard for insurance companies designed to support solvency testing and solvency supervision in the public interest. Solvency II, which took effect in 2016, is also known as the <em>EU Directive on the Taking-Up and Pursuit of the Business of Insurance and Reinsurance</em>."
                     },
                     {
-                        "Paragraph_txt": "Solvency II introduced risk-based capital requirements, which influenced the asset allocation decisions of many insurers in the EU. For example, Solvency II’s capital charges on asset-backed securities (ABSs) prompted many insurers to reduce their ABS holdings. In contrast, other asset types received more favorable treatment. For instance, Solvency II generally incentivizes investment in infrastructure."
+                        "Paragraph_txt": "<br />Solvency II introduced risk-based capital requirements, which influenced the asset allocation decisions of many insurers in the EU. For example, Solvency II’s capital charges on asset-backed securities (ABSs) prompted many insurers to reduce their ABS holdings. In contrast, other asset types received more favorable treatment. For instance, Solvency II generally incentivizes investment in infrastructure."
                     }
                 ]
             },

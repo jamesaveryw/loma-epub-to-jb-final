@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Derivatives",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">derivative</span> is a financial security that derives its investment value from the value of another security. Because a derivative’s value is based on the underlying security’s value, the derivative can be used to hedge against that security’s adverse price movements. As such, investors use derivatives for risk management in portfolios. You will read more in Chapter 8 about how portfolio managers use derivatives."
                     },
                     {
-                        "Paragraph_txt": "In addition, derivatives can be used to speculate on an asset’s price movements or to increase leverage. In investing, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">leverage</span> is the use of borrowing to enhance the potential return of an investment, at the risk of enhancing the potential loss on the investment."
+                        "Paragraph_txt": "<br />In addition, derivatives can be used to speculate on an asset’s price movements or to increase leverage. In investing, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">leverage</span> is the use of borrowing to enhance the potential return of an investment, at the risk of enhancing the potential loss on the investment."
                     },
                     {
-                        "Paragraph_txt": "Because derivatives can magnify losses, insurance companies are subject to regulatory restrictions on their investments in derivatives. Derivatives used by insurers and other institutional investors include options, swaps, futures, and forwards."
+                        "Paragraph_txt": "<br />Because derivatives can magnify losses, insurance companies are subject to regulatory restrictions on their investments in derivatives. Derivatives used by insurers and other institutional investors include options, swaps, futures, and forwards."
                     }
                 ]
             },

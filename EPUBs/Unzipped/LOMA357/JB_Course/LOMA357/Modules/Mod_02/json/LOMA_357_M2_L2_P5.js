@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Tools for ALM Analysis",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "ALM professionals at life insurance companies monitor anticipated cash flows and project the future values of their assets, liabilities, and capital. They also use <span class=\"keyterm\" tabindex=\"0\" role=\"button\">asset adequacy analysis</span>, which determines whether the company’s assets are sufficient to support certain reserves and other liabilities. In addition, asset adequacy analysis tests the liquidity of assets, which is important because insurers must be able to pay obligations in cash on short notice."
                     },
                     {
-                        "Paragraph_txt": "As part of ALM, insurers need to be able to measure their risk exposures and asset adequacy. Insurers use cash-flow testing and a variety of reports as tools for their ALM analysis."
+                        "Paragraph_txt": "<br />As part of ALM, insurers need to be able to measure their risk exposures and asset adequacy. Insurers use cash-flow testing and a variety of reports as tools for their ALM analysis."
                     }
                 ]
             },
@@ -243,7 +213,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Modeling uses assumptions to generate probable outcomes, but a model’s output is only as good as its inputs. Thus, insurers must select appropriate assumptions for use in their models. Acceptable assumptions can be based on data from a company’s historical experience, data from industry studies, or random variables based on statistical distributions. Insurers conduct <em>back-testing</em>, which involves applying the models and their assumptions to known past data, to see if the models produce accurate projections of known data. By back-testing models and assumptions, insurers can identify areas for improvement."
                     },
                     {
-                        "Paragraph_txt": "To test the adequacy of cash flows, insurers analyze the projected net cash flow values for their assets and liabilities. Two common approaches to this analysis are sensitivity analysis and scenario testing."
+                        "Paragraph_txt": "<br />To test the adequacy of cash flows, insurers analyze the projected net cash flow values for their assets and liabilities. Two common approaches to this analysis are sensitivity analysis and scenario testing."
                     }
                 ]
             },
@@ -377,16 +347,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Using financial modeling simulations, insurance companies project multiple scenarios for their assets and liabilities portfolios. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Scenario testing</span> is a method of evaluating modeling results that involves entering different sets of data—which represent a given scenario—into a model and then determining how changes in the input data affect the model’s output."
                     },
                     {
-                        "Paragraph_txt": "Unlike sensitivity analysis, which changes the input of one variable between a series of simulations, scenario testing changes the inputs of multiple variables for a single simulation. As such, scenario testing seeks to identify the probable outcome given a particular set of circumstances. For example, one testable scenario is an economic recession, which would involve a contracting economic growth rate, falling market interest rates, and, generally, falling asset values."
+                        "Paragraph_txt": "<br />Unlike sensitivity analysis, which changes the input of one variable between a series of simulations, scenario testing changes the inputs of multiple variables for a single simulation. As such, scenario testing seeks to identify the probable outcome given a particular set of circumstances. For example, one testable scenario is an economic recession, which would involve a contracting economic growth rate, falling market interest rates, and, generally, falling asset values."
                     },
                     {
-                        "Paragraph_txt": "For each scenario, ALM professionals assign values to their assumptions that reflect the scenario’s characteristics. Then they run their model to simulate the scenario, which generates outcomes for the assets portfolio and the liabilities portfolio. ALM professionals run multiple simulations, moderately changing input values for each scenario, to create a variety of outcomes that they can study."
+                        "Paragraph_txt": "<br />For each scenario, ALM professionals assign values to their assumptions that reflect the scenario’s characteristics. Then they run their model to simulate the scenario, which generates outcomes for the assets portfolio and the liabilities portfolio. ALM professionals run multiple simulations, moderately changing input values for each scenario, to create a variety of outcomes that they can study."
                     },
                     {
-                        "Paragraph_txt": "Typically, insurers run multiple interest-rate scenarios to test cash flows for their assets and liabilities portfolios. Examples of other possible scenarios to test are different economic growth stages or financial market environments."
+                        "Paragraph_txt": "<br />Typically, insurers run multiple interest-rate scenarios to test cash flows for their assets and liabilities portfolios. Examples of other possible scenarios to test are different economic growth stages or financial market environments."
                     },
                     {
-                        "Paragraph_txt": "Insurers can include stress tests as part of their scenario testing protocol. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">stress test</span> is a form of scenario testing that uses an extreme scenario, such as a severe economic downturn, to test a portfolio’s expected performance during adverse conditions. Since the 2007–2008 financial crisis, the results of stress tests are of increasing interest to regulators around the world."
+                        "Paragraph_txt": "<br />Insurers can include stress tests as part of their scenario testing protocol. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">stress test</span> is a form of scenario testing that uses an extreme scenario, such as a severe economic downturn, to test a portfolio’s expected performance during adverse conditions. Since the 2007–2008 financial crisis, the results of stress tests are of increasing interest to regulators around the world."
                     }
                 ]
             },
@@ -449,13 +419,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Sensitivity Analysis or Scenario Testing?</strong> "
                     },
                     {
-                        "Paragraph_txt": "Sensitivity analysis and scenario testing both start with selecting all of the variable inputs for the first simulation, but differ in the number of variables changed in subsequent simulations. Thus, the number of variables changed depends on the purpose of the simulations."
+                        "Paragraph_txt": "<br />Sensitivity analysis and scenario testing both start with selecting all of the variable inputs for the first simulation, but differ in the number of variables changed in subsequent simulations. Thus, the number of variables changed depends on the purpose of the simulations."
                     },
                     {
-                        "Paragraph_txt": "If you are changing the input of one variable in multiple simulations to see how much a portfolio responds, you are conducting <em>sensitivity analysis</em>. For example, run multiple simulations with different values for the market interest rate if you want to determine how sensitive your portfolio is to market interest rate changes. By keeping the values of other variables constant, you can isolate the effects of market interest rate changes on your portfolio."
+                        "Paragraph_txt": "<br />If you are changing the input of one variable in multiple simulations to see how much a portfolio responds, you are conducting <em>sensitivity analysis</em>. For example, run multiple simulations with different values for the market interest rate if you want to determine how sensitive your portfolio is to market interest rate changes. By keeping the values of other variables constant, you can isolate the effects of market interest rate changes on your portfolio."
                     },
                     {
-                        "Paragraph_txt": "If you are changing the inputs of multiple variables in a single simulation to see how a portfolio responds to a particular set of inputs, you are conducting <em>scenario testing</em>. For example, if you want to see how your portfolio would respond during a recession, input values that reflect conditions during a recession—such as a low value for the economic growth rate and a high value for the unemployment rate. In addition, you could determine how your portfolio would respond if the recession worsens by testing another scenario with less favorable variable inputs than the first recession scenario—such as a lower economic growth rate value and a higher unemployment rate value."
+                        "Paragraph_txt": "<br />If you are changing the inputs of multiple variables in a single simulation to see how a portfolio responds to a particular set of inputs, you are conducting <em>scenario testing</em>. For example, if you want to see how your portfolio would respond during a recession, input values that reflect conditions during a recession—such as a low value for the economic growth rate and a high value for the unemployment rate. In addition, you could determine how your portfolio would respond if the recession worsens by testing another scenario with less favorable variable inputs than the first recession scenario—such as a lower economic growth rate value and a higher unemployment rate value."
                     }
                 ]
             },
@@ -551,7 +521,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment activity report</span> specifies the details of all investment portfolio transactions, including all asset acquisitions and all dispositions of assets from the portfolio through sales, prepayments, or repayment at maturity. The report also specifies realized and unrealized capital gain and loss status, estimated investment returns, and the portfolio’s risk metrics in relation to the company’s risk policies."
                     },
                     {
-                        "Paragraph_txt": "Although narrow in scope, the investment activity report is usually the most detailed and most frequently produced of the investment reports used for ALM purposes. For instance, for each newly acquired debt security, the investment activity report typically provides the asset’s yield, term to maturity, duration, and quality ratings."
+                        "Paragraph_txt": "<br />Although narrow in scope, the investment activity report is usually the most detailed and most frequently produced of the investment reports used for ALM purposes. For instance, for each newly acquired debt security, the investment activity report typically provides the asset’s yield, term to maturity, duration, and quality ratings."
                     }
                 ]
             },
@@ -667,10 +637,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">duration gap report</span> provides a snapshot of a company’s asset-liability match at the time of the report. Typically, the duration gap report is submitted quarterly to the company’s board of directors."
                     },
                     {
-                        "Paragraph_txt": "The report describes the results of duration analysis of the company’s assets and liabilities and discusses the insurer’s current exposure to cash-flow mismatches arising from changes in market interest rates. Even small changes in market interest rates can produce dramatic changes in the asset-liability duration gap, so information in the gap report is time-sensitive."
+                        "Paragraph_txt": "<br />The report describes the results of duration analysis of the company’s assets and liabilities and discusses the insurer’s current exposure to cash-flow mismatches arising from changes in market interest rates. Even small changes in market interest rates can produce dramatic changes in the asset-liability duration gap, so information in the gap report is time-sensitive."
                     },
                     {
-                        "Paragraph_txt": "A duration gap report can include (1) duration statistics for assets and liabilities portfolios and (2) actual portfolio durations as compared to target portfolio durations."
+                        "Paragraph_txt": "<br />A duration gap report can include (1) duration statistics for assets and liabilities portfolios and (2) actual portfolio durations as compared to target portfolio durations."
                     }
                 ]
             },

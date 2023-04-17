@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Real Estate and Mortgages",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another type of investment is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">real estate</span>, which is property that consists of land and any buildings or natural resources on it. Two examples of real estate assets are your house and your employer’s office building. Like a stock, real estate is considered an equity investment because it is an ownership asset."
                     },
                     {
-                        "Paragraph_txt": "However, real estate can also serve as the basis for a fixed-income investment. A property owner can secure a long-term loan, called a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortgage</span>, by pledging the real estate property as collateral. The borrower agrees to pay off the mortgage loan with regular payments of principal and interest. A mortgage is a debt for a borrower but an investment for a lender."
+                        "Paragraph_txt": "<br />However, real estate can also serve as the basis for a fixed-income investment. A property owner can secure a long-term loan, called a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortgage</span>, by pledging the real estate property as collateral. The borrower agrees to pay off the mortgage loan with regular payments of principal and interest. A mortgage is a debt for a borrower but an investment for a lender."
                     }
                 ]
             },
@@ -452,13 +422,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Real estate ownership provides benefits to investors. Owners can rent out properties and receive rental income. In addition, owners have the potential for capital gains if their properties appreciate in value. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">capital gain</span>is the amount by which the selling price of an investment is more than its purchase price. "
                     },
                     {
-                        "Paragraph_txt": "Real estate also helps with portfolio management. For example, real estate returns are not strongly linked to stock and bond returns. Therefore, real estate ownership diversifies an investment portfolio."
+                        "Paragraph_txt": "<br />Real estate also helps with portfolio management. For example, real estate returns are not strongly linked to stock and bond returns. Therefore, real estate ownership diversifies an investment portfolio."
                     },
                     {
-                        "Paragraph_txt": "Moreover, real estate properties are attractive assets for investors who want to hedge against inflation. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Inflation</span> is a prolonged rise in the average level of prices in an economy that decreases the purchasing power of the economy’s currency. Typically, real estate prices rise during periods of inflation, thus protecting the purchasing power of investors’ capital. You will read in Chapter 4 about the effect that inflation has on investment returns."
+                        "Paragraph_txt": "<br />Moreover, real estate properties are attractive assets for investors who want to hedge against inflation. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Inflation</span> is a prolonged rise in the average level of prices in an economy that decreases the purchasing power of the economy’s currency. Typically, real estate prices rise during periods of inflation, thus protecting the purchasing power of investors’ capital. You will read in Chapter 4 about the effect that inflation has on investment returns."
                     },
                     {
-                        "Paragraph_txt": "As with most investments, real estate also carries risks. Rental income can be unpredictable because property owners may experience vacancies in rentable properties. If an economic downturn occurs, real estate investments can be negatively affected by decreasing property valuations and increasing vacancies. In addition, real estate investments are relatively illiquid because they usually take longer to sell than other types of assets."
+                        "Paragraph_txt": "<br />As with most investments, real estate also carries risks. Rental income can be unpredictable because property owners may experience vacancies in rentable properties. If an economic downturn occurs, real estate investments can be negatively affected by decreasing property valuations and increasing vacancies. In addition, real estate investments are relatively illiquid because they usually take longer to sell than other types of assets."
                     }
                 ]
             },
@@ -553,10 +523,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most lenders for recourse as well as nonrecourse loans expect loan balances to be amortized at a steady rate. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Amortization</span> is the reduction of a debt by regular payments of principal and interest that result in full payment of the debt by the maturity date. Mortgage lenders develop <em>amortization schedules</em> for borrowers to repay loans by a given date."
                     },
                     {
-                        "Paragraph_txt": "Like bonds, the income collected from a mortgage can provide a predictable stream of cash flows that is a good match with an insurer’s obligations for products that provide periodic income payments, such as payout annuities. However, mortgages tend to be somewhat riskier investments than bonds, and are less liquid than bonds. Moreover, credit rating agencies do not rate mortgages. Therefore, mortgage investors may find it challenging to evaluate the risk of defaults by borrowers."
+                        "Paragraph_txt": "<br />Like bonds, the income collected from a mortgage can provide a predictable stream of cash flows that is a good match with an insurer’s obligations for products that provide periodic income payments, such as payout annuities. However, mortgages tend to be somewhat riskier investments than bonds, and are less liquid than bonds. Moreover, credit rating agencies do not rate mortgages. Therefore, mortgage investors may find it challenging to evaluate the risk of defaults by borrowers."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes characteristics of bonds, stocks, real estate, and mortgages. (Chapter 3 introduces mortgage-backed securities.)"
+                        "Paragraph_txt": "<br />The following chart summarizes characteristics of bonds, stocks, real estate, and mortgages. (Chapter 3 introduces mortgage-backed securities.)"
                     }
                 ]
             },
@@ -815,7 +785,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Residential mortgage lenders evaluate potential borrowers for their ability to repay loans. Lenders consider factors such as a borrower’s credit rating and current income to assess the borrower’s risk of defaulting on the loan."
                     },
                     {
-                        "Paragraph_txt": "Some borrowers repay their residential mortgage loans before they are scheduled to. When early repayment occurs, lenders receive fewer interest payments than anticipated. The risk associated with the early return of principal for a mortgage is called <em>prepayment risk</em>. Partly because of prepayment risk, insurers that invest in residential mortgages do not usually hold individual mortgage loans."
+                        "Paragraph_txt": "<br />Some borrowers repay their residential mortgage loans before they are scheduled to. When early repayment occurs, lenders receive fewer interest payments than anticipated. The risk associated with the early return of principal for a mortgage is called <em>prepayment risk</em>. Partly because of prepayment risk, insurers that invest in residential mortgages do not usually hold individual mortgage loans."
                     }
                 ]
             },
@@ -851,7 +821,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">commercial mortgage</span> is a loan secured by commercial real estate. Although commercial mortgages can be structured in a variety of ways, a typical commercial mortgage is a nonrecourse, fixed-rate loan with a partial repayment of interest and principal during the loan period, and a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">balloon payment</span>—a lump-sum payment of the final amount of the mortgage—on a specified date."
                     },
                     {
-                        "Paragraph_txt": "Most of the mortgages that insurers hold are commercial mortgages that finance retail stores, shopping centers, office buildings, factories, warehouses, hospitals, and apartment buildings."
+                        "Paragraph_txt": "<br />Most of the mortgages that insurers hold are commercial mortgages that finance retail stores, shopping centers, office buildings, factories, warehouses, hospitals, and apartment buildings."
                     }
                 ]
             },
@@ -949,22 +919,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investors purchase shares in a REIT and earn a share of the income that the REIT generates. By law, a REIT must distribute at least 90% of its taxable income to shareholders annually in the form of dividends. Thus, REITs are attractive to investors seeking income-generating investments. In addition, REIT dividends generally offer higher yields than stock dividends."
                     },
                     {
-                        "Paragraph_txt": "Another benefit for investors is that REITs use professional real estate managers, who know how to acquire, finance, develop, and renovate properties, and to negotiate leases to get the most return for shareholders."
+                        "Paragraph_txt": "<br />Another benefit for investors is that REITs use professional real estate managers, who know how to acquire, finance, develop, and renovate properties, and to negotiate leases to get the most return for shareholders."
                     },
                     {
-                        "Paragraph_txt": "Compared to other forms of real estate investment, REITs typically offer investors less opportunity for price appreciation. However, REITs provide liquidity and diversification benefits for real estate investors. Therefore, insurers and other institutional investors view REITs favorably."
+                        "Paragraph_txt": "<br />Compared to other forms of real estate investment, REITs typically offer investors less opportunity for price appreciation. However, REITs provide liquidity and diversification benefits for real estate investors. Therefore, insurers and other institutional investors view REITs favorably."
                     },
                     {
-                        "Paragraph_txt": "Some REITs are traded on securities exchanges. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">securities exchange</span> is an organized marketplace where members of the exchange buy and sell specific types of securities—such as common stocks and bonds. REITs traded on securities exchanges are called <em>public REITs</em>."
+                        "Paragraph_txt": "<br />Some REITs are traded on securities exchanges. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">securities exchange</span> is an organized marketplace where members of the exchange buy and sell specific types of securities—such as common stocks and bonds. REITs traded on securities exchanges are called <em>public REITs</em>."
                     },
                     {
-                        "Paragraph_txt": "Public REITs tend to be more liquid than <em>private REITs</em>, which are privately traded and limited to institutional investors and other affluent investors. The majority of REITs are private REITs."
+                        "Paragraph_txt": "<br />Public REITs tend to be more liquid than <em>private REITs</em>, which are privately traded and limited to institutional investors and other affluent investors. The majority of REITs are private REITs."
                     },
                     {
-                        "Paragraph_txt": "Because REITs invest in real estate and mortgages, they share similar risks. For example, a REIT that owns apartment buildings will earn less income if its apartments have to lower rental rates. In addition, REITs may be concentrated in a specific geographic area or type of property. For instance, a REIT that mostly owns regional shopping centers is at risk if such centers lose popularity with consumers."
+                        "Paragraph_txt": "<br />Because REITs invest in real estate and mortgages, they share similar risks. For example, a REIT that owns apartment buildings will earn less income if its apartments have to lower rental rates. In addition, REITs may be concentrated in a specific geographic area or type of property. For instance, a REIT that mostly owns regional shopping centers is at risk if such centers lose popularity with consumers."
                     },
                     {
-                        "Paragraph_txt": "The following chart compares the characteristics of each type of investment vehicle mentioned in this chapter. An expanded version of this chart appears at the end of Chapter 3."
+                        "Paragraph_txt": "<br />The following chart compares the characteristics of each type of investment vehicle mentioned in this chapter. An expanded version of this chart appears at the end of Chapter 3."
                     }
                 ]
             },

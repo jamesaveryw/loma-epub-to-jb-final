@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Modeling",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In addition to statistical analysis, a decision maker can improve available information by looking at the results of models. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">model</span> is an item or system that simulates something else. Models help insurers manage uncertainty by demonstrating the possible consequences of a variety of controllable and noncontrollable conditions. Using models, a decision maker can see how a particular solution will work to address a problem without actually implementing the solution."
                     },
                     {
-                        "Paragraph_txt": "In most cases, models call for extensive mathematics. Because they can be complex, insurance companies often rely on computer software to develop the models. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Computational modeling</span> is a form of modeling that uses the processing capabilities of IT to perform millions of simulations at once."
+                        "Paragraph_txt": "<br />In most cases, models call for extensive mathematics. Because they can be complex, insurance companies often rely on computer software to develop the models. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Computational modeling</span> is a form of modeling that uses the processing capabilities of IT to perform millions of simulations at once."
                     },
                     {
-                        "Paragraph_txt": "Experimenting within the artificial constructs of a model is much easier, less costly, and faster than experimenting by making real-world changes. The objective of modeling is not to produce a single forecast of future conditions, but to identify a number of “what if” situations that can help decision makers select the best decision alternative. Modeling can also generate possibilities that take into account decision criteria, decision constraints, and various influences on decisions called <em>states of nature</em>."
+                        "Paragraph_txt": "<br />Experimenting within the artificial constructs of a model is much easier, less costly, and faster than experimenting by making real-world changes. The objective of modeling is not to produce a single forecast of future conditions, but to identify a number of “what if” situations that can help decision makers select the best decision alternative. Modeling can also generate possibilities that take into account decision criteria, decision constraints, and various influences on decisions called <em>states of nature</em>."
                     }
                 ]
             },
@@ -336,6 +306,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 8.3&nbsp;Decision Alternatives</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "8-3figure.jpg",
@@ -354,7 +357,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 8.3</strong>&nbsp;Decision Alternatives",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -423,7 +426,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Decision makers need to evaluate the merits of each decision alternative in conjunction with other factors."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Decision criteria</span> are the simple-to-understand rules a decision maker uses to evaluate decision alternatives. They describe what the decision should achieve. To select an appropriate decision alternative, a decision maker considers the criteria as well as objectives and potential risks and rewards."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Decision criteria</span> are the simple-to-understand rules a decision maker uses to evaluate decision alternatives. They describe what the decision should achieve. To select an appropriate decision alternative, a decision maker considers the criteria as well as objectives and potential risks and rewards."
                     }
                 ]
             },
@@ -829,7 +832,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">States of nature</span> are potential influences on the outcome of a decision that are not under a decision maker’s control. States of nature contribute to uncertainty. The most obvious example of a state of nature is the weather: on a given day next week, it could be rainy, cloudy, or sunny. A person has no control over which state of nature exists on that day. States of nature in business can emerge from either the internal or the external business environment. As a result, decision makers must stay informed about surrounding circumstances and factor any variability into their decision making."
                     },
                     {
-                        "Paragraph_txt": "States of nature can be simple, such as the unpredictability of customers calling in on a given day. They can also be complex. According to research by LIMRA, over 50 percent of people in executive positions believe market conditions, which are outside a decision maker’s control, have the greatest impact on their organization.<span class=\"ens\" id=\"loma335-ch8-span-59\"> <span class=\"endnote hidden\" data-note=\"loma335-ch8-en1\" epub:type=\"noteref\" id=\"loma335-ch8-span-60\" role=\"doc-noteref\">1</span> </span>Market conditions include factors such as changing interest rates and new market entrants. In other words, interest rates and new market entrants can significantly influence whether economic conditions are favorable or unfavorable. Many computational models can incorporate the various conditions of a decision into the decision-making process."
+                        "Paragraph_txt": "<br />States of nature can be simple, such as the unpredictability of customers calling in on a given day. They can also be complex. According to research by LIMRA, over 50 percent of people in executive positions believe market conditions, which are outside a decision maker’s control, have the greatest impact on their organization.<span class=\"ens\" id=\"loma335-ch8-span-59\"> <span class=\"endnote hidden\" data-note=\"loma335-ch8-en1\" epub:type=\"noteref\" id=\"loma335-ch8-span-60\" role=\"doc-noteref\">1</span> </span>Market conditions include factors such as changing interest rates and new market entrants. In other words, interest rates and new market entrants can significantly influence whether economic conditions are favorable or unfavorable. Many computational models can incorporate the various conditions of a decision into the decision-making process."
                     }
                 ]
             },
@@ -1039,7 +1042,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Time-series models</span> estimate unknown future values based on known, historical data. Time-series models use time-series data to project future values. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Time-series data</span> is information about a variable over successive periods. The formula used to make the projection depends on the time-series model subtype."
                     },
                     {
-                        "Paragraph_txt": "The appropriate time-series model to use in any given situation depends primarily on the usual behavior of the unit of analysis, such as whether the value tends to vary or remain stable over time. The simplest time-series model is called the naïve time-series model. For a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">naïve time-series model</span>, a forecaster uses the data value(s) for the most recent period as the forecast value(s) for the next future period. Naïve time-series models are easy to use and can be useful for estimating values that don’t change much from period to period. However, if the value tends to show a less steady pattern, then this model will probably provide inaccurate results."
+                        "Paragraph_txt": "<br />The appropriate time-series model to use in any given situation depends primarily on the usual behavior of the unit of analysis, such as whether the value tends to vary or remain stable over time. The simplest time-series model is called the naïve time-series model. For a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">naïve time-series model</span>, a forecaster uses the data value(s) for the most recent period as the forecast value(s) for the next future period. Naïve time-series models are easy to use and can be useful for estimating values that don’t change much from period to period. However, if the value tends to show a less steady pattern, then this model will probably provide inaccurate results."
                     }
                 ]
             },
@@ -1192,7 +1195,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another simple form of time-series model is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">arithmetic average model</span>, which uses the arithmetic average of a series of values (the <em>mean</em>) from previous periods as the forecast value for the next future period. The arithmetic average model gives equal weight to all data periods, regardless of the age of those periods. In other words, using this model, old data is equally as important as new data. In many situations, recent data periods are more representative of future data than are earlier periods. For data that show increases or decreases in value over time, the arithmetic average model would provide a less accurate forecast than the naïve time-series model."
                     },
                     {
-                        "Paragraph_txt": "To find the arithmetic average for a given number, <em>n</em>, of sequential data observations, first add the <em>n</em> sequential results. Then divide the sum by <em>n</em>. The result is the arithmetic average. The result is used as the expected value of the next data point."
+                        "Paragraph_txt": "<br />To find the arithmetic average for a given number, <em>n</em>, of sequential data observations, first add the <em>n</em> sequential results. Then divide the sum by <em>n</em>. The result is the arithmetic average. The result is used as the expected value of the next data point."
                     }
                 ]
             },
@@ -1285,19 +1288,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "EndiFirst tracks the number of its customers who withdraw funds from its products and uses those results to forecast the number of customers who will make withdrawals in future months."
                     },
                     {
-                        "Paragraph_txt": "The following numbers of customers have withdrawn funds in the past four months:"
+                        "Paragraph_txt": "<br />The following numbers of customers have withdrawn funds in the past four months:"
                     },
                     {
-                        "Paragraph_txt": "March – 433 <br>April – 456 <br>May – 449 <br>June – 442 "
+                        "Paragraph_txt": "<br />March – 433 <br>April – 456 <br>May – 449 <br>June – 442 "
                     },
                     {
-                        "Paragraph_txt": "To find the arithmetic average for the four months,"
+                        "Paragraph_txt": "<br />To find the arithmetic average for the four months,"
                     },
                     {
-                        "Paragraph_txt": "1.&nbsp;&nbsp;&nbsp;&nbsp; Add together the four monthly totals: 433 + 456 + 449 + 442 = <strong>1,780</strong> "
+                        "Paragraph_txt": "<br />1.&nbsp;&nbsp;&nbsp;&nbsp; Add together the four monthly totals: 433 + 456 + 449 + 442 = <strong>1,780</strong> "
                     },
                     {
-                        "Paragraph_txt": "2.&nbsp;&nbsp;&nbsp;&nbsp; Divide the sum by the number of data observations: 1,780 / 4 = <strong>445</strong> "
+                        "Paragraph_txt": "<br />2.&nbsp;&nbsp;&nbsp;&nbsp; Divide the sum by the number of data observations: 1,780 / 4 = <strong>445</strong> "
                     }
                 ]
             },
@@ -1426,13 +1429,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">simple moving average model</span> is closely related to the arithmetic average model. The simple moving average model also requires finding the mean data value, but it considers only a specified number, <em>n</em>, of the most recent data values. Each time the model is used, the data value from the oldest period is eliminated, and the data value from the most recent period is included. A simple moving average forecast can more accurately reflect changing conditions than can the arithmetic average model."
                     },
                     {
-                        "Paragraph_txt": "To use the simple moving average model to forecast a future value, the forecaster must decide how many periods of data values to include in the model. For instance, in our earlier example, we presented data about the number of customers withdrawing funds over a four-month period. Using that data, we can use a four-period simple moving average to forecast the new value for each successive month. To use a four-month simple moving average to project a data point for July, consider the known data from March, April, May, and June. To use the model again for August, drop the value representing the oldest data point—in this case, March—and add the actual value for the most recent data point—in this case, July. Although you continue to use an average of four values, the four data points included move forward as time passes."
+                        "Paragraph_txt": "<br />To use the simple moving average model to forecast a future value, the forecaster must decide how many periods of data values to include in the model. For instance, in our earlier example, we presented data about the number of customers withdrawing funds over a four-month period. Using that data, we can use a four-period simple moving average to forecast the new value for each successive month. To use a four-month simple moving average to project a data point for July, consider the known data from March, April, May, and June. To use the model again for August, drop the value representing the oldest data point—in this case, March—and add the actual value for the most recent data point—in this case, July. Although you continue to use an average of four values, the four data points included move forward as time passes."
                     },
                     {
-                        "Paragraph_txt": "Not all moving average models use four periods. A moving average model could use three periods, and it would be known as a three-month moving average. Further, not all moving average models use months as the period under consideration. It could use days: A five-day moving average would use values for each of five days in each forecast. Each day, it would drop the value for the earliest day and add the value for the most recent day."
+                        "Paragraph_txt": "<br />Not all moving average models use four periods. A moving average model could use three periods, and it would be known as a three-month moving average. Further, not all moving average models use months as the period under consideration. It could use days: A five-day moving average would use values for each of five days in each forecast. Each day, it would drop the value for the earliest day and add the value for the most recent day."
                     },
                     {
-                        "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">weighted moving average time-series model</span> assigns relative weights to the data values used in the forecast. Typically, more recent data are assigned a greater weight or importance than are older data. As with the simple moving average model, when values from new data periods become available, new data are added to the model and the oldest data are removed."
+                        "Paragraph_txt": "<br />The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">weighted moving average time-series model</span> assigns relative weights to the data values used in the forecast. Typically, more recent data are assigned a greater weight or importance than are older data. As with the simple moving average model, when values from new data periods become available, new data are added to the model and the oldest data are removed."
                     }
                 ]
             },
@@ -1727,7 +1730,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "To develop a forecast for August on a later date, an analyst would include the <em>actual</em> July value (which might be different from the forecasted value) and exclude the March value. Then he would multiply the monthly data using the following weights: April, once; May, twice; June, four times; and July, eight times. Finally, the analyst would find the average of the four weighted values as before."
                     },
                     {
-                        "Paragraph_txt": "Figure 8.4 summarizes the types of time-series models covered here."
+                        "Paragraph_txt": "<br />Figure 8.4 summarizes the types of time-series models covered here."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 8.4 Time-Series Forecasting Models</strong>"
                     }
                 ]
             },
@@ -1750,7 +1786,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 8.4</strong> Time-Series Forecasting Models",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1852,7 +1888,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">causal model</span> uses historical data and other relevant variables as a basis for describing unknown future data points. In effect, causal models create projections using patterns. These projections can be created using analytical software. Causal models generate projections with excellent accuracy if the relationships between variables can be expressed in numerical terms."
                     },
                     {
-                        "Paragraph_txt": "Decision makers can use causal models when values show correlation. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Correlation</span>is a measure of whether, and how strongly, two values are related. Values <em>correlate </em>when a change in one value is associated with a consistent and equivalent change (positive or negative) in the other value. If two sets of values correlate, researchers are able to use the value of one dataset to project the value of the other dataset. "
+                        "Paragraph_txt": "<br />Decision makers can use causal models when values show correlation. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Correlation</span>is a measure of whether, and how strongly, two values are related. Values <em>correlate </em>when a change in one value is associated with a consistent and equivalent change (positive or negative) in the other value. If two sets of values correlate, researchers are able to use the value of one dataset to project the value of the other dataset. "
                     }
                 ]
             },
@@ -1945,19 +1981,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Correlation</strong> "
                     },
                     {
-                        "Paragraph_txt": "A sales manager finds that the sales of her product correlate to the level of disposable income in her target market."
+                        "Paragraph_txt": "<br />A sales manager finds that the sales of her product correlate to the level of disposable income in her target market."
                     },
                     {
-                        "Paragraph_txt": "A sales professional finds that his sales correlate to the number of people of a specified age in his assigned territory."
+                        "Paragraph_txt": "<br />A sales professional finds that his sales correlate to the number of people of a specified age in his assigned territory."
                     },
                     {
-                        "Paragraph_txt": "Economists generally believe that leading economic indicators correlate to the overall direction of the business cycle."
+                        "Paragraph_txt": "<br />Economists generally believe that leading economic indicators correlate to the overall direction of the business cycle."
                     },
                     {
-                        "Paragraph_txt": "Underwriters generally believe that weight, blood pressure, and smoking status correlate to a person’s longevity."
+                        "Paragraph_txt": "<br />Underwriters generally believe that weight, blood pressure, and smoking status correlate to a person’s longevity."
                     },
                     {
-                        "Paragraph_txt": "Studies show a correlation between policy loan activity and the prime interest rate. As the prime interest rate increases, policyowners with loan options are increasingly likely to take out policy loans."
+                        "Paragraph_txt": "<br />Studies show a correlation between policy loan activity and the prime interest rate. As the prime interest rate increases, policyowners with loan options are increasingly likely to take out policy loans."
                     }
                 ]
             },
@@ -2111,7 +2147,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "We should note that correlation does not prove causation. As an example of causation, problems with a website can <em>cause</em> customers not to use it. On the other hand, successful marketing might not be the <em>cause</em> of new website traffic. Customers might be searching for the product because someone they follow online complained about it. In other words, two factors occurring together does not always mean that one caused the other."
                     },
                     {
-                        "Paragraph_txt": "Companies can use causal models to project factors like unemployment in relation to future disability insurance claims. Industry experience shows that disability insurance claims tend to rise along with increases in unemployment in the economy. Using causal models, companies can develop insights about the relationship between unemployment levels and disability claims. They can then use that information to aid in planning for future disability claims."
+                        "Paragraph_txt": "<br />Companies can use causal models to project factors like unemployment in relation to future disability insurance claims. Industry experience shows that disability insurance claims tend to rise along with increases in unemployment in the economy. Using causal models, companies can develop insights about the relationship between unemployment levels and disability claims. They can then use that information to aid in planning for future disability claims."
                     }
                 ]
             },
@@ -2940,7 +2976,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Tania uses a financial model to produce estimates of product earnings that result in gains of between 5% and 7%."
                     },
                     {
-                        "Paragraph_txt": "By analyzing the output values in these ranges, Tania can advise colleagues about product pricing that would provide an adequate margin in case of unfavorable market conditions."
+                        "Paragraph_txt": "<br />By analyzing the output values in these ranges, Tania can advise colleagues about product pricing that would provide an adequate margin in case of unfavorable market conditions."
                     }
                 ]
             },
@@ -3477,7 +3513,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "The following payoff table for EndiFirst’s purchase decision shows a payoff for each pairing of a state of nature and a decision alternative. Positive amounts represent a desirable payoff. Negative amounts, in parentheses, indicate an undesirable payoff."
+                        "Paragraph_txt": "<br />The following payoff table for EndiFirst’s purchase decision shows a payoff for each pairing of a state of nature and a decision alternative. Positive amounts represent a desirable payoff. Negative amounts, in parentheses, indicate an undesirable payoff."
                     }
                 ]
             },
@@ -3659,10 +3695,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "According to the payoff table, if EndiFirst purchases System A and then experiences heavy customer demand, EndiFirst expects a positive payoff of $60,000. See that Row A represents System A, and Column 1 represents heavy demand. See also that the cell at the intersection of Row A and Column 1 contains the payoff of $60,000, which is the highest positive payoff in the table. On the other hand, if EndiFirst purchased System A and experienced light demand, then EndiFirst could face a negative payoff of $15,000."
                     },
                     {
-                        "Paragraph_txt": "Sometimes, a payoff table indicates a dominant decision alternative. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">dominant decision alternative</span>is one that consistently produces the best expected payoff for all states of nature. Finding a dominant decision alternative requires determining the best payoff for <em>each </em>state of nature. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">best payoff</span> in a table is the highest positive value in each state-of-nature column. If all states of nature indicate that the best payoff is connected with a single decision alternative, then that alternative is a dominant decision alternative. Otherwise, as in Payoff Table 1, there is no dominant decision alternative. "
+                        "Paragraph_txt": "<br />Sometimes, a payoff table indicates a dominant decision alternative. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">dominant decision alternative</span>is one that consistently produces the best expected payoff for all states of nature. Finding a dominant decision alternative requires determining the best payoff for <em>each </em>state of nature. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">best payoff</span> in a table is the highest positive value in each state-of-nature column. If all states of nature indicate that the best payoff is connected with a single decision alternative, then that alternative is a dominant decision alternative. Otherwise, as in Payoff Table 1, there is no dominant decision alternative. "
                     },
                     {
-                        "Paragraph_txt": "Payoff Table 2 illustrates a different scenario that does have a dominant decision alternative. The checkmarks denote the best outcome for each state of nature. In all three states of nature, System A generates the highest possible payoff. Therefore, System A is the dominant decision alternative."
+                        "Paragraph_txt": "<br />Payoff Table 2 illustrates a different scenario that does have a dominant decision alternative. The checkmarks denote the best outcome for each state of nature. In all three states of nature, System A generates the highest possible payoff. Therefore, System A is the dominant decision alternative."
                     }
                 ]
             },
@@ -3996,7 +4032,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A new customer experience initiative at EndiFirst led to increased sales over the past several months, as projected through earlier modeling. However, the initiative is so extensive that it takes up half of the work hours of several EndiFirst customer service representatives."
                     },
                     {
-                        "Paragraph_txt": "For the past year, many of these employees have had to come to the office on weekends, stay later during the week, and respond to emails during off hours. This situation is contributing to an increase in errors from customer service representatives, an effect the model did not project."
+                        "Paragraph_txt": "<br />For the past year, many of these employees have had to come to the office on weekends, stay later during the week, and respond to emails during off hours. This situation is contributing to an increase in errors from customer service representatives, an effect the model did not project."
                     }
                 ]
             },

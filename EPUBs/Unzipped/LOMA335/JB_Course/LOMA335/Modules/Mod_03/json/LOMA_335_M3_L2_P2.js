@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Statistical Analysis",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -268,7 +238,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Populations in Statistics</strong> "
                     },
                     {
-                        "Paragraph_txt": "All people in the United States <br>All customers in Region A between the ages of 40 and 60 <br>All households with four or more family members <br>All life insurance claims over the past year <br>All mobile app purchases since the app’s launch <br>All mobile app purchases during the month of February <br>All answers to question #5 on a life insurance application "
+                        "Paragraph_txt": "<br />All people in the United States <br>All customers in Region A between the ages of 40 and 60 <br>All households with four or more family members <br>All life insurance claims over the past year <br>All mobile app purchases since the app’s launch <br>All mobile app purchases during the month of February <br>All answers to question #5 on a life insurance application "
                     }
                 ]
             },
@@ -364,10 +334,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Measures of central tendency</span> are representative values that describe the values in the middle of a population. They allow decision makers to reduce large amounts of raw data into single representative values. For example, an analyst at EndiFirst could give managers the mean value for each item on the customer satisfaction survey to highlight each aspect’s overall performance. The three most common measures of central tendency are the mean, median, and mode."
                     },
                     {
-                        "Paragraph_txt": "<strong>Mean</strong> "
+                        "Paragraph_txt": "<br /><strong>Mean</strong> "
                     },
                     {
-                        "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mean</span> refers to the numerical average of a series of values. Knowing the mean value of a large number of observations can be a valuable tool. For example, knowing the mean number of claims processed in a typical month can help determine how many claim analysts an insurer needs."
+                        "Paragraph_txt": "<br />The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mean</span> refers to the numerical average of a series of values. Knowing the mean value of a large number of observations can be a valuable tool. For example, knowing the mean number of claims processed in a typical month can help determine how many claim analysts an insurer needs."
                     }
                 ]
             },
@@ -430,7 +400,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Mean Value of Yearly Life Claims Processed</strong> "
                     },
                     {
-                        "Paragraph_txt": "Six years ago, EndiFirst expanded its offerings to a new region. Satish, the claims manager, wants to examine claims data since that time. He looks at the number of claims for each of the past six years."
+                        "Paragraph_txt": "<br />Six years ago, EndiFirst expanded its offerings to a new region. Satish, the claims manager, wants to examine claims data since that time. He looks at the number of claims for each of the past six years."
                     }
                 ]
             },
@@ -718,7 +688,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "= 23,970 ÷ 6"
                     },
                     {
-                        "Paragraph_txt": "= 3,995"
+                        "Paragraph_txt": "<br />= 3,995"
                     }
                 ]
             },
@@ -781,13 +751,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although the mean is easy to calculate, its accuracy as a measure of central tendency can be limited if the population includes <span class=\"keyterm\" tabindex=\"0\" role=\"button\">outliers</span>—extremely high or low values that are not representative of other values—like Year 6, in which almost 6,600 claims were processed."
                     },
                     {
-                        "Paragraph_txt": "<strong>Median</strong> "
+                        "Paragraph_txt": "<br /><strong>Median</strong> "
                     },
                     {
-                        "Paragraph_txt": "To gain insights about a dataset’s outliers, Satish might want to calculate the median. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">median</span> is the middle value in a set of values arranged in numerical order. The median can describe economic characteristics, such as median family income, median household size, or median education level. The median is useful when making decisions influenced by population characteristics, such as decisions about marketing materials."
+                        "Paragraph_txt": "<br />To gain insights about a dataset’s outliers, Satish might want to calculate the median. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">median</span> is the middle value in a set of values arranged in numerical order. The median can describe economic characteristics, such as median family income, median household size, or median education level. The median is useful when making decisions influenced by population characteristics, such as decisions about marketing materials."
                     },
                     {
-                        "Paragraph_txt": "To find the median, (1) arrange the values in the population in numerical order, and (2) count the number of values. If the population contains an odd number of values, then the median is the middle value and has an equal number of values above and below it. If the population has an even number of values, the median is determined by calculating the average of the two middle values."
+                        "Paragraph_txt": "<br />To find the median, (1) arrange the values in the population in numerical order, and (2) count the number of values. If the population contains an odd number of values, then the median is the middle value and has an equal number of values above and below it. If the population has an even number of values, the median is determined by calculating the average of the two middle values."
                     }
                 ]
             },
@@ -850,16 +820,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Median </strong> "
                     },
                     {
-                        "Paragraph_txt": "Satish wants to know the median value of claims for the past six years. Note that the values in the population are already arranged in numerical order."
+                        "Paragraph_txt": "<br />Satish wants to know the median value of claims for the past six years. Note that the values in the population are already arranged in numerical order."
                     },
                     {
-                        "Paragraph_txt": "Year 1: 2,820 <br>Year 2: 2,820 <br><strong>Year 3: 3,690&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\"></span><span style=\"font-family:verdana,geneva,sans-serif\">◄</span><span style=\"font-family:verdana,geneva,sans-serif\"></span><br>Year 4: 4,010&nbsp;◄</strong> <br>Year 5: 4,050 <br>Year 6: 6,580 "
+                        "Paragraph_txt": "<br />Year 1: 2,820 <br>Year 2: 2,820 <br><strong>Year 3: 3,690&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\"></span><span style=\"font-family:verdana,geneva,sans-serif\">◄</span><span style=\"font-family:verdana,geneva,sans-serif\"></span><br>Year 4: 4,010&nbsp;◄</strong> <br>Year 5: 4,050 <br>Year 6: 6,580 "
                     },
                     {
-                        "Paragraph_txt": "In this case, the population has six values—one for each year. Because six is an even number, Satish needs to find the average of the two middle values—3,690 and 4,010."
+                        "Paragraph_txt": "<br />In this case, the population has six values—one for each year. Because six is an even number, Satish needs to find the average of the two middle values—3,690 and 4,010."
                     },
                     {
-                        "Paragraph_txt": "The average of these two values is 3,850 (3,690 + 4,010 = 7,700; 7,700 ÷ 2 = 3,850). Therefore, the median value of the population is 3,850"
+                        "Paragraph_txt": "<br />The average of these two values is 3,850 (3,690 + 4,010 = 7,700; 7,700 ÷ 2 = 3,850). Therefore, the median value of the population is 3,850"
                     }
                 ]
             },
@@ -955,16 +925,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Unlike the mean, the median is not an arithmetic average of all the values in a population; it is simply the value that falls in the middle. The primary drawback of using the median as a measure of central tendency is that it ignores all the other values. If the population contains outliers or values are not evenly distributed, the median won’t accurately represent all the values."
                     },
                     {
-                        "Paragraph_txt": "<strong>Mode</strong> "
+                        "Paragraph_txt": "<br /><strong>Mode</strong> "
                     },
                     {
-                        "Paragraph_txt": "Sometimes it’s more helpful to know the most common value in a population rather than the mean or median value. The statistical measure that identifies the value that appears most often in a population is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mode</span>. Finding the mode is easier with the population values listed in numerical order."
+                        "Paragraph_txt": "<br />Sometimes it’s more helpful to know the most common value in a population rather than the mean or median value. The statistical measure that identifies the value that appears most often in a population is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mode</span>. Finding the mode is easier with the population values listed in numerical order."
                     },
                     {
-                        "Paragraph_txt": "The mode can help to identify baseline values. For example, an insurer might want to know the most common amount of coverage its life insurance policies provide. Knowing this information could make it easier for the insurer to focus its marketing efforts on the types of products most likely to generate new business. An insurer might also want to know, for example, the most common time of day when people make claims in order to anticipate daily staffing needs."
+                        "Paragraph_txt": "<br />The mode can help to identify baseline values. For example, an insurer might want to know the most common amount of coverage its life insurance policies provide. Knowing this information could make it easier for the insurer to focus its marketing efforts on the types of products most likely to generate new business. An insurer might also want to know, for example, the most common time of day when people make claims in order to anticipate daily staffing needs."
                     },
                     {
-                        "Paragraph_txt": "Using our example, it’s easy to see that 2,820 appears more often than any other value:"
+                        "Paragraph_txt": "<br />Using our example, it’s easy to see that 2,820 appears more often than any other value:"
                     }
                 ]
             },
@@ -1027,7 +997,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Mode</strong> "
                     },
                     {
-                        "Paragraph_txt": "<strong>Year 1: 2,820&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\">◄</span><br>Year 2: 2,820&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\">◄</span></strong> <br>Year 3: 3,690 <br>Year 4: 4,010 <br>Year 5: 4,050 <br>Year 6: 6,580 "
+                        "Paragraph_txt": "<br /><strong>Year 1: 2,820&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\">◄</span><br>Year 2: 2,820&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\">◄</span></strong> <br>Year 3: 3,690 <br>Year 4: 4,010 <br>Year 5: 4,050 <br>Year 6: 6,580 "
                     }
                 ]
             },
@@ -1090,7 +1060,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "However, the value 2,820 represents only the first two years and offers no information about the values in the middle or at the high end of the population. Therefore, this mode is not a useful measure for decision making."
                     },
                     {
-                        "Paragraph_txt": "It’s possible to have no mode if no number appears more than once. It’s also possible to have more than one mode if more than one number appears at the same higher frequency (say, if three numbers appear twice, while all other numbers appear once). Too many modes or no mode at all make the mode a less useful value for decision making. Figure 8.1 provides a summary of these three measures of central tendency."
+                        "Paragraph_txt": "<br />It’s possible to have no mode if no number appears more than once. It’s also possible to have more than one mode if more than one number appears at the same higher frequency (say, if three numbers appear twice, while all other numbers appear once). Too many modes or no mode at all make the mode a less useful value for decision making. Figure 8.1 provides a summary of these three measures of central tendency."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 8.1 The Three Measures of Central Tendency</strong>"
                     }
                 ]
             },
@@ -1113,7 +1116,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 8.1</strong> The Three Measures of Central Tendency",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1215,10 +1218,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Measures of dispersion</span> are representative values that describe the distribution of data around specified central values. The three most common measures of dispersion are the range, variance, and standard deviation."
                     },
                     {
-                        "Paragraph_txt": "<strong>Range</strong> "
+                        "Paragraph_txt": "<br /><strong>Range</strong> "
                     },
                     {
-                        "Paragraph_txt": "The simplest measure of dispersion is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">range</span>, which is the difference between the highest and lowest values in a particular population. Consider EndiFirst’s claim data. Because values in the dataset are listed in numerical order from lowest to highest, it’s easy to calculate the range: simply subtract the lowest number from the highest number."
+                        "Paragraph_txt": "<br />The simplest measure of dispersion is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">range</span>, which is the difference between the highest and lowest values in a particular population. Consider EndiFirst’s claim data. Because values in the dataset are listed in numerical order from lowest to highest, it’s easy to calculate the range: simply subtract the lowest number from the highest number."
                     }
                 ]
             },
@@ -1281,7 +1284,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Range</strong> "
                     },
                     {
-                        "Paragraph_txt": "<strong>Year 1: 2,820&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\">◄</span></strong> <br>Year 2: 2,820 <br>Year 3: 3,690 <br>Year 4: 4,010 <br>Year 5: 4,050 <br><strong>Year 6: 6,580&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\">◄</span></strong> "
+                        "Paragraph_txt": "<br /><strong>Year 1: 2,820&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\">◄</span></strong> <br>Year 2: 2,820 <br>Year 3: 3,690 <br>Year 4: 4,010 <br>Year 5: 4,050 <br><strong>Year 6: 6,580&nbsp;<span style=\"font-family:verdana,geneva,sans-serif\">◄</span></strong> "
                     }
                 ]
             },
@@ -1765,10 +1768,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In general, larger variances indicate that the values in a population are further from the mean and more dispersed. Smaller variances indicate that values in a population are closer to the mean and less dispersed. Variance isn’t the most accurate measure of dispersion, however. Because the variance is based on squared distances, it isn’t on the same numerical scale as the raw data. Therefore, the variance doesn’t provide information about the actual distance between different data items or between individual data values and the mean. After calculating the variance, Satish should determine the standard deviation, which will resolve the problem of numerical scale."
                     },
                     {
-                        "Paragraph_txt": "<strong>Standard Deviation</strong> "
+                        "Paragraph_txt": "<br /><strong>Standard Deviation</strong> "
                     },
                     {
-                        "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">standard deviation</span> of a population is the square root of the variance. The square root of a number is the value that, when multiplied by itself, produces the number. For example, the square root of 25 is 5, because 5 x 5 = 25. In effect, calculating the standard deviation of a population reverses the process used to calculate the variance and thus puts the results back in the same numerical scale as the raw data, providing a more intuitive picture of variation."
+                        "Paragraph_txt": "<br />The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">standard deviation</span> of a population is the square root of the variance. The square root of a number is the value that, when multiplied by itself, produces the number. For example, the square root of 25 is 5, because 5 x 5 = 25. In effect, calculating the standard deviation of a population reverses the process used to calculate the variance and thus puts the results back in the same numerical scale as the raw data, providing a more intuitive picture of variation."
                     }
                 ]
             },
@@ -1861,7 +1864,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For the population Satish is examining, the standard deviation is&nbsp; <img class=\"kInteractive image inline\" data-kotobee=\"Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVRYXEEAJREdGDAYBCg0YCjUXBFVjDgc5Bw0bBwpRXVBfEVdQBFlRWl0RBw4HHAwECEAAU0dOTV1AAgEYBgwAQBcXTVBGWgsbBkpGXVgLEElJTVBGWhwGEgMRSlBXX0tQDRlYTV1AAgITMAQMCUBLABgRTV1AUQEBAw5JQBcXERQAAEpAWVVRXVBLSwoLT1odBQgBRBwFHRZLFUtCREdGTVg2\" height=\"16\" src=\"../../imgs/sqrt.png\" alt=\"square root\" style=\"margin: 5px auto; position: static; transition: none;\">or 1,261, rounded to the nearest whole number. "
                     },
                     {
-                        "Paragraph_txt": "This number tells Satish how much claims volume tends to vary from the mean, which can help Satish determine the degree of uncertainty he should account for when looking at incoming call data."
+                        "Paragraph_txt": "<br />This number tells Satish how much claims volume tends to vary from the mean, which can help Satish determine the degree of uncertainty he should account for when looking at incoming call data."
                     }
                 ]
             },
@@ -1924,10 +1927,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "The standard deviation assumes that values are distributed normally (in other words, <em>evenly dispersed</em>). In general, the larger the standard deviation, the further the values are from the mean (in other words, the more <em>dispersed</em> the values in the population). Smaller standard deviations indicate that values in the population are closer to the mean and less dispersed."
                     },
                     {
-                        "Paragraph_txt": "Insurance companies frequently use the standard deviation to evaluate risk factors such as mortality risk, market risk, interest-rate risk, or customer behavior risk. For example, insurers can determine their likely claim experience by using the standard deviation to identify the distribution of customer ages and comparing the results to information in mortality tables. This can help insurers frame financial decision-making."
+                        "Paragraph_txt": "<br />Insurance companies frequently use the standard deviation to evaluate risk factors such as mortality risk, market risk, interest-rate risk, or customer behavior risk. For example, insurers can determine their likely claim experience by using the standard deviation to identify the distribution of customer ages and comparing the results to information in mortality tables. This can help insurers frame financial decision-making."
                     },
                     {
-                        "Paragraph_txt": "Figure 8.2 provides a summary of the three measures of dispersion discussed here."
+                        "Paragraph_txt": "<br />Figure 8.2 provides a summary of the three measures of dispersion discussed here."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 8.2 The Three Measures of Dispersion</strong>"
                     }
                 ]
             },
@@ -1950,7 +1986,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 8.2</strong> The Three Measures of Dispersion",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -2487,13 +2523,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Analyzing an entire population of data isn’t always practical. To gather similar information based on a smaller number of values, insurers can analyze a <em>sample</em> of the population. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Sampling</span> is a statistical technique used to examine a portion of a given group in order to develop conclusions about the entire group. Insurers use samples to perform inferential statistics. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Inferential statistics</span> allow a decision maker to draw conclusions about a large population based on the sample group."
                     },
                     {
-                        "Paragraph_txt": "Inferential statistics are not as precise as descriptive statistics, but they can provide important information using fewer resources. The accuracy of inferential statistics depends in large part on whether the sample is representative of the population. The more representative the sample data is of the underlying population of data, the more accurate the conclusions drawn from sample data are likely to be."
+                        "Paragraph_txt": "<br />Inferential statistics are not as precise as descriptive statistics, but they can provide important information using fewer resources. The accuracy of inferential statistics depends in large part on whether the sample is representative of the population. The more representative the sample data is of the underlying population of data, the more accurate the conclusions drawn from sample data are likely to be."
                     },
                     {
-                        "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">law of large numbers</span> states that, under normal circumstances, the more times a person observes a particular event, the more likely the observations will approximate the “true” probability of the event. A coin toss is a prime example of this concept. The more times you toss a coin, the more likely you are to see an approximately equal number of heads and tails."
+                        "Paragraph_txt": "<br />The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">law of large numbers</span> states that, under normal circumstances, the more times a person observes a particular event, the more likely the observations will approximate the “true” probability of the event. A coin toss is a prime example of this concept. The more times you toss a coin, the more likely you are to see an approximately equal number of heads and tails."
                     },
                     {
-                        "Paragraph_txt": "The law of large numbers has important applications for insurance. Insurance companies rely on the law of large numbers when they conduct financial audits, interpret results from customer surveys, or use <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortality tables</span>, which present the number of deaths projected to occur within a given group of people during a specified period of time."
+                        "Paragraph_txt": "<br />The law of large numbers has important applications for insurance. Insurance companies rely on the law of large numbers when they conduct financial audits, interpret results from customer surveys, or use <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortality tables</span>, which present the number of deaths projected to occur within a given group of people during a specified period of time."
                     }
                 ]
             },
@@ -2529,7 +2565,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "To ensure that a sample results in accurate inferences, insurers use random sampling.<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Random sampling</span> is a technique in which each item of a population has a determinable chance, or probability, of selection. Using random sampling enables a company to ensure that the values included in a sample are representative of all the values in the population. Common types of random sampling are simple random sampling, systematic random sampling, and stratified random sampling."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Simple random sampling</span> is a method of random sampling in which every member of the data population has an equal chance of being included in the sample population. If a population is well defined and the number of elements needed for a sample is relatively small, a researcher can perform sampling using a table of random numbers or random number generating software."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Simple random sampling</span> is a method of random sampling in which every member of the data population has an equal chance of being included in the sample population. If a population is well defined and the number of elements needed for a sample is relatively small, a researcher can perform sampling using a table of random numbers or random number generating software."
                     }
                 ]
             },
@@ -2951,7 +2987,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Lisa, the assistant claim manager, started reviewing call recordings at the beginning of the 1,000-item call log and reviewed every 10th call. This means she selected calls #10, #20, #30, and so on."
                     },
                     {
-                        "Paragraph_txt": "When Lisa reached the end of the call log, she had selected all 100 records needed for her sample (1,000 ÷ 10 = 100)."
+                        "Paragraph_txt": "<br />When Lisa reached the end of the call log, she had selected all 100 records needed for her sample (1,000 ÷ 10 = 100)."
                     }
                 ]
             },
@@ -3104,7 +3140,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Suppose Lisa sampled 100 of the 1,000 calls in the log by reviewing every other recorded call. In this case, Lisa would have selected 100 records when she had reached only the 200th record (100 × 2 = 200)."
                     },
                     {
-                        "Paragraph_txt": "If the call logs were in order by date, those at the beginning of the month would be overrepresented, and those at the end of the month would be ignored. If Lisa had begun selecting calls near the middle of the log, she would have ignored calls at the beginning and end of the month."
+                        "Paragraph_txt": "<br />If the call logs were in order by date, those at the beginning of the month would be overrepresented, and those at the end of the month would be ignored. If Lisa had begun selecting calls near the middle of the log, she would have ignored calls at the beginning and end of the month."
                     }
                 ]
             },
@@ -3167,7 +3203,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "To increase the likelihood of selecting a representative sample, analysts should (1) select an appropriate sample size, (2) select a random interval size, (3) choose a random starting point for sampling, and (4) proceed through the entire population."
                     },
                     {
-                        "Paragraph_txt": "Simple random sampling and systematic random sampling are usually most effective when population elements are <em>homogeneous</em>—that is, when the elements in the population are similar. Simple and systematic random sampling don’t work as well if the population is varied or segmented."
+                        "Paragraph_txt": "<br />Simple random sampling and systematic random sampling are usually most effective when population elements are <em>homogeneous</em>—that is, when the elements in the population are similar. Simple and systematic random sampling don’t work as well if the population is varied or segmented."
                     }
                 ]
             },
@@ -3260,10 +3296,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "EndiFirst has 140,000 customers in four regions, as follows:"
                     },
                     {
-                        "Paragraph_txt": "Region A: 89,500 <br>Region B: 5,000 <br>Region C: 11,500 <br>Region D: 34,000 "
+                        "Paragraph_txt": "<br />Region A: 89,500 <br>Region B: 5,000 <br>Region C: 11,500 <br>Region D: 34,000 "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst’s researchers use simple random sampling to administer customer surveys to 1,000 of these customers. Using this approach, simple chance could lead to a sample that disproportionately includes Region C opinions. As a result, the views of Region C customers would be overrepresented in the final data, even though they don’t necessarily represent the views of the customers from other regions."
+                        "Paragraph_txt": "<br />EndiFirst’s researchers use simple random sampling to administer customer surveys to 1,000 of these customers. Using this approach, simple chance could lead to a sample that disproportionately includes Region C opinions. As a result, the views of Region C customers would be overrepresented in the final data, even though they don’t necessarily represent the views of the customers from other regions."
                     }
                 ]
             },
@@ -3702,10 +3738,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Unlike random sampling, nonrandom sampling does not randomize sample selection. Instead, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">nonrandom sampling</span> bases sample selection on specific, personally selected criteria."
                     },
                     {
-                        "Paragraph_txt": "Because using specific selection criteria excludes some members of the population, not every member has an equal or even a predetermined probability of being selected. Thus, nonrandom sampling is less reliable than random sampling for predicting the characteristics of a population based on the characteristics of the sample."
+                        "Paragraph_txt": "<br />Because using specific selection criteria excludes some members of the population, not every member has an equal or even a predetermined probability of being selected. Thus, nonrandom sampling is less reliable than random sampling for predicting the characteristics of a population based on the characteristics of the sample."
                     },
                     {
-                        "Paragraph_txt": "Nonrandom sampling can be useful despite its limitations. Insurers often use nonrandom sampling when there is reason to believe that examining only a few clearly defined members of a population can identify a “typical” member."
+                        "Paragraph_txt": "<br />Nonrandom sampling can be useful despite its limitations. Insurers often use nonrandom sampling when there is reason to believe that examining only a few clearly defined members of a population can identify a “typical” member."
                     }
                 ]
             },
@@ -3798,7 +3834,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although employees created the survey to evaluate overall customer satisfaction, they sent the survey only to EndiFirst customers who have called into the office in the past two months."
                     },
                     {
-                        "Paragraph_txt": "The employees decided these customers know most about the <em>current quality</em> of customer service and are still relatively representative of EndiFirst’s entire customer population."
+                        "Paragraph_txt": "<br />The employees decided these customers know most about the <em>current quality</em> of customer service and are still relatively representative of EndiFirst’s entire customer population."
                     }
                 ]
             },
@@ -3861,13 +3897,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Statistical validity</span> is the degree to which an observed result can be relied upon and not attributed to random error in sampling or measurement. Decision makers can improve the accuracy of results drawn from sample data by ensuring that the observed results are statistically valid. Validity of sample results depends largely on large sample sizes. Other factors include the degree of confidence and the margin of error."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Degree of confidence</span> refers to the likelihood that a calculated value accurately predicts the true value. For example, a 95 percent degree of confidence indicates a probability of 95 percent that calculated results are accurate."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Degree of confidence</span> refers to the likelihood that a calculated value accurately predicts the true value. For example, a 95 percent degree of confidence indicates a probability of 95 percent that calculated results are accurate."
                     },
                     {
-                        "Paragraph_txt": "In general, the larger the sample size, the higher the degree of confidence. If the risk involved with a decision based on sample data is low, managers may be able to select a relatively small sample. If the risk involved with a decision is high, managers may need to increase the size of the sample to increase the degree of confidence."
+                        "Paragraph_txt": "<br />In general, the larger the sample size, the higher the degree of confidence. If the risk involved with a decision based on sample data is low, managers may be able to select a relatively small sample. If the risk involved with a decision is high, managers may need to increase the size of the sample to increase the degree of confidence."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Margin of error</span> indicates the likely range of inaccuracy of a given sample result relative to a result based on the total population. In other words, the margin of error indicates how accurately a given sample represents the population. In most cases, the larger the sample size, the smaller the margin of error. In general, researchers consider a margin of error of 3 percent acceptable. If the margin of error is greater than 3 percent, increasing the sample size might be necessary."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Margin of error</span> indicates the likely range of inaccuracy of a given sample result relative to a result based on the total population. In other words, the margin of error indicates how accurately a given sample represents the population. In most cases, the larger the sample size, the smaller the margin of error. In general, researchers consider a margin of error of 3 percent acceptable. If the margin of error is greater than 3 percent, increasing the sample size might be necessary."
                     }
                 ]
             },
@@ -4016,7 +4052,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<em>How would you improve EndiFirst’s poor customer service? </em>is a question that might elicit response bias because it does not define “poor customer service,” identify what aspect is being evaluated, or provide a rating scale. As a result, survey participants have to base their answers on personal criteria."
                     },
                     {
-                        "Paragraph_txt": "The question also leads participants to think that EndiFirst’s customer service is poor. How should a customer answer who believes the service is excellent?"
+                        "Paragraph_txt": "<br />The question also leads participants to think that EndiFirst’s customer service is poor. How should a customer answer who believes the service is excellent?"
                     }
                 ]
             },
@@ -4387,7 +4423,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Other types of statistical bias can affect both population and sample data. Examples of these are measurement bias, cultural bias, attention bias, and social acceptance bias."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Measurement bias</span> refers to a systematic error arising from the instruments used for data collection."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Measurement bias</span> refers to a systematic error arising from the instruments used for data collection."
                     }
                 ]
             },

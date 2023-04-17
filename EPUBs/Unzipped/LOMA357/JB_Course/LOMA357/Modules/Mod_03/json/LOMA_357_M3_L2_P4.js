@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Securities Trading",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An investment team’s traders execute orders from portfolio managers to purchase or sell publicly traded securities for portfolios. As you read in Chapter 4, trade prices and yields are some of the important factors that affect investment returns. Therefore, a trader’s skill in executing trades at the best possible prices contributes to the investment team’s ability to earn returns that achieve portfolio return objectives."
                     },
                     {
-                        "Paragraph_txt": "Many aspects of securities trading are technical and beyond the scope of this text. However, we cover here a few basic concepts related to bond yields and stock prices to demonstrate how traders use this information."
+                        "Paragraph_txt": "<br />Many aspects of securities trading are technical and beyond the scope of this text. However, we cover here a few basic concepts related to bond yields and stock prices to demonstrate how traders use this information."
                     }
                 ]
             },
@@ -181,10 +151,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Many institutional bond traders buy and sell publicly traded bonds in the secondary market. Traders execute trades either through bond brokers or directly with other institutional traders by means of electronic trading platforms."
                     },
                     {
-                        "Paragraph_txt": "Yields are typically more useful than prices to evaluate potential bond returns. (Remember that a bond’s rising price causes its yield to fall, and vice versa.) Therefore, bond traders pay attention to yields when trying to execute trades at the most favorable prices for their portfolios."
+                        "Paragraph_txt": "<br />Yields are typically more useful than prices to evaluate potential bond returns. (Remember that a bond’s rising price causes its yield to fall, and vice versa.) Therefore, bond traders pay attention to yields when trying to execute trades at the most favorable prices for their portfolios."
                     },
                     {
-                        "Paragraph_txt": "Traders evaluating a particular bond’s yield often look at its yield relative to other bonds, or the <em>yield spread</em>. In this context, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">yield spread</span>is the difference in yields between two debt instruments. For example, if one bond is yielding 7% and another is yielding 4%, the yield spread is 3% (7% – 4%). The equation for calculating the yield spread is "
+                        "Paragraph_txt": "<br />Traders evaluating a particular bond’s yield often look at its yield relative to other bonds, or the <em>yield spread</em>. In this context, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">yield spread</span>is the difference in yields between two debt instruments. For example, if one bond is yielding 7% and another is yielding 4%, the yield spread is 3% (7% – 4%). The equation for calculating the yield spread is "
                     }
                 ]
             },
@@ -383,7 +353,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because the differences between two yields can be smaller than 1%, traders usually quote the yield spread in terms of basis points. A <em>basis point (bp)</em> is one-hundredth of a percent, or 0.01%. For example, 0.2% equals 20 basis points, 1% equals 100 basis points, and 1.5% equals 150 basis points."
                     },
                     {
-                        "Paragraph_txt": "When quoting information about bonds, the yield spread is usually expressed relative to a bond that is common to a particular market—often a government bond. For instance, a bond with a yield spread of 120 basis points over the yield on a given U.S. Treasury bond, symbolized as T, is quoted as"
+                        "Paragraph_txt": "<br />When quoting information about bonds, the yield spread is usually expressed relative to a bond that is common to a particular market—often a government bond. For instance, a bond with a yield spread of 120 basis points over the yield on a given U.S. Treasury bond, symbolized as T, is quoted as"
                     }
                 ]
             },
@@ -685,7 +655,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Market prices and yields for bonds respond to movements in market interest rates, as well as changes in issuer credit ratings. Bond yields do not change at a uniform rate across the market, so yield spreads between any two particular bonds can fluctuate. An increasing yield spread is called a <em>widening spread</em>; a decreasing spread is called a <em>narrowing spread</em> or <em>tightening spread</em>."
                     },
                     {
-                        "Paragraph_txt": "Many traders monitor the changes in the yield spreads between two comparable bonds with different credit ratings. In such cases, the yield spread is often called the <em>credit spread</em>. If the credit spread is widening, then traders interpret that to mean that the lower-rated bond has grown riskier relative to the higher-rated bond. Likewise, a tightening spread indicates that the lower-rated bond is less risky than it appeared before."
+                        "Paragraph_txt": "<br />Many traders monitor the changes in the yield spreads between two comparable bonds with different credit ratings. In such cases, the yield spread is often called the <em>credit spread</em>. If the credit spread is widening, then traders interpret that to mean that the lower-rated bond has grown riskier relative to the higher-rated bond. Likewise, a tightening spread indicates that the lower-rated bond is less risky than it appeared before."
                     }
                 ]
             },
@@ -748,10 +718,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A bond trader is monitoring the credit spread of two corporate bonds over a short period. At first, the investment-grade bond yields 5% and the high-yield bond yields 7%. The credit spread is 2% (7% – 5%)."
                     },
                     {
-                        "Paragraph_txt": "One month later, the trader sees that the yields of both bonds have changed. As a result, the credit spread has also changed. The investment-grade bond now yields 4.5% and the high-yield bond yields 7.5%. The credit spread is now 3% (7.5% – 4.5%)."
+                        "Paragraph_txt": "<br />One month later, the trader sees that the yields of both bonds have changed. As a result, the credit spread has also changed. The investment-grade bond now yields 4.5% and the high-yield bond yields 7.5%. The credit spread is now 3% (7.5% – 4.5%)."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: After one month, the credit spread increased, meaning the high-yield bond has grown riskier relative to the investment-grade bond. In addition, because bond yields and prices have an inverse relationship, the trader knows that the investment-grade bond’s price rose and the high-yield bond’s price fell over the last month."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: After one month, the credit spread increased, meaning the high-yield bond has grown riskier relative to the investment-grade bond. In addition, because bond yields and prices have an inverse relationship, the trader knows that the investment-grade bond’s price rose and the high-yield bond’s price fell over the last month."
                     }
                 ]
             },
@@ -1085,7 +1055,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The bid-ask spread can fluctuate throughout the day for any particular stock. For instance, an institutional investor could place a large purchase order, which in turn creates upward pressure on the bid prices. If the ask prices remain stable, the bid-ask spread will narrow."
                     },
                     {
-                        "Paragraph_txt": "The size of the bid-ask spread affects a trade’s <em>transaction costs</em>, which buyers and sellers incur to complete trades. Although broker commissions are a significant transaction cost, the size of the bid-ask spread affects the price that a buyer or seller receives in a trade. For stock buyers, wider spreads increase the cost of acquiring shares."
+                        "Paragraph_txt": "<br />The size of the bid-ask spread affects a trade’s <em>transaction costs</em>, which buyers and sellers incur to complete trades. Although broker commissions are a significant transaction cost, the size of the bid-ask spread affects the price that a buyer or seller receives in a trade. For stock buyers, wider spreads increase the cost of acquiring shares."
                     }
                 ]
             },
@@ -1148,7 +1118,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Isabelle Alda, a securities trader, receives an order to purchase 100 shares of Woxway Company by the end of the day. Woxway shares have a wide bid-ask spread. At the time Isabelle receives the order, the highest bid price for Woxway shares is $30.50 per share and the lowest ask price is $34.50, resulting in a bid-ask spread of $4 ($34.50 – $30.50). Isabelle submits a bid to buy 100 shares at $30 per share. As the end of the day approaches, the highest bid price is $30 per share and the lowest ask price is $33 per share. Thus, the new bid-ask spread is $3.00 ($33 – $30). Isabelle needs to complete her trade so she accepts the $33 ask price."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Isabelle wanted to buy Woxway shares at $30 per share. Excluding commissions, the cost to acquire 100 shares would have been $3,000 (100 x $30). Isabelle actually paid $33 per share, so her cost was $3,300 (100 x $33), excluding commissions. Therefore, the size of the bid-ask spread caused her to pay $300 ($3,300 – $3,000) more than she desired to complete the purchase order."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Isabelle wanted to buy Woxway shares at $30 per share. Excluding commissions, the cost to acquire 100 shares would have been $3,000 (100 x $30). Isabelle actually paid $33 per share, so her cost was $3,300 (100 x $33), excluding commissions. Therefore, the size of the bid-ask spread caused her to pay $300 ($3,300 – $3,000) more than she desired to complete the purchase order."
                     }
                 ]
             },
@@ -1303,13 +1273,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "A trader can submit a market order for a set number of shares or for a set monetary amount. For instance, a trader instructing a broker to purchase $500 worth of shares of a stock will get as many shares as the broker can buy at the current market price until the order reaches a total of $500. At that point, the broker considers the order to be “filled,” or completed."
                     },
                     {
-                        "Paragraph_txt": "Market orders do not designate any price constraints. As a result, market orders for most liquid stocks are executed almost immediately. Because a trader has no control over the price at which a market order is executed, the actual trading price can differ significantly from the price when the investor placed the order. For instance, a trader placing a market order could be surprised by the execution price if the stock experiences a rapidly fluctuating market price. Larger trade orders could lead to price surprises with larger impacts, such as spending more than intended to execute the trade."
+                        "Paragraph_txt": "<br />Market orders do not designate any price constraints. As a result, market orders for most liquid stocks are executed almost immediately. Because a trader has no control over the price at which a market order is executed, the actual trading price can differ significantly from the price when the investor placed the order. For instance, a trader placing a market order could be surprised by the execution price if the stock experiences a rapidly fluctuating market price. Larger trade orders could lead to price surprises with larger impacts, such as spending more than intended to execute the trade."
                     },
                     {
-                        "Paragraph_txt": "In addition, market orders ignore the size of bid-ask spreads. Thus, orders can result in disadvantageous prices, especially for larger bid-ask spreads. For these reasons, institutional investors generally do not use market orders."
+                        "Paragraph_txt": "<br />In addition, market orders ignore the size of bid-ask spreads. Thus, orders can result in disadvantageous prices, especially for larger bid-ask spreads. For these reasons, institutional investors generally do not use market orders."
                     },
                     {
-                        "Paragraph_txt": "In contrast to market orders, limit orders provide traders with more control over trade execution prices. A limit order that is not executed immediately remains in effect until it expires. Therefore, a trader can designate a limit price that is different from the current market price and wait for the price to move to his desired level. Typically, the limit price for a <em>limit order to buy</em> is lower than the current price, and the limit price for a <em>limit order to sell</em> is higher than the current price."
+                        "Paragraph_txt": "<br />In contrast to market orders, limit orders provide traders with more control over trade execution prices. A limit order that is not executed immediately remains in effect until it expires. Therefore, a trader can designate a limit price that is different from the current market price and wait for the price to move to his desired level. Typically, the limit price for a <em>limit order to buy</em> is lower than the current price, and the limit price for a <em>limit order to sell</em> is higher than the current price."
                     }
                 ]
             },
@@ -1372,7 +1342,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Limit Order to Buy</strong> "
                     },
                     {
-                        "Paragraph_txt": "Buy 500 shares of XYZ stock at or below $150 per share."
+                        "Paragraph_txt": "<br />Buy 500 shares of XYZ stock at or below $150 per share."
                     }
                 ]
             },
@@ -1435,7 +1405,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the above example, the limit order will execute immediately if the current price of XYZ stock is at or below $150. Otherwise, the limit order remains valid until it fills, expires, or is cancelled by the trader. Traders can place limit orders for different lengths of time—such as one year—depending on the broker or platform used."
                     },
                     {
-                        "Paragraph_txt": "Because traders have more price control with limit orders, they generally have more predictable transaction costs than trades executed via market orders. In addition, traders can factor in bid-ask spreads and set limit prices at preferred levels. Thus, limit orders are more appropriate for stocks with wide bid-ask spreads. For these reasons, institutional investors use limit orders to trade stocks. The following chart compares market orders and limit orders."
+                        "Paragraph_txt": "<br />Because traders have more price control with limit orders, they generally have more predictable transaction costs than trades executed via market orders. In addition, traders can factor in bid-ask spreads and set limit prices at preferred levels. Thus, limit orders are more appropriate for stocks with wide bid-ask spreads. For these reasons, institutional investors use limit orders to trade stocks. The following chart compares market orders and limit orders."
                     }
                 ]
             },

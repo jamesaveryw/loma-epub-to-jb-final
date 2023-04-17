@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Insurance Regulation in the United States",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, the states are primarily responsible for insurance industry regulation and oversight. However, the National Association of Insurance Commissioners (NAIC) affects state regulatory efforts."
                     },
                     {
-                        "Paragraph_txt": "State laws pertaining to insurer solvency govern the investment functions of insurance companies. In addition, state laws regulating insurer investments influence the general account investments of insurance companies."
+                        "Paragraph_txt": "<br />State laws pertaining to insurer solvency govern the investment functions of insurance companies. In addition, state laws regulating insurer investments influence the general account investments of insurance companies."
                     }
                 ]
             },
@@ -433,13 +403,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "State solvency regulations require insurers to have adequate levels of capital. Insurance regulators evaluate the adequacy of an insurer’s capital by using <em>risk-based capital (RBC) requirements</em>, which determine the minimum capital level for an insurer based on that insurer’s size and risk profile, as identified by a risk-weighted formula."
                     },
                     {
-                        "Paragraph_txt": "The NAIC maintains an RBC formula to assist state regulators in identifying weakly capitalized insurers. In addition, an NAIC model law, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Risk-Based Capital for Insurers Model Act</span>, establishes the risk-based capital ratio requirements that insurers must meet and that enable state insurance departments to identify potentially impaired insurers."
+                        "Paragraph_txt": "<br />The NAIC maintains an RBC formula to assist state regulators in identifying weakly capitalized insurers. In addition, an NAIC model law, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Risk-Based Capital for Insurers Model Act</span>, establishes the risk-based capital ratio requirements that insurers must meet and that enable state insurance departments to identify potentially impaired insurers."
                     },
                     {
-                        "Paragraph_txt": "In evaluating an insurer’s capital adequacy, insurance regulators in the United States apply <em>risk capital charges</em>, which effectively reduce the value of the company’s assets according to each asset’s risk factor. The purpose of risk capital charges is to acknowledge that investments are inherently risky, and that these assets can suffer losses. Riskier assets incur higher risk charges; insurers holding assets with higher risk charges need to hold higher amounts of capital to satisfy regulators."
+                        "Paragraph_txt": "<br />In evaluating an insurer’s capital adequacy, insurance regulators in the United States apply <em>risk capital charges</em>, which effectively reduce the value of the company’s assets according to each asset’s risk factor. The purpose of risk capital charges is to acknowledge that investments are inherently risky, and that these assets can suffer losses. Riskier assets incur higher risk charges; insurers holding assets with higher risk charges need to hold higher amounts of capital to satisfy regulators."
                     },
                     {
-                        "Paragraph_txt": "For life insurance companies, which invest heavily in debt securities, the NAIC ratings assigned to their debt securities affect their risk capital charges. Regulators assign lower risk charges to investments in securities with the best NAIC ratings, and higher risk charges to investments in securities with the worst NAIC ratings."
+                        "Paragraph_txt": "<br />For life insurance companies, which invest heavily in debt securities, the NAIC ratings assigned to their debt securities affect their risk capital charges. Regulators assign lower risk charges to investments in securities with the best NAIC ratings, and higher risk charges to investments in securities with the worst NAIC ratings."
                     }
                 ]
             },
@@ -835,7 +805,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The goal of the SVO is to set consistent valuations and ratings for investments of insurance companies. For state regulatory purposes, companies must use valuations no less conservative than those provided by the SVO. If SVO data is unavailable, companies must exercise good judgment in arriving at appropriately conservative valuations for securities."
                     },
                     {
-                        "Paragraph_txt": "Insurers can also be subject to asset valuation guidelines from other regulatory entities. For instance, the SEC provides guidelines to funds regarding the valuation of assets. Because subaccounts fall under the SEC’s fund regulations, insurance company separate accounts must follow the same rules."
+                        "Paragraph_txt": "<br />Insurers can also be subject to asset valuation guidelines from other regulatory entities. For instance, the SEC provides guidelines to funds regarding the valuation of assets. Because subaccounts fall under the SEC’s fund regulations, insurance company separate accounts must follow the same rules."
                     }
                 ]
             },
@@ -939,10 +909,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The SEC’s accounting and financial reporting standards apply to publicly traded insurance companies and insurance companies that issue investment vehicles in the United States. Under SEC standards, financial reports must conform to <span class=\"keyterm\" tabindex=\"0\" role=\"button\">generally accepted accounting principles (GAAP)</span>, which are a set of financial accounting standards, conventions, and rules that all publicly traded companies must follow when summarizing transactions and preparing their financial statements."
                     },
                     {
-                        "Paragraph_txt": "Because the two sets of accounting standards differ, insurers that are subject to SEC reporting standards typically produce two sets of financial statements: GAAP-compliant reports filed with the SEC, and SAP-compliant reports for state insurance regulators."
+                        "Paragraph_txt": "<br />Because the two sets of accounting standards differ, insurers that are subject to SEC reporting standards typically produce two sets of financial statements: GAAP-compliant reports filed with the SEC, and SAP-compliant reports for state insurance regulators."
                     },
                     {
-                        "Paragraph_txt": "In general, asset valuations under SAP are more conservative than those under GAAP. For instance, under SAP, the value of a nonadmitted asset is reported at no value on the <em>Assets</em> page of an insurer’s Annual Statement but its full value is reported on a GAAP-based financial statement."
+                        "Paragraph_txt": "<br />In general, asset valuations under SAP are more conservative than those under GAAP. For instance, under SAP, the value of a nonadmitted asset is reported at no value on the <em>Assets</em> page of an insurer’s Annual Statement but its full value is reported on a GAAP-based financial statement."
                     }
                 ]
             },
@@ -1428,10 +1398,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although the AVR and IMR are liabilities, they are not contractual reserves; they are noncontractual reserves that apply only under statutory financial reporting standards and concern only general account assets. Together, the AVR and IMR serve to reduce an insurance company’s exposure to gains and losses arising from fluctuations in the market values of its assets. In other words, these investment reserves generally provide a cushion from the full effects of market value fluctuations."
                     },
                     {
-                        "Paragraph_txt": "In essence, the AVR is intended to smooth out short-term fluctuations in an insurer’s surplus due to the changing valuations of invested assets. Under the AVR, the required reserve amount differs depending on the type of asset. For example, common stocks generally require a higher reserve amount than investment-grade bonds."
+                        "Paragraph_txt": "<br />In essence, the AVR is intended to smooth out short-term fluctuations in an insurer’s surplus due to the changing valuations of invested assets. Under the AVR, the required reserve amount differs depending on the type of asset. For example, common stocks generally require a higher reserve amount than investment-grade bonds."
                     },
                     {
-                        "Paragraph_txt": "In contrast to the AVR, the IMR applies only to the realized gains and losses on fixed-income investments. The IMR aims to reduce the short-term effects on an insurer’s reported surplus by spreading out the gains and losses due to market interest-rate changes over the expected remaining life of the sold assets. The following chart summarizes the key aspects of the AVR and IMR."
+                        "Paragraph_txt": "<br />In contrast to the AVR, the IMR applies only to the realized gains and losses on fixed-income investments. The IMR aims to reduce the short-term effects on an insurer’s reported surplus by spreading out the gains and losses due to market interest-rate changes over the expected remaining life of the sold assets. The following chart summarizes the key aspects of the AVR and IMR."
                     }
                 ]
             },
@@ -1536,10 +1506,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "To prevent insurance companies from taking on too much investment risk, state regulators place certain restrictions on general account holdings. For example, regulations typically limit the amount of international bonds that insurers can own. U.S. regulators usually limit investment in bonds issued by foreign entities to about 20% of an insurer’s total assets."
                     },
                     {
-                        "Paragraph_txt": "State insurance regulators also prohibit insurers from investing more than a stated percentage—typically 10% to 20%—of their admitted assets in common stocks. In addition, state regulators often have requirements for specific types of common stocks—such as publicly traded stocks or stocks issued by foreign companies."
+                        "Paragraph_txt": "<br />State insurance regulators also prohibit insurers from investing more than a stated percentage—typically 10% to 20%—of their admitted assets in common stocks. In addition, state regulators often have requirements for specific types of common stocks—such as publicly traded stocks or stocks issued by foreign companies."
                     },
                     {
-                        "Paragraph_txt": "In recognition of the high level of risk that many derivatives transactions carry, the Investments of Insurers Model Acts impose restrictions on derivatives held in the general account. U.S. insurers can purchase or sell derivatives for hedging purposes up to a stated maximum percentage of the insurer’s admitted assets—usually less than 10 percent. In addition, insurers must be able to demonstrate the intended hedging characteristics and ongoing effectiveness of a derivative transaction."
+                        "Paragraph_txt": "<br />In recognition of the high level of risk that many derivatives transactions carry, the Investments of Insurers Model Acts impose restrictions on derivatives held in the general account. U.S. insurers can purchase or sell derivatives for hedging purposes up to a stated maximum percentage of the insurer’s admitted assets—usually less than 10 percent. In addition, insurers must be able to demonstrate the intended hedging characteristics and ongoing effectiveness of a derivative transaction."
                     }
                 ]
             },

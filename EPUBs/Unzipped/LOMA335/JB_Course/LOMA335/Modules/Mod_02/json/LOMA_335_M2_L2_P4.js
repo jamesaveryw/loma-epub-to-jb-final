@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Project Portfolio Management",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Today’s increased regulatory scrutiny, higher customer expectations, and global operations make a failed project an even riskier investment than in the past. One method for collectively managing projects in a way that supports optimal business outcomes is project portfolio management."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Project portfolio management (PPM) </span>consists of treating all company projects as a project portfolio and coordinating all projects with one another across the company. In a PPM approach, a committee analyzes a project for both its intrinsic benefits to the organization and for its relative fit with the organization’s existing resources, processes, and projects."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Project portfolio management (PPM) </span>consists of treating all company projects as a project portfolio and coordinating all projects with one another across the company. In a PPM approach, a committee analyzes a project for both its intrinsic benefits to the organization and for its relative fit with the organization’s existing resources, processes, and projects."
                     },
                     {
-                        "Paragraph_txt": "The objective of PPM is to create a viable <em>project mix.</em> For example, although one or more projects might exceed their individual budgets, if the entire project mix is over budget, the company should find ways to decrease project expenditures. Portfolio project management often involves a committee that reviews both completed and proposed projects to make sure the company is not taking on more risk than it can handle."
+                        "Paragraph_txt": "<br />The objective of PPM is to create a viable <em>project mix.</em> For example, although one or more projects might exceed their individual budgets, if the entire project mix is over budget, the company should find ways to decrease project expenditures. Portfolio project management often involves a committee that reviews both completed and proposed projects to make sure the company is not taking on more risk than it can handle."
                     }
                 ]
             },
@@ -241,7 +211,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "EndiFirst Insurance Company has a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">steering committee</span>, which is a group of stakeholders with diverse company backgrounds who guide and oversee the planning and implementation of a project. EndiFirst’s steering committee meets monthly to consider new projects and review ongoing projects in light of organizational goals and strategies. They then offer recommendations to improve the value of an organization’s projects."
                     },
                     {
-                        "Paragraph_txt": "EndiFirst’s steering committee is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">standing committee</span>, or a permanent committee that company executives use as a continuing source of advice."
+                        "Paragraph_txt": "<br />EndiFirst’s steering committee is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">standing committee</span>, or a permanent committee that company executives use as a continuing source of advice."
                     }
                 ]
             },

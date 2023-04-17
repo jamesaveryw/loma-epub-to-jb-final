@@ -314,7 +314,38 @@ let lessonBuilder = {
 
 			// Figure
 			if (/FIGURE/i.test(pageEl.tagName)) {
-				JB_Page[0].JBuilder_Content.push(buildFigure(pageEl));
+
+				let figure = fixFigures(pageEl);
+
+				// titles need their own para
+				// snippet before the figure
+				if (figure.querySelector('.title')) {
+					figure.querySelector('.title').innerHTML = figure.querySelector('.title').innerHTML.replace(/<span[^>]+>(.*?)<\/span>/, '<strong>$1</span>');
+					JB_Page[0].JBuilder_Content.push(buildPara( [figure.querySelector('.title')] ));
+				}
+				// build the figure
+				JB_Page[0].JBuilder_Content.push(buildFigure(figure));
+
+				// sources need their own para 
+				// snippet after the figure
+				if (figure.querySelector('.fig-source')) {
+
+				}
+				
+				// check if there are children of figcaptions that 
+				// aren't an image description button or link
+				if (slice(figure.querySelector('figcaption').children).filter(child => !/img-desc/.test(child.className)).length > 0) {
+					let figCapChildren = slice(figure.querySelector('figcaption').children).filter(child => (child.tagName != 'DIV' && !/img-desc/.test(child.className)));	
+					let captionParas = [];
+					for (let figCapChild of figCapChildren) {
+						captionParas.push(figCapChild);
+					}
+
+					JB_Page[0].JBuilder_Content.push(buildPara(captionParas));
+					// Add children HTML to image_text_below
+					// property of snippet
+					// JB_Image.image_w_text[3].image_text_below = captionText;
+				}
 			}
 
 			// video
@@ -402,6 +433,29 @@ function buildGloss(content) {
 	}
 
 	return glossary;
+}
+
+function fixFigures(figure) {
+	
+	// some figures have two figcaption elements
+	while (figure.querySelector('figcaption + figcaption')) {
+		let children = slice(figure.querySelector('figcaption').children);
+		if (children) {
+			for (let child of children) {
+				// move images before first figcaption
+				if (child.tagName == 'IMG') {
+					figure.querySelector('figcaption').parentNode.insertBefore(child, figure.querySelector('figcaption'));
+				}
+				// move everything else into second figcaption
+				else {
+					figure.querySelector('figcaption + figcaption').prepend(child);
+				}
+			}
+			// remove first figcaption
+			figure.querySelector('figcaption').remove();
+		}
+	}
+	return figure;
 }
 
 function getTableStyles(className) {
@@ -855,47 +909,14 @@ function buildFigure(figure) {
 	JB_Image.image_w_text[0].image_name = imgSrc;
 
 	// set image title
-	if (figure.querySelector('.title')) {
-		let title = figure.querySelector('.title').innerHTML;
-		title = title.replace(/<span class="fig-num"(?:[^>]+)?>(.*?)<\/span>/, '<strong>$1</strong>');
-		JB_Image.image_w_text[3].image_text = title;
-	}
+	// if (figure.querySelector('.title')) {
+	// 	let title = figure.querySelector('.title').innerHTML;
+	// 	title = title.replace(/<span class="fig-num"(?:[^>]+)?>(.*?)<\/span>/, '<strong>$1</strong>');
+	// 	JB_Image.image_w_text[3].image_text = title;
+	// }
 	
 
-	// some figures have to figcaption elements
-	while (figure.querySelector('figcaption + figcaption')) {
-		let children = slice(figure.querySelector('figcaption').children);
-		if (children) {
-			for (let child of children) {
-				// move images before first figcaption
-				if (child.tagName == 'IMG') {
-					figure.querySelector('figcaption').parentNode.insertBefore(child, figure.querySelector('figcaption'));
-				}
-				// move everything else into second figcaption
-				else {
-					figure.querySelector('figcaption + figcaption').prepend(child);
-				}
-			}
-			// remove first figcaption
-			figure.querySelector('figcaption').remove();
-		}
-	}
-
 	
-	// check if there are children of figcaptions that 
-	// aren't an image description button or link
-	if (slice(figure.querySelector('figcaption').children).filter(child => !/img-desc/.test(child.className)).length > 0) {
-		let figCapChildren = slice(figure.querySelector('figcaption').children).filter(child => (child.tagName != 'DIV' && !/img-desc/.test(child.className)));	
-		let captionText = '';
-		for (let figCapChild of figCapChildren) {
-			captionText += `${figCapChild.innerHTML}<br/>`;
-
-		}
-		
-		// Add children HTML to image_text_below
-		// property of snippet
-		JB_Image.image_w_text[3].image_text_below = captionText;
-	}
 
 	// collect image descriptions from
 	// end of mod appendix chapter

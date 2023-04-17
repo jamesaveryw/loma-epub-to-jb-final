@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Fund Evaluation and Selection",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the previous section, you read about some of the ways that investment professionals can select investments for portfolios that support life insurer general account products. For separate account portfolios, insurance companies do not select investments on behalf of their customers. Instead, they are responsible for offering a menu of investment fund options called <em>subaccounts</em>, as we defined in Chapter 1. An insurer’s investment function evaluates and selects the subaccounts offered to separate account customers."
                     },
                     {
-                        "Paragraph_txt": "Traditionally, insurers structured subaccounts to operate like mutual funds. In recent years, as exchange-traded fund (ETF) use has generally increased, insurance companies are offering more subaccounts that are structured like ETFs. Because of operational differences, ETFs generally have lower costs than mutual funds that hold a similar group of securities."
+                        "Paragraph_txt": "<br />Traditionally, insurers structured subaccounts to operate like mutual funds. In recent years, as exchange-traded fund (ETF) use has generally increased, insurance companies are offering more subaccounts that are structured like ETFs. Because of operational differences, ETFs generally have lower costs than mutual funds that hold a similar group of securities."
                     },
                     {
-                        "Paragraph_txt": "An insurer’s subaccount menu can include both internally managed and externally managed fund options. The fund managers of external fund options are known as <em>subadvisors</em>. Typically, insurance companies enter into agreements with subadvisors to increase the number of investment options available to separate account customers. In many cases, a subadvised subaccount is managed to be nearly identical to a fund that the subadvisor offers its customers."
+                        "Paragraph_txt": "<br />An insurer’s subaccount menu can include both internally managed and externally managed fund options. The fund managers of external fund options are known as <em>subadvisors</em>. Typically, insurance companies enter into agreements with subadvisors to increase the number of investment options available to separate account customers. In many cases, a subadvised subaccount is managed to be nearly identical to a fund that the subadvisor offers its customers."
                     }
                 ]
             },
@@ -211,10 +181,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Subaccounts: Not Exactly the Funds They Mimic</strong> "
                     },
                     {
-                        "Paragraph_txt": "Essentially, a subaccount is a clone of another fund. For instance, suppose Dexicos Life Insurance Company offers a subaccount based on Algravita Fund Company’s VITA 60/40 Fund. The subaccount is called Dexicos VITA 60/40 Fund to signify that it is a separate offering from the fund that Algravita, the subadvisor, offers to its customers."
+                        "Paragraph_txt": "<br />Essentially, a subaccount is a clone of another fund. For instance, suppose Dexicos Life Insurance Company offers a subaccount based on Algravita Fund Company’s VITA 60/40 Fund. The subaccount is called Dexicos VITA 60/40 Fund to signify that it is a separate offering from the fund that Algravita, the subadvisor, offers to its customers."
                     },
                     {
-                        "Paragraph_txt": "Because of structural aspects that are beyond the scope of this text, a subaccount may experience slight differences in fees and performance when compared to the fund it is based on. Therefore, the historical performance of a subaccount is reported separately from that of the fund it mimics. For investors, such differences can complicate efforts to evaluate a subaccount and compare it to its peers."
+                        "Paragraph_txt": "<br />Because of structural aspects that are beyond the scope of this text, a subaccount may experience slight differences in fees and performance when compared to the fund it is based on. Therefore, the historical performance of a subaccount is reported separately from that of the fund it mimics. For investors, such differences can complicate efforts to evaluate a subaccount and compare it to its peers."
                     }
                 ]
             },
@@ -372,7 +342,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Sample Policy Constraint on External Fund Options</strong> "
                     },
                     {
-                        "Paragraph_txt": "To be considered for inclusion in the subaccount menu, an externally managed fund must have existed for a minimum of three years and hold assets in excess of $100 million. In addition, the fund must maintain a consistent management philosophy, as indicated by adherence to the fund style outlined in its prospectus."
+                        "Paragraph_txt": "<br />To be considered for inclusion in the subaccount menu, an externally managed fund must have existed for a minimum of three years and hold assets in excess of $100 million. In addition, the fund must maintain a consistent management philosophy, as indicated by adherence to the fund style outlined in its prospectus."
                     }
                 ]
             },
@@ -816,7 +786,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The differences in the active and passive management approaches can be seen in the way that a fund manager treats portfolio holdings. For instance, an active manager may trade a bond before maturity if the bond’s current price is above par value. In contrast, a passive manager usually intends to hold a bond to maturity. Note that in both cases, the fund manager is constantly monitoring the bond holding; a passive management strategy does not mean that the fund manager ignores the bond until maturity."
                     },
                     {
-                        "Paragraph_txt": "Typically, investors judge actively and passively managed funds against market indexes. In addition, many passively managed funds are constructed to replicate indexes. Such funds, called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">index funds</span>, seek to produce a pattern of performance similar to that of a specified market index."
+                        "Paragraph_txt": "<br />Typically, investors judge actively and passively managed funds against market indexes. In addition, many passively managed funds are constructed to replicate indexes. Such funds, called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">index funds</span>, seek to produce a pattern of performance similar to that of a specified market index."
                     }
                 ]
             },
@@ -1293,7 +1263,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "While lifestyle funds generally maintain a specific risk level, other funds adjust their allocations in anticipation of steady changes in an investor’s risk tolerance. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Target-date funds</span>, also known as <em>lifecycle funds</em>, invest in various asset classes and automatically change the asset allocation over a period of time. Typically, a target-date fund is designed with an end date in mind. The main objective of a target-date fund is to support an investor’s goal of accumulating a certain amount of money by the specified date."
                     },
                     {
-                        "Paragraph_txt": "Initially, a target-date fund has a relatively aggressive allocation—for example, the fund might hold a high percentage of equity investments. As the fund’s target date approaches, the fund’s allocation gradually becomes more conservative and its risk level gradually decreases. Because of the feature that automatically shifts allocations over time, target-date funds are popular in the retirement services industry."
+                        "Paragraph_txt": "<br />Initially, a target-date fund has a relatively aggressive allocation—for example, the fund might hold a high percentage of equity investments. As the fund’s target date approaches, the fund’s allocation gradually becomes more conservative and its risk level gradually decreases. Because of the feature that automatically shifts allocations over time, target-date funds are popular in the retirement services industry."
                     }
                 ]
             },
@@ -1432,6 +1402,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.5 Examples of Equity and Fixed-Income Style Boxes</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "7-5figure.jpg",
@@ -1450,7 +1453,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.5</strong> Examples of Equity and Fixed-Income Style Boxes",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1661,10 +1664,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals also look at a fund’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">expense ratio</span>, which expresses the fund’s total annual operating expenses during a given period as a percentage of the fund’s average net assets during the same period. Fund operating expenses can include expenses related to auditing, accounting and other recordkeeping, taxes, custody services, paying the fund managers, and marketing."
                     },
                     {
-                        "Paragraph_txt": "Because expenses reduce the potential returns for fund investors, investment professionals generally prefer funds with low expense ratios. Investment professionals often compare a particular fund’s expense ratio to those of other funds in its peer group. A <em>peer group</em> is a collection of funds that have the same style, share similar risk characteristics, and are competitors within their market niche."
+                        "Paragraph_txt": "<br />Because expenses reduce the potential returns for fund investors, investment professionals generally prefer funds with low expense ratios. Investment professionals often compare a particular fund’s expense ratio to those of other funds in its peer group. A <em>peer group</em> is a collection of funds that have the same style, share similar risk characteristics, and are competitors within their market niche."
                     },
                     {
-                        "Paragraph_txt": "In general, actively managed funds have higher expense ratios than passively managed funds. Actively managed funds charge higher management fees to compensate for the additional resources used in pursuit of market outperformance. In contrast, passively managed funds generally charge lower management fees because they simply attempt to earn the average market return."
+                        "Paragraph_txt": "<br />In general, actively managed funds have higher expense ratios than passively managed funds. Actively managed funds charge higher management fees to compensate for the additional resources used in pursuit of market outperformance. In contrast, passively managed funds generally charge lower management fees because they simply attempt to earn the average market return."
                     }
                 ]
             },
@@ -1700,7 +1703,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Institutions may not rely solely on their own investment team’s findings for fund analysis. External fund advisory services provide ratings, research, and commentary for fund investors. Thus, investment professionals can review external fund ratings to supplement their own research and analysis."
                     },
                     {
-                        "Paragraph_txt": "For some institutional investors—such as insurance companies—incorporating external ratings is part of responsible due diligence when offering funds as investment options for customers. In addition, using external fund ratings helps institutions avoid the appearance of conflict of interest in analyzing the funds that they offer to customers. For instance, an insurance company that also serves as a fund provider could appear to favor internally managed funds in its subaccount menu. However, by using independent fund analysis to support its subaccount selections, the insurer can maintain the appearance of impartiality."
+                        "Paragraph_txt": "<br />For some institutional investors—such as insurance companies—incorporating external ratings is part of responsible due diligence when offering funds as investment options for customers. In addition, using external fund ratings helps institutions avoid the appearance of conflict of interest in analyzing the funds that they offer to customers. For instance, an insurance company that also serves as a fund provider could appear to favor internally managed funds in its subaccount menu. However, by using independent fund analysis to support its subaccount selections, the insurer can maintain the appearance of impartiality."
                     }
                 ]
             },
@@ -1736,10 +1739,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals typically compare a fund’s performance to the performance of a benchmark index, such as a market index. They also compare the total returns of a particular fund to the total returns of other funds in the same peer group."
                     },
                     {
-                        "Paragraph_txt": "Through these comparisons, investment professionals can evaluate a fund’s relative performance. Investment professionals generally prefer funds that consistently outperform the benchmark and most of the peer group over a period long enough to represent varying market conditions—such as a 10-year period."
+                        "Paragraph_txt": "<br />Through these comparisons, investment professionals can evaluate a fund’s relative performance. Investment professionals generally prefer funds that consistently outperform the benchmark and most of the peer group over a period long enough to represent varying market conditions—such as a 10-year period."
                     },
                     {
-                        "Paragraph_txt": "One tool that investment professionals use to support fund comparisons is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">scorecard</span>, which is a table or worksheet used for analyzing or comparing various funds. Investment professionals use a scorecard as part of identifying fund option candidates, as well as for ongoing monitoring of a company’s menu of fund options. Figure 7.6 presents an example of a scorecard."
+                        "Paragraph_txt": "<br />One tool that investment professionals use to support fund comparisons is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">scorecard</span>, which is a table or worksheet used for analyzing or comparing various funds. Investment professionals use a scorecard as part of identifying fund option candidates, as well as for ongoing monitoring of a company’s menu of fund options. Figure 7.6 presents an example of a scorecard."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.6 Example of a Scorecard</strong>"
                     }
                 ]
             },
@@ -1762,7 +1798,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.6</strong> Example of a Scorecard",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1831,10 +1867,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Scorecards grade a group of funds on a set of measures, such as the expense ratio or 5-year return. For each criterion, funds are ranked from best to worst based on their score. Some scorecards assign funds a numerical ranking, while others assign a letter grade or multiple stars."
                     },
                     {
-                        "Paragraph_txt": "Scoring and ranking of funds can indicate the quality of a particular fund compared to its peer group and benchmark. In addition, some scorecards calculate the average score for all funds in a peer group, and then group them into percentiles or quartiles."
+                        "Paragraph_txt": "<br />Scoring and ranking of funds can indicate the quality of a particular fund compared to its peer group and benchmark. In addition, some scorecards calculate the average score for all funds in a peer group, and then group them into percentiles or quartiles."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals can use scorecards to screen new funds for possible inclusion in a company’s menu of fund options. The relative rankings can quickly identify funds that are unsuitable for inclusion."
+                        "Paragraph_txt": "<br />Investment professionals can use scorecards to screen new funds for possible inclusion in a company’s menu of fund options. The relative rankings can quickly identify funds that are unsuitable for inclusion."
                     }
                 ]
             },

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Structured Securities",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,13 +115,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">structured security</span>—also known as <em>structured debt</em> or a <em>structured debt security</em>—is an investment vehicle that repackages pools of existing debt obligations into a new form of financial security that is tradeable and generally promises investors a stream of payments. Because they are tradeable, structured securities are used to provide liquidity to groups of illiquid loans, including mortgages."
                     },
                     {
-                        "Paragraph_txt": "In general, structured securities are not traded on exchanges. Most trading of structured securities occurs in <span class=\"keyterm\" tabindex=\"0\" role=\"button\">over-the-counter (OTC) markets</span>, which are electronic communications networks over which securities that are not bought and sold on an exchange are traded. Typically, securities traded in OTC markets are less liquid than securities traded on exchanges."
+                        "Paragraph_txt": "<br />In general, structured securities are not traded on exchanges. Most trading of structured securities occurs in <span class=\"keyterm\" tabindex=\"0\" role=\"button\">over-the-counter (OTC) markets</span>, which are electronic communications networks over which securities that are not bought and sold on an exchange are traded. Typically, securities traded in OTC markets are less liquid than securities traded on exchanges."
                     },
                     {
-                        "Paragraph_txt": "As fixed-income investments, structured securities generally provide investors with fairly predictable income payments. Structured securities can also offer higher yields than similarly rated bonds. In addition, structured securities help institutional investors diversify their portfolios."
+                        "Paragraph_txt": "<br />As fixed-income investments, structured securities generally provide investors with fairly predictable income payments. Structured securities can also offer higher yields than similarly rated bonds. In addition, structured securities help institutional investors diversify their portfolios."
                     },
                     {
-                        "Paragraph_txt": "The risk associated with a particular structured security depends on the credit quality of its loan pool and its repackaging. Furthermore, structured securities are usually less liquid and harder for investors to evaluate than bonds."
+                        "Paragraph_txt": "<br />The risk associated with a particular structured security depends on the credit quality of its loan pool and its repackaging. Furthermore, structured securities are usually less liquid and harder for investors to evaluate than bonds."
                     }
                 ]
             },
@@ -189,6 +159,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.1 The Basic Securitization Process</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "3-1figure.jpg",
@@ -207,7 +210,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.1</strong> The Basic Securitization Process",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -423,6 +426,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.2 Comparison of Tranches in a Structured Security</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "3-2figure.jpg",
@@ -441,7 +477,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.2</strong> Comparison of Tranches in a Structured Security",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -510,16 +546,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Structured securities are rated by credit rating agencies. The practice of establishing tranches—some having seniority, while others are subordinated—enhances the credit quality of the senior tranche. Frequently, issuers of structured securities undertake credit enhancements to increase the credit ratings of their securities; higher credit ratings can increase the securities’ appeal to investors."
                     },
                     {
-                        "Paragraph_txt": "After establishing tranches, the SPE issues and sells shares in the structured securities to investors, including life insurance companies and other institutional investors. Each structured security represents an ownership interest in the underlying loans. For a fee, the loan originator—or a third party—collects incoming payments on the original loans and distributes the scheduled payouts to the investors in the structured securities."
+                        "Paragraph_txt": "<br />After establishing tranches, the SPE issues and sells shares in the structured securities to investors, including life insurance companies and other institutional investors. Each structured security represents an ownership interest in the underlying loans. For a fee, the loan originator—or a third party—collects incoming payments on the original loans and distributes the scheduled payouts to the investors in the structured securities."
                     },
                     {
-                        "Paragraph_txt": "Securitization creates liquidity for loan originators by enabling them to transfer loans to SPEs. However, the transferring of debt obligations can decrease loan originators’ exposure to default risks, which arguably motivates them to issue more debt than they normally would."
+                        "Paragraph_txt": "<br />Securitization creates liquidity for loan originators by enabling them to transfer loans to SPEs. However, the transferring of debt obligations can decrease loan originators’ exposure to default risks, which arguably motivates them to issue more debt than they normally would."
                     },
                     {
-                        "Paragraph_txt": "As you will read in Chapter 4, structured securities played a role in the 2007-2008 global financial crisis due to factors such as lower mortgage lending standards, the complexity of securitization, and insufficient risk assessment by credit rating agencies. Since then, structured securities have received more scrutiny from regulators."
+                        "Paragraph_txt": "<br />As you will read in Chapter 4, structured securities played a role in the 2007-2008 global financial crisis due to factors such as lower mortgage lending standards, the complexity of securitization, and insufficient risk assessment by credit rating agencies. Since then, structured securities have received more scrutiny from regulators."
                     },
                     {
-                        "Paragraph_txt": "Two categories of structured securities are asset-backed securities and mortgage-backed securities."
+                        "Paragraph_txt": "<br />Two categories of structured securities are asset-backed securities and mortgage-backed securities."
                     }
                 ]
             },
@@ -620,7 +656,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, the insurance industry is one of the largest investors in ABSs. The main types of debt backing insurers’ ABSs are auto loans and credit card debt—both of which typically back the most liquid ABSs."
                     },
                     {
-                        "Paragraph_txt": "Another ABS of interest to insurers is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">collateralized loan obligation (CLO)</span>—a type of ABS that securitizes a pool of corporate debt, such as leveraged loans and other business loans. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">leveraged loan</span>, also called a <em>bank loan</em> or a <em>syndicated loan</em>, is a commercial loan characterized by high yields and floating interest rates. Banks give leveraged loans to businesses with a higher risk of default."
+                        "Paragraph_txt": "<br />Another ABS of interest to insurers is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">collateralized loan obligation (CLO)</span>—a type of ABS that securitizes a pool of corporate debt, such as leveraged loans and other business loans. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">leveraged loan</span>, also called a <em>bank loan</em> or a <em>syndicated loan</em>, is a commercial loan characterized by high yields and floating interest rates. Banks give leveraged loans to businesses with a higher risk of default."
                     }
                 ]
             },
@@ -656,7 +692,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another type of structured security is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortgage-backed security</span>, which is created when individual mortgages are packaged to form a pool of mortgages. Many life insurers hold more mortgage-backed securities than asset-backed securities."
                     },
                     {
-                        "Paragraph_txt": "Like many fixed-income investments, mortgage-backed securities are traded in OTC markets. In general, mortgage-backed securities are more liquid than asset-backed securities. The two classifications of mortgage-backed securities are residential mortgage-backed securities and commercial mortgage-backed securities."
+                        "Paragraph_txt": "<br />Like many fixed-income investments, mortgage-backed securities are traded in OTC markets. In general, mortgage-backed securities are more liquid than asset-backed securities. The two classifications of mortgage-backed securities are residential mortgage-backed securities and commercial mortgage-backed securities."
                     }
                 ]
             },
@@ -760,22 +796,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "Ginnie Mae explicitly backs its MBSs—comprising pools of federally insured loans—with the full faith and credit of the U.S. government. Because Ginnie Mae guarantees the payment of principal and interest, its MBSs are considered safer than other agency MBSs."
                     },
                     {
-                        "Paragraph_txt": "Although agency MBSs from Fannie Mae and Freddie Mac are less secure than Ginnie Mae MBSs, the U.S. government has signaled that it will not allow the two entities to fail, thus ensuring they will satisfy their obligations to investors. Because of this “implicit guarantee,” investors consider Fannie Mae and Freddie Mac to be <em>government-sponsored enterprises (GSEs)</em>."
+                        "Paragraph_txt": "<br />Although agency MBSs from Fannie Mae and Freddie Mac are less secure than Ginnie Mae MBSs, the U.S. government has signaled that it will not allow the two entities to fail, thus ensuring they will satisfy their obligations to investors. Because of this “implicit guarantee,” investors consider Fannie Mae and Freddie Mac to be <em>government-sponsored enterprises (GSEs)</em>."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Nonagency MBSs</span>—also known as <em>nonagency mortgage-backed securities</em> or <em>private-label MBSs</em>—are securities based on portfolios of residential mortgages that do not qualify for agency MBSs. Nonagency MBSs are issued by private business entities—such as investment banks, financial institutions, and home builders. The loans held by nonagency MBSs usually have a higher—sometimes, significantly higher—risk of default than those held by agency MBSs."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Nonagency MBSs</span>—also known as <em>nonagency mortgage-backed securities</em> or <em>private-label MBSs</em>—are securities based on portfolios of residential mortgages that do not qualify for agency MBSs. Nonagency MBSs are issued by private business entities—such as investment banks, financial institutions, and home builders. The loans held by nonagency MBSs usually have a higher—sometimes, significantly higher—risk of default than those held by agency MBSs."
                     },
                     {
-                        "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">collateralized mortgage obligation (CMO)</span> is a type of mortgage-backed security that is backed by a pool of residential mortgage loans, which are organized into classes based on their risk profile. CMOs typically use a portfolio of agency MBSs and high-quality nonagency MBSs as collateral. Therefore, CMOs are often the result of securitizing multiple MBSs."
+                        "Paragraph_txt": "<br />A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">collateralized mortgage obligation (CMO)</span> is a type of mortgage-backed security that is backed by a pool of residential mortgage loans, which are organized into classes based on their risk profile. CMOs typically use a portfolio of agency MBSs and high-quality nonagency MBSs as collateral. Therefore, CMOs are often the result of securitizing multiple MBSs."
                     },
                     {
-                        "Paragraph_txt": "Because CMOs typically involve high-quality mortgages or those guaranteed by the government, CMOs generally receive high credit ratings. As such, CMOs are attractive to institutional investors, including life insurers."
+                        "Paragraph_txt": "<br />Because CMOs typically involve high-quality mortgages or those guaranteed by the government, CMOs generally receive high credit ratings. As such, CMOs are attractive to institutional investors, including life insurers."
                     },
                     {
-                        "Paragraph_txt": "In addition, the design flexibility of CMOs means they can be structured to offer a targeted level of risk exposure and can be organized by maturity. Life insurers and other investors with specific cash flow needs can select CMOs that are tailored to their preferences."
+                        "Paragraph_txt": "<br />In addition, the design flexibility of CMOs means they can be structured to offer a targeted level of risk exposure and can be organized by maturity. Life insurers and other investors with specific cash flow needs can select CMOs that are tailored to their preferences."
                     },
                     {
-                        "Paragraph_txt": "CMOs have a similar structure to CLOs but are backed by different types of collateral. The following chart compares CLOs and CMOs."
+                        "Paragraph_txt": "<br />CMOs have a similar structure to CLOs but are backed by different types of collateral. The following chart compares CLOs and CMOs."
                     }
                 ]
             },
@@ -928,13 +964,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">commercial mortgage-backed security (CMBS)</span> is secured by a pool of various commercial mortgages. In a CMBS, many single commercial mortgage loans of varying size, property type, and location are pooled and transferred to an SPE. In the SPE, the securities are divided into tranches, which are assigned ratings from credit rating agencies and sold to investors."
                     },
                     {
-                        "Paragraph_txt": "Like residential mortgage-backed securities, commercial mortgage-backed securities can be categorized as either agency or nonagency, depending on whether the underlying mortgages meet an agency’s guidelines. Agency CMBSs support certain types of borrowers—such as owners of multifamily properties or health care properties—that are aligned with a particular agency’s public policy goals."
+                        "Paragraph_txt": "<br />Like residential mortgage-backed securities, commercial mortgage-backed securities can be categorized as either agency or nonagency, depending on whether the underlying mortgages meet an agency’s guidelines. Agency CMBSs support certain types of borrowers—such as owners of multifamily properties or health care properties—that are aligned with a particular agency’s public policy goals."
                     },
                     {
-                        "Paragraph_txt": "CMBSs issued in the United States have limited prepayment risk because they include make-whole provisions that discourage prepayments. A <em>make-whole provision</em> compensates CMBS holders by requiring the borrower to (1) purchase substitute collateral—usually a portfolio of high-quality securities, such as treasuries—for the CMBS that generates enough cash to replace the cash flows lost because of prepayment, or (2) pay the holders a penalty. As a result, cash flows associated with CMBSs are reasonably predictable."
+                        "Paragraph_txt": "<br />CMBSs issued in the United States have limited prepayment risk because they include make-whole provisions that discourage prepayments. A <em>make-whole provision</em> compensates CMBS holders by requiring the borrower to (1) purchase substitute collateral—usually a portfolio of high-quality securities, such as treasuries—for the CMBS that generates enough cash to replace the cash flows lost because of prepayment, or (2) pay the holders a penalty. As a result, cash flows associated with CMBSs are reasonably predictable."
                     },
                     {
-                        "Paragraph_txt": "Insurance companies are major investors in CMBSs. However, insurers typically hold a larger percentage of MBSs in their portfolios than CMBSs."
+                        "Paragraph_txt": "<br />Insurance companies are major investors in CMBSs. However, insurers typically hold a larger percentage of MBSs in their portfolios than CMBSs."
                     }
                 ]
             },

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Quality Management Basics",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -251,7 +221,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "One way to define the quality of a product or service is “fitness for use.”<span class=\"ens\" id=\"loma335-ch6-span-4\"> <span class=\"endnote hidden\" data-note=\"loma335-ch6-en1\" epub:type=\"noteref\" id=\"loma335-ch6-span-5\" role=\"doc-noteref\">1</span> </span>This means that every product or service must have few failures and have the right features to satisfy customer needs. When it comes to insurance, the customer’s greatest need often occurs at the time of a loss. Within this context, the customer associates the quality of the product with the experts who help the customer navigate the consequences of a loss."
                     },
                     {
-                        "Paragraph_txt": "As we describe quality management, keep in mind that a positive <span class=\"keyterm\" tabindex=\"0\" role=\"button\">customer journey</span>—the path each customer travels with a company from beginning to end, including every interaction across every point of contact—is the ultimate quality goal for an insurer. The following insight offers some examples of ways that insurance companies deliver quality to customers."
+                        "Paragraph_txt": "<br />As we describe quality management, keep in mind that a positive <span class=\"keyterm\" tabindex=\"0\" role=\"button\">customer journey</span>—the path each customer travels with a company from beginning to end, including every interaction across every point of contact—is the ultimate quality goal for an insurer. The following insight offers some examples of ways that insurance companies deliver quality to customers."
                     }
                 ]
             },
@@ -429,7 +399,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Customers <em>expect</em> insurers to demonstrate the attributes in the insight above. Therefore, having these attributes does not differentiate one company from the next. A company that delivers quality service meets the customer’s expectation. On the other hand, a lack of quality will make a company stand out, and often cause a company to lose customers. As a result, most successful companies adopt a system for quality management early on and then refine the system continuously."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Quality management</span>—sometimes called <em>performance management</em>—refers to the activities an organization conducts on an ongoing basis to plan, control, measure, and improve its performance to ensure that its products or services consistently meet or exceed customer expectations."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Quality management</span>—sometimes called <em>performance management</em>—refers to the activities an organization conducts on an ongoing basis to plan, control, measure, and improve its performance to ensure that its products or services consistently meet or exceed customer expectations."
                     }
                 ]
             },
@@ -547,6 +517,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.1 Seven Principles of Quality Management</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "6-1figure.jpg",
@@ -565,7 +568,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.1</strong> Seven Principles of Quality Management",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

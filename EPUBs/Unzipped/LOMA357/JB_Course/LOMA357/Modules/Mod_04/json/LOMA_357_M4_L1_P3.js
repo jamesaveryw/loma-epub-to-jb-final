@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Securities Regulation in the United States",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +148,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Prior to the stock market crash of 1929, the U.S. securities industry was lightly regulated. Most securities transactions were conducted by institutions and wealthy investors. During the 1920s, securities markets began to grow popular with the general public. However, many retail investors were inexperienced and lacked access to the information available to more established investors, making them easy targets for manipulation and fraud."
                     },
                     {
-                        "Paragraph_txt": "After the 1929 crash and during the Great Depression of the 1930s, the public demanded reforms for the securities industry, which had been primarily regulated by the states. The federal government passed several important securities laws that empowered federal regulators to oversee securities activities. Such laws are intended to protect investors, thus maintaining fairness and trust in the country’s financial markets."
+                        "Paragraph_txt": "<br />After the 1929 crash and during the Great Depression of the 1930s, the public demanded reforms for the securities industry, which had been primarily regulated by the states. The federal government passed several important securities laws that empowered federal regulators to oversee securities activities. Such laws are intended to protect investors, thus maintaining fairness and trust in the country’s financial markets."
                     }
                 ]
             },
@@ -400,7 +370,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Trust Indenture Act of 1939</span> applies to bonds and other debt securities and imposes certain requirements on the issuer before the securities can be sold publicly. The issuer must establish a trust for the benefit of the owner. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">trust</span> is a legal arrangement that is (1) created at the direction of an individual or entity and (2) designed to allow one party, the <em>trustee</em>, to hold specified property belonging to the trust’s creator for the benefit of <em>trust beneficiaries</em>."
                     },
                     {
-                        "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">trust indenture</span>, also known as a <em>trust deed</em>, is a formal agreement that establishes a trust and forms the relationship between a trustee and a trust beneficiary. The indenture states the (1) limits of the trustee’s authority and (2) conditions governing the trustee’s actions in handling the trust’s assets. The Trust Indenture Act of 1939 requires a trust indenture to contain certain provisions."
+                        "Paragraph_txt": "<br />A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">trust indenture</span>, also known as a <em>trust deed</em>, is a formal agreement that establishes a trust and forms the relationship between a trustee and a trust beneficiary. The indenture states the (1) limits of the trustee’s authority and (2) conditions governing the trustee’s actions in handling the trust’s assets. The Trust Indenture Act of 1939 requires a trust indenture to contain certain provisions."
                     }
                 ]
             },
@@ -690,7 +660,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Adviser or Advisor?</strong> "
                     },
                     {
-                        "Paragraph_txt": "Although the Investment Advisers Act of 1940 spells investment <em>adviser</em> with an <em>-er</em>, many current industry practitioners spell investment <em>advisor</em> with <em>-or</em>. Both spellings are valid. We use <em>advisor</em> throughout the remainder of this chapter."
+                        "Paragraph_txt": "<br />Although the Investment Advisers Act of 1940 spells investment <em>adviser</em> with an <em>-er</em>, many current industry practitioners spell investment <em>advisor</em> with <em>-or</em>. Both spellings are valid. We use <em>advisor</em> throughout the remainder of this chapter."
                     }
                 ]
             },
@@ -753,7 +723,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In general, individuals or companies that have at least $100 million of assets under management must register with the SEC as investment advisors. Thus, many investment management firms, securities brokerages, and insurance companies must register as investment advisors and meet the other requirements of the Investment Advisers Act of 1940. Advisors who manage less than $100 million typically register with an individual state’s securities regulator."
                     },
                     {
-                        "Paragraph_txt": "In addition to registering with the SEC, investment advisors must comply with SEC investor protections. For example, investment advisors must meet requirements regarding recordkeeping and reporting, advisory contracts, advertising of securities, and custody of customer assets."
+                        "Paragraph_txt": "<br />In addition to registering with the SEC, investment advisors must comply with SEC investor protections. For example, investment advisors must meet requirements regarding recordkeeping and reporting, advisory contracts, advertising of securities, and custody of customer assets."
                     }
                 ]
             },
@@ -789,10 +759,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "Passed in 2010 in response to the 2007–2008 financial crisis, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Dodd-Frank Wall Street Reform and Consumer Protection Act</span>, also known as the<em> Dodd-Frank Act</em>, was designed to (1) promote the financial stability of the United States, (2) improve accountability and transparency in the financial system, and (3) protect consumers from abusive financial services practices. "
                     },
                     {
-                        "Paragraph_txt": "The 2007–2008 financial crisis exposed the interconnectedness of financial institutions within the U.S. financial system. Some institutions are large and have many financial relationships with other institutions. Thus, the failure of one deeply enmeshed institution can have a significant ripple effect throughout the industry, endangering the stability of the entire system. The Dodd-Frank Act addresses the <em>systemic risk</em>—the risk that an adverse event significantly impairs the financial system—that such institutions pose."
+                        "Paragraph_txt": "<br />The 2007–2008 financial crisis exposed the interconnectedness of financial institutions within the U.S. financial system. Some institutions are large and have many financial relationships with other institutions. Thus, the failure of one deeply enmeshed institution can have a significant ripple effect throughout the industry, endangering the stability of the entire system. The Dodd-Frank Act addresses the <em>systemic risk</em>—the risk that an adverse event significantly impairs the financial system—that such institutions pose."
                     },
                     {
-                        "Paragraph_txt": "The Dodd-Frank Act reshaped the U.S. financial regulatory system in a number of areas—including consumer protection, trading restrictions, credit ratings, regulation of financial products, corporate governance, and disclosure. The act charged various administrative agencies, such as the SEC and the Treasury Department, with adopting rules and regulations to carry out its many requirements. Dodd-Frank also created new agencies, as Figure 10.1 shows."
+                        "Paragraph_txt": "<br />The Dodd-Frank Act reshaped the U.S. financial regulatory system in a number of areas—including consumer protection, trading restrictions, credit ratings, regulation of financial products, corporate governance, and disclosure. The act charged various administrative agencies, such as the SEC and the Treasury Department, with adopting rules and regulations to carry out its many requirements. Dodd-Frank also created new agencies, as Figure 10.1 shows."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.1 Federal Agencies Created by Dodd-Frank</strong>"
                     }
                 ]
             },
@@ -815,7 +818,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.1</strong> Federal Agencies Created by Dodd-Frank",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1515,7 +1518,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The SEC has delegated much of the authority for registering securities market participants to certain <span class=\"keyterm\" tabindex=\"0\" role=\"button\">self-regulatory organizations (SROs)</span>, which are nongovernmental organizations that exercise regulatory authority over an industry or profession. One such SRO is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Financial Industry Regulatory Authority (FINRA)</span>, which sets rules stipulating how member companies and registered individuals must conduct securities transaction business. In addition to FINRA, securities exchanges are SROs empowered by the SEC to supervise the securities industry."
                     },
                     {
-                        "Paragraph_txt": "FINRA licenses, investigates, and regulates securities firms and their representatives doing business in the United States. Brokers, dealers, and individuals who sell securities—or are actively involved in a member’s security business—must register with FINRA and abide by its rules. For example, FINRA members and registered individuals are subject to a suitability requirement:"
+                        "Paragraph_txt": "<br />FINRA licenses, investigates, and regulates securities firms and their representatives doing business in the United States. Brokers, dealers, and individuals who sell securities—or are actively involved in a member’s security business—must register with FINRA and abide by its rules. For example, FINRA members and registered individuals are subject to a suitability requirement:"
                     }
                 ]
             },
@@ -1578,7 +1581,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>FINRA’s Suitability Rule</strong> "
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">FINRA Rule 2111 (Suitability Rule)</span> requires members and registered individuals to have reasonable grounds for recommending investment products to customers based on an understanding of certain facts about the customer, including his financial situation, tax status, and investment objectives. Thus, a registered individual must believe an investment is suitable for a particular customer before making a recommendation to invest."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">FINRA Rule 2111 (Suitability Rule)</span> requires members and registered individuals to have reasonable grounds for recommending investment products to customers based on an understanding of certain facts about the customer, including his financial situation, tax status, and investment objectives. Thus, a registered individual must believe an investment is suitable for a particular customer before making a recommendation to invest."
                     }
                 ]
             },
@@ -1641,10 +1644,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "FINRA rules require brokers and dealers to establish and maintain a system to supervise the activities of each registered individual. To ensure compliance with applicable regulatory requirements, FINRA conducts periodic inspections of all brokers and dealers. Examiners review their records, sales practices, and financial condition."
                     },
                     {
-                        "Paragraph_txt": "FINRA also has rules pertaining to advertisements, sales literature, correspondence, and other communications that brokers, dealers, and registered individuals use to communicate with the public about securities offered for sale. FINRA places restrictions on the content of such communications. For example, these materials cannot contain statements implying guarantees or promises of investment results, exaggerations, or opinions for which there is no reasonable basis."
+                        "Paragraph_txt": "<br />FINRA also has rules pertaining to advertisements, sales literature, correspondence, and other communications that brokers, dealers, and registered individuals use to communicate with the public about securities offered for sale. FINRA places restrictions on the content of such communications. For example, these materials cannot contain statements implying guarantees or promises of investment results, exaggerations, or opinions for which there is no reasonable basis."
                     },
                     {
-                        "Paragraph_txt": "Insurance company separate accounts are required to be registered as securities with the SEC. Therefore, insurance company employees and financial professionals who sell products supported by separate accounts—such as variable life insurance and variable annuity products—must also register with FINRA."
+                        "Paragraph_txt": "<br />Insurance company separate accounts are required to be registered as securities with the SEC. Therefore, insurance company employees and financial professionals who sell products supported by separate accounts—such as variable life insurance and variable annuity products—must also register with FINRA."
                     }
                 ]
             },
@@ -1680,7 +1683,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Commodity Futures Trading Commission (CFTC)</span> is an independent federal agency that regulates the futures and options markets. The CFTC’s regulations are intended to promote transparency and protect market participants from fraud, manipulation, and other abusive practices."
                     },
                     {
-                        "Paragraph_txt": "The Dodd-Frank Act expanded the regulatory framework for derivatives transactions. For example, Dodd-Frank granted the CFTC new authority within swaps markets. The SEC and CFTC split or share jurisdiction over swaps, depending on the type of swap involved in a transaction."
+                        "Paragraph_txt": "<br />The Dodd-Frank Act expanded the regulatory framework for derivatives transactions. For example, Dodd-Frank granted the CFTC new authority within swaps markets. The SEC and CFTC split or share jurisdiction over swaps, depending on the type of swap involved in a transaction."
                     }
                 ]
             },
@@ -1716,19 +1719,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, the federal government shares certain regulatory powers with state governments. For instance, while securities are generally regulated at the federal level, each state has its own securities laws and regulations that also affect financial services companies. Thus, every company doing securities business in a state must comply with the laws of that state as well as federal securities laws."
                     },
                     {
-                        "Paragraph_txt": "Many state securities laws are based on the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Uniform Securities Act</span>, which is a long-standing model law designed to provide a pattern for state legislators to follow in crafting state securities laws. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">model law</span> is a sample law designed to serve as the basis for similar laws enacted by each state. The Uniform Securities Act was created by the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Uniform Law Commission</span>, which provides states with nonpartisan, model legislation that brings clarity and stability to critical areas of state statutory law."
+                        "Paragraph_txt": "<br />Many state securities laws are based on the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Uniform Securities Act</span>, which is a long-standing model law designed to provide a pattern for state legislators to follow in crafting state securities laws. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">model law</span> is a sample law designed to serve as the basis for similar laws enacted by each state. The Uniform Securities Act was created by the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Uniform Law Commission</span>, which provides states with nonpartisan, model legislation that brings clarity and stability to critical areas of state statutory law."
                     },
                     {
-                        "Paragraph_txt": "State securities laws are known informally as <em>blue sky laws</em>. These laws are intended to protect the investing public against fraudulent or speculative investment schemes. The laws earned their collective nickname early in the 20th century because the fraudulent investments they aim to prevent were considered to have as much value as a piece of blue sky."
+                        "Paragraph_txt": "<br />State securities laws are known informally as <em>blue sky laws</em>. These laws are intended to protect the investing public against fraudulent or speculative investment schemes. The laws earned their collective nickname early in the 20th century because the fraudulent investments they aim to prevent were considered to have as much value as a piece of blue sky."
                     },
                     {
-                        "Paragraph_txt": "Most state securities laws require issuers to register newly issued securities with a specified state agency. State securities laws also generally regulate brokers and dealers operating in a state."
+                        "Paragraph_txt": "<br />Most state securities laws require issuers to register newly issued securities with a specified state agency. State securities laws also generally regulate brokers and dealers operating in a state."
                     },
                     {
-                        "Paragraph_txt": "Typically, investment advisors who are not required to register with the SEC register with the regulatory agency in the state(s) in which they conduct securities business."
+                        "Paragraph_txt": "<br />Typically, investment advisors who are not required to register with the SEC register with the regulatory agency in the state(s) in which they conduct securities business."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the entities involved in securities regulation that were covered in this section."
+                        "Paragraph_txt": "<br />The following chart summarizes the entities involved in securities regulation that were covered in this section."
                     }
                 ]
             },

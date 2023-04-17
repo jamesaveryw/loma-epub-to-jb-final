@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Data Visualization",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "When the data analysis phase is complete, the researcher generally reports conclusions to decision makers. Although detailed information is useful for an insurance company’s actuaries or accountants, senior management generally prefers to see big-picture summaries of conditions through written research reports or oral presentations with supporting visuals."
                     },
                     {
-                        "Paragraph_txt": "Similar to how a business case is established, which we covered in Chapter 5, research reports contain information that demonstrates value to the company at large. Research reports might include executive summaries, research methods, key findings, limitations, recommendations, benefits, and sources of data."
+                        "Paragraph_txt": "<br />Similar to how a business case is established, which we covered in Chapter 5, research reports contain information that demonstrates value to the company at large. Research reports might include executive summaries, research methods, key findings, limitations, recommendations, benefits, and sources of data."
                     },
                     {
-                        "Paragraph_txt": "For oral presentations, data visualization can be used to support a point by presenting important findings quickly. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Data visualization</span> is the use of illustrative graphics to convey an intuitive understanding of data. Some common forms of data visualization are tables, charts, and infographics."
+                        "Paragraph_txt": "<br />For oral presentations, data visualization can be used to support a point by presenting important findings quickly. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Data visualization</span> is the use of illustrative graphics to convey an intuitive understanding of data. Some common forms of data visualization are tables, charts, and infographics."
                     }
                 ]
             },
@@ -274,10 +244,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Call Center Hold Times</strong>"
                     },
                     {
-                        "Paragraph_txt": "Notice how the information below is&nbsp;difficult to interpret because the values have no meaningful order."
+                        "Paragraph_txt": "<br />Notice how the information below is&nbsp;difficult to interpret because the values have no meaningful order."
                     },
                     {
-                        "Paragraph_txt": "Saturday 1st shift: 2 minutes<br> Friday 3rd shift: 5 minutes, 14 seconds<br> Friday 1st shift: 26 seconds<br> Thursday 1st shift: 1 minute, 1 second<br> Tuesday 1st shift: 27 seconds<br> Saturday 3rd shift: 3 minutes, 37 seconds<br> Friday 2nd shift: 3 minutes, 22 seconds<br> Tuesday 2nd shift: 57 seconds<br> Thursday 2nd shift: 1 minute, 12 seconds<br> Saturday 2nd shift: 1 minute, 35 seconds<br> Sunday 3rd shift: 6 minutes, 45 seconds<br> Sunday 1st shift: 1 minute, 45 seconds<br> Tuesday 3rd shift: 1 minute, 45 seconds<br> Monday 3rd shift: 2 minutes, 4 seconds<br> Sunday 2nd shift: 2 minutes, 15 seconds<br> Thursday 3rd shift: 4 minutes, eight seconds<br> Wednesday 3rd shift: 1 minute, 37 seconds<br> Monday 2nd shift: 1 minute<br> Monday 1st shift: 37 seconds<br> Wednesday 2nd shift: 54 seconds<br> Wednesday 1st shift: 15 seconds"
+                        "Paragraph_txt": "<br />Saturday 1st shift: 2 minutes<br> Friday 3rd shift: 5 minutes, 14 seconds<br> Friday 1st shift: 26 seconds<br> Thursday 1st shift: 1 minute, 1 second<br> Tuesday 1st shift: 27 seconds<br> Saturday 3rd shift: 3 minutes, 37 seconds<br> Friday 2nd shift: 3 minutes, 22 seconds<br> Tuesday 2nd shift: 57 seconds<br> Thursday 2nd shift: 1 minute, 12 seconds<br> Saturday 2nd shift: 1 minute, 35 seconds<br> Sunday 3rd shift: 6 minutes, 45 seconds<br> Sunday 1st shift: 1 minute, 45 seconds<br> Tuesday 3rd shift: 1 minute, 45 seconds<br> Monday 3rd shift: 2 minutes, 4 seconds<br> Sunday 2nd shift: 2 minutes, 15 seconds<br> Thursday 3rd shift: 4 minutes, eight seconds<br> Wednesday 3rd shift: 1 minute, 37 seconds<br> Monday 2nd shift: 1 minute<br> Monday 1st shift: 37 seconds<br> Wednesday 2nd shift: 54 seconds<br> Wednesday 1st shift: 15 seconds"
                     }
                 ]
             },
@@ -592,7 +562,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In this format, it is easy to see which days and shifts have the longest average hold times. Among first shifts, Saturdays have the longest average hold times. Among second shifts, Fridays have the longest average hold times. And among third shifts, Sundays have the longest average hold times."
                     },
                     {
-                        "Paragraph_txt": "A table also makes it easier to display totals for values. Among day totals, Sundays have the longest average hold times. Among shift totals, third shifts have the longest average hold times. From this information, a manager can discover which shifts require additional attention."
+                        "Paragraph_txt": "<br />A table also makes it easier to display totals for values. Among day totals, Sundays have the longest average hold times. Among shift totals, third shifts have the longest average hold times. From this information, a manager can discover which shifts require additional attention."
                     }
                 ]
             },
@@ -653,6 +623,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.3 Frequency Distribution</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "9-3figure.jpg",
@@ -671,7 +674,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.3</strong> Frequency Distribution",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -761,6 +764,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.4 Heat Map</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "9-4figure.jpg",
@@ -779,7 +815,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.4</strong> Heat Map",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -869,6 +905,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.5 Scatter Diagram</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "9-5figure.jpg",
@@ -887,7 +956,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.5</strong> Scatter Diagram",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -977,6 +1046,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.6 Line Diagram</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "../../imgs/loma_335_chapter-9_f.png",
@@ -995,7 +1097,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.6</strong> Line Diagram",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1085,6 +1187,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.7 Bar Chart</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "9-7figure.jpg",
@@ -1103,7 +1238,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.7</strong> Bar Chart",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1193,6 +1328,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.8 Pie Chart</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "9-8figure.jpg",
@@ -1211,7 +1379,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.8</strong> Pie Chart",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1280,7 +1448,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Data analytics yields a lot of information, which makes infographics a good choice for data visualization. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">infographic</span> is a graphic representation designed to make information easy to understand and patterns easy to identify. As a result, infographics have a lot of potential to persuade audiences. Typically, infographics include the numbers or percentages most important for conveying a point, pictures or charts to convey relationships, and a small amount of text as needed to aid the visual. As opposed to other forms of data visualization that by themselves communicate facts without taking a stance, infographics combine facts with images in order to tell a story.<span class=\"ens\" id=\"loma335-ch9-span-72\"> <span class=\"endnote hidden\" data-note=\"loma335-ch9-en3\" epub:type=\"noteref\" id=\"loma335-ch9-span-73\" role=\"doc-noteref\">3</span> </span>"
                     },
                     {
-                        "Paragraph_txt": "To develop an effective infographic, a person should decide on the goal of the infographic, present facts supporting that goal, and use visuals to add context to the facts. Information that requires flowcharts, calls for side-by-side comparisons, or conveys direction will likely work well in an infographic. Figure 9.9 provides an example. A person can use infographics to convey a point to anyone who might influence a business decision or a business experience."
+                        "Paragraph_txt": "<br />To develop an effective infographic, a person should decide on the goal of the infographic, present facts supporting that goal, and use visuals to add context to the facts. Information that requires flowcharts, calls for side-by-side comparisons, or conveys direction will likely work well in an infographic. Figure 9.9 provides an example. A person can use infographics to convey a point to anyone who might influence a business decision or a business experience."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.9 Infographic Example</strong>"
                     }
                 ]
             },
@@ -1303,7 +1504,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.9</strong> Infographic Example",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
