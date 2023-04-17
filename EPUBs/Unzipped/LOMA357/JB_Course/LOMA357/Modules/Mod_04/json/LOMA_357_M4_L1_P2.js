@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Functional Regulatory Systems",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -210,7 +180,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Financial services companies have diverse operations and can provide several types of products and services to their customers. Because their operations can support multiple activities—such as securities, insurance, and banking—such companies are hard to categorize for regulatory purposes."
                     },
                     {
-                        "Paragraph_txt": "Instead of company-based regulation, regulatory entities generally use <span class=\"keyterm\" tabindex=\"0\" role=\"button\">functional regulation</span>, which is the principle that a single regulatory body should oversee similar financial activities, regardless of which type of financial institution engages in the activity. With a functional regulation framework, a company that performs multiple functions is likely to be subject to regulations from multiple regulatory entities. "
+                        "Paragraph_txt": "<br />Instead of company-based regulation, regulatory entities generally use <span class=\"keyterm\" tabindex=\"0\" role=\"button\">functional regulation</span>, which is the principle that a single regulatory body should oversee similar financial activities, regardless of which type of financial institution engages in the activity. With a functional regulation framework, a company that performs multiple functions is likely to be subject to regulations from multiple regulatory entities. "
                     }
                 ]
             },
@@ -273,7 +243,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Dexicos Life Insurance Company operates in 35 states within the United States. In addition, shares of Dexicos stock are publicly traded on U.S. stock exchanges."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: As an insurance company, Dexicos is subject to state insurance regulations for each state in which it operates. As a publicly traded company, Dexicos is subject to federal securities regulation."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: As an insurance company, Dexicos is subject to state insurance regulations for each state in which it operates. As a publicly traded company, Dexicos is subject to federal securities regulation."
                     }
                 ]
             },
@@ -401,7 +371,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Not every jurisdiction uses functional regulation to oversee the financial services industry. For instance, some jurisdictions outside of the United States have established a single law to address all aspects of financial services—namely securities, insurance, and banking. For jurisdictions that take this approach, the law typically addresses the formation, licensing, administration, conduct, transfer of ownership, and orderly termination of business entities across all aspects of financial services."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the four types of activities that have their own laws under a functional regulatory system."
+                        "Paragraph_txt": "<br />The following chart summarizes the four types of activities that have their own laws under a functional regulatory system."
                     }
                 ]
             },

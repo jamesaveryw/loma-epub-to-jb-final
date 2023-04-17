@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "The Innovative Thinking Process",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -147,6 +117,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.2 Complicated and Complex Issues</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "10-2figure.jpg",
@@ -165,7 +168,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.2</strong> Complicated and Complex Issues",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -323,7 +326,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Sales revenue from Product X has plateaued. A task force is formed to consider what the company should do. The group uses divergent thinking to consider every possibility, including discontinuing Product X, modifying Product X to better satisfy customer needs, and lowering Product X’s price. After discussing all identified courses of action, the group uses convergent thinking to decide that Product X is still a good product but needs better messaging so that customers are aware of the product’s value. The question posed is:"
                     },
                     {
-                        "Paragraph_txt": "How can we double the sales of Product X through more effective customer messaging?"
+                        "Paragraph_txt": "<br />How can we double the sales of Product X through more effective customer messaging?"
                     }
                 ]
             },
@@ -465,7 +468,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Global boundary:</strong> Our enterprise data warehouse is being transitioned to a new cloud-based system, making access to Product X data slow and cumbersome."
                     },
                     {
-                        "Paragraph_txt": "<strong>Specific boundaries:</strong> $20,000 budget; results in six months"
+                        "Paragraph_txt": "<br /><strong>Specific boundaries:</strong> $20,000 budget; results in six months"
                     }
                 ]
             },
@@ -607,7 +610,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Since Product X brings in approximately $5 million in revenue each year, the group asks, “Why is the budget for new messaging only $20,000?” <em>As a result of this question, the budget was increased to $50,000. </em> "
                     },
                     {
-                        "Paragraph_txt": "The group asks, “Why is the deadline only six months, given the technology complications?” <em>As a result of this question, the time frame for completion was extended to 12 months. </em> "
+                        "Paragraph_txt": "<br />The group asks, “Why is the deadline only six months, given the technology complications?” <em>As a result of this question, the time frame for completion was extended to 12 months. </em> "
                     }
                 ]
             },
@@ -1148,7 +1151,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An individual can use the innovative thinking process outside of a group or project team. An individual can use divergent and convergent thinking to clarify a problem’s root cause, identify boundaries that constrain solutions, consider the customer in any solution, and consider at least three options for solving the problem. By following this process, an individual is more likely to come up with a solution that will take care of the problem in its entirety rather than simply treat the problem’s symptoms."
                     },
                     {
-                        "Paragraph_txt": "Innovation expert Charles Legrand says, “Words and language have a major impact on innovation and problem solving.” He advises paying particular attention during the innovative thinking process to “plastic” words—words without clear meanings—and to clarify these words to the greatest degree possible. For example, relative words such as “good” and “better” need to have objective standards associated with them. Watch Video 10.2 to see how plastic words can generate instant confusion."
+                        "Paragraph_txt": "<br />Innovation expert Charles Legrand says, “Words and language have a major impact on innovation and problem solving.” He advises paying particular attention during the innovative thinking process to “plastic” words—words without clear meanings—and to clarify these words to the greatest degree possible. For example, relative words such as “good” and “better” need to have objective standards associated with them. Watch Video 10.2 to see how plastic words can generate instant confusion."
                     }
                 ]
             },
@@ -1216,6 +1219,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.3 Checklist for Innovation Project Team</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "10-3figure.jpg",
@@ -1234,7 +1270,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.3</strong> Checklist for Innovation Project Team",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Measuring Investment Returns",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investors can measure investment returns for individual investments and investment portfolios. For the sake of simplicity, this chapter focuses on measuring returns of individual investments."
                     },
                     {
-                        "Paragraph_txt": "An investment return for a specific period can be expressed as a monetary amount or a percentage. To find the <em>rate of return</em>—which is expressed as a percentage—the investor divides the monetary amount of the return by the principal amount of the investment, as represented in the following formula:"
+                        "Paragraph_txt": "<br />An investment return for a specific period can be expressed as a monetary amount or a percentage. To find the <em>rate of return</em>—which is expressed as a percentage—the investor divides the monetary amount of the return by the principal amount of the investment, as represented in the following formula:"
                     }
                 ]
             },
@@ -497,7 +467,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Many investors express investment returns using rates of return. By using a percentage rate to represent their returns, investors can easily compare rates of return from a variety of investments—regardless of the differences in the type of asset, amount invested, or location of the investment."
                     },
                     {
-                        "Paragraph_txt": "Often, the expressed rate of return is the nominal rate of return. However, in periods of high inflation, the real rate of return is a better indicator of an investment’s growth in value. To find the real rate of return for a given period, investors need to adjust for the rate of inflation in that period."
+                        "Paragraph_txt": "<br />Often, the expressed rate of return is the nominal rate of return. However, in periods of high inflation, the real rate of return is a better indicator of an investment’s growth in value. To find the real rate of return for a given period, investors need to adjust for the rate of inflation in that period."
                     }
                 ]
             },
@@ -841,10 +811,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Laila Gregovich purchased $10,000 worth of shares of Lauticoal Company stock. Laila did not sell any shares for one year. After one year, her shares were worth $11,000. During the year, she also received $200 in dividend payments on her Lauticoal stock. Laila wants to calculate the rate of total return she received on her Lauticoal shares over the course of the year."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: First, Laila calculates her unrealized gain of $1,000, found as $11,000 – $10,000. Because she did not sell any shares, she does not have a realized gain."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: First, Laila calculates her unrealized gain of $1,000, found as $11,000 – $10,000. Because she did not sell any shares, she does not have a realized gain."
                     },
                     {
-                        "Paragraph_txt": "Next, she calculates the amount of the total return for the year:"
+                        "Paragraph_txt": "<br />Next, she calculates the amount of the total return for the year:"
                     }
                 ]
             },
@@ -1169,10 +1139,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investors use historical returns to estimate future returns for assets. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">historical return</span>, also known as an <em>actual return</em>, is a known investment performance result for a given period. A historical return can be expressed as a monetary amount or a percentage rate of return."
                     },
                     {
-                        "Paragraph_txt": "Using an asset’s historical returns, an investor estimates the probability that the asset’s future return will match its historical return. The investor also assigns probabilities based on a study of market and economic factors affecting the investment. Using these probabilities, the investor calculates the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">expected return</span>, which is the estimated future return—expressed as a monetary amount or a percentage rate of return—that an investor anticipates earning from an investment."
+                        "Paragraph_txt": "<br />Using an asset’s historical returns, an investor estimates the probability that the asset’s future return will match its historical return. The investor also assigns probabilities based on a study of market and economic factors affecting the investment. Using these probabilities, the investor calculates the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">expected return</span>, which is the estimated future return—expressed as a monetary amount or a percentage rate of return—that an investor anticipates earning from an investment."
                     },
                     {
-                        "Paragraph_txt": "Theoretically, the expected rate of return of an asset must meet or exceed an investor’s required rate of return before the investor will invest in the asset. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">required rate of return</span> is the annual rate of investment return an investor requires as reasonable compensation for a given level of risk and to satisfy the investor’s objectives. The formula for required rate of return is"
+                        "Paragraph_txt": "<br />Theoretically, the expected rate of return of an asset must meet or exceed an investor’s required rate of return before the investor will invest in the asset. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">required rate of return</span> is the annual rate of investment return an investor requires as reasonable compensation for a given level of risk and to satisfy the investor’s objectives. The formula for required rate of return is"
                     }
                 ]
             },
@@ -1448,10 +1418,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Bernard Westhaus, an investment analyst, is assessing a potential purchase of Lauticoal Company stock for his company’s investment portfolio. He wants to determine whether buying Lauticoal shares is appropriate for his company by comparing the stock’s expected rate of return to his company’s required rate of return for stocks."
                     },
                     {
-                        "Paragraph_txt": "Bernard estimates that the expected rate of return on Lauticoal’s shares is 10% annually. The current annual inflation rate is 1% and the risk-free rate is 2%. Bernard’s company has calculated the risk premium on stocks to be 5%."
+                        "Paragraph_txt": "<br />Bernard estimates that the expected rate of return on Lauticoal’s shares is 10% annually. The current annual inflation rate is 1% and the risk-free rate is 2%. Bernard’s company has calculated the risk premium on stocks to be 5%."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>:"
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>:"
                     }
                 ]
             },
@@ -1866,7 +1836,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Sabrina invested $5,000 into a mutual fund. One month later, Karl invested $1,000 into the same mutual fund. Three months later, Sabrina and Karl sold their investments."
                     },
                     {
-                        "Paragraph_txt": "Over four months, Sabrina received a total return amount of $175. Her holding period rate of return is 3.5%, calculated as follows:"
+                        "Paragraph_txt": "<br />Over four months, Sabrina received a total return amount of $175. Her holding period rate of return is 3.5%, calculated as follows:"
                     }
                 ]
             },
@@ -2623,7 +2593,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The arithmetic mean annual return can be misleading because the calculated value implies a steady rate of return for each year. In reality, the rates in some years may be close to the calculated average, while rates in other years may deviate significantly from the average."
                     },
                     {
-                        "Paragraph_txt": "The arithmetic mean annual return is a simple calculation that does not indicate the variability of returns in relation to the calculated average. Thus, the measure is not commonly used in investment performance calculations. Later in this chapter, we introduce a measure that uses the arithmetic mean to indicate the variability of returns."
+                        "Paragraph_txt": "<br />The arithmetic mean annual return is a simple calculation that does not indicate the variability of returns in relation to the calculated average. Thus, the measure is not commonly used in investment performance calculations. Later in this chapter, we introduce a measure that uses the arithmetic mean to indicate the variability of returns."
                     }
                 ]
             },
@@ -2659,10 +2629,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">annualized return</span>, also known as a <em>yearly rate of return</em> or an <em>annual rate of return</em>, is a rate of return calculation that expresses a return for a period longer than a year as a rate of return for one whole year. The formula for annualized return is beyond the scope of this text, but it involves accounting for the effect of compounding returns."
                     },
                     {
-                        "Paragraph_txt": "Annualized returns are not the same as <em>annual returns</em>, which are measured over a period of one year. Annualization is an adjustment to transform a rate of return for a longer period into a one-year rate of return. Annualizing returns helps investors compare the returns of investments held for different lengths of time."
+                        "Paragraph_txt": "<br />Annualized returns are not the same as <em>annual returns</em>, which are measured over a period of one year. Annualization is an adjustment to transform a rate of return for a longer period into a one-year rate of return. Annualizing returns helps investors compare the returns of investments held for different lengths of time."
                     },
                     {
-                        "Paragraph_txt": "Technically, one could annualize a return for a period of less than one year. However, certain international investment performance reporting standards—which we introduce in Chapter 5—specify that returns for periods of less than one year should not be annualized."
+                        "Paragraph_txt": "<br />Technically, one could annualize a return for a period of less than one year. However, certain international investment performance reporting standards—which we introduce in Chapter 5—specify that returns for periods of less than one year should not be annualized."
                     }
                 ]
             },

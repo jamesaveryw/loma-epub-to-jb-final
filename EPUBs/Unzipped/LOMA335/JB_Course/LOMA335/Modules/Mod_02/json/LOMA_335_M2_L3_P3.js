@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "The Quality Control Cycle",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "To improve on a specific product or service, an organization needs to have an established cycle of quality control activities. A <em>quality control cycle</em> is a feedback loop of quality management—similar to the feedback loop of any other operations management cycle—in which management makes a plan to achieve a goal, takes action toward achieving the goal, compares actual performance to the goal, and then adjusts the plan to reflect any mismatches discovered during the implementation process."
                     },
                     {
-                        "Paragraph_txt": "At the very least, a quality control cycle consists of quality planning, quality monitoring, quality analysis, and quality improvement, as shown in Figure 6.2. In other words, a company must set standards for its products and services; deliver, track, and evaluate results; and take actions to correct identified defects. Companies should incorporate as many of the principles of quality management as possible into every decision they make toward quality improvement."
+                        "Paragraph_txt": "<br />At the very least, a quality control cycle consists of quality planning, quality monitoring, quality analysis, and quality improvement, as shown in Figure 6.2. In other words, a company must set standards for its products and services; deliver, track, and evaluate results; and take actions to correct identified defects. Companies should incorporate as many of the principles of quality management as possible into every decision they make toward quality improvement."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.2 The Quality Control Cycle</strong>"
                     }
                 ]
             },
@@ -168,7 +171,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.2</strong> The Quality Control Cycle",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -272,6 +275,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.3 Information in a Customer Persona</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "6-3figure.jpg",
@@ -290,7 +326,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.3</strong> Information in a Customer Persona",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -727,10 +763,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Quality assurance</span> refers to the activities a company undertakes to make certain the company delivers satisfactory products and services to customers. Everyone in a company has some role in quality assurance. However, to make sure no activities are overlooked, companies assign certain employees or managers to support, monitor, and report quality for a particular area. These roles can be temporary or ongoing."
                     },
                     {
-                        "Paragraph_txt": "One way to establish accountability is by using quality circles. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">quality circle (QC)</span>is a problem-solving group of five to 10 employees who meet regularly to discuss quality improvement, suggest ways to reduce costs, and present recommendations to management. QCs might periodically review grievances from stakeholders and work to develop interventions. "
+                        "Paragraph_txt": "<br />One way to establish accountability is by using quality circles. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">quality circle (QC)</span>is a problem-solving group of five to 10 employees who meet regularly to discuss quality improvement, suggest ways to reduce costs, and present recommendations to management. QCs might periodically review grievances from stakeholders and work to develop interventions. "
                     },
                     {
-                        "Paragraph_txt": "The Six Sigma teams for process improvement mentioned in Chapter 4 consist of designated members with specific continuous improvement expertise. By contrast, QCs are often temporary and voluntary. QCs make decisions by <span class=\"keyterm\" tabindex=\"0\" role=\"button\">consensus</span>, which is an approach that requires all group members to understand and accept a solution before jointly choosing a course of action. In a QC consensus process, group members have the opportunity to negotiate which quality improvement activities to implement. "
+                        "Paragraph_txt": "<br />The Six Sigma teams for process improvement mentioned in Chapter 4 consist of designated members with specific continuous improvement expertise. By contrast, QCs are often temporary and voluntary. QCs make decisions by <span class=\"keyterm\" tabindex=\"0\" role=\"button\">consensus</span>, which is an approach that requires all group members to understand and accept a solution before jointly choosing a course of action. In a QC consensus process, group members have the opportunity to negotiate which quality improvement activities to implement. "
                     }
                 ]
             },
@@ -856,10 +892,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Benchmark</strong> "
                     },
                     {
-                        "Paragraph_txt": "Jerri, the customer experience manager at EndiFirst, gathered online information about average wait times for email responses. She supplemented this information with validated, public industry data from a benchmarking study of several comparable companies with similar products and markets."
+                        "Paragraph_txt": "<br />Jerri, the customer experience manager at EndiFirst, gathered online information about average wait times for email responses. She supplemented this information with validated, public industry data from a benchmarking study of several comparable companies with similar products and markets."
                     },
                     {
-                        "Paragraph_txt": "After averaging these companies’ email turnaround times, she found that EndiFirst representatives respond four hours sooner than average. Jerri concluded that customer service representatives are doing a good job prioritizing requests made through email."
+                        "Paragraph_txt": "<br />After averaging these companies’ email turnaround times, she found that EndiFirst representatives respond four hours sooner than average. Jerri concluded that customer service representatives are doing a good job prioritizing requests made through email."
                     }
                 ]
             },
@@ -955,7 +991,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<em>Quality monitoring </em>primarily consists of documenting occurrences and comparing them to the standards established during planning to identify exceptions. Most companies today automate monitoring activities whenever possible. First, software measures the work for some attribute of work quality. Then, the system checks the measure for consistency with a programmed quality standard. If the system finds a discrepancy, it alerts the user, who can either address the feasibility of the quality standards or correct the cause of the defects."
                     },
                     {
-                        "Paragraph_txt": "Often, the staff assigned to the area needs to refer the issue to someone in a more senior position. In most quality monitoring systems, each subsequent level up in the company hierarchy receives increasingly summarized and filtered reporting about controls and violations of standards. Within a quality control cycle, the role of executives is to review the violations and devise a plan to address them."
+                        "Paragraph_txt": "<br />Often, the staff assigned to the area needs to refer the issue to someone in a more senior position. In most quality monitoring systems, each subsequent level up in the company hierarchy receives increasingly summarized and filtered reporting about controls and violations of standards. Within a quality control cycle, the role of executives is to review the violations and devise a plan to address them."
                     }
                 ]
             },
@@ -1120,6 +1156,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.4 Performance Dashboard Display</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "6-4figure.jpg",
@@ -1138,7 +1207,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.4</strong> Performance Dashboard Display",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1326,25 +1395,25 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Dashboards and Cascading Reports</strong> "
                     },
                     {
-                        "Paragraph_txt": "<u>Corporate Performance Dashboard</u> "
+                        "Paragraph_txt": "<br /><u>Corporate Performance Dashboard</u> "
                     },
                     {
-                        "Paragraph_txt": "Rave Financial Services has a performance dashboard. The main display is a graph of the amount of monthly premiums since the beginning of the year and a comparison with last year. The next drill-down display shows a series of detailed tables about premiums by month, premiums by coverage, and premiums outstanding."
+                        "Paragraph_txt": "<br />Rave Financial Services has a performance dashboard. The main display is a graph of the amount of monthly premiums since the beginning of the year and a comparison with last year. The next drill-down display shows a series of detailed tables about premiums by month, premiums by coverage, and premiums outstanding."
                     },
                     {
-                        "Paragraph_txt": "<u>Sales Dashboards</u> "
+                        "Paragraph_txt": "<br /><u>Sales Dashboards</u> "
                     },
                     {
-                        "Paragraph_txt": "Rave’s main sales display graphs actual new business premiums since the beginning of the year compared to their expected levels. A series of cascading reports shows new business premiums by product line. The displays for a given product line show individual producing agents and identify the top producers for a given product line."
+                        "Paragraph_txt": "<br />Rave’s main sales display graphs actual new business premiums since the beginning of the year compared to their expected levels. A series of cascading reports shows new business premiums by product line. The displays for a given product line show individual producing agents and identify the top producers for a given product line."
                     },
                     {
-                        "Paragraph_txt": "<u>Service Dashboards</u> "
+                        "Paragraph_txt": "<br /><u>Service Dashboards</u> "
                     },
                     {
-                        "Paragraph_txt": "In a service dashboard, the indicator next to the top summary is a green light indicating that the expected level of service is being achieved, or another color when the expected service level is not being achieved."
+                        "Paragraph_txt": "<br />In a service dashboard, the indicator next to the top summary is a green light indicating that the expected level of service is being achieved, or another color when the expected service level is not being achieved."
                     },
                     {
-                        "Paragraph_txt": "Suppose the target level of service is to complete 80% of customer service transactions within five days. As long as the actual service level is at least 80%, the light remains green. If the actual service level drops below 80%, the indicator color turns to yellow. Below a specified lower level of tolerance (for example, 50%), the indicator color turns red, suggesting an immediate need for corrective action."
+                        "Paragraph_txt": "<br />Suppose the target level of service is to complete 80% of customer service transactions within five days. As long as the actual service level is at least 80%, the light remains green. If the actual service level drops below 80%, the indicator color turns to yellow. Below a specified lower level of tolerance (for example, 50%), the indicator color turns red, suggesting an immediate need for corrective action."
                     }
                 ]
             },
@@ -1409,6 +1478,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.5 Standard Control Chart</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "6-5figure.jpg",
@@ -1427,7 +1529,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.5</strong> Standard Control Chart",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1496,7 +1598,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In a control chart, the threshold values are the <em>control limits</em>. A control chart has two potential control limits, set by the user based on target performance. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">upper control limit </span>is the highest acceptable value for an observation within a normal range. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">lower control limit</span> is the lowest acceptable value within a normal range."
                     },
                     {
-                        "Paragraph_txt": "For some observations, such as the number of insureds, both upper and lower control limits are relevant. For other observations, such as the level of a cash account, the lower control limit is more important than the upper control limit. For many purposes, only one control limit is significant."
+                        "Paragraph_txt": "<br />For some observations, such as the number of insureds, both upper and lower control limits are relevant. For other observations, such as the level of a cash account, the lower control limit is more important than the upper control limit. For many purposes, only one control limit is significant."
                     }
                 ]
             },
@@ -1917,7 +2019,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In Chapter 4, you learned how insurers use <em>root-cause analysis </em>to analyze and resolve problems that affect the quality of company services and operations. Here, we introduce three additional approaches: PDCA, DMAIC, and DMADV. In many cases, root-cause analysis happens at the analyzing phase of DMAIC and DMADV approaches."
                     },
                     {
-                        "Paragraph_txt": "A simple approach for identifying and resolving quality problems is the Plan-Do-Check-Act cycle.<span class=\"ens\" id=\"loma335-ch6-span-48\"> <span class=\"endnote hidden\" data-note=\"loma335-ch6-en6\" epub:type=\"noteref\" id=\"loma335-ch6-span-49\" role=\"doc-noteref\">6</span> </span>The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Plan-Do-Check-Act (PDCA) cycle</span>is a four-step control cycle technique for supporting quality improvement. The example below shows how EndiFirst could use PDCA to resolve its problem with claim forms. "
+                        "Paragraph_txt": "<br />A simple approach for identifying and resolving quality problems is the Plan-Do-Check-Act cycle.<span class=\"ens\" id=\"loma335-ch6-span-48\"> <span class=\"endnote hidden\" data-note=\"loma335-ch6-en6\" epub:type=\"noteref\" id=\"loma335-ch6-span-49\" role=\"doc-noteref\">6</span> </span>The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Plan-Do-Check-Act (PDCA) cycle</span>is a four-step control cycle technique for supporting quality improvement. The example below shows how EndiFirst could use PDCA to resolve its problem with claim forms. "
                     }
                 ]
             },
@@ -2597,7 +2699,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Pareto analysis follows a guideline known as the Pareto principle. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Pareto principle</span>states that a small percentage of causes contributes to a large percentage of the results. A similar guideline, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">80-20 principle</span>, expands the Pareto principle to other situations and states that, in any given situation, 20 percent of the components of a situation account for 80 percent of the outcomes. The primary message of both of these principles is that not all factors in a situation contribute equally to an outcome. As a result, when faced with a problem, a person or company should focus on the causes that contribute most to the problem. Resolving the most significant contributing cause or causes will produce a reasonably effective, if not perfect, solution. "
                     },
                     {
-                        "Paragraph_txt": "The graphical construct for applying Pareto analysis is called a Pareto chart. A basic <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Pareto chart</span> is a bar chart that depicts how much each factor contributes to a specified defect, with all sources arranged in descending order from left to right. The Pareto chart in Figure 6.6 displays the complaints relating to paperwork defects that EndiFirst’s claims director has received over the past six months after introduction of the new claim form. Some Pareto charts also describe the cost of defects."
+                        "Paragraph_txt": "<br />The graphical construct for applying Pareto analysis is called a Pareto chart. A basic <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Pareto chart</span> is a bar chart that depicts how much each factor contributes to a specified defect, with all sources arranged in descending order from left to right. The Pareto chart in Figure 6.6 displays the complaints relating to paperwork defects that EndiFirst’s claims director has received over the past six months after introduction of the new claim form. Some Pareto charts also describe the cost of defects."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.6 EndiFirst Claims and Pareto Analysis</strong>"
                     }
                 ]
             },
@@ -2620,7 +2755,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.6</strong> EndiFirst Claims and Pareto Analysis",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -2689,7 +2824,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "EndiFirst’s claims director noted that the department had received numerous complaints over the past six months. The reasons for these complaints are shown in the table below.&nbsp;The top three types of complaints—poor instructions, small type, and small blanks—account for 76% (31 + 28 + 17) of all complaints. EndiFirst’s claims director determined that he could reduce complaints significantly by addressing these top three causes."
+                        "Paragraph_txt": "<br />EndiFirst’s claims director noted that the department had received numerous complaints over the past six months. The reasons for these complaints are shown in the table below.&nbsp;The top three types of complaints—poor instructions, small type, and small blanks—account for 76% (31 + 28 + 17) of all complaints. EndiFirst’s claims director determined that he could reduce complaints significantly by addressing these top three causes."
                     }
                 ]
             },
@@ -2842,13 +2977,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fishbone diagram</span>, also called an <em>Ishikawa diagram</em>, is a graphical tool used for organizing potential causes for a problem and sorting the causes into defined categories. The primary benefit of the diagram is that it identifies problems as well as potential causes of those problems."
                     },
                     {
-                        "Paragraph_txt": "A fishbone diagram takes the form of a central horizontal line with diagonal lines, or “fish bones,” extending upward and downward from the horizontal line, and with a “fish head” at the right end. The fish head in the diagram is labeled with a name for the problem to be analyzed. The fish bones that extend diagonally behind the fish head represent potential causes of the problem, presented either in chronological order or in some other order logically suggested by the nature of the problem."
+                        "Paragraph_txt": "<br />A fishbone diagram takes the form of a central horizontal line with diagonal lines, or “fish bones,” extending upward and downward from the horizontal line, and with a “fish head” at the right end. The fish head in the diagram is labeled with a name for the problem to be analyzed. The fish bones that extend diagonally behind the fish head represent potential causes of the problem, presented either in chronological order or in some other order logically suggested by the nature of the problem."
                     },
                     {
-                        "Paragraph_txt": "Each fish bone is labeled with a potential cause. For example, in a chronologically arranged problem, the most recent potential cause is the label closest to the fish head and the earliest cause of the problem is closest to the fish tail. Another way to arrange causes is by degree of challenge posed, with the easiest problems to fix nearest the head."
+                        "Paragraph_txt": "<br />Each fish bone is labeled with a potential cause. For example, in a chronologically arranged problem, the most recent potential cause is the label closest to the fish head and the earliest cause of the problem is closest to the fish tail. Another way to arrange causes is by degree of challenge posed, with the easiest problems to fix nearest the head."
                     },
                     {
-                        "Paragraph_txt": "EndiFirst compiled its conclusions about the causes of defects and contributing factors in the following table:"
+                        "Paragraph_txt": "<br />EndiFirst compiled its conclusions about the causes of defects and contributing factors in the following table:"
                     }
                 ]
             },
@@ -2985,6 +3120,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.7 EndiFirst’s Fishbone Diagram</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "6-7figure.jpg",
@@ -3003,7 +3171,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.7</strong> EndiFirst’s Fishbone Diagram",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

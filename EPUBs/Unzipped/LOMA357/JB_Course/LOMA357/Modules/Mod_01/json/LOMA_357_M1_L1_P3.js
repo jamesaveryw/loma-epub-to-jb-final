@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Types of Investors",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "All types of investors buy and sell assets, such as securities. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Securities</span> are financial assets that represent either (1) an obligation of indebtedness owed by a business, a government, or an agency—in which case the security is a <em>debt security</em>—or (2) an ownership interest in a business—in which case the security is an <em>equity security</em>. A collection of securities and other types of investments owned by the same person or organization is called an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment portfolio</span>. An investor usually assembles an investment portfolio to meet a defined set of financial goals."
                     },
                     {
-                        "Paragraph_txt": "Investors vary according to their goals, size, skill, experience, and amount of capital. In general, the two main types of investors are retail investors and institutional investors."
+                        "Paragraph_txt": "<br />Investors vary according to their goals, size, skill, experience, and amount of capital. In general, the two main types of investors are retail investors and institutional investors."
                     }
                 ]
             },
@@ -181,13 +151,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Retail investors</span>, also called <em>individual investors</em> or <em>small investors</em>, are individual investors who buy and sell securities for their personal accounts."
                     },
                     {
-                        "Paragraph_txt": "Retail investors conduct investment activities on their own behalf using their own funds. Retail investors are considered “unsophisticated investors” because they usually do not have the skills or resources to conduct extensive investment research and analysis on their own. While some retail investors are organized and methodical, many do not have a clear plan or coordinated system that guides their investment activities."
+                        "Paragraph_txt": "<br />Retail investors conduct investment activities on their own behalf using their own funds. Retail investors are considered “unsophisticated investors” because they usually do not have the skills or resources to conduct extensive investment research and analysis on their own. While some retail investors are organized and methodical, many do not have a clear plan or coordinated system that guides their investment activities."
                     },
                     {
-                        "Paragraph_txt": "Many retail investors do not have large amounts of capital to devote to investing. As a result, they usually make relatively small trades. Therefore, one retail investor is unlikely to significantly affect the market for a given security based on his individual involvement."
+                        "Paragraph_txt": "<br />Many retail investors do not have large amounts of capital to devote to investing. As a result, they usually make relatively small trades. Therefore, one retail investor is unlikely to significantly affect the market for a given security based on his individual involvement."
                     },
                     {
-                        "Paragraph_txt": "Because of a lack of knowledge and resources, many retail investors are not inclined to branch out into a variety of asset types. Instead, they concentrate their efforts on the types of investments that they are comfortable with and can manage on their own. They also may not have enough funds to participate in investments with financial barriers to entry, such as high minimum initial investments."
+                        "Paragraph_txt": "<br />Because of a lack of knowledge and resources, many retail investors are not inclined to branch out into a variety of asset types. Instead, they concentrate their efforts on the types of investments that they are comfortable with and can manage on their own. They also may not have enough funds to participate in investments with financial barriers to entry, such as high minimum initial investments."
                     }
                 ]
             },
@@ -223,13 +193,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Institutional investors</span> are organizations that hold financial assets and trade securities in large volume. Examples of institutional investors are insurance companies, mutual funds, endowment funds, private foundations, retirement plans, and pension funds."
                     },
                     {
-                        "Paragraph_txt": "Institutional investors conduct investment activities on behalf of companies or groups of client accounts. For example, a pension fund invests to support payments made to its pensioners. Institutional investors pool funds from their clients to pursue investment opportunities more effectively than the individual clients could on their own."
+                        "Paragraph_txt": "<br />Institutional investors conduct investment activities on behalf of companies or groups of client accounts. For example, a pension fund invests to support payments made to its pensioners. Institutional investors pool funds from their clients to pursue investment opportunities more effectively than the individual clients could on their own."
                     },
                     {
-                        "Paragraph_txt": "Institutional investors are considered “sophisticated investors” because they can employ investment professionals who specialize in specific areas of investment research and analysis. They also have the resources to conduct portfolio management of their investments. In investments, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">portfolio management</span> is the administration of investment policy, strategy, and operations for a specified group of investments. To coordinate the efforts of investment professionals, the typical institutional investor has an investment group, or <em>investment function</em>, that follows a well-defined process and uses a comprehensive strategy to meet the investment goals of the institution."
+                        "Paragraph_txt": "<br />Institutional investors are considered “sophisticated investors” because they can employ investment professionals who specialize in specific areas of investment research and analysis. They also have the resources to conduct portfolio management of their investments. In investments, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">portfolio management</span> is the administration of investment policy, strategy, and operations for a specified group of investments. To coordinate the efforts of investment professionals, the typical institutional investor has an investment group, or <em>investment function</em>, that follows a well-defined process and uses a comprehensive strategy to meet the investment goals of the institution."
                     },
                     {
-                        "Paragraph_txt": "Unlike retail investors, most institutional investors have significant resources to devote to securities trading. Therefore, institutional investors are more likely than retail investors&nbsp;to place trades that are large enough to influence the price for a given security. When one market participant meaningfully pushes the price of a security beyond the range in which other market participants were expecting it to trade, the result is called “moving the market.”"
+                        "Paragraph_txt": "<br />Unlike retail investors, most institutional investors have significant resources to devote to securities trading. Therefore, institutional investors are more likely than retail investors&nbsp;to place trades that are large enough to influence the price for a given security. When one market participant meaningfully pushes the price of a security beyond the range in which other market participants were expecting it to trade, the result is called “moving the market.”"
                     }
                 ]
             },
@@ -352,16 +322,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "In addition to moving markets, the size of institutional investors usually allows them to have more influence than retail investors. For example, because they usually have more publicly traded stock shares than retail investors, institutional investors generally have more votes on certain corporate matters, such as the election of a publicly traded company’s board of directors."
                     },
                     {
-                        "Paragraph_txt": "Typically, institutional investors have more access to information than retail investors. For instance, they might have the opportunity to meet personally with a company’s executives and ask questions. Institutional investors also have more access to external research on specific securities, security issuers, and markets."
+                        "Paragraph_txt": "<br />Typically, institutional investors have more access to information than retail investors. For instance, they might have the opportunity to meet personally with a company’s executives and ask questions. Institutional investors also have more access to external research on specific securities, security issuers, and markets."
                     },
                     {
-                        "Paragraph_txt": "Institutional investors also have the ability to negotiate trading fees. Institutional investors typically pay varying fee rates that depend on the size of their trades. In contrast, retail investors usually pay a flat fee rate to broker-dealers, regardless of the size of their trade. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">broker-dealer</span>is a financial institution that (1) buys and sells securities either for itself or for its customers and (2) provides information and advice to customers regarding the purchase and sale of securities. Because of trading costs, retail investors usually trade less frequently than institutional investors."
+                        "Paragraph_txt": "<br />Institutional investors also have the ability to negotiate trading fees. Institutional investors typically pay varying fee rates that depend on the size of their trades. In contrast, retail investors usually pay a flat fee rate to broker-dealers, regardless of the size of their trade. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">broker-dealer</span>is a financial institution that (1) buys and sells securities either for itself or for its customers and (2) provides information and advice to customers regarding the purchase and sale of securities. Because of trading costs, retail investors usually trade less frequently than institutional investors."
                     },
                     {
-                        "Paragraph_txt": "Institutional investors can devote more time and energy to exploring and holding a wider range of asset types. They also have the expertise to participate in complex markets and the means to participate in investments with certain restrictions, such as minimum investment amounts. Therefore, institutional investors generally have more investment options than retail investors."
+                        "Paragraph_txt": "<br />Institutional investors can devote more time and energy to exploring and holding a wider range of asset types. They also have the expertise to participate in complex markets and the means to participate in investments with certain restrictions, such as minimum investment amounts. Therefore, institutional investors generally have more investment options than retail investors."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the differences between retail investors and institutional investors."
+                        "Paragraph_txt": "<br />The following chart summarizes the differences between retail investors and institutional investors."
                     }
                 ]
             },

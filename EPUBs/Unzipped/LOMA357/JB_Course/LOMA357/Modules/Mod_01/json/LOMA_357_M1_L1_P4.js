@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Insurers as Institutional Investors",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "As one of the largest institutional investors in the world, the insurance industry possesses significant investment capital. For instance, at the end of 2016, U.S. insurers reported more than $6.1 trillion of cash and invested assets.<span class=\"ens\" id=\"loma357-ch1-span-25\"> <span class=\"endnote hidden\" data-note=\"loma357-ch1-en1\" epub:type=\"noteref\" id=\"loma357-ch1-span-26\" role=\"doc-noteref\">1</span> </span>"
                     },
                     {
-                        "Paragraph_txt": "By investing in a wide range of businesses and industries, insurers supply funds that businesses use to engage in productive projects. Thus, insurers help facilitate economic growth around the world."
+                        "Paragraph_txt": "<br />By investing in a wide range of businesses and industries, insurers supply funds that businesses use to engage in productive projects. Thus, insurers help facilitate economic growth around the world."
                     },
                     {
-                        "Paragraph_txt": "As institutional investors, insurance companies primarily invest to support their insurance products. Like many financial services companies, insurance companies have an investment function that handles investment activities on behalf of the company."
+                        "Paragraph_txt": "<br />As institutional investors, insurance companies primarily invest to support their insurance products. Like many financial services companies, insurance companies have an investment function that handles investment activities on behalf of the company."
                     }
                 ]
             },
@@ -345,22 +315,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">general account</span>, also called a <em>general account portfolio</em>, is a life insurance company investment account in which the insurer maintains assets that support all of the insurer’s contractual obligations for guaranteed insurance products, such as whole life insurance or fixed annuity products. General account assets also support any guarantees found in variable products."
                     },
                     {
-                        "Paragraph_txt": "For the general account, the insurance company bears the investment risk and the risk attached to paying the insurance benefits or other product guarantees to customers. Because the customer has a claim to benefits and product guarantees under an insurance or annuity contract, the insurer is responsible for making sound investments that enable it to fulfill its guarantees."
+                        "Paragraph_txt": "<br />For the general account, the insurance company bears the investment risk and the risk attached to paying the insurance benefits or other product guarantees to customers. Because the customer has a claim to benefits and product guarantees under an insurance or annuity contract, the insurer is responsible for making sound investments that enable it to fulfill its guarantees."
                     },
                     {
-                        "Paragraph_txt": "The customer does not have a direct interest in the financial success of general account investments. From the customer’s point of view, as long as the insurer can meet its policy obligations, the customer typically is not concerned with how the company invests the premiums."
+                        "Paragraph_txt": "<br />The customer does not have a direct interest in the financial success of general account investments. From the customer’s point of view, as long as the insurer can meet its policy obligations, the customer typically is not concerned with how the company invests the premiums."
                     },
                     {
-                        "Paragraph_txt": "When a customer pays a premium for a fully guaranteed product, a portion of the money is usually invested through the company’s general account. Within the general account, the company’s investment function grows the money over time through its investments."
+                        "Paragraph_txt": "<br />When a customer pays a premium for a fully guaranteed product, a portion of the money is usually invested through the company’s general account. Within the general account, the company’s investment function grows the money over time through its investments."
                     },
                     {
-                        "Paragraph_txt": "For general accounts, the path of funds is relatively simple. After a customer’s premium is in the company’s accounts, it becomes a part of the funds available for investment professionals to use to purchase assets for the general account."
+                        "Paragraph_txt": "<br />For general accounts, the path of funds is relatively simple. After a customer’s premium is in the company’s accounts, it becomes a part of the funds available for investment professionals to use to purchase assets for the general account."
                     },
                     {
-                        "Paragraph_txt": "When an insurance policy’s benefits become payable, the company draws from the general account to pay those benefits. Sometimes, incoming cash flows from investments can fund outgoing cash payments of benefits. Other times, the company may need to sell invested assets to raise the cash for benefit payments."
+                        "Paragraph_txt": "<br />When an insurance policy’s benefits become payable, the company draws from the general account to pay those benefits. Sometimes, incoming cash flows from investments can fund outgoing cash payments of benefits. Other times, the company may need to sell invested assets to raise the cash for benefit payments."
                     },
                     {
-                        "Paragraph_txt": "In addition to death benefits, a life insurer may pay withdrawal benefits, policy loans, premium refunds, and surrender benefits from its general account. The general account is also used to pay for guarantees in variable products, such as guaranteed minimum benefit riders and fixed fund options."
+                        "Paragraph_txt": "<br />In addition to death benefits, a life insurer may pay withdrawal benefits, policy loans, premium refunds, and surrender benefits from its general account. The general account is also used to pay for guarantees in variable products, such as guaranteed minimum benefit riders and fixed fund options."
                     }
                 ]
             },
@@ -396,28 +366,28 @@ Lesson_Data_File([
                         "Paragraph_txt": "In addition to offering guaranteed products, life insurance companies offer nonguaranteed products in the form of variable life insurance and variable annuities. To support nonguaranteed products, insurance companies use separate accounts. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Separate accounts</span>, also called <em>separate account portfolios</em>, are asset accounts that are (1) maintained by an insurer apart from its general account and (2) used to manage the funds associated with the company’s variable products."
                     },
                     {
-                        "Paragraph_txt": "The term “separate account” is primarily used in the United States. In Canada, products that combine insurance benefits and investment performance are called <em>segregated funds</em>. Other countries may call such products <em>unit-linked portfolios</em>. For simplicity, this text uses the term “separate accounts” to refer to accounts supporting variable products inside and outside of the United States."
+                        "Paragraph_txt": "<br />The term “separate account” is primarily used in the United States. In Canada, products that combine insurance benefits and investment performance are called <em>segregated funds</em>. Other countries may call such products <em>unit-linked portfolios</em>. For simplicity, this text uses the term “separate accounts” to refer to accounts supporting variable products inside and outside of the United States."
                     },
                     {
-                        "Paragraph_txt": "Unlike general account products, the customer—not the company—bears most or all of the investment risk associated with a separate account product. We say “most or all” because a variable product may have contractual guarantees that cushion a customer from portions of the investment risk. For example, a customer’s variable annuity may contain a provision guaranteeing a minimum rate of return for a specified time period, even if the invested assets earn a lower rate than the guaranteed rate during that period. In this example, the guarantee is funded through the general account."
+                        "Paragraph_txt": "<br />Unlike general account products, the customer—not the company—bears most or all of the investment risk associated with a separate account product. We say “most or all” because a variable product may have contractual guarantees that cushion a customer from portions of the investment risk. For example, a customer’s variable annuity may contain a provision guaranteeing a minimum rate of return for a specified time period, even if the invested assets earn a lower rate than the guaranteed rate during that period. In this example, the guarantee is funded through the general account."
                     },
                     {
-                        "Paragraph_txt": "For a separate account product, the insurance company sets up an individual account linked to the customer, and the customer has a direct interest in the investment performance of the assets supporting the account. The customer typically elects to allocate her premium payments into at least one of several investment fund options, called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">subaccounts</span>. In addition to subaccounts, many variable products offer a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fixed fund option</span>, which guarantees a fixed rate of interest for a specified period of time. Premiums allocated to a fixed fund option are administered and invested with the insurer’s general account."
+                        "Paragraph_txt": "<br />For a separate account product, the insurance company sets up an individual account linked to the customer, and the customer has a direct interest in the investment performance of the assets supporting the account. The customer typically elects to allocate her premium payments into at least one of several investment fund options, called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">subaccounts</span>. In addition to subaccounts, many variable products offer a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fixed fund option</span>, which guarantees a fixed rate of interest for a specified period of time. Premiums allocated to a fixed fund option are administered and invested with the insurer’s general account."
                     },
                     {
-                        "Paragraph_txt": "The insurer tracks the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">market value</span>—in investing, the current price an asset would sell for in the marketplace—of the subaccounts, and the customer’s account value rises or falls in accordance with the change in the market values of the subaccounts the customer selected. Therefore, the benefit amount of a variable product typically depends directly on the investment performance of the assets in the customer’s account."
+                        "Paragraph_txt": "<br />The insurer tracks the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">market value</span>—in investing, the current price an asset would sell for in the marketplace—of the subaccounts, and the customer’s account value rises or falls in accordance with the change in the market values of the subaccounts the customer selected. Therefore, the benefit amount of a variable product typically depends directly on the investment performance of the assets in the customer’s account."
                     },
                     {
-                        "Paragraph_txt": "When the customer of a variable product pays a premium to the insurance company, part of the money is usually invested with the company’s separate account assets. The insurer uses separate account funds to purchase shares of the specific subaccounts chosen by the customers."
+                        "Paragraph_txt": "<br />When the customer of a variable product pays a premium to the insurance company, part of the money is usually invested with the company’s separate account assets. The insurer uses separate account funds to purchase shares of the specific subaccounts chosen by the customers."
                     },
                     {
-                        "Paragraph_txt": "When a policy’s benefits come due, the company typically draws funds from the separate account assets to pay the benefits. Again, money for a guaranteed benefit would come from the general account instead of the separate account."
+                        "Paragraph_txt": "<br />When a policy’s benefits come due, the company typically draws funds from the separate account assets to pay the benefits. Again, money for a guaranteed benefit would come from the general account instead of the separate account."
                     },
                     {
-                        "Paragraph_txt": "Similar to the general account, incoming cash flows from separate account investments can fund outgoing cash payments of benefits. If the company needs to sell invested assets to raise cash for benefits, it sells shares of the appropriate subaccounts."
+                        "Paragraph_txt": "<br />Similar to the general account, incoming cash flows from separate account investments can fund outgoing cash payments of benefits. If the company needs to sell invested assets to raise cash for benefits, it sells shares of the appropriate subaccounts."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the differences between an insurer’s general account and separate accounts."
+                        "Paragraph_txt": "<br />The following chart summarizes the differences between an insurer’s general account and separate accounts."
                     }
                 ]
             },

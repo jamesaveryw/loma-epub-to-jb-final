@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "The ALM Process for General Accounts",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -212,6 +182,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.1 Example of General Account Portfolio Segmentation</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "6-1figure.jpg",
@@ -230,7 +233,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.1</strong> Example of General Account Portfolio Segmentation",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -400,10 +403,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "For insurers, two primary sources of income are premiums and investments. Premium income is closely identified with a specified product. Thus, allocation of premium income within a company’s accounting system is usually straightforward."
                     },
                     {
-                        "Paragraph_txt": "However, investment income may not be clearly connected with a given product or product line. Therefore, companies establish internal <em>investment income allocation methods </em>to reasonably and fairly assign investment income to product lines."
+                        "Paragraph_txt": "<br />However, investment income may not be clearly connected with a given product or product line. Therefore, companies establish internal <em>investment income allocation methods </em>to reasonably and fairly assign investment income to product lines."
                     },
                     {
-                        "Paragraph_txt": "Companies can develop various methods for assigning general account investment income. Two common investment income allocation methods are the mean liabilities method and the investment segmentation method."
+                        "Paragraph_txt": "<br />Companies can develop various methods for assigning general account investment income. Two common investment income allocation methods are the mean liabilities method and the investment segmentation method."
                     }
                 ]
             },
@@ -439,7 +442,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For an insurer, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">reserves</span> are liabilities that represent the amounts of money that the insurer expects to need to meet future contractual obligations. With the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mean liabilities method</span>, an insurer<strong> </strong>assigns investment income to each of its product lines in proportion to the reserves attributed to that product line. For example, if 40% of the insurer’s reserves are attributable to group life insurance, then the group life product line will receive 40% of the general account’s investment income."
                     },
                     {
-                        "Paragraph_txt": "One problem associated with the mean liabilities method is that newer lines of business may be allocated a share of the investment income generated by older, high-yielding investments that were purchased before the new products existed. For example, in a falling interest rate environment, (1) newer product lines generally have lower liability amounts and require less investment income than older product lines, and (2) the insurer’s newer investments generally have lower yields than its older investments, which were purchased during periods of higher interest rates. In this case, the insurer is partially supporting older product lines with investments that have lower yields than assumed during product development. Therefore, the insurer’s general account investments may not generate enough income to fully support the liabilities of the older products."
+                        "Paragraph_txt": "<br />One problem associated with the mean liabilities method is that newer lines of business may be allocated a share of the investment income generated by older, high-yielding investments that were purchased before the new products existed. For example, in a falling interest rate environment, (1) newer product lines generally have lower liability amounts and require less investment income than older product lines, and (2) the insurer’s newer investments generally have lower yields than its older investments, which were purchased during periods of higher interest rates. In this case, the insurer is partially supporting older product lines with investments that have lower yields than assumed during product development. Therefore, the insurer’s general account investments may not generate enough income to fully support the liabilities of the older products."
                     }
                 ]
             },
@@ -692,10 +695,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment segmentation method</span>, an insurance company uses the cash flows associated with a product line or portfolio segment to purchase specific assets for that line or segment. In essence, each segment’s products generate premiums that are used to purchase assets that the segment “owns.” As such, the segment receives any investment income that its assets generate."
                     },
                     {
-                        "Paragraph_txt": "Under this method, an insurer can develop separate investment strategies for different lines of business. Such versatility is important because cash flow patterns and investment income requirements differ among product lines. For instance, the cash flows of an insurer’s annuity products differ from those of its whole life insurance products."
+                        "Paragraph_txt": "<br />Under this method, an insurer can develop separate investment strategies for different lines of business. Such versatility is important because cash flow patterns and investment income requirements differ among product lines. For instance, the cash flows of an insurer’s annuity products differ from those of its whole life insurance products."
                     },
                     {
-                        "Paragraph_txt": "The investment segmentation method of investment income allocation is best illustrated through an example. Video 6.1 demonstrates the investment segmentation method in action."
+                        "Paragraph_txt": "<br />The investment segmentation method of investment income allocation is best illustrated through an example. Video 6.1 demonstrates the investment segmentation method in action."
                     }
                 ]
             },
@@ -975,6 +978,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.2 Example of an Integrated Portfolio Benchmarking Model</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "6-2figure.jpg",
@@ -993,7 +1029,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.2</strong> Example of an Integrated Portfolio Benchmarking Model",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1124,7 +1160,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "These portfolios are the objects of analysis in the integrated model. For analytical purposes, the model treats liabilities as <em>contra assets</em>, meaning they act as offsets against assets. As contra assets, the liabilities represent claims against assets and take on negative values."
                     },
                     {
-                        "Paragraph_txt": "General account assets back both the company’s liabilities and its capital. However, companies differ in how they apply benchmarking information to the assets backing their capital. For example, some companies combine the actual portfolios backing liabilities and capital. In contrast, other companies assign the assets backing capital to an actual capital portfolio and a capital benchmark. (In our model and Figure 6.2, we use the latter approach.)"
+                        "Paragraph_txt": "<br />General account assets back both the company’s liabilities and its capital. However, companies differ in how they apply benchmarking information to the assets backing their capital. For example, some companies combine the actual portfolios backing liabilities and capital. In contrast, other companies assign the assets backing capital to an actual capital portfolio and a capital benchmark. (In our model and Figure 6.2, we use the latter approach.)"
                     }
                 ]
             },
@@ -1225,16 +1261,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurance companies can develop strategic benchmarks by using <span class=\"keyterm\" tabindex=\"0\" role=\"button\">optimization modeling</span>, which is a form of mathematical modeling that focuses on finding an optimal solution to several simultaneous equations. To optimize a portfolio, the model searches for an ideal or “optimal” combination of risk and return measures, in which return is maximized for a specified level of risk."
                     },
                     {
-                        "Paragraph_txt": "Modeling software develops an optimal A/L portfolio and A/L benchmark. An insurer uses the A/L portfolio as a target portfolio because it represents the ideal long-run positioning for its general account assets after factoring in its liability considerations."
+                        "Paragraph_txt": "<br />Modeling software develops an optimal A/L portfolio and A/L benchmark. An insurer uses the A/L portfolio as a target portfolio because it represents the ideal long-run positioning for its general account assets after factoring in its liability considerations."
                     },
                     {
-                        "Paragraph_txt": "The insurer uses investment strategies to reposition assets so that the assets portfolio will eventually acquire the risk-and-return profile of the A/L benchmark. As the strategies are implemented over time, the asset allocations will shift, and the assets benchmark will migrate until it more closely resembles the A/L benchmark. Therefore, insurers use the A/L benchmark as a long-term target for the performance of general account assets."
+                        "Paragraph_txt": "<br />The insurer uses investment strategies to reposition assets so that the assets portfolio will eventually acquire the risk-and-return profile of the A/L benchmark. As the strategies are implemented over time, the asset allocations will shift, and the assets benchmark will migrate until it more closely resembles the A/L benchmark. Therefore, insurers use the A/L benchmark as a long-term target for the performance of general account assets."
                     },
                     {
-                        "Paragraph_txt": "The characteristics of the actual liabilities portfolio change over time with the addition of new liabilities. As the liabilities portfolio changes, the liabilities benchmark and the A/L benchmark change accordingly."
+                        "Paragraph_txt": "<br />The characteristics of the actual liabilities portfolio change over time with the addition of new liabilities. As the liabilities portfolio changes, the liabilities benchmark and the A/L benchmark change accordingly."
                     },
                     {
-                        "Paragraph_txt": "By comparing the changes in the A/L benchmark to changes in the assets benchmark and liabilities benchmark, insurance companies can examine the different benchmark performances. Such analysis (1) may provide insights into the performance of their assets and liabilities portfolios and (2) can indicate which portfolios need adjustments if benchmarks are not being met."
+                        "Paragraph_txt": "<br />By comparing the changes in the A/L benchmark to changes in the assets benchmark and liabilities benchmark, insurance companies can examine the different benchmark performances. Such analysis (1) may provide insights into the performance of their assets and liabilities portfolios and (2) can indicate which portfolios need adjustments if benchmarks are not being met."
                     }
                 ]
             },
@@ -1270,7 +1306,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "One type of liabilities benchmark that insurance companies develop for their benchmarking portfolios is a replicating portfolio. For an insurance company, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">replicating portfolio</span> is a virtual pool of assets created to mimic the cash flows and market values observed in a specified pool of liabilities."
                     },
                     {
-                        "Paragraph_txt": "Portfolio modeling professionals view insurance products as having an identifiable set of financial risk and return characteristics—such as fixed cash flows, distributions of dividends or excess interest, and minimum guaranteed values. Therefore, to create a replicating portfolio for a pool of liabilities, a modeler finds publicly traded investment vehicles that match the identified risk and return characteristics of the liability pool. Figure 6.3 lists the steps for creating a replicating portfolio."
+                        "Paragraph_txt": "<br />Portfolio modeling professionals view insurance products as having an identifiable set of financial risk and return characteristics—such as fixed cash flows, distributions of dividends or excess interest, and minimum guaranteed values. Therefore, to create a replicating portfolio for a pool of liabilities, a modeler finds publicly traded investment vehicles that match the identified risk and return characteristics of the liability pool. Figure 6.3 lists the steps for creating a replicating portfolio."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.3 How to Create a Replicating Portfolio for Liabilities</strong>"
                     }
                 ]
             },
@@ -1293,7 +1362,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.3</strong> How to Create a Replicating Portfolio for Liabilities",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1362,16 +1431,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "First, modelers identify market-traded assets that exhibit the financial risk and return characteristics of the company’s liabilities. Then they select market indexes that display the relevant characteristics of the selected asset classes. Published market indexes do not directly reflect replicating portfolio market values because insurance company liabilities are not generally traded in public securities markets. However, market indexes for publicly traded assets can be used as source data for replicating portfolios."
                     },
                     {
-                        "Paragraph_txt": "After choosing market indexes, modelers assemble the component market indexes in suitable proportions to form a virtual portfolio that reasonably approximates the financial profile of a given product type—or even the company’s entire pool of liabilities. In essence, the insurer is choosing assets that will behave like its liabilities. For example, the cash flows of a selected group of bonds with 10 years until maturity could replicate the cash flows of a group of term life policies with 10 years until expiration."
+                        "Paragraph_txt": "<br />After choosing market indexes, modelers assemble the component market indexes in suitable proportions to form a virtual portfolio that reasonably approximates the financial profile of a given product type—or even the company’s entire pool of liabilities. In essence, the insurer is choosing assets that will behave like its liabilities. For example, the cash flows of a selected group of bonds with 10 years until maturity could replicate the cash flows of a group of term life policies with 10 years until expiration."
                     },
                     {
-                        "Paragraph_txt": "Liability cash flows can be hard to estimate for some insurance products, so a replicating portfolio is unlikely to be a perfect match for an actual liability pool. Nevertheless, creating a replicating portfolio on a best-efforts basis is a valuable exercise for an insurance company."
+                        "Paragraph_txt": "<br />Liability cash flows can be hard to estimate for some insurance products, so a replicating portfolio is unlikely to be a perfect match for an actual liability pool. Nevertheless, creating a replicating portfolio on a best-efforts basis is a valuable exercise for an insurance company."
                     },
                     {
-                        "Paragraph_txt": "Insurers can use replicating portfolios to measure liability performance or to run simulations in quantitative models. For example, by using assets with obtainable market values as a proxy for liability market values, insurance companies can quickly model the effects that changes in financial conditions have on their liability pools."
+                        "Paragraph_txt": "<br />Insurers can use replicating portfolios to measure liability performance or to run simulations in quantitative models. For example, by using assets with obtainable market values as a proxy for liability market values, insurance companies can quickly model the effects that changes in financial conditions have on their liability pools."
                     },
                     {
-                        "Paragraph_txt": "In addition, replicating portfolios allow insurance companies to create an integrated view of assets and liabilities, which they can use to perform detailed analysis of ALM risks.<span class=\"ens\" id=\"loma357-ch6-span-28\"> <span class=\"endnote hidden\" data-note=\"loma357-ch6-en1\" epub:type=\"noteref\" id=\"loma357-ch6-span-29\" role=\"doc-noteref\">1</span> </span>Thus, replicating portfolios provide risk management and decision-making benefits."
+                        "Paragraph_txt": "<br />In addition, replicating portfolios allow insurance companies to create an integrated view of assets and liabilities, which they can use to perform detailed analysis of ALM risks.<span class=\"ens\" id=\"loma357-ch6-span-28\"> <span class=\"endnote hidden\" data-note=\"loma357-ch6-en1\" epub:type=\"noteref\" id=\"loma357-ch6-span-29\" role=\"doc-noteref\">1</span> </span>Thus, replicating portfolios provide risk management and decision-making benefits."
                     }
                 ]
             },

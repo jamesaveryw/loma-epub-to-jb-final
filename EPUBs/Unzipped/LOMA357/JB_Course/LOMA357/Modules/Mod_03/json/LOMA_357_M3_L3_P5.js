@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Evaluating Investment Performance",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,13 +115,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Institutional investors periodically evaluate the performance of their portfolios to assess their effectiveness in achieving their investment objectives. For example, life insurance companies evaluate their investment performance to ensure that they can (1) meet their contractual obligations to their customers, (2) maintain their solvency, and (3) increase their profitability."
                     },
                     {
-                        "Paragraph_txt": "The first step in evaluating a portfolio’s investment performance for a specific period is to gather data on the portfolio’s investments. Investment professionals usually want to know asset values for the beginning and end of the period being measured. In addition, they generally want records of portfolio transactions, such as asset sales or investment income received during the period."
+                        "Paragraph_txt": "<br />The first step in evaluating a portfolio’s investment performance for a specific period is to gather data on the portfolio’s investments. Investment professionals usually want to know asset values for the beginning and end of the period being measured. In addition, they generally want records of portfolio transactions, such as asset sales or investment income received during the period."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals use several types of systems to collect and record investment data. Such systems, as described in Chapter 1, contain information about portfolio holdings, transactions, and market values. Investment professionals use these systems to generate investment reports for review. At life insurance companies, such reports are reviewed by managers and oversight committees. For instance, an insurer’s risk committee reviews investment performance as part of its ALM oversight."
+                        "Paragraph_txt": "<br />Investment professionals use several types of systems to collect and record investment data. Such systems, as described in Chapter 1, contain information about portfolio holdings, transactions, and market values. Investment professionals use these systems to generate investment reports for review. At life insurance companies, such reports are reviewed by managers and oversight committees. For instance, an insurer’s risk committee reviews investment performance as part of its ALM oversight."
                     },
                     {
-                        "Paragraph_txt": "Evaluating an investment portfolio’s performance entails conducting internal reviews, external reviews, and attribution analysis. Investment professionals use the insights gained during the evaluation process to make adjustments to the portfolio’s ongoing management."
+                        "Paragraph_txt": "<br />Evaluating an investment portfolio’s performance entails conducting internal reviews, external reviews, and attribution analysis. Investment professionals use the insights gained during the evaluation process to make adjustments to the portfolio’s ongoing management."
                     }
                 ]
             },
@@ -465,10 +435,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals also compare a portfolio’s performance to the performance of other portfolios with comparable return objectives and risk characteristics. In other words, they compare a particular portfolio’s returns to the returns earned by other portfolios in its peer group."
                     },
                     {
-                        "Paragraph_txt": "By comparing a portfolio’s return to the results of its peer group, investment professionals can evaluate the portfolio’s relative performance. When compared to its peers, a portfolio’s relative outperformance is another indicator of effective management. For instance, if a portfolio consistently outperforms its peers, then its portfolio managers are particularly effective at managing investments that are suitable for a particular group of investors."
+                        "Paragraph_txt": "<br />By comparing a portfolio’s return to the results of its peer group, investment professionals can evaluate the portfolio’s relative performance. When compared to its peers, a portfolio’s relative outperformance is another indicator of effective management. For instance, if a portfolio consistently outperforms its peers, then its portfolio managers are particularly effective at managing investments that are suitable for a particular group of investors."
                     },
                     {
-                        "Paragraph_txt": "Life insurance companies conduct peer reviews of their subaccount offerings. Investment professionals compare the performance of a separate account fund option to that of other funds in its peer group. In addition, some insurers—such as publicly traded insurers—are able to compare their general account investment performance to that of their peers."
+                        "Paragraph_txt": "<br />Life insurance companies conduct peer reviews of their subaccount offerings. Investment professionals compare the performance of a separate account fund option to that of other funds in its peer group. In addition, some insurers—such as publicly traded insurers—are able to compare their general account investment performance to that of their peers."
                     }
                 ]
             },
@@ -860,7 +830,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Asset allocation and security selection are indicative of portfolio manager skill and are generally repeatable strategies. Momentum and asset concentration are market timing strategies and, thus, are not reliably repeatable."
                     },
                     {
-                        "Paragraph_txt": "The investment professional sees that the two largest factors in Portfolio A’s outperformance were asset allocation and security selection. Therefore, the investment professional is confident that the portfolio manager can repeat strong investment performance during future periods."
+                        "Paragraph_txt": "<br />The investment professional sees that the two largest factors in Portfolio A’s outperformance were asset allocation and security selection. Therefore, the investment professional is confident that the portfolio manager can repeat strong investment performance during future periods."
                     }
                 ]
             },
@@ -956,7 +926,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Using performance measurement and analysis, investment professionals identify the portfolio management practices that were effective and the ones that need improvement. For instance, they may decide to make changes to a portfolio’s asset holdings or make different tactical asset allocation decisions. If needed, they can also make adjustments to the portfolio’s long-term objectives, risk limits, and strategic asset allocations."
                     },
                     {
-                        "Paragraph_txt": "While determining the adjustments to make to the management of a particular portfolio, investment professionals also consider the types of factors that broadly influence investment returns. You read about a few of these factors in Chapter 4. For example, if an economy shifts from one phase of the business cycle to another during a given period, then the performance of multiple investments will be affected during that period. Therefore, investment professionals usually assess the market environment before implementing portfolio changes."
+                        "Paragraph_txt": "<br />While determining the adjustments to make to the management of a particular portfolio, investment professionals also consider the types of factors that broadly influence investment returns. You read about a few of these factors in Chapter 4. For example, if an economy shifts from one phase of the business cycle to another during a given period, then the performance of multiple investments will be affected during that period. Therefore, investment professionals usually assess the market environment before implementing portfolio changes."
                     }
                 ]
             },

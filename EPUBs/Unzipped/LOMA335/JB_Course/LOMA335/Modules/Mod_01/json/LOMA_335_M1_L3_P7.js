@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Group Dynamics",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Effective work groups outperform individuals because they include a greater diversity of opinions, which typically results in higher-quality decisions. For this reason, insurance operations utilize a variety of groups to accomplish work objectives. For example, an insurer might form a task force or an ad hoc committee on a temporary basis to solve an identified problem. Alternatively, in an effort to become more customer-centric or decrease a product’s time-to-market, an insurer might create an ongoing, cross-functional, self-directed work team that has the authority to make decisions and perform certain activities. As a result, understanding how groups and teams function in the workplace and how to motivate work group behavior is important."
                     },
                     {
-                        "Paragraph_txt": "In general, people have a need for belonging that can be satisfied by participating in groups. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">group</span> consists of two or more people who interact while sharing a common identity and purpose. <em>Informal groups</em> <strong> </strong>are a collection of people who come together primarily for friendship or social reasons. <em>Formal groups</em> <strong> </strong>are a collection of people who come together to do productive work. Sometimes informal and formal groups overlap in that coworkers may also be friends who socialize outside of work. However, our focus is on formal groups and how to motivate and increase effectiveness in work groups."
+                        "Paragraph_txt": "<br />In general, people have a need for belonging that can be satisfied by participating in groups. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">group</span> consists of two or more people who interact while sharing a common identity and purpose. <em>Informal groups</em> <strong> </strong>are a collection of people who come together primarily for friendship or social reasons. <em>Formal groups</em> <strong> </strong>are a collection of people who come together to do productive work. Sometimes informal and formal groups overlap in that coworkers may also be friends who socialize outside of work. However, our focus is on formal groups and how to motivate and increase effectiveness in work groups."
                     }
                 ]
             },
@@ -183,6 +153,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.5 Group Cohesiveness</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "3-5figure.jpg",
@@ -201,7 +204,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.5</strong> Group Cohesiveness",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -432,7 +435,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Management can facilitate successful work group development by (1) purposefully picking team members based on needed skills and knowledge, (2) acting as a resource without directing group activities, (3) empowering team members with authority and responsibility, and (4) allowing for flexibility in team roles."
                     },
                     {
-                        "Paragraph_txt": "As stated, group decisions are often of a higher quality than individual decisions. In addition, group decisions are more likely to be accepted than those made by individuals. However, groups take more time to reach decisions and can waste time if they get stuck in the storming stage; in addition, group decisions subject to groupthink can result in less-than-optimal decisions."
+                        "Paragraph_txt": "<br />As stated, group decisions are often of a higher quality than individual decisions. In addition, group decisions are more likely to be accepted than those made by individuals. However, groups take more time to reach decisions and can waste time if they get stuck in the storming stage; in addition, group decisions subject to groupthink can result in less-than-optimal decisions."
                     }
                 ]
             },

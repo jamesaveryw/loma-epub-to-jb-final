@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Data Acquisition",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -363,13 +333,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Quantitative Research Question</strong> "
                     },
                     {
-                        "Paragraph_txt": "How many customers have submitted complaints over the past year?"
+                        "Paragraph_txt": "<br />How many customers have submitted complaints over the past year?"
                     },
                     {
-                        "Paragraph_txt": "<strong>Qualitative Research Question</strong> "
+                        "Paragraph_txt": "<br /><strong>Qualitative Research Question</strong> "
                     },
                     {
-                        "Paragraph_txt": "How do customer service representatives influence hold times?"
+                        "Paragraph_txt": "<br />How do customer service representatives influence hold times?"
                     }
                 ]
             },
@@ -633,10 +603,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "To compare the likelihoods of particular call center complaints, Satish labels the complaints as follows:"
                     },
                     {
-                        "Paragraph_txt": "Complaints about hold times—Category A <br>Complaints about voice prompts—Category B <br>Complaints about inadequate or confusing information—Category C <br>Complaints about lack of resolution—Category D <br>Complaints about lack of courtesy or etiquette—Category E <br>Complaints that don’t fit in any of the above categories—Category F "
+                        "Paragraph_txt": "<br />Complaints about hold times—Category A <br>Complaints about voice prompts—Category B <br>Complaints about inadequate or confusing information—Category C <br>Complaints about lack of resolution—Category D <br>Complaints about lack of courtesy or etiquette—Category E <br>Complaints that don’t fit in any of the above categories—Category F "
                     },
                     {
-                        "Paragraph_txt": "This codification can provide Satish with the data he needs to determine when Category A complaints happen most often."
+                        "Paragraph_txt": "<br />This codification can provide Satish with the data he needs to determine when Category A complaints happen most often."
                     }
                 ]
             },
@@ -732,7 +702,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "What do researchers do with the collected data? The storage of acquired data is predominantly a question of architecture, and the issue differs from company to company."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Data architecture</span> describes the method or methods by which authorized users access and apply the information stored in company databases. The data stored can be structured, semistructured, or unstructured. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Structured data</span> exists in a fixed field within a record, data file, or spreadsheet; allows for systematic organization; and is easy to enter, store, and analyze. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Unstructured data</span>does not have a rigid pattern and can’t be organized systematically.<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Semistructured data</span> includes a combination of structured and unstructured elements. Figure 9.1 offers examples of these three data types. Companies that engage in enterprise-wide reporting make data in all three of these forms accessible to authorized users across the organization. "
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Data architecture</span> describes the method or methods by which authorized users access and apply the information stored in company databases. The data stored can be structured, semistructured, or unstructured. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Structured data</span> exists in a fixed field within a record, data file, or spreadsheet; allows for systematic organization; and is easy to enter, store, and analyze. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Unstructured data</span>does not have a rigid pattern and can’t be organized systematically.<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Semistructured data</span> includes a combination of structured and unstructured elements. Figure 9.1 offers examples of these three data types. Companies that engage in enterprise-wide reporting make data in all three of these forms accessible to authorized users across the organization. "
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.1 Data Types</strong>"
                     }
                 ]
             },
@@ -755,7 +758,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.1</strong> Data Types",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -824,10 +827,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Whether structured, unstructured, or semistructured, companies have to secure their protected data. Today’s high-volume flow of data can expose companies to risks from fraud and other malicious activity. In the United States, the total cost of insurance fraud was estimated at over $40 billion per year in 2018.<span class=\"ens\" id=\"loma335-ch9-span-23\"> <span class=\"endnote hidden\" data-note=\"loma335-ch9-en1\" epub:type=\"noteref\" id=\"loma335-ch9-span-24\" role=\"doc-noteref\">1</span> </span> "
                     },
                     {
-                        "Paragraph_txt": "The consequences of unauthorized access to protected data, such as personal, health, and financial information, are destructive to business in a number of ways. In Chapter 4, we addressed some of the methods that organizations use to protect their data from unauthorized access. Companies have security awareness trainings in place in addition to protective systems such as virtual private networks, intrusion detection, and antivirus software."
+                        "Paragraph_txt": "<br />The consequences of unauthorized access to protected data, such as personal, health, and financial information, are destructive to business in a number of ways. In Chapter 4, we addressed some of the methods that organizations use to protect their data from unauthorized access. Companies have security awareness trainings in place in addition to protective systems such as virtual private networks, intrusion detection, and antivirus software."
                     },
                     {
-                        "Paragraph_txt": "Insurers use a variety of additional security measures to protect the data stored in company databases. A common security measure is authentication. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Authentication requirements</span>enable companies to ensure that someone requesting or sending information is who he claims to be. The factors used for authentication can be <em>knowledge factors</em>, such as a password, phrase, or personal identification number; <em>personal factors</em>, such as fingerprints, signatures, or vocal features; or <em>ownership factors</em>, such as identification cards and security tokens. Most insurers require users to provide two authentication factors. For example, individuals logging into a company network from a remote site might be required to provide a password and a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">security token</span>, which is a device used to generate a one-time-use code the user enters in order to gain access to private company information. Another popular security measure is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">encryption</span>, wherein technology is used to encode collected data so that only an authorized person with the required hardware, software, or both can decode that data. "
+                        "Paragraph_txt": "<br />Insurers use a variety of additional security measures to protect the data stored in company databases. A common security measure is authentication. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Authentication requirements</span>enable companies to ensure that someone requesting or sending information is who he claims to be. The factors used for authentication can be <em>knowledge factors</em>, such as a password, phrase, or personal identification number; <em>personal factors</em>, such as fingerprints, signatures, or vocal features; or <em>ownership factors</em>, such as identification cards and security tokens. Most insurers require users to provide two authentication factors. For example, individuals logging into a company network from a remote site might be required to provide a password and a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">security token</span>, which is a device used to generate a one-time-use code the user enters in order to gain access to private company information. Another popular security measure is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">encryption</span>, wherein technology is used to encode collected data so that only an authorized person with the required hardware, software, or both can decode that data. "
                     }
                 ]
             },
@@ -999,7 +1002,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Sometimes an analyst needs more or better data to proceed with analysis. These cases might call for <em>data enrichment</em>, wherein an analyst pursues additional research to enhance the available data."
                     },
                     {
-                        "Paragraph_txt": "Ideally, the data used for analytical decision-making meets all the attributes of quality data. In reality, however, trade-offs are often necessary. For example, ensuring data timeliness may require sacrificing a degree of data accuracy, and ensuring maximum accuracy may require sacrificing timeliness."
+                        "Paragraph_txt": "<br />Ideally, the data used for analytical decision-making meets all the attributes of quality data. In reality, however, trade-offs are often necessary. For example, ensuring data timeliness may require sacrificing a degree of data accuracy, and ensuring maximum accuracy may require sacrificing timeliness."
                     }
                 ]
             },

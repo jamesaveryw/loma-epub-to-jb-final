@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Types of Investment Returns",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -207,7 +177,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An unrealized gain (or loss) represents the potential gain (or loss) that the investor would experience if she sold the asset at the current market price. Once the investor actually sells the asset, the unrealized gain (or loss) becomes a <em>realized gain </em>(or <em>realized loss</em>)."
                     },
                     {
-                        "Paragraph_txt": "Investors can calculate their returns on individual investments based on their (1) realized gains and losses or (2) unrealized gains and losses. Investment portfolios usually combine the realized gains/losses and unrealized gains/losses of their holdings to report portfolio returns."
+                        "Paragraph_txt": "<br />Investors can calculate their returns on individual investments based on their (1) realized gains and losses or (2) unrealized gains and losses. Investment portfolios usually combine the realized gains/losses and unrealized gains/losses of their holdings to report portfolio returns."
                     }
                 ]
             },
@@ -305,16 +275,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Typically, governments tax short-term capital gains at higher rates than long-term capital gains to discourage short-term investing and encourage long-term investing."
                     },
                     {
-                        "Paragraph_txt": "The tax rates for capital gains vary by country. Some countries tax capital gains at higher rates than other forms of income, such as wages; other countries tax capital gains at equal or lower rates than other forms of income."
+                        "Paragraph_txt": "<br />The tax rates for capital gains vary by country. Some countries tax capital gains at higher rates than other forms of income, such as wages; other countries tax capital gains at equal or lower rates than other forms of income."
                     },
                     {
-                        "Paragraph_txt": "Capital gains taxes reduce the actual profits that investors receive from realizing capital gains. Thus, an important aspect of portfolio management is managing tax exposure to maximize investment returns."
+                        "Paragraph_txt": "<br />Capital gains taxes reduce the actual profits that investors receive from realizing capital gains. Thus, an important aspect of portfolio management is managing tax exposure to maximize investment returns."
                     },
                     {
-                        "Paragraph_txt": "Certain investment vehicles—such as real estate, stocks, and funds that invest in stocks—are more likely to expose an investor to capital gains and capital gains taxes. For example, some mutual funds buy and sell stocks multiple times throughout the year and distribute capital gains to fund investors on a recurring basis, such as quarterly or annually. As a result, the fund investors have to pay income taxes on the fund’s capital gains. Therefore, many fund investors consider the likelihood of holding turnover—and the resulting tax liabilities—when investing in a mutual fund."
+                        "Paragraph_txt": "<br />Certain investment vehicles—such as real estate, stocks, and funds that invest in stocks—are more likely to expose an investor to capital gains and capital gains taxes. For example, some mutual funds buy and sell stocks multiple times throughout the year and distribute capital gains to fund investors on a recurring basis, such as quarterly or annually. As a result, the fund investors have to pay income taxes on the fund’s capital gains. Therefore, many fund investors consider the likelihood of holding turnover—and the resulting tax liabilities—when investing in a mutual fund."
                     },
                     {
-                        "Paragraph_txt": "For an investor, realizing a capital gain is one type of taxable event. In the context of investing, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">taxable event</span> is an investment transaction that results in taxable income. Investors also experience taxable events by receiving income payments such as interest, dividends, or rental income."
+                        "Paragraph_txt": "<br />For an investor, realizing a capital gain is one type of taxable event. In the context of investing, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">taxable event</span> is an investment transaction that results in taxable income. Investors also experience taxable events by receiving income payments such as interest, dividends, or rental income."
                     }
                 ]
             },
@@ -516,13 +486,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "For fixed-income securities and other debt assets, individual interest payments depend on factors unique to the asset—such as the issuer’s credit rating, the amount of the debt, and the debt’s interest rate. A particular debt asset’s interest rate is also influenced by market interest rates, as you will learn shortly."
                     },
                     {
-                        "Paragraph_txt": "Investors may receive dividend payments from companies that choose to distribute a portion of their profits directly to shareholders of their stocks. The amount of a particular dividend payment depends on the number of shares held and the declared dividend rate. Whether a company pays a dividend depends on many factors. For example, high-growth companies usually do not pay dividends because they are directing capital into growth projects that they expect to deliver more value to shareholders than dividend payments. In addition, companies must maintain profitability to sustain dividend payments, so a dividend-paying company that is struggling financially may cut or suspend dividend payments and use the money to address cash shortfalls."
+                        "Paragraph_txt": "<br />Investors may receive dividend payments from companies that choose to distribute a portion of their profits directly to shareholders of their stocks. The amount of a particular dividend payment depends on the number of shares held and the declared dividend rate. Whether a company pays a dividend depends on many factors. For example, high-growth companies usually do not pay dividends because they are directing capital into growth projects that they expect to deliver more value to shareholders than dividend payments. In addition, companies must maintain profitability to sustain dividend payments, so a dividend-paying company that is struggling financially may cut or suspend dividend payments and use the money to address cash shortfalls."
                     },
                     {
-                        "Paragraph_txt": "The amount of REIT dividends paid to investors depends on the amount of income taken in from the properties owned by the trust."
+                        "Paragraph_txt": "<br />The amount of REIT dividends paid to investors depends on the amount of income taken in from the properties owned by the trust."
                     },
                     {
-                        "Paragraph_txt": "Investors that own real estate properties can collect income in the form of rent and lease payments. How much income an individual property generates depends on the type of property, the amount of space rented out, the property’s appraised value, the property’s location, and economic factors—such as market interest rates and rental rates of comparable local properties."
+                        "Paragraph_txt": "<br />Investors that own real estate properties can collect income in the form of rent and lease payments. How much income an individual property generates depends on the type of property, the amount of space rented out, the property’s appraised value, the property’s location, and economic factors—such as market interest rates and rental rates of comparable local properties."
                     }
                 ]
             },

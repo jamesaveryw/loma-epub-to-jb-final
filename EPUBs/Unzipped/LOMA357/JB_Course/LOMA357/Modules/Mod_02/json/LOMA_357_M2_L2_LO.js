@@ -5,7 +5,7 @@ Lesson_Data_File([
             "Lesson_Header_Color": "#0070b0",
             "Lesson_Title_Color": "#ffffff",
             "Lesson_Title_Text": "",
-            "Page_Title": "Objectives",
+            "Page_Title": "Learning Objectives",
             "Progress_Bar_Color": "#f2c400",
             "Progress_Bar_Height": "3px",
             "heroSize": "75%",
@@ -14,127 +14,23 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
-                    {
-                        "sngl_Heading": "Objectives"
-                    },
-                    {
-                        "alignment": "center"
-                    },
-                    {
-                        "top_margin": "0px"
-                    },
-                    {
-                        "size": "h2"
-                    },
-                    {
-                        "style": "bold"
-                    },
-                    {
-                        "color": "#000000"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "border_color": ""
-                    },
-                    {
-                        "border_weight": ""
-                    },
-                    {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Objectives",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
-                        "background_color": "#FBF6D9",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "solid",
-                        "border_radius": "0px",
-                        "heading": "Leaning Objectives",
-                        "heading_font_size": "h3",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    },
-                    {
-                        "Paragraph_txt": ""
-                    }
-                ]
-            },
-            {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "",
+                        "List_Heading": "Learning Objectives",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
                         "heading_color": "",
-                        "heading_size": "h1",
+                        "heading_size": "h2",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
                         "paragraph_top_text_color": "#000000",
                         "paragraph_bot_text_color": "#000000"
                     },
                     {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "After studying this chapter, you should be able to"
-                            }
-                        ]
+                        "Top_Paragraphs": []
                     },
                     {
                         "align_text": "left"
@@ -160,28 +56,28 @@ Lesson_Data_File([
                     {
                         "list_items": [
                             {
-                                "lstText": "<strong>6 A&nbsp;</strong>Explain the function of enterprise risk management (ERM) within an insurance company and describe how asset-liability management (ALM) relates to ERM"
+                                "lstText": "Explain the function of enterprise risk management (ERM) within an insurance company and describe how asset-liability management (ALM) relates to ERM"
                             },
                             {
-                                "lstText": "<strong>6 B&nbsp;</strong>Identify the basic organizational structure for the ALM function within an insurance company"
+                                "lstText": "Identify the basic organizational structure for the ALM function within an insurance company"
                             },
                             {
-                                "lstText": "<strong>6 C&nbsp;</strong>Describe the practice of segmentation in the context of insurer general account portfolios"
+                                "lstText": "Describe the practice of segmentation in the context of insurer general account portfolios"
                             },
                             {
-                                "lstText": "<strong>6 D&nbsp;</strong>Describe two methods for allocating investment income to company liabilities"
+                                "lstText": "Describe two methods for allocating investment income to company liabilities"
                             },
                             {
-                                "lstText": "<strong>6 E&nbsp;</strong>Discuss an integrated portfolio benchmarking model for insurance companies and describe how insurers create replicating portfolios for their liabilities"
+                                "lstText": "Discuss an integrated portfolio benchmarking model for insurance companies and describe how insurers create replicating portfolios for their liabilities"
                             },
                             {
-                                "lstText": "<strong>6 F&nbsp;</strong>Identify and describe approaches for analyzing the risks in an insurance company’s cash flows, including sensitivity analysis and scenario testing"
+                                "lstText": "Identify and describe approaches for analyzing the risks in an insurance company’s cash flows, including sensitivity analysis and scenario testing"
                             },
                             {
-                                "lstText": "<strong>6 G&nbsp;</strong>Describe the various types of ALM reports that insurance companies use, including the investment activity report, investment portfolio performance review, duration gap report, risk positioning report, and hedge effectiveness report"
+                                "lstText": "Describe the various types of ALM reports that insurance companies use, including the investment activity report, investment portfolio performance review, duration gap report, risk positioning report, and hedge effectiveness report"
                             },
                             {
-                                "lstText": "<strong>6 H&nbsp;</strong>Describe insurer investment strategies related to ALM—such as portfolio immunization, portfolio dedication, and interest-rate anticipation—and explain the techniques of duration matching and cash-flow matching"
+                                "lstText": "Describe insurer investment strategies related to ALM—such as portfolio immunization, portfolio dedication, and interest-rate anticipation—and explain the techniques of duration matching and cash-flow matching"
                             }
                         ]
                     },

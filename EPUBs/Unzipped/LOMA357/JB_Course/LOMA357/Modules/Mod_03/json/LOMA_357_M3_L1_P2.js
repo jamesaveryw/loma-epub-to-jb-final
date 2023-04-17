@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Planning for Institutional Investment Portfolios",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -534,7 +504,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As you read in Chapter 5, institutional portfolio planning involves determining the portfolio’s purpose, objectives, and constraints. Institutions create investment policies that provide investment professionals with guidance on required returns, risk appetite, risk tolerance, risk limits, and restrictions on investment practices. Investment professionals periodically review a portfolio’s investment policy statement (IPS) to ensure that it accurately reflects the portfolio’s circumstances and requirements."
                     },
                     {
-                        "Paragraph_txt": "Insurance companies set investment policies at the corporate level, but particular portfolios—such as ones devoted to certain segments or product lines—can have additional policies or requirements that require attention during portfolio construction. For example, the investment professionals working on a portfolio dedicated to fixed annuity products tailor the portfolio to meet specific return requirements."
+                        "Paragraph_txt": "<br />Insurance companies set investment policies at the corporate level, but particular portfolios—such as ones devoted to certain segments or product lines—can have additional policies or requirements that require attention during portfolio construction. For example, the investment professionals working on a portfolio dedicated to fixed annuity products tailor the portfolio to meet specific return requirements."
                     }
                 ]
             },
@@ -638,7 +608,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Sub-asset classes help investors diversify their holdings within an asset class. Therefore, investment professionals use sub-asset classes to further customize a given portfolio’s risk profile."
                     },
                     {
-                        "Paragraph_txt": "In general, investment professionals work with an institution to determine the asset classes and sub-asset classes that are appropriate for a given portfolio. Recall that investors expect assets within an asset class to behave similarly, but each class may behave differently than other classes depending on the market environment. Investment professionals select each asset class in a portfolio for the particular risk and return features that it contributes to the overall portfolio."
+                        "Paragraph_txt": "<br />In general, investment professionals work with an institution to determine the asset classes and sub-asset classes that are appropriate for a given portfolio. Recall that investors expect assets within an asset class to behave similarly, but each class may behave differently than other classes depending on the market environment. Investment professionals select each asset class in a portfolio for the particular risk and return features that it contributes to the overall portfolio."
                     }
                 ]
             },
@@ -701,7 +671,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For a portfolio with a capital growth objective and a long time horizon, Kinnow Asset Management plans to allocate a significant portion to the equities asset class."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: The higher volatility associated with equities is not a problem for this portfolio because of its longer time horizon. In addition, equities are more likely to produce large investment gains over time, so this asset class will help the portfolio achieve its growth objective."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: The higher volatility associated with equities is not a problem for this portfolio because of its longer time horizon. In addition, equities are more likely to produce large investment gains over time, so this asset class will help the portfolio achieve its growth objective."
                     }
                 ]
             },
@@ -971,7 +941,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals can evaluate the strength of the relationship between two asset classes by using the correlation coefficient. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">correlation coefficient</span>is a statistical measure that indicates how closely movements in two asset classes track one another. The correlation coefficient expresses the risk correlation for any pairing of assets. "
                     },
                     {
-                        "Paragraph_txt": "Correlation coefficient values range from –1, which represents perfect negative correlation, to +1, which represents perfect positive correlation. For instance, if two asset classes have a correlation coefficient of +1, then an increase in the values of one asset class corresponds to an exactly equal increase in the values of the other asset class. The following table indicates the strength of the correlation associated with certain ranges of correlation coefficient values."
+                        "Paragraph_txt": "<br />Correlation coefficient values range from –1, which represents perfect negative correlation, to +1, which represents perfect positive correlation. For instance, if two asset classes have a correlation coefficient of +1, then an increase in the values of one asset class corresponds to an exactly equal increase in the values of the other asset class. The following table indicates the strength of the correlation associated with certain ranges of correlation coefficient values."
                     }
                 ]
             },
@@ -1192,7 +1162,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In general, stocks and bonds are negatively correlated. Assume that a portfolio holds assets from both asset classes. When the portfolio’s stock holdings are increasing in market value, its bond holdings are typically decreasing in value. Likewise, when its bond holdings are increasing in market value, its stock holdings are typically decreasing in value."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: In essence, holding both stocks and bonds helps the portfolio “smooth out” its returns. Traditionally, negative returns in one asset class are usually offset by positive returns in the other. Thus, pairing these two asset classes increases the likelihood that, at any point in time, the portfolio holds some assets that are gaining in value."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: In essence, holding both stocks and bonds helps the portfolio “smooth out” its returns. Traditionally, negative returns in one asset class are usually offset by positive returns in the other. Thus, pairing these two asset classes increases the likelihood that, at any point in time, the portfolio holds some assets that are gaining in value."
                     }
                 ]
             },
@@ -1255,10 +1225,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "Theoretically, a portfolio receives the greatest diversification benefits by pairing two asset classes with perfect negative correlation. However, finding a pair of asset classes with perfect negative correlation is extremely unlikely in practice."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals compare the correlation coefficient of one asset-class pairing to coefficients of other pairings to identify the best diversification possibilities. Investment professionals recognize that even asset classes with a strong positive correlation do not behave exactly alike. Thus, while negatively correlated asset classes are preferable, any two classes with a correlation coefficient of lower than +1 provide some diversification benefits to a portfolio."
+                        "Paragraph_txt": "<br />Investment professionals compare the correlation coefficient of one asset-class pairing to coefficients of other pairings to identify the best diversification possibilities. Investment professionals recognize that even asset classes with a strong positive correlation do not behave exactly alike. Thus, while negatively correlated asset classes are preferable, any two classes with a correlation coefficient of lower than +1 provide some diversification benefits to a portfolio."
                     },
                     {
-                        "Paragraph_txt": "To compare correlation coefficients, investment professionals can use an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">asset-class correlation matrix</span>, which is a table showing the correlation coefficients for all potential pairs of asset classes. Figure 7.2 is an example of a possible correlation matrix for several asset classes."
+                        "Paragraph_txt": "<br />To compare correlation coefficients, investment professionals can use an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">asset-class correlation matrix</span>, which is a table showing the correlation coefficients for all potential pairs of asset classes. Figure 7.2 is an example of a possible correlation matrix for several asset classes."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.2 Example of an Asset-Class Correlation Matrix</strong>"
                     }
                 ]
             },
@@ -1281,7 +1284,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.2</strong> Example of an Asset-Class Correlation Matrix",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1377,7 +1380,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Cora Friel, a portfolio manager, is constructing a new portfolio. She already knows the portfolio will have a significant allocation to U.S. large-cap stocks. Therefore, she wants to add another asset class that will offer diversification benefits to her portfolio. Using the correlation coefficient data from the first column of Figure 7.2’s asset-class correlation matrix, what asset classes should she consider selecting?"
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Any asset class with a correlation coefficient lower than +1 will provide some diversification benefits when paired with U.S. large-cap stocks. However, Cora will maximize the portfolio’s diversification benefit by selecting the asset class with the largest negative correlation coefficient—the coefficient closest to –1. If none of the asset classes are negatively correlated with U.S. large-cap stocks, she should select the asset class with the smallest positive correlation coefficient—the coefficient closest to 0. Based on Figure 7.2’s data, Cora should pair U.S. large-cap stocks with U.S. TIPS bonds (correlation coefficient of –0.05). Pairing U.S. large-cap stocks with cash (–0.03) or non-U.S. bonds (+0.05) would also be good choices."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Any asset class with a correlation coefficient lower than +1 will provide some diversification benefits when paired with U.S. large-cap stocks. However, Cora will maximize the portfolio’s diversification benefit by selecting the asset class with the largest negative correlation coefficient—the coefficient closest to –1. If none of the asset classes are negatively correlated with U.S. large-cap stocks, she should select the asset class with the smallest positive correlation coefficient—the coefficient closest to 0. Based on Figure 7.2’s data, Cora should pair U.S. large-cap stocks with U.S. TIPS bonds (correlation coefficient of –0.05). Pairing U.S. large-cap stocks with cash (–0.03) or non-U.S. bonds (+0.05) would also be good choices."
                     }
                 ]
             },
@@ -1538,7 +1541,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The output from MVO modeling is a selection of several optimal asset allocation scenarios, called <em>efficient portfolios</em>. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">efficient portfolio</span>, also called an <em>optimum portfolio</em>, is a hypothetical portfolio that earns the highest expected return for a given level of risk. In other words, an efficient portfolio represents a theoretically ideal asset allocation at a specified level of portfolio risk."
                     },
                     {
-                        "Paragraph_txt": "MVO modeling generates a group of efficient portfolios to represent ideal allocations for a range of risk levels. Each efficient portfolio consists of a list of asset classes and proportions, along with projected portfolio returns for each asset class under each of several economic scenarios. Investment professionals analyze MVO modeling results to search for the best possible asset allocation scenario within established risk and return constraints."
+                        "Paragraph_txt": "<br />MVO modeling generates a group of efficient portfolios to represent ideal allocations for a range of risk levels. Each efficient portfolio consists of a list of asset classes and proportions, along with projected portfolio returns for each asset class under each of several economic scenarios. Investment professionals analyze MVO modeling results to search for the best possible asset allocation scenario within established risk and return constraints."
                     }
                 ]
             },
@@ -1574,7 +1577,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When evaluating MVO-generated asset allocations, investment professionals use the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">efficient frontier</span>, which is the set of all hypothetical portfolios having the greatest expected return, each for a specified level of risk. An MVO model applies a mathematical formula to calculate an efficient frontier showing the positions of all efficient portfolios consistent with the investor’s modeling constraints."
                     },
                     {
-                        "Paragraph_txt": "The efficient frontier is an upward-sloping curve that incorporates every efficient portfolio. Video 7.2 illustrates a sample efficient frontier with several efficient portfolios from which investment professionals can choose. For comparison, several inefficient portfolios are also illustrated."
+                        "Paragraph_txt": "<br />The efficient frontier is an upward-sloping curve that incorporates every efficient portfolio. Video 7.2 illustrates a sample efficient frontier with several efficient portfolios from which investment professionals can choose. For comparison, several inefficient portfolios are also illustrated."
                     }
                 ]
             },
@@ -1780,13 +1783,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "While MVO modeling provides a useful framework for developing a portfolio’s SAA, the method does have some limitations. For example, MVO modeling depends on risk and return data inputs. Thus, one major limitation of MVO modeling is that small differences in the forecasts of risk and return for the asset classes can significantly affect the optimal asset allocation."
                     },
                     {
-                        "Paragraph_txt": "In addition, MVO incorporates assumptions that may not always be realistic. For instance, investment professionals typically base MVO calculations on historical returns. However, past investment results are not guaranteed to repeat in the future. In some circumstances, historical returns may be poor predictors of future asset class performance."
+                        "Paragraph_txt": "<br />In addition, MVO incorporates assumptions that may not always be realistic. For instance, investment professionals typically base MVO calculations on historical returns. However, past investment results are not guaranteed to repeat in the future. In some circumstances, historical returns may be poor predictors of future asset class performance."
                     },
                     {
-                        "Paragraph_txt": "As another example, the theory behind many MVO models assumes that investment results are normally distributed. As you read in Chapter 4, some assets have historical return distributions that are nonnormal. Although beyond the scope of this text, more sophisticated MVO models add complexity to optimization analysis by allowing for nonnormal distributions of asset class returns."
+                        "Paragraph_txt": "<br />As another example, the theory behind many MVO models assumes that investment results are normally distributed. As you read in Chapter 4, some assets have historical return distributions that are nonnormal. Although beyond the scope of this text, more sophisticated MVO models add complexity to optimization analysis by allowing for nonnormal distributions of asset class returns."
                     },
                     {
-                        "Paragraph_txt": "Despite the limitations, MVO modeling helps investment professionals evaluate the potential outcomes of their asset allocation decisions. Knowing that modeling cannot accurately predict future portfolio performance, investment professionals exercise judgment in applying the insights gained from modeling activities such as MVO."
+                        "Paragraph_txt": "<br />Despite the limitations, MVO modeling helps investment professionals evaluate the potential outcomes of their asset allocation decisions. Knowing that modeling cannot accurately predict future portfolio performance, investment professionals exercise judgment in applying the insights gained from modeling activities such as MVO."
                     }
                 ]
             },
@@ -1889,6 +1892,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.3 Example of Monte Carlo Modeling Outcomes</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "7-3figure.jpg",
@@ -1907,7 +1943,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.3</strong> Example of Monte Carlo Modeling Outcomes",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -2292,7 +2328,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Generally, each actively traded asset class has at least one associated market index. Recall that a <em>market index</em> tracks the performance of a group of similar investments. Investment professionals use the market index associated with a particular asset class as a benchmark for its performance."
                     },
                     {
-                        "Paragraph_txt": "Using the asset class benchmarks, investment professionals create a blended benchmark for the entire portfolio. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">blended benchmark</span> comprises the asset class benchmarks in the proportion that each asset class will be held in a given portfolio. In other words, the asset class benchmarks are weighted according to the portfolio’s strategic asset allocation."
+                        "Paragraph_txt": "<br />Using the asset class benchmarks, investment professionals create a blended benchmark for the entire portfolio. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">blended benchmark</span> comprises the asset class benchmarks in the proportion that each asset class will be held in a given portfolio. In other words, the asset class benchmarks are weighted according to the portfolio’s strategic asset allocation."
                     }
                 ]
             },
@@ -2355,7 +2391,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Suppose a portfolio manager plans a 60% allocation to stocks and a 40% allocation to bonds for a particular investment portfolio. The portfolio manager selects the S&amp;P 500 Index as the benchmark for the portfolio’s stock asset class and the Barclays US Aggregate Bond Index as the benchmark for the bond asset class."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: The blended benchmark is a weighted combination of the asset class benchmarks. In this case, the portfolio’s blended benchmark is calculated as:"
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: The blended benchmark is a weighted combination of the asset class benchmarks. In this case, the portfolio’s blended benchmark is calculated as:"
                     }
                 ]
             },
@@ -2498,13 +2534,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "The final step in constructing an investment portfolio is purchasing individual assets for each asset class. Investment professionals purchase assets in specified proportions, according to the planned SAA. In investing, purchasing assets to fit a portfolio’s asset allocation is called <em>positioning</em> the portfolio."
                     },
                     {
-                        "Paragraph_txt": "To position a portfolio, the investment team identifies appropriate assets to represent each SAA asset class. The team ranks available assets in terms of their fit with the portfolio’s needs for various risks, returns, and other characteristics. Then the team purchases the assets that best meet the needs within each asset class. This process continues until all the asset classes are filled and the portfolio contains its initial array of asset holdings."
+                        "Paragraph_txt": "<br />To position a portfolio, the investment team identifies appropriate assets to represent each SAA asset class. The team ranks available assets in terms of their fit with the portfolio’s needs for various risks, returns, and other characteristics. Then the team purchases the assets that best meet the needs within each asset class. This process continues until all the asset classes are filled and the portfolio contains its initial array of asset holdings."
                     },
                     {
-                        "Paragraph_txt": "Typically, the factors that investment professionals use to identify, evaluate, and select individual assets depend on the type of asset being purchased. Later in the chapter, we provide an extended example to demonstrate a few factors for a couple of selected asset types."
+                        "Paragraph_txt": "<br />Typically, the factors that investment professionals use to identify, evaluate, and select individual assets depend on the type of asset being purchased. Later in the chapter, we provide an extended example to demonstrate a few factors for a couple of selected asset types."
                     },
                     {
-                        "Paragraph_txt": "Some selection factors are common to multiple asset types, as described in Chapters 2 and 3. Usually, a portfolio’s IPS provides guidelines regarding these factors. Some common factors are the asset’s sector and industry, ratings, liquidity, transaction costs, and environmental, social, and governance (ESG) factors."
+                        "Paragraph_txt": "<br />Some selection factors are common to multiple asset types, as described in Chapters 2 and 3. Usually, a portfolio’s IPS provides guidelines regarding these factors. Some common factors are the asset’s sector and industry, ratings, liquidity, transaction costs, and environmental, social, and governance (ESG) factors."
                     }
                 ]
             },
@@ -2540,10 +2576,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals can group securities by the sector or industry of the issuer. For instance, investors could consider common stocks issued by companies in the energy sector or corporate bonds issued by health care sector companies."
                     },
                     {
-                        "Paragraph_txt": "Investors can also further categorize securities by grouping them according to sub-sector or sub-industry. For example, investors could group all corporate bonds issued by companies in the beverages industry. Within the beverages industry, sub-industries could include brewery companies, distillery companies, and soft drink companies."
+                        "Paragraph_txt": "<br />Investors can also further categorize securities by grouping them according to sub-sector or sub-industry. For example, investors could group all corporate bonds issued by companies in the beverages industry. Within the beverages industry, sub-industries could include brewery companies, distillery companies, and soft drink companies."
                     },
                     {
-                        "Paragraph_txt": "Depending on an investment team’s research, it may decide to increase or decrease exposure to certain sectors or industries within an asset class. For instance, if a team is optimistic about the earnings prospects of the information technology sector, it might select more securities from that sector to include in the portfolio’s equity holdings."
+                        "Paragraph_txt": "<br />Depending on an investment team’s research, it may decide to increase or decrease exposure to certain sectors or industries within an asset class. For instance, if a team is optimistic about the earnings prospects of the information technology sector, it might select more securities from that sector to include in the portfolio’s equity holdings."
                     }
                 ]
             },
@@ -2678,7 +2714,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "In Chapter 5, we introduced the concept of socially responsible investing (SRI). For institutional investors, SRI generally involves excluding certain types of investments based on a particular institution’s beliefs."
                     },
                     {
-                        "Paragraph_txt": "In recent years, investors have started applying SRI concepts to the analysis of potential investments by considering how companies perform on measures of sustainability and ethical behaviors. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Environmental, social, and governance (ESG) factors</span> are a set of standards that screen potential investments based on a company’s practices regarding environmental, social, and governance issues. Figure 7.4 provides some examples of the kinds of criteria used in ESG screening."
+                        "Paragraph_txt": "<br />In recent years, investors have started applying SRI concepts to the analysis of potential investments by considering how companies perform on measures of sustainability and ethical behaviors. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Environmental, social, and governance (ESG) factors</span> are a set of standards that screen potential investments based on a company’s practices regarding environmental, social, and governance issues. Figure 7.4 provides some examples of the kinds of criteria used in ESG screening."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.4 Examples of Considerations for ESG Factors</strong>"
                     }
                 ]
             },
@@ -2701,7 +2770,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.4</strong> Examples of Considerations for ESG Factors",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -2770,7 +2839,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Companies that score higher on ESG factors tend to be more conscientious about managing risks, increasing value for all stakeholders, and promoting long-term profitability. Academic research also suggests that these companies demonstrate stronger long-term financial performance than companies with lower scores on the same factors."
                     },
                     {
-                        "Paragraph_txt": "Institutional investors are placing a higher priority on investing in companies that reflect the values of an institution’s constituents. Therefore, more investment professionals are considering ESG factors—in addition to the traditional financial metrics—to identify the best investments for institutional portfolios."
+                        "Paragraph_txt": "<br />Institutional investors are placing a higher priority on investing in companies that reflect the values of an institution’s constituents. Therefore, more investment professionals are considering ESG factors—in addition to the traditional financial metrics—to identify the best investments for institutional portfolios."
                     }
                 ]
             },

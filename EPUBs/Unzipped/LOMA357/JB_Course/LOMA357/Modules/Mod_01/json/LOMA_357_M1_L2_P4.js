@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Bonds",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall from Chapter 1 that one type of security—known as a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">debt security</span>—represents an obligation of indebtedness owed by a business, a government, or an agency. When most people think of debt securities, they think of bonds. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">bond</span> is a security that represents a debt that the borrower—the issuer of the bond—owes to the <em>bondholder</em>—the person or company that buys and owns the bond. Essentially, the bondholder lends money to the issuer in exchange for regular interest payments and future repayment of the loan. Because interest payments generally provide a predictable stream of income to the bondholder, bonds are considered <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fixed-income investments</span>."
                     },
                     {
-                        "Paragraph_txt": "Investors can compare the income received from different types of bonds by evaluating bond yields. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Yield</span> is a ratio measuring an asset’s rate of return on income paid to the asset holder. Yield is expressed as a percentage and is generally calculated by dividing an asset’s income payments during a specified period—such as one year—by the asset’s price. In addition to bonds, investors also calculate yields for other types of income-generating investments. You will read about bond yields and other return calculations in Chapter 4."
+                        "Paragraph_txt": "<br />Investors can compare the income received from different types of bonds by evaluating bond yields. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Yield</span> is a ratio measuring an asset’s rate of return on income paid to the asset holder. Yield is expressed as a percentage and is generally calculated by dividing an asset’s income payments during a specified period—such as one year—by the asset’s price. In addition to bonds, investors also calculate yields for other types of income-generating investments. You will read about bond yields and other return calculations in Chapter 4."
                     },
                     {
-                        "Paragraph_txt": "Many institutional investors hold bonds to earn regular income and steady investment returns. As the table earlier in this chapter shows, bonds are a significant portion of life insurers’ investment holdings. Bonds are particularly suitable for life insurers’ general account portfolios because insurers have long-term liabilities, need to protect capital, and experience regular cash outflows. In addition, bonds help with asset-liability management because insurers can match the cash flows of bonds with the cash flows of their liabilities. We explain how bonds meet insurance company needs in later chapters."
+                        "Paragraph_txt": "<br />Many institutional investors hold bonds to earn regular income and steady investment returns. As the table earlier in this chapter shows, bonds are a significant portion of life insurers’ investment holdings. Bonds are particularly suitable for life insurers’ general account portfolios because insurers have long-term liabilities, need to protect capital, and experience regular cash outflows. In addition, bonds help with asset-liability management because insurers can match the cash flows of bonds with the cash flows of their liabilities. We explain how bonds meet insurance company needs in later chapters."
                     }
                 ]
             },
@@ -333,13 +303,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most bonds are <em>fixed-rate bonds</em>, which means the coupon rate does not change during the bond’s term. However, some bonds specify coupon rates that fluctuate or “float” in specified ways. For example, a floating-rate coupon could be based on the variations in a certain <span class=\"keyterm\" tabindex=\"0\" role=\"button\">index</span>, which is a statistical measurement system that tracks the performance of a group of similar investments."
                     },
                     {
-                        "Paragraph_txt": "In addition, some bonds do not offer periodic coupon payments. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">zero-coupon bond</span>does not make coupon payments during the term of the bond; instead, the bond is sold at a discount to its par value and the principal is paid in full at the bond’s maturity date. Put differently, the interest that the bondholder should receive is factored into the principal payment at maturity. "
+                        "Paragraph_txt": "<br />In addition, some bonds do not offer periodic coupon payments. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">zero-coupon bond</span>does not make coupon payments during the term of the bond; instead, the bond is sold at a discount to its par value and the principal is paid in full at the bond’s maturity date. Put differently, the interest that the bondholder should receive is factored into the principal payment at maturity. "
                     },
                     {
-                        "Paragraph_txt": "In general, bonds are repaid on the maturity date. However, bond indentures also state conditions under which an issuer can <em>retire</em>—or repay—the bond before the maturity date. For instance, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">callable bond</span> allows the bond issuer to retire the bond prior to its maturity date at a specified price per bond, known as the <em>call price</em>. If market interest rates fall, a call provision benefits the bond issuer by enabling the issuer to repay a bond with a high coupon rate and subsequently issue a similar bond with a lower coupon rate."
+                        "Paragraph_txt": "<br />In general, bonds are repaid on the maturity date. However, bond indentures also state conditions under which an issuer can <em>retire</em>—or repay—the bond before the maturity date. For instance, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">callable bond</span> allows the bond issuer to retire the bond prior to its maturity date at a specified price per bond, known as the <em>call price</em>. If market interest rates fall, a call provision benefits the bond issuer by enabling the issuer to repay a bond with a high coupon rate and subsequently issue a similar bond with a lower coupon rate."
                     },
                     {
-                        "Paragraph_txt": "The prospect of early repayment is a risk for the holder of a callable bond. As we explain in Chapter 4, investors require higher potential rates of return for riskier investments. Therefore, callable bonds typically have higher yields than noncallable bonds with comparable bond features."
+                        "Paragraph_txt": "<br />The prospect of early repayment is a risk for the holder of a callable bond. As we explain in Chapter 4, investors require higher potential rates of return for riskier investments. Therefore, callable bonds typically have higher yields than noncallable bonds with comparable bond features."
                     }
                 ]
             },
@@ -501,6 +471,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.1 Bond Claim Priorities and Securities</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "2-1figure.jpg",
@@ -519,7 +522,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.1</strong> Bond Claim Priorities and Securities",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -530,7 +533,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "In the event of a bond default, senior secured bondholders are more likely to receive the full value of their investments than subordinated unsecured bondholders. Senior secured bonds have a high claim priority and are backed by collateral. Subordinated unsecured bonds have a low claim priority and are not backed by collateral.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -553,6 +556,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "In the event of a bond default, senior secured bondholders are more likely to receive the full value of their investments than subordinated unsecured bondholders. Senior secured bonds have a high claim priority and are backed by collateral. Subordinated unsecured bonds have a low claim priority and are not backed by collateral."
                     }
                 ]
             },
@@ -621,7 +657,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Corporations are the primary nongovernmental issuers of bonds. Corporations typically issue bonds to raise capital, which they use to expand their business activities. Bonds issued by corporations, called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">corporate bonds</span>, are classified by the industry of the issuing company. For example, <em>utility bonds</em> are issued by providers of utilities, such as telephone and electric companies."
                     },
                     {
-                        "Paragraph_txt": "As you saw from the table earlier in this chapter, corporate bonds are one of the largest holdings in life insurers’ general accounts. Corporate bonds are also significant holdings in many other institutional investors’ portfolios."
+                        "Paragraph_txt": "<br />As you saw from the table earlier in this chapter, corporate bonds are one of the largest holdings in life insurers’ general accounts. Corporate bonds are also significant holdings in many other institutional investors’ portfolios."
                     }
                 ]
             },
@@ -719,7 +755,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The interest income from municipal bonds is typically exempt from federal, state, and local income taxes if the bondholder resides in the state that issued the bond. However, life insurance companies do not benefit from these income tax exemptions and generally hold municipal bonds that are fully taxable."
                     },
                     {
-                        "Paragraph_txt": "Municipal bonds have some potential disadvantages. For example, many munis are relatively illiquid and have call provisions."
+                        "Paragraph_txt": "<br />Municipal bonds have some potential disadvantages. For example, many munis are relatively illiquid and have call provisions."
                     }
                 ]
             },
@@ -889,7 +925,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The U.S. government, including the U.S. Treasury and various federal agencies, is the world’s single largest borrower. Government bonds issued by the United States are backed by the full faith and credit of the federal government. Because default by the United States is highly unlikely, investors consider Treasuries to be essentially risk free, thus making them one of the safest investments in the world. For this reason, Treasuries are popular with life insurers and other institutional investors."
                     },
                     {
-                        "Paragraph_txt": "In general, investors consider sovereign bonds to be among the least risky investments because governments are able to collect taxes to service their debts. In addition, governments are motivated to fulfill their debt obligations, because they don’t want to jeopardize their ability to borrow at relatively low interest rates."
+                        "Paragraph_txt": "<br />In general, investors consider sovereign bonds to be among the least risky investments because governments are able to collect taxes to service their debts. In addition, governments are motivated to fulfill their debt obligations, because they don’t want to jeopardize their ability to borrow at relatively low interest rates."
                     }
                 ]
             },
@@ -1020,16 +1056,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Credit ratings are grouped by quality. Bonds that are in the highest rating classifications are known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment-grade bonds</span>. Some institutional investors investing in bonds are restricted—by internal controls, regulators, or both—to investment-grade bonds."
                     },
                     {
-                        "Paragraph_txt": "Bonds that are not investment-grade bonds are known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">high-yield bonds</span>. High-yield bonds are also called <em>junk bonds</em> or <em>speculative bonds</em>. Investment-grade bonds pose lower levels of risk to bondholders, while high-yield bonds pose higher levels of risk. Thus, new issues of high-yield bonds generally offer higher coupon rates than those of investment-grade bonds that are issued at the same time."
+                        "Paragraph_txt": "<br />Bonds that are not investment-grade bonds are known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">high-yield bonds</span>. High-yield bonds are also called <em>junk bonds</em> or <em>speculative bonds</em>. Investment-grade bonds pose lower levels of risk to bondholders, while high-yield bonds pose higher levels of risk. Thus, new issues of high-yield bonds generally offer higher coupon rates than those of investment-grade bonds that are issued at the same time."
                     },
                     {
-                        "Paragraph_txt": "Some institutional investors employ <em>credit analysts</em> to evaluate bond issuers and assign a proprietary rating. In addition, most investors look at ratings from external credit rating agencies. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">credit rating agency</span> is an independently owned, private organization that evaluates the financial condition of companies and governments and provides information about bonds and bond issuers to investors and potential customers."
+                        "Paragraph_txt": "<br />Some institutional investors employ <em>credit analysts</em> to evaluate bond issuers and assign a proprietary rating. In addition, most investors look at ratings from external credit rating agencies. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">credit rating agency</span> is an independently owned, private organization that evaluates the financial condition of companies and governments and provides information about bonds and bond issuers to investors and potential customers."
                     },
                     {
-                        "Paragraph_txt": "Although insurance companies use popular credit analysis services to evaluate bonds, insurance regulators increasingly emphasize that companies must perform analysis independently of the rating agencies. Therefore, life insurers cannot rely entirely on external services to assess the credit quality of bonds."
+                        "Paragraph_txt": "<br />Although insurance companies use popular credit analysis services to evaluate bonds, insurance regulators increasingly emphasize that companies must perform analysis independently of the rating agencies. Therefore, life insurers cannot rely entirely on external services to assess the credit quality of bonds."
                     },
                     {
-                        "Paragraph_txt": "The National Association of Insurance Commissioners (NAIC) also provides ratings for bonds. These ratings are intended to provide support for solvency monitoring of insurance company investments. You will learn more about the application of the NAIC’s bond ratings in Chapters 7 and 10."
+                        "Paragraph_txt": "<br />The National Association of Insurance Commissioners (NAIC) also provides ratings for bonds. These ratings are intended to provide support for solvency monitoring of insurance company investments. You will learn more about the application of the NAIC’s bond ratings in Chapters 7 and 10."
                     }
                 ]
             },

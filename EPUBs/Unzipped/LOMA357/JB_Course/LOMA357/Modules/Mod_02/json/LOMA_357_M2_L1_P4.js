@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Investment Policy Statements for Institutional Portfolios",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "For institutional investors, objectives and constraints form the backbone of an investment policy. Established by an institutional investor’s board of directors, an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment policy</span> is a statement that outlines a set of formal rules and guidelines for investing."
                     },
                     {
-                        "Paragraph_txt": "Financial services companies establish investment policies at several levels. Figure 5.1 illustrates the typical investment policy hierarchy, which you will learn more about during the rest of this chapter."
+                        "Paragraph_txt": "<br />Financial services companies establish investment policies at several levels. Figure 5.1 illustrates the typical investment policy hierarchy, which you will learn more about during the rest of this chapter."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.1 Investment Policy Hierarchy</strong>"
                     }
                 ]
             },
@@ -168,7 +171,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.1</strong> Investment Policy Hierarchy",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -552,28 +555,28 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Individual Asset Concentration Limitations</strong> "
                     },
                     {
-                        "Paragraph_txt": "No more than 5% of the portfolio’s stock allocation may be held in any one issuer. No more than 1% of the portfolio’s total market value may be committed to any single bond issue."
+                        "Paragraph_txt": "<br />No more than 5% of the portfolio’s stock allocation may be held in any one issuer. No more than 1% of the portfolio’s total market value may be committed to any single bond issue."
                     },
                     {
-                        "Paragraph_txt": "<strong>Fixed-Income Credit Quality Limitations</strong> "
+                        "Paragraph_txt": "<br /><strong>Fixed-Income Credit Quality Limitations</strong> "
                     },
                     {
-                        "Paragraph_txt": "If a debt security held by the portfolio is downgraded below a Baa3 (Moody’s) <em>and</em> BBB– (S&amp;P) rating, it must be placed on a “watch list” for closer monitoring. Board approval must be received for any security that appears on the watch list for three consecutive years."
+                        "Paragraph_txt": "<br />If a debt security held by the portfolio is downgraded below a Baa3 (Moody’s) <em>and</em> BBB– (S&amp;P) rating, it must be placed on a “watch list” for closer monitoring. Board approval must be received for any security that appears on the watch list for three consecutive years."
                     },
                     {
-                        "Paragraph_txt": "The portfolio cannot hold debt securities for which the Moody’s or S&amp;P rating is less than B. If a debt security is downgraded below a B rating by both Moody’s and S&amp;P, it must be sold at the best available price within three months."
+                        "Paragraph_txt": "<br />The portfolio cannot hold debt securities for which the Moody’s or S&amp;P rating is less than B. If a debt security is downgraded below a B rating by both Moody’s and S&amp;P, it must be sold at the best available price within three months."
                     },
                     {
-                        "Paragraph_txt": "<strong>Portfolio Reviews</strong> "
+                        "Paragraph_txt": "<br /><strong>Portfolio Reviews</strong> "
                     },
                     {
-                        "Paragraph_txt": "The portfolio will be reviewed quarterly by the company’s asset-liability management committee. Each quarterly review will evaluate the portfolio’s investment performance and its adherence to this investment policy statement."
+                        "Paragraph_txt": "<br />The portfolio will be reviewed quarterly by the company’s asset-liability management committee. Each quarterly review will evaluate the portfolio’s investment performance and its adherence to this investment policy statement."
                     },
                     {
-                        "Paragraph_txt": "<strong>Performance Evaluation</strong> "
+                        "Paragraph_txt": "<br /><strong>Performance Evaluation</strong> "
                     },
                     {
-                        "Paragraph_txt": "Portfolio performance will be measured quarterly on an absolute basis and against a designated market index."
+                        "Paragraph_txt": "<br />Portfolio performance will be measured quarterly on an absolute basis and against a designated market index."
                     }
                 ]
             },
@@ -636,10 +639,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The IPS explicitly states the portfolio’s objective(s). Because a portfolio’s performance will be judged against the objectives outlined in the IPS, the objectives must be reasonable and measureable. In other words, an objective must be attainable through the responsible application of an investment strategy."
                     },
                     {
-                        "Paragraph_txt": "Although the portfolio objective is a brief statement in an IPS, a lot of consideration goes into shaping the statement. For example, the institutional investor must choose return and risk objectives for the portfolio."
+                        "Paragraph_txt": "<br />Although the portfolio objective is a brief statement in an IPS, a lot of consideration goes into shaping the statement. For example, the institutional investor must choose return and risk objectives for the portfolio."
                     },
                     {
-                        "Paragraph_txt": "Return objectives can be expressed as absolute or relative returns. An <em>absolute return objective </em>simply states a portfolio’s target return for a given period, while a <em>relative return objective</em> states a portfolio’s target return as compared to another metric—such as the rate of inflation or the performance of a market index—over a given period."
+                        "Paragraph_txt": "<br />Return objectives can be expressed as absolute or relative returns. An <em>absolute return objective </em>simply states a portfolio’s target return for a given period, while a <em>relative return objective</em> states a portfolio’s target return as compared to another metric—such as the rate of inflation or the performance of a market index—over a given period."
                     }
                 ]
             },
@@ -880,7 +883,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although the two terms appear to be interchangeable, there are some notable differences. Risk appetite broadly describes a company’s attitude toward risk—such as aggressive or risk-averse. Risk tolerance expands on a company’s risk appetite by defining the acceptable levels of variation from a company’s risk objectives. Essentially, risk appetite reflects a company’s <em>willingness</em> to bear risk, whereas risk tolerance reflects the company’s <em>ability</em> to bear risk."
                     },
                     {
-                        "Paragraph_txt": "A company clarifies its risk tolerance by establishing risk limits. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk limit</span>, also known as a <em>risk criterion</em>, is a quantitative statement that expresses how the company will assess and monitor its risk appetite and risk tolerance. A risk limit specifies the maximum variance that a company will tolerate. Risk limits translate a company’s risk tolerance into guidelines that the company can use on a day-to-day basis. "
+                        "Paragraph_txt": "<br />A company clarifies its risk tolerance by establishing risk limits. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk limit</span>, also known as a <em>risk criterion</em>, is a quantitative statement that expresses how the company will assess and monitor its risk appetite and risk tolerance. A risk limit specifies the maximum variance that a company will tolerate. Risk limits translate a company’s risk tolerance into guidelines that the company can use on a day-to-day basis. "
                     }
                 ]
             },
@@ -943,13 +946,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "The investment professionals at Dexicos Life Insurance Company are developing an IPS for a new portfolio. They need Dexicos Life’s board of directors to clarify the company’s positions on investment risk. The board provides the following information to the investment function:"
                     },
                     {
-                        "Paragraph_txt": "<strong>Risk appetite</strong>: Dexicos Life is generally conservative toward risk, but is willing to accept some investment risk to achieve long-term growth."
+                        "Paragraph_txt": "<br /><strong>Risk appetite</strong>: Dexicos Life is generally conservative toward risk, but is willing to accept some investment risk to achieve long-term growth."
                     },
                     {
-                        "Paragraph_txt": "<strong>Risk tolerance</strong>: A portfolio’s bond investments should comprise investment-grade bonds. If a bond investment’s credit rating falls below investment grade, it will be added to a company watch list for monitoring."
+                        "Paragraph_txt": "<br /><strong>Risk tolerance</strong>: A portfolio’s bond investments should comprise investment-grade bonds. If a bond investment’s credit rating falls below investment grade, it will be added to a company watch list for monitoring."
                     },
                     {
-                        "Paragraph_txt": "<strong>Risk limits</strong>: A portfolio can have no more than 30% of its bond investments on the company watch list. If the portfolio exceeds this percentage, the portfolio manager must recommend steps to bring the credit quality of the bond investments back into alignment with the IPS. The recommendations must be approved by management before implementation."
+                        "Paragraph_txt": "<br /><strong>Risk limits</strong>: A portfolio can have no more than 30% of its bond investments on the company watch list. If the portfolio exceeds this percentage, the portfolio manager must recommend steps to bring the credit quality of the bond investments back into alignment with the IPS. The recommendations must be approved by management before implementation."
                     }
                 ]
             },
@@ -1076,6 +1079,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.2 Sample Dashboard of Investment KPIs and KRIs</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-2figure.jpg",
@@ -1094,7 +1130,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.2</strong> Sample Dashboard of Investment KPIs and KRIs",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1410,7 +1446,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Typically, an IPS will include a list of authorized asset classes that have been deemed suitable for the portfolio. The authorized asset classes must have the potential to meet the portfolio’s risk and return objectives given the market conditions expected during the investor’s time horizon. Note that asset classes subject to risks that exceed established risk tolerances are not eligible for inclusion on the list of authorized asset classes."
                     },
                     {
-                        "Paragraph_txt": "The list may also specify a target percentage or acceptable percentage range that a portfolio can allocate to each asset class."
+                        "Paragraph_txt": "<br />The list may also specify a target percentage or acceptable percentage range that a portfolio can allocate to each asset class."
                     }
                 ]
             },
@@ -1595,10 +1631,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The IPS includes guidelines for managing the investment portfolio. Typical guidelines include instructions for periodic—usually quarterly or annual—rebalancing of the portfolio and criteria for asset trading practices. Two examples of trading instructions are to (1) seek the best execution price in all trades and (2) provide periodic reports on commissions paid for trade executions."
                     },
                     {
-                        "Paragraph_txt": "Some investors, including a growing number of institutional investors, have specific beliefs about suitable portfolio investments and may include portfolio management guidelines to reflect those beliefs. For example, an institution could restrict investing in tobacco companies because of the harmful effects of such products. According to this investment practice, called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">socially responsible investing (SRI)</span>, investors consider the nature of the business a company engages in before making a decision about whether to invest in the company."
+                        "Paragraph_txt": "<br />Some investors, including a growing number of institutional investors, have specific beliefs about suitable portfolio investments and may include portfolio management guidelines to reflect those beliefs. For example, an institution could restrict investing in tobacco companies because of the harmful effects of such products. According to this investment practice, called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">socially responsible investing (SRI)</span>, investors consider the nature of the business a company engages in before making a decision about whether to invest in the company."
                     },
                     {
-                        "Paragraph_txt": "The IPS stipulates that the institutional investor and portfolio manager must periodically review the statement and discuss potential changes. During a review, the IPS can be adjusted to account for changing needs or added constraints. An IPS may also need to be adjusted if the long-term economic environment shifts, prompting changes in asset allocation and other aspects of the portfolio’s investment strategy."
+                        "Paragraph_txt": "<br />The IPS stipulates that the institutional investor and portfolio manager must periodically review the statement and discuss potential changes. During a review, the IPS can be adjusted to account for changing needs or added constraints. An IPS may also need to be adjusted if the long-term economic environment shifts, prompting changes in asset allocation and other aspects of the portfolio’s investment strategy."
                     }
                 ]
             },
@@ -1723,6 +1759,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.3 Portfolio and Benchmark Performance</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-3figure.jpg",
@@ -1741,7 +1810,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.3</strong> Portfolio and Benchmark Performance",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1870,7 +1939,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Standards for Monitoring Performance</strong> "
                     },
                     {
-                        "Paragraph_txt": "The portfolio manager will monitor the performance of the portfolio’s equity securities in comparison to the S&amp;P 500 Index. Performance should be monitored at least on a quarterly basis."
+                        "Paragraph_txt": "<br />The portfolio manager will monitor the performance of the portfolio’s equity securities in comparison to the S&amp;P 500 Index. Performance should be monitored at least on a quarterly basis."
                     }
                 ]
             },
@@ -1966,19 +2035,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals are responsible for regularly communicating the results of a portfolio’s investment activities. <em>Portfolio performance reporting standards</em> are practices accepted throughout the securities industry for proper reporting of portfolio values as of a specified date."
                     },
                     {
-                        "Paragraph_txt": "The CFA Institute’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Global Investment Performance Standards (GIPS<sup>®</sup>) </span> are standards for consistent reporting of investment performance and are designed to ensure fair representation and full disclosure of investment performance across a global market. The GIPS provide a universal investment reporting methodology that allows a direct, apples-to-apples comparison of investment performance across different investment management firms, portfolios, portfolio managers, and jurisdictions."
+                        "Paragraph_txt": "<br />The CFA Institute’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Global Investment Performance Standards (GIPS<sup>®</sup>) </span> are standards for consistent reporting of investment performance and are designed to ensure fair representation and full disclosure of investment performance across a global market. The GIPS provide a universal investment reporting methodology that allows a direct, apples-to-apples comparison of investment performance across different investment management firms, portfolios, portfolio managers, and jurisdictions."
                     },
                     {
-                        "Paragraph_txt": "In order to claim compliance with GIPS, institutional investors must follow the requirements for performance measurement and presentation included in GIPS. The CFA Institute also recommends independent third-party verification of investment professionals’ compliance with GIPS."
+                        "Paragraph_txt": "<br />In order to claim compliance with GIPS, institutional investors must follow the requirements for performance measurement and presentation included in GIPS. The CFA Institute also recommends independent third-party verification of investment professionals’ compliance with GIPS."
                     },
                     {
-                        "Paragraph_txt": "In addition to complying with GIPS, investment professionals must also follow applicable regulatory requirements related to the presentation of investment performance. For example, in the United States, SEC-sponsored financial reporting and control standards apply to companies that issue investment vehicles. In addition, insurance companies in the United States must follow state regulatory requirements for the valuation and reporting of securities held in their general account portfolios."
+                        "Paragraph_txt": "<br />In addition to complying with GIPS, investment professionals must also follow applicable regulatory requirements related to the presentation of investment performance. For example, in the United States, SEC-sponsored financial reporting and control standards apply to companies that issue investment vehicles. In addition, insurance companies in the United States must follow state regulatory requirements for the valuation and reporting of securities held in their general account portfolios."
                     },
                     {
-                        "Paragraph_txt": "Besides compliance with performance reporting standards, investment professionals must follow the guidelines in each IPS. For instance, the investment function may fail to comply with an IPS by conducting portfolio transactions that are inconsistent with the portfolio’s stated risk appetite."
+                        "Paragraph_txt": "<br />Besides compliance with performance reporting standards, investment professionals must follow the guidelines in each IPS. For instance, the investment function may fail to comply with an IPS by conducting portfolio transactions that are inconsistent with the portfolio’s stated risk appetite."
                     },
                     {
-                        "Paragraph_txt": "Institutional monitoring systems generate noncompliance reports if a portfolio manager exceeds risk limits. Other types of ongoing compliance checks ensure that a portfolio operates within specific return and risk objectives."
+                        "Paragraph_txt": "<br />Institutional monitoring systems generate noncompliance reports if a portfolio manager exceeds risk limits. Other types of ongoing compliance checks ensure that a portfolio operates within specific return and risk objectives."
                     }
                 ]
             },

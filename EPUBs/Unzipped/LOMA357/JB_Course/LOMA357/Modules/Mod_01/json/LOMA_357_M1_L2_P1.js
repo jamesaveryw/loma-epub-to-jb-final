@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Introduction",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -110,201 +80,6 @@ Lesson_Data_File([
                     },
                     {
                         "Paragraph_txt": ""
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Asset Classes"
-                            },
-                            {
-                                "Paragraph_text": "Cash and Cash Equivalents"
-                            },
-                            {
-                                "Paragraph_text": "Bonds"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Bond Characteristics"
-                            },
-                            {
-                                "lstText": "Bond Issuers"
-                            },
-                            {
-                                "lstText": "Credit Ratings"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Stocks"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Common and Preferred Stocks"
-                            },
-                            {
-                                "lstText": "Dividends"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Real Estate and Mortgages"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Types of Real Estate Properties"
-                            },
-                            {
-                                "lstText": "Real Estate Appraisals"
-                            },
-                            {
-                                "lstText": "Real Estate Ownership"
-                            },
-                            {
-                                "lstText": "Mortgage Loans"
-                            },
-                            {
-                                "lstText": "Real Estate Investment Trusts"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
                     }
                 ]
             },
@@ -340,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An investor who wants to earn an investment return must choose a way to commit capital to the investment. He places his capital in an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment vehicle</span>, which is the medium used to represent an investment interest in an asset. Other terms for an investment vehicle are <em>financial instrument</em>, <em>funding vehicle</em>, and <em>funding instrument</em>. For simplicity, we use the term <em>investment vehicle</em> throughout this text. Many types of investment vehicles exist—such as stocks, bonds, real estate properties, mutual funds, and exchange-traded funds."
                     },
                     {
-                        "Paragraph_txt": "Insurance companies and other institutional investors place money into investments through investment vehicles. In this chapter, you will learn about some of the major investment vehicles that life insurers use in their portfolios. In the next chapter, you will read about additional investment vehicles that life insurers use to earn returns."
+                        "Paragraph_txt": "<br />Insurance companies and other institutional investors place money into investments through investment vehicles. In this chapter, you will learn about some of the major investment vehicles that life insurers use in their portfolios. In the next chapter, you will read about additional investment vehicles that life insurers use to earn returns."
                     }
                 ]
             },

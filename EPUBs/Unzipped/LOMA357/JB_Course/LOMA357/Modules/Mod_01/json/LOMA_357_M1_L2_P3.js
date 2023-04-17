@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Cash and Cash Equivalents",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,19 +115,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "The most basic asset to hold is <em>cash</em>, which is money held in the form of a currency. From a country’s perspective, <em>domestic currency</em> is the currency issued by the country’s monetary authority, and <em>foreign currency</em> is any currency issued by other countries. Currency issued by one country can be exchanged for currency issued by another country through <span class=\"keyterm\" tabindex=\"0\" role=\"button\">foreign exchange (FX) markets</span>, which convert currencies used by buyers into currencies acceptable to sellers."
                     },
                     {
-                        "Paragraph_txt": "Cash can be held in a physical form, such as coins or paper bills. Cash is also held in virtual form in accounts such as checking accounts and savings accounts."
+                        "Paragraph_txt": "<br />Cash can be held in a physical form, such as coins or paper bills. Cash is also held in virtual form in accounts such as checking accounts and savings accounts."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Cash equivalents</span> are investments that are not cash but that can be converted to cash within 90 days with little or no risk of losing value. An example of a cash equivalent is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">money market account</span>, which is an account that pays interest on deposited funds based on current interest rates for highly liquid, low-risk assets with short-term maturities."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Cash equivalents</span> are investments that are not cash but that can be converted to cash within 90 days with little or no risk of losing value. An example of a cash equivalent is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">money market account</span>, which is an account that pays interest on deposited funds based on current interest rates for highly liquid, low-risk assets with short-term maturities."
                     },
                     {
-                        "Paragraph_txt": "The most appealing aspect of cash and cash equivalents is their liquidity. In the context of financial products, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">liquidity</span> is the ease with which an asset can be converted to cash for an approximation of its underlying value. Cash is immediately available to make purchases or pay expenses, and cash equivalents are available very quickly."
+                        "Paragraph_txt": "<br />The most appealing aspect of cash and cash equivalents is their liquidity. In the context of financial products, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">liquidity</span> is the ease with which an asset can be converted to cash for an approximation of its underlying value. Cash is immediately available to make purchases or pay expenses, and cash equivalents are available very quickly."
                     },
                     {
-                        "Paragraph_txt": "Cash is primarily considered a <em>savings vehicle</em> because it does not earn a return on investment. For example, you cannot sell a $20 bill for $25. However, some cash equivalents—such as money market accounts—earn investment income in the form of interest payments. Thus, cash equivalents can serve as savings vehicles or short-term investment vehicles."
+                        "Paragraph_txt": "<br />Cash is primarily considered a <em>savings vehicle</em> because it does not earn a return on investment. For example, you cannot sell a $20 bill for $25. However, some cash equivalents—such as money market accounts—earn investment income in the form of interest payments. Thus, cash equivalents can serve as savings vehicles or short-term investment vehicles."
                     },
                     {
-                        "Paragraph_txt": "Most investors hold cash and/or cash equivalents in their portfolios. For instance, insurers typically hold cash and cash equivalents because they must always have some cash available to pay expenses and liabilities, such as claims."
+                        "Paragraph_txt": "<br />Most investors hold cash and/or cash equivalents in their portfolios. For instance, insurers typically hold cash and cash equivalents because they must always have some cash available to pay expenses and liabilities, such as claims."
                     }
                 ]
             },

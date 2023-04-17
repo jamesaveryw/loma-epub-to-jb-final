@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Risks Associated with Investing",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -336,10 +306,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Systematic risks are hard to eliminate through diversification because these types of risks—many of which have a basis in broad economic conditions—have the potential to affect all investments in the marketplace. Diversification is intended to spread risk across assets, but if all asset choices are subject to the same type of market risk, then diversifying a portfolio does not help an investor avoid that risk."
                     },
                     {
-                        "Paragraph_txt": "Investors may not be able to avoid systematic risks, but they can hedge against them. For instance, an investment portfolio holding certain assets—such as bonds—that lose value because of inflation could hedge against that risk by purchasing assets—such as real estate properties—that hold or gain in value during periods of inflation. In this example, bonds and real estate properties are both affected by inflation, but in different ways."
+                        "Paragraph_txt": "<br />Investors may not be able to avoid systematic risks, but they can hedge against them. For instance, an investment portfolio holding certain assets—such as bonds—that lose value because of inflation could hedge against that risk by purchasing assets—such as real estate properties—that hold or gain in value during periods of inflation. In this example, bonds and real estate properties are both affected by inflation, but in different ways."
                     },
                     {
-                        "Paragraph_txt": "Estimates of expected investment returns incorporate a risk premium for systematic risks but not specific risks. The “price of admission” to participate in a given market is exposure to its systematic risks; thus, investors need risk premiums as incentives to participate in markets. Because well-managed investment portfolios mitigate exposure to specific risks, investors do not require risk premiums to invest in assets that are subject to those risks."
+                        "Paragraph_txt": "<br />Estimates of expected investment returns incorporate a risk premium for systematic risks but not specific risks. The “price of admission” to participate in a given market is exposure to its systematic risks; thus, investors need risk premiums as incentives to participate in markets. Because well-managed investment portfolios mitigate exposure to specific risks, investors do not require risk premiums to invest in assets that are subject to those risks."
                     }
                 ]
             },
@@ -375,13 +345,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "One type of systematic risk that can have a dramatic effect on asset prices is the risk of an asset bubble. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">asset bubble</span>, also called a <em>speculative bubble</em> or <em>price bubble</em>, is a phenomenon in which the market values of an entire asset class rise rapidly, so that prices of assets in the class come to greatly exceed their estimated values. Typically, asset price increases are driven by irrational enthusiasm and outpace increases in the asset’s true value."
                     },
                     {
-                        "Paragraph_txt": "In an asset bubble, asset prices rise to unsustainably high levels. Asset bubbles can grow—or “inflate”—for many years before prices reach their peaks. Bubbles can be difficult to spot while they are occurring, but one hallmark is a shift in market sentiment, so that most asset owners are speculators. Toward the peak, asset buyers are spurred by a feeling of missing out on gains and hope to ride the continuous upward momentum of prices."
+                        "Paragraph_txt": "<br />In an asset bubble, asset prices rise to unsustainably high levels. Asset bubbles can grow—or “inflate”—for many years before prices reach their peaks. Bubbles can be difficult to spot while they are occurring, but one hallmark is a shift in market sentiment, so that most asset owners are speculators. Toward the peak, asset buyers are spurred by a feeling of missing out on gains and hope to ride the continuous upward momentum of prices."
                     },
                     {
-                        "Paragraph_txt": "Eventually, investors and other market participants realize that the asset prices in an asset bubble are due to unfounded optimism, and they sell these assets, causing the bubble to “burst.” After the bubble bursts, asset prices decline quickly, which can cause significant—and painful—losses for the asset owners. Widespread asset bubbles can adversely affect an entire economic system."
+                        "Paragraph_txt": "<br />Eventually, investors and other market participants realize that the asset prices in an asset bubble are due to unfounded optimism, and they sell these assets, causing the bubble to “burst.” After the bubble bursts, asset prices decline quickly, which can cause significant—and painful—losses for the asset owners. Widespread asset bubbles can adversely affect an entire economic system."
                     },
                     {
-                        "Paragraph_txt": "Asset bubbles have occurred many times throughout history. Notable bubbles range from the Dutch tulip bubble that burst in 1637 to the U.S. housing bubble that burst around 2007. The insight below describes the burst of the U.S. housing bubble in greater detail."
+                        "Paragraph_txt": "<br />Asset bubbles have occurred many times throughout history. Notable bubbles range from the Dutch tulip bubble that burst in 1637 to the U.S. housing bubble that burst around 2007. The insight below describes the burst of the U.S. housing bubble in greater detail."
                     }
                 ]
             },
@@ -509,13 +479,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Around 2006, a combination of rising interest rates and defaults among high-risk borrowers with low credit ratings started to cause significant issues for the housing market. As mortgage defaults rose and demand for homes fell, housing values declined, resulting in a ripple effect among asset types related to property values. As a result, the market values of properties, mortgages, and related investments—such as mortgage-backed securities and derivatives—also began to decline rapidly, which jeopardized the solvency of financial institutions that held large amounts of these investments."
                     },
                     {
-                        "Paragraph_txt": "In 2007, the asset price decreases caused one prominent investment bank to go bankrupt, prompting concerns about the stability of the entire financial system in the United States. During this time, investors generally abandoned risky assets, selling them in large numbers. Demand for safe assets—such as Treasuries—increased rapidly."
+                        "Paragraph_txt": "<br />In 2007, the asset price decreases caused one prominent investment bank to go bankrupt, prompting concerns about the stability of the entire financial system in the United States. During this time, investors generally abandoned risky assets, selling them in large numbers. Demand for safe assets—such as Treasuries—increased rapidly."
                     },
                     {
-                        "Paragraph_txt": "In 2008, the financial crisis spread to other parts of the world, particularly Europe. In addition, the United States experienced a significant recession—one of the worst since the 1930s—that adversely affected the global economy. Worldwide, governments and central banks took extraordinary actions to prevent additional economic shocks, and the financial crisis gradually passed."
+                        "Paragraph_txt": "<br />In 2008, the financial crisis spread to other parts of the world, particularly Europe. In addition, the United States experienced a significant recession—one of the worst since the 1930s—that adversely affected the global economy. Worldwide, governments and central banks took extraordinary actions to prevent additional economic shocks, and the financial crisis gradually passed."
                     },
                     {
-                        "Paragraph_txt": "Since the 2007–2008 financial crisis, several aspects of housing and finance—including mortgage lending standards, credit ratings, uses of capital by financial institutions, and sizes of financial institutions—have received additional scrutiny. As a result, regulators have pushed for increased oversight to attempt to prevent the next financial crisis. In addition, central banks actively search for potential asset bubbles."
+                        "Paragraph_txt": "<br />Since the 2007–2008 financial crisis, several aspects of housing and finance—including mortgage lending standards, credit ratings, uses of capital by financial institutions, and sizes of financial institutions—have received additional scrutiny. As a result, regulators have pushed for increased oversight to attempt to prevent the next financial crisis. In addition, central banks actively search for potential asset bubbles."
                     }
                 ]
             },
@@ -578,7 +548,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The asset bubble and resulting financial crisis described above resulted from a systematic risk that nearly became a systemic crisis. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">systemic crisis</span> is a series of adverse events occurring in a significant number of financial institutions or markets that has a catastrophic effect. A systemic crisis results in severe impairment or complete failure of the functioning of the financial system."
                     },
                     {
-                        "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">systemic risk</span> is a risk that (1) affects securities markets, banking systems, and currencies, and (2) can result in a systemic crisis. Systemic risks are related to systematic risks, but the terms are not interchangeable. A systematic risk can affect an entire market, but a systemic risk threatens to take down an entire interconnected financial system. Thus, only a particular type of systematic risk—such as an asset bubble in real estate prices—can also be a systemic risk. Regulatory entities around the world monitor systemic risks in an effort to prevent a systemic crisis from occurring."
+                        "Paragraph_txt": "<br />A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">systemic risk</span> is a risk that (1) affects securities markets, banking systems, and currencies, and (2) can result in a systemic crisis. Systemic risks are related to systematic risks, but the terms are not interchangeable. A systematic risk can affect an entire market, but a systemic risk threatens to take down an entire interconnected financial system. Thus, only a particular type of systematic risk—such as an asset bubble in real estate prices—can also be a systemic risk. Regulatory entities around the world monitor systemic risks in an effort to prevent a systemic crisis from occurring."
                     }
                 ]
             },
@@ -614,7 +584,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we mentioned earlier, specific risks can be reduced through diversification. One benefit of portfolio diversification is that the impact of the specific risks associated with a single asset is reduced as more assets are included. Businesses face many kinds of specific risks—such as operational risk and reputational risk—but this section focuses on specific risks associated with investments."
                     },
                     {
-                        "Paragraph_txt": "Important categories of specific risks for insurance company investments include interest-rate risk, credit risk, real estate risk, liquidity risk, and currency risk."
+                        "Paragraph_txt": "<br />Important categories of specific risks for insurance company investments include interest-rate risk, credit risk, real estate risk, liquidity risk, and currency risk."
                     }
                 ]
             },
@@ -709,7 +679,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For instance, in rising interest-rate environments, current issues of bonds typically fall in market value because new issues will be offered at higher coupon rates, which are more attractive to investors. In such cases, an investor can hold existing bonds to maturity, thus avoiding selling them at unfavorable market values. Note that life insurance companies generally purchase bonds and other debt securities with the intention of holding them to maturity."
                     },
                     {
-                        "Paragraph_txt": "Interest-rate risk affects virtually all investments. For example, real estate is subject to interest-rate risk because transactions are usually financed with interest-bearing loans. In addition, some stock market sectors—such as those comprising utility companies or financial companies—are more sensitive to interest rates than other sectors."
+                        "Paragraph_txt": "<br />Interest-rate risk affects virtually all investments. For example, real estate is subject to interest-rate risk because transactions are usually financed with interest-bearing loans. In addition, some stock market sectors—such as those comprising utility companies or financial companies—are more sensitive to interest rates than other sectors."
                     }
                 ]
             },
@@ -745,7 +715,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Generally, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">reinvestment risk</span> is the risk that market conditions will be unfavorable when the investor needs to invest the proceeds from a prior investment. For an interest-bearing security, reinvestment risk is the risk that an investor will receive lower interest income after reinvesting the proceeds from an interest-bearing security that has matured. Reinvestment risk also applies to any interest payments that an investor receives while holding an interest-bearing security."
                     },
                     {
-                        "Paragraph_txt": "Reinvestment risk increases in a declining interest-rate environment. Insurance companies—and other institutional investors that hold many fixed-income investments—can miss out on investment income as it becomes harder to find bonds of a certain credit quality with coupon rates and yields as high as those for their recently matured bonds. In such a scenario, investors have two choices: (1) increase bond principal amounts to make up for lost income or (2) pursue riskier bonds with higher coupon rates."
+                        "Paragraph_txt": "<br />Reinvestment risk increases in a declining interest-rate environment. Insurance companies—and other institutional investors that hold many fixed-income investments—can miss out on investment income as it becomes harder to find bonds of a certain credit quality with coupon rates and yields as high as those for their recently matured bonds. In such a scenario, investors have two choices: (1) increase bond principal amounts to make up for lost income or (2) pursue riskier bonds with higher coupon rates."
                     }
                 ]
             },
@@ -781,7 +751,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Bonds have different levels of sensitivity to interest-rate changes, depending on each bond’s coupon rate and term to maturity. Typically, two characteristics associated with greater interest-rate sensitivity are lower coupon rates and longer terms to maturity. In general, bonds with lower coupon rates take longer to generate cash flows that cover the original cost of purchase than bonds with higher coupon rates. Likewise, cash flows from bonds with longer terms to maturity generally take more time to cover the investor’s original cost than those of bonds with shorter terms to maturity. Bonds with greater interest-rate sensitivity also experience greater market value volatility."
                     },
                     {
-                        "Paragraph_txt": "Bond sensitivity is measured using <span class=\"keyterm\" tabindex=\"0\" role=\"button\">duration</span>, which is a statistic that measures the interest-rate sensitivity of an interest-bearing security. Duration can be defined as the responsiveness—expressed in years—of a security’s market value to changes in market interest rates. Investors can calculate duration in multiple ways, with different calculations emphasizing cash flows or price changes."
+                        "Paragraph_txt": "<br />Bond sensitivity is measured using <span class=\"keyterm\" tabindex=\"0\" role=\"button\">duration</span>, which is a statistic that measures the interest-rate sensitivity of an interest-bearing security. Duration can be defined as the responsiveness—expressed in years—of a security’s market value to changes in market interest rates. Investors can calculate duration in multiple ways, with different calculations emphasizing cash flows or price changes."
                     }
                 ]
             },
@@ -844,7 +814,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Interpreting Duration</strong> "
                     },
                     {
-                        "Paragraph_txt": "A duration statistic of <em>n</em> years indicates that, for a change of 1% in interest rates, the price or market value of a security will change by approximately <em>n</em>% in the opposite direction. Thus, as the value of duration increases, interest-rate risk increases."
+                        "Paragraph_txt": "<br />A duration statistic of <em>n</em> years indicates that, for a change of 1% in interest rates, the price or market value of a security will change by approximately <em>n</em>% in the opposite direction. Thus, as the value of duration increases, interest-rate risk increases."
                     }
                 ]
             },
@@ -1249,7 +1219,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In a period of increasing market interest rates, insurance companies can experience margin compression. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Margin compression</span> refers to the narrowing of an insurer’s interest margin, potentially because of market interest-rate changes. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">interest margin</span>, also known as the <em>interest-rate margin</em> or the <em>interest spread</em>, is the share of investment earnings that an insurer retains after crediting a share of investment earnings to policyowners."
                     },
                     {
-                        "Paragraph_txt": "Typically, when market interest rates are rising, policyowners immediately demand a higher crediting rate on their accounts. The company’s interest-bearing investments, however, continue to earn the older, lower rates that prevailed when the company purchased them. If the company immediately pays the new higher rate on its products, the company’s interest margin will narrow. If the company does not pay the new higher rate on its products, the company will likely lose customers and business from financial professionals. To minimize the risk of margin compression, insurance companies typically try to issue products that limit customer withdrawal rights during a policy’s early years. Watch Video 4.2 for a demonstration of how an insurer’s interest margin can narrow as market interest rates increase."
+                        "Paragraph_txt": "<br />Typically, when market interest rates are rising, policyowners immediately demand a higher crediting rate on their accounts. The company’s interest-bearing investments, however, continue to earn the older, lower rates that prevailed when the company purchased them. If the company immediately pays the new higher rate on its products, the company’s interest margin will narrow. If the company does not pay the new higher rate on its products, the company will likely lose customers and business from financial professionals. To minimize the risk of margin compression, insurance companies typically try to issue products that limit customer withdrawal rights during a policy’s early years. Watch Video 4.2 for a demonstration of how an insurer’s interest margin can narrow as market interest rates increase."
                     }
                 ]
             },
@@ -1331,7 +1301,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Margin compression also comes into play during periods of decreasing market interest rates if asset maturities are not properly aligned with the average life of the liabilities. The effects of margin compression due to falling market interest rates are realized slowly over time, as the insurer collects interest and principal payments on older interest-bearing investments, and must reinvest these amounts at lower rates."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Margin expansion</span> refers to an increase in an insurer’s interest margin, potentially because of market interest-rate changes. Margin expansion occurs if the insurer reduces the interest-crediting rates it pays to customers while continuing to earn a higher overall rate of return on its existing invested assets. Margin expansion can also occur when a company experiences an increase in the market value of its existing assets after market interest rates fall."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Margin expansion</span> refers to an increase in an insurer’s interest margin, potentially because of market interest-rate changes. Margin expansion occurs if the insurer reduces the interest-crediting rates it pays to customers while continuing to earn a higher overall rate of return on its existing invested assets. Margin expansion can also occur when a company experiences an increase in the market value of its existing assets after market interest rates fall."
                     }
                 ]
             },
@@ -1432,10 +1402,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The main threat of credit risk is that, when an investment goes into default or is downgraded, its market value also decreases. Typically, defaults cause larger market value drops than downgrades."
                     },
                     {
-                        "Paragraph_txt": "In the context of investing, <em>credit analysts</em> evaluate the credit quality—or “creditworthiness”—of the issuers of debt securities. As part of their evaluations, credit analysts assess the risk of default or downgrade by issuers."
+                        "Paragraph_txt": "<br />In the context of investing, <em>credit analysts</em> evaluate the credit quality—or “creditworthiness”—of the issuers of debt securities. As part of their evaluations, credit analysts assess the risk of default or downgrade by issuers."
                     },
                     {
-                        "Paragraph_txt": "Typically, sovereign debt is the least risky investment one can make in a given economy, but it still carries risks. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Sovereign credit risk</span> is the risk that a sovereign government will fail to meet its debt obligations, leading to sovereign default or sovereign debt restructuring. When analysts evaluate a sovereign credit risk, the sovereign government’s ability and willingness to repay borrowed money are both important factors to consider."
+                        "Paragraph_txt": "<br />Typically, sovereign debt is the least risky investment one can make in a given economy, but it still carries risks. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Sovereign credit risk</span> is the risk that a sovereign government will fail to meet its debt obligations, leading to sovereign default or sovereign debt restructuring. When analysts evaluate a sovereign credit risk, the sovereign government’s ability and willingness to repay borrowed money are both important factors to consider."
                     }
                 ]
             },
@@ -1604,13 +1574,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Currency risk</span>, also known as <em>foreign exchange risk</em>, is a risk arising from changes in currency exchange rates. When one currency falls in relation to another, the falling currency loses relative value and the rising currency gains relative value. Generally, currency risk can arise from geopolitical factors, fluctuations in the supply and demand of a country’s manufactured goods, inflation, and changes in government leadership."
                     },
                     {
-                        "Paragraph_txt": "Manufacturers typically price domestically produced products in the domestic currency; thus, an increase in demand for a country’s products can result in an increase in demand for that country’s currency. Increased demand for a particular country’s currency increases the price of that currency relative to the currencies of other countries."
+                        "Paragraph_txt": "<br />Manufacturers typically price domestically produced products in the domestic currency; thus, an increase in demand for a country’s products can result in an increase in demand for that country’s currency. Increased demand for a particular country’s currency increases the price of that currency relative to the currencies of other countries."
                     },
                     {
-                        "Paragraph_txt": "Investments in foreign markets are subject to currency risk. Investors with exposure to currency risk can hedge their risk by holding foreign exchange derivatives."
+                        "Paragraph_txt": "<br />Investments in foreign markets are subject to currency risk. Investors with exposure to currency risk can hedge their risk by holding foreign exchange derivatives."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the methods that investors can use to estimate specific risks."
+                        "Paragraph_txt": "<br />The following chart summarizes the methods that investors can use to estimate specific risks."
                     }
                 ]
             },

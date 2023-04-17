@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Motivating Through Evaluation and Compensation",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -306,16 +276,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Aligning Strategic Objectives with Individual Objectives</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst has a strategic objective to raise the level of customer service from average to excellent in the coming year. The customer service manager meets with his employees to discuss excellent customer service and to establish customer service goals."
+                        "Paragraph_txt": "<br />EndiFirst has a strategic objective to raise the level of customer service from average to excellent in the coming year. The customer service manager meets with his employees to discuss excellent customer service and to establish customer service goals."
                     },
                     {
-                        "Paragraph_txt": "—Should the goal be to have no customer complaints? Or all positive customer reviews?"
+                        "Paragraph_txt": "<br />—Should the goal be to have no customer complaints? Or all positive customer reviews?"
                     },
                     {
-                        "Paragraph_txt": "—Should the goal be to have fewer than 1% customer complaints or 95% positive customer reviews?"
+                        "Paragraph_txt": "<br />—Should the goal be to have fewer than 1% customer complaints or 95% positive customer reviews?"
                     },
                     {
-                        "Paragraph_txt": "Once the group agrees about appropriate goals for achieving excellent customer service, the manager implements a plan for the next appraisal period."
+                        "Paragraph_txt": "<br />Once the group agrees about appropriate goals for achieving excellent customer service, the manager implements a plan for the next appraisal period."
                     }
                 ]
             },
@@ -378,16 +348,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Ideally, each employee meets with a supervisor regularly during the evaluation period to assess the employee’s progress in achieving goals and to determine if the employee needs any assistance in order to meet the goals. With the rapid pace of change in business today, goals themselves may also change during the evaluation period. At the end of the evaluation period, typically annually, the employee and supervisor evaluate the employee’s overall success in meeting established goals and set goals for the next evaluation period."
                     },
                     {
-                        "Paragraph_txt": "For MBO to be effective, goals must be specific and measurable so that employees know what they must do. A well-managed MBO program also provides employees with objective, results-oriented feedback that can aid employee development. A problem with MBO is that an effective MBO program is time-consuming for the supervisor to manage."
+                        "Paragraph_txt": "<br />For MBO to be effective, goals must be specific and measurable so that employees know what they must do. A well-managed MBO program also provides employees with objective, results-oriented feedback that can aid employee development. A problem with MBO is that an effective MBO program is time-consuming for the supervisor to manage."
                     },
                     {
-                        "Paragraph_txt": "How frequently an employee receives performance feedback during the evaluation period depends on the employee. For example, new employees may benefit from daily or weekly feedback, whereas more experienced employees may only need monthly or even less frequent feedback. Regardless of the frequency, regular interactions between a supervisor and employee promote communication, build trust, and provide a supervisor with an opportunity to provide ongoing positive reinforcement. In general, an employee should not hear positive or negative performance-related information for the first time at an annual performance review."
+                        "Paragraph_txt": "<br />How frequently an employee receives performance feedback during the evaluation period depends on the employee. For example, new employees may benefit from daily or weekly feedback, whereas more experienced employees may only need monthly or even less frequent feedback. Regardless of the frequency, regular interactions between a supervisor and employee promote communication, build trust, and provide a supervisor with an opportunity to provide ongoing positive reinforcement. In general, an employee should not hear positive or negative performance-related information for the first time at an annual performance review."
                     },
                     {
-                        "Paragraph_txt": "For employees who are experiencing difficulties with one or more aspects of their job, or who want to develop new skills, a supervisor may use coaching. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Coaching</span>is a process in which a supervisor works with an employee to improve performance on the job. Coaching is typically short-term, focusing on new job skills or on improving competency in a job skill. Once that skill is learned, the coaching ends. When effective, coaching motivates employees to improve performance in a current job. "
+                        "Paragraph_txt": "<br />For employees who are experiencing difficulties with one or more aspects of their job, or who want to develop new skills, a supervisor may use coaching. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Coaching</span>is a process in which a supervisor works with an employee to improve performance on the job. Coaching is typically short-term, focusing on new job skills or on improving competency in a job skill. Once that skill is learned, the coaching ends. When effective, coaching motivates employees to improve performance in a current job. "
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Mentoring </span>is a process for developing employee talent over the long term. For example, a more experienced individual—the <em>mentor—</em>serves as a teacher for an employee in a current job and develops the employee for future jobs. Mentoring relationships can be formal or informal. <em>Formal mentoring</em> <strong> </strong>is a mentoring arrangement officially endorsed by the organization. <em>Informal mentoring</em> <strong> </strong>refers to a mentoring arrangement that develops outside of official channels. For example, a senior employee may begin informally mentoring a new employee on his own. Informal arrangements tend to be more effective than formal ones. In an effective mentoring relationship, the employee feels free to openly discuss job challenges and future plans in a nonthreatening environment. As you might expect, the mentor is usually not the employee’s immediate supervisor. When effective, mentoring helps an employee’s career advancement and increases the employee’s commitment to the organization."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Mentoring </span>is a process for developing employee talent over the long term. For example, a more experienced individual—the <em>mentor—</em>serves as a teacher for an employee in a current job and develops the employee for future jobs. Mentoring relationships can be formal or informal. <em>Formal mentoring</em> <strong> </strong>is a mentoring arrangement officially endorsed by the organization. <em>Informal mentoring</em> <strong> </strong>refers to a mentoring arrangement that develops outside of official channels. For example, a senior employee may begin informally mentoring a new employee on his own. Informal arrangements tend to be more effective than formal ones. In an effective mentoring relationship, the employee feels free to openly discuss job challenges and future plans in a nonthreatening environment. As you might expect, the mentor is usually not the employee’s immediate supervisor. When effective, mentoring helps an employee’s career advancement and increases the employee’s commitment to the organization."
                     }
                 ]
             },
@@ -491,7 +461,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The MBO approach to performance evaluation can combat many of these forms of biases. Setting clear employee goals that are linked to measurable outcomes can help avoid similarity error, hiring-manager bias, the halo effect, and negativity bias. Recency error can be minimized by meeting regularly during the evaluation period with employees and noting examples of good and bad performance during these meetings."
                     },
                     {
-                        "Paragraph_txt": "Although not appropriate for all positions, a 360-degree review<strong> </strong>can help avoid bias. In a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">360-degree review, </span>opinions about an employee’s performance are solicited from several sources, such as the employee, peers, subordinates, and customers. When multiple ratings are combined, the overall results are much more likely to be accurate. The downside to this approach is that it can be even more time-consuming than MBO."
+                        "Paragraph_txt": "<br />Although not appropriate for all positions, a 360-degree review<strong> </strong>can help avoid bias. In a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">360-degree review, </span>opinions about an employee’s performance are solicited from several sources, such as the employee, peers, subordinates, and customers. When multiple ratings are combined, the overall results are much more likely to be accurate. The downside to this approach is that it can be even more time-consuming than MBO."
                     }
                 ]
             },
@@ -619,7 +589,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Compensation </span>is the total monetary amount of benefits provided by an employer to an employee in return for work performed as required. Compensation includes an employee’s pay as well as the value of vacations, bonuses, insurance, and any other employer-provided benefit, such as free parking or lunches. A compensation package of pay and benefits is necessary to attract and retain the most qualified and talented employees and to maintain or increase the level of employee performance. To develop an attractive compensation package, insurance companies first determine what other insurers and companies in other industries are providing to their employees. Economic conditions also greatly affect the rewards a company can offer. For example, a company is more likely to offer a more generous total compensation package in a prosperous economy."
                     },
                     {
-                        "Paragraph_txt": "Because every employee is different, and expectancy theory suggests that rewards must be important to an employee to be motivating, companies typically offer employees options in compensation plans. Employee needs will vary based on age, marital status, a spouse’s benefit status, and the number and age of dependents. Figure 3.3 shows the top five overall benefit priorities from an employer and employee perspective."
+                        "Paragraph_txt": "<br />Because every employee is different, and expectancy theory suggests that rewards must be important to an employee to be motivating, companies typically offer employees options in compensation plans. Employee needs will vary based on age, marital status, a spouse’s benefit status, and the number and age of dependents. Figure 3.3 shows the top five overall benefit priorities from an employer and employee perspective."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.3 Top Five Benefit Priorities in 2018</strong>"
                     }
                 ]
             },
@@ -642,7 +645,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.3</strong> Top Five Benefit Priorities in 2018",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -713,6 +716,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.4 Benefit Priorities by Age in 2018</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "3-4figure.jpg",
@@ -731,7 +767,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.4</strong> Benefit Priorities by Age in 2018",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

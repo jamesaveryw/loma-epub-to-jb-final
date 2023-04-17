@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Performance Reporting Standards",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals measure and report portfolio performance regularly, using consistent procedures that comply with certain standards and regulations. Several entities maintain sets of standards that are relevant to performance reporting. We discuss some of these entities in the next chapter."
                     },
                     {
-                        "Paragraph_txt": "By consistently adhering to a particular reporting standard, the portfolio’s investment team enables interested parties—such as institutional investors and regulators—to have faith in the accuracy of the performance information being communicated."
+                        "Paragraph_txt": "<br />By consistently adhering to a particular reporting standard, the portfolio’s investment team enables interested parties—such as institutional investors and regulators—to have faith in the accuracy of the performance information being communicated."
                     },
                     {
-                        "Paragraph_txt": "Two notable types of standards are Global Investment Performance Standards (GIPS<sup>®</sup>) and asset valuation standards."
+                        "Paragraph_txt": "<br />Two notable types of standards are Global Investment Performance Standards (GIPS<sup>®</sup>) and asset valuation standards."
                     }
                 ]
             },
@@ -255,13 +225,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment performance reporting requires investment professionals to determine how much a portfolio’s assets are worth. In the context of reporting, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">asset valuation</span>is the process of calculating the monetary values for assets. Institutional investors use multiple methods of asset valuation. "
                     },
                     {
-                        "Paragraph_txt": "The asset valuation method that an insurance company uses depends on a number of factors, including regulatory requirements, the type of asset, and the purpose for holding the asset. Insurers in the United States must follow state requirements for the valuation and reporting of securities held in their general accounts."
+                        "Paragraph_txt": "<br />The asset valuation method that an insurance company uses depends on a number of factors, including regulatory requirements, the type of asset, and the purpose for holding the asset. Insurers in the United States must follow state requirements for the valuation and reporting of securities held in their general accounts."
                     },
                     {
-                        "Paragraph_txt": "Life insurance companies that conduct business in the United States value their assets under the guidance of the <em>NAIC Accounting Practices &amp; Procedures Manual</em> and the <em>Purposes and Procedures Manual of the NAIC Investment Analysis Office</em>. In addition, the NAIC’s Securities Valuation Office (SVO) provides investment valuations, which are particularly important for investments that are not actively traded or rated. An example of such an investment for an insurer is a private placement security that it owns and must provide a value for in its reporting."
+                        "Paragraph_txt": "<br />Life insurance companies that conduct business in the United States value their assets under the guidance of the <em>NAIC Accounting Practices &amp; Procedures Manual</em> and the <em>Purposes and Procedures Manual of the NAIC Investment Analysis Office</em>. In addition, the NAIC’s Securities Valuation Office (SVO) provides investment valuations, which are particularly important for investments that are not actively traded or rated. An example of such an investment for an insurer is a private placement security that it owns and must provide a value for in its reporting."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals must also follow other regulatory requirements related to asset valuation and the presentation of investment performance. In the next chapter, we discuss specific regulatory entities that maintain sets of standards for accounting and financial reporting for institutional investors."
+                        "Paragraph_txt": "<br />Investment professionals must also follow other regulatory requirements related to asset valuation and the presentation of investment performance. In the next chapter, we discuss specific regulatory entities that maintain sets of standards for accounting and financial reporting for institutional investors."
                     }
                 ]
             },

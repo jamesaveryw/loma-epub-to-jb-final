@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Strategies for Managing Specific Risks",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -403,7 +373,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Laurie Bordeaux is a portfolio manager for an institutional investor that is building an investment portfolio of Canadian real estate properties. The portfolio currently owns one property, a multifamily residential property in Vancouver. Because the real estate portfolio consists of one property, it is entirely dependent on that property’s value. Thus, the portfolio’s risk is concentrated."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: The portfolio’s real estate property could lose value for a variety of reasons—damage from a fire or flood, increased competition from a new apartment complex built nearby, or a broad downturn in the Vancouver economy. To diversify the portfolio, Laurie could purchase properties with different characteristics—such as residential properties in different sizes, styles, and locations. To further diversify, Laurie could purchase nonresidential properties outside of Vancouver. For example, she could purchase an office building in Montreal or an agricultural property near Winnipeg."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: The portfolio’s real estate property could lose value for a variety of reasons—damage from a fire or flood, increased competition from a new apartment complex built nearby, or a broad downturn in the Vancouver economy. To diversify the portfolio, Laurie could purchase properties with different characteristics—such as residential properties in different sizes, styles, and locations. To further diversify, Laurie could purchase nonresidential properties outside of Vancouver. For example, she could purchase an office building in Montreal or an agricultural property near Winnipeg."
                     }
                 ]
             },
@@ -468,6 +438,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 8.1 Diversification and Portfolio Risk</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "8-1figure.jpg",
@@ -486,7 +489,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 8.1</strong> Diversification and Portfolio Risk",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -555,16 +558,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "An investor can use a hedge to protect against an adverse outcome that results in a financial loss. An effective hedge balances out an investment loss with an increase in the hedge’s value. By counterbalancing a potential loss, a hedge works to reduce a portfolio’s overall risk."
                     },
                     {
-                        "Paragraph_txt": "In practice, however, an investment professional may have a difficult time creating a hedge that perfectly offsets a potential loss. Therefore, hedging is generally an investment risk <em>reduction</em> strategy, not a risk <em>elimination</em> strategy."
+                        "Paragraph_txt": "<br />In practice, however, an investment professional may have a difficult time creating a hedge that perfectly offsets a potential loss. Therefore, hedging is generally an investment risk <em>reduction</em> strategy, not a risk <em>elimination</em> strategy."
                     },
                     {
-                        "Paragraph_txt": "In contrast to diversification, hedging is a short-term portfolio management strategy. Investment professionals use hedges to offset adverse price movements in their investments within given periods. After a period of time, a hedge may lose its effectiveness, requiring additional action."
+                        "Paragraph_txt": "<br />In contrast to diversification, hedging is a short-term portfolio management strategy. Investment professionals use hedges to offset adverse price movements in their investments within given periods. After a period of time, a hedge may lose its effectiveness, requiring additional action."
                     },
                     {
-                        "Paragraph_txt": "Investment professionals use hedges to protect against specific risks—such as currency risk or interest-rate risk. As introduced in Chapter 4, <em>currency risk</em> arises from changes in currency exchange rates, and <em>interest-rate risk</em> arises from changes in market interest rates. Such changes could cause particular investments in a portfolio to lose value. Thus, hedging those investments reduces the potential loss for the investor."
+                        "Paragraph_txt": "<br />Investment professionals use hedges to protect against specific risks—such as currency risk or interest-rate risk. As introduced in Chapter 4, <em>currency risk</em> arises from changes in currency exchange rates, and <em>interest-rate risk</em> arises from changes in market interest rates. Such changes could cause particular investments in a portfolio to lose value. Thus, hedging those investments reduces the potential loss for the investor."
                     },
                     {
-                        "Paragraph_txt": "Derivatives are one of the popular investment vehicles for creating hedges. As we mentioned in Chapter 3, <em>derivatives</em> derive their values from underlying assets. For example, the value of a particular put option on a common stock depends on the fluctuating market price of the stock’s shares. Because of the relationship between a derivative and its underlying asset, an investment professional can position a derivative to gain in value as the underlying asset loses value, thus reducing the effect of the underlying asset’s lost value."
+                        "Paragraph_txt": "<br />Derivatives are one of the popular investment vehicles for creating hedges. As we mentioned in Chapter 3, <em>derivatives</em> derive their values from underlying assets. For example, the value of a particular put option on a common stock depends on the fluctuating market price of the stock’s shares. Because of the relationship between a derivative and its underlying asset, an investment professional can position a derivative to gain in value as the underlying asset loses value, thus reducing the effect of the underlying asset’s lost value."
                     }
                 ]
             },
@@ -627,7 +630,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An investor, Helen Flynn, holds shares of a stock and a put option on the same stock. The put option gives Helen the right to sell shares at the strike price until the option expires."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: If the price of Helen’s stock shares falls below the strike price, then exercising the option will limit her loss. Note that as the stock price falls further below the strike price, the put option becomes more valuable to the option holder—which, in this case, is Helen."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: If the price of Helen’s stock shares falls below the strike price, then exercising the option will limit her loss. Note that as the stock price falls further below the strike price, the put option becomes more valuable to the option holder—which, in this case, is Helen."
                     }
                 ]
             },
@@ -750,7 +753,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Dexicos Life Insurance Company wants to hedge against the risk of falling market interest rates. Specifically, Dexicos wants to ensure that it can receive a fixed stream of cash flows even as it reinvests money from maturing bonds into bonds with lower coupon rates. Therefore, Dexicos enters into an interest-rate swap agreement with Palance Bank based on a specified principal amount."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Dexicos holds a bond with a floating coupon rate that is pegged to changes in the Treasury bill rate. Dexicos pays Palance the interest payments that Dexicos receives from this bond. Meanwhile, Palance pays Dexicos the interest payments it receives from a long-term bond it holds that has a fixed coupon rate. Because Palance’s long-term bond pays a consistent interest rate, the interest payments are a steady stream of cash that Palance is paying to Dexicos. Dexicos uses the payments to ensure that it can match its asset and liability cash flows, thus hedging against the risk of falling interest rates."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Dexicos holds a bond with a floating coupon rate that is pegged to changes in the Treasury bill rate. Dexicos pays Palance the interest payments that Dexicos receives from this bond. Meanwhile, Palance pays Dexicos the interest payments it receives from a long-term bond it holds that has a fixed coupon rate. Because Palance’s long-term bond pays a consistent interest rate, the interest payments are a steady stream of cash that Palance is paying to Dexicos. Dexicos uses the payments to ensure that it can match its asset and liability cash flows, thus hedging against the risk of falling interest rates."
                     }
                 ]
             },
@@ -813,7 +816,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Traditionally, derivatives were the primary instruments for hedging a portfolio’s investments. However, as ETF offerings grow more diverse, some sophisticated ETFs allow investors to hedge against specific risks, such as interest-rate risk or currency risk. Because ETFs are generally cheaper and more liquid than derivatives, ETFs are appealing options for institutional investors looking to create hedges in their portfolios."
                     },
                     {
-                        "Paragraph_txt": "The following chart compares the strategies of diversification and hedging."
+                        "Paragraph_txt": "<br />The following chart compares the strategies of diversification and hedging."
                     }
                 ]
             },

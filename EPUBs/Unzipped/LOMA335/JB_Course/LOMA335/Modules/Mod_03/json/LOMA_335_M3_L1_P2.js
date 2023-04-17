@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Organizational Effects on Decision Making",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -147,6 +117,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.1 The Organizational Hierarchy of Decisions</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "7-1figure.jpg",
@@ -165,7 +168,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.1</strong> The Organizational Hierarchy of Decisions",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -294,7 +297,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Decisions in Small Organizations</strong> "
                     },
                     {
-                        "Paragraph_txt": "The Wilden Company consists of 40 employees organized into three divisions: a call center, a sales center, and administration. All divisions work within the same building, and the president of the company talks formally or informally with division heads every day. In this situation, the president knows exactly how business strategies and operational strategies are working and can make strategic decisions based on accurate and up-to-date information. She can also easily approve decisions by management at the business and operational levels. In this situation, the president retains ultimate authority and responsibility for decisions of any importance."
+                        "Paragraph_txt": "<br />The Wilden Company consists of 40 employees organized into three divisions: a call center, a sales center, and administration. All divisions work within the same building, and the president of the company talks formally or informally with division heads every day. In this situation, the president knows exactly how business strategies and operational strategies are working and can make strategic decisions based on accurate and up-to-date information. She can also easily approve decisions by management at the business and operational levels. In this situation, the president retains ultimate authority and responsibility for decisions of any importance."
                     }
                 ]
             },
@@ -357,7 +360,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The larger and more complex the organizational structure, the more difficult it is to centralize decision making at the corporate level. As a company grows, the number of management levels increases so that information no longer flows freely across an organization. Instead, organizational information flows upwards or downward through management levels. When the need to communicate information up to decision makers takes too long, or the process is too complicated, the decision-making process and thus resulting outcomes suffer."
                     },
                     {
-                        "Paragraph_txt": "Larger companies are often organized into divisions based on geography, function, customer, or product. Such divisions create operational efficiencies because a division can specialize in one type of activity, which works well in stable and slow-to-change business environments. However, such organizational structures complicate the strategic decision-making process. In a rapidly changing business environment, the need for access to fast, comprehensive, company-wide information is critical. Without a centralized repository of usable and current data from all company divisions, the time needed to gather information and the potential for miscommunications and bad decisions increase."
+                        "Paragraph_txt": "<br />Larger companies are often organized into divisions based on geography, function, customer, or product. Such divisions create operational efficiencies because a division can specialize in one type of activity, which works well in stable and slow-to-change business environments. However, such organizational structures complicate the strategic decision-making process. In a rapidly changing business environment, the need for access to fast, comprehensive, company-wide information is critical. Without a centralized repository of usable and current data from all company divisions, the time needed to gather information and the potential for miscommunications and bad decisions increase."
                     }
                 ]
             },
@@ -420,7 +423,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Decisions in Large Organizations</strong> "
                     },
                     {
-                        "Paragraph_txt": "The True Life Insurance Company has 2000 employees organized into two divisions: Life and Annuities and Property and Casualty. Each division has a vice president who reports to the president and then several layers of management under the vice president. It is impossible for the president or even the vice presidents of the divisions to know about or approve all decisions made at lower organizational levels. However, True Life has an easy-to-use company-wide database for managers at all levels to use to inform decision making."
+                        "Paragraph_txt": "<br />The True Life Insurance Company has 2000 employees organized into two divisions: Life and Annuities and Property and Casualty. Each division has a vice president who reports to the president and then several layers of management under the vice president. It is impossible for the president or even the vice presidents of the divisions to know about or approve all decisions made at lower organizational levels. However, True Life has an easy-to-use company-wide database for managers at all levels to use to inform decision making."
                     }
                 ]
             },

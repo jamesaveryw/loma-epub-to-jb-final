@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Alternative Investments",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Cash, bonds, and stocks are universally considered <em>traditional investments</em>. Therefore, by definition, an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">alternative investment</span> is any investment that is not considered a traditional investment. However, the term is subjective, because some investors consider real estate, REITs, and derivatives to be alternative investments, while others consider some or all to be traditional investments. (This text does not categorize real estate, REITs, structured securities, or derivatives as alternative investments.)"
                     },
                     {
-                        "Paragraph_txt": "Alternative investments can be tangible assets—such as commodities, art, wine, jewelry, coins, baseball cards, and stamps. However, most institutional investors think of hedge funds and private equity funds as the primary types of alternative investments. We explore these in the next sections."
+                        "Paragraph_txt": "<br />Alternative investments can be tangible assets—such as commodities, art, wine, jewelry, coins, baseball cards, and stamps. However, most institutional investors think of hedge funds and private equity funds as the primary types of alternative investments. We explore these in the next sections."
                     },
                     {
-                        "Paragraph_txt": "Institutional investors include alternative investments in their portfolios to benefit from these advantages:"
+                        "Paragraph_txt": "<br />Institutional investors include alternative investments in their portfolios to benefit from these advantages:"
                     }
                 ]
             },
@@ -422,19 +392,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">hedge fund</span> is an alternative investment vehicle that (1) is often structured as a limited partnership, (2) pools capital from a limited number of sophisticated investors, and (3) is virtually unlimited in the investment strategies it can pursue. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">limited partnership</span> is a business organization that consists of (1) one or more general partners who manage and control a business and are legally liable for all the debts and obligations of the business, and (2) one or more limited partners whose main function is to provide investment capital."
                     },
                     {
-                        "Paragraph_txt": "Typically, hedge funds are available only to wealthy individuals and institutional investors and require large initial minimum investments. In addition, hedge funds usually restrict the investor’s ability to get out of the fund, particularly during the period immediately after the investor purchases shares."
+                        "Paragraph_txt": "<br />Typically, hedge funds are available only to wealthy individuals and institutional investors and require large initial minimum investments. In addition, hedge funds usually restrict the investor’s ability to get out of the fund, particularly during the period immediately after the investor purchases shares."
                     },
                     {
-                        "Paragraph_txt": "Hedge fund participation is limited to sophisticated investors that need less regulatory protection than other investors. Therefore, hedge funds generally face less regulatory oversight and fewer disclosure requirements than other types of investment vehicles."
+                        "Paragraph_txt": "<br />Hedge fund participation is limited to sophisticated investors that need less regulatory protection than other investors. Therefore, hedge funds generally face less regulatory oversight and fewer disclosure requirements than other types of investment vehicles."
                     },
                     {
-                        "Paragraph_txt": "Because they have fewer regulatory restrictions, hedge funds have the flexibility to engage in a wide range of investment strategies. Most hedge funds focus on a particular fund style that takes advantage of the specialized expertise of their investment professionals."
+                        "Paragraph_txt": "<br />Because they have fewer regulatory restrictions, hedge funds have the flexibility to engage in a wide range of investment strategies. Most hedge funds focus on a particular fund style that takes advantage of the specialized expertise of their investment professionals."
                     },
                     {
-                        "Paragraph_txt": "Hedge funds started out as a means to hedge the risk from holding stocks, hence the fund type’s name. Over time, hedge funds increased their use of leverage to amplify returns. Now hedge funds can use derivatives and leverage to aggressively pursue investment gains and even speculate in markets."
+                        "Paragraph_txt": "<br />Hedge funds started out as a means to hedge the risk from holding stocks, hence the fund type’s name. Over time, hedge funds increased their use of leverage to amplify returns. Now hedge funds can use derivatives and leverage to aggressively pursue investment gains and even speculate in markets."
                     },
                     {
-                        "Paragraph_txt": "Hedge funds can deliver exceptional returns relative to other types of investments. However, their concentrated bets can expose investors to significant losses. Because concentrated portfolios are less diversified—a concept we explain in Chapter 8—one investment loss could have a large effect on a concentrated hedge fund’s overall return."
+                        "Paragraph_txt": "<br />Hedge funds can deliver exceptional returns relative to other types of investments. However, their concentrated bets can expose investors to significant losses. Because concentrated portfolios are less diversified—a concept we explain in Chapter 8—one investment loss could have a large effect on a concentrated hedge fund’s overall return."
                     }
                 ]
             },
@@ -541,22 +511,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Infrastructure</span> refers to the basic facilities and systems that provide the services necessary for societies and economies to function. In other words, infrastructure comprises the physical structures that support cities, states or provinces, and countries. Examples of such structures include roads, bridges, tunnels, sewers, water supply facilities, cables, telephone wires, and electrical grids."
                     },
                     {
-                        "Paragraph_txt": "Traditionally, direct investment in infrastructure is done by governments and interested businesses. For example, an energy company may build a pipeline to expand operational capacity. The pipeline benefits the company by enabling it to generate more revenue. The country where the pipeline is built also benefits from enhancement of its infrastructure."
+                        "Paragraph_txt": "<br />Traditionally, direct investment in infrastructure is done by governments and interested businesses. For example, an energy company may build a pipeline to expand operational capacity. The pipeline benefits the company by enabling it to generate more revenue. The country where the pipeline is built also benefits from enhancement of its infrastructure."
                     },
                     {
-                        "Paragraph_txt": "Many institutional investors already have indirect investments in infrastructure through municipal bonds issued by governments and corporate bonds issued by companies in certain industries. However, institutional investors can directly invest in infrastructure by providing capital for infrastructure projects."
+                        "Paragraph_txt": "<br />Many institutional investors already have indirect investments in infrastructure through municipal bonds issued by governments and corporate bonds issued by companies in certain industries. However, institutional investors can directly invest in infrastructure by providing capital for infrastructure projects."
                     },
                     {
-                        "Paragraph_txt": "As an investment, infrastructure can provide investors with diversification benefits because the risk and return characteristics are unlike many traditional asset classes. In addition, the cash flows generated by infrastructure are attractive to investors such as life insurers. Life insurers want to hold long-term assets to match cash flows with their long-term liabilities. Many infrastructure projects are long-term and have the potential to “provide stable and secure cash flows for life insurance companies, whose liability structure affords them more flexibility in investing in a relatively illiquid asset.”<span class=\"ens\" id=\"loma357-ch3-span-70\"> <span class=\"endnote hidden\" data-note=\"loma357-ch3-en1\" epub:type=\"noteref\" id=\"loma357-ch3-span-71\" role=\"doc-noteref\">1</span> </span> "
+                        "Paragraph_txt": "<br />As an investment, infrastructure can provide investors with diversification benefits because the risk and return characteristics are unlike many traditional asset classes. In addition, the cash flows generated by infrastructure are attractive to investors such as life insurers. Life insurers want to hold long-term assets to match cash flows with their long-term liabilities. Many infrastructure projects are long-term and have the potential to “provide stable and secure cash flows for life insurance companies, whose liability structure affords them more flexibility in investing in a relatively illiquid asset.”<span class=\"ens\" id=\"loma357-ch3-span-70\"> <span class=\"endnote hidden\" data-note=\"loma357-ch3-en1\" epub:type=\"noteref\" id=\"loma357-ch3-span-71\" role=\"doc-noteref\">1</span> </span> "
                     },
                     {
-                        "Paragraph_txt": "Like other alternative investments, infrastructure investments are illiquid. Furthermore, investors may have difficulty (1) finding information for proper due diligence and (2) determining asset values for infrastructure assets."
+                        "Paragraph_txt": "<br />Like other alternative investments, infrastructure investments are illiquid. Furthermore, investors may have difficulty (1) finding information for proper due diligence and (2) determining asset values for infrastructure assets."
                     },
                     {
-                        "Paragraph_txt": "Another aspect for institutional investors to consider is the infrastructure project cycle. Investors have to commit capital at the beginning to initiate the project, but builders need to complete development before investors can start receiving repayment in the form of incoming cash flows."
+                        "Paragraph_txt": "<br />Another aspect for institutional investors to consider is the infrastructure project cycle. Investors have to commit capital at the beginning to initiate the project, but builders need to complete development before investors can start receiving repayment in the form of incoming cash flows."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the investment strategies of the alternative investments covered in this chapter."
+                        "Paragraph_txt": "<br />The following chart summarizes the investment strategies of the alternative investments covered in this chapter."
                     }
                 ]
             },

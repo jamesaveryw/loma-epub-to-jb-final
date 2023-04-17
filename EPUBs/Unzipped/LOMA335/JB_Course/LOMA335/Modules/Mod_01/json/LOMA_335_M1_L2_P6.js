@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Innovation Strategy",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -205,10 +175,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst Vision Statement</strong> "
                     },
                     {
-                        "Paragraph_txt": "<em>The EndiFirst Insurance Company wants to create financial products and wellness programs that help people enjoy a better quality of life.</em> "
+                        "Paragraph_txt": "<br /><em>The EndiFirst Insurance Company wants to create financial products and wellness programs that help people enjoy a better quality of life.</em> "
                     },
                     {
-                        "Paragraph_txt": "Unlike EndiFirst’s mission statement, which focuses on insurance products, this vision statement doesn’t say how EndiFirst will help people enjoy a better quality of life. In the future, EndiFirst might accomplish this goal through health insurance, life insurance, property/casualty insurance, or even no insurance. For example, EndiFirst might offer weight loss programs or wearable technologies that promote healthier lifestyles and a better quality of life. By leaving open “how” a company will get to a particular future, the vision statement promotes innovation."
+                        "Paragraph_txt": "<br />Unlike EndiFirst’s mission statement, which focuses on insurance products, this vision statement doesn’t say how EndiFirst will help people enjoy a better quality of life. In the future, EndiFirst might accomplish this goal through health insurance, life insurance, property/casualty insurance, or even no insurance. For example, EndiFirst might offer weight loss programs or wearable technologies that promote healthier lifestyles and a better quality of life. By leaving open “how” a company will get to a particular future, the vision statement promotes innovation."
                     }
                 ]
             },
@@ -271,7 +241,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Innovation goals and strategies focus on different types of innovation. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Breakthrough innovation</span>is innovation that can change a company’s business model. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Incremental innovation </span>is innovation to enhance operations and profitability. Insurance companies have long been adept at incremental innovation. This year’s improved version of last year’s product is an example of an incremental innovation. To prepare for potential disruptions in the operating environment, however, corporate innovation strategies must also include plans for breakthrough innovation. Breakthrough innovation might involve investing in financial technology companies to gain access to new technologies or exploring different ways to distribute products. "
                     },
                     {
-                        "Paragraph_txt": "For operations management, incremental innovations to enhance current processes and the profitability of the core business are the primary focus. When the core business is operating profitably, a company’s strategic management can better explore and fund breakthrough innovation initiatives. Incremental innovation requires that management understand how business processes connect to the company’s customers, mission, employees, and corporate culture. Incremental innovation thrives in strategically aligned organizations because all efforts—planning, organizing, directing, and controlling—have a common purpose and goals. When all employees, from the bottom to the top of the organization chart, are fully committed to making the business better, incremental innovations occur naturally. Chapter 10 describes how companies incorporate innovation into their operations."
+                        "Paragraph_txt": "<br />For operations management, incremental innovations to enhance current processes and the profitability of the core business are the primary focus. When the core business is operating profitably, a company’s strategic management can better explore and fund breakthrough innovation initiatives. Incremental innovation requires that management understand how business processes connect to the company’s customers, mission, employees, and corporate culture. Incremental innovation thrives in strategically aligned organizations because all efforts—planning, organizing, directing, and controlling—have a common purpose and goals. When all employees, from the bottom to the top of the organization chart, are fully committed to making the business better, incremental innovations occur naturally. Chapter 10 describes how companies incorporate innovation into their operations."
                     }
                 ]
             },

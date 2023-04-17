@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Factors Influencing Investment Returns",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,13 +115,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Many factors influence investment returns. Some factors are specific to an individual investment, such as the issuer’s credit quality. One important factor for each investment is an asset’s price—particularly the price the investor pays at the time of purchase."
                     },
                     {
-                        "Paragraph_txt": "Other factors that influence investment returns affect certain asset classes or entire markets. Some of the broad economic factors that influence insurance company investment returns are interest rates, inflation, and the business cycle."
+                        "Paragraph_txt": "<br />Other factors that influence investment returns affect certain asset classes or entire markets. Some of the broad economic factors that influence insurance company investment returns are interest rates, inflation, and the business cycle."
                     },
                     {
-                        "Paragraph_txt": "You will notice that some of these factors are interrelated. For example, interest rates and the business cycle often influence each other. Therefore, isolating the effect of a particular factor on an investment can be challenging. However, you need to understand these basic factors before you encounter investment risks later in this chapter."
+                        "Paragraph_txt": "<br />You will notice that some of these factors are interrelated. For example, interest rates and the business cycle often influence each other. Therefore, isolating the effect of a particular factor on an investment can be challenging. However, you need to understand these basic factors before you encounter investment risks later in this chapter."
                     },
                     {
-                        "Paragraph_txt": "Investment returns are also affected by taxes and transaction fees. For simplicity, we ignore these factors when discussing investment return measurement later in this chapter."
+                        "Paragraph_txt": "<br />Investment returns are also affected by taxes and transaction fees. For simplicity, we ignore these factors when discussing investment return measurement later in this chapter."
                     }
                 ]
             },
@@ -247,10 +217,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Wayne O’Connell sold 100 shares of Hattime Corporation at $50 per share for a total of $5,000, or 100 x $50. He originally bought all of the shares at one time and paid $35 per share, for a total purchase cost of $3,500, or 100 x $35. Therefore, his capital gain on the stock is $1,500, calculated as $5,000 – $3,500, not including transaction costs."
                     },
                     {
-                        "Paragraph_txt": "Maureen Callahan also sold 100 shares of Hattime Corporation at $50 per share for a total of $5,000, or 100 x $50. However, she bought her shares five months before Wayne. She originally bought all of her shares at one time and paid $20 per share, for a total purchase cost of $2,000, or 100 x $20. Her capital gain on the stock is $3,000, calculated as $5,000 – $2,000, not including transaction costs."
+                        "Paragraph_txt": "<br />Maureen Callahan also sold 100 shares of Hattime Corporation at $50 per share for a total of $5,000, or 100 x $50. However, she bought her shares five months before Wayne. She originally bought all of her shares at one time and paid $20 per share, for a total purchase cost of $2,000, or 100 x $20. Her capital gain on the stock is $3,000, calculated as $5,000 – $2,000, not including transaction costs."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Because Maureen purchased her shares of Hattime at a lower price than Wayne, she realized a larger capital gain, even though both investors sold the same number of shares of the same stock at the same price and at the same time."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Because Maureen purchased her shares of Hattime at a lower price than Wayne, she realized a larger capital gain, even though both investors sold the same number of shares of the same stock at the same price and at the same time."
                     }
                 ]
             },
@@ -313,10 +283,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In addition to determining the size of a capital gain (or loss), the purchase price also determines the yield an investor can expect to earn on an investment. As you will read in Chapter 7, using yields to compare different assets helps investors evaluate and select investments."
                     },
                     {
-                        "Paragraph_txt": "For a bond, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">yield to maturity (YTM)</span> is the rate of return a bondholder will earn if he holds a bond until maturity. Although the calculation for the YTM is beyond the scope of this text, you should know that the calculation typically uses a bond’s current market price to determine the total rate of return on all cash flows received until maturity."
+                        "Paragraph_txt": "<br />For a bond, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">yield to maturity (YTM)</span> is the rate of return a bondholder will earn if he holds a bond until maturity. Although the calculation for the YTM is beyond the scope of this text, you should know that the calculation typically uses a bond’s current market price to determine the total rate of return on all cash flows received until maturity."
                     },
                     {
-                        "Paragraph_txt": "If an investor buys a bond at a price below or above par value, the YTM is greater or lower than the bond’s coupon rate. The following insight illustrates this principle."
+                        "Paragraph_txt": "<br />If an investor buys a bond at a price below or above par value, the YTM is greater or lower than the bond’s coupon rate. The following insight illustrates this principle."
                     }
                 ]
             },
@@ -610,7 +580,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investors may find other variations of YTM calculations useful for bonds with certain characteristics. For example, using YTM to evaluate a callable bond overlooks the risk that the issuer may retire the bond before the maturity date. In this case, the investor could look at the bond’s <em>yield to call (YTC)</em>, which calculates the yield earned if the bond is held until the first call date. Because the YTC could be higher or lower than the YTM, a more conservative calculation, <em>yield to worst</em>, calculates the lowest possible yield while considering both call and maturity dates."
                     },
                     {
-                        "Paragraph_txt": "Bond investors do not always hold their bonds until maturity. In this case, an investor may want to calculate a bond’s yield for a shorter length of time, such as one year. To determine a bond’s one-year yield, investors calculate its <span class=\"keyterm\" tabindex=\"0\" role=\"button\">current yield</span>, which is the amount of annual interest received from a bond stated as a percentage of the current market price. The formula for the current yield of a bond is"
+                        "Paragraph_txt": "<br />Bond investors do not always hold their bonds until maturity. In this case, an investor may want to calculate a bond’s yield for a shorter length of time, such as one year. To determine a bond’s one-year yield, investors calculate its <span class=\"keyterm\" tabindex=\"0\" role=\"button\">current yield</span>, which is the amount of annual interest received from a bond stated as a percentage of the current market price. The formula for the current yield of a bond is"
                     }
                 ]
             },
@@ -980,7 +950,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Analysis</strong>: When the bond’s current market price rose, its current yield fell. Conversely, when the bond’s price fell, its current yield rose. Thus, the bond’s yield is a function of its price."
                     },
                     {
-                        "Paragraph_txt": "Another observation is that the bond’s coupon rate and coupon payments did not change, even though the yield changed each time the market price changed. In addition, because all three calculations occur when the bond is trading at a discount to par value, all three current yields are higher than the 4% coupon rate."
+                        "Paragraph_txt": "<br />Another observation is that the bond’s coupon rate and coupon payments did not change, even though the yield changed each time the market price changed. In addition, because all three calculations occur when the bond is trading at a discount to par value, all three current yields are higher than the 4% coupon rate."
                     }
                 ]
             },
@@ -1043,7 +1013,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As you can see from the YTM and current yield examples, an asset’s price and its yield generally move in opposite directions—meaning that they have an <em>inverse relationship</em>."
                     },
                     {
-                        "Paragraph_txt": "Using market prices, investors can calculate yields for many types of income-generating investments—including bonds, real estate properties, stocks, REITs, mutual funds, and ETFs."
+                        "Paragraph_txt": "<br />Using market prices, investors can calculate yields for many types of income-generating investments—including bonds, real estate properties, stocks, REITs, mutual funds, and ETFs."
                     }
                 ]
             },
@@ -1079,19 +1049,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "Market interest rates establish the cost of borrowing money in a given market. For lenders, interest rates represent the rates of return that they expect when they lend to borrowers. Lenders charge higher rates when the prospect of repayment by borrowers is less certain, and they charge lower rates to borrowers that are more likely to repay their debts."
                     },
                     {
-                        "Paragraph_txt": "Interest rates affect the actions of borrowers in an economy. Low interest rates spur economic growth by encouraging borrowing. A low cost of borrowing helps borrowers raise capital for new projects. As interest rates rise, the cost of borrowing increases, which discourages borrowing. If interest rates rise high enough, borrowers cut back on assuming debt to initiate new projects."
+                        "Paragraph_txt": "<br />Interest rates affect the actions of borrowers in an economy. Low interest rates spur economic growth by encouraging borrowing. A low cost of borrowing helps borrowers raise capital for new projects. As interest rates rise, the cost of borrowing increases, which discourages borrowing. If interest rates rise high enough, borrowers cut back on assuming debt to initiate new projects."
                     },
                     {
-                        "Paragraph_txt": "Besides encouraging borrowing, lower interest rates provide an incentive for consumers to decrease saving and increase debt-fueled consumption. For example, when rates are low enough, you may decide to take out an auto loan to buy the new car you have wanted. As rates increase, taking out a loan becomes less appealing."
+                        "Paragraph_txt": "<br />Besides encouraging borrowing, lower interest rates provide an incentive for consumers to decrease saving and increase debt-fueled consumption. For example, when rates are low enough, you may decide to take out an auto loan to buy the new car you have wanted. As rates increase, taking out a loan becomes less appealing."
                     },
                     {
-                        "Paragraph_txt": "Higher interest rates encourage saving because people and businesses earn a better rate of return on money put into savings than when rates are lower. Because saving is less risky than other uses of capital, saving is an appealing option for many."
+                        "Paragraph_txt": "<br />Higher interest rates encourage saving because people and businesses earn a better rate of return on money put into savings than when rates are lower. Because saving is less risky than other uses of capital, saving is an appealing option for many."
                     },
                     {
-                        "Paragraph_txt": "In addition, higher interest rates increase the rate of return that a project has to earn to justify investing capital instead of saving it and earning the market interest rate. When interest rates are higher, fewer projects are able to provide a rate of return in excess of the market interest rate and project investment generally decreases."
+                        "Paragraph_txt": "<br />In addition, higher interest rates increase the rate of return that a project has to earn to justify investing capital instead of saving it and earning the market interest rate. When interest rates are higher, fewer projects are able to provide a rate of return in excess of the market interest rate and project investment generally decreases."
                     },
                     {
-                        "Paragraph_txt": "Many institutional investors allocate capital to multiple asset classes and move capital between asset classes as market conditions change. Movements in market interest rates are one condition that can cause some asset classes to become more appealing than others."
+                        "Paragraph_txt": "<br />Many institutional investors allocate capital to multiple asset classes and move capital between asset classes as market conditions change. Movements in market interest rates are one condition that can cause some asset classes to become more appealing than others."
                     }
                 ]
             },
@@ -1127,19 +1097,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most countries have a central banking system or monetary authority that develops and oversees the country’s monetary policies, including the country’s desired interest rate. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">monetary policy</span> is the strategy that a country’s monetary authority uses to stabilize the economy by increasing or decreasing the supply of money. Generally, a central bank uses monetary policy to affect growth and the rate of inflation in its local economy."
                     },
                     {
-                        "Paragraph_txt": "A country’s central bank does not directly control market interest rates. Rather, the central bank sets a <em>benchmark interest rate</em>, and banks and other financial institutions set the interest rates they charge in the marketplace in relation to the benchmark interest rate. As such, market interest rates adjust in response to central bank changes to the benchmark interest rate."
+                        "Paragraph_txt": "<br />A country’s central bank does not directly control market interest rates. Rather, the central bank sets a <em>benchmark interest rate</em>, and banks and other financial institutions set the interest rates they charge in the marketplace in relation to the benchmark interest rate. As such, market interest rates adjust in response to central bank changes to the benchmark interest rate."
                     },
                     {
-                        "Paragraph_txt": "In the United States, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Federal Reserve</span> is the central bank responsible for conducting monetary policy. The Federal Reserve sets the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">federal funds rate</span> (or <em>fed funds rate</em>), which is (1) the rate banks pay when borrowing from other banks and (2) the benchmark interest rate in the United States."
+                        "Paragraph_txt": "<br />In the United States, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Federal Reserve</span> is the central bank responsible for conducting monetary policy. The Federal Reserve sets the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">federal funds rate</span> (or <em>fed funds rate</em>), which is (1) the rate banks pay when borrowing from other banks and (2) the benchmark interest rate in the United States."
                     },
                     {
-                        "Paragraph_txt": "By raising the federal funds rate, the Federal Reserve increases borrowing costs for banks, thus indirectly decreasing the amount of money they have to lend to potential borrowers. For the Federal Reserve, raising the federal funds rate is part of a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">contractionary monetary policy</span>, which decreases the growth of the money supply and the amount of credit available in the economy."
+                        "Paragraph_txt": "<br />By raising the federal funds rate, the Federal Reserve increases borrowing costs for banks, thus indirectly decreasing the amount of money they have to lend to potential borrowers. For the Federal Reserve, raising the federal funds rate is part of a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">contractionary monetary policy</span>, which decreases the growth of the money supply and the amount of credit available in the economy."
                     },
                     {
-                        "Paragraph_txt": "When the Federal Reserve lowers the federal funds rate, banks effectively have more money that they can use for lending to borrowers in the economy. In lowering the federal funds rate, the Federal Reserve is conducting an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">expansionary monetary policy,</span>which increases the growth of the money supply and the amount of credit available in the economy. "
+                        "Paragraph_txt": "<br />When the Federal Reserve lowers the federal funds rate, banks effectively have more money that they can use for lending to borrowers in the economy. In lowering the federal funds rate, the Federal Reserve is conducting an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">expansionary monetary policy,</span>which increases the growth of the money supply and the amount of credit available in the economy. "
                     },
                     {
-                        "Paragraph_txt": "Central banks influence market interest rates to increase or decrease economic activity. The intention of contractionary monetary policy is to keep an economy from growing at an unsustainably high rate by slowing economic growth. The intention of expansionary monetary policy is to spur economic growth by easing borrowing costs."
+                        "Paragraph_txt": "<br />Central banks influence market interest rates to increase or decrease economic activity. The intention of contractionary monetary policy is to keep an economy from growing at an unsustainably high rate by slowing economic growth. The intention of expansionary monetary policy is to spur economic growth by easing borrowing costs."
                     }
                 ]
             },
@@ -1328,10 +1298,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because insurance companies typically have significant bond holdings in their investment portfolios, they closely follow interest-rate changes. Later in this chapter, we describe how interest rates pose risks to insurers’ investment returns and profitability."
                     },
                     {
-                        "Paragraph_txt": "The effect of market interest-rate changes on the prices of stocks is not as clear-cut as on bond prices. Companies in some stock market <span class=\"keyterm\" tabindex=\"0\" role=\"button\">sectors</span>—categories comprising companies in a particular industry that carry out a similar function within the broader industry—are more sensitive to interest rates than other sectors. For instance, rising interest rates are usually beneficial for financial sector stocks because financial services companies can earn more interest from their lending activities. As another example, falling interest rates are beneficial for the stocks of companies involved in construction and home improvement because low rates spur consumer demand for house purchases and upgrades. "
+                        "Paragraph_txt": "<br />The effect of market interest-rate changes on the prices of stocks is not as clear-cut as on bond prices. Companies in some stock market <span class=\"keyterm\" tabindex=\"0\" role=\"button\">sectors</span>—categories comprising companies in a particular industry that carry out a similar function within the broader industry—are more sensitive to interest rates than other sectors. For instance, rising interest rates are usually beneficial for financial sector stocks because financial services companies can earn more interest from their lending activities. As another example, falling interest rates are beneficial for the stocks of companies involved in construction and home improvement because low rates spur consumer demand for house purchases and upgrades. "
                     },
                     {
-                        "Paragraph_txt": "Interest-rate changes also affect how investors allocate capital among asset classes. For example, when interest rates are low or falling, investors seeking income-generating investments may not realize a sufficient return by investing in bonds. These investors may turn to <em>bond proxies</em>, which are equity investments that can “act” like bonds by earning reasonably stable returns while earning higher yields than bonds. Two examples of assets that investors consider to be bond proxies are high-yield dividend-paying stocks and REITs. As interest rates rise, bonds become more attractive, and income-seeking investors are likely to move money from bond proxies back into bonds. At the same time, the decreased demand for bond proxies typically decreases their market values."
+                        "Paragraph_txt": "<br />Interest-rate changes also affect how investors allocate capital among asset classes. For example, when interest rates are low or falling, investors seeking income-generating investments may not realize a sufficient return by investing in bonds. These investors may turn to <em>bond proxies</em>, which are equity investments that can “act” like bonds by earning reasonably stable returns while earning higher yields than bonds. Two examples of assets that investors consider to be bond proxies are high-yield dividend-paying stocks and REITs. As interest rates rise, bonds become more attractive, and income-seeking investors are likely to move money from bond proxies back into bonds. At the same time, the decreased demand for bond proxies typically decreases their market values."
                     }
                 ]
             },
@@ -1367,13 +1337,46 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because interest-rate changes have a strong effect on the market values and yields of bonds, investors pay attention to the direction and intensity of interest-rate movements. Investors assess the impact of interest rates on bond yields by studying changes to the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">term structure of interest rates</span>, which is the relationship between interest rates on bonds of the same credit quality but with different maturities."
                     },
                     {
-                        "Paragraph_txt": "The term structure of interest rates is represented visually by a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">yield curve</span>—also known as a <em>debt curve</em> or a <em>bond curve</em>—which is a line graph that illustrates the relationship between the yields of debt securities and the maturities of those securities. A yield curve shows yield and term-to-maturity relationships at a given point in time. "
+                        "Paragraph_txt": "<br />The term structure of interest rates is represented visually by a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">yield curve</span>—also known as a <em>debt curve</em> or a <em>bond curve</em>—which is a line graph that illustrates the relationship between the yields of debt securities and the maturities of those securities. A yield curve shows yield and term-to-maturity relationships at a given point in time. "
                     },
                     {
-                        "Paragraph_txt": "To illustrate the yield curve for bonds in a given country, investors use government bonds. For example, in the United States, the yields of Treasuries typically provide the basis for a yield curve. In other countries, the basis for yields comes from debt securities issued by that country. As such, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">sovereign yield curve</span>, also called a <em>sovereign debt curve</em> or <em>sovereign interest curve</em>, refers to a yield curve representing the term structure of interest rates for a non-U.S. country."
+                        "Paragraph_txt": "<br />To illustrate the yield curve for bonds in a given country, investors use government bonds. For example, in the United States, the yields of Treasuries typically provide the basis for a yield curve. In other countries, the basis for yields comes from debt securities issued by that country. As such, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">sovereign yield curve</span>, also called a <em>sovereign debt curve</em> or <em>sovereign interest curve</em>, refers to a yield curve representing the term structure of interest rates for a non-U.S. country."
                     },
                     {
-                        "Paragraph_txt": "The vertical axis of a yield curve represents yields and the horizontal axis represents maturities. As shown in Figure 4.1, yield curves generally take one of three shapes:"
+                        "Paragraph_txt": "<br />The vertical axis of a yield curve represents yields and the horizontal axis represents maturities. As shown in Figure 4.1, yield curves generally take one of three shapes:"
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.1 Examples of Yield Curve Shapes</strong>"
                     }
                 ]
             },
@@ -1396,7 +1399,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.1</strong> Examples of Yield Curve Shapes",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1523,13 +1526,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "In a normal yield curve, the degree, or intensity, of the slope—flattish, slightly upward, or sharply upward—indicates investors’ expectations for short-term yields and long-term yields. Higher long-term yields signal that investors expect interest rates to rise, which will decrease bond market values and increase bond yields. A normal yield curve also signals expectations of healthy economic growth, as rising interest rates are generally associated with periods of rising economic growth."
                     },
                     {
-                        "Paragraph_txt": "Investors compare yield curves from different dates to analyze the trends in a curve’s movements. A normal yield curve that starts to flatten—with rising short-term yields and falling long-term yields—could signal that investors expect a slowing rate in the pace of future interest-rate increases. A flat or practically flat yield curve signals that investors do not expect future interest-rate increases or cannot determine the direction of future interest-rate changes."
+                        "Paragraph_txt": "<br />Investors compare yield curves from different dates to analyze the trends in a curve’s movements. A normal yield curve that starts to flatten—with rising short-term yields and falling long-term yields—could signal that investors expect a slowing rate in the pace of future interest-rate increases. A flat or practically flat yield curve signals that investors do not expect future interest-rate increases or cannot determine the direction of future interest-rate changes."
                     },
                     {
-                        "Paragraph_txt": "An inverted yield curve occurs when short-term yields rise above long-term yields. An inverted yield curve could indicate that investors expect interest rates to fall in the future. A jump in short-term rates could also signal that financing has become difficult for borrowers to obtain. Many investors see an inverted yield curve as a sign of an impending economic <span class=\"keyterm\" tabindex=\"0\" role=\"button\">recession</span>—a period of significant decline in economic activity, lasting more than a few months—because interest rates fall when an economy is weak."
+                        "Paragraph_txt": "<br />An inverted yield curve occurs when short-term yields rise above long-term yields. An inverted yield curve could indicate that investors expect interest rates to fall in the future. A jump in short-term rates could also signal that financing has become difficult for borrowers to obtain. Many investors see an inverted yield curve as a sign of an impending economic <span class=\"keyterm\" tabindex=\"0\" role=\"button\">recession</span>—a period of significant decline in economic activity, lasting more than a few months—because interest rates fall when an economy is weak."
                     },
                     {
-                        "Paragraph_txt": "In addition, an inverted yield curve changes investors’ attitudes toward owning long-term bonds. The prospect of decreasing interest rates encourages bond investors to buy bonds with longer terms to maturity, thus ensuring their portfolios will (1) hold bonds with higher coupon rates than those of newly issued bonds in the lower interest-rate environment and (2) benefit from increases in bond market values when market interest rates fall. Therefore, bonds with longer terms to maturity become more desirable than bonds with shorter terms. Decreased demand for short-term bonds decreases their market values, which increases their yields."
+                        "Paragraph_txt": "<br />In addition, an inverted yield curve changes investors’ attitudes toward owning long-term bonds. The prospect of decreasing interest rates encourages bond investors to buy bonds with longer terms to maturity, thus ensuring their portfolios will (1) hold bonds with higher coupon rates than those of newly issued bonds in the lower interest-rate environment and (2) benefit from increases in bond market values when market interest rates fall. Therefore, bonds with longer terms to maturity become more desirable than bonds with shorter terms. Decreased demand for short-term bonds decreases their market values, which increases their yields."
                     }
                 ]
             },
@@ -1627,13 +1630,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "One of the goals of the Federal Reserve and other central banks is to stabilize the rate of price increases in their economies by moderating the year-to-year rate of inflation. (In addition, moderate rates of inflation are typically associated with steady rates of economic growth.) According to economic theory, increases in the supply of money in an economy can lead to increased inflation in that economy. Therefore, by influencing market interest rates—which affect the supply of money in an economy—central banks should be able to affect inflation rates. In reality, consistently achieving a desired change in the rate of inflation is challenging for any central bank."
                     },
                     {
-                        "Paragraph_txt": "Because inflation erodes the value of money in an economy, it can have a meaningful effect on debt securities, such as bonds and mortgages. In an inflationary environment, the burden—from the perspective of borrowers—of a debt amount erodes as the value of money erodes. Over time, the interest payments made by borrowers represent diminishing monetary value for lenders. Therefore, inflation becomes more important the longer an investor holds a debt security. In a <em>deflationary</em> environment, debt represents a greater burden for borrowers and a greater return for lenders."
+                        "Paragraph_txt": "<br />Because inflation erodes the value of money in an economy, it can have a meaningful effect on debt securities, such as bonds and mortgages. In an inflationary environment, the burden—from the perspective of borrowers—of a debt amount erodes as the value of money erodes. Over time, the interest payments made by borrowers represent diminishing monetary value for lenders. Therefore, inflation becomes more important the longer an investor holds a debt security. In a <em>deflationary</em> environment, debt represents a greater burden for borrowers and a greater return for lenders."
                     },
                     {
-                        "Paragraph_txt": "In addition, the presence of inflation requires an investor to earn a rate of return greater than or equal to the expected inflation rate in order to avoid losing purchasing power. Investors select certain types of assets to act as hedges against inflation. As discussed in Chapter 2, real estate is a popular inflation hedge because property values generally rise as other prices rise in an economy."
+                        "Paragraph_txt": "<br />In addition, the presence of inflation requires an investor to earn a rate of return greater than or equal to the expected inflation rate in order to avoid losing purchasing power. Investors select certain types of assets to act as hedges against inflation. As discussed in Chapter 2, real estate is a popular inflation hedge because property values generally rise as other prices rise in an economy."
                     },
                     {
-                        "Paragraph_txt": "The value of an investment return is affected by the value of money. As such, an investment’s rate of return in a particular year can be adjusted by the rate of inflation in that year. The stated rate of return on an investment without adjustment for inflation or other factors is called the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">nominal rate of return</span>. The rate of return on an investment after adjustment for inflation is called the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">real rate of return</span>. After adjusting for each year’s rate of inflation, an investor can compare real rates of return from different periods to evaluate an investment’s actual performance over a period of time. The formula for the real rate of return is"
+                        "Paragraph_txt": "<br />The value of an investment return is affected by the value of money. As such, an investment’s rate of return in a particular year can be adjusted by the rate of inflation in that year. The stated rate of return on an investment without adjustment for inflation or other factors is called the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">nominal rate of return</span>. The rate of return on an investment after adjustment for inflation is called the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">real rate of return</span>. After adjusting for each year’s rate of inflation, an investor can compare real rates of return from different periods to evaluate an investment’s actual performance over a period of time. The formula for the real rate of return is"
                     }
                 ]
             },
@@ -1947,13 +1950,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Expansion</span>: The phase in the business cycle in which unemployment is low and the pace of economic growth is accelerating."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Peak</span>: A point in the business cycle when economic growth stabilizes and then begins to decline; the phase after expansion and before contraction."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Peak</span>: A point in the business cycle when economic growth stabilizes and then begins to decline; the phase after expansion and before contraction."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Contraction</span>: A phase in the business cycle in which unemployment rises and the pace of economic activity slows down. Note that recessions and depressions only occur during the contraction phase. While economists differ in their technical definitions, a recession is generally an economic downturn lasting between a few months and a couple of years. A <em>depression</em> is generally a severe economic downturn that lasts for a period of at least two years. Depressions are less frequent than recessions; therefore, most economic downturns during the contractionary phase tend to be recessions."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Contraction</span>: A phase in the business cycle in which unemployment rises and the pace of economic activity slows down. Note that recessions and depressions only occur during the contraction phase. While economists differ in their technical definitions, a recession is generally an economic downturn lasting between a few months and a couple of years. A <em>depression</em> is generally a severe economic downturn that lasts for a period of at least two years. Depressions are less frequent than recessions; therefore, most economic downturns during the contractionary phase tend to be recessions."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Trough</span>: A point in the business cycle when conditions stabilize after the end of a significant decline in economic activity; the phase after contraction and before expansion."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Trough</span>: A point in the business cycle when conditions stabilize after the end of a significant decline in economic activity; the phase after contraction and before expansion."
                     }
                 ]
             },
@@ -2016,10 +2019,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Generally, the business cycle indicates whether a given economy is increasing or decreasing its production of goods and services. Economic activity grows during the expansion phase and shrinks during the contraction phase. The economic growth rate stabilizes and then changes direction at the peak and trough phases; growth begins to fall after the peak phase and begins to rise after the trough phase."
                     },
                     {
-                        "Paragraph_txt": "Investors monitor the phases of the business cycle to help them determine how to allocate their capital. During the expansionary phase of the business cycle, security valuations usually rise as businesses profit from increases in economic activity. The market values of some assets—such as stocks and real estate—can appreciate significantly, which makes them more appealing to investors. During the contractionary phase, the weakening economy usually prompts investors to seek out conservative investments, such as bonds and dividend-paying stocks."
+                        "Paragraph_txt": "<br />Investors monitor the phases of the business cycle to help them determine how to allocate their capital. During the expansionary phase of the business cycle, security valuations usually rise as businesses profit from increases in economic activity. The market values of some assets—such as stocks and real estate—can appreciate significantly, which makes them more appealing to investors. During the contractionary phase, the weakening economy usually prompts investors to seek out conservative investments, such as bonds and dividend-paying stocks."
                     },
                     {
-                        "Paragraph_txt": "The relationship between interest rates, inflation, and the business cycle is complex. For example, sometimes the increases in economic activity and the rate of inflation can prompt a rise in interest rates. Other times, inflation and economic activity respond to interest-rate changes. All three are dynamic market forces that react to each other."
+                        "Paragraph_txt": "<br />The relationship between interest rates, inflation, and the business cycle is complex. For example, sometimes the increases in economic activity and the rate of inflation can prompt a rise in interest rates. Other times, inflation and economic activity respond to interest-rate changes. All three are dynamic market forces that react to each other."
                     }
                 ]
             },

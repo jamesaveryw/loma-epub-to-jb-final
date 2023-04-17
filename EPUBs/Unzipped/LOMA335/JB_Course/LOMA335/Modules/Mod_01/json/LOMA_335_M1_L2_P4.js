@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "A Strategically Aligned Company",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "In successful companies, strategic plans align with organizational resources and operational activities in ways that clearly support the company’s mission and move the company in a coordinated manner toward common goals."
                     },
                     {
-                        "Paragraph_txt": "A company’s most senior management, working with the company’s board of directors, maintains ultimate responsibility for this company alignment. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Corporate governance</span>is the responsibility and authority of a company’s board of directors to direct senior management to fulfill its mission on behalf of the company’s stakeholders in a legal and fiscally responsible manner. Figure 2.2 presents a framework of questions that are considered in creating and maintaining a strategically aligned company. "
+                        "Paragraph_txt": "<br />A company’s most senior management, working with the company’s board of directors, maintains ultimate responsibility for this company alignment. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Corporate governance</span>is the responsibility and authority of a company’s board of directors to direct senior management to fulfill its mission on behalf of the company’s stakeholders in a legal and fiscally responsible manner. Figure 2.2 presents a framework of questions that are considered in creating and maintaining a strategically aligned company. "
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.2 Organizational Alignment Framework</strong>"
                     }
                 ]
             },
@@ -168,7 +171,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.2</strong> Organizational Alignment Framework",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -360,6 +363,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.3 Strategic Alignment Matrix</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "2-3figure.jpg",
@@ -378,7 +414,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.3</strong> Strategic Alignment Matrix",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -512,7 +548,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Correcting misalignment often requires that company leaders make tough choices about the company’s purpose, people, and processes, which can involve significant organizational and operational changes. Management uses questions like those outlined in Figure 2.2 to identify the areas that require change. Strategic management then creates plans designed to accomplish those changes and communicates the plans to employees."
                     },
                     {
-                        "Paragraph_txt": "Organizational realignment often breaks down when communicating these changes to employees. Unless employees understand the importance of the change strategies and believe the strategies will work to accomplish a stated goal that is beneficial to the company and to employees, company morale will suffer. Strong leadership and honest communication are necessary, as are policies that reward desired behaviors. Later chapters delve more deeply into the leadership, company culture, and changing business processes that are required to keep a company aligned or correct misalignment."
+                        "Paragraph_txt": "<br />Organizational realignment often breaks down when communicating these changes to employees. Unless employees understand the importance of the change strategies and believe the strategies will work to accomplish a stated goal that is beneficial to the company and to employees, company morale will suffer. Strong leadership and honest communication are necessary, as are policies that reward desired behaviors. Later chapters delve more deeply into the leadership, company culture, and changing business processes that are required to keep a company aligned or correct misalignment."
                     }
                 ]
             },
@@ -575,22 +611,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Realignment</strong> "
                     },
                     {
-                        "Paragraph_txt": "The Fine Life Insurance Company’s mission is to provide insurance products with the highest level of quality service at affordable prices. Initially, the goal of quality customer service was clear in company strategies. However, as time passed, the company instituted many strategies designed for operational efficiencies. Over time, the decisions made to improve operational efficiency negatively affected the quality of service. To realign its purpose and its strategies, Fine Life Insurance had to refocus its processes on how to provide quality service. Among the actions taken during realignment were"
+                        "Paragraph_txt": "<br />The Fine Life Insurance Company’s mission is to provide insurance products with the highest level of quality service at affordable prices. Initially, the goal of quality customer service was clear in company strategies. However, as time passed, the company instituted many strategies designed for operational efficiencies. Over time, the decisions made to improve operational efficiency negatively affected the quality of service. To realign its purpose and its strategies, Fine Life Insurance had to refocus its processes on how to provide quality service. Among the actions taken during realignment were"
                     },
                     {
-                        "Paragraph_txt": "—Determining customers’ wants and needs"
+                        "Paragraph_txt": "<br />—Determining customers’ wants and needs"
                     },
                     {
-                        "Paragraph_txt": "—Hiring additional employees"
+                        "Paragraph_txt": "<br />—Hiring additional employees"
                     },
                     {
-                        "Paragraph_txt": "—Retraining existing employees"
+                        "Paragraph_txt": "<br />—Retraining existing employees"
                     },
                     {
-                        "Paragraph_txt": "—Providing employees with meaningful rewards for providing quality service"
+                        "Paragraph_txt": "<br />—Providing employees with meaningful rewards for providing quality service"
                     },
                     {
-                        "Paragraph_txt": "—Implementing new automated processes that provide customization of services to customer needs"
+                        "Paragraph_txt": "<br />—Implementing new automated processes that provide customization of services to customer needs"
                     }
                 ]
             },

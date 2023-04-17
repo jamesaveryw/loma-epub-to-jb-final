@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "The Environment of Strategy",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Changing demographics, economics, and technology as well as new competitors require constant reassessment of a company’s mission and competitive position in order to maintain alignment. If environmental conditions change, the company’s mission may no longer be relevant. Recall that Blockbuster was once the leader in the movie rental business. However, Blockbuster’s business model was disrupted when Netflix entered the market. Instead of requiring customers to come to a store to rent a movie, Netflix made movie rental more convenient by mailing the movie to the customer’s home and then later by providing movies directly to customers through the internet. Blockbuster’s failure to recognize this disruption and to adapt its business model to the changed environment for movie rentals contributed to its eventual bankruptcy. <span class=\"ens\" id=\"loma335-ch2-span-45\"> <span class=\"endnote hidden\" data-note=\"loma335-ch2-en2\" epub:type=\"noteref\" id=\"loma335-ch2-span-46\" role=\"doc-noteref\">2</span> </span> "
                     },
                     {
-                        "Paragraph_txt": "Environmental conditions can cause a competitive advantage to weaken or completely disappear. For example, when life insurers distributed insurance only through personal sales, a company with a large number of career agents had a competitive advantage in the insurance market. Now that other methods of distribution are more common, having a large sales force is no longer as much of a competitive advantage as it once was. Effective management continually evaluates corporate strategies in relation to the company’s mission and to conditions in the market in which the company operates, and adjusts the company’s mission, corporate goals, and strategies as needed."
+                        "Paragraph_txt": "<br />Environmental conditions can cause a competitive advantage to weaken or completely disappear. For example, when life insurers distributed insurance only through personal sales, a company with a large number of career agents had a competitive advantage in the insurance market. Now that other methods of distribution are more common, having a large sales force is no longer as much of a competitive advantage as it once was. Effective management continually evaluates corporate strategies in relation to the company’s mission and to conditions in the market in which the company operates, and adjusts the company’s mission, corporate goals, and strategies as needed."
                     }
                 ]
             },
@@ -183,6 +153,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.4 Favorable Market Characteristics</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "2-4figure.jpg",
@@ -201,7 +204,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.4</strong> Favorable Market Characteristics",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -420,10 +423,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Market Share and Leadership</strong> "
                     },
                     {
-                        "Paragraph_txt": "The insurance industry typically uses premiums written to indicate sales when determining market share. Assume that last year the total premiums written for the U.S. life insurance and annuities industry totaled $330 billion. The premiums for the top four companies during this period were as follows:"
+                        "Paragraph_txt": "<br />The insurance industry typically uses premiums written to indicate sales when determining market share. Assume that last year the total premiums written for the U.S. life insurance and annuities industry totaled $330 billion. The premiums for the top four companies during this period were as follows:"
                     },
                     {
-                        "Paragraph_txt": "Insurer A—$95.7 billion premiums written"
+                        "Paragraph_txt": "<br />Insurer A—$95.7 billion premiums written"
                     }
                 ]
             },
@@ -899,7 +902,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;29% of total industry premiums written <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 14% of total industry premiums written <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9% of total industry premiums written <br><u>+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8% of total industry premiums written</u> <br><strong>60% Concentration Ratio for Life/Annuities Industry</strong> "
                     },
                     {
-                        "Paragraph_txt": "<strong>Conclusion: </strong>The top four insurance companies controlled 60% of the insurance industry market last year."
+                        "Paragraph_txt": "<br /><strong>Conclusion: </strong>The top four insurance companies controlled 60% of the insurance industry market last year."
                     }
                 ]
             },
@@ -964,6 +967,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.5 Market Competition</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "2-5figure.jpg",
@@ -982,7 +1018,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.5</strong> Market Competition",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

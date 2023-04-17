@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Steps of Process Improvement",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Process management</span> is a formal method of defining, documenting, evaluating, and improving resources and workflow so that processes better achieve the tasks they were designed to accomplish. EndiFirst, the insurer from our example, could have made Maya’s customer journey much better by envisioning what a good journey would look like and then creating or improving processes to make that journey a reality."
                     },
                     {
-                        "Paragraph_txt": "Video 4.1 shows the basic steps of a process improvement initiative."
+                        "Paragraph_txt": "<br />Video 4.1 shows the basic steps of a process improvement initiative."
                     }
                 ]
             },
@@ -338,6 +308,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.1 Basic Process Map</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "4-1figure.jpg",
@@ -356,7 +359,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.1</strong> Basic Process Map",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -458,10 +461,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Businesses usually map processes down to the activity level. Within a process, an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">activity</span> is any part of a set of actions that generates work to accomplish a job, problem, or assignment. Examples of activities within a life insurance company include processing a policy application, sending a premium due notice, and investigating claims."
                     },
                     {
-                        "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">value-adding activity</span> makes the product or service more valuable to the customer, such as customer service or claims check issuing. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">non-value-adding activity</span>, on the other hand, does not make the product or service more valuable to the customer. Costs associated with unnecessary steps in processing claims, time spent taking inventory, and energy expended moving materials from one place to another are examples of non-value-adding activities."
+                        "Paragraph_txt": "<br />A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">value-adding activity</span> makes the product or service more valuable to the customer, such as customer service or claims check issuing. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">non-value-adding activity</span>, on the other hand, does not make the product or service more valuable to the customer. Costs associated with unnecessary steps in processing claims, time spent taking inventory, and energy expended moving materials from one place to another are examples of non-value-adding activities."
                     },
                     {
-                        "Paragraph_txt": "To minimize non-value-adding activities, most companies automate some of the tasks within an activity. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Tasks</span> are<strong> </strong>the smallest units in a process to undergo analysis. Some processes can be mapped to the task level for greater specificity."
+                        "Paragraph_txt": "<br />To minimize non-value-adding activities, most companies automate some of the tasks within an activity. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Tasks</span> are<strong> </strong>the smallest units in a process to undergo analysis. Some processes can be mapped to the task level for greater specificity."
                     }
                 ]
             },
@@ -554,7 +557,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Self-service is an important way to streamline activities. Instead of waiting for an available human, customers can request information through technology. Instead of spending time answering basic questions, employees can devote time to value-adding activities such as product improvement."
                     },
                     {
-                        "Paragraph_txt": "If self-service processes require substantial human intervention or extra steps, however, then those processes lose value to customers."
+                        "Paragraph_txt": "<br />If self-service processes require substantial human intervention or extra steps, however, then those processes lose value to customers."
                     }
                 ]
             },
@@ -859,13 +862,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Process analysis</span> is a systemic evaluation of all aspects of a process to make the process faster, more efficient, less expensive, and more focused on the customer. Given the variety of techniques for process analysis, process teams should identify the technique most likely to help them achieve their goals."
                     },
                     {
-                        "Paragraph_txt": "Thorough analysis of a business process requires, at least, a process map to determine which activities are impeding success. Companies can also use <em>swim lane diagrams</em>, which elaborate on simple process maps by identifying the parties responsible for each activity. Additionally, companies can use <em>value stream maps</em>, which are visual representations of processes that identify each activity’s end value to the customer."
+                        "Paragraph_txt": "<br />Thorough analysis of a business process requires, at least, a process map to determine which activities are impeding success. Companies can also use <em>swim lane diagrams</em>, which elaborate on simple process maps by identifying the parties responsible for each activity. Additionally, companies can use <em>value stream maps</em>, which are visual representations of processes that identify each activity’s end value to the customer."
                     },
                     {
-                        "Paragraph_txt": "Value stream maps help identify the parts of a process that are not adding value to the customer, or that are slowing down the continuous flow process of value creation known as a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">value stream</span>. People can use value streams to study how materials and information flow through a current process. A value stream is different from a <em>value chain</em>, in part because a value chain focuses on organizational functions, whereas a value stream usually focuses on cross-functional processes."
+                        "Paragraph_txt": "<br />Value stream maps help identify the parts of a process that are not adding value to the customer, or that are slowing down the continuous flow process of value creation known as a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">value stream</span>. People can use value streams to study how materials and information flow through a current process. A value stream is different from a <em>value chain</em>, in part because a value chain focuses on organizational functions, whereas a value stream usually focuses on cross-functional processes."
                     },
                     {
-                        "Paragraph_txt": "Process analysis requires evaluating processes to determine the effectiveness of existing resources (called <em>resource analysis</em>) and the efficiency of workflow (called <em>workflow analysis</em>). Managers can use the results of a process analysis to control ongoing processes, identify training opportunities, or make decisions about whether to keep the process."
+                        "Paragraph_txt": "<br />Process analysis requires evaluating processes to determine the effectiveness of existing resources (called <em>resource analysis</em>) and the efficiency of workflow (called <em>workflow analysis</em>). Managers can use the results of a process analysis to control ongoing processes, identify training opportunities, or make decisions about whether to keep the process."
                     }
                 ]
             },
@@ -901,7 +904,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "After analyzing a process for deficiencies, decision makers should seek to control those deficiencies by measuring performance in line with specific goals. Benchmarks and key performance indicators can serve as measurements of how well a process is working."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Benchmarking</span> is a formal program for measuring company performance results, identifying best practices for the same performance areas, and emulating best practices for company processes. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">benchmark</span> is a performance standard that a company aspires to achieve. To identify appropriate benchmarks, companies often look at <em>industry benchmarks</em>—high performance standards achieved by other companies in their same industry—or at <em>universal benchmarks</em>—positive results achieved by another company performing the same process, regardless of industry. Companies can also use previous internal results as benchmarks. Managers should review benchmarks at periodic intervals and make updates that reflect changing needs."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Benchmarking</span> is a formal program for measuring company performance results, identifying best practices for the same performance areas, and emulating best practices for company processes. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">benchmark</span> is a performance standard that a company aspires to achieve. To identify appropriate benchmarks, companies often look at <em>industry benchmarks</em>—high performance standards achieved by other companies in their same industry—or at <em>universal benchmarks</em>—positive results achieved by another company performing the same process, regardless of industry. Companies can also use previous internal results as benchmarks. Managers should review benchmarks at periodic intervals and make updates that reflect changing needs."
                     }
                 ]
             },
@@ -994,7 +997,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Analysts at Raylite Insurance Company gathered information about the time required for underwriting and policy issue. They supplemented this information with validated, public industry data from a benchmarking study of several comparable companies with similar products and markets."
                     },
                     {
-                        "Paragraph_txt": "After averaging these companies’ new business turnaround times, the analysts found that they were exceeding the turnaround time benchmarks by an average of two weeks. The employees concluded that the company takes longer than necessary to issue policies, and should look for ways to streamline the new business process."
+                        "Paragraph_txt": "<br />After averaging these companies’ new business turnaround times, the analysts found that they were exceeding the turnaround time benchmarks by an average of two weeks. The employees concluded that the company takes longer than necessary to issue policies, and should look for ways to streamline the new business process."
                     }
                 ]
             },
@@ -1209,6 +1212,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.2&nbsp;Sample Contact Center Display</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "4-2figure.jpg",
@@ -1227,7 +1263,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.2</strong>&nbsp;Sample Contact Center Display",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1296,7 +1332,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "A company might also use KPIs to implement a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">balanced scorecard approach</span>. The balanced scorecard approach relies on two types of graphic displays—balanced scorecards and <em>dashboards</em>, the latter of which are discussed later in the text—that give decision makers actionable information about the progress of operations."
                     },
                     {
-                        "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">balanced scorecard</span> displays a set of KPIs and compares the values to performance standards. It provides a comprehensive overview of the alignment of organizational perspectives with organizational goals. A typical balanced scorecard keeps track of a company’s activities in terms of four perspectives. In some cases, each perspective has a comprehensive list of objectives beneath it. The four perspectives are largely constant from one company to the next, though the details and definitions vary. Figure 4.3 summarizes the four perspectives."
+                        "Paragraph_txt": "<br />A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">balanced scorecard</span> displays a set of KPIs and compares the values to performance standards. It provides a comprehensive overview of the alignment of organizational perspectives with organizational goals. A typical balanced scorecard keeps track of a company’s activities in terms of four perspectives. In some cases, each perspective has a comprehensive list of objectives beneath it. The four perspectives are largely constant from one company to the next, though the details and definitions vary. Figure 4.3 summarizes the four perspectives."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.3 Four Common Balanced Scorecard Perspectives</strong>"
                     }
                 ]
             },
@@ -1319,7 +1388,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.3</strong> Four Common Balanced Scorecard Perspectives",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1478,37 +1547,37 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Financial Performance</strong> "
                     },
                     {
-                        "Paragraph_txt": "Managers at Raylite Insurance Company learn that they can improve upon financial performance by implementing better financial tracking processes."
+                        "Paragraph_txt": "<br />Managers at Raylite Insurance Company learn that they can improve upon financial performance by implementing better financial tracking processes."
                     },
                     {
-                        "Paragraph_txt": "They decide to provide company executives with virtual alerts so that the executives can respond immediately to deviations."
+                        "Paragraph_txt": "<br />They decide to provide company executives with virtual alerts so that the executives can respond immediately to deviations."
                     },
                     {
-                        "Paragraph_txt": "<strong>Customer Satisfaction</strong> "
+                        "Paragraph_txt": "<br /><strong>Customer Satisfaction</strong> "
                     },
                     {
-                        "Paragraph_txt": "Occasionally, customers of Crystal Insurance indicate dissatisfaction with resolution speed. Decision makers at Crystal hope to increase the timeliness of customer service interactions."
+                        "Paragraph_txt": "<br />Occasionally, customers of Crystal Insurance indicate dissatisfaction with resolution speed. Decision makers at Crystal hope to increase the timeliness of customer service interactions."
                     },
                     {
-                        "Paragraph_txt": "After each completed interaction, the system offers a survey asking customers to rate their satisfaction with how quickly the representative solved their problem. At the end of each quarter, decision makers look at the percentage of interactions with customers who were “extremely satisfied” with the timeliness of the resolution. To explore customer satisfaction over time, they compare the new percentage to percentages from previous quarters."
+                        "Paragraph_txt": "<br />After each completed interaction, the system offers a survey asking customers to rate their satisfaction with how quickly the representative solved their problem. At the end of each quarter, decision makers look at the percentage of interactions with customers who were “extremely satisfied” with the timeliness of the resolution. To explore customer satisfaction over time, they compare the new percentage to percentages from previous quarters."
                     },
                     {
-                        "Paragraph_txt": "<strong>Internal Operations</strong> "
+                        "Paragraph_txt": "<br /><strong>Internal Operations</strong> "
                     },
                     {
-                        "Paragraph_txt": "Raylite’s process for issuing new policies involves several manual interventions."
+                        "Paragraph_txt": "<br />Raylite’s process for issuing new policies involves several manual interventions."
                     },
                     {
-                        "Paragraph_txt": "Linda Luongo, Raylite’s process improvement specialist, decides that Raylite can reduce the manual labor involved by automating several of the steps."
+                        "Paragraph_txt": "<br />Linda Luongo, Raylite’s process improvement specialist, decides that Raylite can reduce the manual labor involved by automating several of the steps."
                     },
                     {
-                        "Paragraph_txt": "<strong>Learning and Growth</strong> "
+                        "Paragraph_txt": "<br /><strong>Learning and Growth</strong> "
                     },
                     {
-                        "Paragraph_txt": "John Green, a manager at Crystal Insurance Company, studies customer call logs. He learns that customer service representatives have trouble helping customers who call in with questions about the new website."
+                        "Paragraph_txt": "<br />John Green, a manager at Crystal Insurance Company, studies customer call logs. He learns that customer service representatives have trouble helping customers who call in with questions about the new website."
                     },
                     {
-                        "Paragraph_txt": "John decides to hold more comprehensive employee training sessions on using the new website."
+                        "Paragraph_txt": "<br />John decides to hold more comprehensive employee training sessions on using the new website."
                     }
                 ]
             },
@@ -1661,7 +1730,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "EndiFirst sees declining performance in the perspective of customer satisfaction since rolling out their new self-service portal. Lately, customers such as Maya respond to surveys with complaints about error messages, the number of steps to complete a transaction, and the inability of customer service representatives to answer questions about transaction issues."
                     },
                     {
-                        "Paragraph_txt": "Decision makers at EndiFirst decide they need to improve the speed, accuracy, and ease of self-service portal transactions."
+                        "Paragraph_txt": "<br />Decision makers at EndiFirst decide they need to improve the speed, accuracy, and ease of self-service portal transactions."
                     }
                 ]
             },
@@ -1724,7 +1793,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "EndiFirst’s self-service portal does not seem to be working well. However, companies should continue to improve processes and increase value to customers even if processes run smoothly. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Continuous process improvement </span>uses strategic initiatives to make ongoing, incremental improvements in processes and technology. Continuous process improvement assigns accountability and provides a framework for incremental decisions. It forces team members to focus on a key process for meeting customer needs."
                     },
                     {
-                        "Paragraph_txt": "Many methodologies exist for continuous process improvement. Using these methodologies, companies see improvements in customer experience, employee satisfaction, speed-to-market, expense reduction, and overall market position. <span class=\"ens\" id=\"loma335-ch4-span-40\"> <span class=\"endnote hidden\" data-note=\"loma335-ch4-en2\" epub:type=\"noteref\" id=\"loma335-ch4-span-41\" role=\"doc-noteref\">2</span> </span>Among the most common methodologies are kaizen, Lean management, Six Sigma, Lean Six Sigma, and agile management. "
+                        "Paragraph_txt": "<br />Many methodologies exist for continuous process improvement. Using these methodologies, companies see improvements in customer experience, employee satisfaction, speed-to-market, expense reduction, and overall market position. <span class=\"ens\" id=\"loma335-ch4-span-40\"> <span class=\"endnote hidden\" data-note=\"loma335-ch4-en2\" epub:type=\"noteref\" id=\"loma335-ch4-span-41\" role=\"doc-noteref\">2</span> </span>Among the most common methodologies are kaizen, Lean management, Six Sigma, Lean Six Sigma, and agile management. "
                     }
                 ]
             },
@@ -1760,7 +1829,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Kaizen</span> is a gradual and continuous approach to process improvement using a series of modest changes and feedback from process team members. Historically, kaizen is a Japanese way-of-life philosophy that holds that every aspect of a life should be continually improved. <span class=\"ens\" id=\"loma335-ch4-span-43\"> <span class=\"endnote hidden\" data-note=\"loma335-ch4-en3\" epub:type=\"noteref\" id=\"loma335-ch4-span-44\" role=\"doc-noteref\">3</span> </span>In business applications of kaizen, teams of workers apply the principles of this philosophy to their work through small process adjustments. "
                     },
                     {
-                        "Paragraph_txt": "The application of kaizen in business relies on five principles and three key values. We can summarize the five principles of kaizen as teamwork, quality control, personal discipline, improved morale, and suggestions for improvement. We can summarize the three key values or factors of kaizen as elimination of waste, good housekeeping, and standardization."
+                        "Paragraph_txt": "<br />The application of kaizen in business relies on five principles and three key values. We can summarize the five principles of kaizen as teamwork, quality control, personal discipline, improved morale, and suggestions for improvement. We can summarize the three key values or factors of kaizen as elimination of waste, good housekeeping, and standardization."
                     }
                 ]
             },
@@ -1913,10 +1982,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "For kaizen to work, companies need to create open communication at every level. This can challenge companies whose employees do not often work collaboratively or share ideas. In addition, kaizen does not lead to immediate results. Companies using kaizen need to help employees think in terms of the big picture, which sometimes meets resistance."
+                        "Paragraph_txt": "<br />For kaizen to work, companies need to create open communication at every level. This can challenge companies whose employees do not often work collaboratively or share ideas. In addition, kaizen does not lead to immediate results. Companies using kaizen need to help employees think in terms of the big picture, which sometimes meets resistance."
                     },
                     {
-                        "Paragraph_txt": "Despite drawbacks, kaizen process improvements tend to be simple and inexpensive to implement. This simplicity makes kaizen a useful addition to other process improvement approaches, such as Lean management."
+                        "Paragraph_txt": "<br />Despite drawbacks, kaizen process improvements tend to be simple and inexpensive to implement. This simplicity makes kaizen a useful addition to other process improvement approaches, such as Lean management."
                     }
                 ]
             },
@@ -1952,7 +2021,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Lean management</span> is a continuous process improvement approach that emphasizes creating a value stream comprising Lean processes with minimal waste. (In most sources, the “L” in the word “Lean,” considered a proper noun, is capitalized.) According to this methodology, the biggest opportunity for process improvement comes from identifying and eliminating waste, thereby creating value streams. Lean management promotes five main principles and reduces seven wastes, as follows:"
                     },
                     {
-                        "Paragraph_txt": "&nbsp;"
+                        "Paragraph_txt": "<br />&nbsp;"
                     }
                 ]
             },
@@ -2035,10 +2104,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Lean thinking places less emphasis on optimizing individual activities and more emphasis on&nbsp;optimizing the&nbsp;cross-departmental, continuous&nbsp;flow of entire&nbsp;processes. Eliminating waste across&nbsp;value streams requires fewer resources than eliminating waste at certain points."
                     },
                     {
-                        "Paragraph_txt": "Lean principles apply to the insurance industry in terms of seeking to understand customer needs, identifying the value stream in a process, implementing a continuous flow, maintaining clear communication, improving speed, and eliminating handoffs. Lean principles can also apply directly to policy issue and updates to customer information."
+                        "Paragraph_txt": "<br />Lean principles apply to the insurance industry in terms of seeking to understand customer needs, identifying the value stream in a process, implementing a continuous flow, maintaining clear communication, improving speed, and eliminating handoffs. Lean principles can also apply directly to policy issue and updates to customer information."
                     },
                     {
-                        "Paragraph_txt": "Lean management emphasizes the use of technology in order to reduce time and expense. For instance, one way to make processes leaner is by eliminating handoffs. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">handoff</span> is a transfer of work from one work team member to another, typically across organizational boundaries. To eliminate handoffs, many insurers use <span class=\"keyterm\" tabindex=\"0\" role=\"button\">straight-through processing (STP)</span>, which refers to a fully automated process in which the steps in a specified transaction type are conducted without human intervention. A company new to STP might have to invest in new technology."
+                        "Paragraph_txt": "<br />Lean management emphasizes the use of technology in order to reduce time and expense. For instance, one way to make processes leaner is by eliminating handoffs. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">handoff</span> is a transfer of work from one work team member to another, typically across organizational boundaries. To eliminate handoffs, many insurers use <span class=\"keyterm\" tabindex=\"0\" role=\"button\">straight-through processing (STP)</span>, which refers to a fully automated process in which the steps in a specified transaction type are conducted without human intervention. A company new to STP might have to invest in new technology."
                     }
                 ]
             },
@@ -2161,7 +2230,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Since Lean principles recommend maintaining a continuous flow, applying the principles to a financial services process requires either stabilizing the flow of inputs or increasing capacity. As a result, making existing processes Lean calls for considerable effort over a long period. The ultimate results of Lean management, however, are smoother processes, reduced need for resources, and improved employee morale."
                     },
                     {
-                        "Paragraph_txt": "Most Lean management practices apply to manufacturing processes. Therefore, financial services companies typically combine it with other process improvement techniques."
+                        "Paragraph_txt": "<br />Most Lean management practices apply to manufacturing processes. Therefore, financial services companies typically combine it with other process improvement techniques."
                     }
                 ]
             },
@@ -2273,6 +2342,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.4 Six Sigma Team Members</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "4-4figure.jpg",
@@ -2291,7 +2393,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.4</strong> Six Sigma Team Members",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -2431,10 +2533,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The answer to the team’s last question helped identify one cause of the process inefficiency. EndiFirst’s development team was working on several projects at once, and there were too few developers for the number of tasks. To ensure better systems going forward, EndiFirst might consider hiring more developers so that they have the resources for careful testing and implementation."
                     },
                     {
-                        "Paragraph_txt": "If a process is inefficient on more than one level, there can be many root causes. For instance, EndiFirst developers might need more training on best practices to reduce the likelihood of future glitches. EndiFirst customer service representatives might need training on how to interact with the portal, so that customers get consistent information through both communication channels. Before making changes like these, however, EndiFirst should analyze and model the effects of these changes on budgeting, scheduling, and job structure."
+                        "Paragraph_txt": "<br />If a process is inefficient on more than one level, there can be many root causes. For instance, EndiFirst developers might need more training on best practices to reduce the likelihood of future glitches. EndiFirst customer service representatives might need training on how to interact with the portal, so that customers get consistent information through both communication channels. Before making changes like these, however, EndiFirst should analyze and model the effects of these changes on budgeting, scheduling, and job structure."
                     },
                     {
-                        "Paragraph_txt": "When used correctly, Six Sigma results in measurable improvements. However, Six Sigma requires a lot of support from management to be successful and often results in high upfront costs for training or outside expertise. Six Sigma also relies on extensive data, which can be difficult and time-consuming to collect. Finally, Six Sigma does not work for every functional area or project. It isn’t ideal for nonstandard processes with unclear defects, for example."
+                        "Paragraph_txt": "<br />When used correctly, Six Sigma results in measurable improvements. However, Six Sigma requires a lot of support from management to be successful and often results in high upfront costs for training or outside expertise. Six Sigma also relies on extensive data, which can be difficult and time-consuming to collect. Finally, Six Sigma does not work for every functional area or project. It isn’t ideal for nonstandard processes with unclear defects, for example."
                     }
                 ]
             },
@@ -2560,7 +2662,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Paradise Insurance employees are encouraged to save time by streamlining tasks with technology and conducting brief check-ins instead of having frequent planned meetings."
                     },
                     {
-                        "Paragraph_txt": "A group of Paradise Insurance employees received training to achieve the Six Sigma status of green belt. In addition to the business-wide time-saving initiative, the group feels empowered to identify and address process defects."
+                        "Paragraph_txt": "<br />A group of Paradise Insurance employees received training to achieve the Six Sigma status of green belt. In addition to the business-wide time-saving initiative, the group feels empowered to identify and address process defects."
                     }
                 ]
             },
@@ -2656,7 +2758,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Agile management</span> is an approach to business effectiveness focused on finding and seizing opportunities to improve operations and processes. Agile management requires employees to develop a <em>growth mindset</em> that emphasizes both the incompleteness of existing knowledge and the importance of continuous learning. The agile outlook fits with other continuous process improvement approaches because agile management emphasizes the benefits that companies expect from constantly improving their operational efficiency and rethinking customer needs."
                     },
                     {
-                        "Paragraph_txt": "Agile management supports employee empowerment, helping employees at every organizational level gain comfort with change and decision-making. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Organizational agility</span>is an organization’s ability to adapt quickly to changes in the external environment. Organizational agility is especially important when the pace of environmental change is great. "
+                        "Paragraph_txt": "<br />Agile management supports employee empowerment, helping employees at every organizational level gain comfort with change and decision-making. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Organizational agility</span>is an organization’s ability to adapt quickly to changes in the external environment. Organizational agility is especially important when the pace of environmental change is great. "
                     }
                 ]
             },
@@ -2809,7 +2911,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Technology helps address environmental change, and companies often use agile methodology when developing their information systems. A common agile approach is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">scrum</span>—a framework for managing the processes involved in software development. Scrum teams typically break their processes into micro-activities called <em>sprints</em>, monitor progress, and adjust plans daily to address change. Scrum teams consist of the product owner, various team members, and a<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> scrum master</span>, who facilitates the team by managing all of the business processes required for software development.<span class=\"ens\" id=\"loma335-ch4-span-59\"> <span class=\"endnote hidden\" data-note=\"loma335-ch4-en5\" epub:type=\"noteref\" id=\"loma335-ch4-span-60\" role=\"doc-noteref\">5</span> </span>Scrum is practical for software used in the current insurance industry climate, where new regulatory, actuarial, and technological considerations surface daily."
                     },
                     {
-                        "Paragraph_txt": "Agile management supports traits that increase efficiency: up-to-date schedules, fast turnaround times, and constant feedback. On the other hand, agile management’s frequent redirection demands more energy from employees, produces less complete documentation, and can make it challenging to measure overall progress toward a large goal. However, due to its success in handling multiple moving parts, agile management is a popular approach to project management."
+                        "Paragraph_txt": "<br />Agile management supports traits that increase efficiency: up-to-date schedules, fast turnaround times, and constant feedback. On the other hand, agile management’s frequent redirection demands more energy from employees, produces less complete documentation, and can make it challenging to measure overall progress toward a large goal. However, due to its success in handling multiple moving parts, agile management is a popular approach to project management."
                     }
                 ]
             },

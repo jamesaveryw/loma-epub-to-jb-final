@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Investment Constraints for Life Insurers",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -243,7 +213,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An insurer’s investment function needs to be aware of the risk limits defined in the company’s risk policy. Within the investment function, investment professionals must adhere to authorization limits for securities trading."
                     },
                     {
-                        "Paragraph_txt": "Another risk limit in investments is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">stop-loss limit</span>, which indicates an amount of money that a portfolio’s single-period market loss should not exceed. The period may be a day, a week, a month, or longer. A limit violation occurs whenever a single-period market loss exceeds a portfolio’s stop-loss limit. In such a situation, the investment professionals should develop a plan for bringing the portfolio back to an acceptable market value."
+                        "Paragraph_txt": "<br />Another risk limit in investments is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">stop-loss limit</span>, which indicates an amount of money that a portfolio’s single-period market loss should not exceed. The period may be a day, a week, a month, or longer. A limit violation occurs whenever a single-period market loss exceeds a portfolio’s stop-loss limit. In such a situation, the investment professionals should develop a plan for bringing the portfolio back to an acceptable market value."
                     }
                 ]
             },
@@ -279,7 +249,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Typically, insurance company bond investments are categorized by their credit quality. Corporate risk policy may require the investment function’s bond investments to possess investment-grade ratings from external credit rating agencies, such as Moody’s Investors Service and Standard &amp; Poor’s (S&amp;P) in the United States."
                     },
                     {
-                        "Paragraph_txt": "Insurance regulators also limit a life insurer’s bond holdings based on credit quality. In the United States, state regulators may require insurers to only invest in bonds that achieve a specific rating, or designation, assigned by the NAIC. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Securities Valuation Office (SVO)</span> is the NAIC department that (1) assesses the credit quality of the fixed-income investments of insurance companies and (2) assigns designations and valuations to such investments. The NAIC’s credit rating system comprises six rating classes, ranging from NAIC 1—which represents the best rating—to NAIC 6, which represents the worst rating. Figure 5.4 lists the scales that Moody’s, S&amp;P, and the NAIC’s SVO use for rating long-term bonds."
+                        "Paragraph_txt": "<br />Insurance regulators also limit a life insurer’s bond holdings based on credit quality. In the United States, state regulators may require insurers to only invest in bonds that achieve a specific rating, or designation, assigned by the NAIC. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Securities Valuation Office (SVO)</span> is the NAIC department that (1) assesses the credit quality of the fixed-income investments of insurance companies and (2) assigns designations and valuations to such investments. The NAIC’s credit rating system comprises six rating classes, ranging from NAIC 1—which represents the best rating—to NAIC 6, which represents the worst rating. Figure 5.4 lists the scales that Moody’s, S&amp;P, and the NAIC’s SVO use for rating long-term bonds."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.4 Long-Term Bond Rating Scales for Selected Entities</strong>"
                     }
                 ]
             },
@@ -302,7 +305,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.4</strong> Long-Term Bond Rating Scales for Selected Entities",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -371,10 +374,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "NAIC designations are intended for statutory accounting and financial reporting purposes in the United States. The NAIC considers its ratings to be regulatory ratings, not public ratings. Therefore, NAIC designations are not intended to aid investment decision making. In reality, however, an insurer’s investment professionals will consider NAIC designations along with agency credit ratings when evaluating potential bond purchases."
                     },
                     {
-                        "Paragraph_txt": "NAIC designations and valuations are particularly important for investments that are not actively traded and are not rated by external credit rating agencies, such as private placement securities. As securities exchanges do not maintain or publish transaction information involving private placement securities, NAIC designations are an important source of information for insurers investing in such securities."
+                        "Paragraph_txt": "<br />NAIC designations and valuations are particularly important for investments that are not actively traded and are not rated by external credit rating agencies, such as private placement securities. As securities exchanges do not maintain or publish transaction information involving private placement securities, NAIC designations are an important source of information for insurers investing in such securities."
                     },
                     {
-                        "Paragraph_txt": "Internal and external credit rating constraints are intended to protect the solvency of the insurance company, thus ensuring that the company can fulfill its obligations to its policyowners."
+                        "Paragraph_txt": "<br />Internal and external credit rating constraints are intended to protect the solvency of the insurance company, thus ensuring that the company can fulfill its obligations to its policyowners."
                     }
                 ]
             },
@@ -410,10 +413,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "As previously stated, asset allocation criteria can impose constraints on the amount of capital that can be allocated to a given asset class. For insurers, these constraints encourage diversification by restricting concentration in a given asset or asset class."
                     },
                     {
-                        "Paragraph_txt": "In addition to diversifying among asset classes, insurance companies can diversify within an asset class among (1) different sectors or industries or (2) different levels of creditworthiness. By diversifying a portfolio in these ways, insurers can mitigate the specific risks covered in Chapter 4."
+                        "Paragraph_txt": "<br />In addition to diversifying among asset classes, insurance companies can diversify within an asset class among (1) different sectors or industries or (2) different levels of creditworthiness. By diversifying a portfolio in these ways, insurers can mitigate the specific risks covered in Chapter 4."
                     },
                     {
-                        "Paragraph_txt": "The investment function may also face constraints on the investment vehicles it can use. Certain vehicles with greater liquidity risk—such as derivatives, private placement securities, and alternative investments—are more likely to be limited in insurer portfolios. These limitations are typically established by regulators, although a company’s risk policy may also place restrictions on particular investment vehicles."
+                        "Paragraph_txt": "<br />The investment function may also face constraints on the investment vehicles it can use. Certain vehicles with greater liquidity risk—such as derivatives, private placement securities, and alternative investments—are more likely to be limited in insurer portfolios. These limitations are typically established by regulators, although a company’s risk policy may also place restrictions on particular investment vehicles."
                     }
                 ]
             },
@@ -449,10 +452,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Regulatory capital</span>, also called a <em>capital requirement</em>, is the legal minimum standard of capital that an insurer must maintain in order to be considered solvent by the regulatory authorities. Regulatory capital is a constraint because it requires insurers to hold money that could otherwise be invested—thus earning the company additional returns that increase profitability and grow the company’s surplus."
                     },
                     {
-                        "Paragraph_txt": "Insurance regulators evaluate the adequacy of an insurer’s capital by using risk-based capital requirements. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Risk-based capital (RBC) requirements</span> determine the minimum capital level for an insurer based on that insurer’s size and risk profile, as identified by a risk-weighted formula. The amount of regulatory capital that an insurer must hold is generated by the RBC formula."
+                        "Paragraph_txt": "<br />Insurance regulators evaluate the adequacy of an insurer’s capital by using risk-based capital requirements. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Risk-based capital (RBC) requirements</span> determine the minimum capital level for an insurer based on that insurer’s size and risk profile, as identified by a risk-weighted formula. The amount of regulatory capital that an insurer must hold is generated by the RBC formula."
                     },
                     {
-                        "Paragraph_txt": "RBC requirements can require insurers of the same size to hold different amounts of regulatory capital based on each insurer’s risk levels. Regulators apply <em>risk capital charges</em> to an insurer’s asset values to reflect each asset’s level of risk. For example, lower risk charges are applied to debt securities with the best NAIC ratings, and higher risk charges are applied to debt securities with the worst NAIC ratings. Higher risk charges mean companies with higher risks must hold higher amounts of regulatory capital. You will read more about regulatory capital requirements in Chapter 10."
+                        "Paragraph_txt": "<br />RBC requirements can require insurers of the same size to hold different amounts of regulatory capital based on each insurer’s risk levels. Regulators apply <em>risk capital charges</em> to an insurer’s asset values to reflect each asset’s level of risk. For example, lower risk charges are applied to debt securities with the best NAIC ratings, and higher risk charges are applied to debt securities with the worst NAIC ratings. Higher risk charges mean companies with higher risks must hold higher amounts of regulatory capital. You will read more about regulatory capital requirements in Chapter 10."
                     }
                 ]
             },

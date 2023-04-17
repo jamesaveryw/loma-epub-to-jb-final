@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Basic Investment Goals",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -338,7 +308,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Valerie Durham is investing her retirement savings. She plans to retire 20 years from now. Based on her time horizon of 20 years, she should consider investing in relatively risky assets with greater growth potential. However, she hates the idea of losing money in any year, even if she has many years to recover a given year’s investment loss. In fact, she would consider leaving her retirement savings in cash to avoid investment losses."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Because of her strong aversion to risk, Valerie has a very low risk tolerance. Even though she has a long time horizon, her risk tolerance suggests that she would feel more comfortable with a capital protection goal for her investments."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Because of her strong aversion to risk, Valerie has a very low risk tolerance. Even though she has a long time horizon, her risk tolerance suggests that she would feel more comfortable with a capital protection goal for her investments."
                     }
                 ]
             },
@@ -463,13 +433,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Therefore, investors usually prioritize their investment goals when constructing their portfolios."
                     },
                     {
-                        "Paragraph_txt": "Investment goals can also shift over time. For instance, a person who is investing for retirement may gradually change his goal from capital growth to capital protection as he approaches retirement and has less time to recover from large investment losses. In this case, the composition of the investments in his portfolio would change to match his shifting goals."
+                        "Paragraph_txt": "<br />Investment goals can also shift over time. For instance, a person who is investing for retirement may gradually change his goal from capital growth to capital protection as he approaches retirement and has less time to recover from large investment losses. In this case, the composition of the investments in his portfolio would change to match his shifting goals."
                     },
                     {
-                        "Paragraph_txt": "In addition to the basic investment goals, investors may have secondary considerations that influence the investments they choose. For example, an investor who needs to maintain a certain amount of liquidity may need to avoid alternative investments, which are generally illiquid. Another investor may choose investments with favorable tax treatment, such as municipal bonds, to minimize the income taxes that she has to pay on her investment earnings."
+                        "Paragraph_txt": "<br />In addition to the basic investment goals, investors may have secondary considerations that influence the investments they choose. For example, an investor who needs to maintain a certain amount of liquidity may need to avoid alternative investments, which are generally illiquid. Another investor may choose investments with favorable tax treatment, such as municipal bonds, to minimize the income taxes that she has to pay on her investment earnings."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the differences between the three basic investment goals described at the beginning of this chapter."
+                        "Paragraph_txt": "<br />The following chart summarizes the differences between the three basic investment goals described at the beginning of this chapter."
                     }
                 ]
             },

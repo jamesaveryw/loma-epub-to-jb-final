@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "The Project Lifecycle",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "We can think of project management as the application of management functions (planning, organizing, directing, and controlling) to all the phases within a project. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">project phase</span> is a segment of the project lifecycle consisting of a set of related project activities. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">project lifecycle</span> is the combination of all project phases, from project initiation to project closure. The phases are generally sequential in terms of when they begin, but can overlap. For example, successful project planning often continues through execution."
                     },
                     {
-                        "Paragraph_txt": "The name and number of project lifecycle phases vary among authorities. Companies use whatever model best fits their immediate needs. Many sources group the project lifecycle into four phases, as illustrated in Figure 5.1: an initiation phase, a planning phase, an execution phase, and a closure phase."
+                        "Paragraph_txt": "<br />The name and number of project lifecycle phases vary among authorities. Companies use whatever model best fits their immediate needs. Many sources group the project lifecycle into four phases, as illustrated in Figure 5.1: an initiation phase, a planning phase, an execution phase, and a closure phase."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.1 Phases of a Project Lifecycle</strong>"
                     }
                 ]
             },
@@ -168,7 +171,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.1</strong> Phases of a Project Lifecycle",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -327,16 +330,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Project Stakeholders</strong> "
                     },
                     {
-                        "Paragraph_txt": "An employee whose duties are associated with the project"
+                        "Paragraph_txt": "<br />An employee whose duties are associated with the project"
                     },
                     {
-                        "Paragraph_txt": "Members of a department that gains a new capability from a project"
+                        "Paragraph_txt": "<br />Members of a department that gains a new capability from a project"
                     },
                     {
-                        "Paragraph_txt": "A customer who gains a new service as the result of a project"
+                        "Paragraph_txt": "<br />A customer who gains a new service as the result of a project"
                     },
                     {
-                        "Paragraph_txt": "A vendor who sells services involved in completing the project"
+                        "Paragraph_txt": "<br />A vendor who sells services involved in completing the project"
                     }
                 ]
             },
@@ -522,7 +525,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Project Purpose</strong> "
                     },
                     {
-                        "Paragraph_txt": "Deliver easy-to-access value to customers."
+                        "Paragraph_txt": "<br />Deliver easy-to-access value to customers."
                     }
                 ]
             },
@@ -585,7 +588,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "More specific than the purpose are project goals and objectives: they provide the boundaries for all future project-related activities. In other words, goals and objectives help create targets so that a team can turn an idea into a plan at a later stage. When it comes to projects, goals and objectives have different uses."
                     },
                     {
-                        "Paragraph_txt": "A <em>project goal</em> is a broad statement about <em>what</em> a project aims to accomplish in relation to business needs. Because the goal is such a high-level statement, it may require more than one project to achieve. Goals are important from a strategic standpoint because they tell the project manager what to work toward."
+                        "Paragraph_txt": "<br />A <em>project goal</em> is a broad statement about <em>what</em> a project aims to accomplish in relation to business needs. Because the goal is such a high-level statement, it may require more than one project to achieve. Goals are important from a strategic standpoint because they tell the project manager what to work toward."
                     }
                 ]
             },
@@ -678,7 +681,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Project Goal</strong> "
                     },
                     {
-                        "Paragraph_txt": "Improve EndiFirst’s online customer experience."
+                        "Paragraph_txt": "<br />Improve EndiFirst’s online customer experience."
                     }
                 ]
             },
@@ -831,19 +834,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Project Objectives</strong> "
                     },
                     {
-                        "Paragraph_txt": "Objective 1: Conduct three usability testing events and 1,000 customer surveys, and analyze results by January 20XX."
+                        "Paragraph_txt": "<br />Objective 1: Conduct three usability testing events and 1,000 customer surveys, and analyze results by January 20XX."
                     },
                     {
-                        "Paragraph_txt": "Objective 2: Provide developer training on best practices for portal development by March 20XX."
+                        "Paragraph_txt": "<br />Objective 2: Provide developer training on best practices for portal development by March 20XX."
                     },
                     {
-                        "Paragraph_txt": "Objective 3: Redesign and test the self-service portal by August 20XX."
+                        "Paragraph_txt": "<br />Objective 3: Redesign and test the self-service portal by August 20XX."
                     },
                     {
-                        "Paragraph_txt": "Objective 4: Provide IT and CSR training on best practices for portal support by September 20XX."
+                        "Paragraph_txt": "<br />Objective 4: Provide IT and CSR training on best practices for portal support by September 20XX."
                     },
                     {
-                        "Paragraph_txt": "Objective 5: Launch self-service portal by October 20XX."
+                        "Paragraph_txt": "<br />Objective 5: Launch self-service portal by October 20XX."
                     }
                 ]
             },
@@ -906,10 +909,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Purposes are established before goals because a goal without a purpose could result in a deviation from the overall mission. For instance, a project might improve the online experience for customers, but make it more difficult for customers to figure out how to access other communication channels."
                     },
                     {
-                        "Paragraph_txt": "Goals are established before objectives because an objective without a goal could result in completion of a project that does not add value. For example, a team could design a self-service portal that looks better and works faster but is not easier to use for customers."
+                        "Paragraph_txt": "<br />Goals are established before objectives because an objective without a goal could result in completion of a project that does not add value. For example, a team could design a self-service portal that looks better and works faster but is not easier to use for customers."
                     },
                     {
-                        "Paragraph_txt": "Defining a project’s goals and objectives often requires research into the business problem. Managers can use this research to develop a business case."
+                        "Paragraph_txt": "<br />Defining a project’s goals and objectives often requires research into the business problem. Managers can use this research to develop a business case."
                     }
                 ]
             },
@@ -1025,7 +1028,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Business cases for small projects might contain minimal information and only require manager approval. Business cases for complex projects might contain detailed information, such as action steps and cost breakdown per task. If the information used to develop the business case reveals issues with a project’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">feasibility</span>—that is, the degree to which company resources will be able to carry a project to completion—the business case should address those directly."
                     },
                     {
-                        "Paragraph_txt": "When the business case is complete, the person responsible presents it to one or more decision makers who can, based upon business needs, (1) accept the proposal to continue the project, (2) request modifications to the project goals or resources, or (3) reject pursuit of the project altogether."
+                        "Paragraph_txt": "<br />When the business case is complete, the person responsible presents it to one or more decision makers who can, based upon business needs, (1) accept the proposal to continue the project, (2) request modifications to the project goals or resources, or (3) reject pursuit of the project altogether."
                     }
                 ]
             },
@@ -1063,6 +1066,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.2 Sample Project Charter</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-2figure.jpg",
@@ -1081,7 +1117,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.2</strong> Sample Project Charter",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1150,7 +1186,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The next step is to designate team members. In addition to a project manager, most projects include a project sponsor and a project team. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">project sponsor</span> is typically a company executive who authorizes the project, provides support and resources for the project, and communicates project information up the organizational chain of command. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">project team</span> consists of all <em>project team members</em> assigned to perform any portion of the project activities. An important type of project team is a<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> product development team</span>, which is a group that performs hands-on development of a new product."
                     },
                     {
-                        "Paragraph_txt": "A project team is temporary, and its members can be fluid. Appropriate team members have the skills and means required to accomplish the project’s objectives. To this end, project teams are often <em>cross-functional</em>. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cross-functional team</span> consists of representatives from two or more work groups that perform related business activities across organizational boundaries. Members of a cross-functional team communicate regularly to make sure that each organizational unit is aware of the other’s activities."
+                        "Paragraph_txt": "<br />A project team is temporary, and its members can be fluid. Appropriate team members have the skills and means required to accomplish the project’s objectives. To this end, project teams are often <em>cross-functional</em>. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cross-functional team</span> consists of representatives from two or more work groups that perform related business activities across organizational boundaries. Members of a cross-functional team communicate regularly to make sure that each organizational unit is aware of the other’s activities."
                     }
                 ]
             },
@@ -1243,10 +1279,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Team Member Identification</strong> "
                     },
                     {
-                        "Paragraph_txt": "Ruby, the project manager; Rich, the unit manager; and Anderson, a member of the customer service team, are discussing Anderson’s current projects to decide if a new project would work for his schedule."
+                        "Paragraph_txt": "<br />Ruby, the project manager; Rich, the unit manager; and Anderson, a member of the customer service team, are discussing Anderson’s current projects to decide if a new project would work for his schedule."
                     },
                     {
-                        "Paragraph_txt": "EndiFirst hired Anderson after launching the original self-service portal. He has spent much of his employment at EndiFirst responding to calls about the online experience. Anderson also has experience performing analysis of customer surveys. Anderson would be a valuable team member because his skill set is a good match for some of the project objectives."
+                        "Paragraph_txt": "<br />EndiFirst hired Anderson after launching the original self-service portal. He has spent much of his employment at EndiFirst responding to calls about the online experience. Anderson also has experience performing analysis of customer surveys. Anderson would be a valuable team member because his skill set is a good match for some of the project objectives."
                     }
                 ]
             },
@@ -1399,10 +1435,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Core Team Members</strong> "
                     },
                     {
-                        "Paragraph_txt": "—At EndiFirst Insurance, individuals assigned to perform at least 10% of the budgeted staff time for a project are core team members."
+                        "Paragraph_txt": "<br />—At EndiFirst Insurance, individuals assigned to perform at least 10% of the budgeted staff time for a project are core team members."
                     },
                     {
-                        "Paragraph_txt": "—At Foundation Financial, individuals assigned to perform at least 25% of the budgeted staff time for a project are core team members."
+                        "Paragraph_txt": "<br />—At Foundation Financial, individuals assigned to perform at least 25% of the budgeted staff time for a project are core team members."
                     }
                 ]
             },
@@ -1467,6 +1503,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.3 Organization for Project Coordination</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-3figure.jpg",
@@ -1485,7 +1554,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.3</strong> Organization for Project Coordination",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1554,7 +1623,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although projects are temporary, large insurance companies typically have a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">project management office (PMO)</span> or project management unit with a permanent staff. Such companies maintain a pool of seasoned project staff and assign these people to successive projects. Among organizations with PMOs, half report having <span class=\"keyterm\" tabindex=\"0\" role=\"button\">enterprise project management offices (EPMOs)</span>. <span class=\"ens\" id=\"loma335-ch5-span-48\"> <span class=\"endnote hidden\" data-note=\"loma335-ch5-en10\" epub:type=\"noteref\" id=\"loma335-ch5-span-49\" role=\"doc-noteref\">10</span> </span>EPMOs operate at the strategic level by assessing risk and organizing resources in relation to the company mission. The number of EPMOs is growing; traditional PMOs don’t always receive the amount of enterprise-level support crucial for managing operational risk. "
                     },
                     {
-                        "Paragraph_txt": "Because projects take place in many contexts, the overall organization of a project team can take a number of forms. For a given project, companies usually provide a structure consisting of at least a project sponsor, a project manager, and a project team. Companies with strong project management resources and activities often have more levels in their hierarchies than in the example in Figure 5.3."
+                        "Paragraph_txt": "<br />Because projects take place in many contexts, the overall organization of a project team can take a number of forms. For a given project, companies usually provide a structure consisting of at least a project sponsor, a project manager, and a project team. Companies with strong project management resources and activities often have more levels in their hierarchies than in the example in Figure 5.3."
                     }
                 ]
             },
@@ -2571,19 +2640,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Project Activities in an Insurance Company</strong> "
                     },
                     {
-                        "Paragraph_txt": "—Developing required policy forms"
+                        "Paragraph_txt": "<br />—Developing required policy forms"
                     },
                     {
-                        "Paragraph_txt": "—Purchasing new software"
+                        "Paragraph_txt": "<br />—Purchasing new software"
                     },
                     {
-                        "Paragraph_txt": "—Filing policy forms with regulators"
+                        "Paragraph_txt": "<br />—Filing policy forms with regulators"
                     },
                     {
-                        "Paragraph_txt": "—Conducting training for employees"
+                        "Paragraph_txt": "<br />—Conducting training for employees"
                     },
                     {
-                        "Paragraph_txt": "—Developing surveys for customers"
+                        "Paragraph_txt": "<br />—Developing surveys for customers"
                     }
                 ]
             },
@@ -2762,7 +2831,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Independent Activities</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst software developers can make an update to a website at the same time a manager conducts a training session on customer service. These activities do not rely on each other for completion."
+                        "Paragraph_txt": "<br />EndiFirst software developers can make an update to a website at the same time a manager conducts a training session on customer service. These activities do not rely on each other for completion."
                     }
                 ]
             },
@@ -2934,7 +3003,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Dependent Activities</strong> "
                     },
                     {
-                        "Paragraph_txt": "The project team cannot use the voice of the customer to guide web design until after the analysis of usability testing and customer surveys."
+                        "Paragraph_txt": "<br />The project team cannot use the voice of the customer to guide web design until after the analysis of usability testing and customer surveys."
                     }
                 ]
             },
@@ -3087,22 +3156,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Project Milestones in an Insurance Company</strong> "
                     },
                     {
-                        "Paragraph_txt": "—Regulatory approval of a policy form"
+                        "Paragraph_txt": "<br />—Regulatory approval of a policy form"
                     },
                     {
-                        "Paragraph_txt": "—The arrival of a shipment of printed material"
+                        "Paragraph_txt": "<br />—The arrival of a shipment of printed material"
                     },
                     {
-                        "Paragraph_txt": "—The arrival of an application for new business"
+                        "Paragraph_txt": "<br />—The arrival of an application for new business"
                     },
                     {
-                        "Paragraph_txt": "—Obtaining agent licenses and appointments"
+                        "Paragraph_txt": "<br />—Obtaining agent licenses and appointments"
                     },
                     {
-                        "Paragraph_txt": "—Securing corporate approval for new underwriting rules, guidelines, and risk classes for existing or new markets"
+                        "Paragraph_txt": "<br />—Securing corporate approval for new underwriting rules, guidelines, and risk classes for existing or new markets"
                     },
                     {
-                        "Paragraph_txt": "—Gaining corporate approval for a new claim policy of offering death benefit payments in a choice of a lump-sum payment or various settlement options"
+                        "Paragraph_txt": "<br />—Gaining corporate approval for a new claim policy of offering death benefit payments in a choice of a lump-sum payment or various settlement options"
                     }
                 ]
             },
@@ -3167,6 +3236,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.4 Work Breakdown Structure</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-4figure.jpg",
@@ -3185,7 +3287,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.4</strong> Work Breakdown Structure",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -3324,6 +3426,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.5 Project Flow Chart</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-5figure.jpg",
@@ -3342,7 +3477,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.5</strong> Project Flow Chart",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -3444,10 +3579,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Gantt chart </span>is a graphical scheduling tool that separates projects into critical activities and plots starting and ending dates for each activity. Gantt chart software is widely available, but project managers can also create Gantt charts using Excel spreadsheets."
                     },
                     {
-                        "Paragraph_txt": "Gantt charts help users show dependencies among activities, assign staff to activities, define project milestones, and share information throughout the organization. The horizontal axis of a Gantt chart represents the total time span of the project broken into increments of days, weeks, or months. The vertical axis of a Gantt chart represents separate activities that make up the project. The graph area of the Gantt chart, known as the <em>schedule timeframe</em>, displays a stack of horizontal bars with one for each activity. The stack of bars fills in the time between the beginning and end of a project."
+                        "Paragraph_txt": "<br />Gantt charts help users show dependencies among activities, assign staff to activities, define project milestones, and share information throughout the organization. The horizontal axis of a Gantt chart represents the total time span of the project broken into increments of days, weeks, or months. The vertical axis of a Gantt chart represents separate activities that make up the project. The graph area of the Gantt chart, known as the <em>schedule timeframe</em>, displays a stack of horizontal bars with one for each activity. The stack of bars fills in the time between the beginning and end of a project."
                     },
                     {
-                        "Paragraph_txt": "During a project, the Gantt chart display is updated regularly to indicate which activities have been completed and which remain to be performed. By showing the progress of activities, a Gantt chart helps companies determine if corrective action is needed as the project is under way. Figure 5.6 is a Gantt chart for a new product launch."
+                        "Paragraph_txt": "<br />During a project, the Gantt chart display is updated regularly to indicate which activities have been completed and which remain to be performed. By showing the progress of activities, a Gantt chart helps companies determine if corrective action is needed as the project is under way. Figure 5.6 is a Gantt chart for a new product launch."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.6 Gantt Chart</strong>"
                     }
                 ]
             },
@@ -3470,7 +3638,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.6</strong> Gantt Chart",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -3842,7 +4010,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Using all three estimates above, a project manager can calculate the expected time, denoted as <em>t<sub>e</sub> </em>. The expected time for an activity is a weighted average of the optimistic, most probable, and pessimistic times. It’s called the <em>weighted</em> average because the <em>most probable</em> time is given more <em>weight</em> than the other two less probable values. The equation for using a weighted average as the expected time for an activity can be expressed as"
                     },
                     {
-                        "Paragraph_txt": "&nbsp;"
+                        "Paragraph_txt": "<br />&nbsp;"
                     }
                 ]
             },
@@ -3935,7 +4103,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "&nbsp;"
+                        "Paragraph_txt": "<br />&nbsp;"
                     }
                 ]
             },
@@ -4321,7 +4489,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Network modeling software allows the user to create a chart of activities and events, estimate project costs, and display a schedule of activities for managing time and staffing needs. Depending on user preferences, most software can display the results as a chart, line diagram, or table."
                     },
                     {
-                        "Paragraph_txt": "Network models include, at a minimum, events, activities, times, network paths, and critical paths. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">network path</span> is a sequence of network activities from project inception to project end. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">critical path</span> is the most time-consuming chain of events in a network model. The critical path consists of the unique sequence of activities that, if delayed, would delay the entire project. Identifying the critical path is important because it highlights activities for which timely completion is crucial. A delay in an activity <em>not</em> on the critical path will not necessarily delay the project."
+                        "Paragraph_txt": "<br />Network models include, at a minimum, events, activities, times, network paths, and critical paths. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">network path</span> is a sequence of network activities from project inception to project end. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">critical path</span> is the most time-consuming chain of events in a network model. The critical path consists of the unique sequence of activities that, if delayed, would delay the entire project. Identifying the critical path is important because it highlights activities for which timely completion is crucial. A delay in an activity <em>not</em> on the critical path will not necessarily delay the project."
                     }
                 ]
             },
@@ -4487,6 +4655,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.7 Network Model with Critical Path</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-7figure.jpg",
@@ -4505,7 +4706,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.7</strong> Network Model with Critical Path",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -4607,10 +4808,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "To complete the project, the project team must complete all of these four paths. The greatest total in the expected time column is 98 days, for the network path A-M-N at the bottom of the table. So, we know that the critical path is A-M-N."
                     },
                     {
-                        "Paragraph_txt": "A network model can be used to identify the presence and amount of float in a project. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Float</span>, also known as <em>slack time</em>, is the length of time an activity can be delayed without delaying the entire project. Float helps with <em>mistake-proofing</em> project execution, such that if an activity is derailed, the work group has margin for getting it back on track."
+                        "Paragraph_txt": "<br />A network model can be used to identify the presence and amount of float in a project. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Float</span>, also known as <em>slack time</em>, is the length of time an activity can be delayed without delaying the entire project. Float helps with <em>mistake-proofing</em> project execution, such that if an activity is derailed, the work group has margin for getting it back on track."
                     },
                     {
-                        "Paragraph_txt": "No activity on the critical path can have float, but any other network activity can have float. To find the float in a network, subtract the expected time for each noncritical path from the expected time for the critical path. In the network in Figure 5.7, Path A-L-N has a float of 59 days, calculated as follows:"
+                        "Paragraph_txt": "<br />No activity on the critical path can have float, but any other network activity can have float. To find the float in a network, subtract the expected time for each noncritical path from the expected time for the critical path. In the network in Figure 5.7, Path A-L-N has a float of 59 days, calculated as follows:"
                     }
                 ]
             },
@@ -4894,7 +5095,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "A project manager can use information about baselines, activities, expected times, and networks to help establish comprehensive schedules, which provide information about the sequence and timing of events and how staff time should be allocated. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">project schedule</span> is a document that shows links between project elements, identifies dependencies, and shows a sequence that satisfies time and other constraints."
                     },
                     {
-                        "Paragraph_txt": "Some projects specify an <em>early finish date</em> and a <em>late finish date</em>, to allow for schedule variances. Generally, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">schedule variance</span> is the difference between the scheduled finish date for an activity and the actual finish date. Most members on a project team refer to the schedule to know when to complete activities. Figure 5.8 illustrates one type of project schedule."
+                        "Paragraph_txt": "<br />Some projects specify an <em>early finish date</em> and a <em>late finish date</em>, to allow for schedule variances. Generally, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">schedule variance</span> is the difference between the scheduled finish date for an activity and the actual finish date. Most members on a project team refer to the schedule to know when to complete activities. Figure 5.8 illustrates one type of project schedule."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.8 Sample Project Schedule</strong>"
                     }
                 ]
             },
@@ -4917,7 +5151,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.8</strong> Sample Project Schedule",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -4986,10 +5220,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">project plan</span> is a comprehensive, formally executed document used to guide a project through closure. The primary uses of a project plan are to consolidate the information gathered throughout the initiation and planning phases and facilitate communication among stakeholders."
                     },
                     {
-                        "Paragraph_txt": "A project plan should document negotiated aspects of the project objectives, project performance standards relative to required outcomes, project schedule, project cost, and other resource requirements. A project plan is designed to be revised and updated as time passes and new information becomes available."
+                        "Paragraph_txt": "<br />A project plan should document negotiated aspects of the project objectives, project performance standards relative to required outcomes, project schedule, project cost, and other resource requirements. A project plan is designed to be revised and updated as time passes and new information becomes available."
                     },
                     {
-                        "Paragraph_txt": "Keep in mind that projects differ in level of complexity and risk. The plan for a short, simple project can be informal. In this case, the plan could contain only a schedule and an <em>executive summary</em>, which is a concise overview of the project purpose. A more complex project plan might be a bound collection of related information and an appendix, with a table of contents like the one in Figure 5.9."
+                        "Paragraph_txt": "<br />Keep in mind that projects differ in level of complexity and risk. The plan for a short, simple project can be informal. In this case, the plan could contain only a schedule and an <em>executive summary</em>, which is a concise overview of the project purpose. A more complex project plan might be a bound collection of related information and an appendix, with a table of contents like the one in Figure 5.9."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.9 Comprehensive Project Plan Table of Contents</strong>"
                     }
                 ]
             },
@@ -5012,7 +5279,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.9</strong> Comprehensive Project Plan Table of Contents",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -5363,13 +5630,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "After authorization, team members can begin working on the project. The execution phase of project management consists of formally launching a project, communicating with team members, and progressing toward negotiated outcomes. The project team performs activities as scheduled during this phase."
                     },
                     {
-                        "Paragraph_txt": "An effective project team understands that issues will occur, that the planning process is ongoing, and that individual elements of a project will need adjustments over time. In other words, the project team has to remain agile to succeed."
+                        "Paragraph_txt": "<br />An effective project team understands that issues will occur, that the planning process is ongoing, and that individual elements of a project will need adjustments over time. In other words, the project team has to remain agile to succeed."
                     },
                     {
-                        "Paragraph_txt": "As we mentioned in Chapter 4, <em>agile management</em> is an approach to business effectiveness focused on finding and seizing opportunities to improve operations. With agile project management, project components are analyzed, adjusted, and delivered as individual units. The ability to adjust along the way increases attention to, and improves the quality of, each project deliverable."
+                        "Paragraph_txt": "<br />As we mentioned in Chapter 4, <em>agile management</em> is an approach to business effectiveness focused on finding and seizing opportunities to improve operations. With agile project management, project components are analyzed, adjusted, and delivered as individual units. The ability to adjust along the way increases attention to, and improves the quality of, each project deliverable."
                     },
                     {
-                        "Paragraph_txt": "There is some controversy surrounding the feasibility of using an agile management style for complex projects.<span class=\"ens\" id=\"loma335-ch5-span-99\"> <span class=\"endnote hidden\" data-note=\"loma335-ch5-en12\" epub:type=\"noteref\" id=\"loma335-ch5-span-100\" role=\"doc-noteref\">12</span> </span>However, as a testament to its name, a successful agile approach should be responsive to alterations based on level of complexity. In other words, even if the approach to a project is not purely agile, a project team can use agile thinking to help the project survive change."
+                        "Paragraph_txt": "<br />There is some controversy surrounding the feasibility of using an agile management style for complex projects.<span class=\"ens\" id=\"loma335-ch5-span-99\"> <span class=\"endnote hidden\" data-note=\"loma335-ch5-en12\" epub:type=\"noteref\" id=\"loma335-ch5-span-100\" role=\"doc-noteref\">12</span> </span>However, as a testament to its name, a successful agile approach should be responsive to alterations based on level of complexity. In other words, even if the approach to a project is not purely agile, a project team can use agile thinking to help the project survive change."
                     }
                 ]
             },
@@ -5462,7 +5729,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Agile Approach</strong> "
                     },
                     {
-                        "Paragraph_txt": "Ruby, the project manager at EndiFirst, updates the schedule based on her daily check-ins with team members. She can enter a change to an activity completion date, and the schedule will automatically update the total completion date according to the change made. Periodically, she revisits the total completion date in relation to project objectives. If needed, she negotiates adjustments to other activities to compensate for lost time."
+                        "Paragraph_txt": "<br />Ruby, the project manager at EndiFirst, updates the schedule based on her daily check-ins with team members. She can enter a change to an activity completion date, and the schedule will automatically update the total completion date according to the change made. Periodically, she revisits the total completion date in relation to project objectives. If needed, she negotiates adjustments to other activities to compensate for lost time."
                     }
                 ]
             },
@@ -5525,10 +5792,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because change is inevitable, project execution relies on project control. During project control, the project manager monitors progress and takes any corrective action in conjunction with members of the team. All aspects of a project are subject to project control."
                     },
                     {
-                        "Paragraph_txt": "To determine the status of activities, a project manager can conduct periodic meetings. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">stand-up meeting </span>is a meeting during which employees stand up as they offer summaries about their progress on an activity. The unintuitive feature of standing is intended to keep meetings short. (Not all companies use the term literally—in some cases, these status checks don’t require standing or are conducted virtually and still retain the name “stand-up meeting.”)"
+                        "Paragraph_txt": "<br />To determine the status of activities, a project manager can conduct periodic meetings. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">stand-up meeting </span>is a meeting during which employees stand up as they offer summaries about their progress on an activity. The unintuitive feature of standing is intended to keep meetings short. (Not all companies use the term literally—in some cases, these status checks don’t require standing or are conducted virtually and still retain the name “stand-up meeting.”)"
                     },
                     {
-                        "Paragraph_txt": "The project manager uses information about the status of activities to gauge project performance. Documents created in the planning phase serve as items for comparison. For example, the schedule can help a project manager compare expected dates to actual dates. A project manager also could revisit the time requirements budget to track exceptions as in the table below. Asterisks indicate the months when actual hours exceeded expected hours."
+                        "Paragraph_txt": "<br />The project manager uses information about the status of activities to gauge project performance. Documents created in the planning phase serve as items for comparison. For example, the schedule can help a project manager compare expected dates to actual dates. A project manager also could revisit the time requirements budget to track exceptions as in the table below. Asterisks indicate the months when actual hours exceeded expected hours."
                     }
                 ]
             },
@@ -5762,10 +6029,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A specific technique for identifying discrepancies between performance and plans is earned value management (EVM). <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Earned value management (EVM)</span> involves using monetary values to express performance feedback. Companies with relatively elaborate project management activities are the most likely to use this approach."
                     },
                     {
-                        "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">earned value</span> is a monetary value assigned incrementally to all project steps, with the project earning another increment of monetary value as more work is completed. Thus, EVM involves expressing physical progress toward project completion in monetary units. EVM also involves applying monetary values when analyzing project timeliness and cost."
+                        "Paragraph_txt": "<br />An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">earned value</span> is a monetary value assigned incrementally to all project steps, with the project earning another increment of monetary value as more work is completed. Thus, EVM involves expressing physical progress toward project completion in monetary units. EVM also involves applying monetary values when analyzing project timeliness and cost."
                     },
                     {
-                        "Paragraph_txt": "A project team can quickly grasp the summary aspects of feedback expressed in monetary units. Moreover, project managers and team members can gauge a current project’s performance by comparing its monetary values to those produced by past projects."
+                        "Paragraph_txt": "<br />A project team can quickly grasp the summary aspects of feedback expressed in monetary units. Moreover, project managers and team members can gauge a current project’s performance by comparing its monetary values to those produced by past projects."
                     }
                 ]
             },
@@ -5858,7 +6125,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EVM Approach</strong> "
                     },
                     {
-                        "Paragraph_txt": "On the basis of a project budget, one project activity has been assigned a total estimated value of $20,000. When that activity is 50% complete, the activity’s earned value is set at $10,000. In this example, the assigned $10,000 value at the given time is the activity’s earned value."
+                        "Paragraph_txt": "<br />On the basis of a project budget, one project activity has been assigned a total estimated value of $20,000. When that activity is 50% complete, the activity’s earned value is set at $10,000. In this example, the assigned $10,000 value at the given time is the activity’s earned value."
                     }
                 ]
             },
@@ -5921,7 +6188,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Earned value management provides a straightforward picture of project performance in terms of a critical metric: cost. However, EVM is a very limited measure of project performance and does not account for other features of a project. In addition, EVM often requires special analytic tools."
                     },
                     {
-                        "Paragraph_txt": "Whether a project uses EVM or traditional project plan information for project control, comparing the latest information to previously established information is key. If there are discrepancies between plans and performance, the project manager makes a plan to act."
+                        "Paragraph_txt": "<br />Whether a project uses EVM or traditional project plan information for project control, comparing the latest information to previously established information is key. If there are discrepancies between plans and performance, the project manager makes a plan to act."
                     }
                 ]
             },
@@ -6088,16 +6355,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Scope Creep</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst Insurance Company consults with Berryworth, Inc. for its advertising. Marco, an EndiFirst marketing manager, wants Berryworth to create a web advertising campaign that includes basic search engine marketing, video ads, and nonvideo display (banner) advertising. Marco speaks with Sarah, the project manager at Berryworth, and they agree on a schedule and budget. Sarah starts project initiation the following Monday."
+                        "Paragraph_txt": "<br />EndiFirst Insurance Company consults with Berryworth, Inc. for its advertising. Marco, an EndiFirst marketing manager, wants Berryworth to create a web advertising campaign that includes basic search engine marketing, video ads, and nonvideo display (banner) advertising. Marco speaks with Sarah, the project manager at Berryworth, and they agree on a schedule and budget. Sarah starts project initiation the following Monday."
                     },
                     {
-                        "Paragraph_txt": "Six weeks later, Marco calls Sarah to ask the team to add social media marketing to the campaign. The additional resources required by the social media marketing will change the schedule and the budget, but Sarah thinks the project can handle the change. She informs her team about the addition to the campaign."
+                        "Paragraph_txt": "<br />Six weeks later, Marco calls Sarah to ask the team to add social media marketing to the campaign. The additional resources required by the social media marketing will change the schedule and the budget, but Sarah thinks the project can handle the change. She informs her team about the addition to the campaign."
                     },
                     {
-                        "Paragraph_txt": "A month before the deadline, development of video ads are in progress. One of the actors in the video has an emergency, and the team has to hire and train a new actor. That same week, Marco calls Sarah and lets her know that there has been a small change to the product offerings. He asks her to include the new information in the advertising. The project is already behind schedule due to the addition, but this change seems minor, so Sarah agrees."
+                        "Paragraph_txt": "<br />A month before the deadline, development of video ads are in progress. One of the actors in the video has an emergency, and the team has to hire and train a new actor. That same week, Marco calls Sarah and lets her know that there has been a small change to the product offerings. He asks her to include the new information in the advertising. The project is already behind schedule due to the addition, but this change seems minor, so Sarah agrees."
                     },
                     {
-                        "Paragraph_txt": "With just one week before the deadline, video ads are still in development, and the team has only had time to incorporate product changes into the banner ads."
+                        "Paragraph_txt": "<br />With just one week before the deadline, video ads are still in development, and the team has only had time to incorporate product changes into the banner ads."
                     }
                 ]
             },
@@ -6252,7 +6519,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "RayLite planned an outreach event to improve customer satisfaction. The initial plan was to invite several dozen customers to the branch to discuss how Raylite can better serve them. The team realized that some customers’ commutes would likely keep them from attending."
                     },
                     {
-                        "Paragraph_txt": "The project team revisited their idea and, with the sponsor’s approval, decided that the location head and a few team members would schedule personal phone calls with the 10 customers who expressed the most grievances over the past six months."
+                        "Paragraph_txt": "<br />The project team revisited their idea and, with the sponsor’s approval, decided that the location head and a few team members would schedule personal phone calls with the 10 customers who expressed the most grievances over the past six months."
                     }
                 ]
             },
@@ -6372,6 +6639,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.10 Project Change Request and Authorization</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-10figure.jpg",
@@ -6390,7 +6690,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.10</strong> Project Change Request and Authorization",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -6459,7 +6759,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Project closure is the phase of the lifecycle that occurs after a project meets its objectives. Here, the project manager performs the administrative activities of winding down and ending a project. At this point, most team members have transitioned to other projects, leaving the project manager to wrap up."
                     },
                     {
-                        "Paragraph_txt": "During the closure phase, the project manager, perhaps with help from team members, documents project deliverables and presents the document to the project sponsor for her signature. The project manager also meets with the project team to debrief and record lessons learned."
+                        "Paragraph_txt": "<br />During the closure phase, the project manager, perhaps with help from team members, documents project deliverables and presents the document to the project sponsor for her signature. The project manager also meets with the project team to debrief and record lessons learned."
                     }
                 ]
             },
@@ -6522,10 +6822,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Lessons Learned</strong> "
                     },
                     {
-                        "Paragraph_txt": "While brainstorming methods for improving their self-service portal, EndiFirst used customer feedback from the survey and the group debriefing session that occurred after the usability tests. During analysis of the feedback, team members realized that many of the answers on the survey about the portal were similar and reflected conversations from the group debriefing session."
+                        "Paragraph_txt": "<br />While brainstorming methods for improving their self-service portal, EndiFirst used customer feedback from the survey and the group debriefing session that occurred after the usability tests. During analysis of the feedback, team members realized that many of the answers on the survey about the portal were similar and reflected conversations from the group debriefing session."
                     },
                     {
-                        "Paragraph_txt": "At project closure, team members decided that they could have received more useful responses by offering the survey prior to conducting the usability test with debrief session. Ruby documented this as a lesson learned."
+                        "Paragraph_txt": "<br />At project closure, team members decided that they could have received more useful responses by offering the survey prior to conducting the usability test with debrief session. Ruby documented this as a lesson learned."
                     }
                 ]
             },
@@ -6588,7 +6888,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most companies have formal arrangements for quality management and continuous improvement in their projects. For instance, companies might set consistent project documentation standards for all projects, and provide a mechanism for sharing best practices. Companies typically maintain a repository of lessons learned to benefit successive project teams. A new project team may be assigned to read and discuss reports from past projects to help the next project undertaking go smoother than the last."
                     },
                     {
-                        "Paragraph_txt": "Figure 5.11 depicts the format of a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">project closure authorization</span>. Companies use this authorization to document the formal closure of a project."
+                        "Paragraph_txt": "<br />Figure 5.11 depicts the format of a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">project closure authorization</span>. Companies use this authorization to document the formal closure of a project."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.11 Project Closure Authorization</strong>"
                     }
                 ]
             },
@@ -6611,7 +6944,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.11</strong> Project Closure Authorization",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

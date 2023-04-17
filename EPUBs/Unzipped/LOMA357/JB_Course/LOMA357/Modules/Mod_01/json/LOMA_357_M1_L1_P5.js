@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Overview of the Investment Function",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,13 +115,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Financial services companies typically employ a variety of investment professionals to carry out the responsibilities of the investment function. A company’s internal controls can affect how responsibilities are divided."
                     },
                     {
-                        "Paragraph_txt": "Companies vary in the kinds of arrangements they have with their investment functions. Within the investment function, operations tend to be divided into two or three categories. An insurance company’s investment function receives support from and provides input to other functional areas in the company."
+                        "Paragraph_txt": "<br />Companies vary in the kinds of arrangements they have with their investment functions. Within the investment function, operations tend to be divided into two or three categories. An insurance company’s investment function receives support from and provides input to other functional areas in the company."
                     },
                     {
-                        "Paragraph_txt": "Companies may outsource investment management duties to external vendors. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">vendor</span>, also known as a <em>service provider </em>or a <em>solution provider</em>, is a third party that a company hires to perform specific tasks or provide specific services."
+                        "Paragraph_txt": "<br />Companies may outsource investment management duties to external vendors. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">vendor</span>, also known as a <em>service provider </em>or a <em>solution provider</em>, is a third party that a company hires to perform specific tasks or provide specific services."
                     },
                     {
-                        "Paragraph_txt": "Companies can gain access to external data through vendors. The investment function collects and analyzes external and internal data by using specific information systems."
+                        "Paragraph_txt": "<br />Companies can gain access to external data through vendors. The investment function collects and analyzes external and internal data by using specific information systems."
                     }
                 ]
             },
@@ -386,16 +356,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Companies split up responsibilities within the investment function as a form of internal control. According to the principle of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">segregation of duties</span>, also known as the principle of <em>dual control</em>, an employer should design jobs so that incompatible functions are assigned to different individuals. In this context, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">incompatible functions</span>are job duties in the normal course of employment that, when combined, place an employee in a position where he could commit an illegal act or could conceal errors or irregularities."
                     },
                     {
-                        "Paragraph_txt": "When incompatible functions are combined, a company is also less likely to detect unintentional errors that its employees commit. Segregating—or “separating”—duties helps a company safeguard its assets by providing a framework in which the company can quickly detect and address suspicious actions, errors, and irregularities."
+                        "Paragraph_txt": "<br />When incompatible functions are combined, a company is also less likely to detect unintentional errors that its employees commit. Segregating—or “separating”—duties helps a company safeguard its assets by providing a framework in which the company can quickly detect and address suspicious actions, errors, and irregularities."
                     },
                     {
-                        "Paragraph_txt": "An effective internal control system separates the custodial, authorization, and accounting tasks associated with the company’s assets. In this context, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">custodial tasks</span>include the physical or electronic handling of assets. Therefore, an employee who assumes physical or electronic custody of securities should not be the same employee who maintains the accounting records for those securities. Furthermore, employees with custodial or accounting tasks should not have authorization to buy, sell, or otherwise dispose of securities. Institutional investors often use an external provider for custodial tasks to comply with the need for internal controls."
+                        "Paragraph_txt": "<br />An effective internal control system separates the custodial, authorization, and accounting tasks associated with the company’s assets. In this context, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">custodial tasks</span>include the physical or electronic handling of assets. Therefore, an employee who assumes physical or electronic custody of securities should not be the same employee who maintains the accounting records for those securities. Furthermore, employees with custodial or accounting tasks should not have authorization to buy, sell, or otherwise dispose of securities. Institutional investors often use an external provider for custodial tasks to comply with the need for internal controls."
                     },
                     {
-                        "Paragraph_txt": "For financial transactions conducted by internal employees, many financial services companies require that an employee with a sufficient authorization limit officially authorize a transaction before it can occur. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">authorization limit</span> is the maximum monetary amount that a company employee has official power to approve for disbursement without prior approval by another company employee with higher authority."
+                        "Paragraph_txt": "<br />For financial transactions conducted by internal employees, many financial services companies require that an employee with a sufficient authorization limit officially authorize a transaction before it can occur. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">authorization limit</span> is the maximum monetary amount that a company employee has official power to approve for disbursement without prior approval by another company employee with higher authority."
                     },
                     {
-                        "Paragraph_txt": "Depending on their role in the investment function, individual employees have different levels of authorization to complete financial transactions."
+                        "Paragraph_txt": "<br />Depending on their role in the investment function, individual employees have different levels of authorization to complete financial transactions."
                     }
                 ]
             },
@@ -458,7 +428,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A junior securities trader may have to obtain authorization for all security purchases or sales in excess of $2 million. The trader has sufficient authorization to complete any transaction below that threshold."
                     },
                     {
-                        "Paragraph_txt": "A senior securities trader may have to obtain authorization for all security purchases or sales in excess of $10 million. If the junior securities trader is seeking authorization for a $3 million purchase, the senior securities trader can authorize that transaction."
+                        "Paragraph_txt": "<br />A senior securities trader may have to obtain authorization for all security purchases or sales in excess of $10 million. If the junior securities trader is seeking authorization for a $3 million purchase, the senior securities trader can authorize that transaction."
                     }
                 ]
             },
@@ -613,7 +583,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The Dexicos Financial Group, a financial holding company, has several subsidiaries. One of the subsidiaries, Dexicos Investment Management, performs the investment function for all other subsidiaries of Dexicos Financial Group. Dexicos Investment Management also provides investment management services for institutional investors outside of the Dexicos Financial Group."
                     },
                     {
-                        "Paragraph_txt": "In the following illustration, the orange arrows indicate that Dexicos Investment Management is providing services to entities within the holding company. In addition, they provide services to entities outside of the holding company, as indicated by the green arrow."
+                        "Paragraph_txt": "<br />In the following illustration, the orange arrows indicate that Dexicos Investment Management is providing services to entities within the holding company. In addition, they provide services to entities outside of the holding company, as indicated by the green arrow."
                     }
                 ]
             },
@@ -797,7 +767,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "The middle-office and back-office operations support the activities of the front office. Some financial services companies divide investment operations into just two categories—front-office and back-office operations. Such companies consider middle-office activities to be a part of back-office operations."
                     },
                     {
-                        "Paragraph_txt": "Figure 1.1 illustrates the division of investment operations within the investment function and includes other relevant operations that are not viewed as investment operations."
+                        "Paragraph_txt": "<br />Figure 1.1 illustrates the division of investment operations within the investment function and includes other relevant operations that are not viewed as investment operations."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.1 Divisions of Investment Operations</strong>"
                     }
                 ]
             },
@@ -820,7 +823,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.1</strong> Divisions of Investment Operations",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1113,16 +1116,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "While every function plays a role in managing an insurer’s risks, some insurers have a separate unit devoted to risk management and analysis. Other insurers may include risk management activities in other functions, such as finance."
                     },
                     {
-                        "Paragraph_txt": "The risk management function (1) measures and monitors the company’s exposures to multiple types of risks and (2) analyzes the probabilities and impacts of potential risk events. In addition, the risk management function may be responsible for overseeing the company’s capital management and asset-liability management efforts."
+                        "Paragraph_txt": "<br />The risk management function (1) measures and monitors the company’s exposures to multiple types of risks and (2) analyzes the probabilities and impacts of potential risk events. In addition, the risk management function may be responsible for overseeing the company’s capital management and asset-liability management efforts."
                     },
                     {
-                        "Paragraph_txt": "The risk management function monitors the financial risks associated with investment operations. Risk management professionals also review investment activities to verify that investment professionals are following company policies regarding appropriate levels of risk exposure."
+                        "Paragraph_txt": "<br />The risk management function monitors the financial risks associated with investment operations. Risk management professionals also review investment activities to verify that investment professionals are following company policies regarding appropriate levels of risk exposure."
                     },
                     {
-                        "Paragraph_txt": "Insurance regulators and securities regulators also scrutinize insurers’ investment activities. Together, an insurance company’s risk management professionals and investment professionals ensure that the company complies with regulations."
+                        "Paragraph_txt": "<br />Insurance regulators and securities regulators also scrutinize insurers’ investment activities. Together, an insurance company’s risk management professionals and investment professionals ensure that the company complies with regulations."
                     },
                     {
-                        "Paragraph_txt": "We cover the relationship between risk management and the investment function in greater detail in Chapter 6."
+                        "Paragraph_txt": "<br />We cover the relationship between risk management and the investment function in greater detail in Chapter 6."
                     }
                 ]
             },
@@ -1158,7 +1161,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The accounting function records, tracks, and reports on a company’s financial transactions, including investment transactions. Accountants gather financial information and distribute it to company managers. Insurers use records of transactions to generate financial statements and reports for regulators and other external stakeholders."
                     },
                     {
-                        "Paragraph_txt": "Accountants also ensure compliance with complex financial reporting standards related to the investments of insurance companies."
+                        "Paragraph_txt": "<br />Accountants also ensure compliance with complex financial reporting standards related to the investments of insurance companies."
                     }
                 ]
             },
@@ -1194,10 +1197,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In insurance companies, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">treasury operations</span> function manages and maintains records and reports for all of an insurer’s cash transactions, specifically money deposited or withdrawn from accounts at a bank or other financial institution. Employees in treasury operations set up bank accounts and disburse policy proceeds via checks and electronic funds transfer."
                     },
                     {
-                        "Paragraph_txt": "A company’s treasury function, through its cash management activities, keeps the company’s cash reserves at needed levels. <em>Cash management</em> includes cash forecasting, bank relations, bank account administration, and short-term lending and borrowing activities. <em>Cash forecasting</em> involves tracking and predicting the movement of money into and out of the company."
+                        "Paragraph_txt": "<br />A company’s treasury function, through its cash management activities, keeps the company’s cash reserves at needed levels. <em>Cash management</em> includes cash forecasting, bank relations, bank account administration, and short-term lending and borrowing activities. <em>Cash forecasting</em> involves tracking and predicting the movement of money into and out of the company."
                     },
                     {
-                        "Paragraph_txt": "Although the treasury function and the investment function are usually separate within an insurer, they must work together. Investment employees make strategic decisions and execute transactions to manage the company’s assets, while treasury employees handle the resulting cash inflows and outflows. Together, they ensure prudent management of the company’s finances."
+                        "Paragraph_txt": "<br />Although the treasury function and the investment function are usually separate within an insurer, they must work together. Investment employees make strategic decisions and execute transactions to manage the company’s assets, while treasury employees handle the resulting cash inflows and outflows. Together, they ensure prudent management of the company’s finances."
                     }
                 ]
             },
@@ -1233,7 +1236,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In life insurance companies, actuaries play a significant role in product development. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">actuary</span> is an expert in financial risk management and the mathematics and modeling of insurance and annuity products, as well as other financial instruments. Actuaries help insurers develop assumptions used in pricing new products."
                     },
                     {
-                        "Paragraph_txt": "To create a product’s financial design, actuaries and other product development team members require information from investment professionals. During product planning and development, investment professionals identify the types of assets that are available to match the characteristics of a given product. Investment professionals also evaluate any product design assumptions involving the assets backing a product and support the long-term matching of assets with a product’s liabilities."
+                        "Paragraph_txt": "<br />To create a product’s financial design, actuaries and other product development team members require information from investment professionals. During product planning and development, investment professionals identify the types of assets that are available to match the characteristics of a given product. Investment professionals also evaluate any product design assumptions involving the assets backing a product and support the long-term matching of assets with a product’s liabilities."
                     }
                 ]
             },
@@ -1269,13 +1272,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "A company’s <em>investment marketing</em> function is responsible primarily for the marketing and sales of investment services to potential institutional investment clients. When making client presentations, the company’s sales professionals rely on information that investment professionals provide."
                     },
                     {
-                        "Paragraph_txt": "The investment marketing function develops all of the information for use in product or service descriptions and promotional information about the company’s institutional investment management services. The marketing unit then creates, produces, and distributes the communications pieces."
+                        "Paragraph_txt": "<br />The investment marketing function develops all of the information for use in product or service descriptions and promotional information about the company’s institutional investment management services. The marketing unit then creates, produces, and distributes the communications pieces."
                     },
                     {
-                        "Paragraph_txt": "In addition, a unit within client communications prepares all responses for requests for proposals received from potential clients. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">request for proposal (RFP)</span> is a document that an organizational buyer submits to possible suppliers that provides detailed information about the organization’s needs and invites the supplier to bid on satisfying those needs. Investment professionals provide details to help marketers complete RFPs submitted by possible customers of their investment services."
+                        "Paragraph_txt": "<br />In addition, a unit within client communications prepares all responses for requests for proposals received from potential clients. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">request for proposal (RFP)</span> is a document that an organizational buyer submits to possible suppliers that provides detailed information about the organization’s needs and invites the supplier to bid on satisfying those needs. Investment professionals provide details to help marketers complete RFPs submitted by possible customers of their investment services."
                     },
                     {
-                        "Paragraph_txt": "Employees in an investment marketing group may also support training programs for an institutional investment product. For example, an insurance company might educate its own sales staff or the client’s staff about the different subaccounts available to variable annuity customers."
+                        "Paragraph_txt": "<br />Employees in an investment marketing group may also support training programs for an institutional investment product. For example, an insurance company might educate its own sales staff or the client’s staff about the different subaccounts available to variable annuity customers."
                     }
                 ]
             },
@@ -1410,7 +1413,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Some financial services companies manage their invested assets internally. However, other companies may not have the resources—or the desire—to hire investment professionals who have expertise in each aspect of investment management. These companies may rely on external vendors to perform certain investment management duties. The practice of hiring an external vendor to perform specified operational functions is called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">outsourcing</span>."
                     },
                     {
-                        "Paragraph_txt": "A financial services company can partially or completely outsource investment management duties. Outsourcing is particularly attractive to smaller companies and companies that do not possess the internal expertise to manage specific types of assets."
+                        "Paragraph_txt": "<br />A financial services company can partially or completely outsource investment management duties. Outsourcing is particularly attractive to smaller companies and companies that do not possess the internal expertise to manage specific types of assets."
                     }
                 ]
             },
@@ -1473,7 +1476,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Palvica Regional Bank is a small institutional investor with a limited investment staff: three portfolio managers, one investment analyst, and one securities trader. While the company’s investment professionals are skilled in managing securities issued in North America and Europe, they want to expand their portfolio holdings by adding securities issued in Asia."
                     },
                     {
-                        "Paragraph_txt": "Palvica’s investment team recognizes that it does not possess the expertise to invest in Asian securities. Therefore, the company hires Ukugo Investment Group, an investment management firm that specializes in selecting and managing Asian securities for institutional investors. By outsourcing to Ukugo, Palvica is able to broaden the types of assets it invests in on behalf of its clients."
+                        "Paragraph_txt": "<br />Palvica’s investment team recognizes that it does not possess the expertise to invest in Asian securities. Therefore, the company hires Ukugo Investment Group, an investment management firm that specializes in selecting and managing Asian securities for institutional investors. By outsourcing to Ukugo, Palvica is able to broaden the types of assets it invests in on behalf of its clients."
                     }
                 ]
             },
@@ -1536,7 +1539,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For investment professionals, constant access to real-time financial market information is critical. Financial markets are fluid, with prices changing throughout the day, so investment professionals can face an urgency to act on current financial market pricing. As a result, financial services companies must take special care to ensure that external data feeds continue without interruptions."
                     },
                     {
-                        "Paragraph_txt": "Institutional investors use systems and databases to collect, organize, and analyze information. Because financial services companies collect a large amount of information, they have corporate policies to manage and protect their data."
+                        "Paragraph_txt": "<br />Institutional investors use systems and databases to collect, organize, and analyze information. Because financial services companies collect a large amount of information, they have corporate policies to manage and protect their data."
                     }
                 ]
             },
@@ -1572,19 +1575,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals use data that come from internal and external sources. Investment operations within the company generate some internal data. For example, companies keep records of their own account balances, asset values, executed trades, transaction costs, and cash inflows and outflows."
                     },
                     {
-                        "Paragraph_txt": "The company’s portfolio transactions generate other internal data. For instance, a company tracks changes in the composition of a portfolio’s holdings after recent purchases increase the percentage of one asset type relative to other asset types. Companies can calculate portfolio performance over varying lengths of time, from a single day to several decades."
+                        "Paragraph_txt": "<br />The company’s portfolio transactions generate other internal data. For instance, a company tracks changes in the composition of a portfolio’s holdings after recent purchases increase the percentage of one asset type relative to other asset types. Companies can calculate portfolio performance over varying lengths of time, from a single day to several decades."
                     },
                     {
-                        "Paragraph_txt": "Although internal data are useful for internal evaluation, investment professionals work primarily with data generated externally. In addition to real-time prices, investment professionals look at data related to financial markets, companies, industries, and market economies."
+                        "Paragraph_txt": "<br />Although internal data are useful for internal evaluation, investment professionals work primarily with data generated externally. In addition to real-time prices, investment professionals look at data related to financial markets, companies, industries, and market economies."
                     },
                     {
-                        "Paragraph_txt": "External data help investment professionals assess asset values and investment opportunities. For instance, many investors examine financial statements from publicly traded companies to determine those businesses’ financial health and growth prospects. Shares of companies that are poised to outperform their competitors could be attractive investments for institutional portfolios."
+                        "Paragraph_txt": "<br />External data help investment professionals assess asset values and investment opportunities. For instance, many investors examine financial statements from publicly traded companies to determine those businesses’ financial health and growth prospects. Shares of companies that are poised to outperform their competitors could be attractive investments for institutional portfolios."
                     },
                     {
-                        "Paragraph_txt": "External data also help investment professionals make portfolio decisions. For example, studying historical patterns can be useful in predicting the direction of asset prices in the future. Therefore, many investment professionals use historical data to anticipate market trends, which enable them to position portfolios so as to profit from their insights."
+                        "Paragraph_txt": "<br />External data also help investment professionals make portfolio decisions. For example, studying historical patterns can be useful in predicting the direction of asset prices in the future. Therefore, many investment professionals use historical data to anticipate market trends, which enable them to position portfolios so as to profit from their insights."
                     },
                     {
-                        "Paragraph_txt": "An institutional investor that employs multiple investment analysts can deploy them to gather large quantities of data. However, many companies find it more efficient to use external vendors to acquire data for their analysts. Some vendors also provide services to organize and analyze the data they collect."
+                        "Paragraph_txt": "<br />An institutional investor that employs multiple investment analysts can deploy them to gather large quantities of data. However, many companies find it more efficient to use external vendors to acquire data for their analysts. Some vendors also provide services to organize and analyze the data they collect."
                     }
                 ]
             },
@@ -1647,7 +1650,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Bloomberg L.P. is a popular external data vendor for institutional investors. Bloomberg provides subscribers with access to real-time financial markets data through its proprietary computer system, known as the <em>Bloomberg Terminal</em>."
                     },
                     {
-                        "Paragraph_txt": "Bloomberg also offers financial news, analytics tools, trade execution capabilities, and electronic communication between subscribers."
+                        "Paragraph_txt": "<br />Bloomberg also offers financial news, analytics tools, trade execution capabilities, and electronic communication between subscribers."
                     }
                 ]
             },
@@ -1778,13 +1781,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Investment professionals use data to help them discover investment opportunities. To draw relevant insights from their data, they conduct <span class=\"keyterm\" tabindex=\"0\" role=\"button\">data analysis</span>, which is a process of applying a variety of analytical techniques to collected data, and using the results of the analysis to formulate recommendations concerning a research objective."
                     },
                     {
-                        "Paragraph_txt": "Advancements in technology have made it easier for investment professionals to conduct <span class=\"keyterm\" tabindex=\"0\" role=\"button\">quantitative research</span>, which is research designed to generate concrete information about people and their behaviors that can be analyzed, summarized in the form of numbers, and easily communicated to others. For example, many computer programs now conduct <span class=\"keyterm\" tabindex=\"0\" role=\"button\">data mining</span>, a type of analysis in which numerical data are examined to uncover trends, patterns, and relationships. The ability to identify trends faster than other investors is a competitive advantage for an institutional investor."
+                        "Paragraph_txt": "<br />Advancements in technology have made it easier for investment professionals to conduct <span class=\"keyterm\" tabindex=\"0\" role=\"button\">quantitative research</span>, which is research designed to generate concrete information about people and their behaviors that can be analyzed, summarized in the form of numbers, and easily communicated to others. For example, many computer programs now conduct <span class=\"keyterm\" tabindex=\"0\" role=\"button\">data mining</span>, a type of analysis in which numerical data are examined to uncover trends, patterns, and relationships. The ability to identify trends faster than other investors is a competitive advantage for an institutional investor."
                     },
                     {
-                        "Paragraph_txt": "Technology will continue to change investment management as analytical capabilities grow increasingly sophisticated. Computer scientists are working on <span class=\"keyterm\" tabindex=\"0\" role=\"button\">artificial intelligence (AI)</span>—the development of intelligent machines that work, “learn,” and react like humans. Applying AI to investing goes beyond tasking machines with sifting through enormous volumes of data; AI will help analysts interpret data, thus turning the data into useful information."
+                        "Paragraph_txt": "<br />Technology will continue to change investment management as analytical capabilities grow increasingly sophisticated. Computer scientists are working on <span class=\"keyterm\" tabindex=\"0\" role=\"button\">artificial intelligence (AI)</span>—the development of intelligent machines that work, “learn,” and react like humans. Applying AI to investing goes beyond tasking machines with sifting through enormous volumes of data; AI will help analysts interpret data, thus turning the data into useful information."
                     },
                     {
-                        "Paragraph_txt": "Because of advancements like AI, investment analysts will be able to spend more time on <span class=\"keyterm\" tabindex=\"0\" role=\"button\">qualitative research</span>, which is research that uses subjective data collection methods and produces results that are difficult to summarize in numerical form. Qualitative research examines what people think, how they feel about the subject under study, and the words they use to express those thoughts and feelings."
+                        "Paragraph_txt": "<br />Because of advancements like AI, investment analysts will be able to spend more time on <span class=\"keyterm\" tabindex=\"0\" role=\"button\">qualitative research</span>, which is research that uses subjective data collection methods and produces results that are difficult to summarize in numerical form. Qualitative research examines what people think, how they feel about the subject under study, and the words they use to express those thoughts and feelings."
                     }
                 ]
             },
@@ -1847,7 +1850,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Heidi Nilsen, an investment analyst, is performing research on a company for a possible investment. Heidi has conducted quantitative research, including studying the company’s financial reports and the company’s sales trends relative to its competitors. She wants to conduct qualitative research to develop a sense for the level of confidence that the company’s managers have in its ability to increase product sales in the future."
                     },
                     {
-                        "Paragraph_txt": "Heidi watches a recent television interview that the company’s chief executive officer (CEO) gave to a business news channel. In addition to the substance of the CEO’s answers, Heidi studies the CEO’s tone of voice and body language during the interview, hoping to infer clues about the executive’s true feelings regarding his company’s prospects."
+                        "Paragraph_txt": "<br />Heidi watches a recent television interview that the company’s chief executive officer (CEO) gave to a business news channel. In addition to the substance of the CEO’s answers, Heidi studies the CEO’s tone of voice and body language during the interview, hoping to infer clues about the executive’s true feelings regarding his company’s prospects."
                     }
                 ]
             },
@@ -1910,7 +1913,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because people can track and present data about investment performance in so many ways, investment professionals use data visualization tools to put data into context. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">data visualization tool</span> is a technology-driven graphical display that conveys an intuitive understanding of data."
                     },
                     {
-                        "Paragraph_txt": "Data visualization tools graphically present data in easy-to-understand formats—for example, with charts, graphs, and tables—making it easier to analyze and evaluate the performance of individual assets and investment portfolios. Figure 1.2 is an example of a chart that investors might use."
+                        "Paragraph_txt": "<br />Data visualization tools graphically present data in easy-to-understand formats—for example, with charts, graphs, and tables—making it easier to analyze and evaluate the performance of individual assets and investment portfolios. Figure 1.2 is an example of a chart that investors might use."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.2 Example of an Investment Chart</strong>"
                     }
                 ]
             },
@@ -1933,7 +1969,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.2</strong> Example of an Investment Chart",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1944,7 +1980,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a><br/>In the chart, the blue line represents the security’s daily prices. The purple line represents the security’s <em>moving average</em>, which is a value that indicates the security’s average price over a specified time period, such as the last fifty days. Because the chart displays information for a limited date range, the red box indicates the security’s price as of the last day in the selected range, and the purple box indicates the security’s moving average as of the last day.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -1986,6 +2022,42 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
+                    },
+                    {
+                        "Paragraph_txt": "<br />In the chart, the blue line represents the security’s daily prices. The purple line represents the security’s <em>moving average</em>, which is a value that indicates the security’s average price over a specified time period, such as the last fifty days. Because the chart displays information for a limited date range, the red box indicates the security’s price as of the last day in the selected range, and the purple box indicates the security’s moving average as of the last day."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
                         "heading": "<strong>Data Governance</strong>",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
@@ -2002,13 +2074,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Financial services companies contain many functions—including the investment function—that rely heavily on information, so companies need internal guidelines for handling data. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Data governance</span> is the process of establishing organizational ownership and accountability for data so that business processes are optimized and data are secure and protected."
                     },
                     {
-                        "Paragraph_txt": "Data governance provides a framework for organizational decisions about how to manage data, realize value from it, minimize its cost and complexity, manage risk, and ensure compliance with ever-growing external requirements for information."
+                        "Paragraph_txt": "<br />Data governance provides a framework for organizational decisions about how to manage data, realize value from it, minimize its cost and complexity, manage risk, and ensure compliance with ever-growing external requirements for information."
                     },
                     {
-                        "Paragraph_txt": "At some companies, data governance is the responsibility of one of the standing committees that report to a company’s board of directors. A standing committee can keep the board and executives informed of data governance issues that can affect the company’s performance."
+                        "Paragraph_txt": "<br />At some companies, data governance is the responsibility of one of the standing committees that report to a company’s board of directors. A standing committee can keep the board and executives informed of data governance issues that can affect the company’s performance."
                     },
                     {
-                        "Paragraph_txt": "Regardless of a company’s organizational structure, successful data governance requires oversight from senior managers to support efforts at the functional level and ensure close coordination with the information technology (IT) unit."
+                        "Paragraph_txt": "<br />Regardless of a company’s organizational structure, successful data governance requires oversight from senior managers to support efforts at the functional level and ensure close coordination with the information technology (IT) unit."
                     }
                 ]
             },
