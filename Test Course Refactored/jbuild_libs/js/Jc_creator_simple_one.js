@@ -93,7 +93,8 @@ c_Header_Setup = c_Header_Setup + "</div>";
 
 
 
-document.getElementById("pg_header").style.backgroundColor = Jcc[0][jcc_Setup[0]].Lesson_Header_Color;
+// document.getElementById("pg_header").style.backgroundColor = Jcc[0][jcc_Setup[0]].Lesson_Header_Color;
+document.getElementById("pg_header").style.backgroundColor = "#004c9d";
 
     Jcc_Content = Object.keys(Jcc[0][jcc_Setup[1]]);
     

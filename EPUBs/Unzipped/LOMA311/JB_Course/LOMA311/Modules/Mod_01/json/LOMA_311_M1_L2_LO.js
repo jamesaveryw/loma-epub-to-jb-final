@@ -23,14 +23,14 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Learning Objectives",
+                        "List_Heading": "",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
                         "heading_color": "",
-                        "heading_size": "h2",
+                        "heading_size": "h1",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
                         "paragraph_top_text_color": "#000000",

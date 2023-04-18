@@ -7,7 +7,7 @@ var course_settings =
 		"Portal_Setup":
 			{	
 				//COURSE_TYPE = hioc || hybrid || pdf || shortcourseA || demo-hioc || demo-hybrid || demo-pdf || demo-shortcourseA || more???
-				"Course_Type": "hybrid",
+				"Course_Type": "demo-hioc",
 
 				"Course_Number": "311",
 				"Course_Folder": "LOMA_311",				

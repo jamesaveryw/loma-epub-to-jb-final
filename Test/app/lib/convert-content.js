@@ -199,8 +199,9 @@ let lessonBuilder = {
 		if (lessonBuilder.doc.title == 'Objectives') {
 			// change title
 			lessonBuilder.doc.title = 'Learning Objectives';
-			lessonBuilder.doc.querySelector('h2').innerHTML = 'Learning Objectives';
-			lessonBuilder.doc.querySelector('h2').removeAttribute('epub:type');
+			lessonBuilder.doc.querySelector('h2').remove();
+			// lessonBuilder.doc.querySelector('h2').innerHTML = 'Learning Objectives';
+			// lessonBuilder.doc.querySelector('h2').removeAttribute('epub:type');
 			
 			// remove unneeded elements
 			lessonBuilder.doc.querySelector('p.obj-txt').remove();
