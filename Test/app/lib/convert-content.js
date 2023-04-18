@@ -1200,6 +1200,9 @@ function buildQuestion(question, answerKey) {
 		JB_Question.Question_Comp[4].question_answers.push(choiceObj);
 	}
 
+	// TODO: alternate background color if
+	// prev snippet is also a questions
+
 	lessonBuilder.prevSnippet = "question";
 
 	// if (skip) {
