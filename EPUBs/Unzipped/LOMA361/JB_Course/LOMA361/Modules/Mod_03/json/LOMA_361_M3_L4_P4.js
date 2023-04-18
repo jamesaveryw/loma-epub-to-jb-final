@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Budget Classifications",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -240,10 +210,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "When we classify budgets by their degree of variability, we typically refer to them as either static or flexible budgets. The amounts in a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">static budget</span>, also known as a <em>fixed budget</em> or a <em>fixed-amount budget</em>, are generally not subject to change unless management has approved the changes. Static budgets are more useful when a company’s operations and growth levels are consistent, but less useful when a company’s budgeted amounts of revenues and expenses are uncertain. A static budget lacks the flexibility to provide alternate financial projections when a company’s experience differs from the assumptions underlying the budgeted figures. Therefore, a static budget is most appropriate for budgeting fixed costs."
                     },
                     {
-                        "Paragraph_txt": "In contrast, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">flexible budget</span>, also known as a <em>flexible-amount budget</em>, a <em>dynamic budget</em>, or a <em>variable budget</em>, provides alternative sets of budget estimates to use under different circumstances that may arise during an accounting period. Essentially, a flexible budget comprises a series of static budgets prepared for each alternative budget estimate. Because the potential financial scenarios for any given accounting period are nearly infinite, a company typically focuses on budgeting for a limited number of scenarios. For instance, a flexible budget commonly focuses on the company’s projections for the best-case, worst-case, and expected levels of activity."
+                        "Paragraph_txt": "<br />In contrast, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">flexible budget</span>, also known as a <em>flexible-amount budget</em>, a <em>dynamic budget</em>, or a <em>variable budget</em>, provides alternative sets of budget estimates to use under different circumstances that may arise during an accounting period. Essentially, a flexible budget comprises a series of static budgets prepared for each alternative budget estimate. Because the potential financial scenarios for any given accounting period are nearly infinite, a company typically focuses on budgeting for a limited number of scenarios. For instance, a flexible budget commonly focuses on the company’s projections for the best-case, worst-case, and expected levels of activity."
                     },
                     {
-                        "Paragraph_txt": "Watch Video 15.1 to see a comparison of static and flexible budgets."
+                        "Paragraph_txt": "<br />Watch Video 15.1 to see a comparison of static and flexible budgets."
                     }
                 ]
             },
@@ -357,7 +327,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "We can also classify budgets by time frame. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">short-term budget</span>, also called an <em>operating budget</em>, generally covers a period of one year or less and relates mainly to a company’s operations during that period. A company often divides a short-term budget into quarterly, monthly, weekly, or sometimes daily budgets. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">long-term budget</span>, also called a <em>strategic budget</em>, generally covers periods of more than one year. Many insurers produce long-term budgets covering the next five to 10 years, which estimate the revenues and expenses that correspond to the company’s strategic goals."
                     },
                     {
-                        "Paragraph_txt": "A company should use the current period’s short-term budget when defining the most current year of the long-term budget. Thus, a long-term budget incorporates a company’s short-term budgets."
+                        "Paragraph_txt": "<br />A company should use the current period’s short-term budget when defining the most current year of the long-term budget. Thus, a long-term budget incorporates a company’s short-term budgets."
                     }
                 ]
             },
@@ -393,7 +363,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">rolling budget</span>, also known as a <em>continuous budget</em>, allows a company to continually maintain projections for a specified period into the future. A company that uses a six-month rolling budget would update the budget at the end of each month, generally removing the past month and adding another month in the future, so that budget projections always apply to the coming six-month period. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">period budget</span> covers a specific time frame, such as one month or one year, and expires at the end of that time frame. A period budget may be short-term or long-term, depending on the length of the time frame covered. The figures in the period budget do not change during the time frame covered by the budget. As variances occur, a company would incorporate the variances into the process of projecting the figures for the next period’s budget."
                     },
                     {
-                        "Paragraph_txt": "A rolling budget is in essence a series of smaller period budgets. Because a company regularly updates a rolling budget based on the results of the most recent period, a rolling budget can maintain a higher degree of accuracy than can a period budget. However, maintaining a rolling budget generally requires a higher level of management attention and resources compared to a period budget. Figure 15.2 depicts a rolling sales revenue budget."
+                        "Paragraph_txt": "<br />A rolling budget is in essence a series of smaller period budgets. Because a company regularly updates a rolling budget based on the results of the most recent period, a rolling budget can maintain a higher degree of accuracy than can a period budget. However, maintaining a rolling budget generally requires a higher level of management attention and resources compared to a period budget. Figure 15.2 depicts a rolling sales revenue budget."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 15.2 A Rolling Budget</strong>"
                     }
                 ]
             },
@@ -416,7 +419,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 15.2</strong> A Rolling Budget",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -427,7 +430,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "Suppose the Electrum Life Insurance Company creates a rolling budget for the period January 1 to June 30. If Electrum updates the budget monthly, then it presents a new budget on February 1 to reflect the six-month period from that date until July 31. Electrum repeats this procedure for March 1 to August 31, April 1 to September 30, and so on. Each new budget represents Electrum’s revised projections for the coming six-month period.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -450,6 +453,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "Suppose the Electrum Life Insurance Company creates a rolling budget for the period January 1 to June 30. If Electrum updates the budget monthly, then it presents a new budget on February 1 to reflect the six-month period from that date until July 31. Electrum repeats this procedure for March 1 to August 31, April 1 to September 30, and so on. Each new budget represents Electrum’s revised projections for the coming six-month period."
                     }
                 ]
             },

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Activity-Based Costing",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall from Chapter 13 that an <em>activity</em> is any procedure that generates work. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Activity-based costing (ABC)</span> is the process of linking costs to products or services based on the activities performed in producing the products or services. In other words, ABC identifies the costs of each activity within a particular function, and then assigns the activity costs to the appropriate products. For example, an insurer might first trace the activity of printing marketing brochures for agents to the payments made to an outside printer, and then trace the printer payments (costs) to the lines of business that used the marketing brochures."
                     },
                     {
-                        "Paragraph_txt": "Note that activity-based costing recognizes direct costs in the same way that other forms of costing do; ABC differs in how it assigns indirect costs. Traditional cost accounting systems assume that <em>products</em> generate costs; ABC assumes that <em>activities</em> generate costs. Compared to traditional cost accounting systems, ABC is more complex but provides greater accuracy. Companies that use ABC consistently are practicing <em>activity-based management (ABM)</em>."
+                        "Paragraph_txt": "<br />Note that activity-based costing recognizes direct costs in the same way that other forms of costing do; ABC differs in how it assigns indirect costs. Traditional cost accounting systems assume that <em>products</em> generate costs; ABC assumes that <em>activities</em> generate costs. Compared to traditional cost accounting systems, ABC is more complex but provides greater accuracy. Companies that use ABC consistently are practicing <em>activity-based management (ABM)</em>."
                     }
                 ]
             },
@@ -243,7 +213,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "To provide products, a company engages in activities. These activities consume resources—such as labor, supplies, and computer time—and produce outputs, such as a check for an approved claim. ABC identifies each activity, calculates the costs of performing each unit of activity, and then assigns the cost of each unit of activity to a unit of output or production. ABC also includes activities that do not link directly to a specific product. For instance, an online security upgrade safeguards all of a company’s products; therefore, ABC might classify the upgrade as an indirect cost and distribute the cost of this upgrade among all of the company’s products."
                     },
                     {
-                        "Paragraph_txt": "The primary benefits of ABC are that it provides a solid basis for assigning costs to products and assists management in identifying non-value-added activities. By identifying the specific costs of performing tasks and activities, management can determine the relationship between costs and products. The intended result of ABC is more accurate pricing and more effective cost control. To establish an ABC system, a company generally follows the steps illustrated in Figure 14.4."
+                        "Paragraph_txt": "<br />The primary benefits of ABC are that it provides a solid basis for assigning costs to products and assists management in identifying non-value-added activities. By identifying the specific costs of performing tasks and activities, management can determine the relationship between costs and products. The intended result of ABC is more accurate pricing and more effective cost control. To establish an ABC system, a company generally follows the steps illustrated in Figure 14.4."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 14.4 The Process of Activity-Based Costing</strong>"
                     }
                 ]
             },
@@ -266,7 +269,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 14.4</strong> The Process of Activity-Based Costing",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -337,6 +340,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 14.5 Traditional and Activity-Based Costing</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "14-5figure.jpg",
@@ -355,7 +391,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 14.5</strong> Traditional and Activity-Based Costing",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Auditing",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -372,10 +342,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Auditors review an insurer’s records in part to uncover unintentional errors or false information in the insurer’s accounting records and financial statements. Auditors also look for evidence of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fraud</span>, which is the intentional use of false information to mislead another party. Although an insurer’s internal controls may be effective against fraud committed by one person, they may be less effective at detecting fraud that arises from collusion. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Collusion</span> is a secret agreement entered into by two or more persons to perpetrate an illegal act. People use collusion to circumvent controls, such as segregation of duties or authorization levels."
                     },
                     {
-                        "Paragraph_txt": "Auditors often use an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">audit trail</span>, which is a chronological, sequential set of accounting records and reports from the beginning to the end of a business transaction. By following an audit trail, an auditor may be able to isolate any breach of control and bring it to the attention of the insurer and insurance regulators. An auditor who examines an insurer’s audit trails for a variety of financial transactions can also identify the overall strengths and weaknesses of the insurer’s system of internal controls."
+                        "Paragraph_txt": "<br />Auditors often use an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">audit trail</span>, which is a chronological, sequential set of accounting records and reports from the beginning to the end of a business transaction. By following an audit trail, an auditor may be able to isolate any breach of control and bring it to the attention of the insurer and insurance regulators. An auditor who examines an insurer’s audit trails for a variety of financial transactions can also identify the overall strengths and weaknesses of the insurer’s system of internal controls."
                     },
                     {
-                        "Paragraph_txt": "Examining every accounting entry to verify each financial transaction would be impractical and costly. Instead, auditors rely on a system of statistical sampling in which they examine a portion of the company’s accounts, transactions, and operations. Samples are chosen according to sound statistical methods, which provide auditors with a reasonable level of confidence that all the company’s accounts, transactions, and operations are as valid as those in the sample. In many cases, an auditor reviews transactions at only two or three key points in the process. Such a review indicates whether related transactions have been processed similarly."
+                        "Paragraph_txt": "<br />Examining every accounting entry to verify each financial transaction would be impractical and costly. Instead, auditors rely on a system of statistical sampling in which they examine a portion of the company’s accounts, transactions, and operations. Samples are chosen according to sound statistical methods, which provide auditors with a reasonable level of confidence that all the company’s accounts, transactions, and operations are as valid as those in the sample. In many cases, an auditor reviews transactions at only two or three key points in the process. Such a review indicates whether related transactions have been processed similarly."
                     }
                 ]
             },
@@ -411,13 +381,46 @@ Lesson_Data_File([
                         "Paragraph_txt": "Typically, internal audits focus on an insurer’s (1) accounting records and financial statements, (2) regulatory compliance, (3) external auditor findings, (4) tax reporting, and (5) operating efficiency with respect to company policies and procedures. An insurer may organize its internal auditing function by regional office, distribution system, or line of business."
                     },
                     {
-                        "Paragraph_txt": "To conduct a thorough internal audit, internal auditors may need to consult with a specialist in certain technical areas. For example, an internal auditor who has a question about how the insurer determines contractual benefit payments for specific life insurance products may need to consult an actuary."
+                        "Paragraph_txt": "<br />To conduct a thorough internal audit, internal auditors may need to consult with a specialist in certain technical areas. For example, an internal auditor who has a question about how the insurer determines contractual benefit payments for specific life insurance products may need to consult an actuary."
                     },
                     {
-                        "Paragraph_txt": "Most companies view internal audits as a preventive measure, to uncover potential problems, or to discover ideas for improving a particular process. To remain objective, a company’s internal auditors should have unrestricted access to all records, procedures, files, and reports that concern the scope of the audit. In addition, they should not directly supervise or report to the areas they audit. Internal auditors usually report to a senior-level executive or to the audit committee of the insurer’s board of directors."
+                        "Paragraph_txt": "<br />Most companies view internal audits as a preventive measure, to uncover potential problems, or to discover ideas for improving a particular process. To remain objective, a company’s internal auditors should have unrestricted access to all records, procedures, files, and reports that concern the scope of the audit. In addition, they should not directly supervise or report to the areas they audit. Internal auditors usually report to a senior-level executive or to the audit committee of the insurer’s board of directors."
                     },
                     {
-                        "Paragraph_txt": "Figure 16.6 is a flowchart of general activities typically involved in an internal audit."
+                        "Paragraph_txt": "<br />Figure 16.6 is a flowchart of general activities typically involved in an internal audit."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 16.6 Flowchart of Internal Audit Activities</strong>"
                     }
                 ]
             },
@@ -440,7 +443,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 16.6</strong> Flowchart of Internal Audit Activities",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -509,10 +512,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "The purposes of an external audit are to (1) issue an opinion as to whether a company’s financial statements are presented fairly, in all material respects, and in accordance with a given set of accounting standards; (2) review the company’s system of internal control; and (3) prepare reports of audit findings. An external audit is conducted primarily for the benefit of interested third parties, including an insurer’s stockholders, policyowners, reinsurers, creditors, and regulators. An independent public accountant who audits a company’s Annual Report—a topic we discussed in Chapter 4—is performing an external audit."
                     },
                     {
-                        "Paragraph_txt": "The use of independent auditors helps ensure that a company’s financial performance is evaluated objectively. Typically, an insurer’s external audit focuses on accounting and financial reporting functions, including the insurer’s solvency, regulatory compliance, and tax reporting. Recall from Chapter 1 that all U.S. insurance companies undergo periodic financial condition examinations, which are a specific type of external audit."
+                        "Paragraph_txt": "<br />The use of independent auditors helps ensure that a company’s financial performance is evaluated objectively. Typically, an insurer’s external audit focuses on accounting and financial reporting functions, including the insurer’s solvency, regulatory compliance, and tax reporting. Recall from Chapter 1 that all U.S. insurance companies undergo periodic financial condition examinations, which are a specific type of external audit."
                     },
                     {
-                        "Paragraph_txt": "Figure 16.7 presents a flowchart of the typical external audit process."
+                        "Paragraph_txt": "<br />Figure 16.7 presents a flowchart of the typical external audit process."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 16.7 Flowchart of an External Audit</strong>"
                     }
                 ]
             },
@@ -535,7 +571,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 16.7</strong> Flowchart of an External Audit",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -604,7 +640,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "External auditors also prepare and sign the auditor’s opinion or report, which is included in a company’s Annual Report. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">auditor’s opinion</span> is a statement prepared by a public accounting company that indicates (1) whether the information contained in an insurer’s Annual Report fairly represents the insurer’s financial position, the results of its operations, and its cash flows, and (2) whether the audit was conducted in accordance with applicable auditing standards. An auditor’s opinion does not, however, guarantee the accuracy of the financial statements."
                     },
                     {
-                        "Paragraph_txt": "Depending on the results of the audit, auditors issue one of several different types of auditor’s opinions, which are summarized below."
+                        "Paragraph_txt": "<br />Depending on the results of the audit, auditors issue one of several different types of auditor’s opinions, which are summarized below."
                     }
                 ]
             },
@@ -882,6 +918,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 16.8 Types of Audits</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "16-8figure.jpg",
@@ -900,7 +969,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 16.8</strong> Types of Audits",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

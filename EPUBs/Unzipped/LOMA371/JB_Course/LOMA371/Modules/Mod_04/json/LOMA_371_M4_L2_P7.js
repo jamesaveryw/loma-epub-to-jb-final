@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Indexed Crediting for Fixed Indexed Annuities",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,16 +115,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because fixed indexed annuities (FIAs) are a special type of fixed deferred annuity, they have an accumulated value, a surrender value, a death benefit, and payout options. Although FIAs permit flexible premiums, most are purchased with a single premium."
                     },
                     {
-                        "Paragraph_txt": "The main difference between FIAs and nonindexed fixed deferred annuities is the FIA crediting mechanism, known as <em>indexed crediting</em>. With <span class=\"keyterm\" tabindex=\"0\" role=\"button\">indexed crediting</span>, the FIA contract guarantees that the insurance company will periodically award monetary credits to the contract’s accumulated value on a specified basis; the credits are related to the growth rate in a specified external index of stock prices. The monetary credits awarded to the contract’s value are known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">index credits</span>. The specified external index is known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">reference index</span> or the <em>benchmark index</em>. In many FIAs, the reference index is the Standard &amp; Poor’s 500 (S&amp;P 500) index."
+                        "Paragraph_txt": "<br />The main difference between FIAs and nonindexed fixed deferred annuities is the FIA crediting mechanism, known as <em>indexed crediting</em>. With <span class=\"keyterm\" tabindex=\"0\" role=\"button\">indexed crediting</span>, the FIA contract guarantees that the insurance company will periodically award monetary credits to the contract’s accumulated value on a specified basis; the credits are related to the growth rate in a specified external index of stock prices. The monetary credits awarded to the contract’s value are known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">index credits</span>. The specified external index is known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">reference index</span> or the <em>benchmark index</em>. In many FIAs, the reference index is the Standard &amp; Poor’s 500 (S&amp;P 500) index."
                     },
                     {
-                        "Paragraph_txt": "FIAs have some features not found in other annuity products. For instance, the contract owner typically must leave the money in the chosen index-crediting method for a specified minimum contract term. The <em>contract term</em> is the length of time over which the insurer will calculate interest for the contract’s accumulated value."
+                        "Paragraph_txt": "<br />FIAs have some features not found in other annuity products. For instance, the contract owner typically must leave the money in the chosen index-crediting method for a specified minimum contract term. The <em>contract term</em> is the length of time over which the insurer will calculate interest for the contract’s accumulated value."
                     },
                     {
-                        "Paragraph_txt": "As another example, nonforfeiture laws that apply to all individual deferred annuities set a minimum surrender value typically equal to 87.5 percent of premiums paid, with the surrender value accumulated at 1 to 3 percent interest for the term the contract has been in force. An FIA could, in theory, permit the contract owner to lose some of the premium upon surrender after a prolonged market downturn. However, this outcome is unlikely if the FIA contract contains provisions protecting the value of the premium."
+                        "Paragraph_txt": "<br />As another example, nonforfeiture laws that apply to all individual deferred annuities set a minimum surrender value typically equal to 87.5 percent of premiums paid, with the surrender value accumulated at 1 to 3 percent interest for the term the contract has been in force. An FIA could, in theory, permit the contract owner to lose some of the premium upon surrender after a prolonged market downturn. However, this outcome is unlikely if the FIA contract contains provisions protecting the value of the premium."
                     },
                     {
-                        "Paragraph_txt": "In general, the index-crediting formula calculates index credits by multiplying an FIA contract’s accumulated value by the crediting rate, which is based on the reference index’s growth rate but is affected by provisions. Some indexed-crediting provisions limit how much the insurer contributes to the accumulated value. Other provisions serve to protect the contract owner if the reference index fails to achieve growth. In addition, insurers have several options for calculating index credits."
+                        "Paragraph_txt": "<br />In general, the index-crediting formula calculates index credits by multiplying an FIA contract’s accumulated value by the crediting rate, which is based on the reference index’s growth rate but is affected by provisions. Some indexed-crediting provisions limit how much the insurer contributes to the accumulated value. Other provisions serve to protect the contract owner if the reference index fails to achieve growth. In addition, insurers have several options for calculating index credits."
                     }
                 ]
             },
@@ -314,7 +284,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An insurance company’s first step in determining the amount of index credits to award to an FIA contract is to establish the contract term. Most FIAs have terms that range from one year to ten years, with six or seven years being the most common."
                     },
                     {
-                        "Paragraph_txt": "Insurers can calculate the index credits an FIA receives in a variety of ways. Rather than attempt to describe all the variations, we present three basic methods: the annual reset method, the point-to-point method, and the high water mark method."
+                        "Paragraph_txt": "<br />Insurers can calculate the index credits an FIA receives in a variety of ways. Rather than attempt to describe all the variations, we present three basic methods: the annual reset method, the point-to-point method, and the high water mark method."
                     }
                 ]
             },
@@ -350,7 +320,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">annual reset method</span>, also known as the <em>ratchet method</em>, involves comparing the value of the reference index at the start of each contract year with the value at the end of the year. For the next year, the starting value is “reset” to the ending value from the previous year. Under this method, the index values are reset at the beginning of each contract year during the term of the contract."
                     },
                     {
-                        "Paragraph_txt": "The annual reset method allows the contract owner to lock in gains each year and avoid losses. When the market goes up, the contract owner earns excess interest. When the market remains stable or goes down, the contract neither gains nor loses value. The following insight provides an example of applying the annual reset method."
+                        "Paragraph_txt": "<br />The annual reset method allows the contract owner to lock in gains each year and avoid losses. When the market goes up, the contract owner earns excess interest. When the market remains stable or goes down, the contract neither gains nor loses value. The following insight provides an example of applying the annual reset method."
                     }
                 ]
             },
@@ -581,16 +551,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "The accumulated value of Madeline’s FIA grows as follows:"
                     },
                     {
-                        "Paragraph_txt": "At the end of the first year, the 20 percent growth in the index is adjusted for the participation percentage of 90 percent as follows: 0.20 <strong>×</strong> 0.90 = 0.18, or 18 percent. Because 18 percent exceeds the cap of 12 percent, the contract value of $100,000 grows by 12 percent, resulting in <strong>$112,000 </strong>(found as $100,000 <strong>×</strong> 1.12)."
+                        "Paragraph_txt": "<br />At the end of the first year, the 20 percent growth in the index is adjusted for the participation percentage of 90 percent as follows: 0.20 <strong>×</strong> 0.90 = 0.18, or 18 percent. Because 18 percent exceeds the cap of 12 percent, the contract value of $100,000 grows by 12 percent, resulting in <strong>$112,000 </strong>(found as $100,000 <strong>×</strong> 1.12)."
                     },
                     {
-                        "Paragraph_txt": "For the second year, the index grew 10 percent. Adjusting for the participation percentage of 90 percent, the insurer calculates 9 percent as the interest rate to apply to the contract (found as 0.10 <strong>×</strong> 0.90). Because 9 percent is less than the cap of 12 percent, the contract grows by 9 percent, as follows: $112,000 <strong>×</strong> 1.09 = <strong>$122,080</strong>."
+                        "Paragraph_txt": "<br />For the second year, the index grew 10 percent. Adjusting for the participation percentage of 90 percent, the insurer calculates 9 percent as the interest rate to apply to the contract (found as 0.10 <strong>×</strong> 0.90). Because 9 percent is less than the cap of 12 percent, the contract grows by 9 percent, as follows: $112,000 <strong>×</strong> 1.09 = <strong>$122,080</strong>."
                     },
                     {
-                        "Paragraph_txt": "The index dropped in value for the third and fourth years, so the insurer did not credit the contract’s accumulated value with interest for either of those years."
+                        "Paragraph_txt": "<br />The index dropped in value for the third and fourth years, so the insurer did not credit the contract’s accumulated value with interest for either of those years."
                     },
                     {
-                        "Paragraph_txt": "For the fifth year, the index grew by 10 percent, the same value for the second year. Thus, the contract value for this year grew by 90 percent of 10 percent, or 9 percent (0.10 <strong>×</strong> 0.90). Again, 9 percent is less than the cap of 12 percent. Therefore, the contract value at the end of the fifth year is $122,080 <strong>×</strong> 1.09 = <strong>$133,067.20</strong>."
+                        "Paragraph_txt": "<br />For the fifth year, the index grew by 10 percent, the same value for the second year. Thus, the contract value for this year grew by 90 percent of 10 percent, or 9 percent (0.10 <strong>×</strong> 0.90). Again, 9 percent is less than the cap of 12 percent. Therefore, the contract value at the end of the fifth year is $122,080 <strong>×</strong> 1.09 = <strong>$133,067.20</strong>."
                     }
                 ]
             },
@@ -653,7 +623,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">point-to-point method</span> compares the value of the reference index at the start of the annuity contract term to the value at the end of the term to determine what, if any, interest has accrued because of a change in the index. If the value of the index at the end of the term is higher than the value at the beginning of the term, the contract’s accumulated value will earn index credits. If the index shows negative growth or no growth, the accumulated value will not be credited."
                     },
                     {
-                        "Paragraph_txt": "Because earnings depend only on the value of the index at the end of the term, they are insulated from the effects of short-term fluctuations during the term. As long as the index values rise overall, the insulating effect can be an advantage. On the other hand, if values over the term stagnate or decline, it can be a disadvantage because contract owners cannot lock in short-term gains."
+                        "Paragraph_txt": "<br />Because earnings depend only on the value of the index at the end of the term, they are insulated from the effects of short-term fluctuations during the term. As long as the index values rise overall, the insulating effect can be an advantage. On the other hand, if values over the term stagnate or decline, it can be a disadvantage because contract owners cannot lock in short-term gains."
                     }
                 ]
             },
@@ -716,10 +686,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Let’s assume that our FIA owner, Madeline Zelpha, has the same contract as described in the insight above, with the same index growth as shown in the table. Instead of the annual reset method, she picks the point-to-point method."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: With the point-to-point method, computing the index growth is relatively easy because there are only two values to compare: the value of the index at the beginning of the contract term, 500, and the value at the end of the contract term, 605. The growth in the index, therefore, is found as follows:"
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: With the point-to-point method, computing the index growth is relatively easy because there are only two values to compare: the value of the index at the beginning of the contract term, 500, and the value at the end of the contract term, 605. The growth in the index, therefore, is found as follows:"
                     },
                     {
-                        "Paragraph_txt": "<span class=\"needs-edit equation\">[[MathML equation. NEEDS EDIT!]]</span>"
+                        "Paragraph_txt": "<br /><span class=\"needs-edit equation\">[[MathML equation. NEEDS EDIT!]]</span>"
                     }
                 ]
             },
@@ -862,7 +832,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">high water mark method</span> compares the value of the reference index at the beginning of the contract term with the highest value—or high water mark—that the index reaches on any contract anniversary date during the term. If the index has gained in value on the high water mark compared to the value at the beginning of the term, the contract’s accumulated value earns index credits for the contract term. However, if the index value at the high water mark is the same as or less than the index value at the start of the contract term, the accumulated value does not earn index credits. As a result, this method—like the annual reset method and the point-to-point method—allows the contract owner to take advantage of index gains without being subject to index losses."
                     },
                     {
-                        "Paragraph_txt": "The advantage of using high water marks rather than year-end or term-end values is that earnings are not dependent on index growth at the end of each contract year or at the end of the term. According to this method, the index need only show growth on any contract anniversary date in order to earn index credits."
+                        "Paragraph_txt": "<br />The advantage of using high water marks rather than year-end or term-end values is that earnings are not dependent on index growth at the end of each contract year or at the end of the term. According to this method, the index need only show growth on any contract anniversary date in order to earn index credits."
                     }
                 ]
             },
@@ -925,7 +895,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Now suppose that Madeline Zelpha purchased her FIA contract with a single premium payment of $100,000 and chose the high water mark method of crediting interest. This FIA has an 80 percent participation percentage and no cap or yield spread. (The high water mark method does not generally impose caps.)"
                     },
                     {
-                        "Paragraph_txt": "The reference index values are the following on the purchase date and each of the four contract anniversary dates:"
+                        "Paragraph_txt": "<br />The reference index values are the following on the purchase date and each of the four contract anniversary dates:"
                     }
                 ]
             },
@@ -1072,10 +1042,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Analysis</strong>: As with the point-to-point method, only two values matter: the value of the index at the beginning of the contract term—500—and the highest value that the index reached on any contract anniversary date—600. The growth in the index, therefore, is found as follows:"
                     },
                     {
-                        "Paragraph_txt": "<span class=\"needs-edit equation\">[[MathML equation. NEEDS EDIT!]]</span>"
+                        "Paragraph_txt": "<br /><span class=\"needs-edit equation\">[[MathML equation. NEEDS EDIT!]]</span>"
                     },
                     {
-                        "Paragraph_txt": "The index growth of 20 percent, adjusted for the participation percentage of 80 percent, is equal to 16 percent (0.20 × 0.80 = 0.16). As a result, the contract’s accumulated value earns 16 percent in interest for the term:"
+                        "Paragraph_txt": "<br />The index growth of 20 percent, adjusted for the participation percentage of 80 percent, is equal to 16 percent (0.20 × 0.80 = 0.16). As a result, the contract’s accumulated value earns 16 percent in interest for the term:"
                     }
                 ]
             },

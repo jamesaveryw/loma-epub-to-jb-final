@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Sources and Uses of Funds for Capital and Surplus",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Earlier in the text, we discussed the flow of funds in an insurance company. Recall that, in general, <em>sources of funds</em> result from cash inflows, or money coming into the company. In contrast, <em>uses of funds</em> generally result from cash outflows, or money going out of the company. These cash inflows (sources) and cash outflows (uses) affect an insurer’s asset accounts—especially its <em>Cash</em> account—as well as its owners’ equity accounts—in particular, <em>Capital</em> and <em>Surplus</em>."
                     },
                     {
-                        "Paragraph_txt": "An insurer may generate cash flows internally or externally. The following table presents the differences between internal sources and uses of funds and external sources and uses of funds."
+                        "Paragraph_txt": "<br />An insurer may generate cash flows internally or externally. The following table presents the differences between internal sources and uses of funds and external sources and uses of funds."
                     }
                 ]
             },
@@ -737,7 +707,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "A detailed discussion of these effects is outside the scope of this textbook."
                     },
                     {
-                        "Paragraph_txt": "Figure 9.2 summarizes a life insurer’s typical internal sources and uses of funds for capital and surplus."
+                        "Paragraph_txt": "<br />Figure 9.2 summarizes a life insurer’s typical internal sources and uses of funds for capital and surplus."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.2 Internal Sources and Uses of Funds</strong>"
                     }
                 ]
             },
@@ -760,7 +763,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.2</strong> Internal Sources and Uses of Funds",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -862,7 +865,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In certain situations, a direct writer that cedes insurance risk to a reinsurer is able to increase its capital and surplus. Recall that, under the terms of some types of reinsurance arrangements, the reinsurer assumes some of the direct writer’s liability for benefit payments and agrees to establish reserves for the reinsured portion of the risk. Because this use of reinsurance allows a direct writer to establish a lower amount of contractual reserves than it otherwise would, the direct writer’s surplus is higher than it would have been without the reinsurance."
                     },
                     {
-                        "Paragraph_txt": "In contrast, an insurer can serve as the reinsurer in a reinsurance transaction, assuming part or all of the risk from the direct writer. In this situation, the reinsurer’s surplus decreases because it has to increase its contractual reserves to cover the additional risk it has assumed. Simply put, if the insurer increases contractual reserves (a liability), all other factors remaining equal, then surplus (an owners’ equity account) must decrease to keep the basic accounting equation in balance."
+                        "Paragraph_txt": "<br />In contrast, an insurer can serve as the reinsurer in a reinsurance transaction, assuming part or all of the risk from the direct writer. In this situation, the reinsurer’s surplus decreases because it has to increase its contractual reserves to cover the additional risk it has assumed. Simply put, if the insurer increases contractual reserves (a liability), all other factors remaining equal, then surplus (an owners’ equity account) must decrease to keep the basic accounting equation in balance."
                     }
                 ]
             },
@@ -898,7 +901,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Sometimes an insurer wishes to sell in-force business, perhaps to exit a current market or reduce its presence in a current market. An insurer that sells in-force business may be able to increase its capital and surplus. If the difference between the in-force business sold and the reserves released on that business produces a gain, then an insurer’s surplus increases."
                     },
                     {
-                        "Paragraph_txt": "Conversely, an insurer may decide to purchase in-force business from another insurer, perhaps to enter a new market or increase its presence in a current market. By purchasing in-force business from another insurer, an insurer typically experiences a decrease in its capital and surplus. The purchase decreases the insurer’s assets, or <em>Cash </em>account, and increases the insurer’s liabilities, because the insurer must establish reserves for the in-force business. To keep the basic accounting equation in balance, the insurer’s capital and surplus must decrease, as shown in the following balance sheet:"
+                        "Paragraph_txt": "<br />Conversely, an insurer may decide to purchase in-force business from another insurer, perhaps to enter a new market or increase its presence in a current market. By purchasing in-force business from another insurer, an insurer typically experiences a decrease in its capital and surplus. The purchase decreases the insurer’s assets, or <em>Cash </em>account, and increases the insurer’s liabilities, because the insurer must establish reserves for the in-force business. To keep the basic accounting equation in balance, the insurer’s capital and surplus must decrease, as shown in the following balance sheet:"
                     }
                 ]
             },
@@ -1024,13 +1027,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, stock insurers have the option of raising capital by issuing stocks or bonds, but mutual insurers and fraternal insurers have neither of these options. Enter the <em>surplus note</em>—also known as a <em>surplus debenture</em> or a <em>contribution certificate</em>. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">surplus note</span>is a special type of unsecured debt security issued only by insurance companies. All types of insurance companies in the United States can issue surplus notes. Although mutual insurers and fraternal insurers are the most common issuers of surplus notes, stock insurers sometimes issue them. For stock insurers, surplus notes represent a way of raising capital in addition to—or in lieu of—issuing common or preferred stock. "
                     },
                     {
-                        "Paragraph_txt": "Insurers typically issue and sell surplus notes to raise money for normal business operations or for expansion purposes. The issuer of a surplus note (the insurer) agrees to make payments of principal and interest according to a fixed schedule. Issuing surplus notes is an external source of funds for an insurer."
+                        "Paragraph_txt": "<br />Insurers typically issue and sell surplus notes to raise money for normal business operations or for expansion purposes. The issuer of a surplus note (the insurer) agrees to make payments of principal and interest according to a fixed schedule. Issuing surplus notes is an external source of funds for an insurer."
                     },
                     {
-                        "Paragraph_txt": "One key advantage of issuing surplus notes is that, under statutory accounting, surplus notes are classified as <em>Surplus</em>; in other words, issuing surplus notes increases an insurer’s surplus, not its liabilities. In order to receive this treatment, though, an insurer’s surplus notes must receive approval from the insurance commissioner in the insurer’s state of domicile. As part of the approval process, the surplus notes must contain a provision stating that interest payments and principal repayments require prior approval of the commissioner of the state of domicile."
+                        "Paragraph_txt": "<br />One key advantage of issuing surplus notes is that, under statutory accounting, surplus notes are classified as <em>Surplus</em>; in other words, issuing surplus notes increases an insurer’s surplus, not its liabilities. In order to receive this treatment, though, an insurer’s surplus notes must receive approval from the insurance commissioner in the insurer’s state of domicile. As part of the approval process, the surplus notes must contain a provision stating that interest payments and principal repayments require prior approval of the commissioner of the state of domicile."
                     },
                     {
-                        "Paragraph_txt": "Under statutory accounting, an insurer records the proceeds from a sale of surplus notes using one accounting entry that shows an increase in the issuing company’s capital and surplus accounts, and another entry that shows an increase in <em>Cash</em>, with no changes in the insurer’s liabilities, as illustrated in the following statutory balance sheet:"
+                        "Paragraph_txt": "<br />Under statutory accounting, an insurer records the proceeds from a sale of surplus notes using one accounting entry that shows an increase in the issuing company’s capital and surplus accounts, and another entry that shows an increase in <em>Cash</em>, with no changes in the insurer’s liabilities, as illustrated in the following statutory balance sheet:"
                     }
                 ]
             },
@@ -1188,7 +1191,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Note that repaying surplus notes is an external use of an insurer’s funds."
                     },
                     {
-                        "Paragraph_txt": "Video 9.4 summarizes surplus notes under SAP and GAAP."
+                        "Paragraph_txt": "<br />Video 9.4 summarizes surplus notes under SAP and GAAP."
                     }
                 ]
             },
@@ -1412,6 +1415,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.3 External Sources and Uses of Funds</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "9-3figure.jpg",
@@ -1430,7 +1466,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.3</strong> External Sources and Uses of Funds",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

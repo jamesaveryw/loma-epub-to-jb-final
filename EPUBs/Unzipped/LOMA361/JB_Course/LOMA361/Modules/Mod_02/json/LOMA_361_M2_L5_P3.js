@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Surplus Accounts",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +148,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For insurers in the United States, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">special surplus</span>, also called <em>special surplus funds</em>, <em>assigned surplus</em>, <em>appropriated surplus</em>, <em>earmarked surplus</em>, or <em>contingency reserves</em>, consists of the part of the insurer’s surplus that the insurer’s board of directors has set aside to (1) meet unforeseen contingencies or (2) pay for certain extraordinary expenses. Amounts in the <em>Special Surplus</em> account are not available for distribution to stockowners or policyowners, nor do they replace an insurer’s obligation to establish liabilities for expected occurrences."
                     },
                     {
-                        "Paragraph_txt": "The amount in an insurer’s <em>Special Surplus</em> can be voluntary or involuntary, depending on statutory requirements. In the case of voluntary special surplus funds, an insurer’s board of directors can designate the amount of special surplus. An insurer uses an involuntary special surplus account only for a specified purpose."
+                        "Paragraph_txt": "<br />The amount in an insurer’s <em>Special Surplus</em> can be voluntary or involuntary, depending on statutory requirements. In the case of voluntary special surplus funds, an insurer’s board of directors can designate the amount of special surplus. An insurer uses an involuntary special surplus account only for a specified purpose."
                     }
                 ]
             },
@@ -214,16 +184,49 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <em>Unassigned Surplus</em> account under statutory accounting is similar to the <em>Retained Earnings</em> account under U.S. GAAP in that <em>Unassigned Surplus</em> represents the accumulation of income not paid out in dividends. For insurers in the United States, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">unassigned surplus</span>, also called <em>unassigned surplus funds</em>, <em>divisible surplus</em>, or <em>free surplus</em>, is the total amount of undistributed and unapportioned surplus remaining in the insurance company since the company began operations."
                     },
                     {
-                        "Paragraph_txt": "Unassigned surplus is available to meet any contingency that arises, including new business, outstanding debt, or the purchase of treasury stock or retired stock. An insurer can also use unassigned surplus to satisfy a contingency that has since exhausted the special surplus fund the insurer originally established for that contingency or to pay operating expenses when a company experiences a net loss during a year."
+                        "Paragraph_txt": "<br />Unassigned surplus is available to meet any contingency that arises, including new business, outstanding debt, or the purchase of treasury stock or retired stock. An insurer can also use unassigned surplus to satisfy a contingency that has since exhausted the special surplus fund the insurer originally established for that contingency or to pay operating expenses when a company experiences a net loss during a year."
                     },
                     {
-                        "Paragraph_txt": "When an insurer pays dividends to its owners, it withdraws them from unassigned surplus. However, the insurer’s ability to declare a dividend on its stock depends on the amount available in its <em>Retained Earnings</em> account (GAAP) or <em>Unassigned Surplus</em> account (SAP). Ultimately, the more dividends an insurer pays to its owners, the lower the amount of growth possible in <em>Retained Earnings</em> or <em>Unassigned Surplus</em>. States may require approval for an insurer to pay dividends to its owners. For example, state regulations could limit stockholder dividends to a proportion of the insurer’s <em>Unassigned Surplus</em> so that the insurer can maintain an adequate level of surplus."
+                        "Paragraph_txt": "<br />When an insurer pays dividends to its owners, it withdraws them from unassigned surplus. However, the insurer’s ability to declare a dividend on its stock depends on the amount available in its <em>Retained Earnings</em> account (GAAP) or <em>Unassigned Surplus</em> account (SAP). Ultimately, the more dividends an insurer pays to its owners, the lower the amount of growth possible in <em>Retained Earnings</em> or <em>Unassigned Surplus</em>. States may require approval for an insurer to pay dividends to its owners. For example, state regulations could limit stockholder dividends to a proportion of the insurer’s <em>Unassigned Surplus</em> so that the insurer can maintain an adequate level of surplus."
                     },
                     {
-                        "Paragraph_txt": "Before declaring dividends to its owners, an insurance company’s board of directors uses <em>Unassigned Surplus</em> as one factor in determining the dividend amount. Two primary factors in determining the amount of <em>Unassigned Surplus</em> available for distribution to an insurer’s owners are (1) the amount of business that the insurer writes and (2) the contractual agreements that the insurer has, such as loan agreements that might affect its future financial situation. Once the board of directors has declared a stockholder dividend, it becomes a liability to the insurer."
+                        "Paragraph_txt": "<br />Before declaring dividends to its owners, an insurance company’s board of directors uses <em>Unassigned Surplus</em> as one factor in determining the dividend amount. Two primary factors in determining the amount of <em>Unassigned Surplus</em> available for distribution to an insurer’s owners are (1) the amount of business that the insurer writes and (2) the contractual agreements that the insurer has, such as loan agreements that might affect its future financial situation. Once the board of directors has declared a stockholder dividend, it becomes a liability to the insurer."
                     },
                     {
-                        "Paragraph_txt": "Figure 9.1 summarizes the key capital and surplus accounts that differ under U.S. GAAP and SAP."
+                        "Paragraph_txt": "<br />Figure 9.1 summarizes the key capital and surplus accounts that differ under U.S. GAAP and SAP."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.1 Key Capital and Surplus Accounts under U.S. GAAP and SAP</strong>"
                     }
                 ]
             },
@@ -246,7 +249,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.1</strong> Key Capital and Surplus Accounts under U.S. GAAP and SAP",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

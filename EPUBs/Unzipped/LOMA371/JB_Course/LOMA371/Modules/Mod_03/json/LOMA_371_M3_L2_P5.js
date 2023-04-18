@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Adjusting Tabular Mortality Rates",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "As noted earlier, when developing mortality assumptions, actuaries may adjust mortality rates to acknowledge trends or other factors that may cause future mortality to differ from actual mortality experience. For example, demographers have noted a long-term trend of small decreases in mortality over time. Because of this trend, mortality rates and tables based on experience alone generally may not reliably indicate future mortality."
                     },
                     {
-                        "Paragraph_txt": "Mortality tables that have not been adjusted to account for future changes in mortality are called<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> static mortality tables</span>. By contrast, a common form of adjusted mortality table is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">generational mortality table</span> <em>, </em>or<em> dynamic mortality table</em>, in which mortality rates are dependent on both the person’s age and the year the person attains that age. For example, a static mortality table assumes that a 65-year-old in 2040 will have the same life expectancy as a 65-year-old in 2020. In contrast, a generational mortality table generally assumes that a group of 65-year-olds in 2040 will have a lower mortality rate than 65-year-olds in 2020, or in some cases, a higher mortality rate. Generational mortality tables are more complicated to create and use than are static mortality tables, but offer more precise estimations of how longevity may change between generations. Many insurers use a blend of the two approaches by taking a static mortality table and applying a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortality improvement scale</span>, which is a published set of recommended adjustments to mortality tables. The recommended adjustments in a mortality improvement scale are based on recent projections of mortality trends. Industry organizations such as the SOA are the most common source of mortality improvement scales."
+                        "Paragraph_txt": "<br />Mortality tables that have not been adjusted to account for future changes in mortality are called<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> static mortality tables</span>. By contrast, a common form of adjusted mortality table is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">generational mortality table</span> <em>, </em>or<em> dynamic mortality table</em>, in which mortality rates are dependent on both the person’s age and the year the person attains that age. For example, a static mortality table assumes that a 65-year-old in 2040 will have the same life expectancy as a 65-year-old in 2020. In contrast, a generational mortality table generally assumes that a group of 65-year-olds in 2040 will have a lower mortality rate than 65-year-olds in 2020, or in some cases, a higher mortality rate. Generational mortality tables are more complicated to create and use than are static mortality tables, but offer more precise estimations of how longevity may change between generations. Many insurers use a blend of the two approaches by taking a static mortality table and applying a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortality improvement scale</span>, which is a published set of recommended adjustments to mortality tables. The recommended adjustments in a mortality improvement scale are based on recent projections of mortality trends. Industry organizations such as the SOA are the most common source of mortality improvement scales."
                     },
                     {
-                        "Paragraph_txt": "Insurers can use a number of statistical approaches for estimating future changes in mortality. Two simple methods for modifying tabular mortality rates to reflect mortality changes are the <em>projection method</em> and the <em>setback method</em>. The projection method is more complicated than the setback method, but also generally produces more accurate and subtle results than does the setback method."
+                        "Paragraph_txt": "<br />Insurers can use a number of statistical approaches for estimating future changes in mortality. Two simple methods for modifying tabular mortality rates to reflect mortality changes are the <em>projection method</em> and the <em>setback method</em>. The projection method is more complicated than the setback method, but also generally produces more accurate and subtle results than does the setback method."
                     }
                 ]
             },
@@ -335,6 +305,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 8.1 Mortality Curves with Projection</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "8-1figure.jpg",
@@ -353,7 +356,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 8.1</strong> Mortality Curves with Projection",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -544,6 +547,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 8.2 Types of Mortality Tables</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "8-2figure.jpg",
@@ -562,7 +598,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 8.2</strong> Types of Mortality Tables",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

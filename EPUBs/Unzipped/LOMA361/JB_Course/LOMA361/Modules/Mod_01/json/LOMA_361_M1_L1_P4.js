@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Fields of Accounting",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +148,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Financial accounting</span> is the field of accounting that focuses primarily on reporting a company’s financial information to meet the needs of the company’s external users. Using financial accounting, a company’s accountants communicate the results of the company’s numerous business transactions on financial statements. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Financial statements</span> are summary reports of a company’s financial condition on a specified date or of its performance during a specified period. Common financial statements, which we discuss in a later chapter, are the (1) balance sheet, (2) income statement, (3) cash flow statement, and (4) statement of owners’ equity. A company’s financial statements focus on the company’s historical, or past, financial performance and must comply with applicable laws, regulations, and accounting standards."
                     },
                     {
-                        "Paragraph_txt": "For our purposes, <em>accounting standards</em> are guidelines or rules that describe how business transactions should be measured, presented, and disclosed in financial statements. For U.S. life insurers, three important accounting standards associated with financial accounting are generally accepted accounting principles (GAAP), statutory accounting principles (SAP), and the IFRS Standards. Many U.S. insurers currently prepare two sets of financial statements—one set based on GAAP and a second set based on SAP. Some U.S. insurers even have to prepare a third set based on the IFRS Standards."
+                        "Paragraph_txt": "<br />For our purposes, <em>accounting standards</em> are guidelines or rules that describe how business transactions should be measured, presented, and disclosed in financial statements. For U.S. life insurers, three important accounting standards associated with financial accounting are generally accepted accounting principles (GAAP), statutory accounting principles (SAP), and the IFRS Standards. Many U.S. insurers currently prepare two sets of financial statements—one set based on GAAP and a second set based on SAP. Some U.S. insurers even have to prepare a third set based on the IFRS Standards."
                     }
                 ]
             },
@@ -214,7 +184,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Generally accepted accounting principles (GAAP)&nbsp;</span>are a set of financial accounting standards, conventions, and rules that all publicly traded companies must follow when summarizing transactions and preparing their financial statements. A <em>publicly traded company</em>, or <em>public company</em>, is a company whose stocks or bonds are offered for sale to the public. GAAP focuses on a company’s profitability, and financial statements prepared on a GAAP basis are generally referred to as <em>GAAP financial statements</em> or<em> GAAP statements</em>."
                     },
                     {
-                        "Paragraph_txt": "In the United States, an important report prepared using GAAP is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Annual Report</span>, which is a document that a company’s management sends to interested parties to explain the company’s financial performance during the past year. We discuss this report in detail in a later chapter."
+                        "Paragraph_txt": "<br />In the United States, an important report prepared using GAAP is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Annual Report</span>, which is a document that a company’s management sends to interested parties to explain the company’s financial performance during the past year. We discuss this report in detail in a later chapter."
                     }
                 ]
             },
@@ -250,13 +220,46 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Statutory accounting principles (SAP) </span>are accounting standards that all life insurers in the United States must follow when preparing the Annual Statement and other specified financial reports that they submit to state insurance regulators. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Annual Statement</span> is a financial report that every insurer in the United States must file annually with the National Association of Insurance Commissioners (NAIC) and the insurance regulatory organization in each state in which the insurer conducts business. We discuss the NAIC later in this chapter, and we present more detail on the Annual Statement later in the text."
                     },
                     {
-                        "Paragraph_txt": "SAP focuses on a company’s solvency, and financial statements prepared according to SAP are generally referred to as <em>STAT financial statements</em>, <em>STAT statements</em>, or <em>statutory financial statements</em>."
+                        "Paragraph_txt": "<br />SAP focuses on a company’s solvency, and financial statements prepared according to SAP are generally referred to as <em>STAT financial statements</em>, <em>STAT statements</em>, or <em>statutory financial statements</em>."
                     },
                     {
-                        "Paragraph_txt": "Note that non-U.S. insurers that conduct business in the United States must also comply with statutory reporting requirements for each state in which they conduct business."
+                        "Paragraph_txt": "<br />Note that non-U.S. insurers that conduct business in the United States must also comply with statutory reporting requirements for each state in which they conduct business."
                     },
                     {
-                        "Paragraph_txt": "Figure 1.4 compares GAAP and SAP."
+                        "Paragraph_txt": "<br />Figure 1.4 compares GAAP and SAP."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.4 Comparing Accounting Standards—GAAP and SAP</strong>"
                     }
                 ]
             },
@@ -279,7 +282,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.4</strong> Comparing Accounting Standards—GAAP and SAP",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -552,10 +555,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "For many years, international companies had to comply with separate, and sometimes conflicting, financial reporting requirements in each country in which they conducted business. These different reporting requirements made it difficult for investors and regulators to compare the financial statements of companies operating in different countries. In response to this situation, the standard-setting organization known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">International Accounting Standards Board (IASB)</span> developed a single set of global accounting standards known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">IFRS Standards</span>. The goal of these standards is to promote consistency, comparability, and more complete disclosure of the information contained in corporate financial statements."
                     },
                     {
-                        "Paragraph_txt": "Companies that issue publicly traded securities in countries that have adopted the IFRS Standards must prepare their financial statements according to these standards. At the present time, the United States generally does not require the use of the IFRS Standards for domestic companies with publicly traded securities. However, foreign companies whose stock is traded in the United States are now permitted—but not required—to use these standards. Note that a U.S. insurer may be required to use these standards in certain situations, such as if the insurer is a subsidiary of a foreign company, or if it plans to raise capital from other countries."
+                        "Paragraph_txt": "<br />Companies that issue publicly traded securities in countries that have adopted the IFRS Standards must prepare their financial statements according to these standards. At the present time, the United States generally does not require the use of the IFRS Standards for domestic companies with publicly traded securities. However, foreign companies whose stock is traded in the United States are now permitted—but not required—to use these standards. Note that a U.S. insurer may be required to use these standards in certain situations, such as if the insurer is a subsidiary of a foreign company, or if it plans to raise capital from other countries."
                     },
                     {
-                        "Paragraph_txt": "Although the United States has not adopted the IFRS Standards, more than 100 countries around the world require the use of these standards for public companies."
+                        "Paragraph_txt": "<br />Although the United States has not adopted the IFRS Standards, more than 100 countries around the world require the use of these standards for public companies."
                     }
                 ]
             },
@@ -659,10 +662,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Management accounting </span>is the field of accounting that focuses primarily on identifying, measuring, analyzing, and communicating financial information to a company’s internal users, particularly company managers, so that they can decide how to best use the company’s resources. Reflecting this focus, management accounting includes activities designed to analyze operating costs, oversee budgets, and evaluate the profitability of various products and services."
                     },
                     {
-                        "Paragraph_txt": "Unlike financial accounting, which focuses on evaluating a company’s past performance, management accounting focuses on planning the company’s future performance. In addition, financial accounting is subject to specific accounting standards—such as GAAP, SAP, and IFRS—whereas management accounting is not. Lastly, only financial accounting is required by law."
+                        "Paragraph_txt": "<br />Unlike financial accounting, which focuses on evaluating a company’s past performance, management accounting focuses on planning the company’s future performance. In addition, financial accounting is subject to specific accounting standards—such as GAAP, SAP, and IFRS—whereas management accounting is not. Lastly, only financial accounting is required by law."
                     },
                     {
-                        "Paragraph_txt": "Later in this textbook, we discuss management accounting in more detail. Figure 1.5 compares management accounting and financial accounting."
+                        "Paragraph_txt": "<br />Later in this textbook, we discuss management accounting in more detail. Figure 1.5 compares management accounting and financial accounting."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.5 Management vs. Financial Accounting</strong>"
                     }
                 ]
             },
@@ -685,7 +721,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.5</strong> Management vs. Financial Accounting",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

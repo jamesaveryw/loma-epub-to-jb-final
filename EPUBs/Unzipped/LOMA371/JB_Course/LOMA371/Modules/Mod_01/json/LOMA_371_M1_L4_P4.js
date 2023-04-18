@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Modeling Approaches",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -265,7 +235,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Running a model once produces a single scenario and a single set of results. However, the objective of simulation modeling is not to produce a single forecast of future conditions based on a known or expected set of conditions. Instead, simulation modeling is designed to explore a number of “what if” situations, or scenarios. Because pricing decisions are so important, actuaries often model up to 200 interest-rate scenarios and up to 1,000 market scenarios when pricing new products."
                     },
                     {
-                        "Paragraph_txt": "Sometimes decision makers are interested in determining the best outcomes rather than an array of possible outcomes. Modeling based on this approach is referred to as <em>optimization modeling, </em>which we discuss later in this chapter."
+                        "Paragraph_txt": "<br />Sometimes decision makers are interested in determining the best outcomes rather than an array of possible outcomes. Modeling based on this approach is referred to as <em>optimization modeling, </em>which we discuss later in this chapter."
                     }
                 ]
             },
@@ -301,10 +271,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "After selecting a general approach, actuaries must decide which model to use. When deciding on a model, an actuary must understand what it will be used for, as well as the results that are needed, who will be using it, and the resources available for its use."
                     },
                     {
-                        "Paragraph_txt": "One of the considerations when choosing a model are the needs of its intended users, which may include actuaries, rating agencies, and regulators. For example, an actuary at an insurance company may need a model for valuation of a new product design, while a regulator may need a model for assessing an insurance company as a whole."
+                        "Paragraph_txt": "<br />One of the considerations when choosing a model are the needs of its intended users, which may include actuaries, rating agencies, and regulators. For example, an actuary at an insurance company may need a model for valuation of a new product design, while a regulator may need a model for assessing an insurance company as a whole."
                     },
                     {
-                        "Paragraph_txt": "The model chosen directly influences the data and resources required, the design of the model, and the form in which outputs are produced. The more detailed and complex the model, the more time is needed to determine assumptions, validate the results, and ensure the assumptions are revised as necessary. The model must strike a balance between the need for complexity and time and cost constraints."
+                        "Paragraph_txt": "<br />The model chosen directly influences the data and resources required, the design of the model, and the form in which outputs are produced. The more detailed and complex the model, the more time is needed to determine assumptions, validate the results, and ensure the assumptions are revised as necessary. The model must strike a balance between the need for complexity and time and cost constraints."
                     }
                 ]
             },
@@ -525,19 +495,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Deterministic modeling</span> is a form of quantitative modeling that simulates the real-world interactions of a stated set of input variables and produces a single set of output variables. In other words, each input variable has a single value, and each output variable has a single value. If the output variable can be predicted with 100 percent certainty based only on the input variables, a deterministic relationship exists. A simple example of a deterministic model is a model that calculates the return on an investment given the single values of money invested, interest rate, and so on."
                     },
                     {
-                        "Paragraph_txt": "The independent variables that serve as inputs are typically derived from analysis of historical experience data. For example, a deterministic model that calculates claims paid based on an assumed mortality rate would require the company to specify the mortality rate, rather than have the model select a mortality rate from a range of possible rates. A deterministic model calculates a specific result according to the chosen inputs, but it cannot verify whether those inputs are correct, or even probable."
+                        "Paragraph_txt": "<br />The independent variables that serve as inputs are typically derived from analysis of historical experience data. For example, a deterministic model that calculates claims paid based on an assumed mortality rate would require the company to specify the mortality rate, rather than have the model select a mortality rate from a range of possible rates. A deterministic model calculates a specific result according to the chosen inputs, but it cannot verify whether those inputs are correct, or even probable."
                     },
                     {
-                        "Paragraph_txt": "Although deterministic modeling does not inherently account for risks or probabilities, users can acknowledge risks through defined conditions, such as the rates used to discount cash flows. In effect, the user adjusts the inputs to reflect the risk involved."
+                        "Paragraph_txt": "<br />Although deterministic modeling does not inherently account for risks or probabilities, users can acknowledge risks through defined conditions, such as the rates used to discount cash flows. In effect, the user adjusts the inputs to reflect the risk involved."
                     },
                     {
-                        "Paragraph_txt": "Users can also acknowledge risk by basing the number of alternative scenarios they evaluate on the sensitivity of the output to changes in input values. <em>Sensitivity</em> is a measure of how responsive a dependent variable is to changes in independent variables. For most variables, insurers need between 1 and 20 scenarios to achieve a reasonable estimate. For other variables, insurers may need as many as 100 scenarios. One popular approach is to develop three possible scenarios, or groups of scenarios: a pessimistic scenario, an optimistic scenario, and a best-estimate (or most likely) scenario. Another approach includes a worst-case scenario or group of scenarios as well."
+                        "Paragraph_txt": "<br />Users can also acknowledge risk by basing the number of alternative scenarios they evaluate on the sensitivity of the output to changes in input values. <em>Sensitivity</em> is a measure of how responsive a dependent variable is to changes in independent variables. For most variables, insurers need between 1 and 20 scenarios to achieve a reasonable estimate. For other variables, insurers may need as many as 100 scenarios. One popular approach is to develop three possible scenarios, or groups of scenarios: a pessimistic scenario, an optimistic scenario, and a best-estimate (or most likely) scenario. Another approach includes a worst-case scenario or group of scenarios as well."
                     },
                     {
-                        "Paragraph_txt": "Deterministic modeling is valuable to insurers for its relative ease of use, its relatively modest demand for system resources and data, and its speed in producing decision-support information. Actuaries have long been familiar with deterministic modeling, and most insurers have in-house expertise in using deterministic methods. In addition, deterministic methods support some of the applications U.S. regulators require for monitoring insurers."
+                        "Paragraph_txt": "<br />Deterministic modeling is valuable to insurers for its relative ease of use, its relatively modest demand for system resources and data, and its speed in producing decision-support information. Actuaries have long been familiar with deterministic modeling, and most insurers have in-house expertise in using deterministic methods. In addition, deterministic methods support some of the applications U.S. regulators require for monitoring insurers."
                     },
                     {
-                        "Paragraph_txt": "However, results from deterministic modeling are highly dependent on the quality of the values assigned to input variables. To counter this potential limitation, insurers take great care in developing value estimates of the variables they model."
+                        "Paragraph_txt": "<br />However, results from deterministic modeling are highly dependent on the quality of the values assigned to input variables. To counter this potential limitation, insurers take great care in developing value estimates of the variables they model."
                     }
                 ]
             },
@@ -573,7 +543,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Life insurance companies have been using deterministic approaches to product modeling for many years. In recent years, however, insurers have been increasingly applying stochastic modeling approaches. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Stochastic modeling</span>, also known as <em>probabilistic modeling</em>, is a form of modeling in which an automatic process randomly assigns values to specified input data in order to create a large number of scenarios, conduct numerous process iterations as needed, and produce output data that can be described in the form of a probability distribution. We discuss probability distributions later in this chapter."
                     },
                     {
-                        "Paragraph_txt": "A stochastic model takes into account the uncertainty in a company’s estimated cash flows by treating one or more components of the cash flows as random variables from specified probability distributions. In contrast, a deterministic model treats all estimated cash flows as though they are certain. If the goal of a model is to produce probabilities of results, then an actuary would most likely use a stochastic model."
+                        "Paragraph_txt": "<br />A stochastic model takes into account the uncertainty in a company’s estimated cash flows by treating one or more components of the cash flows as random variables from specified probability distributions. In contrast, a deterministic model treats all estimated cash flows as though they are certain. If the goal of a model is to produce probabilities of results, then an actuary would most likely use a stochastic model."
                     }
                 ]
             },
@@ -769,19 +739,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "Stochastic modeling of financial processes is most often used to simulate real-world financial conditions, such as stock market returns and market interest rates. Stochastic models are also an increasingly useful option for modeling mortality outcomes."
                     },
                     {
-                        "Paragraph_txt": "To support probabilistic results, a stochastic model must begin with a data set of potential future outcomes for all critical variables. For example, a stochastic model used to forecast asset values would need a data set of potential real-world investment returns and a data set of potential real-world market interest rates."
+                        "Paragraph_txt": "<br />To support probabilistic results, a stochastic model must begin with a data set of potential future outcomes for all critical variables. For example, a stochastic model used to forecast asset values would need a data set of potential real-world investment returns and a data set of potential real-world market interest rates."
                     },
                     {
-                        "Paragraph_txt": "A stochastic model replicates data interactions by combining multiple data sets, one for each of the critical variables, and running thousands of iterations of the model. These thousands of iterations produce thousands of results in the form of scenarios."
+                        "Paragraph_txt": "<br />A stochastic model replicates data interactions by combining multiple data sets, one for each of the critical variables, and running thousands of iterations of the model. These thousands of iterations produce thousands of results in the form of scenarios."
                     },
                     {
-                        "Paragraph_txt": "The major benefits of stochastic modeling are a high volume of decision-support information, accompanied by assessments of probability and risk. One potential risk of stochastic modeling is that a poorly constructed model can produce greatly distorted outcomes and can lead to false confidence in the results. Stochastic methods use data values that evolve over a lengthy projected future period in a trend consistent with historical behavior. Even a small error in model construction can be greatly magnified over the course of thousands of model iterations, especially if large numbers of independent variables are involved. An additional risk associated with all computer-based modeling, stochastic or otherwise, is that flaws in either the model or the processing might go undetected."
+                        "Paragraph_txt": "<br />The major benefits of stochastic modeling are a high volume of decision-support information, accompanied by assessments of probability and risk. One potential risk of stochastic modeling is that a poorly constructed model can produce greatly distorted outcomes and can lead to false confidence in the results. Stochastic methods use data values that evolve over a lengthy projected future period in a trend consistent with historical behavior. Even a small error in model construction can be greatly magnified over the course of thousands of model iterations, especially if large numbers of independent variables are involved. An additional risk associated with all computer-based modeling, stochastic or otherwise, is that flaws in either the model or the processing might go undetected."
                     },
                     {
-                        "Paragraph_txt": "The extent to which life insurers use stochastic modeling varies. Some companies use stochastic modeling only in limited situations, such as when it is thought to be superior to deterministic modeling or when it is a regulatory requirement. Other companies apply stochastic modeling routinely. As computing power advances, stochastic models are becoming more accessible."
+                        "Paragraph_txt": "<br />The extent to which life insurers use stochastic modeling varies. Some companies use stochastic modeling only in limited situations, such as when it is thought to be superior to deterministic modeling or when it is a regulatory requirement. Other companies apply stochastic modeling routinely. As computing power advances, stochastic models are becoming more accessible."
                     },
                     {
-                        "Paragraph_txt": "The following insight illustrates stochastic and deterministic modeling of the same term life insurance premium."
+                        "Paragraph_txt": "<br />The following insight illustrates stochastic and deterministic modeling of the same term life insurance premium."
                     }
                 ]
             },
@@ -844,19 +814,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "An actuary can calculate a term life insurance premium using either a deterministic or a stochastic model. The deterministic model finds only one path to the solution, whereas the stochastic model finds many paths. If the result from the deterministic model happens to be close in value to the average of the stochastic results, then the resulting term life premium will be approximately the same whether it is calculated using a deterministic or stochastic method. Suppose, as often happens, the model produced an average stochastic premium result that was slightly greater than the deterministic term life premium, as shown:"
                     },
                     {
-                        "Paragraph_txt": "<strong>PREMIUM MODELING RESULTS: TERM LIFE INSURANCE</strong>"
+                        "Paragraph_txt": "<br /><strong>PREMIUM MODELING RESULTS: TERM LIFE INSURANCE</strong>"
                     },
                     {
-                        "Paragraph_txt": "Deterministic premium ………………………………………………………. $2.00"
+                        "Paragraph_txt": "<br />Deterministic premium ………………………………………………………. $2.00"
                     },
                     {
-                        "Paragraph_txt": "Average stochastic premium ………………......................................... $2.10"
+                        "Paragraph_txt": "<br />Average stochastic premium ………………......................................... $2.10"
                     },
                     {
-                        "Paragraph_txt": "Range of stochastic premiums ………………………………………...…. $1.50-$2.65"
+                        "Paragraph_txt": "<br />Range of stochastic premiums ………………………………………...…. $1.50-$2.65"
                     },
                     {
-                        "Paragraph_txt": "Stochastic methods take into consideration some risk elements that deterministic methods may not fully take into account, and thus, often produce results that vary farther from the baseline of a deterministic method."
+                        "Paragraph_txt": "<br />Stochastic methods take into consideration some risk elements that deterministic methods may not fully take into account, and thus, often produce results that vary farther from the baseline of a deterministic method."
                     }
                 ]
             },
@@ -919,7 +889,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Optimization modeling</span> is a form of modeling that focuses on finding an optimum solution to several simultaneous equations. The optimum solutions generated by optimization modeling are always single values. Actuaries use an optimization model to find the maximum or minimum possible result for a chosen set of objectives. These maximum or minimum results are known as <em>optimum</em> results, because they represent the most favorable value for each result."
                     },
                     {
-                        "Paragraph_txt": "Insurers can use optimization modeling to determine either (1) the maximum possible profit for a chosen level or risk or (2) the minimum possible risk level for a chosen level of profitability. Optimization modeling techniques include linear programming, quadratic programming, dynamic programming, and multidimensional programming. Further discussion of these techniques is beyond the scope of this course."
+                        "Paragraph_txt": "<br />Insurers can use optimization modeling to determine either (1) the maximum possible profit for a chosen level or risk or (2) the minimum possible risk level for a chosen level of profitability. Optimization modeling techniques include linear programming, quadratic programming, dynamic programming, and multidimensional programming. Further discussion of these techniques is beyond the scope of this course."
                     }
                 ]
             },

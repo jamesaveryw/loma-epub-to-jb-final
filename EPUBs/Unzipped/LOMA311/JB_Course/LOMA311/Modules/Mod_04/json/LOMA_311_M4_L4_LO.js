@@ -14,6 +14,13 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
+                "Learning_Objectives": [
+                    {
+                        "color": "006aac"
+                    }
+                ]
+            },
+            {
                 "List_text_paragraph": [
                     {
                         "List_Heading": "Learning Objectives",

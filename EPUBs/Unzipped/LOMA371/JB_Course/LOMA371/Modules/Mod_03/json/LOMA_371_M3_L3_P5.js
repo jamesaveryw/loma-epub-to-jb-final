@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Incorporating Operating Expense Charges into Product Designs",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -340,7 +310,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">administrative charge</span> is a charge an insurer levies to cover the cost of issuing certain types of life insurance or annuity contracts, making administrative changes to such contracts, preparing contract owner statements, and performing general maintenance activities. Depending on how the company classifies its charges and expenses, administrative charges may also be known as <em>administrative expense charges</em>, <em>administrative fees</em>, <em>contract fees</em>, or <em>service fees</em>. Most administrative charges are assessed periodically. For universal life products, insurers typically calculate administrative charges as a flat amount per month based on the units of coverage. However, these administrative charges can also be calculated as a percentage of premium per period."
                     },
                     {
-                        "Paragraph_txt": "Fixed annuities generally do not assess explicit administrative charges. For fixed immediate annuities, the insurer factors administrative charges into the single premium payment. In fixed-rate deferred annuities, the interest spread covers applicable administrative expenses."
+                        "Paragraph_txt": "<br />Fixed annuities generally do not assess explicit administrative charges. For fixed immediate annuities, the insurer factors administrative charges into the single premium payment. In fixed-rate deferred annuities, the interest spread covers applicable administrative expenses."
                     }
                 ]
             },
@@ -376,13 +346,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<em>Transaction charges</em> are one-time charges assessed when funds are paid into or withdrawn from a customer’s account. Transaction charges include sales charges and surrender charges."
                     },
                     {
-                        "Paragraph_txt": "Most insurers do not assess separate sales charges. Occasionally, however, insurers assess sales charges on fixed products when premiums are paid. In these cases, sales charges are designed to cover commissions and other sales costs. For fixed insurance products, sales charges are typically calculated as either a flat amount per transaction or a percentage of the amount of the transaction. Very few fixed-rate deferred annuities offered today assess sales charges; when such a product contains a sales charge, the charge is calculated as a percentage of the premium."
+                        "Paragraph_txt": "<br />Most insurers do not assess separate sales charges. Occasionally, however, insurers assess sales charges on fixed products when premiums are paid. In these cases, sales charges are designed to cover commissions and other sales costs. For fixed insurance products, sales charges are typically calculated as either a flat amount per transaction or a percentage of the amount of the transaction. Very few fixed-rate deferred annuities offered today assess sales charges; when such a product contains a sales charge, the charge is calculated as a percentage of the premium."
                     },
                     {
-                        "Paragraph_txt": "Insurers use surrender charges to provide protection against surrender and withdrawal rates that exceed projections. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">surrender charge</span> is a charge imposed when the owner of a cash value life insurance policy surrenders the policy for its cash surrender value, or if the owner of a deferred annuity contract surrenders the contract within a stated number of years after it was purchased. Insurers design surrender charges to cover acquisition, issue, and sales costs. For both fixed life insurance products and fixed-rate deferred annuities, surrender charges are a specified percentage of the amount received when the policy or contract is surrendered."
+                        "Paragraph_txt": "<br />Insurers use surrender charges to provide protection against surrender and withdrawal rates that exceed projections. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">surrender charge</span> is a charge imposed when the owner of a cash value life insurance policy surrenders the policy for its cash surrender value, or if the owner of a deferred annuity contract surrenders the contract within a stated number of years after it was purchased. Insurers design surrender charges to cover acquisition, issue, and sales costs. For both fixed life insurance products and fixed-rate deferred annuities, surrender charges are a specified percentage of the amount received when the policy or contract is surrendered."
                     },
                     {
-                        "Paragraph_txt": "Insurers generally impose surrender charges that are highest during the early years of a contract and then decrease gradually over time."
+                        "Paragraph_txt": "<br />Insurers generally impose surrender charges that are highest during the early years of a contract and then decrease gradually over time."
                     }
                 ]
             },
@@ -668,10 +638,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Variable life insurance products generally include back-end sales charges. For variable annuity products, sales charges may be either front-end sales charges or, more commonly, back-end sales charges."
                     },
                     {
-                        "Paragraph_txt": "Surrender charges on variable products are designed to cover the costs of selling or redeeming fund shares to cover withdrawals or surrenders and are similar to the surrender charges assessed for fixed products. The amount of these charges is typically based on the amount withdrawn. As is the case with surrender charges for fixed products, surrender charges for variable products are structured on a decreasing scale."
+                        "Paragraph_txt": "<br />Surrender charges on variable products are designed to cover the costs of selling or redeeming fund shares to cover withdrawals or surrenders and are similar to the surrender charges assessed for fixed products. The amount of these charges is typically based on the amount withdrawn. As is the case with surrender charges for fixed products, surrender charges for variable products are structured on a decreasing scale."
                     },
                     {
-                        "Paragraph_txt": "Most insurers allow owners of variable contracts to transfer funds from one subaccount to another without charge, as long as the transfers fall within specified limits, such as amount or frequency. Transfer charges apply to transfers that exceed these limits. Charges for transfers in excess of allowed amounts are usually calculated as a percentage of the amount transferred."
+                        "Paragraph_txt": "<br />Most insurers allow owners of variable contracts to transfer funds from one subaccount to another without charge, as long as the transfers fall within specified limits, such as amount or frequency. Transfer charges apply to transfers that exceed these limits. Charges for transfers in excess of allowed amounts are usually calculated as a percentage of the amount transferred."
                     }
                 ]
             },

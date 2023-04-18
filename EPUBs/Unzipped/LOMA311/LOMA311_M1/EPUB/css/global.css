@@ -1086,7 +1086,7 @@ div.insight ul li:before {
 }
 
 /*** 2.7: Modals ***/
-body.modal-open {
+body.loma-modal-open {
 	margin-right: 16px;
 	overflow-y: hidden;
 	position: fixed;

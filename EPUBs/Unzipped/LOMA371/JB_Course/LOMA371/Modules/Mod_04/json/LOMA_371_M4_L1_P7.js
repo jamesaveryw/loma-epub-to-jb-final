@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Cost of Benefits for Universal Life Insurance",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "So far, we have discussed the cost of benefit calculations for term life insurance products and whole life insurance, a type of permanent life insurance product. Another form of permanent life product is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">universal life (UL) insurance</span>, which is characterized by flexible premiums, a flexible face amount, a flexible death benefit amount, and separation of the three primary policy elements—mortality charges, interest rate, and expense charges."
                     },
                     {
-                        "Paragraph_txt": "In some forms of UL policies, the cash value amount is reduced by significant expense charges, called <em>surrender charges</em>, if the policyowner chooses to surrender the policy. For these types of UL policies, regulators may require insurance companies to use another term—such as <em>account value</em> or <em>accumulation value</em>—to describe the cash value that accumulates in the policy. In addition, a second term—either <em>net cash value</em> or <em>cash surrender value</em>—describes the amount available to policyowners. For simplicity, we will use the term <em>cash value</em> in connection with universal life policies."
+                        "Paragraph_txt": "<br />In some forms of UL policies, the cash value amount is reduced by significant expense charges, called <em>surrender charges</em>, if the policyowner chooses to surrender the policy. For these types of UL policies, regulators may require insurance companies to use another term—such as <em>account value</em> or <em>accumulation value</em>—to describe the cash value that accumulates in the policy. In addition, a second term—either <em>net cash value</em> or <em>cash surrender value</em>—describes the amount available to policyowners. For simplicity, we will use the term <em>cash value</em> in connection with universal life policies."
                     },
                     {
-                        "Paragraph_txt": "In this section, you’ll learn more about the characteristics of UL insurance. Then, you’ll read about considerations when calculating the cost of benefits for a block of UL policies."
+                        "Paragraph_txt": "<br />In this section, you’ll learn more about the characteristics of UL insurance. Then, you’ll read about considerations when calculating the cost of benefits for a block of UL policies."
                     }
                 ]
             },
@@ -279,10 +249,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The main attraction of IUL is that it offers additional gains in the cash value when the market is strong, with relatively little risk because of the guarantees from the fixed account’s crediting rate and the index account’s floor. The floor limits the product’s investment risk, whereas the cap limits the product’s growth potential. Thus, IUL has a fairly conservative risk-reward structure."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Variable universal life (VUL) insurance</span> is a version of UL insurance that combines the premium and death benefit flexibility of universal life insurance with the investment flexibility and risk of variable life insurance. VUL owners have the option to allocate the cash value to the insurer’s general account or to invest in various subaccounts (or fund options) of the insurer’s separate account. Typically, the VUL owner may change his allocations at least annually."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Variable universal life (VUL) insurance</span> is a version of UL insurance that combines the premium and death benefit flexibility of universal life insurance with the investment flexibility and risk of variable life insurance. VUL owners have the option to allocate the cash value to the insurer’s general account or to invest in various subaccounts (or fund options) of the insurer’s separate account. Typically, the VUL owner may change his allocations at least annually."
                     },
                     {
-                        "Paragraph_txt": "VUL policies do not guarantee minimum investment earnings or cash values for premiums allocated to subaccounts. Instead, the insurer’s credits to the cash value directly reflect the net investment earnings of the subaccounts. Thus, VUL insurance provides higher potential rewards than basic fixed UL insurance and IUL insurance, but with higher risks."
+                        "Paragraph_txt": "<br />VUL policies do not guarantee minimum investment earnings or cash values for premiums allocated to subaccounts. Instead, the insurer’s credits to the cash value directly reflect the net investment earnings of the subaccounts. Thus, VUL insurance provides higher potential rewards than basic fixed UL insurance and IUL insurance, but with higher risks."
                     }
                 ]
             },
@@ -765,6 +735,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.2 Net Amount at Risk</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "10-2figure.jpg",
@@ -783,7 +786,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.2</strong> Net Amount at Risk",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -2598,7 +2601,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Now, suppose that Charion’s net amount at risk for Hannah’s policy changes to $200,000—which represents 200 units per $1,000 of net amount at risk. In this case, the total monthly mortality charge would be $114.00 ($0.57 × 200)."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Because Charion’s net amount at risk increased in the second scenario, the total monthly mortality charge increased. Likewise, if the net amount at risk had <em>decreased</em>, the amount of the total monthly mortality charge would have been<em> lower</em>."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Because Charion’s net amount at risk increased in the second scenario, the total monthly mortality charge increased. Likewise, if the net amount at risk had <em>decreased</em>, the amount of the total monthly mortality charge would have been<em> lower</em>."
                     }
                 ]
             },

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Product Development Activities",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Development of individual life insurance and annuity products usually begins with product planning and comprehensive business analysis. These activities are designed to identify possible new products and evaluate their potential."
                     },
                     {
-                        "Paragraph_txt": "Figure 5.5 depicts the typical process of product development. Note that the actual process differs in details from one company to another, and companies may use their own terms for product development activities."
+                        "Paragraph_txt": "<br />Figure 5.5 depicts the typical process of product development. Note that the actual process differs in details from one company to another, and companies may use their own terms for product development activities."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.5 Product Development Process</strong>"
                     }
                 ]
             },
@@ -168,7 +171,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.5</strong> Product Development Process",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -239,6 +242,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.6 Product Planning in Product Development</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-6figure.jpg",
@@ -257,7 +293,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.6</strong> Product Planning in Product Development",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -326,7 +362,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Idea generation</span> involves searching for new product ideas that are consistent with the needs of the company’s target markets and the company’s overall product development strategy. The company searches continuously for new ideas by conducting market research, engaging in special projects, monitoring its own products, and monitoring competing products. The company considers totally new product ideas as well as product revisions or product rate changes. Most companies have a formalized process for identifying and considering new product ideas. Creativity is a paramount consideration during idea generation. Many company cultures encourage employees to suggest ideas without spending too much time evaluating them beforehand, as the team can evaluate a proposed product’s practical aspects in the next phase of product development."
                     },
                     {
-                        "Paragraph_txt": "Important sources of ideas for new products or enhancements to existing products are the product development team, the sales department, affiliated sales agents, and actuaries. New product ideas also come from research performed by the company’s competitive intelligence unit or units, which usually take the form of a subdivision of a company’s product development team. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Competitive intelligence</span> is the systematic collection and analysis of publicly available information about competitors and ongoing developments in the marketing environment. Some companies employ multiple competitive intelligence units to specialize in information about different markets or product types."
+                        "Paragraph_txt": "<br />Important sources of ideas for new products or enhancements to existing products are the product development team, the sales department, affiliated sales agents, and actuaries. New product ideas also come from research performed by the company’s competitive intelligence unit or units, which usually take the form of a subdivision of a company’s product development team. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Competitive intelligence</span> is the systematic collection and analysis of publicly available information about competitors and ongoing developments in the marketing environment. Some companies employ multiple competitive intelligence units to specialize in information about different markets or product types."
                     }
                 ]
             },
@@ -527,6 +563,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.7 Comprehensive Business Analysis in Product Development</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-7figure.jpg",
@@ -545,7 +614,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.7</strong> Comprehensive Business Analysis in Product Development",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -614,10 +683,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">market analysis</span> documents an evaluation of all environmental factors that might affect sales of a proposed product. In essence, it represents the company’s effort to demonstrate that market demand exists to support a proposed product. In many cases, an insurer can derive a market analysis for a new product from information already gathered during ongoing market research activities for similar new product ideas. For a product type that is totally new to the company, however, staff must undertake a complete research process."
                     },
                     {
-                        "Paragraph_txt": "As a product idea progresses through the product development process, the product development team makes progressively more detailed decisions about the product design. Although the team conceptualizes many aspects of a new product before performing a market analysis, the market analysis provides a foundation that helps in setting product design objectives."
+                        "Paragraph_txt": "<br />As a product idea progresses through the product development process, the product development team makes progressively more detailed decisions about the product design. Although the team conceptualizes many aspects of a new product before performing a market analysis, the market analysis provides a foundation that helps in setting product design objectives."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Product design objectives</span> for a life insurance or an annuity product document the product’s basic characteristics, such as its benefits, any limits on the contract amount or the applicant’s age at issue, any special features, the commission range, and any settlement options. These specifications serve as guidelines during technical design of the product. The following insight shows examples of product design objectives."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Product design objectives</span> for a life insurance or an annuity product document the product’s basic characteristics, such as its benefits, any limits on the contract amount or the applicant’s age at issue, any special features, the commission range, and any settlement options. These specifications serve as guidelines during technical design of the product. The following insight shows examples of product design objectives."
                     }
                 ]
             },

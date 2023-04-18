@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Financial Statement Concepts",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,13 +148,46 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">entity</span> is the basic business unit for which a company keeps separate accounting records and prepares reports. An entity may be a person, a partnership, a corporation, an organization, a business, or a portion of a business, such as a corporate subsidiary. A company can define its own accounting entities. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">entity concept</span> states that a company must account separately for the business activities of each business unit. When the company has identified its accounting entities, only the transactions that relate to these entities will typically appear on the company’s financial statements. A very basic expression of the entity concept is the understanding that an individual is a separate entity from the company she works for: she cannot attribute her personal expenses to her company’s accounts, and, in turn, she cannot attribute the company’s expenses to her personal accounts."
                     },
                     {
-                        "Paragraph_txt": "In general, when a company controls one or more companies—usually referred to as <em>subsidiaries</em>—these subsidiaries maintain detailed records of their own financial transactions. Under U.S. GAAP, a company with a controlling financial interest—usually more than 50 percent ownership—in a business is required to consolidate its financial reporting. The company therefore summarizes and consolidates the records maintained by its subsidiaries into the financial statements it prepares. Usually, the financial statements are labeled with the name of the entity being represented."
+                        "Paragraph_txt": "<br />In general, when a company controls one or more companies—usually referred to as <em>subsidiaries</em>—these subsidiaries maintain detailed records of their own financial transactions. Under U.S. GAAP, a company with a controlling financial interest—usually more than 50 percent ownership—in a business is required to consolidate its financial reporting. The company therefore summarizes and consolidates the records maintained by its subsidiaries into the financial statements it prepares. Usually, the financial statements are labeled with the name of the entity being represented."
                     },
                     {
-                        "Paragraph_txt": "Consolidated financial reporting records the business activities or transactions of a company and each of its majority-owned subsidiaries as a single entity. However, under statutory reporting, the company reports its investment in each majority-owned subsidiary in the Annual Statement as the company would report other investments of a similar type (such as common stock or preferred stock). Statutory reporting considers subsidiaries to be investments because shares of ownership are a marketable asset that the company could sell to meet its obligations to policyowners, even when the cash flow generated by a subsidiary might not be available."
+                        "Paragraph_txt": "<br />Consolidated financial reporting records the business activities or transactions of a company and each of its majority-owned subsidiaries as a single entity. However, under statutory reporting, the company reports its investment in each majority-owned subsidiary in the Annual Statement as the company would report other investments of a similar type (such as common stock or preferred stock). Statutory reporting considers subsidiaries to be investments because shares of ownership are a marketable asset that the company could sell to meet its obligations to policyowners, even when the cash flow generated by a subsidiary might not be available."
                     },
                     {
-                        "Paragraph_txt": "Figure 3.1 shows an example of the entity concept under GAAP and statutory accounting."
+                        "Paragraph_txt": "<br />Figure 3.1 shows an example of the entity concept under GAAP and statutory accounting."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.1 Entity Concept Under GAAP and Statutory Accounting</strong>"
                     }
                 ]
             },
@@ -207,7 +210,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.1</strong> Entity Concept Under GAAP and Statutory Accounting",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -218,7 +221,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "The Quill Life Insurance Company, a U.S. company, has a controlling financial interest in two subsidiaries, Wetlands Group Life and Pumpkin Financial. Under U.S. GAAP, only Quill must prepare financial statements. Under statutory accounting, Quill and both of its subsidiaries must all prepare their own financial statements.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -241,6 +244,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "The Quill Life Insurance Company, a U.S. company, has a controlling financial interest in two subsidiaries, Wetlands Group Life and Pumpkin Financial. Under U.S. GAAP, only Quill must prepare financial statements. Under statutory accounting, Quill and both of its subsidiaries must all prepare their own financial statements."
                     }
                 ]
             },

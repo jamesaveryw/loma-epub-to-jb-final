@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Measuring and Managing Operational Risk",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,10 +148,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">key risk indicator (KRI)</span> is a quantitative metric that indicates the level of operational risk exposures at a given point of time in order to help companies forecast future occurrences. KRIs can play an important role in managing risk by identifying potential high risk exposures and enabling the company to take timely action."
                     },
                     {
-                        "Paragraph_txt": "KRIs can be considered leading—identifying risk trends and issues that may need to be addressed in the future—or lagging—identifying events that have occurred in the past and that may occur again. Effective KRIs should be relevant, measurable, predictive, auditable, easy to monitor, comparable, and timely."
+                        "Paragraph_txt": "<br />KRIs can be considered leading—identifying risk trends and issues that may need to be addressed in the future—or lagging—identifying events that have occurred in the past and that may occur again. Effective KRIs should be relevant, measurable, predictive, auditable, easy to monitor, comparable, and timely."
                     },
                     {
-                        "Paragraph_txt": "KRIs help to support effective governance, risk taxonomies, and internal controls by providing a consistent and repeatable way for tracking both risk exposures and management activity. By monitoring KRIs and checking them against agreed limits and thresholds, a company is able to see if its operational risk exposures are within its stated risk tolerance. Limits and thresholds may be set to help show whether an indicator is red, amber, or green. The amber zone is given more priority than green, and red is given even greater priority. Video 3.2 shows the typical significance of the KRI zones and the managerial responses for KRI values in each zone.<span class=\"ens\" id=\"loma371-ch3-span-71\"> <span class=\"endnote hidden\" data-note=\"loma371-ch3-en5\" epub:type=\"noteref\" id=\"loma371-ch3-span-72\" role=\"doc-noteref\">5</span> </span>"
+                        "Paragraph_txt": "<br />KRIs help to support effective governance, risk taxonomies, and internal controls by providing a consistent and repeatable way for tracking both risk exposures and management activity. By monitoring KRIs and checking them against agreed limits and thresholds, a company is able to see if its operational risk exposures are within its stated risk tolerance. Limits and thresholds may be set to help show whether an indicator is red, amber, or green. The amber zone is given more priority than green, and red is given even greater priority. Video 3.2 shows the typical significance of the KRI zones and the managerial responses for KRI values in each zone.<span class=\"ens\" id=\"loma371-ch3-span-71\"> <span class=\"endnote hidden\" data-note=\"loma371-ch3-en5\" epub:type=\"noteref\" id=\"loma371-ch3-span-72\" role=\"doc-noteref\">5</span> </span>"
                     }
                 ]
             },
@@ -305,6 +275,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.2 text: The numbers 1–5 listed vertically to the left side of the table indicate the impact or significance of each risk, with 1 representing the lowest risk and 5 representing the highest risk. The numbers 1–5 listed horizontally across the bottom of the table indicate the likelihood of each risk, with 1 representing very low likelihood and 5 representing very high likelihood.</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "3-2figure.jpg",
@@ -323,7 +326,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.2</strong> text: The numbers 1–5 listed vertically to the left side of the table indicate the impact or significance of each risk, with 1 representing the lowest risk and 5 representing the highest risk. The numbers 1–5 listed horizontally across the bottom of the table indicate the likelihood of each risk, with 1 representing very low likelihood and 5 representing very high likelihood.",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

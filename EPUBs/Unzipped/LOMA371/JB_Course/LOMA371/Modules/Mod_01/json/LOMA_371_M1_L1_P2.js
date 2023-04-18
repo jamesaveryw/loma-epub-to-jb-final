@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Solvency and Profitability",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,13 +115,46 @@ Lesson_Data_File([
                         "Paragraph_txt": "The two primary goals of any insurer are to ensure solvency and increase profitability. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Solvency</span> is an insurer’s ability to meet its financial obligations on time. By contrast, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">insolvency</span> refers to an insurer’s inability to meet its financial obligations on time."
                     },
                     {
-                        "Paragraph_txt": "The two main threats to an insurer’s solvency are inadequate capital and inadequate liquidity. Capital is generally measured by comparing a company’s <em>assets</em>—the things of value the company owns—to its <em>liabilities</em>, which are its debts and future obligations. The most significant liability for an insurer is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">contractual reserves</span>, which identifies the amount that, together with future premiums and investment income, an insurer estimates it will need to pay policy benefits as they come due. If a company has insufficient assets, then its capital may be inadequate to meet its day-to-day requirements. For example, a company with insufficient assets might have to forgo updating its aging computer system in order to pay claims on time."
+                        "Paragraph_txt": "<br />The two main threats to an insurer’s solvency are inadequate capital and inadequate liquidity. Capital is generally measured by comparing a company’s <em>assets</em>—the things of value the company owns—to its <em>liabilities</em>, which are its debts and future obligations. The most significant liability for an insurer is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">contractual reserves</span>, which identifies the amount that, together with future premiums and investment income, an insurer estimates it will need to pay policy benefits as they come due. If a company has insufficient assets, then its capital may be inadequate to meet its day-to-day requirements. For example, a company with insufficient assets might have to forgo updating its aging computer system in order to pay claims on time."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Liquidity</span> is the condition of having enough cash—or assets that can be readily converted into cash at an approximation of their underlying value—available to meet obligations as they come due. For example, if an insurer spent most of its cash to invest in bonds, but rising market interest rates meant that the insurer’s bonds could not be quickly sold at a price close to their underlying value, the insurer would have low liquidity. Ultimately, if the insurer then needed to pay a larger number of claims than expected, yet could not easily sell its bond investments, the insurer might become insolvent."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Liquidity</span> is the condition of having enough cash—or assets that can be readily converted into cash at an approximation of their underlying value—available to meet obligations as they come due. For example, if an insurer spent most of its cash to invest in bonds, but rising market interest rates meant that the insurer’s bonds could not be quickly sold at a price close to their underlying value, the insurer would have low liquidity. Ultimately, if the insurer then needed to pay a larger number of claims than expected, yet could not easily sell its bond investments, the insurer might become insolvent."
                     },
                     {
-                        "Paragraph_txt": "The ability to continue business operations is the key benefit, but not the only benefit, of strong solvency. Figure 1.1 lists other benefits of strong solvency."
+                        "Paragraph_txt": "<br />The ability to continue business operations is the key benefit, but not the only benefit, of strong solvency. Figure 1.1 lists other benefits of strong solvency."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.1 Strong Solvency</strong>"
                     }
                 ]
             },
@@ -174,7 +177,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.1</strong> Strong Solvency",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -276,10 +279,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "While an insurer needs sufficient capital, holding too much capital can limit an insurer’s opportunities to pursue profitability. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Profitability</span> is a company’s overall degree of success in generating returns for its owners. Profitability refers both to a company’s ability to generate profit and its ability to increase the company’s wealth. To maintain strong profitability, an insurer must invest capital and take risk. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment</span> is any use of a company’s resources that is intended to generate a profit or positive return of some type. A responsible investment balances the risk incurred with the potential <span class=\"keyterm\" tabindex=\"0\" role=\"button\">return</span>, defined here as any reward, profit, or compensation an investor hopes to earn for taking a risk. If a company holds on to too much capital rather than making investments, it cannot expect strong returns."
                     },
                     {
-                        "Paragraph_txt": "All other factors being equal, the greater the risk associated with an investment, the greater the potential return on the investment, and the lower the risk associated with an investment, the lower the potential return on the investment. This relationship between risk and return is known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk-return tradeoff</span>. For example, a company that invests heavily in a risky venture accepts higher risks to its solvency in order to pursue higher expected returns. Conversely, a company that invests in a conservative venture accepts lower risks and lower expected returns."
+                        "Paragraph_txt": "<br />All other factors being equal, the greater the risk associated with an investment, the greater the potential return on the investment, and the lower the risk associated with an investment, the lower the potential return on the investment. This relationship between risk and return is known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk-return tradeoff</span>. For example, a company that invests heavily in a risky venture accepts higher risks to its solvency in order to pursue higher expected returns. Conversely, a company that invests in a conservative venture accepts lower risks and lower expected returns."
                     },
                     {
-                        "Paragraph_txt": "The insight below compares examples of actions associated with lower risk and examples of actions associated with higher risk. Note that in some cases, two comparable transactions may potentially offer the same return, but on average the higher-risk transaction offers lower returns overall due to the higher risk that the company simply will not receive a return."
+                        "Paragraph_txt": "<br />The insight below compares examples of actions associated with lower risk and examples of actions associated with higher risk. Note that in some cases, two comparable transactions may potentially offer the same return, but on average the higher-risk transaction offers lower returns overall due to the higher risk that the company simply will not receive a return."
                     }
                 ]
             },
@@ -627,6 +630,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.2 Strong Profitability</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "1-2figure.jpg",
@@ -645,7 +681,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.2</strong> Strong Profitability",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

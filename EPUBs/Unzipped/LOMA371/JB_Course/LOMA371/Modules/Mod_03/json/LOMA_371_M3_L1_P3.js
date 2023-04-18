@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Crediting Rates and Interest Spreads",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -478,7 +448,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "During product design, the insurer must set a premium amount that, along with investment earnings, will produce enough money to cover the cost of promised benefits when due. Present value calculations are vital to this process, as is the insurer’s understanding of customer needs. If the premium amount is too low, the investment earnings could be inadequate to pay the product’s benefits, or they could provide an insufficient profit. If the premium amount is too high, it may be difficult to sell the product."
                     },
                     {
-                        "Paragraph_txt": "For some products, such as fixed universal life insurance, insurers periodically declare a crediting rate and apply it to the product’s cash value. For example, an insurer may credit the cash value of a fixed universal life policy with interest once each month, and declare a new crediting rate, if appropriate, once a year. To provide for an acceptable overall level of profit, insurers can use a product design that provides for a small interest spread but possibly a larger spread for expenses or mortality."
+                        "Paragraph_txt": "<br />For some products, such as fixed universal life insurance, insurers periodically declare a crediting rate and apply it to the product’s cash value. For example, an insurer may credit the cash value of a fixed universal life policy with interest once each month, and declare a new crediting rate, if appropriate, once a year. To provide for an acceptable overall level of profit, insurers can use a product design that provides for a small interest spread but possibly a larger spread for expenses or mortality."
                     }
                 ]
             },
@@ -947,19 +917,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "When contract owners pay premiums into a variable deferred annuity, they specify how they wish their premiums to be invested. Most insurers offer both <em>fixed accounts</em>, which are guaranteed, and <em>variable subaccounts</em>, which are nonguaranteed but have a higher potential for gain."
                     },
                     {
-                        "Paragraph_txt": "Fixed Accounts in Variable Annuities"
+                        "Paragraph_txt": "<br />Fixed Accounts in Variable Annuities"
                     },
                     {
-                        "Paragraph_txt": "The fixed account directs premium payments to the insurer’s general account. If the contract specifies a current interest-crediting rate, the insurer credits interest to the contract using that rate. Otherwise the insurer credits the contract with the guaranteed interest-crediting rate. As with other general account investments, the insurer bears all the investment risk for money in the fixed account, and is responsible for any losses that occur if market rates fall below the interest rate needed to support the credited rate. In general, customers place a relatively small portion of their premium into a fixed fund."
+                        "Paragraph_txt": "<br />The fixed account directs premium payments to the insurer’s general account. If the contract specifies a current interest-crediting rate, the insurer credits interest to the contract using that rate. Otherwise the insurer credits the contract with the guaranteed interest-crediting rate. As with other general account investments, the insurer bears all the investment risk for money in the fixed account, and is responsible for any losses that occur if market rates fall below the interest rate needed to support the credited rate. In general, customers place a relatively small portion of their premium into a fixed fund."
                     },
                     {
-                        "Paragraph_txt": "Subaccounts in Variable Annuities"
+                        "Paragraph_txt": "<br />Subaccounts in Variable Annuities"
                     },
                     {
-                        "Paragraph_txt": "The insurer uses premiums allocated to subaccounts to purchase <span class=\"keyterm\" tabindex=\"0\" role=\"button\">accumulation units</span>, which represent ownership shares in the selected subaccounts. The amount of return each subaccount earns is equal to the market return on the subaccount investments, less investment management fees, mortality and expense (M&amp;E) risk charges, administrative expense charges, and any other charges that the insurer assesses. The value of a contract owner’s accumulation units is not guaranteed. Accumulation units increase or decrease in value based on the performance of subaccount investments. Regardless of market conditions, the number of accumulation units still increases as the contract owner pays more premiums, which are used to purchase more units."
+                        "Paragraph_txt": "<br />The insurer uses premiums allocated to subaccounts to purchase <span class=\"keyterm\" tabindex=\"0\" role=\"button\">accumulation units</span>, which represent ownership shares in the selected subaccounts. The amount of return each subaccount earns is equal to the market return on the subaccount investments, less investment management fees, mortality and expense (M&amp;E) risk charges, administrative expense charges, and any other charges that the insurer assesses. The value of a contract owner’s accumulation units is not guaranteed. Accumulation units increase or decrease in value based on the performance of subaccount investments. Regardless of market conditions, the number of accumulation units still increases as the contract owner pays more premiums, which are used to purchase more units."
                     },
                     {
-                        "Paragraph_txt": "The accumulated value of a variable annuity contract is determined by the current value and number of accumulation units the contract owner has in each subaccount investment. The following sample statement illustrates how the premium’s purchase of more units and the increase in unit value both increase the accumulated value. Note that although subaccount GHI has a smaller number of new units purchased than does subaccount ABC, GHI still has a higher ending subaccount value than ABC does, because GHI’s unit value increased more dramatically than ABC’s unit value increased."
+                        "Paragraph_txt": "<br />The accumulated value of a variable annuity contract is determined by the current value and number of accumulation units the contract owner has in each subaccount investment. The following sample statement illustrates how the premium’s purchase of more units and the increase in unit value both increase the accumulated value. Note that although subaccount GHI has a smaller number of new units purchased than does subaccount ABC, GHI still has a higher ending subaccount value than ABC does, because GHI’s unit value increased more dramatically than ABC’s unit value increased."
                     }
                 ]
             },
@@ -1406,10 +1376,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that when market interest rates increase, insurers can be adversely affected. For instance, an insurer would have difficulty selling its existing bonds, which have lower interest rates than the market, unless the insurer was willing to accept a loss by selling the bonds at a discount. These potential negative effects are a result of various market risks such as interest-rate risk and reinvestment-rate risk."
                     },
                     {
-                        "Paragraph_txt": "One significant impact that rising market interest rates may have on an insurer is that the insurer’s interest spread may narrow. When an insurer’s interest spread narrows, we refer to the phenomenon as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">spread compression</span>. Spread compression typically occurs in an increasing interest-rate environment when customers immediately demand the higher market interest rate. At the same time, the average rate of return on the insurer’s existing invested assets rises only slowly, because these assets continue to earn the lower interest rates that were available in the financial markets when the insurer purchased the assets."
+                        "Paragraph_txt": "<br />One significant impact that rising market interest rates may have on an insurer is that the insurer’s interest spread may narrow. When an insurer’s interest spread narrows, we refer to the phenomenon as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">spread compression</span>. Spread compression typically occurs in an increasing interest-rate environment when customers immediately demand the higher market interest rate. At the same time, the average rate of return on the insurer’s existing invested assets rises only slowly, because these assets continue to earn the lower interest rates that were available in the financial markets when the insurer purchased the assets."
                     },
                     {
-                        "Paragraph_txt": "Spread compression does not occur automatically when market rates are increasing, because an insurer can offer lower interest rates to keep its spread constant. However, if an insurer chooses to keep its spread constant by refusing to offer customers the higher market interest rate, existing customers are less likely to continue business with the insurer, and new customers may be harder to attract. Insurers may have to choose between (1) increasing their current interest-crediting rates and accepting a lower interest spread in an effort to retain their customers’ business, (2) leaving their current interest-crediting rates at lower levels so as to avoid a lower-than-acceptable interest spread, or (3) finding a course of action somewhere between the two. A product design can include elements such as surrender charges to offset some of this risk; we discuss these elements further in Chapter 9."
+                        "Paragraph_txt": "<br />Spread compression does not occur automatically when market rates are increasing, because an insurer can offer lower interest rates to keep its spread constant. However, if an insurer chooses to keep its spread constant by refusing to offer customers the higher market interest rate, existing customers are less likely to continue business with the insurer, and new customers may be harder to attract. Insurers may have to choose between (1) increasing their current interest-crediting rates and accepting a lower interest spread in an effort to retain their customers’ business, (2) leaving their current interest-crediting rates at lower levels so as to avoid a lower-than-acceptable interest spread, or (3) finding a course of action somewhere between the two. A product design can include elements such as surrender charges to offset some of this risk; we discuss these elements further in Chapter 9."
                     }
                 ]
             },
@@ -1472,7 +1442,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When the Fluorite Life Insurance Company priced its fixed deferred annuity product, it determined that it needed a 1.5% interest spread in order to meet its goals. When Fluorite issued the contracts, it was earning 4.5% interest on the investments supporting this product. Therefore, Fluorite set the initial interest-crediting rate at 3% (4.5% earned rate – 1.5% interest spread)."
                     },
                     {
-                        "Paragraph_txt": "Two years later, market interest rates had increased by 1%. Some of Fluorite’s competitors were now crediting 3.5% interest on their fixed deferred annuities. Fluorite had to decide whether to increase its rates to match its competitors. Fluorite was still earning 4.5% on the investments supporting its fixed deferred annuity product. If it raised its interest-crediting rate to 3.5%, the company would face a reduced interest spread of 1% (4.5% earned rate – 3.5% credited rate). This reduced spread would be lower than the spread Fluorite needed to meet its profit target."
+                        "Paragraph_txt": "<br />Two years later, market interest rates had increased by 1%. Some of Fluorite’s competitors were now crediting 3.5% interest on their fixed deferred annuities. Fluorite had to decide whether to increase its rates to match its competitors. Fluorite was still earning 4.5% on the investments supporting its fixed deferred annuity product. If it raised its interest-crediting rate to 3.5%, the company would face a reduced interest spread of 1% (4.5% earned rate – 3.5% credited rate). This reduced spread would be lower than the spread Fluorite needed to meet its profit target."
                     }
                 ]
             },
@@ -1657,6 +1627,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.2 Market Interest-Rate Increases</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "7-2figure.jpg",
@@ -1675,7 +1678,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.2</strong> Market Interest-Rate Increases",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1744,10 +1747,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "When market interest rates decrease, the price of existing interest-bearing investments increases. If an insurer purchased bonds during a period of higher interest rates, the insurer can sell these bonds before maturity for a higher price, and such bonds held in the insurer’s general account increase in market value."
                     },
                     {
-                        "Paragraph_txt": "Low interest rates strongly benefit borrowers. In a low interest rate environment, borrowers pay less overall interest on new loans. However, this means that lenders have more difficulty in a low interest rate environment. In such an environment, interest-bearing investments have a much lower rate of return over time. Thus, insurers cannot rely as heavily on investments to ensure their solvency, and they must consider raising prices or fees, adjusting rates, reducing operating expenses, or other such measures to compensate for lost investment income."
+                        "Paragraph_txt": "<br />Low interest rates strongly benefit borrowers. In a low interest rate environment, borrowers pay less overall interest on new loans. However, this means that lenders have more difficulty in a low interest rate environment. In such an environment, interest-bearing investments have a much lower rate of return over time. Thus, insurers cannot rely as heavily on investments to ensure their solvency, and they must consider raising prices or fees, adjusting rates, reducing operating expenses, or other such measures to compensate for lost investment income."
                     },
                     {
-                        "Paragraph_txt": "For these reasons, when market interest rates are decreasing, one potential negative outcome for insurers is that their liabilities may lengthen. Liabilities lengthen when fixed-rate products, such as fixed deferred annuities, remain in force for longer than the insurer assumed, because the company’s current interest-crediting rate is higher than market interest rates. When a liability is in force longer than the insurer had anticipated, the insurer’s assets are less likely to match the liability throughout the increased period."
+                        "Paragraph_txt": "<br />For these reasons, when market interest rates are decreasing, one potential negative outcome for insurers is that their liabilities may lengthen. Liabilities lengthen when fixed-rate products, such as fixed deferred annuities, remain in force for longer than the insurer assumed, because the company’s current interest-crediting rate is higher than market interest rates. When a liability is in force longer than the insurer had anticipated, the insurer’s assets are less likely to match the liability throughout the increased period."
                     }
                 ]
             },
@@ -1870,7 +1873,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When market interest rates are decreasing, companies can experience spread compression <em>or</em> spread expansion. The results depend on the company’s actions and its existing investments; an insurer might experience spread compression on some products and spread expansion on others."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Spread expansion</span> is the widening of an insurer’s interest spread. Spread expansion typically occurs when market interest rates fall, but the insurer has investments that still earn interest at a higher rate. The insurer therefore can choose to reduce its interest-crediting rates to match the market interest rates."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Spread expansion</span> is the widening of an insurer’s interest spread. Spread expansion typically occurs when market interest rates fall, but the insurer has investments that still earn interest at a higher rate. The insurer therefore can choose to reduce its interest-crediting rates to match the market interest rates."
                     }
                 ]
             },
@@ -2115,6 +2118,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.3 Market Interest-Rate Decreases</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "7-3figure.jpg",
@@ -2133,7 +2169,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.3</strong> Market Interest-Rate Decreases",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -2202,13 +2238,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "While many risks take the form of unexpected changes, in some cases the risk is that an environmental factor will remain the same when change is expected. One such risk is that market interest rates will remain level at a low rate rather than increasing as expected. This risk has proven very relevant to financial services companies in recent years. Much of the global economy has seen a sustained low interest rate environment since the financial crisis of 2008. Such an environment causes significant challenges for insurance companies."
                     },
                     {
-                        "Paragraph_txt": "The risks inherent in an environment where market interest rates remain low are similar to the risks inherent in decreasing market interest rates. In particular, spread compression is a common occurrence when market interest rates fail to rise as anticipated."
+                        "Paragraph_txt": "<br />The risks inherent in an environment where market interest rates remain low are similar to the risks inherent in decreasing market interest rates. In particular, spread compression is a common occurrence when market interest rates fail to rise as anticipated."
                     },
                     {
-                        "Paragraph_txt": "A critical risk associated with ongoing low market interest rates is that a company does not successfully plan for the possibility that interest rates do not rise. Companies that rely too strongly on historical data to guide their interest rate assumptions face the greatest challenge when interest rates fail to rise according to past precedent. In such a case, an insurer may have invested resources in developing a product that is not priced to be profitable in the current market, even though it would have been profitable in the market the insurer had anticipated."
+                        "Paragraph_txt": "<br />A critical risk associated with ongoing low market interest rates is that a company does not successfully plan for the possibility that interest rates do not rise. Companies that rely too strongly on historical data to guide their interest rate assumptions face the greatest challenge when interest rates fail to rise according to past precedent. In such a case, an insurer may have invested resources in developing a product that is not priced to be profitable in the current market, even though it would have been profitable in the market the insurer had anticipated."
                     },
                     {
-                        "Paragraph_txt": "The long-term nature of life insurance and annuity products means that even the most prudent insurer is at some risk during sustained periods of low market interest rates. An insurer may still be contractually bound by products designed and sold ten, twenty, thirty, or more years ago. In addition, insurers traditionally hold bonds and other debt securities to maturity. This practice is more conservative than selling before maturity in the assumption that market interest rates will fall, and therefore mitigates some risk. However, this practice also prevents the insurer from mitigating potential losses if market interest rates are low at the time the security matures."
+                        "Paragraph_txt": "<br />The long-term nature of life insurance and annuity products means that even the most prudent insurer is at some risk during sustained periods of low market interest rates. An insurer may still be contractually bound by products designed and sold ten, twenty, thirty, or more years ago. In addition, insurers traditionally hold bonds and other debt securities to maturity. This practice is more conservative than selling before maturity in the assumption that market interest rates will fall, and therefore mitigates some risk. However, this practice also prevents the insurer from mitigating potential losses if market interest rates are low at the time the security matures."
                     }
                 ]
             },

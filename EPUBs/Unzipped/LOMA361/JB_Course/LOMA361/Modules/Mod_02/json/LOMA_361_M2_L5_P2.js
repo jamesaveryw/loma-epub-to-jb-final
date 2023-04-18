@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Capital Accounts",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,13 +148,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Earlier, we discussed common stock as an invested asset from the point of view of an insurer that invests in the common stocks of other companies. Here, we discuss a stock insurer’s issue (sale) of its <em>own </em>common stock, which is recorded in the owners’ equity account called <em>Common Stock</em>. Stock insurers issue common stock to raise capital."
                     },
                     {
-                        "Paragraph_txt": "A typical accounting entry to record the issue and sale of an insurer’s common stock at par value is a debit to <em>Cash</em> and a credit to <em>Common Stock</em>. Recall that the <em>par value of a stock</em> is the designated legal value assigned to each outstanding share of stock."
+                        "Paragraph_txt": "<br />A typical accounting entry to record the issue and sale of an insurer’s common stock at par value is a debit to <em>Cash</em> and a credit to <em>Common Stock</em>. Recall that the <em>par value of a stock</em> is the designated legal value assigned to each outstanding share of stock."
                     },
                     {
-                        "Paragraph_txt": "Proceeds from the sale of an insurer’s common stock increase its cash and its owners’ equity. However, issuing (selling) common stock requires a stock insurer to pay transaction costs that reduce its net proceeds from the sale of the stock. In addition, some issuers of common stock pay regular cash dividends to owners of their stock. These companies must plan ahead to have funds available to make these dividend payments."
+                        "Paragraph_txt": "<br />Proceeds from the sale of an insurer’s common stock increase its cash and its owners’ equity. However, issuing (selling) common stock requires a stock insurer to pay transaction costs that reduce its net proceeds from the sale of the stock. In addition, some issuers of common stock pay regular cash dividends to owners of their stock. These companies must plan ahead to have funds available to make these dividend payments."
                     },
                     {
-                        "Paragraph_txt": "The following balance sheet illustrates the effects of issuing and selling the company’s own common stock:"
+                        "Paragraph_txt": "<br />The following balance sheet illustrates the effects of issuing and selling the company’s own common stock:"
                     }
                 ]
             },
@@ -277,13 +247,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that <em>preferred stock</em> usually carries a stated dividend rate that is paid before any payment of common stock dividends by the same company. Here, we discuss preferred stock from the perspective of those insurers that issue (sell) their own preferred stock. Thus, <em>Preferred Stock</em> is the owners’ equity account to which an insurer records the sales and repurchases of its own preferred stock. A typical accounting entry to record the issue and sale of the insurer’s preferred stock at par value is a debit to <em>Cash</em> and a credit to <em>Preferred Stock</em>."
                     },
                     {
-                        "Paragraph_txt": "The general characteristics of preferred stock as a source of financing are the same for stock insurance companies as they are for any other stock company and, in many ways, the same as the characteristics of common stock. Proceeds from the sale of an insurer’s preferred stock increase its owners’ equity just as do proceeds from the sale of common stock. In addition, a stock insurer that issues (sells) preferred stock must pay transaction costs that reduce its net proceeds from the sale of the stock."
+                        "Paragraph_txt": "<br />The general characteristics of preferred stock as a source of financing are the same for stock insurance companies as they are for any other stock company and, in many ways, the same as the characteristics of common stock. Proceeds from the sale of an insurer’s preferred stock increase its owners’ equity just as do proceeds from the sale of common stock. In addition, a stock insurer that issues (sells) preferred stock must pay transaction costs that reduce its net proceeds from the sale of the stock."
                     },
                     {
-                        "Paragraph_txt": "In contrast to common stock dividends, preferred stock dividends are payable according to a schedule. The insurer’s board of directors may choose not to declare the payment of a scheduled dividend on preferred stock if the insurer’s circumstances—such as extreme financial distress—warrant such a choice."
+                        "Paragraph_txt": "<br />In contrast to common stock dividends, preferred stock dividends are payable according to a schedule. The insurer’s board of directors may choose not to declare the payment of a scheduled dividend on preferred stock if the insurer’s circumstances—such as extreme financial distress—warrant such a choice."
                     },
                     {
-                        "Paragraph_txt": "The following balance sheet illustrates the effects of issuing and selling preferred stock (note that they are the same as those from issuing common stock):"
+                        "Paragraph_txt": "<br />The following balance sheet illustrates the effects of issuing and selling preferred stock (note that they are the same as those from issuing common stock):"
                     }
                 ]
             },
@@ -451,37 +421,37 @@ Lesson_Data_File([
                         "Paragraph_txt": "If the selling price of the stock issue is greater than the stock’s par value, insurers in the United States also credit <em>Additional Paid-In Capital</em> (U.S. GAAP) or <em>Gross Paid-In and Contributed Surplus </em>(SAP) for the excess of the selling price over the par value.<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Gross paid-in and contributed surplus</span> is the aggregate amount paid above the par value for shares of an insurer’s own stock under U.S. statutory accounting."
                     },
                     {
-                        "Paragraph_txt": "The following two accounting entries illustrate the sale of insurer common stock and insurer preferred stock at greater than par value (under U.S. GAAP):"
+                        "Paragraph_txt": "<br />The following two accounting entries illustrate the sale of insurer common stock and insurer preferred stock at greater than par value (under U.S. GAAP):"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……xxx"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Common Stock</em>…<wbr>……<wbr>……<wbr>……<wbr>…x"
+                        "Paragraph_txt": "<br /><em>Common Stock</em>…<wbr>……<wbr>……<wbr>……<wbr>…x"
                     },
                     {
-                        "Paragraph_txt": "<em>Additional Paid-In Capital</em>….…...xx"
+                        "Paragraph_txt": "<br /><em>Additional Paid-In Capital</em>….…...xx"
                     },
                     {
-                        "Paragraph_txt": "To record the sale of insurer common stock at greater than par value."
+                        "Paragraph_txt": "<br />To record the sale of insurer common stock at greater than par value."
                     },
                     {
-                        "Paragraph_txt": "Or"
+                        "Paragraph_txt": "<br />Or"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……xxx"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Preferred Stock</em>…<wbr>……<wbr>……<wbr>….…..x"
+                        "Paragraph_txt": "<br /><em>Preferred Stock</em>…<wbr>……<wbr>……<wbr>….…..x"
                     },
                     {
-                        "Paragraph_txt": "<em>Additional Paid-In Capital</em>….…..xx"
+                        "Paragraph_txt": "<br /><em>Additional Paid-In Capital</em>….…..xx"
                     },
                     {
-                        "Paragraph_txt": "To record the sale of insurer preferred stock at greater than par value."
+                        "Paragraph_txt": "<br />To record the sale of insurer preferred stock at greater than par value."
                     },
                     {
-                        "Paragraph_txt": "Video 9.2 presents an example of an insurer issuing common stock at a price greater than its par value."
+                        "Paragraph_txt": "<br />Video 9.2 presents an example of an insurer issuing common stock at a price greater than its par value."
                     }
                 ]
             },
@@ -649,19 +619,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "In certain situations, a stock insurer may decide to repurchase or retire some of its outstanding stock. For example, a stock insurer that believes its stock is undervalued may decide to repurchase or retire some of the outstanding stock. After the purchase, the same equity interest is spread over fewer shares, which results in an increase in the price per share."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Treasury stock</span> is stock that an insurer in the United States had previously issued (sold) and then later repurchased at its market price. Keep in mind that treasury stock refers to the insurer’s own stock—either common stock or preferred stock—not the stock of other companies that the insurer holds in one or more of its investment portfolios. The insurer can resell treasury stock on a stock exchange or through an employee compensation or retirement plan that enables employees to purchase shares of insurance company stock under specified conditions."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Treasury stock</span> is stock that an insurer in the United States had previously issued (sold) and then later repurchased at its market price. Keep in mind that treasury stock refers to the insurer’s own stock—either common stock or preferred stock—not the stock of other companies that the insurer holds in one or more of its investment portfolios. The insurer can resell treasury stock on a stock exchange or through an employee compensation or retirement plan that enables employees to purchase shares of insurance company stock under specified conditions."
                     },
                     {
-                        "Paragraph_txt": "Under U.S. GAAP, the basic accounting entry to record the purchase of treasury stock, when the insurer intends to resell it at a later date, consists of a debit to <em>Treasury Stock</em> and a credit to <em>Cash</em>. The treasury stock’s par value is not a factor in the purchase transaction; however, it will be a factor if the insurer resells the treasury stock at a later date. The insurer establishes an additional paid-in capital account for treasury stock resale transactions to keep these transactions separate from issues (sales) of its common stock and preferred stock at greater than par value. Gains from the sale of treasury stock are reported on the statement of owners’ equity."
+                        "Paragraph_txt": "<br />Under U.S. GAAP, the basic accounting entry to record the purchase of treasury stock, when the insurer intends to resell it at a later date, consists of a debit to <em>Treasury Stock</em> and a credit to <em>Cash</em>. The treasury stock’s par value is not a factor in the purchase transaction; however, it will be a factor if the insurer resells the treasury stock at a later date. The insurer establishes an additional paid-in capital account for treasury stock resale transactions to keep these transactions separate from issues (sales) of its common stock and preferred stock at greater than par value. Gains from the sale of treasury stock are reported on the statement of owners’ equity."
                     },
                     {
-                        "Paragraph_txt": "<em>Treasury Stock</em> is a contra account; specifically, it is a contra equity account, because its companion account—<em>Common Stock</em>—is an owners’ equity account. Recall that amounts in a contra account typically decrease the amount in the companion account. Therefore, increases in the amount in <em>Treasury Stock</em> decrease the amount in <em>Common Stock</em>, thus decreasing an insurer’s capital. For this reason, an insurer typically must obtain regulatory approval to purchase treasury stock."
+                        "Paragraph_txt": "<br /><em>Treasury Stock</em> is a contra account; specifically, it is a contra equity account, because its companion account—<em>Common Stock</em>—is an owners’ equity account. Recall that amounts in a contra account typically decrease the amount in the companion account. Therefore, increases in the amount in <em>Treasury Stock</em> decrease the amount in <em>Common Stock</em>, thus decreasing an insurer’s capital. For this reason, an insurer typically must obtain regulatory approval to purchase treasury stock."
                     },
                     {
-                        "Paragraph_txt": "If the insurer does not intend to reissue treasury stock, then the stock is called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">retired stock</span>. Under U.S. GAAP, the basic accounting entry to record the purchase of treasury stock, when the insurer intends to retire the stock, is a debit to <em>Treasury Stock</em>, a debit to <em>Additional Paid-In Capital</em>—<em>Treasury Stock</em>, and a credit to <em>Cash</em>. In the case of retired stock, the insurer deducts the number of shares and their monetary value from the capital account."
+                        "Paragraph_txt": "<br />If the insurer does not intend to reissue treasury stock, then the stock is called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">retired stock</span>. Under U.S. GAAP, the basic accounting entry to record the purchase of treasury stock, when the insurer intends to retire the stock, is a debit to <em>Treasury Stock</em>, a debit to <em>Additional Paid-In Capital</em>—<em>Treasury Stock</em>, and a credit to <em>Cash</em>. In the case of retired stock, the insurer deducts the number of shares and their monetary value from the capital account."
                     },
                     {
-                        "Paragraph_txt": "Under statutory accounting, the purchase of treasury stock reduces an insurer’s total surplus. An insurer reports treasury stock at the bottom of the <em>Liabilities, Surplus and Other Funds</em> page, in the special section on capital and surplus."
+                        "Paragraph_txt": "<br />Under statutory accounting, the purchase of treasury stock reduces an insurer’s total surplus. An insurer reports treasury stock at the bottom of the <em>Liabilities, Surplus and Other Funds</em> page, in the special section on capital and surplus."
                     }
                 ]
             },

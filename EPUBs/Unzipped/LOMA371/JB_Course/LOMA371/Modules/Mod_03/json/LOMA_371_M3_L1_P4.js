@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Measuring Product Profitability",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -374,10 +344,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "If NPV is a positive number, then the product is expected to earn a profit as long as the assumptions are accurate. The general rule for NPV is that as long as a proposed product’s NPV is positive, the insurer should consider pursuing the product."
                     },
                     {
-                        "Paragraph_txt": "The NPV approach uses present value calculations. When calculating the PV of earnings, an insurer selects an interest rate, <em>i</em>, that reflects the return the company believes would be necessary to accept the risk inherent in the product. So, for instance, if an insurer selects a 10 percent interest rate, the company has decided it is willing to accept the risk the new product represents as long as the product’s estimated return over the period is at least 10 percent. Insurers generally select lower interest rates for products that represent lower risks and higher interest rates for products that represent higher risks, with a general eye towards conservatism."
+                        "Paragraph_txt": "<br />The NPV approach uses present value calculations. When calculating the PV of earnings, an insurer selects an interest rate, <em>i</em>, that reflects the return the company believes would be necessary to accept the risk inherent in the product. So, for instance, if an insurer selects a 10 percent interest rate, the company has decided it is willing to accept the risk the new product represents as long as the product’s estimated return over the period is at least 10 percent. Insurers generally select lower interest rates for products that represent lower risks and higher interest rates for products that represent higher risks, with a general eye towards conservatism."
                     },
                     {
-                        "Paragraph_txt": "The insight below demonstrates how changes in interest rates affect NPV."
+                        "Paragraph_txt": "<br />The insight below demonstrates how changes in interest rates affect NPV."
                     }
                 ]
             },
@@ -440,7 +410,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Consider a product with an initial investment of $150 and an earnings pattern of $50 a year for five years. Assuming that the insurer estimated a rate of 10% interest, the PV and NPV calculations would appear as follows:"
                     },
                     {
-                        "Paragraph_txt": "<strong>10% Interest</strong>"
+                        "Paragraph_txt": "<br /><strong>10% Interest</strong>"
                     }
                 ]
             },
@@ -699,10 +669,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because NPV is a positive value, the product is expected to earn a profit."
                     },
                     {
-                        "Paragraph_txt": "Now assume that the initial investment of $150 remains the same, and that the product’s earnings pattern is the same, but the interest rate rises to 15%. The discounting rate goes up, and the NPV would be calculated as follows:"
+                        "Paragraph_txt": "<br />Now assume that the initial investment of $150 remains the same, and that the product’s earnings pattern is the same, but the interest rate rises to 15%. The discounting rate goes up, and the NPV would be calculated as follows:"
                     },
                     {
-                        "Paragraph_txt": "<strong>15% Interest</strong>"
+                        "Paragraph_txt": "<br /><strong>15% Interest</strong>"
                     }
                 ]
             },
@@ -1141,10 +1111,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "An insurer can instead use the company’s hurdle rate as its required IRR. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">hurdle rate</span>, or <em>required return</em>, is a minimum percentage rate of return on capital that an insurer must earn to cover its cost of capital. From an insurer’s perspective, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost of capital</span> is the overall percentage cost the insurer pays for the funds it employs. Although the methods used to calculate the cost of capital vary, they generally involve a combination of the various interest costs, transaction costs, and cost of equity an insurer pays for funds. An insurer’s hurdle rate, which is independent of product risk, typically applies to all products and all lines of business."
                     },
                     {
-                        "Paragraph_txt": "IRR is not suited for making subtle distinctions, because it relies on a large number of assumptions such as whether or not assets can be reinvested at comparable interest rates. Moreover, IRR does not automatically incorporate the risk involved with a given product. Insurers wishing to take into consideration the level of risk in a product’s cash flows can set a <em>risk-adjusted minimum IRR </em>for a product and then compare the product’s projected IRR to the risk-adjusted minimum IRR."
+                        "Paragraph_txt": "<br />IRR is not suited for making subtle distinctions, because it relies on a large number of assumptions such as whether or not assets can be reinvested at comparable interest rates. Moreover, IRR does not automatically incorporate the risk involved with a given product. Insurers wishing to take into consideration the level of risk in a product’s cash flows can set a <em>risk-adjusted minimum IRR </em>for a product and then compare the product’s projected IRR to the risk-adjusted minimum IRR."
                     },
                     {
-                        "Paragraph_txt": "Whether a product’s projected IRR is acceptable for the level of risk it represents depends on the decision rule the insurer establishes. A simple decision rule is to require that the projected IRR be <em>equal</em> or <em>greater</em> to the insurer’s risk-adjusted minimum IRR for the product. Therefore, if the projected IRR is <em>less</em> than the risk-adjusted minimum IRR, then the insurer will likely not proceed with developing the product as is. We can summarize this rule as follows:"
+                        "Paragraph_txt": "<br />Whether a product’s projected IRR is acceptable for the level of risk it represents depends on the decision rule the insurer establishes. A simple decision rule is to require that the projected IRR be <em>equal</em> or <em>greater</em> to the insurer’s risk-adjusted minimum IRR for the product. Therefore, if the projected IRR is <em>less</em> than the risk-adjusted minimum IRR, then the insurer will likely not proceed with developing the product as is. We can summarize this rule as follows:"
                     }
                 ]
             },
@@ -1207,10 +1177,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>ACCEPT if Projected IRR ≥ Risk-adjusted minimum IRR</strong>"
                     },
                     {
-                        "Paragraph_txt": "<strong>REJECT if Projected IRR &lt; Risk-adjusted minimum IRR</strong>"
+                        "Paragraph_txt": "<br /><strong>REJECT if Projected IRR &lt; Risk-adjusted minimum IRR</strong>"
                     },
                     {
-                        "Paragraph_txt": "After taking into account the level of risk in their new product’s cash flows, Amaranth determined that the risk-adjusted minimum IRR for its new product would be 9.50 percent. Because the product’s projected IRR of 8.54 is less than this number, the product’s current design would likely not be profitable. Amaranth decides to make changes to the product design before pursuing further development."
+                        "Paragraph_txt": "<br />After taking into account the level of risk in their new product’s cash flows, Amaranth determined that the risk-adjusted minimum IRR for its new product would be 9.50 percent. Because the product’s projected IRR of 8.54 is less than this number, the product’s current design would likely not be profitable. Amaranth decides to make changes to the product design before pursuing further development."
                     }
                 ]
             },
@@ -1407,7 +1377,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For a life insurance or annuity product, profit is equal to the product’s net cash flow, adjusted for investment earnings and reserves. Sales revenues for an insurance product are represented by premiums. Because cash flows and premiums are generated over many years, an insurer must use present value calculations to determine profit margin."
                     },
                     {
-                        "Paragraph_txt": "Therefore, for a multiple-premium life insurance or annuity product, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">profit margin</span> is the present value of profits divided by the present value of premiums, as shown:"
+                        "Paragraph_txt": "<br />Therefore, for a multiple-premium life insurance or annuity product, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">profit margin</span> is the present value of profits divided by the present value of premiums, as shown:"
                     }
                 ]
             },

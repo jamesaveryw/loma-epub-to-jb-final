@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Asset Valuation",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "For financial reporting purposes, life insurers must be able to assign a value to everything they own, everything they owe, and everything they have retained. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Valuation</span> is the process of calculating the monetary value of an insurer’s assets, liabilities, and owners’ equity for accounting and financial reporting purposes. Here our focus is on the valuation of an insurer’s assets."
                     },
                     {
-                        "Paragraph_txt": "Insurers use several methods of valuing assets. The asset valuation method used depends on a number of factors, including regulatory requirements, the type of asset, and the purpose for holding the asset."
+                        "Paragraph_txt": "<br />Insurers use several methods of valuing assets. The asset valuation method used depends on a number of factors, including regulatory requirements, the type of asset, and the purpose for holding the asset."
                     },
                     {
-                        "Paragraph_txt": "Insurance regulators typically specify the valuation methods insurers must use for different types of assets. To comply with statutory reporting requirements, life insurers that conduct business in the United States value their assets under the guidance of the <em>NAIC Accounting Practices &amp; Procedures Manual</em> and the <em>Purposes and Procedures Manual of the NAIC Investment Analysis Office</em>. The following sections discuss common valuation methods based on cost and those based on fair value."
+                        "Paragraph_txt": "<br />Insurance regulators typically specify the valuation methods insurers must use for different types of assets. To comply with statutory reporting requirements, life insurers that conduct business in the United States value their assets under the guidance of the <em>NAIC Accounting Practices &amp; Procedures Manual</em> and the <em>Purposes and Procedures Manual of the NAIC Investment Analysis Office</em>. The following sections discuss common valuation methods based on cost and those based on fair value."
                     }
                 ]
             },
@@ -184,7 +154,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that an asset’s <em>historical cost</em> is the price originally paid for the asset. Historical cost is a simple asset valuation method because nearly all assets have a readily determinable historical cost. On the date of purchase, an asset’s historical cost equals its book value. As we’ve discussed, the <em>book value</em> of an asset is the value at which a company records the asset in its accounting records and reports the asset on its balance sheet."
                     },
                     {
-                        "Paragraph_txt": "Here, we are concerned with the effects of amortization and depreciation on an asset’s book value after the date of purchase. <em>Amortization</em>, which typically applies to certain long-term assets such as bonds and mortgages, is the periodic and systematic increase or decrease of the original cost of an investment to its ultimate value at maturity. An asset’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">amortized cost</span> is the asset’s book value after its cost has been adjusted for applicable amortization. We earlier defined <em>depreciation</em>, which typically applies to long-term fixed assets such as buildings and other real estate, as the allocation (spreading) of the cost of an asset over the asset’s estimated useful life. An asset’s <em>depreciated cost</em> is the asset’s book value after applicable depreciation has been deducted from its cost. The total amount of depreciation allocated to an asset as of a specified date is called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">accumulated depreciation</span>."
+                        "Paragraph_txt": "<br />Here, we are concerned with the effects of amortization and depreciation on an asset’s book value after the date of purchase. <em>Amortization</em>, which typically applies to certain long-term assets such as bonds and mortgages, is the periodic and systematic increase or decrease of the original cost of an investment to its ultimate value at maturity. An asset’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">amortized cost</span> is the asset’s book value after its cost has been adjusted for applicable amortization. We earlier defined <em>depreciation</em>, which typically applies to long-term fixed assets such as buildings and other real estate, as the allocation (spreading) of the cost of an asset over the asset’s estimated useful life. An asset’s <em>depreciated cost</em> is the asset’s book value after applicable depreciation has been deducted from its cost. The total amount of depreciation allocated to an asset as of a specified date is called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">accumulated depreciation</span>."
                     }
                 ]
             },
@@ -247,7 +217,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Flotilla Life Insurance Company purchased a building five years ago for $500,000. Depreciation expense on the building is $10,000 per year."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> The building’s <em>historical cost </em>is $500,000. The <em>accumulated depreciation </em>on the building is $50,000, calculated as 5 years × $10,000 of depreciation expense per year. The building’s <em>depreciated cost</em>, which is now its <em>book value</em>, is $450,000, calculated as $500,000 – (5 × $10,000)."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> The building’s <em>historical cost </em>is $500,000. The <em>accumulated depreciation </em>on the building is $50,000, calculated as 5 years × $10,000 of depreciation expense per year. The building’s <em>depreciated cost</em>, which is now its <em>book value</em>, is $450,000, calculated as $500,000 – (5 × $10,000)."
                     }
                 ]
             },
@@ -310,13 +280,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although valuation methods based on cost are relatively easy to understand and to uncover, an asset’s cost may have little relevance to the asset’s value today or in the future. For example, an insurer that purchased the common stock of a successful company 10 years ago would be unlikely to buy, hold, or sell that stock today based on the original cost of the stock. In this case, the fair value of the stock would be more relevant."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Fair value</span> is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants on the valuation date. Quoted market prices in active markets are usually the best evidence of fair value. The fair value of most assets fluctuates over time and may vary considerably from both the historical cost and amortized cost."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Fair value</span> is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants on the valuation date. Quoted market prices in active markets are usually the best evidence of fair value. The fair value of most assets fluctuates over time and may vary considerably from both the historical cost and amortized cost."
                     },
                     {
-                        "Paragraph_txt": "A fair market for the purchase and sale of assets is critical to the concept of fair value accounting and to the value associated with each asset. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Fair value accounting</span>is the process of valuing a company’s balance sheet accounts, including assets, on the price that the asset would bring in an active, organized market in which (1) the asset sale is not the result of liquidation, and (2) neither the buyer nor the seller is forced to enter the transaction. The purpose of fair value accounting is to provide transparent, validated information about the values for a company’s balance sheet accounts. "
+                        "Paragraph_txt": "<br />A fair market for the purchase and sale of assets is critical to the concept of fair value accounting and to the value associated with each asset. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Fair value accounting</span>is the process of valuing a company’s balance sheet accounts, including assets, on the price that the asset would bring in an active, organized market in which (1) the asset sale is not the result of liquidation, and (2) neither the buyer nor the seller is forced to enter the transaction. The purpose of fair value accounting is to provide transparent, validated information about the values for a company’s balance sheet accounts. "
                     },
                     {
-                        "Paragraph_txt": "Insurers sometimes have difficulty assigning an objective value to assets that are not actively traded. Instead, such assets might be assigned a value based on internal management projections or other subjective valuation methods. In valuing assets that are not actively traded, U.S. life insurers also consult various resources provided by the NAIC. For example, the NAIC has a department—the <em>Securities Valuation Office</em> <em>(SVO)</em>—that is responsible for the ongoing credit quality assessment and valuation of securities owned by state-regulated insurance companies. The NAIC also offers an <em>Automated Valuation Service</em> <em>(AVS)</em>, which provides access to the <em>Valuation of Securities</em> <em>(VOS)</em> database, from which an insurer can quickly price its securities for the Annual Statement."
+                        "Paragraph_txt": "<br />Insurers sometimes have difficulty assigning an objective value to assets that are not actively traded. Instead, such assets might be assigned a value based on internal management projections or other subjective valuation methods. In valuing assets that are not actively traded, U.S. life insurers also consult various resources provided by the NAIC. For example, the NAIC has a department—the <em>Securities Valuation Office</em> <em>(SVO)</em>—that is responsible for the ongoing credit quality assessment and valuation of securities owned by state-regulated insurance companies. The NAIC also offers an <em>Automated Valuation Service</em> <em>(AVS)</em>, which provides access to the <em>Valuation of Securities</em> <em>(VOS)</em> database, from which an insurer can quickly price its securities for the Annual Statement."
                     }
                 ]
             },
@@ -770,7 +740,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Stardust Life Insurance Company owns a bond that has an amortized cost, or book value, of $50,000. The fair value of this bond is $46,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Under SAP, the fair value of this bond is less than its book value, resulting in an unrealized capital loss of $4,000, calculated as $46,000 – $50,000."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Under SAP, the fair value of this bond is less than its book value, resulting in an unrealized capital loss of $4,000, calculated as $46,000 – $50,000."
                     }
                 ]
             },
@@ -1248,7 +1218,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Note that our previous example results in the same values under GAAP, because Stardust’s bond has an amortized cost of $50,000, whereas its fair value is $46,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Under GAAP, the fair value of this bond is less than its amortized cost, resulting in an unrealized capital loss of $4,000, calculated as $46,000 – $50,000."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Under GAAP, the fair value of this bond is less than its amortized cost, resulting in an unrealized capital loss of $4,000, calculated as $46,000 – $50,000."
                     }
                 ]
             },
@@ -1534,7 +1504,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Stardust decided to sell 50 shares of stock that it owned in the Wavelength Corporation. The historical cost of the stock was $10 per share. When Stardust sold the stock, the net sales proceeds were $30 per share."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Under SAP and GAAP, the realized capital gain on the Wavelength stock was equal to $1,000, calculated as (50 × $30) – (50 × $10)."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Under SAP and GAAP, the realized capital gain on the Wavelength stock was equal to $1,000, calculated as (50 × $30) – (50 × $10)."
                     }
                 ]
             },
@@ -1816,7 +1786,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Stardust owns 100 shares of stock in the Briar Corporation. The historical cost of the stock is $50 per share. At the current time, the stock’s fair value is $20 per share."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Under SAP and GAAP, the unrealized capital loss on the Briar stock is equal to $3,000, calculated as (100 × $20) – (100 × $50)."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Under SAP and GAAP, the unrealized capital loss on the Briar stock is equal to $3,000, calculated as (100 × $20) – (100 × $50)."
                     }
                 ]
             },
@@ -2075,7 +2045,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers must continually assess the fair market value of each asset purchased relative to its cost. When the fair market value of an asset is less than its cost, the insurer must determine whether this decline is temporary. When the decline in the fair market value is not temporary, the insurer typically classifies the asset as <em>other-than-temporarily impaired</em> <em>(OTTI)</em>, and writes down the value of the asset to its fair market value. A <em>write-down</em> is a permanent adjustment in the book value of an asset whose fair market value is deemed to be OTTI."
                     },
                     {
-                        "Paragraph_txt": "The loss on an OTTI asset that an insurer still owns is considered a realized capital loss rather than an unrealized capital loss because the asset’s book value has been permanently adjusted. Once an asset has been written down as a realized capital loss, it cannot be written back up, even if the asset recovers its market value."
+                        "Paragraph_txt": "<br />The loss on an OTTI asset that an insurer still owns is considered a realized capital loss rather than an unrealized capital loss because the asset’s book value has been permanently adjusted. Once an asset has been written down as a realized capital loss, it cannot be written back up, even if the asset recovers its market value."
                     }
                 ]
             },

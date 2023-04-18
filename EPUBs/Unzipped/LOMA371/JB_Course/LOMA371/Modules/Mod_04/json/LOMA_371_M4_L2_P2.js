@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Types of Annuities",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -212,6 +182,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 11.1 Key Periods for Immediate and Deferred Annuities</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "11-1figure.jpg",
@@ -230,7 +233,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 11.1</strong> Key Periods for Immediate and Deferred Annuities",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -332,10 +335,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "With a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fixed annuity</span>, the insurer guarantees (1) the minimum interest rate that it will apply to any accumulated value and (2) the minimum amount of the annuity payments that it will pay. Depending on the contract owner’s choices, a fixed annuity is also either an immediate annuity or a deferred annuity."
                     },
                     {
-                        "Paragraph_txt": "For fixed annuities, the insurer decides how to invest premiums and manages its general account assets so as to support the contractual guarantees. Thus, for fixed annuities, the insurer bears the investment risk."
+                        "Paragraph_txt": "<br />For fixed annuities, the insurer decides how to invest premiums and manages its general account assets so as to support the contractual guarantees. Thus, for fixed annuities, the insurer bears the investment risk."
                     },
                     {
-                        "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fixed indexed annuity (FIA)</span>, also called an <em>indexed annuity</em>, is a type of fixed deferred annuity that offers principal and interest rate guarantees, as well as the possibility of additional earnings based on changes in an index. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">index</span> is a statistical measurement system that tracks the changes in a group of similar values. We will describe an FIA’s index-crediting mechanism later in this chapter."
+                        "Paragraph_txt": "<br />A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fixed indexed annuity (FIA)</span>, also called an <em>indexed annuity</em>, is a type of fixed deferred annuity that offers principal and interest rate guarantees, as well as the possibility of additional earnings based on changes in an index. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">index</span> is a statistical measurement system that tracks the changes in a group of similar values. We will describe an FIA’s index-crediting mechanism later in this chapter."
                     }
                 ]
             },
@@ -371,10 +374,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "With a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">variable annuity</span>, the amount of the accumulated value and the amount of the annuity payments fluctuate in accordance with the performance of one or more subaccounts. Premiums allocated to subaccounts are invested with an insurer’s separate accounts."
                     },
                     {
-                        "Paragraph_txt": "Compared to fixed annuities, variable annuities offer customers the possibility of greater investment growth in exchange for more investment risk and fewer guarantees. Because a variable annuity’s contract owner selects subaccounts, the owner—not the insurer—directly bears the investment risk associated with these subaccounts."
+                        "Paragraph_txt": "<br />Compared to fixed annuities, variable annuities offer customers the possibility of greater investment growth in exchange for more investment risk and fewer guarantees. Because a variable annuity’s contract owner selects subaccounts, the owner—not the insurer—directly bears the investment risk associated with these subaccounts."
                     },
                     {
-                        "Paragraph_txt": "To mitigate risk, a variable annuity contract owner can usually place a portion of premiums in a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fixed fund option</span>, which guarantees a fixed rate of interest for a specified period of time. Premiums allocated to a fixed fund option are invested with the insurer’s general account. A fixed fund option has virtually the same characteristics as a fixed deferred annuity."
+                        "Paragraph_txt": "<br />To mitigate risk, a variable annuity contract owner can usually place a portion of premiums in a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fixed fund option</span>, which guarantees a fixed rate of interest for a specified period of time. Premiums allocated to a fixed fund option are invested with the insurer’s general account. A fixed fund option has virtually the same characteristics as a fixed deferred annuity."
                     }
                 ]
             },

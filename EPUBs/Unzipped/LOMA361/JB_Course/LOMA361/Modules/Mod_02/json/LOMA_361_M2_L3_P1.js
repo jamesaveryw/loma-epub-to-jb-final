@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Introduction",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -110,133 +80,6 @@ Lesson_Data_File([
                     },
                     {
                         "Paragraph_txt": ""
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "The Concept of Reserves"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Actuarial Assumptions"
-                            },
-                            {
-                                "lstText": "Accounting Records and Reserves"
-                            },
-                            {
-                                "lstText": "Reserves for Products"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Reserves, Net Income, and Surplus"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Strengthening and Destrengthening Reserves"
-                            },
-                            {
-                                "lstText": "Surplus Strain"
-                            },
-                            {
-                                "lstText": "Deferred Acquisition Costs"
-                            },
-                            {
-                                "lstText": "Reinsurance and Reserve Credits"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
                     }
                 ]
             },
@@ -340,7 +183,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Reserves are significant liabilities for insurers. For a life insurer, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">reserves</span>are estimates of the amounts of money that the insurer needs to pay future contract obligations. Because reserves are a critical component of an insurer’s solvency, insurance companies and regulators place great emphasis on establishing adequate reserves. "
                     },
                     {
-                        "Paragraph_txt": "Why is it so important for an insurer to have adequate reserves? Let’s look at what happens when an insurer’s reserves are inadequate:"
+                        "Paragraph_txt": "<br />Why is it so important for an insurer to have adequate reserves? Let’s look at what happens when an insurer’s reserves are inadequate:"
                     }
                 ]
             },
@@ -403,7 +246,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Assume that an insurer’s reserves are underestimated; this means its surplus will be overstated, and the insurer may appear financially stronger than it really is. When contractual obligations come due, the insurer will have to use more of its assets than anticipated to pay these obligations, which will reduce its surplus. This unexpected reduction in surplus could impair the insurer’s future operations or, if the reduction is significant enough, threaten the insurer’s solvency."
                     },
                     {
-                        "Paragraph_txt": "On the other hand, overestimating reserves can cause problems for an insurer, too. The insurer’s surplus will initially be understated, making the company appear weaker than it really is. In such a situation, the insurer’s future operations could be impeded, or the insurer could miss out on important business opportunities."
+                        "Paragraph_txt": "<br />On the other hand, overestimating reserves can cause problems for an insurer, too. The insurer’s surplus will initially be understated, making the company appear weaker than it really is. In such a situation, the insurer’s future operations could be impeded, or the insurer could miss out on important business opportunities."
                     }
                 ]
             },

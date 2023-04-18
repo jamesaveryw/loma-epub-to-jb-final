@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Solvency Standards",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -207,7 +177,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Each state has its own solvency laws. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Solvency laws</span> are laws designed to ensure that insurance companies are financially able to meet their debts and to pay policy benefits when they come due. In the United States, insurance company solvency is primarily regulated at the state level and is greatly influenced by the actions of the <em>National Association of Insurance Commissioners (NAIC)</em>. The NAIC is a private, nonprofit association of the insurance commissioners of 50 states, the District of Columbia, and the U.S. territories. The NAIC’s primary function is to promote uniformity of state insurance regulation by developing model laws and regulations that serve as guidelines for the states. As you will see, the NAIC has developed many model laws and regulations that influence a number of insurer practices: contractual reserves, capital requirements, reinsurance, data security, investment valuation, corporate governance, and so on."
                     },
                     {
-                        "Paragraph_txt": "States are not required to adopt NAIC model laws and regulations as written; instead, they may either modify the models or choose not to adopt them at all. Thus, insurers must be aware of the NAIC model laws, as well as the laws and regulations of every state in which they operate. Managing these regulatory variations is one of the many complexities facing solvency experts."
+                        "Paragraph_txt": "<br />States are not required to adopt NAIC model laws and regulations as written; instead, they may either modify the models or choose not to adopt them at all. Thus, insurers must be aware of the NAIC model laws, as well as the laws and regulations of every state in which they operate. Managing these regulatory variations is one of the many complexities facing solvency experts."
                     }
                 ]
             },
@@ -243,13 +213,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "One way regulators ensure solvency is by requiring each insurer to maintain a minimum amount of contractual reserves. As discussed in Chapter 1, <em>contractual reserves </em>represent the amount that, together with future premiums and investment income, an insurer estimates it needs to pay contractual benefits as they come due. As an insurer must establish reserves for all of the policies it issues, it factors contractual reserves into product pricing. The financial design of an insurance product must allow the company to meet contractual reserve requirements at all times."
                     },
                     {
-                        "Paragraph_txt": "Over time, an insurer may need to adjust its reserve amounts. For example, new regulations may require insurers to increase reserves. In addition, insurers periodically analyze experience data to measure how the pricing assumptions made during technical product design compare to the actual experience of a given block of business. Deviations in any of these actuarial assumptions can result in adjustments to reserves. The company may decrease or increase reserves to reflect actual experience."
+                        "Paragraph_txt": "<br />Over time, an insurer may need to adjust its reserve amounts. For example, new regulations may require insurers to increase reserves. In addition, insurers periodically analyze experience data to measure how the pricing assumptions made during technical product design compare to the actual experience of a given block of business. Deviations in any of these actuarial assumptions can result in adjustments to reserves. The company may decrease or increase reserves to reflect actual experience."
                     },
                     {
-                        "Paragraph_txt": "The amount of a particular contractual reserve depends on the method used to calculate the reserve and the level of conservatism reflected in the reserve valuation. The larger and more conservative an insurer’s reserves, the more protection the reserves provide against adverse deviations in experience. Therefore, increasing its reserves can help an insurer protect and improve its solvency."
+                        "Paragraph_txt": "<br />The amount of a particular contractual reserve depends on the method used to calculate the reserve and the level of conservatism reflected in the reserve valuation. The larger and more conservative an insurer’s reserves, the more protection the reserves provide against adverse deviations in experience. Therefore, increasing its reserves can help an insurer protect and improve its solvency."
                     },
                     {
-                        "Paragraph_txt": "However, increases in reserves can also negatively affect insurers. Because reserves are carried on the statutory balance sheet as a liability, increases in reserves are pulled from the insurer’s capital and surplus. Reserves are typically required to be highly liquid and of low risk. As such, the amount held in reserves generally generates conservative returns. A company that holds too much in reserves is using its capital inefficiently. For example, increasing reserves may prevent an insurer from investing capital in growth opportunities and realizing expected profitability."
+                        "Paragraph_txt": "<br />However, increases in reserves can also negatively affect insurers. Because reserves are carried on the statutory balance sheet as a liability, increases in reserves are pulled from the insurer’s capital and surplus. Reserves are typically required to be highly liquid and of low risk. As such, the amount held in reserves generally generates conservative returns. A company that holds too much in reserves is using its capital inefficiently. For example, increasing reserves may prevent an insurer from investing capital in growth opportunities and realizing expected profitability."
                     }
                 ]
             },
@@ -347,16 +317,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "Historically, insurers in the United States have followed a <em>rules-based reserving</em> approach to reserve valuation, in which life insurers establish statutory reserves for their products based on prescribed formulas and assumptions. Under this approach, all life insurance companies that sold a specific product were required to use the same formula for reserve valuation and the same estimates of future mortality and investment experience. This “one-size-fits-all” approach created situations in which some insurers were holding either too little or too much in statutory reserves for a given product."
                     },
                     {
-                        "Paragraph_txt": "To address this imbalance, insurers throughout the world—including those in the United States, Canada, and countries in the European Union—are shifting toward <span class=\"keyterm\" tabindex=\"0\" role=\"button\">principles-based reserving (PBR)</span>, in which actuarial assumptions, and therefore reserve levels, change as the economic environment and other risk factors change. This approach is unlike the more formulaic rules-based approach, where assumptions are prescribed and locked in when policies are issued. PBR attempts to “rightsize” an insurer’s reserves, so that the reserves an insurer holds are based on either prescribed factors or on the insurer’s own experience and risks, whichever is greater. This rightsizing is important for establishing appropriate reserve levels because reserves that are too high can mean consumers pay higher prices for products than needed, and reserves that are too low can threaten an insurer’s ability to pay contractual benefits. By enabling insurers to calculate and report more accurate estimates for their statutory reserves, PBR enhances the reporting function and strengthens the financial position of the insurers that use it."
+                        "Paragraph_txt": "<br />To address this imbalance, insurers throughout the world—including those in the United States, Canada, and countries in the European Union—are shifting toward <span class=\"keyterm\" tabindex=\"0\" role=\"button\">principles-based reserving (PBR)</span>, in which actuarial assumptions, and therefore reserve levels, change as the economic environment and other risk factors change. This approach is unlike the more formulaic rules-based approach, where assumptions are prescribed and locked in when policies are issued. PBR attempts to “rightsize” an insurer’s reserves, so that the reserves an insurer holds are based on either prescribed factors or on the insurer’s own experience and risks, whichever is greater. This rightsizing is important for establishing appropriate reserve levels because reserves that are too high can mean consumers pay higher prices for products than needed, and reserves that are too low can threaten an insurer’s ability to pay contractual benefits. By enabling insurers to calculate and report more accurate estimates for their statutory reserves, PBR enhances the reporting function and strengthens the financial position of the insurers that use it."
                     },
                     {
-                        "Paragraph_txt": "The NAIC revised the Standard Valuation Law (SVL) to reflect the new PBR framework for calculating life insurance policy reserves. The revisions include expanded reserve calculations and mandated financial statement governance rules. The SVL formally established the <em>Valuation Manual (VM)</em> to assist companies in implementing PBR."
+                        "Paragraph_txt": "<br />The NAIC revised the Standard Valuation Law (SVL) to reflect the new PBR framework for calculating life insurance policy reserves. The revisions include expanded reserve calculations and mandated financial statement governance rules. The SVL formally established the <em>Valuation Manual (VM)</em> to assist companies in implementing PBR."
                     },
                     {
-                        "Paragraph_txt": "The new PBR framework for the calculation of life insurance contractual reserves works in the best interest of consumers, the insurance industry, and regulators to better capture the risks of a life insurance company. The framework requires the company to directly reflect its business strategies in the calculation of reserves, and to better capture the risks of the many complex products offered in today’s life insurance market."
+                        "Paragraph_txt": "<br />The new PBR framework for the calculation of life insurance contractual reserves works in the best interest of consumers, the insurance industry, and regulators to better capture the risks of a life insurance company. The framework requires the company to directly reflect its business strategies in the calculation of reserves, and to better capture the risks of the many complex products offered in today’s life insurance market."
                     },
                     {
-                        "Paragraph_txt": "On January 1, 2020, compliance with PBR became mandatory for all companies not otherwise exempted. An exemption after this date is available to smaller, well-capitalized life insurers that meet specified requirements."
+                        "Paragraph_txt": "<br />On January 1, 2020, compliance with PBR became mandatory for all companies not otherwise exempted. An exemption after this date is available to smaller, well-capitalized life insurers that meet specified requirements."
                     }
                 ]
             },
@@ -392,7 +362,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Minimum reserve requirements are designed to ensure that insurers will have enough money to pay claims on time. However, changes in economic conditions—such as inflation, deflation, and changes in market interest rates—can reduce the value of an insurer’s assets, leaving a gap between the company’s contractual reserves and its contractual obligations to customers. To guard against this possibility, most jurisdictions require insurers to maintain at least a minimum amount, or standard, of capital to cover the gap. This minimum amount of capital, referred to as a company’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">minimum capital standard</span>, is the difference between the company’s total assets and total required liabilities. The amount of capital required depends on how risky an insurer’s products and investments are."
                     },
                     {
-                        "Paragraph_txt": "There are three types of capital standards: regulatory capital, rating agency capital, and economic capital."
+                        "Paragraph_txt": "<br />There are three types of capital standards: regulatory capital, rating agency capital, and economic capital."
                     }
                 ]
             },
@@ -428,7 +398,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Regulators require insurance companies to maintain specified levels of capital, over and above reserves, in order to continue conducting business. The various forms of required capital are generally referred to as <em>regulatory capital</em>. In particular, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">statutory capital</span> is the legal minimum standard of capital that an insurer must maintain in order to be considered solvent by the regulatory authorities. Failure to meet this standard signals impending insolvency."
                     },
                     {
-                        "Paragraph_txt": "In the 1990s, the NAIC introduced a risk-based capital (RBC) formula for calculating capital standards. The risk-based formula generates a minimum capital requirement based on the types of risks most insurers face. We will discuss risk-based capital in further detail later in this chapter."
+                        "Paragraph_txt": "<br />In the 1990s, the NAIC introduced a risk-based capital (RBC) formula for calculating capital standards. The risk-based formula generates a minimum capital requirement based on the types of risks most insurers face. We will discuss risk-based capital in further detail later in this chapter."
                     }
                 ]
             },
@@ -497,7 +467,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Economic capital</span>, also known as <em>internal capital</em>, is an estimate of the amount of capital that a financial institution calculates to internally manage its own risks. Economic capital is designed to cover unexpected obligations and adverse deviations in pricing assumptions. In determining economic capital, an insurer is attempting to answer the question, “How much capital does our company need to hold in order to remain solvent XX.X percent of the time, given our risk profile?” A typical value for the specified percentage is 99.5 percent, but an insurer could choose a lower value. Economic capital is usually higher than rating agency capital and regulatory capital."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the three types of capital standards:"
+                        "Paragraph_txt": "<br />The following chart summarizes the three types of capital standards:"
                     }
                 ]
             },
@@ -759,6 +729,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.1 Contingency Risks</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "2-1figure.jpg",
@@ -777,7 +780,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.1</strong> Contingency Risks",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -905,10 +908,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The RBC formula tries to capture all the material risks that are common to the particular type of insurance product. Each risk is measured by applying a risk factor to an amount extracted from the insurer’s financial statements, which helps regulators to determine the amount of capital required to cover potential losses on assets. Insurance regulators attempt to limit the amount of risk an insurer chooses to take by applying <em>risk capital charges</em>, which effectively reduce or discount the value of the company’s assets according to each asset’s risk factor."
                     },
                     {
-                        "Paragraph_txt": "The purpose of risk capital charges is to acknowledge that invested assets are inherently risky and can result in financial losses. Riskier assets incur higher risk charges; thus, insurers holding assets with higher risk charges will need to hold higher amounts of capital to satisfy regulators and provide extra protection against insolvency. Once the risk measures are calculated for all risk components, they are included in the RBC formula."
+                        "Paragraph_txt": "<br />The purpose of risk capital charges is to acknowledge that invested assets are inherently risky and can result in financial losses. Riskier assets incur higher risk charges; thus, insurers holding assets with higher risk charges will need to hold higher amounts of capital to satisfy regulators and provide extra protection against insolvency. Once the risk measures are calculated for all risk components, they are included in the RBC formula."
                     },
                     {
-                        "Paragraph_txt": "The RBC formula is used to determine a company’s <em>risk-based capital (RBC) ratio</em>. The RBC ratio is calculated by dividing the <em>total adjusted capital (TAC)</em> of the company by the required risk-based capital. For an insurer, the higher the RBC ratio, the better. For example, a company with a 400% RBC ratio has four times as much total adjusted capital as risk-based capital.<span class=\"ens\" id=\"loma371-ch2-span-26\"> <span class=\"endnote hidden\" data-note=\"loma371-ch2-en2\" epub:type=\"noteref\" id=\"loma371-ch2-span-27\" role=\"doc-noteref\">2</span> </span>"
+                        "Paragraph_txt": "<br />The RBC formula is used to determine a company’s <em>risk-based capital (RBC) ratio</em>. The RBC ratio is calculated by dividing the <em>total adjusted capital (TAC)</em> of the company by the required risk-based capital. For an insurer, the higher the RBC ratio, the better. For example, a company with a 400% RBC ratio has four times as much total adjusted capital as risk-based capital.<span class=\"ens\" id=\"loma371-ch2-span-26\"> <span class=\"endnote hidden\" data-note=\"loma371-ch2-en2\" epub:type=\"noteref\" id=\"loma371-ch2-span-27\" role=\"doc-noteref\">2</span> </span>"
                     }
                 ]
             },
@@ -1232,13 +1235,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "DateBlocksmith’s RBC Ratio"
                     },
                     {
-                        "Paragraph_txt": "January 1, 2021255%"
+                        "Paragraph_txt": "<br />January 1, 2021255%"
                     },
                     {
-                        "Paragraph_txt": "December 31, 2021195%"
+                        "Paragraph_txt": "<br />December 31, 2021195%"
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis: </strong>In January 2021, Blocksmith Insurance’s RBC ratio was 255 percent, which met regulatory standards. At the end of that same year, Blocksmith had an RBC ratio of 195 percent. This change indicates that Blocksmith may have had some financial struggles over the course of the year. Because its RBC ratio fell below 200 percent, Blocksmith must submit a confidential plan of action proposing corrections to its financial condition to the state department of insurance."
+                        "Paragraph_txt": "<br /><strong>Analysis: </strong>In January 2021, Blocksmith Insurance’s RBC ratio was 255 percent, which met regulatory standards. At the end of that same year, Blocksmith had an RBC ratio of 195 percent. This change indicates that Blocksmith may have had some financial struggles over the course of the year. Because its RBC ratio fell below 200 percent, Blocksmith must submit a confidential plan of action proposing corrections to its financial condition to the state department of insurance."
                     }
                 ]
             },
@@ -1301,7 +1304,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "At the lowest RBC ratio levels, an insurer may go into <em>receivership</em>, in which a court appoints a third party to take control of an insurer’s assets and liabilities. Later in this chapter, we will discuss receivership and other regulatory actions available when insurers become financially impaired or insolvent."
                     },
                     {
-                        "Paragraph_txt": "The majority of companies have an RBC ratio greater than 250 percent. The following chart shows the aggregated data for a range of RBC ratios and the corresponding number of life insurance companies within each range as of the end of year 2018."
+                        "Paragraph_txt": "<br />The majority of companies have an RBC ratio greater than 250 percent. The following chart shows the aggregated data for a range of RBC ratios and the corresponding number of life insurance companies within each range as of the end of year 2018."
                     }
                 ]
             },
@@ -1495,7 +1498,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurance regulators also monitor insurer solvency by reviewing industry-specific financial reports, such as the Annual Statement. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Annual Statement</span> is a financial report that every insurer in the United States must file annually, with interim quarterly reports, with the NAIC and the insurance regulatory organization in each state in which the insurer conducts business to assist regulators with monitoring insurer solvency. In Canada, every life insurer must file the <em>LIFE report,</em> an accounting report that presents information about an insurer’s operations and financial performance, with the Office of the Superintendent of Financial Institutions (OSFI) and with the regulators of every province in which the insurer does business."
                     },
                     {
-                        "Paragraph_txt": "Industry-specific financial reports, such as the Annual Statement and the LIFE report, are designed to meet the specific requirements of insurance regulators, whose primary purpose is to safeguard insurer solvency and ensure that the company can take care of its obligations to customers, even if it stops doing business tomorrow."
+                        "Paragraph_txt": "<br />Industry-specific financial reports, such as the Annual Statement and the LIFE report, are designed to meet the specific requirements of insurance regulators, whose primary purpose is to safeguard insurer solvency and ensure that the company can take care of its obligations to customers, even if it stops doing business tomorrow."
                     }
                 ]
             },
@@ -1814,7 +1817,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another tool insurance regulators use to monitor the solvency of insurers operating in the United States is a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">financial condition examination</span>, which is part of an onsite formal regulatory audit that investigates two broad aspects of an insurer’s operations: (1) whether the insurer’s accounting records are accurate and the insurer is being operated on a sound and lawful basis, and (2) whether the insurer’s financial and business profiles contain any apparent hazards to the insurer’s solvency. Regulators typically conduct a financial condition examination every three to five years, usually in the insurer’s offices. A financial condition examination includes an examination report, which identifies potential problems and recommends solutions to the problems."
                     },
                     {
-                        "Paragraph_txt": "If a problem is uncovered during a financial condition examination, an insurer must respond in writing, typically within 30 days, to specify how the identified problem will be corrected. Based on their findings in the financial condition examination, regulators may take certain actions to protect the insurer’s policyowners. These actions range from ordering the insurer to correct identified problems to seizing control of the insurer in order to sell the insurer’s business and terminate its operations."
+                        "Paragraph_txt": "<br />If a problem is uncovered during a financial condition examination, an insurer must respond in writing, typically within 30 days, to specify how the identified problem will be corrected. Based on their findings in the financial condition examination, regulators may take certain actions to protect the insurer’s policyowners. These actions range from ordering the insurer to correct identified problems to seizing control of the insurer in order to sell the insurer’s business and terminate its operations."
                     }
                 ]
             },
@@ -1974,7 +1977,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the United States, state guaranty associations provide insurers with financial support for providing this continuation of coverage. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">guaranty association</span> is an organization that operates under the supervision of the state insurance commissioner to protect policyowners, insureds, beneficiaries, annuitants, payees, and assignees against losses that might result from the impairment or insolvency of an insurer that operates in that state. Outside of the United States, many countries have a national guaranty association. However, some small countries without a guaranty association may provide a government bailout to protect the customers of insolvent insurers."
                     },
                     {
-                        "Paragraph_txt": "The specific remedies that regulators are permitted to apply when an insurer becomes insolvent vary from jurisdiction to jurisdiction. In the United States, remedies vary somewhat from state to state, depending on applicable state insurance laws. The following chart shows the NAIC model laws that form the basis of such state laws."
+                        "Paragraph_txt": "<br />The specific remedies that regulators are permitted to apply when an insurer becomes insolvent vary from jurisdiction to jurisdiction. In the United States, remedies vary somewhat from state to state, depending on applicable state insurance laws. The following chart shows the NAIC model laws that form the basis of such state laws."
                     }
                 ]
             },
@@ -2135,7 +2138,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
                     },
                     {
-                        "Paragraph_txt": "Figure 2.2 lists examples of remedial actions available to regulators in cases of financial distress according to the <em>Model Hazardous Condition Regulation</em> and the <em>Model Supervision Act</em>."
+                        "Paragraph_txt": "<br />Figure 2.2 lists examples of remedial actions available to regulators in cases of financial distress according to the <em>Model Hazardous Condition Regulation</em> and the <em>Model Supervision Act</em>."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.2 Remedial Actions Available to Regulators in Cases of Financial Distress</strong>"
                     }
                 ]
             },
@@ -2158,7 +2194,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.2</strong> Remedial Actions Available to Regulators in Cases of Financial Distress",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -2227,7 +2263,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Around the world, insurance regulation differs from one jurisdiction to another. Within a jurisdiction, regulatory authority can vary based on the financial activity being regulated. In Canada, for instance, the federal government does not have jurisdiction over the securities industry. Each of the thirteen provincial and territorial governments regulates securities in its own jurisdiction. In contrast, Canadian insurance regulation is primarily a federal function. Federal insurance regulation primarily focuses on general account investments and addresses solvency, capital adequacy, and asset adequacy."
                     },
                     {
-                        "Paragraph_txt": "Typically, solvency regulation—or <em>prudential regulation</em> in many countries outside the United States—is the primary focus of insurance regulations throughout the world. Several international entities and standards are important in shaping insurance prudential regulation."
+                        "Paragraph_txt": "<br />Typically, solvency regulation—or <em>prudential regulation</em> in many countries outside the United States—is the primary focus of insurance regulations throughout the world. Several international entities and standards are important in shaping insurance prudential regulation."
                     }
                 ]
             },
@@ -2263,10 +2299,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">International Association of Insurance Supervisors (IAIS)</span> works globally to (1) improve regulatory supervision of the insurance industry, (2) maintain efficient, fair, safe, and stable insurance markets, (3) protect policyowners, (4) promote well-regulated insurance markets, and (5) support global financial stability. The IAIS is comprised of insurance regulators and supervisors from over 200 jurisdictions, which constitute most of the world's insurance premiums."
                     },
                     {
-                        "Paragraph_txt": "At the time of this text’s publication, the IAIS was developing its <em>Insurance Capital Standard (ICS)</em>, which will provide a more uniform approach to RBC requirements among insurance supervisors across jurisdictions. The ICS will affect <em>Internationally Active Insurance Groups (IAIGs)</em>, which the IAIS describes as large multinational financial services companies that engage in insurance activities in at least three jurisdictions. To qualify as an IAIG, a company must also conduct a certain percentage of premium business outside of its home jurisdiction and hold a specified minimum amount of total assets."
+                        "Paragraph_txt": "<br />At the time of this text’s publication, the IAIS was developing its <em>Insurance Capital Standard (ICS)</em>, which will provide a more uniform approach to RBC requirements among insurance supervisors across jurisdictions. The ICS will affect <em>Internationally Active Insurance Groups (IAIGs)</em>, which the IAIS describes as large multinational financial services companies that engage in insurance activities in at least three jurisdictions. To qualify as an IAIG, a company must also conduct a certain percentage of premium business outside of its home jurisdiction and hold a specified minimum amount of total assets."
                     },
                     {
-                        "Paragraph_txt": "The IAIS is developing its ICS as part of the <em>Common Framework for the Supervision of Internationally Active Insurance Groups (ComFrame)</em>. ComFrame will provide a set of international supervisory requirements designed to effectively coordinate supervision of IAIGs across jurisdictions."
+                        "Paragraph_txt": "<br />The IAIS is developing its ICS as part of the <em>Common Framework for the Supervision of Internationally Active Insurance Groups (ComFrame)</em>. ComFrame will provide a set of international supervisory requirements designed to effectively coordinate supervision of IAIGs across jurisdictions."
                     }
                 ]
             },

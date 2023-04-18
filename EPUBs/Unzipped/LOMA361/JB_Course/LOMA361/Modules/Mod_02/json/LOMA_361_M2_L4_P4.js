@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Nonforfeiture Values",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,19 +148,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "When a policyowner has elected the cash surrender value option, insurance protection stops and the insurer calculates the cash surrender value owed to the policyowner. The insurer then remits this amount to the policyowner, and the company has no further obligation under the policy. A typical accounting entry to record the surrender of a life insurance policy is as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Surrenders Paid—Life Insurance</em>...........<em>xxx</em> "
+                        "Paragraph_txt": "<br /><em>Surrenders Paid—Life Insurance</em>...........<em>xxx</em> "
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>......................…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…....<em>xxx</em> "
+                        "Paragraph_txt": "<br /><em>Cash</em>......................…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…....<em>xxx</em> "
                     },
                     {
-                        "Paragraph_txt": "To record a life insurance policy cash surrender."
+                        "Paragraph_txt": "<br />To record a life insurance policy cash surrender."
                     },
                     {
-                        "Paragraph_txt": "The debit to <em>Surrenders Paid—Life Insurance</em> typically decreases the insurer’s surplus because it immediately increases benefits paid, thereby reducing net income. However, a change in the liability for policy reserves occurs simultaneously."
+                        "Paragraph_txt": "<br />The debit to <em>Surrenders Paid—Life Insurance</em> typically decreases the insurer’s surplus because it immediately increases benefits paid, thereby reducing net income. However, a change in the liability for policy reserves occurs simultaneously."
                     },
                     {
-                        "Paragraph_txt": "The reserve for a policy must equal or exceed the policy’s cash surrender value. If the reserve equals the cash surrender value, the net effect of the surrender is an equal decrease in <em>Cash</em>, an asset account, and in <em>Reserves</em>, a liability account. The following example shows the net effect—an increase in surplus—of a cash surrender when the reserve is greater than the policy’s cash surrender value."
+                        "Paragraph_txt": "<br />The reserve for a policy must equal or exceed the policy’s cash surrender value. If the reserve equals the cash surrender value, the net effect of the surrender is an equal decrease in <em>Cash</em>, an asset account, and in <em>Reserves</em>, a liability account. The following example shows the net effect—an increase in surplus—of a cash surrender when the reserve is greater than the policy’s cash surrender value."
                     }
                 ]
             },
@@ -253,7 +223,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Lydia is the policyowner of a life insurance policy with the Coral Life Insurance Company. Suppose Lydia surrenders her policy, which has a cash surrender value of $3,200. Coral’s released reserve for this policy totals $3,400."
                     },
                     {
-                        "Paragraph_txt": "In this case, there is a $200 increase in Coral’s <em>Surplus</em> account, all other factors remaining equal. Recall, however, that insurers do not usually make accounting entries each time transactions affect policy reserves. Therefore, the changes caused by the reserve released (shown in Coral’s very simplified balance sheet below) will not be recorded until Coral’s actuaries calculate actual reserves at the end of the accounting period."
+                        "Paragraph_txt": "<br />In this case, there is a $200 increase in Coral’s <em>Surplus</em> account, all other factors remaining equal. Recall, however, that insurers do not usually make accounting entries each time transactions affect policy reserves. Therefore, the changes caused by the reserve released (shown in Coral’s very simplified balance sheet below) will not be recorded until Coral’s actuaries calculate actual reserves at the end of the accounting period."
                     }
                 ]
             },

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Cost of Benefits for One-Year Term Life Insurance",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -802,10 +772,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The present value of the future death benefits is the amount the insurer would need to invest at an assumed interest rate at the product’s inception to precisely cover the product’s estimated future death benefits. This assumed interest rate represents the insurer’s projected rate of return on the invested premiums."
                     },
                     {
-                        "Paragraph_txt": "Mortality tables indicate the estimated number of deaths that are likely to occur within a given year, but they do not indicate the actual dates during the year when deaths will occur. Although deaths and death benefit payments are likely to occur throughout the year, insurers often simplify calculations by assuming that all death benefits will be paid at a specific point during the year."
+                        "Paragraph_txt": "<br />Mortality tables indicate the estimated number of deaths that are likely to occur within a given year, but they do not indicate the actual dates during the year when deaths will occur. Although deaths and death benefit payments are likely to occur throughout the year, insurers often simplify calculations by assuming that all death benefits will be paid at a specific point during the year."
                     },
                     {
-                        "Paragraph_txt": "In our discussion, we assume that all death benefits are paid at the exact midpoint of the year. This assumption requires discounting death benefits for a specified period, <em>n</em>, of one-half year. Thus, an insurer would multiply the total amount of death benefits for a block of policies by the present value interest factor (PVIF) for a specified interest rate, <em>i</em>, and period of <em>n = ½.</em>"
+                        "Paragraph_txt": "<br />In our discussion, we assume that all death benefits are paid at the exact midpoint of the year. This assumption requires discounting death benefits for a specified period, <em>n</em>, of one-half year. Thus, an insurer would multiply the total amount of death benefits for a block of policies by the present value interest factor (PVIF) for a specified interest rate, <em>i</em>, and period of <em>n = ½.</em>"
                     }
                 ]
             },

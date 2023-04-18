@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Key Life Insurance Benefits",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -407,13 +377,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although cash value life insurance products are designed to remain in force for a relatively long time before benefits become payable, policyowners sometimes stop paying premiums—which, depending on the type of product, can cause their policies to lapse. For these policyowners, an important benefit is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">nonforfeiture value</span>, which is the benefit that an insurer guarantees to a policyowner if the insurance contract lapses."
                     },
                     {
-                        "Paragraph_txt": "Other cash value life insurance policyowners may decide to voluntarily surrender their policies. In the case of a policy surrender, the insurer pays out the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cash surrender value</span>—also known as the <em>surrender value</em> or <em>surrender benefit</em>—which is the amount of the cash value that a policyowner is entitled to receive from the insurer upon surrender of the policy. Before paying the cash surrender value, the insurer first subtracts any surrender charges, as well as adjustments for other factors, such as policy loans. Note that for surrender benefits to be payable, an in-force policy must have accumulated a cash value at the time of surrender."
+                        "Paragraph_txt": "<br />Other cash value life insurance policyowners may decide to voluntarily surrender their policies. In the case of a policy surrender, the insurer pays out the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cash surrender value</span>—also known as the <em>surrender value</em> or <em>surrender benefit</em>—which is the amount of the cash value that a policyowner is entitled to receive from the insurer upon surrender of the policy. Before paying the cash surrender value, the insurer first subtracts any surrender charges, as well as adjustments for other factors, such as policy loans. Note that for surrender benefits to be payable, an in-force policy must have accumulated a cash value at the time of surrender."
                     },
                     {
-                        "Paragraph_txt": "Insurers must account for nonforfeiture values and cash surrender values during the product design of cash value life insurance products. A detailed description of the calculation of nonforfeiture values and cash surrender values is beyond the scope of this course."
+                        "Paragraph_txt": "<br />Insurers must account for nonforfeiture values and cash surrender values during the product design of cash value life insurance products. A detailed description of the calculation of nonforfeiture values and cash surrender values is beyond the scope of this course."
                     },
                     {
-                        "Paragraph_txt": "Lapses and surrenders can be costly for insurers because they (1) eliminate future income streams from premium payments, and (2) can prevent an insurer from recovering its product costs. However, insurers can often reduce the negative effects of lapses and surrenders by adding margins to the expense amounts in their product designs. Such margins provide a cushion in case actual expenses caused by adverse policyowner behavior exceed anticipated expenses. Insurers can also reduce the impact of lapses and surrenders by assessing surrender charges on policy lapses or surrenders that occur during a policy’s early years."
+                        "Paragraph_txt": "<br />Lapses and surrenders can be costly for insurers because they (1) eliminate future income streams from premium payments, and (2) can prevent an insurer from recovering its product costs. However, insurers can often reduce the negative effects of lapses and surrenders by adding margins to the expense amounts in their product designs. Such margins provide a cushion in case actual expenses caused by adverse policyowner behavior exceed anticipated expenses. Insurers can also reduce the impact of lapses and surrenders by assessing surrender charges on policy lapses or surrenders that occur during a policy’s early years."
                     }
                 ]
             },
@@ -482,7 +452,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "One type of waiver of premium benefit is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">waiver of premium for disability benefit</span>, under which the insurer promises to give up its right to collect premiums that become due while the insured is disabled according to the policy or rider’s definition of disability. Premiums are generally waived throughout the life of the policy as long as the insured remains totally disabled."
                     },
                     {
-                        "Paragraph_txt": "Another type of waiver of premium benefit is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">waiver of premium for payor benefit</span>, in which the insurer waives its right to collect a policy’s renewal premiums if the <em>payor</em>—the person paying the policy premiums—dies or becomes totally disabled. A waiver of premium for payor benefit is often included as a rider to a juvenile insurance policy; when this is the case, the rider usually states that the insurer will waive premium payments only until the insured reaches a specified age, such as 18 or 21."
+                        "Paragraph_txt": "<br />Another type of waiver of premium benefit is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">waiver of premium for payor benefit</span>, in which the insurer waives its right to collect a policy’s renewal premiums if the <em>payor</em>—the person paying the policy premiums—dies or becomes totally disabled. A waiver of premium for payor benefit is often included as a rider to a juvenile insurance policy; when this is the case, the rider usually states that the insurer will waive premium payments only until the insured reaches a specified age, such as 18 or 21."
                     }
                 ]
             },
@@ -518,7 +488,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">accidental death benefit</span> requires the insurer to pay a specified amount of money in addition to the policy’s basic death benefit if an insured dies as a result of an accident. Generally, the accidental death benefit is payable if the insured’s death was caused—directly and independently of all other causes—by an accidental bodily injury."
                     },
                     {
-                        "Paragraph_txt": "The payment of a policy’s basic death benefit is not contingent upon its accidental death benefit being payable. For example, if the insurer of a life insurance policy with an accidental death benefit rider determines that the policy’s basic death benefit is payable to the beneficiary, but the insured’s death was not caused by an accident, then the beneficiary would only receive the amount of the basic death benefit."
+                        "Paragraph_txt": "<br />The payment of a policy’s basic death benefit is not contingent upon its accidental death benefit being payable. For example, if the insurer of a life insurance policy with an accidental death benefit rider determines that the policy’s basic death benefit is payable to the beneficiary, but the insured’s death was not caused by an accident, then the beneficiary would only receive the amount of the basic death benefit."
                     }
                 ]
             },
@@ -613,7 +583,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Generally, the amount of each monthly LTC benefit payable is equal to a stated percentage of the policy’s face amount. The insurer usually pays monthly benefits until a specified percentage of the face amount has been paid out; any remaining death benefit is paid to the beneficiary after the insured’s death."
                     },
                     {
-                        "Paragraph_txt": "The following table summarizes information about the riders covered in this section."
+                        "Paragraph_txt": "<br />The following table summarizes information about the riders covered in this section."
                     }
                 ]
             },

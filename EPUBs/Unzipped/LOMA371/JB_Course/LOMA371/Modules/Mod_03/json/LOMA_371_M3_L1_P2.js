@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Investment Earnings",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,13 +115,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most of an insurance company’s investable capital comes from the premiums that the company receives. An insurer typically divides its assets into two main types of accounts: a general account and one or more separate accounts."
                     },
                     {
-                        "Paragraph_txt": "All insurers have a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">general account</span>, also known as a <em>general account</em> <strong> </strong> <em>portfolio</em>, for assets that support the insurer’s contractual obligations to policyholders and contract owners of the company’s guaranteed products, including whole life insurance, term life insurance, fixed-rate annuities, and other nonvariable products. General account assets also support any guarantees found in variable products. Insurance companies, not policyholders and contract owners, bear the investment risk associated with the general account. To manage this risk and to comply with various regulatory and rating agency requirements, life insurers generally invest the general account in high-quality bonds and other conservative, highly liquid assets. An insurer may manage its general account assets internally, employ a third party to do so, or use a combination of the two approaches. Insurers may also purchase reinsurance on blocks of policies supported by the general account in order to reduce the company’s risk of insolvency."
+                        "Paragraph_txt": "<br />All insurers have a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">general account</span>, also known as a <em>general account</em> <strong> </strong> <em>portfolio</em>, for assets that support the insurer’s contractual obligations to policyholders and contract owners of the company’s guaranteed products, including whole life insurance, term life insurance, fixed-rate annuities, and other nonvariable products. General account assets also support any guarantees found in variable products. Insurance companies, not policyholders and contract owners, bear the investment risk associated with the general account. To manage this risk and to comply with various regulatory and rating agency requirements, life insurers generally invest the general account in high-quality bonds and other conservative, highly liquid assets. An insurer may manage its general account assets internally, employ a third party to do so, or use a combination of the two approaches. Insurers may also purchase reinsurance on blocks of policies supported by the general account in order to reduce the company’s risk of insolvency."
                     },
                     {
-                        "Paragraph_txt": "Insurers that offer variable products maintain one or more <span class=\"keyterm\" tabindex=\"0\" role=\"button\">separate accounts</span>, also known as<em> separate account portfolios</em> or<em> segregated funds portfolios</em>, for assets that support such products as variable life insurance and variable annuities. A company typically divides separate accounts into smaller <em>subaccounts</em>, each of which consists of a pool of investments with a distinct risk-return profile, usually known as a <em>fund style</em>. Unlike the general account, separate account subaccounts may contain more equity securities, such as stocks, than debt securities, such as bonds and mortgages."
+                        "Paragraph_txt": "<br />Insurers that offer variable products maintain one or more <span class=\"keyterm\" tabindex=\"0\" role=\"button\">separate accounts</span>, also known as<em> separate account portfolios</em> or<em> segregated funds portfolios</em>, for assets that support such products as variable life insurance and variable annuities. A company typically divides separate accounts into smaller <em>subaccounts</em>, each of which consists of a pool of investments with a distinct risk-return profile, usually known as a <em>fund style</em>. Unlike the general account, separate account subaccounts may contain more equity securities, such as stocks, than debt securities, such as bonds and mortgages."
                     },
                     {
-                        "Paragraph_txt": "The customer, rather than the insurer, determines how premiums are applied to subaccounts. The customer also bears the investment risks associated with a variable product that is funded by a separate account. While some of the fund styles available to customers are conservative, insurers design separate accounts with an overall higher risk appetite than the risk appetite they assign to the general account. The insurer manages the purchase and sale of assets in the subaccounts according to the customer’s allocation choices and covers the expenses incurred for designing, distributing, and administering the variable products through explicit fees and charges."
+                        "Paragraph_txt": "<br />The customer, rather than the insurer, determines how premiums are applied to subaccounts. The customer also bears the investment risks associated with a variable product that is funded by a separate account. While some of the fund styles available to customers are conservative, insurers design separate accounts with an overall higher risk appetite than the risk appetite they assign to the general account. The insurer manages the purchase and sale of assets in the subaccounts according to the customer’s allocation choices and covers the expenses incurred for designing, distributing, and administering the variable products through explicit fees and charges."
                     }
                 ]
             },
@@ -2173,6 +2143,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.1 Ordinary Annuity and Annuity Due</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "7-1figure.jpg",
@@ -2191,7 +2194,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.1</strong> Ordinary Annuity and Annuity Due",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

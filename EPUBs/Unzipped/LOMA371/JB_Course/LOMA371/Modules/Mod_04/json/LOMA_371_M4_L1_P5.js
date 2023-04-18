@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Cost of Benefits for Multiyear Term Life Insurance",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -337,10 +307,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "To calculate the total number of death benefit payments for a block of multiyear term insurance policies, an insurer must (1) calculate the number of benefit payments for each year in the term, and (2) sum the numbers to find the total number of payments. In other words, the insurer must project the total number of deaths for the duration of the term."
                     },
                     {
-                        "Paragraph_txt": "In the first year of the block’s term, the insurer multiplies the number of insureds at the beginning of the year by the appropriate mortality rate to project the number of deaths expected during the year."
+                        "Paragraph_txt": "<br />In the first year of the block’s term, the insurer multiplies the number of insureds at the beginning of the year by the appropriate mortality rate to project the number of deaths expected during the year."
                     },
                     {
-                        "Paragraph_txt": "After the first year, the insurer must account for both policy lapses and insured deaths. To calculate the projected number of deaths in the block for a particular year—and the number of resulting death benefit payments—the insurer first takes the number of insureds remaining at the beginning of that year and subtracts the number of insureds withdrawing (as estimated by applying the lapse rate). The result is the number of surviving insureds associated with in-force policies in the block. Next, the insurer applies the appropriate mortality rate to this number to find the number of insureds in the block who are expected to die by the end of that particular year."
+                        "Paragraph_txt": "<br />After the first year, the insurer must account for both policy lapses and insured deaths. To calculate the projected number of deaths in the block for a particular year—and the number of resulting death benefit payments—the insurer first takes the number of insureds remaining at the beginning of that year and subtracts the number of insureds withdrawing (as estimated by applying the lapse rate). The result is the number of surviving insureds associated with in-force policies in the block. Next, the insurer applies the appropriate mortality rate to this number to find the number of insureds in the block who are expected to die by the end of that particular year."
                     }
                 ]
             },
@@ -1001,10 +971,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "To calculate the present value of the death benefits for a multiyear term life insurance product, the insurer must calculate the present value of the death benefits for each year in the policy’s term rather than for a single year. Thus, each year’s estimated future death benefits are multiplied by the appropriate PVIF."
                     },
                     {
-                        "Paragraph_txt": "Note that we are assuming that all death benefit payments are occurring at the midpoint of the year. We made the same assumption in our discussion of one-year term life insurance. If we were to assume that payments occurred at the end of the year, the difference in timing would change the PVIFs used."
+                        "Paragraph_txt": "<br />Note that we are assuming that all death benefit payments are occurring at the midpoint of the year. We made the same assumption in our discussion of one-year term life insurance. If we were to assume that payments occurred at the end of the year, the difference in timing would change the PVIFs used."
                     },
                     {
-                        "Paragraph_txt": "Once the insurer has calculated the present value of the death benefits for each year in the term, it can sum the present values to find the present value of the block’s total death benefits. This number, which represents the single premium, is important in determining the level annual premium. The following insight provides an example of calculating the single premium for a block of five-year term life insurance policies."
+                        "Paragraph_txt": "<br />Once the insurer has calculated the present value of the death benefits for each year in the term, it can sum the present values to find the present value of the block’s total death benefits. This number, which represents the single premium, is important in determining the level annual premium. The following insight provides an example of calculating the single premium for a block of five-year term life insurance policies."
                     }
                 ]
             },
@@ -1394,10 +1364,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that multiyear term life insurance products are generally purchased with a series of level annual premiums (LAPs). To calculate the LAP amount for a block of multiyear term life policies, the insurer must find a set of equal annual premium payments for which the sum of the present values is equivalent to the single premium."
                     },
                     {
-                        "Paragraph_txt": "In the previous section, the insurer applied PVIFs to find the single premium. Now, it must apply PVIFs to find the LAP. However, this calculation uses a different set of PVIFs than those used in the previous insight. Because we’re assuming that premium payments will occur at the beginning of each year, we must use PVIFs for a period of one year (<em>n </em>– 1) instead of one-half year (<em>n = ½</em>)."
+                        "Paragraph_txt": "<br />In the previous section, the insurer applied PVIFs to find the single premium. Now, it must apply PVIFs to find the LAP. However, this calculation uses a different set of PVIFs than those used in the previous insight. Because we’re assuming that premium payments will occur at the beginning of each year, we must use PVIFs for a period of one year (<em>n </em>– 1) instead of one-half year (<em>n = ½</em>)."
                     },
                     {
-                        "Paragraph_txt": "The following insight illustrates the LAP calculation for the same five-year term life insurance product we used previously."
+                        "Paragraph_txt": "<br />The following insight illustrates the LAP calculation for the same five-year term life insurance product we used previously."
                     }
                 ]
             },
@@ -1736,22 +1706,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "The sum of the present values of the LAP* must be equivalent to the single premium of $2,653,647, as calculated in the previous insight. To solve for the monetary amount of the LAP, we must solve the following equation:"
                     },
                     {
-                        "Paragraph_txt": "35,822.79 × LAP = $2,653,647"
+                        "Paragraph_txt": "<br />35,822.79 × LAP = $2,653,647"
                     },
                     {
-                        "Paragraph_txt": "OR"
+                        "Paragraph_txt": "<br />OR"
                     },
                     {
-                        "Paragraph_txt": "LAP = $2,653,647 ÷ 35,822.79"
+                        "Paragraph_txt": "<br />LAP = $2,653,647 ÷ 35,822.79"
                     },
                     {
-                        "Paragraph_txt": "<strong>LAP = $74.077, which we can round to $74.08</strong>"
+                        "Paragraph_txt": "<br /><strong>LAP = $74.077, which we can round to $74.08</strong>"
                     },
                     {
-                        "Paragraph_txt": "The LAP of $74.08 is the premium payment that each policyowner in the block pays each year to keep the policy in force."
+                        "Paragraph_txt": "<br />The LAP of $74.08 is the premium payment that each policyowner in the block pays each year to keep the policy in force."
                     },
                     {
-                        "Paragraph_txt": "*Note: We have simplified the LAP calculation to highlight the portion of the premium attributable to the mortality cost. Remember that, in reality, the LAP must also factor in the cost of other benefits, operating expenses, and other premium components. In addition, periodic adjustments—such as factoring in the timing of premium payments—affect LAP calculations."
+                        "Paragraph_txt": "<br />*Note: We have simplified the LAP calculation to highlight the portion of the premium attributable to the mortality cost. Remember that, in reality, the LAP must also factor in the cost of other benefits, operating expenses, and other premium components. In addition, periodic adjustments—such as factoring in the timing of premium payments—affect LAP calculations."
                     }
                 ]
             },

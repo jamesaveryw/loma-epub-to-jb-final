@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Introduction to Financial Modeling",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -213,7 +183,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Poor assumptions and ineffective models can lead to problems in risk management and product development—in particular, the technical product design phase, where most financial modeling occurs. An insurer’s long-term financial success relies on the ability to estimate the future behavior of key risk factors, such as mortality or investment performance, over the lifetime of insurance and annuity products."
                     },
                     {
-                        "Paragraph_txt": "While actuaries do the majority of financial modeling work, other employees at an insurance company are also vital to the process. For example, any historical data used in a model must be accurate and precise. So, employees in other departments, such as underwriting, claims, accounting, and marketing, all play a critical role by providing accurate data, and therefore building a foundation for the company’s financial projections."
+                        "Paragraph_txt": "<br />While actuaries do the majority of financial modeling work, other employees at an insurance company are also vital to the process. For example, any historical data used in a model must be accurate and precise. So, employees in other departments, such as underwriting, claims, accounting, and marketing, all play a critical role by providing accurate data, and therefore building a foundation for the company’s financial projections."
                     }
                 ]
             },
@@ -282,7 +252,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The inputs in financial models take the form of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">variables</span>, which are items of data whose numerical value varies. The input variables used in models are independent variables that represent the measurement of real-world financial values. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">independent variable</span> is a variable that influences the behavior of another variable—called the <em>dependent variable</em>—and determines the outcome of a financial model. By definition, independent variables are not influenced by other variables. By convention, independent variables are labeled <em>x</em>. Multiple independent variables are labeled <em>x</em> <sub>1</sub>, <em>x</em> <sub>2</sub>, and so on."
                     },
                     {
-                        "Paragraph_txt": "Insurers typically derive model inputs for financial models from four sources: actuarial assumptions, internal and industry experience data, regulatory requirements, and estimates of possible future conditions. Recall from Chapter 1 that insurers use assumptions in risk management or technical product design to represent the estimated value of components, such as investment earnings, the cost of benefits, company expenses, and unexpected financial results. The accuracy of the assumptions and inputs used in financial models directly affect the success or failure of new and existing products. Even a small change in an assumption’s value can result in significant changes in the model’s results."
+                        "Paragraph_txt": "<br />Insurers typically derive model inputs for financial models from four sources: actuarial assumptions, internal and industry experience data, regulatory requirements, and estimates of possible future conditions. Recall from Chapter 1 that insurers use assumptions in risk management or technical product design to represent the estimated value of components, such as investment earnings, the cost of benefits, company expenses, and unexpected financial results. The accuracy of the assumptions and inputs used in financial models directly affect the success or failure of new and existing products. Even a small change in an assumption’s value can result in significant changes in the model’s results."
                     }
                 ]
             },
@@ -405,7 +375,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The goal of financial modeling is to test a scenario by extrapolating multiple outcomes as variables change, determining the most probable outcomes so that the insurer can plan for them accordingly. Realistically, there are far too many variables that can potentially influence a scenario over a number of years for any one financial model to incorporate. An insurer must therefore choose the right model for the task at hand."
                     },
                     {
-                        "Paragraph_txt": "Modeling approaches include deterministic modeling, stochastic modeling, and optimization modeling. We discuss these approaches in a later section."
+                        "Paragraph_txt": "<br />Modeling approaches include deterministic modeling, stochastic modeling, and optimization modeling. We discuss these approaches in a later section."
                     }
                 ]
             },
@@ -441,7 +411,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The outputs of financial models represent the projected future values produced by processing inputs—the <em>independent variables</em>—through the model. In financial modeling, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">dependent variable </span>is a variable that reacts to changes in other variables. By convention, dependent variables are labeled <em>y</em>, and multiple dependent variables are labeled <em>y</em> <sub>1</sub>, <em>y</em> <sub>2</sub>, and so on. The rule, or <em>function</em>, that describes how a dependent variable relates to—or depends on—an independent variable is usually written as <em>y</em> = <em>f</em>(<em>x</em>)."
                     },
                     {
-                        "Paragraph_txt": "Insurers use the outputs of financial models to perform financial analysis and to help them make decisions about deploying capital, budgeting and forecasting, growing the business, and prioritizing product ideas."
+                        "Paragraph_txt": "<br />Insurers use the outputs of financial models to perform financial analysis and to help them make decisions about deploying capital, budgeting and forecasting, growing the business, and prioritizing product ideas."
                     }
                 ]
             },
@@ -564,10 +534,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Model analysis involves examining all the outputs of a financial model to see whether patterns or correlations exist. Model analysis can determine the direction of the change in output variables created by changes in input variables—as well as the amount and timing of those changes—and whether the outcomes represent favorable or unfavorable conditions."
                     },
                     {
-                        "Paragraph_txt": "Testing multiple scenarios is a key component in model analysis. In product design, testing involves using one or more sets of assumed values in the model to ensure that the product can produce sound financial results for the customer and the insurer. Throughout product testing, the company must ensure that the assumed values are realistic, actuarially sound, and validated by testing."
+                        "Paragraph_txt": "<br />Testing multiple scenarios is a key component in model analysis. In product design, testing involves using one or more sets of assumed values in the model to ensure that the product can produce sound financial results for the customer and the insurer. Throughout product testing, the company must ensure that the assumed values are realistic, actuarially sound, and validated by testing."
                     },
                     {
-                        "Paragraph_txt": "Watch Video 4.1 for a summary of how the components of financial models interact."
+                        "Paragraph_txt": "<br />Watch Video 4.1 for a summary of how the components of financial models interact."
                     }
                 ]
             },

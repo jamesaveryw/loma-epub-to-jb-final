@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Premium Liabilities",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,34 +148,34 @@ Lesson_Data_File([
                         "Paragraph_txt": "The accounting entry to record an insurer’s receipt of a premium typically includes a debit to <em>Cash</em>. However, the insurer may not be able to determine immediately the credit entry to offset the debit to <em>Cash</em>. In such situations, many insurers use premium suspense accounts. In accounting terminology, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">suspense account</span> is an account that is used to record transactions that cannot be posted immediately to a specified account. Specifically, <em>Premium Suspense</em> is the liability account used to record transactions that are intended as premiums, but that the insurer cannot accept as income until a particular event occurs."
                     },
                     {
-                        "Paragraph_txt": "Theoretically, upon policy issue, there is little need for a premium suspense account. However, in practice, many insurers initially suspense all insurance premiums. Insurers typically use premium suspense accounts for premium payment amounts that are (1) renewal premiums, (2) different from the amounts in the insurer’s records, or (3) lacking critical information, such as a policy number. Another typical use of premium suspense accounts is in situations in which an insurer has received the initial premium for a policy but is still waiting for an underwriting decision on the policy."
+                        "Paragraph_txt": "<br />Theoretically, upon policy issue, there is little need for a premium suspense account. However, in practice, many insurers initially suspense all insurance premiums. Insurers typically use premium suspense accounts for premium payment amounts that are (1) renewal premiums, (2) different from the amounts in the insurer’s records, or (3) lacking critical information, such as a policy number. Another typical use of premium suspense accounts is in situations in which an insurer has received the initial premium for a policy but is still waiting for an underwriting decision on the policy."
                     },
                     {
-                        "Paragraph_txt": "A typical accounting entry to record such transactions is as follows:"
+                        "Paragraph_txt": "<br />A typical accounting entry to record such transactions is as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……..xxx"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……..xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Premium Suspense</em>…<wbr>……<wbr>……<wbr>……xxx"
+                        "Paragraph_txt": "<br /><em>Premium Suspense</em>…<wbr>……<wbr>……<wbr>……xxx"
                     },
                     {
-                        "Paragraph_txt": "To record receipt of a premium payment that cannot be immediately recorded to a premium income account."
+                        "Paragraph_txt": "<br />To record receipt of a premium payment that cannot be immediately recorded to a premium income account."
                     },
                     {
-                        "Paragraph_txt": "After the particular event occurs—for example, the insurer confirms the correct amount or policy number—the insurer can then debit the premium suspense account and credit a revenue account for the premium amount, as follows:"
+                        "Paragraph_txt": "<br />After the particular event occurs—for example, the insurer confirms the correct amount or policy number—the insurer can then debit the premium suspense account and credit a revenue account for the premium amount, as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Premium Suspense</em>…<wbr>……<wbr>……<wbr>…….xxx"
+                        "Paragraph_txt": "<br /><em>Premium Suspense</em>…<wbr>……<wbr>……<wbr>…….xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Premium Income</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……xxx"
+                        "Paragraph_txt": "<br /><em>Premium Income</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……xxx"
                     },
                     {
-                        "Paragraph_txt": "To record a suspensed premium to a premium income account."
+                        "Paragraph_txt": "<br />To record a suspensed premium to a premium income account."
                     },
                     {
-                        "Paragraph_txt": "Note that the end result here is a debit to <em>Cash</em> and a credit to <em>Premium Income</em>."
+                        "Paragraph_txt": "<br />Note that the end result here is a debit to <em>Cash</em> and a credit to <em>Premium Income</em>."
                     }
                 ]
             },
@@ -241,7 +211,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When an insurer receives premiums before they are due, it reports a liability for <em>premiums paid in advance</em> on its U.S. GAAP and statutory financial statements. For life insurance contracts, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">premiums paid in advance</span>, also called <em>advance premiums</em>, are premiums that an insurer has received but that are due on or after the next policy anniversary date."
                     },
                     {
-                        "Paragraph_txt": "Sometimes included in the category of premiums paid in advance are <span class=\"keyterm\" tabindex=\"0\" role=\"button\">premium deposits</span>, which, in this context, are amounts that an insurer’s policyowners leave on deposit with the insurer to pay for several years of premiums at one time. Because the insurer has the use of these policyowner funds before they are due, it typically discounts the premiums—in effect, receiving a smaller amount in cash. However, a more common approach with these premium deposits is to place them in a liability account known as a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">premium deposit fund</span>. Under this approach, when an individual premium becomes due, the insurer pays it from the premium deposit fund and credits <em>Premium Income</em>. "
+                        "Paragraph_txt": "<br />Sometimes included in the category of premiums paid in advance are <span class=\"keyterm\" tabindex=\"0\" role=\"button\">premium deposits</span>, which, in this context, are amounts that an insurer’s policyowners leave on deposit with the insurer to pay for several years of premiums at one time. Because the insurer has the use of these policyowner funds before they are due, it typically discounts the premiums—in effect, receiving a smaller amount in cash. However, a more common approach with these premium deposits is to place them in a liability account known as a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">premium deposit fund</span>. Under this approach, when an individual premium becomes due, the insurer pays it from the premium deposit fund and credits <em>Premium Income</em>. "
                     }
                 ]
             },
@@ -375,7 +345,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For deposit-type contracts, amounts received as payments are reported to the appropriate liability account on the insurer’s statutory balance sheet, known as <em>Liability for deposit-type contracts</em>. The rationale for this treatment is that these payments are accounted for as policyowner account balances, which means that policyowners have more discretion over deposits and withdrawals."
                     },
                     {
-                        "Paragraph_txt": "The Annual Statement provides detailed information about these contracts in Exhibit 7—Deposit-Type Contracts."
+                        "Paragraph_txt": "<br />The Annual Statement provides detailed information about these contracts in Exhibit 7—Deposit-Type Contracts."
                     }
                 ]
             },
@@ -503,7 +473,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Unlike traditional whole life insurance policies, UL insurance policies have premiums, expenses, and interest credits that may not be fixed or guaranteed. While a UL policy is in force, the insurer credits premiums and interest to the policy’s account balance and subtracts various expenses from it. Technically, the policyowner owns this account balance. Therefore, according to the FASB, under GAAP, an insurer must treat premium payments for a UL policy as a liability, usually referred to as <em>contract holder liabilities</em>."
                     },
                     {
-                        "Paragraph_txt": "The chart below summarizes the situations in which an insurer may need to record premium payments as liabilities."
+                        "Paragraph_txt": "<br />The chart below summarizes the situations in which an insurer may need to record premium payments as liabilities."
                     }
                 ]
             },

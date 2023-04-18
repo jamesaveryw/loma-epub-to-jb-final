@@ -5126,7 +5126,7 @@ debug("function ready");
 								}
 								modalBox.style.top = ((contentHeight / 2) + containerPos - (readerHeaderHeight / 2)) + 'px';
 								debug(modalBox.style.top);
-								document.body.classList.add('modal-open');
+								document.body.classList.add('loma-modal-open');
 								epubContainer.setAttribute('style', 'overflow-y: hidden!important');
 								epubContainer.scrolltop = containerPos;
 
@@ -5196,7 +5196,7 @@ debug("function ready");
 				// remove classes and attrs from modal overlay
 				var modalOverlay = document.getElementById("modalOverlay");
 				modalOverlay.setAttribute('aria-hidden', 'true');
-				document.body.classList.remove('modal-open');
+				document.body.classList.remove('loma-modal-open');
 				// removes position styles so next modal 
 				// popup has fresh attrs
 				modalBox.removeAttribute('style');

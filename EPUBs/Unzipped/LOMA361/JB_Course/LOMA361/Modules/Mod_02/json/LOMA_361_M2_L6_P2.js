@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Revenues",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,13 +115,46 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall from Chapter 2 that <em>revenue</em>, often referred to as <em>income</em>, represents the amount of earnings from a company’s core business operations. Insurers typically have two primary sources of revenue: premium income and investment income. Fee income is another source of revenue. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Revenue accounts</span>, also called <em>income accounts</em>, are the accounts used to record and report a company’s revenues. An insurance company complies with accounting and financial reporting requirements by classifying its premium income, investment income, and fee income by individual or group product line and by product type: life, accident and health, credit life, and annuities. Thus, insurers typically credit one of several revenue accounts according to the revenue source, product line, and product type."
                     },
                     {
-                        "Paragraph_txt": "For example, when a policyowner remits a renewal premium for a life insurance policy, the accounting entry might include a debit to <em>Cash</em> and a credit to an account such as <em>Premium Renewals—Individual Life</em>. This specific account enables the insurer to identify the source of revenue (premium income) and the product line and type (individual life insurance)."
+                        "Paragraph_txt": "<br />For example, when a policyowner remits a renewal premium for a life insurance policy, the accounting entry might include a debit to <em>Cash</em> and a credit to an account such as <em>Premium Renewals—Individual Life</em>. This specific account enables the insurer to identify the source of revenue (premium income) and the product line and type (individual life insurance)."
                     },
                     {
-                        "Paragraph_txt": "The actual account names can and do vary among insurance companies. However, most revenue accounts have self-explanatory names, such as <em>Premium Income</em>—<em>Group Life Insurance</em>, <em>Annuity Income—Deferred</em>, <em>Investment Income—Bond Interest</em>, and <em>Dividend Income</em>—<em>Common Stock</em>. Note that an insurer’s income statement also includes any secondary sources of revenue not classified as premium, investment, and fee income, such as considerations for structured settlements and premiums for reinsurance assumed. Discussion of additional sources of insurance company revenues is beyond the scope of this textbook."
+                        "Paragraph_txt": "<br />The actual account names can and do vary among insurance companies. However, most revenue accounts have self-explanatory names, such as <em>Premium Income</em>—<em>Group Life Insurance</em>, <em>Annuity Income—Deferred</em>, <em>Investment Income—Bond Interest</em>, and <em>Dividend Income</em>—<em>Common Stock</em>. Note that an insurer’s income statement also includes any secondary sources of revenue not classified as premium, investment, and fee income, such as considerations for structured settlements and premiums for reinsurance assumed. Discussion of additional sources of insurance company revenues is beyond the scope of this textbook."
                     },
                     {
-                        "Paragraph_txt": "For an income statement prepared according to U.S. GAAP, insurers report income that has been earned during the accounting period. Other types of income that have not yet been earned or received are reported as assets or liabilities on the balance sheet. Figure 10.1 lists and describes these types of income."
+                        "Paragraph_txt": "<br />For an income statement prepared according to U.S. GAAP, insurers report income that has been earned during the accounting period. Other types of income that have not yet been earned or received are reported as assets or liabilities on the balance sheet. Figure 10.1 lists and describes these types of income."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.1 Types of Income</strong>"
                     }
                 ]
             },
@@ -174,7 +177,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.1</strong> Types of Income",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -602,6 +605,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.2 The Flow of Premium Accounting</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "10-2figure.jpg",
@@ -620,7 +656,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.2</strong> The Flow of Premium Accounting",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -689,22 +725,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "Generally, the receipt of policy premiums increases both an insurer’s revenues and its assets. Premiums are usually deposited in the insurer’s bank account upon receipt. This practice provides for good accounting and makes the funds available for investment. The accounting treatment of premium income directly affects an insurer’s financial statements, particularly the cash flow statement, which reports all changes in cash from normal business operations. By monitoring policy premium receipts, an insurer can generate automated premium notices and past-due warnings with precise timing, as well as change a policy’s status from premium paying to non–premium paying."
                     },
                     {
-                        "Paragraph_txt": "The basic accounting entry to record the receipt of premium income on most insurance products is a debit to <em>Cash</em>, an asset account, and a credit to a revenue account, such as <em>Premium Income</em>:"
+                        "Paragraph_txt": "<br />The basic accounting entry to record the receipt of premium income on most insurance products is a debit to <em>Cash</em>, an asset account, and a credit to a revenue account, such as <em>Premium Income</em>:"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>…xxx"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>…xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Premium Income</em>…<wbr>……<wbr>……<wbr>…….xxx"
+                        "Paragraph_txt": "<br /><em>Premium Income</em>…<wbr>……<wbr>……<wbr>…….xxx"
                     },
                     {
-                        "Paragraph_txt": "To record the receipt of premium income."
+                        "Paragraph_txt": "<br />To record the receipt of premium income."
                     },
                     {
-                        "Paragraph_txt": "Recall that some insurers initially place premiums in a suspense account upon receipt by debiting <em>Cash</em> and crediting <em>Premium Suspense</em> in the first accounting entry. In such cases, a second accounting entry is made to debit <em>Premium Suspense</em> and to credit a premium income account once the insurer determines where the premium belongs. Note that the ultimate effect of these two accounting entries is a debit to <em>Cash</em> and a credit to <em>Premium Income</em>."
+                        "Paragraph_txt": "<br />Recall that some insurers initially place premiums in a suspense account upon receipt by debiting <em>Cash</em> and crediting <em>Premium Suspense</em> in the first accounting entry. In such cases, a second accounting entry is made to debit <em>Premium Suspense</em> and to credit a premium income account once the insurer determines where the premium belongs. Note that the ultimate effect of these two accounting entries is a debit to <em>Cash</em> and a credit to <em>Premium Income</em>."
                     },
                     {
-                        "Paragraph_txt": "Premium accounting systems calculate premium income on an accrual basis. The purpose of this calculation is to determine the amount of premium income that the insurer <em>earned</em> during the fiscal year. This amount generally differs from the amount of premium income the insurer <em>collected</em> during the same period. This difference is due to various adjustments to income resulting from unearned premiums and premium income that is due but has not been received by the financial reporting date. Recall from Chapter 8 that premium income may in some cases be classified as a liability under U.S. SAP and GAAP."
+                        "Paragraph_txt": "<br />Premium accounting systems calculate premium income on an accrual basis. The purpose of this calculation is to determine the amount of premium income that the insurer <em>earned</em> during the fiscal year. This amount generally differs from the amount of premium income the insurer <em>collected</em> during the same period. This difference is due to various adjustments to income resulting from unearned premiums and premium income that is due but has not been received by the financial reporting date. Recall from Chapter 8 that premium income may in some cases be classified as a liability under U.S. SAP and GAAP."
                     }
                 ]
             },
@@ -802,22 +838,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "Income earned on an insurer’s invested assets is usually the insurer’s second largest source of revenues after premium income. In some insurance companies, the amount of investment income exceeds that of premium income. Note that investment income does not include gains or losses—whether realized or unrealized—associated with an insurer’s invested assets."
                     },
                     {
-                        "Paragraph_txt": "Account titles for investment income vary among insurers, although they are usually self-explanatory. For example, one insurer may have an account called <em>Investment Income—Bonds</em>. Another insurer may call this account <em>Interest Income—Bonds</em>. Regardless of the account title, an insurer records in its investment income accounts all income earned and received on the invested assets that it owns."
+                        "Paragraph_txt": "<br />Account titles for investment income vary among insurers, although they are usually self-explanatory. For example, one insurer may have an account called <em>Investment Income—Bonds</em>. Another insurer may call this account <em>Interest Income—Bonds</em>. Regardless of the account title, an insurer records in its investment income accounts all income earned and received on the invested assets that it owns."
                     },
                     {
-                        "Paragraph_txt": "A typical accounting entry to record the receipt of investment income is a debit to <em>Cash</em>, an asset account, and a credit to one or more investment income accounts, which are revenue accounts, as shown in the following example:"
+                        "Paragraph_txt": "<br />A typical accounting entry to record the receipt of investment income is a debit to <em>Cash</em>, an asset account, and a credit to one or more investment income accounts, which are revenue accounts, as shown in the following example:"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>…….xxx"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>…….xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Interest Income—Willow Bonds</em>…<wbr>……<wbr>……xxx"
+                        "Paragraph_txt": "<br /><em>Interest Income—Willow Bonds</em>…<wbr>……<wbr>……xxx"
                     },
                     {
-                        "Paragraph_txt": "To record interest income received on Willow bonds owned by the insurer."
+                        "Paragraph_txt": "<br />To record interest income received on Willow bonds owned by the insurer."
                     },
                     {
-                        "Paragraph_txt": "Insurers recognize investment income on an accrual basis to comply with financial reporting requirements under SAP and GAAP. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Gross investment income</span> is the accrual-basis amount of investment income, representing the total amount of income an insurer earned during the reporting period, before deducting expenses and amortization. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Net investment income</span> is the accrual-basis amount of investment income that remains after deducting expenses and amortization from an insurer’s gross investment income. In notes to their financial statements or supplementary schedules that accompany the statements, insurers typically categorize net investment income by investment type—such as bonds or mortgages—and type of income—such as interest or dividends. Recall from Chapter 6 that, under U.S. statutory accounting principles, insurers report the amount of earned investment income that has not yet been received under <em>Investment Income Due and Accrued</em>, an asset account. When the insurer receives the earned income, it records the amount of the income as a debit to <em>Cash</em> and a credit to <em>Investment Income Due and Accrued</em>."
+                        "Paragraph_txt": "<br />Insurers recognize investment income on an accrual basis to comply with financial reporting requirements under SAP and GAAP. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Gross investment income</span> is the accrual-basis amount of investment income, representing the total amount of income an insurer earned during the reporting period, before deducting expenses and amortization. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Net investment income</span> is the accrual-basis amount of investment income that remains after deducting expenses and amortization from an insurer’s gross investment income. In notes to their financial statements or supplementary schedules that accompany the statements, insurers typically categorize net investment income by investment type—such as bonds or mortgages—and type of income—such as interest or dividends. Recall from Chapter 6 that, under U.S. statutory accounting principles, insurers report the amount of earned investment income that has not yet been received under <em>Investment Income Due and Accrued</em>, an asset account. When the insurer receives the earned income, it records the amount of the income as a debit to <em>Cash</em> and a credit to <em>Investment Income Due and Accrued</em>."
                     }
                 ]
             },

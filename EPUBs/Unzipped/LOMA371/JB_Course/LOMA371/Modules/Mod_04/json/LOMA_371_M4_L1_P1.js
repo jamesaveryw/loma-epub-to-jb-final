@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Introduction",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -110,302 +80,6 @@ Lesson_Data_File([
                     },
                     {
                         "Paragraph_txt": ""
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Key Life Insurance Benefits"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Death Benefits"
-                            },
-                            {
-                                "lstText": "Nonforfeiture Values and Cash Surrender Values"
-                            },
-                            {
-                                "lstText": "Benefits Offered Through Policy Riders"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Types of Pricing Premiums"
-                            },
-                            {
-                                "Paragraph_text": "Cost of Benefits for One-Year Term Life Insurance"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Projecting the Number of Death Benefits"
-                            },
-                            {
-                                "lstText": "Determining the Average Death Benefit Amount"
-                            },
-                            {
-                                "lstText": "Estimating the Future Death Benefits"
-                            },
-                            {
-                                "lstText": "Finding the Present Value of Future Death Benefits"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Cost of Benefits for Multiyear Term Life Insurance"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Projecting the Number of Benefit Payments"
-                            },
-                            {
-                                "lstText": "Determining the Average Death Benefit Amount"
-                            },
-                            {
-                                "lstText": "Estimating the Future Death Benefits"
-                            },
-                            {
-                                "lstText": "Finding the Present Value of Future Death Benefits"
-                            },
-                            {
-                                "lstText": "Calculating the Level Annual Premium"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Cost of Benefits for Whole Life Insurance"
-                            },
-                            {
-                                "Paragraph_text": "Cost of Benefits for Universal Life Insurance"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Universal Life Insurance Overview"
-                            },
-                            {
-                                "lstText": "Universal Life Death Benefits"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    },
-                    {
-                        "Paragraph_txt": "Cost of Benefits for Riders"
-                    },
-                    {
-                        "Paragraph_txt": "Setting Pricing Premium Rates"
                     }
                 ]
             },
@@ -521,6 +195,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.1 The Goal of a Product’s Financial Structure</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "10-1figure.jpg",
@@ -539,7 +246,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.1</strong> The Goal of a Product’s Financial Structure",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -608,13 +315,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "An insurer needs sound actuarial assumptions to appropriately design its life insurance products. For instance, if a product’s mortality experience is unfavorable or the insurer’s investment returns underperform expectations, then profitability could suffer. Premium rates must also be reasonable; if rates are too high, then the insurer could lose customers to competitors that offer lower rates for similar products. In addition, profits that appear excessive are likely to attract regulatory scrutiny."
                     },
                     {
-                        "Paragraph_txt": "Recall that a product’s financial structure is made up of several components. As you can see in Figure 10.1, the product components representing cash inflows are premium payments from customers and the investment earnings on those premiums. Product components representing cash outflows are the charge for the cost of benefits, the charge for operating expenses, and the provision for adverse deviation—effectively, a margin that protects against potential losses on the product due to unfavorable experience. The provision for adverse deviation could turn into a contribution to the insurer’s earnings, as we will explain later."
+                        "Paragraph_txt": "<br />Recall that a product’s financial structure is made up of several components. As you can see in Figure 10.1, the product components representing cash inflows are premium payments from customers and the investment earnings on those premiums. Product components representing cash outflows are the charge for the cost of benefits, the charge for operating expenses, and the provision for adverse deviation—effectively, a margin that protects against potential losses on the product due to unfavorable experience. The provision for adverse deviation could turn into a contribution to the insurer’s earnings, as we will explain later."
                     },
                     {
-                        "Paragraph_txt": "In previous chapters, we discussed several of the product components, such as investment earnings and operating expenses. In this chapter, you’ll read about two more components: the cost of benefits and premiums. Before we get into the process for estimating the cost of benefits for different life insurance products, we’ll briefly describe some types of life insurance benefits and the types of pricing premiums that are designed to support them."
+                        "Paragraph_txt": "<br />In previous chapters, we discussed several of the product components, such as investment earnings and operating expenses. In this chapter, you’ll read about two more components: the cost of benefits and premiums. Before we get into the process for estimating the cost of benefits for different life insurance products, we’ll briefly describe some types of life insurance benefits and the types of pricing premiums that are designed to support them."
                     },
                     {
-                        "Paragraph_txt": "Once you have gained a deeper understanding of the cost of benefits component of a life insurance product’s design, you will see how all of the components work together to set the product’s premium rate. At the end of the chapter, we will present a basic example of how an insurer uses a product’s pricing premium rate to calculate an individual policyowner’s premium amount."
+                        "Paragraph_txt": "<br />Once you have gained a deeper understanding of the cost of benefits component of a life insurance product’s design, you will see how all of the components work together to set the product’s premium rate. At the end of the chapter, we will present a basic example of how an insurer uses a product’s pricing premium rate to calculate an individual policyowner’s premium amount."
                     }
                 ]
             }

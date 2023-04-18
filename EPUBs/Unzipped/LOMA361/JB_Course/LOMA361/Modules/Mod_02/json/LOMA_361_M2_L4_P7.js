@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Expenses Due or Accrued",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -282,10 +252,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">commission</span> is monetary compensation paid to an agent and is usually expressed as a percentage of the gross premiums paid by customers. Agent commissions that are due or accrued are a significant liability for most insurers. An agent’s commission is considered due or accrued when the insurer receives a premium too late in the accounting period to process the commission payment to the agent by the financial reporting date. Commissions are generally due or accrued only on premiums that have been received."
                     },
                     {
-                        "Paragraph_txt": "On an insurer’s balance sheet, commissions are classified as <em>Agent Commissions Due</em> <em>or Accrued </em>or <em>Producer Commissions Due or Accrued. </em>Most insurers maintain a separate file for each agent to track unpaid but owed commissions and report the cumulative amount to an aggregate liability account such as <em>Agent Commissions Due or Accrued</em>. Thus, <em>Agent Commissions Due or Accrued</em> or <em>Producer Commissions Due or Accrued</em> is the aggregate account that includes all such agent commissions that are due or accrued. Note that, when the insurer pays an agent due or accrued commissions, the aggregate liability account is decreased, as is the insurer’s cash."
+                        "Paragraph_txt": "<br />On an insurer’s balance sheet, commissions are classified as <em>Agent Commissions Due</em> <em>or Accrued </em>or <em>Producer Commissions Due or Accrued. </em>Most insurers maintain a separate file for each agent to track unpaid but owed commissions and report the cumulative amount to an aggregate liability account such as <em>Agent Commissions Due or Accrued</em>. Thus, <em>Agent Commissions Due or Accrued</em> or <em>Producer Commissions Due or Accrued</em> is the aggregate account that includes all such agent commissions that are due or accrued. Note that, when the insurer pays an agent due or accrued commissions, the aggregate liability account is decreased, as is the insurer’s cash."
                     },
                     {
-                        "Paragraph_txt": "Video 8.2 presents an example of how an insurance company uses the account known as <em>Agent Commissions Due or Accrued</em>."
+                        "Paragraph_txt": "<br />Video 8.2 presents an example of how an insurance company uses the account known as <em>Agent Commissions Due or Accrued</em>."
                     }
                 ]
             },

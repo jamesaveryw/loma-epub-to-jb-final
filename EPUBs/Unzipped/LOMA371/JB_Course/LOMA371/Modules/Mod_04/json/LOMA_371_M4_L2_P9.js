@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Summary of Annuity Product Costs and Charges",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "As you have read, annuity contract owners can choose from several annuity types, indicate their preferences for receiving periodic income and other contract benefits, and choose different kinds of riders for their contracts."
                     },
                     {
-                        "Paragraph_txt": "During annuity product technical design, insurers must project the costs of the types of benefits the product will provide. For instance, finding the cost of an annuity’s periodic income payments requires finding the sum of the present values of all future payments. The periodic payment amount, assumed interest rate, and number of expected payments are all factors in the insurer’s present value calculations. The insurer calculates present value as of the beginning of the payout period."
+                        "Paragraph_txt": "<br />During annuity product technical design, insurers must project the costs of the types of benefits the product will provide. For instance, finding the cost of an annuity’s periodic income payments requires finding the sum of the present values of all future payments. The periodic payment amount, assumed interest rate, and number of expected payments are all factors in the insurer’s present value calculations. The insurer calculates present value as of the beginning of the payout period."
                     },
                     {
-                        "Paragraph_txt": "The total cost of benefits for an annuity equals the sum of the present value of each potential benefit multiplied by the expected probability that each benefit will be payable. For example, the cost of benefits calculation for a new fixed deferred annuity product with death benefits, surrender benefits, and periodic income benefits is calculated using the following formula:"
+                        "Paragraph_txt": "<br />The total cost of benefits for an annuity equals the sum of the present value of each potential benefit multiplied by the expected probability that each benefit will be payable. For example, the cost of benefits calculation for a new fixed deferred annuity product with death benefits, surrender benefits, and periodic income benefits is calculated using the following formula:"
                     }
                 ]
             },
@@ -285,7 +255,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In addition to the cost of benefits, an annuity product’s design must account for the other financial components described earlier in the text. For instance, product design includes considerations of investment earnings. As you read in Chapter 7, how an insurer incorporates investment earnings into an annuity contract depends on whether the contract is fixed or variable."
                     },
                     {
-                        "Paragraph_txt": "Annuity product design must also consider operating expenses, which you read about in Chapter 9. For immediate annuities, insurers typically incorporate operating expenses into the premium. For most deferred annuity products, insurers offset at least some operating expenses by means of explicit charges—such as surrender charges—to customers. Examples of other explicit charges associated with variable deferred annuities include contract maintenance charges, M&amp;E risk charges, fund operating expense charges, and rider charges."
+                        "Paragraph_txt": "<br />Annuity product design must also consider operating expenses, which you read about in Chapter 9. For immediate annuities, insurers typically incorporate operating expenses into the premium. For most deferred annuity products, insurers offset at least some operating expenses by means of explicit charges—such as surrender charges—to customers. Examples of other explicit charges associated with variable deferred annuities include contract maintenance charges, M&amp;E risk charges, fund operating expense charges, and rider charges."
                     }
                 ]
             },

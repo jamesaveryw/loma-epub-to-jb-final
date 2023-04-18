@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Account Maintenance Concepts and Principles",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +148,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost concept</span>, also called the <em>historical-cost concept</em>, the <em>cost principle</em>, the <em>initial-recording concept</em>, and the <em>acquisition-cost concept</em>, states that companies should include items on the balance sheet and income statement according to their actual cost at the time of purchase. For example, according to the cost concept, a company reports the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">historical cost</span>, which is the original purchase price of an asset, on its balance sheet. An asset’s historical cost is derived from its book value on the date of purchase. An asset’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">book value</span> is the value at which the asset is recorded in a company’s accounting records."
                     },
                     {
-                        "Paragraph_txt": "Unlike an asset’s historical cost, an asset’s book value may change over time due to a variety of factors, including the recording of <em>depreciation</em> on the asset. (We discuss depreciation later in this chapter.) The reasoning behind the cost concept is that an asset’s historical cost provides a reliable measure of the asset’s value, because the historical cost is a verifiable figure that will not change. However, an asset’s historical cost may lack relevance because the asset may have significantly increased or decreased in value over time. Although the cost concept is useful in recording the values of certain assets, such as operations that depreciate equipment, companies often use other valuation methods to report the value of assets. We discuss these other methods in Chapter 5."
+                        "Paragraph_txt": "<br />Unlike an asset’s historical cost, an asset’s book value may change over time due to a variety of factors, including the recording of <em>depreciation</em> on the asset. (We discuss depreciation later in this chapter.) The reasoning behind the cost concept is that an asset’s historical cost provides a reliable measure of the asset’s value, because the historical cost is a verifiable figure that will not change. However, an asset’s historical cost may lack relevance because the asset may have significantly increased or decreased in value over time. Although the cost concept is useful in recording the values of certain assets, such as operations that depreciate equipment, companies often use other valuation methods to report the value of assets. We discuss these other methods in Chapter 5."
                     }
                 ]
             },
@@ -306,7 +276,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">full-disclosure concept</span> states that a financial statement must contain all material information about a company and that the company must disclose any additional information or fact that, by its omission, could mislead an interested user of the company’s financial information. The full-disclosure concept implies the inclusion of every item that is material, relevant, reliable, comparable, and understandable, to provide a fair representation of a company’s financial condition and performance."
                     },
                     {
-                        "Paragraph_txt": "The full-disclosure concept also points to the critical role of notes and other supplementary materials that accompany an insurer’s financial statements. Examples of information that would be added to notes and other supplementary materials to provide full disclosure include pending mergers and acquisitions, or ongoing lawsuits. However, the full-disclosure concept does not require the inclusion of excessive details. For example, you are not necessarily better informed about the financial strength of a life insurance company if the company clutters its balance sheet with detailed descriptions of every government security that it owns. In such cases, you’ll find summary information more useful."
+                        "Paragraph_txt": "<br />The full-disclosure concept also points to the critical role of notes and other supplementary materials that accompany an insurer’s financial statements. Examples of information that would be added to notes and other supplementary materials to provide full disclosure include pending mergers and acquisitions, or ongoing lawsuits. However, the full-disclosure concept does not require the inclusion of excessive details. For example, you are not necessarily better informed about the financial strength of a life insurance company if the company clutters its balance sheet with detailed descriptions of every government security that it owns. In such cases, you’ll find summary information more useful."
                     }
                 ]
             },
@@ -342,13 +312,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">time-period concept</span> states that a company’s financial statements should report the company’s business operations during a specified fiscal period, usually referred to as an <em>accounting period</em>. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">accounting period</span> is a specified length of time during which a company records, summarizes, and reports its financial transactions. Typical accounting periods are one month, one quarter, and one year. An accounting period is in itself arbitrary, given the assumed indefinite life associated with the going-concern concept. But without artificially imposed accounting periods, a company would have to postpone creating financial statements until the end of the company’s life, when all debts are paid and all investor claims are settled. Because a company’s financial information is needed during the company’s life, the time-period concept has evolved."
                     },
                     {
-                        "Paragraph_txt": "The time-period concept assumes that a company can identify an accounting period, reach a suitable cut-off date, and provide summary financial information as of that date or for that period. All companies must file specified financial statements at the end of each one-year period. Most companies also produce financial statements more frequently. These financial statements are usually called <em>interim financial statements</em> to distinguish them from annual financial statements."
+                        "Paragraph_txt": "<br />The time-period concept assumes that a company can identify an accounting period, reach a suitable cut-off date, and provide summary financial information as of that date or for that period. All companies must file specified financial statements at the end of each one-year period. Most companies also produce financial statements more frequently. These financial statements are usually called <em>interim financial statements</em> to distinguish them from annual financial statements."
                     },
                     {
-                        "Paragraph_txt": "Most insurance companies use a fiscal year that follows the calendar year—from January through December—as their annual accounting period. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fiscal year</span> is a 12-month accounting period chosen by a company for financial reporting purposes. A company may select for financial reporting purposes a fiscal year other than the calendar year—such as September through August. However, insurance regulators typically require that insurers use the calendar year—January 1 through December 31—as the fiscal year for financial statements and reports submitted for regulatory purposes."
+                        "Paragraph_txt": "<br />Most insurance companies use a fiscal year that follows the calendar year—from January through December—as their annual accounting period. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">fiscal year</span> is a 12-month accounting period chosen by a company for financial reporting purposes. A company may select for financial reporting purposes a fiscal year other than the calendar year—such as September through August. However, insurance regulators typically require that insurers use the calendar year—January 1 through December 31—as the fiscal year for financial statements and reports submitted for regulatory purposes."
                     },
                     {
-                        "Paragraph_txt": "The drawback to adhering to the time-period concept is that a company does not complete all its transactions within one accounting period. A single accounting period might not be sufficient to complete even a simple transaction. For example, an insurer may incur agent commission expenses at the end of one period that will be paid at the beginning of the next period. Because transactions can take place over multiple accounting periods, a company’s management must ask the question: When should we record each revenue and each expense? To help companies answer this question, the accounting profession has developed two principles: (1) the realization principle for revenue recognition and (2) the matching principle for expense recognition."
+                        "Paragraph_txt": "<br />The drawback to adhering to the time-period concept is that a company does not complete all its transactions within one accounting period. A single accounting period might not be sufficient to complete even a simple transaction. For example, an insurer may incur agent commission expenses at the end of one period that will be paid at the beginning of the next period. Because transactions can take place over multiple accounting periods, a company’s management must ask the question: When should we record each revenue and each expense? To help companies answer this question, the accounting profession has developed two principles: (1) the realization principle for revenue recognition and (2) the matching principle for expense recognition."
                     }
                 ]
             },
@@ -384,7 +354,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As you recall, <em>recognition</em> is the process of classifying the items in a financial statement properly, such as deciding whether an item is a liability or an expense. An insurer does not necessarily receive all its revenues in the same accounting period in which it earns them, such as when a customer chooses to pay for a service in advance. For this reason, the insurer follows certain guidelines to match the revenue with its correct accounting period, which is the period during which the insurer has <em>earned</em> the revenue."
                     },
                     {
-                        "Paragraph_txt": "Under U.S. GAAP, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">realization principle</span> states that a company should recognize revenue when it is earned, regardless of when the company receives the actual payment, so long as a legal and reasonable expectation exists that the customer will remit payment in full. For life insurance companies, revenue recognition applies primarily to the receipt of life insurance or annuity premiums. Insurers recognize premiums as they are earned over the lifetime of the insurance policy or annuity contract."
+                        "Paragraph_txt": "<br />Under U.S. GAAP, the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">realization principle</span> states that a company should recognize revenue when it is earned, regardless of when the company receives the actual payment, so long as a legal and reasonable expectation exists that the customer will remit payment in full. For life insurance companies, revenue recognition applies primarily to the receipt of life insurance or annuity premiums. Insurers recognize premiums as they are earned over the lifetime of the insurance policy or annuity contract."
                     }
                 ]
             },
@@ -563,7 +533,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "Generally, U.S. GAAP permits three approaches to expense recognition: (1) associating cause and effect, (2) systematic and rational allocation, and (3) immediate recognition."
+                        "Paragraph_txt": "<br />Generally, U.S. GAAP permits three approaches to expense recognition: (1) associating cause and effect, (2) systematic and rational allocation, and (3) immediate recognition."
                     }
                 ]
             },
@@ -599,7 +569,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Under GAAP, some expenses may be deferred and recognized over time. According to the approach of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">associating cause and effect</span>, expenses that have a direct relationship to specified future revenues are charged to future accounting periods instead of being charged to the current accounting period."
                     },
                     {
-                        "Paragraph_txt": "One example of an expense that has a direct relationship to premium income is agent commissions. For specified types of insurance products, a life insurance company recognizes agent commissions in the same accounting period in which it receives the premium income generated by this expense. However, the expenses associated with products such as investment contracts and participating policies are usually spread across accounting periods as profits emerge from these products."
+                        "Paragraph_txt": "<br />One example of an expense that has a direct relationship to premium income is agent commissions. For specified types of insurance products, a life insurance company recognizes agent commissions in the same accounting period in which it receives the premium income generated by this expense. However, the expenses associated with products such as investment contracts and participating policies are usually spread across accounting periods as profits emerge from these products."
                     }
                 ]
             },
@@ -724,6 +694,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.5 Depreciation</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "3-5figure.jpg",
@@ -742,7 +745,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.5</strong> Depreciation",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -753,7 +756,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "Emphatic Life Insurance Company purchases a new computer system.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -776,6 +779,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "Emphatic Life Insurance Company purchases a new computer system."
                     }
                 ]
             },

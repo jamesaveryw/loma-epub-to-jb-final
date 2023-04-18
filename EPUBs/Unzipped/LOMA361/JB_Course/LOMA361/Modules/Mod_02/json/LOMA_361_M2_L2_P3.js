@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Valuation and Reporting of Real Estate",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -207,7 +177,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Personal property</span> is any property that is not real estate. Some examples of personal property are automobiles, computer equipment, and furniture."
                     },
                     {
-                        "Paragraph_txt": "Insurers generally report real estate at book value in their financial statements. For U.S. statutory purposes, real estate is typically considered an admitted asset, and insurers describe each real estate asset in a separate schedule in the Annual Statement. In contrast, personal property is typically considered a nonadmitted asset."
+                        "Paragraph_txt": "<br />Insurers generally report real estate at book value in their financial statements. For U.S. statutory purposes, real estate is typically considered an admitted asset, and insurers describe each real estate asset in a separate schedule in the Annual Statement. In contrast, personal property is typically considered a nonadmitted asset."
                     }
                 ]
             },
@@ -243,16 +213,49 @@ Lesson_Data_File([
                         "Paragraph_txt": "Life insurance companies in the United States depreciate the cost of real estate—except for land—over the useful economic life of the property. Land is not depreciated under U.S. accounting standards. Instead, the insurer values land at its historical cost until the property is sold."
                     },
                     {
-                        "Paragraph_txt": "In addition to the purchase price, the cost for real estate may include any acquisition costs—such as sales commissions and legal fees—spent to acquire the property. On the date of purchase, the historical cost and the book value of an asset in general, and real estate in particular, are equal. Over time, however, depreciation will allocate the cost of the asset over the asset’s estimated useful life."
+                        "Paragraph_txt": "<br />In addition to the purchase price, the cost for real estate may include any acquisition costs—such as sales commissions and legal fees—spent to acquire the property. On the date of purchase, the historical cost and the book value of an asset in general, and real estate in particular, are equal. Over time, however, depreciation will allocate the cost of the asset over the asset’s estimated useful life."
                     },
                     {
-                        "Paragraph_txt": "Accounting entries to record depreciation on real estate usually involve contra accounts. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">contra account</span>, which accompanies a specified “companion” account—typically an asset account—is an account that has a normal balance that is the opposite of the companion account. For example, asset accounts and expense accounts have a normal debit balance, so contra accounts for assets and expenses would have a normal credit balance. The purpose of a contra account is to provide additional information on the transactions that occur in the companion account. The amounts in a contra account usually decrease the balance in its companion account. However, the monetary amount in a contra account should not be larger than the amount in its companion account."
+                        "Paragraph_txt": "<br />Accounting entries to record depreciation on real estate usually involve contra accounts. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">contra account</span>, which accompanies a specified “companion” account—typically an asset account—is an account that has a normal balance that is the opposite of the companion account. For example, asset accounts and expense accounts have a normal debit balance, so contra accounts for assets and expenses would have a normal credit balance. The purpose of a contra account is to provide additional information on the transactions that occur in the companion account. The amounts in a contra account usually decrease the balance in its companion account. However, the monetary amount in a contra account should not be larger than the amount in its companion account."
                     },
                     {
-                        "Paragraph_txt": "Contra accounts are generally used to amortize real estate depreciation. A typical accounting entry to record depreciation of an insurer’s real estate is a debit to <em>Depreciation on Real Estate</em> (a noncash expense account) and a credit to a contra account, such as <em>Accumulated Depreciation on Real Estate</em>. By using contra accounts for real estate, an insurer records <em>Accumulated Depreciation</em>—a contra account—separately from <em>Real Estate</em>, the companion asset account."
+                        "Paragraph_txt": "<br />Contra accounts are generally used to amortize real estate depreciation. A typical accounting entry to record depreciation of an insurer’s real estate is a debit to <em>Depreciation on Real Estate</em> (a noncash expense account) and a credit to a contra account, such as <em>Accumulated Depreciation on Real Estate</em>. By using contra accounts for real estate, an insurer records <em>Accumulated Depreciation</em>—a contra account—separately from <em>Real Estate</em>, the companion asset account."
                     },
                     {
-                        "Paragraph_txt": "Figure 6.5 summarizes the characteristics of contra accounts."
+                        "Paragraph_txt": "<br />Figure 6.5 summarizes the characteristics of contra accounts."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.5 Characteristics of Contra Accounts</strong>"
                     }
                 ]
             },
@@ -275,7 +278,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.5</strong> Characteristics of Contra Accounts",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -668,7 +671,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Foreclosure</span> is a legal proceeding by which a lender can take possession of and sell a mortgaged property to recover the unpaid loan balance if the borrower fails to make timely contractual principal and interest payments on the loan. An insurer has two options when it obtains property through foreclosure: (1) put the property up for resale or (2) rent the property to generate rental income."
                     },
                     {
-                        "Paragraph_txt": "When real estate obtained through foreclosure is offered for resale, an insurer usually capitalizes the costs of foreclosure, including property taxes on the real estate acquired. In the context of accounting for these costs, to<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> capitalize</span> means to record the costs as an asset. In this case, this means adding the amount of property taxes to the cost of the property. On the other hand, when real estate is obtained through foreclosure and is rented to produce income, an insurer treats the property taxes as an expense."
+                        "Paragraph_txt": "<br />When real estate obtained through foreclosure is offered for resale, an insurer usually capitalizes the costs of foreclosure, including property taxes on the real estate acquired. In the context of accounting for these costs, to<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> capitalize</span> means to record the costs as an asset. In this case, this means adding the amount of property taxes to the cost of the property. On the other hand, when real estate is obtained through foreclosure and is rented to produce income, an insurer treats the property taxes as an expense."
                     }
                 ]
             },

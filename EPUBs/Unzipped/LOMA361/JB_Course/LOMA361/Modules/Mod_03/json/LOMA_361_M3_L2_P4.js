@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Cost Accumulation",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -345,10 +315,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "To accumulate costs by function, an insurer directs the costs to the company operation that generates the costs. In this context, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">function</span> consists of a series of activities that serve a specific purpose. For example, policy maintenance is a typical life insurance company function, and a company typically charges to that function all the costs associated with the maintenance of in-force policies. Activities within the policy maintenance function include collecting renewal premiums, processing agent renewal commissions, administering policy loans, and processing policy surrenders."
                     },
                     {
-                        "Paragraph_txt": "The accumulated costs of the activities involved within a certain function, without regard to organizational units, are known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">functional costs</span>. Within each function, managers accumulate costs by behavior, and then by type, such as salaries, supplies, and equipment. So, for example, when accumulating costs by function, management might first charge the cost of an agent’s commission to the sales function. Within the sales function, the manager would then accumulate the cost as a variable cost (by behavior), and then as a commission (by type)."
+                        "Paragraph_txt": "<br />The accumulated costs of the activities involved within a certain function, without regard to organizational units, are known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">functional costs</span>. Within each function, managers accumulate costs by behavior, and then by type, such as salaries, supplies, and equipment. So, for example, when accumulating costs by function, management might first charge the cost of an agent’s commission to the sales function. Within the sales function, the manager would then accumulate the cost as a variable cost (by behavior), and then as a commission (by type)."
                     },
                     {
-                        "Paragraph_txt": "See Figure 13.4 for an example of the accumulation of costs for a specific insurer’s policy maintenance function within the individual life insurance line of business. Note that this insurer accumulates functional costs by both cost centers and activities within the function, as well as by types, but not by behavior."
+                        "Paragraph_txt": "<br />See Figure 13.4 for an example of the accumulation of costs for a specific insurer’s policy maintenance function within the individual life insurance line of business. Note that this insurer accumulates functional costs by both cost centers and activities within the function, as well as by types, but not by behavior."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 13.4 Cost Accumulation</strong>"
                     }
                 ]
             },
@@ -371,7 +374,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 13.4</strong> Cost Accumulation",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -540,6 +543,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 13.5 Salary Cost Allocation by Line of Business</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "13-5figure.jpg",
@@ -558,7 +594,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 13.5</strong> Salary Cost Allocation by Line of Business",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -569,7 +605,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "For many companies, allocating salary costs is a two-step process. For example, a company incurs $3,000 in salary costs. First, the company allocates that amount to cost centers and functions. Next, the company allocates salary costs to functions by line of business.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -592,6 +628,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "For many companies, allocating salary costs is a two-step process. For example, a company incurs $3,000 in salary costs. First, the company allocates that amount to cost centers and functions. Next, the company allocates salary costs to functions by line of business."
                     }
                 ]
             },

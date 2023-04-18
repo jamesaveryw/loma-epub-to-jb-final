@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Accounting for Other Assets",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -238,37 +208,37 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Sunflower Life Insurance Company issues an individual life insurance policy with a $250,000 death benefit. Sunflower reinsures $50,000 of the risk on this policy. While the policy is in force, the insured dies and Sunflower determines that the policy beneficiary is entitled to the $250,000 death benefit. To record the payment of the death benefit, Sunflower makes the following accounting entry:"
                     },
                     {
-                        "Paragraph_txt": "<em>Death Claims Paid</em>…<wbr>……<wbr>……<wbr>……..…<wbr>…..….250,000"
+                        "Paragraph_txt": "<br /><em>Death Claims Paid</em>…<wbr>……<wbr>……<wbr>……..…<wbr>…..….250,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash…<wbr>……<wbr>……<wbr>……<wbr>……</em>…<wbr>…<em>…<wbr>…..…<wbr>……..</em>…<wbr>….…<wbr>……250,000"
+                        "Paragraph_txt": "<br /><em>Cash…<wbr>……<wbr>……<wbr>……<wbr>……</em>…<wbr>…<em>…<wbr>…..…<wbr>……..</em>…<wbr>….…<wbr>……250,000"
                     },
                     {
-                        "Paragraph_txt": "To record payment of the death benefit to a policy beneficiary."
+                        "Paragraph_txt": "<br />To record payment of the death benefit to a policy beneficiary."
                     },
                     {
-                        "Paragraph_txt": "Upon the death of the insured, the reinsurer owes Sunflower $50,000 under the terms of its reinsurance agreement. Sunflower records the amount recoverable from the reinsurer as follows:"
+                        "Paragraph_txt": "<br />Upon the death of the insured, the reinsurer owes Sunflower $50,000 under the terms of its reinsurance agreement. Sunflower records the amount recoverable from the reinsurer as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Amount Recoverable from Reinsurer</em>…<wbr>……50,000"
+                        "Paragraph_txt": "<br /><em>Amount Recoverable from Reinsurer</em>…<wbr>……50,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Death Claims Paid</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……50,000"
+                        "Paragraph_txt": "<br /><em>Death Claims Paid</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……50,000"
                     },
                     {
-                        "Paragraph_txt": "To record the amount recoverable from the reinsurer."
+                        "Paragraph_txt": "<br />To record the amount recoverable from the reinsurer."
                     },
                     {
-                        "Paragraph_txt": "Upon receipt of the $50,000 from the reinsurer, Sunflower would record the following accounting entry:"
+                        "Paragraph_txt": "<br />Upon receipt of the $50,000 from the reinsurer, Sunflower would record the following accounting entry:"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…<wbr>……....50,000"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…<wbr>……....50,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Amount Recoverable from Reinsurer</em>…<wbr>……<wbr>……<wbr>…50,000"
+                        "Paragraph_txt": "<br /><em>Amount Recoverable from Reinsurer</em>…<wbr>……<wbr>……<wbr>…50,000"
                     },
                     {
-                        "Paragraph_txt": "To record the receipt of payment for the claim recoverable from the reinsurer."
+                        "Paragraph_txt": "<br />To record the receipt of payment for the claim recoverable from the reinsurer."
                     }
                 ]
             },
@@ -364,10 +334,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Cash value life insurance policies include a savings element—known as the <em>cash value</em>—that a policyowner can use in a number of ways. One important use of the cash value is as a loan. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">policy loan</span>, called a <em>certificate loan</em> in fraternal benefit societies, is a loan made to a policyowner and secured by the policy’s cash value as collateral. Policy loans are unique to life insurance companies, and this asset account can have a substantial balance in it. The basic accounting entry to record a policy loan is a debit to an asset account, such as <em>Policy Loans</em> or <em>Contract Loans</em>, and a credit to <em>Cash</em>, another asset account."
                     },
                     {
-                        "Paragraph_txt": "Because insurers charge interest on policy loans, accounting for policy loans involves keeping detailed records of the principal and interest on each policy loan. Insurers typically calculate policy loan interest so that it is payable on the policy anniversary date. However, some insurers charge policy loan interest at the end of the policy year, and a few insurers charge interest in advance. Policyowners usually pay the accrued policy loan interest when repaying the principal on a policy loan. The typical accounting entry to record the receipt of principal and interest on a policy loan consists of a debit to <em>Cash</em>, a credit to <em>Policy Loans </em>or <em>Contract Loans</em>, and a credit to <em>Investment Income</em> for the interest portion of the loan."
+                        "Paragraph_txt": "<br />Because insurers charge interest on policy loans, accounting for policy loans involves keeping detailed records of the principal and interest on each policy loan. Insurers typically calculate policy loan interest so that it is payable on the policy anniversary date. However, some insurers charge policy loan interest at the end of the policy year, and a few insurers charge interest in advance. Policyowners usually pay the accrued policy loan interest when repaying the principal on a policy loan. The typical accounting entry to record the receipt of principal and interest on a policy loan consists of a debit to <em>Cash</em>, a credit to <em>Policy Loans </em>or <em>Contract Loans</em>, and a credit to <em>Investment Income</em> for the interest portion of the loan."
                     },
                     {
-                        "Paragraph_txt": "For statutory reporting purposes, policy loans are typically considered admitted assets. They are reported at book value, which means the original loan amount, plus accrued interest, minus principal repayments. <em>Contract Loans</em>, an asset account, is reported separately from <em>Investment Income</em>, a revenue account. However, for financial reporting purposes, policy loan interest that is due and accrued is reported as part of <em>Investment Income Due and Accrued</em>, an asset account."
+                        "Paragraph_txt": "<br />For statutory reporting purposes, policy loans are typically considered admitted assets. They are reported at book value, which means the original loan amount, plus accrued interest, minus principal repayments. <em>Contract Loans</em>, an asset account, is reported separately from <em>Investment Income</em>, a revenue account. However, for financial reporting purposes, policy loan interest that is due and accrued is reported as part of <em>Investment Income Due and Accrued</em>, an asset account."
                     }
                 ]
             },
@@ -403,7 +373,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The FASB defines <span class=\"keyterm\" tabindex=\"0\" role=\"button\">deferred acquisition costs (DAC)</span>, also known as <em>deferred policy acquisition costs</em> <em>(DPAC)</em>, as costs that are related directly to the successful acquisition of new or renewal insurance contracts. Under U.S. GAAP, insurers capitalize these costs and then amortize them over several years. Note that this definition includes the word <em>successful</em>. In the past, some companies were capitalizing all acquisition-related costs, even though some of these costs were related to unsuccessful attempts to acquire new or renewal business. This approach created problems, because when these costs were deferred and then amortized into earnings in future periods, the insurer had no corresponding revenue to which the expenses could be matched."
                     },
                     {
-                        "Paragraph_txt": "According to the FASB, typical examples of DAC are policy issue costs, underwriting costs, and agent commissions. <em>Deferred Acquisition Costs</em> is a long-term asset account that appears on a balance sheet prepared under U.S. GAAP, but not on the statutory balance sheet. Under statutory accounting in the United States, the insurer reports costs for new products during the accounting period in which they are incurred."
+                        "Paragraph_txt": "<br />According to the FASB, typical examples of DAC are policy issue costs, underwriting costs, and agent commissions. <em>Deferred Acquisition Costs</em> is a long-term asset account that appears on a balance sheet prepared under U.S. GAAP, but not on the statutory balance sheet. Under statutory accounting in the United States, the insurer reports costs for new products during the accounting period in which they are incurred."
                     }
                 ]
             },
@@ -501,7 +471,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Just like general account assets, separate account assets belong to the insurer. The difference, however, is that the insurer generally establishes a liability to its customers who own separate account products. This liability reflects the customers’ direct financial interest in the separate account assets held by the insurer."
                     },
                     {
-                        "Paragraph_txt": "The chart below summarizes the differences between an insurer’s general account and its separate accounts."
+                        "Paragraph_txt": "<br />The chart below summarizes the differences between an insurer’s general account and its separate accounts."
                     }
                 ]
             },
@@ -689,16 +659,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "The Separate Accounts Annual Statement, sometimes called the “green book,” generally reports on the investment activities of all the insurer’s separate accounts. Like the Annual Statement, the Separate Accounts Annual Statement includes the pages that form the statutory balance sheet and income statement, along with information on reserves and an analysis of operations by lines of business. However, it includes no notes to the financial statements nor any types of noninvestment schedules. Because of these differences, the Separate Accounts Annual Statement is typically much shorter than the Annual Statement."
                     },
                     {
-                        "Paragraph_txt": "In addition, whereas the Annual Statement has a quarterly and annual version, the Separate Accounts Annual Statement has only an annual version. The Separate Accounts Annual Statement also includes a unique exhibit called “Guaranteed insurance and annuity products”—or “Exhibit 6”—that separates the liabilities for guaranteed products from those for nonguaranteed products. Regulators use this exhibit to differentiate between the separate account liabilities that represent risks for the company versus those that represent risks for customers."
+                        "Paragraph_txt": "<br />In addition, whereas the Annual Statement has a quarterly and annual version, the Separate Accounts Annual Statement has only an annual version. The Separate Accounts Annual Statement also includes a unique exhibit called “Guaranteed insurance and annuity products”—or “Exhibit 6”—that separates the liabilities for guaranteed products from those for nonguaranteed products. Regulators use this exhibit to differentiate between the separate account liabilities that represent risks for the company versus those that represent risks for customers."
                     },
                     {
-                        "Paragraph_txt": "See below for an example of this exhibit. The lines highlighted in gray show that, for this company, 24.7 percent of its separate account liabilities are for guaranteed products, whereas 75.3 percent are for nonguaranteed products."
+                        "Paragraph_txt": "<br />See below for an example of this exhibit. The lines highlighted in gray show that, for this company, 24.7 percent of its separate account liabilities are for guaranteed products, whereas 75.3 percent are for nonguaranteed products."
                     },
                     {
-                        "Paragraph_txt": "<strong>Annual Statement for 2018 of the Separate Accounts of the ABC Life Insurance Company</strong> "
+                        "Paragraph_txt": "<br /><strong>Annual Statement for 2018 of the Separate Accounts of the ABC Life Insurance Company</strong> "
                     },
                     {
-                        "Paragraph_txt": "<strong>EXHIBIT 6—GUARANTEED INSURANCE AND ANNUITY PRODUCTS</strong> "
+                        "Paragraph_txt": "<br /><strong>EXHIBIT 6—GUARANTEED INSURANCE AND ANNUITY PRODUCTS</strong> "
                     }
                 ]
             },

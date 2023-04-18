@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Responsibility Accounting",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -254,6 +224,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 12.2 Organization of Responsibility Centers in an Insurance Company</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "12-2figure.jpg",
@@ -272,7 +275,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 12.2</strong> Organization of Responsibility Centers in an Insurance Company",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -341,13 +344,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "To establish and evaluate distinct responsibility centers, a company must be able to separate a center’s expenses into the following categories: (1) controllable and noncontrollable costs, and (2) direct and indirect costs. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">controllable cost</span> is a cost over which a responsibility manager has decision-making authority. For example, the costs of supplies, travel, and overtime pay are controllable costs within a department because the responsibility manager can decide whether or not these costs should be incurred. On the other hand, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">noncontrollable cost</span> is a cost over which a responsibility manager has no decision-making authority. One example of a noncontrollable cost is office rent: a responsibility manager cannot control the rent paid or the portion of the rent allocated to her department."
                     },
                     {
-                        "Paragraph_txt": "Note that controllable and noncontrollable costs are measured from the perspective of a specific responsibility center: a noncontrollable cost from the perspective of one responsibility manager is usually a controllable cost from the perspective of another responsibility manager, or from the perspective of senior management. For example, office rent is a noncontrollable cost from the perspective of most responsibility managers, but it is ultimately a controllable cost from the perspective of senior management, who have the decision-making authority to negotiate rental agreements."
+                        "Paragraph_txt": "<br />Note that controllable and noncontrollable costs are measured from the perspective of a specific responsibility center: a noncontrollable cost from the perspective of one responsibility manager is usually a controllable cost from the perspective of another responsibility manager, or from the perspective of senior management. For example, office rent is a noncontrollable cost from the perspective of most responsibility managers, but it is ultimately a controllable cost from the perspective of senior management, who have the decision-making authority to negotiate rental agreements."
                     },
                     {
-                        "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">direct cost</span> is identified specifically with a single cost object. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost object</span> is any purpose for which a company measures costs. Sample cost objects include product lines, employee salaries, customer service, and so on. A simple way to determine whether a cost is a direct cost of a specified cost object is to ask: Would the cost disappear if the cost object disappeared? If the answer is yes, then the cost is a direct cost. For example, the salary of a responsibility manager is a direct cost of that center. In addition, the salary of the manager of an insurer’s group life insurance line of business is a direct cost to that line of business because the salary cost disappears if the insurer eliminates this line of business. Repair and maintenance costs for equipment that is used exclusively in one responsibility center are also direct costs of that responsibility center because these costs would disappear if the equipment were sold or removed from the responsibility center."
+                        "Paragraph_txt": "<br />A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">direct cost</span> is identified specifically with a single cost object. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost object</span> is any purpose for which a company measures costs. Sample cost objects include product lines, employee salaries, customer service, and so on. A simple way to determine whether a cost is a direct cost of a specified cost object is to ask: Would the cost disappear if the cost object disappeared? If the answer is yes, then the cost is a direct cost. For example, the salary of a responsibility manager is a direct cost of that center. In addition, the salary of the manager of an insurer’s group life insurance line of business is a direct cost to that line of business because the salary cost disappears if the insurer eliminates this line of business. Repair and maintenance costs for equipment that is used exclusively in one responsibility center are also direct costs of that responsibility center because these costs would disappear if the equipment were sold or removed from the responsibility center."
                     },
                     {
-                        "Paragraph_txt": "A cost that cannot be identified specifically with a single cost object is an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">indirect cost</span>, sometimes called a <em>common cost</em> or a <em>shared cost</em>. Again, ask the question: Would the cost disappear if the cost object disappeared? If the answer is no, then the cost is an indirect cost. For example, the salary of an insurer’s vice president in charge of both the individual life insurance and group life insurance lines of business is an indirect cost from the point of view of the individual life insurance line of business. If the insurer eliminated the individual life insurance line of business, the vice president’s salary cost would not disappear. Overhead expenses are another example of indirect costs."
+                        "Paragraph_txt": "<br />A cost that cannot be identified specifically with a single cost object is an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">indirect cost</span>, sometimes called a <em>common cost</em> or a <em>shared cost</em>. Again, ask the question: Would the cost disappear if the cost object disappeared? If the answer is no, then the cost is an indirect cost. For example, the salary of an insurer’s vice president in charge of both the individual life insurance and group life insurance lines of business is an indirect cost from the point of view of the individual life insurance line of business. If the insurer eliminated the individual life insurance line of business, the vice president’s salary cost would not disappear. Overhead expenses are another example of indirect costs."
                     }
                 ]
             },

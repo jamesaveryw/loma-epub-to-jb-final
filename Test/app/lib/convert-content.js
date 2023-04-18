@@ -211,6 +211,14 @@ let lessonBuilder = {
 			for (let lo of los) {
 				lo.innerHTML = lo.innerHTML.replace(/<strong>.*?<\/strong>(.*?)$/, '$1');
 			}
+
+			// add the LO snippet
+			JB_Page[0].JBuilder_Content.push({
+				"Learning_Objectives":
+					[
+						{"color": "006aac"}
+					]
+			});
 		}
 
 		// collect elements

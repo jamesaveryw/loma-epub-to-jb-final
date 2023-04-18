@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Types of Mortality Tables",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +148,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">population mortality table</span> shows mortality statistics for all members of a given population. Population mortality differs by country, so a mortality table valid in one country may not be valid in another country. Population mortality tables may provide a variety of data, including <span class=\"keyterm\" tabindex=\"0\" role=\"button\">life expectancy</span>, or the average number of years of life remaining for a group of people. The following insight shows average life expectancies at birth for various countries in 2019."
                     },
                     {
-                        "Paragraph_txt": "Average Life Expectancies by Country in 2019"
+                        "Paragraph_txt": "<br />Average Life Expectancies by Country in 2019"
                     }
                 ]
             },
@@ -398,7 +368,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers don’t use the same sets of mortality data in life insurance product design as they do in annuity product design. Annuitants tend to live longer than do life insureds, so insurers use lower mortality rates for annuity benefit design than for death benefit pricing. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">life insurance mortality table</span> shows the projected mortality rates and survival rates for a population of life insureds only. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">annuity mortality table</span> shows the projected mortality rates and survival rates for a population of annuitants only."
                     },
                     {
-                        "Paragraph_txt": "When life expectancy increases for the general population, or for a subset of the population, insurers experience a decrease in benefit costs for associated life insurance policies, but an increase in benefit costs for associated life annuities. The risk this trend poses for issuers of life annuities is sometimes called <em>longevity risk</em>."
+                        "Paragraph_txt": "<br />When life expectancy increases for the general population, or for a subset of the population, insurers experience a decrease in benefit costs for associated life insurance policies, but an increase in benefit costs for associated life annuities. The risk this trend poses for issuers of life annuities is sometimes called <em>longevity risk</em>."
                     }
                 ]
             },
@@ -646,10 +616,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Why do annuitants of individual annuities tend to live longer than annuitants of group annuities—or, for that matter, why do annuitants tend to live longer than life insureds? It may depend partly on lifestyle, income level, or the type of job the annuitant had during his or her working years. Annuitants of individual annuities tend to be in higher income or wealth brackets, which generally contribute to longevity."
                     },
                     {
-                        "Paragraph_txt": "In addition, customers purchase individual annuities to plan for the future—a decision that is more likely if a person has reason to believe that she will live long enough to require additional financial security. An annuitant may expect to live longer because of family medical history, personal health regimen, or other factors. People who are less optimistic about their life expectancy are less likely to purchase annuities."
+                        "Paragraph_txt": "<br />In addition, customers purchase individual annuities to plan for the future—a decision that is more likely if a person has reason to believe that she will live long enough to require additional financial security. An annuitant may expect to live longer because of family medical history, personal health regimen, or other factors. People who are less optimistic about their life expectancy are less likely to purchase annuities."
                     },
                     {
-                        "Paragraph_txt": "Note also that life insureds tend to live longer than uninsured people. This difference could be partly due to the typical underwriting requirement for medical examinations: the healthier a person is, the more likely that the insurance company will approve her application for life insurance."
+                        "Paragraph_txt": "<br />Note also that life insureds tend to live longer than uninsured people. This difference could be partly due to the typical underwriting requirement for medical examinations: the healthier a person is, the more likely that the insurance company will approve her application for life insurance."
                     }
                 ]
             },
@@ -898,7 +868,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Actual mortality rates and life expectancies differ by sex; on average, women live longer than do men. Thus, insurers must generally pay annuity benefits to women as a group for a longer period than to men as a group. For the same reason, insurers must pay death benefits on insured men at earlier ages on the average than for insured women. The mortality rate of women at any given age—up to the end of a mortality table—is generally lower than that for men."
                     },
                     {
-                        "Paragraph_txt": "Life annuity premium rates based on sex-distinct mortality tables are generally higher for women than for men having otherwise similar characteristics. Insurers sometimes compensate for female annuitants’ lower mortality rates—and longer life expectancy—by charging female annuitants higher premiums than they charge male annuitants having otherwise similar characteristics. Similarly, insurers generally compensate for the higher mortality rates among men by charging higher life insurance premiums for men than they charge for women having otherwise similar characteristics."
+                        "Paragraph_txt": "<br />Life annuity premium rates based on sex-distinct mortality tables are generally higher for women than for men having otherwise similar characteristics. Insurers sometimes compensate for female annuitants’ lower mortality rates—and longer life expectancy—by charging female annuitants higher premiums than they charge male annuitants having otherwise similar characteristics. Similarly, insurers generally compensate for the higher mortality rates among men by charging higher life insurance premiums for men than they charge for women having otherwise similar characteristics."
                     }
                 ]
             },

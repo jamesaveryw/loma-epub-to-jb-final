@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Financial Tools and Insurer Solvency",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -331,10 +301,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Each country sets minimum capital requirements for domestic and international insurance companies. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Capital</span> is the amount of money invested in a company by its owners, usually through the purchase of the company’s stock. In the United States, one serious shortcoming of the minimum capital requirements is that they ignore the different risks to which insurers may be exposed."
                     },
                     {
-                        "Paragraph_txt": "To address this situation, the NAIC has established <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk-based capital (RBC) requirements</span>, which evaluate the adequacy of an insurer’s capital based on the insurer’s size and risk profile.<span class=\"ens\" id=\"loma361-ch1-span-91\"> <span class=\"endnote hidden\" data-note=\"loma361-ch1-en4\" epub:type=\"noteref\" id=\"loma361-ch1-span-92\" role=\"doc-noteref\">4</span> </span>The RBC requirements are determined using a ratio known as the <em>risk-based capital (RBC) ratio</em>, which is calculated by applying various risk factors to specific asset, premium, claim, expense, and reserve items found in the insurer’s Annual Statement. Each insurer calculates its own RBC ratio results and includes them in a detailed report that must be electronically filed with the NAIC."
+                        "Paragraph_txt": "<br />To address this situation, the NAIC has established <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk-based capital (RBC) requirements</span>, which evaluate the adequacy of an insurer’s capital based on the insurer’s size and risk profile.<span class=\"ens\" id=\"loma361-ch1-span-91\"> <span class=\"endnote hidden\" data-note=\"loma361-ch1-en4\" epub:type=\"noteref\" id=\"loma361-ch1-span-92\" role=\"doc-noteref\">4</span> </span>The RBC requirements are determined using a ratio known as the <em>risk-based capital (RBC) ratio</em>, which is calculated by applying various risk factors to specific asset, premium, claim, expense, and reserve items found in the insurer’s Annual Statement. Each insurer calculates its own RBC ratio results and includes them in a detailed report that must be electronically filed with the NAIC."
                     },
                     {
-                        "Paragraph_txt": "In evaluating a given insurer, an insurance regulator compares the results of the RBC ratios with specified trigger points to determine whether regulatory intervention is necessary and, if so, to what degree. Because risk-based capital is the minimum threshold of capital required, insurance companies aim for a significantly higher amount of capital and surplus—in effect, a safety cushion—than is necessary to satisfy regulatory requirements."
+                        "Paragraph_txt": "<br />In evaluating a given insurer, an insurance regulator compares the results of the RBC ratios with specified trigger points to determine whether regulatory intervention is necessary and, if so, to what degree. Because risk-based capital is the minimum threshold of capital required, insurance companies aim for a significantly higher amount of capital and surplus—in effect, a safety cushion—than is necessary to satisfy regulatory requirements."
                     }
                 ]
             },
@@ -571,13 +541,46 @@ Lesson_Data_File([
                         "Paragraph_txt": "State examiners also review other factors that help them evaluate whether the insurer is in compliance with the law. For example, examiners might perform a broad-based analysis of the insurer’s financial accounts and lines of business, or they might focus their analysis on specified problem areas, as identified from the insurer’s Annual Statement, IRIS ratio results, RBC ratio results, previous examinations, or any other source."
                     },
                     {
-                        "Paragraph_txt": "One increasingly important source of information for examiners is an insurer’s <em>ORSA</em>. In an<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Own Risk and Solvency Assessment (ORSA)</span>, an insurer conducts an internal assessment of the risks associated with its current business plan and the adequacy of its capital resources to support those risks. The ORSA includes a high-level summary of an insurer’s risk management framework, as well as details on the insurer’s process for assessing risks in both normal and stressed environments. The NAIC typically requires insurers to undergo an ORSA on at least an annual basis."
+                        "Paragraph_txt": "<br />One increasingly important source of information for examiners is an insurer’s <em>ORSA</em>. In an<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Own Risk and Solvency Assessment (ORSA)</span>, an insurer conducts an internal assessment of the risks associated with its current business plan and the adequacy of its capital resources to support those risks. The ORSA includes a high-level summary of an insurer’s risk management framework, as well as details on the insurer’s process for assessing risks in both normal and stressed environments. The NAIC typically requires insurers to undergo an ORSA on at least an annual basis."
                     },
                     {
-                        "Paragraph_txt": "Working through the NAIC, the states have developed a zone system to oversee the examinations of multistate insurers. According to this system, each insurance company is domiciled within one of four geographic zones in the United States. For any insurer that operates in more than one zone or in more than three states, the NAIC recommends that the insurer undergo an <em>association examination</em>. In an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">association examination</span>, also known as a <em>coordinated exam</em>, examiners representing various states in the geographic zones in which the insurer is licensed participate in examining the insurer. Most financial condition examinations are association examinations."
+                        "Paragraph_txt": "<br />Working through the NAIC, the states have developed a zone system to oversee the examinations of multistate insurers. According to this system, each insurance company is domiciled within one of four geographic zones in the United States. For any insurer that operates in more than one zone or in more than three states, the NAIC recommends that the insurer undergo an <em>association examination</em>. In an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">association examination</span>, also known as a <em>coordinated exam</em>, examiners representing various states in the geographic zones in which the insurer is licensed participate in examining the insurer. Most financial condition examinations are association examinations."
                     },
                     {
-                        "Paragraph_txt": "Figure 1.9 presents the NAIC zone system."
+                        "Paragraph_txt": "<br />Figure 1.9 presents the NAIC zone system."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.9 The NAIC Zone System</strong>"
                     }
                 ]
             },
@@ -600,7 +603,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.9</strong> The NAIC Zone System",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

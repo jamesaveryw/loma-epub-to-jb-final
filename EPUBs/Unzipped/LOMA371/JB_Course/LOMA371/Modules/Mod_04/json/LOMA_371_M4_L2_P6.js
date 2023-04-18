@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Annuity Periodic Income Payments",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another potential benefit of an annuity is the regular income that an insurance company pays during the contract’s payout period. In general, insurers calculate the present values of their future payments and sum the present values to estimate the total cost of periodic income payments."
                     },
                     {
-                        "Paragraph_txt": "Insurers make periodic income payments according to a payout option, as selected by annuity contract owners. Two types of payout options are guaranteed annuity payout options and life annuity payout options."
+                        "Paragraph_txt": "<br />Insurers make periodic income payments according to a payout option, as selected by annuity contract owners. Two types of payout options are guaranteed annuity payout options and life annuity payout options."
                     }
                 ]
             },
@@ -240,7 +210,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "There is an interrelationship between the fixed amount option and the fixed period option. For instance, if a contract owner chooses a fixed amount option, then the amount chosen will influence the number of payments that are made before the contract value is exhausted."
                     },
                     {
-                        "Paragraph_txt": "For guaranteed annuity payout options, the insurer’s cost of future payments at the start of the payout period equals the contract’s accumulated value at the maturity date, when the contract is annuitized."
+                        "Paragraph_txt": "<br />For guaranteed annuity payout options, the insurer’s cost of future payments at the start of the payout period equals the contract’s accumulated value at the maturity date, when the contract is annuitized."
                     }
                 ]
             },
@@ -521,10 +491,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "To calculate the cost of one year’s periodic payments under a life annuity, insurers first find the total number of annuitants living at the beginning of the year. (If calculating for non-annuitized deferred annuities, this step includes subtracting the number of surrenders from the total number of annuitants.) Then, insurers multiply the result by the appropriate mortality factor to determine the number of annuitants still living at the end of the year. Next, they multiply the amount of each periodic payment by the number of surviving annuitants. The sum of the resulting values is the cost for one year for a block of contracts."
                     },
                     {
-                        "Paragraph_txt": "As described in Chapter 9, an insurer designing an annuity product can use a lower mortality rate than it expects to experience so as to provide a mortality margin into the design. The mortality margin introduces an element of conservatism into the design by increasing the assumed survivorship rates, thereby increasing the estimated number of payments the insurer will make. If the actual mortality rate among the product’s annuitants is higher than expected, the product is likely to be more profitable than projected because of the lower cost of periodic income payments. (Profitability may also be affected by the length of the accumulation period.)"
+                        "Paragraph_txt": "<br />As described in Chapter 9, an insurer designing an annuity product can use a lower mortality rate than it expects to experience so as to provide a mortality margin into the design. The mortality margin introduces an element of conservatism into the design by increasing the assumed survivorship rates, thereby increasing the estimated number of payments the insurer will make. If the actual mortality rate among the product’s annuitants is higher than expected, the product is likely to be more profitable than projected because of the lower cost of periodic income payments. (Profitability may also be affected by the length of the accumulation period.)"
                     },
                     {
-                        "Paragraph_txt": "The following table summarizes the life annuity payout options described in this section:"
+                        "Paragraph_txt": "<br />The following table summarizes the life annuity payout options described in this section:"
                     }
                 ]
             },
