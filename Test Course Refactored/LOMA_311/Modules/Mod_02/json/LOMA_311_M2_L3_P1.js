@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Insurance companies are affected by property law and laws governing financial transactions just as much as are companies that deal in physical goods. For example, laws governing credit transactions are important to insurers in part because a policy loan is an example of a (<strong>secured transaction</strong> / <strong>unsecured transaction</strong>).",

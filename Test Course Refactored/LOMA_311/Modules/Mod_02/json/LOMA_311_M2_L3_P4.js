@@ -341,7 +341,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "When a person dies without a valid will, they are said to die (<strong>testate</strong> / <strong>intestate</strong>). In such cases, a probate court typically appoints an (<strong>executor</strong> / <strong>administrator</strong>) to settle the decedent’s estate.",

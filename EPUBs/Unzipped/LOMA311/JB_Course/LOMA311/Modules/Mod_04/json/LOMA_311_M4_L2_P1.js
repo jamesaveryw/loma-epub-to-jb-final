@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Life insurance recognizes that life doesn’t always go as planned, even when you take precautions. For example, the beneficiary of a life insurance policy might die before the insured dies, raising the question of who receives the death benefit. What are some ways that an insurer might help a policyowner prepare for a situation like this? (Check all that apply.)",

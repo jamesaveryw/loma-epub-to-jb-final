@@ -992,7 +992,7 @@ function buildVideo(pageEl) {
 function buildAside(aside) {
 	
 	let componentArray = [ 
-		buildDivider(null, '60%', '50px', null, '2px')
+		buildDivider(null, '60%', '50px', null, '2px', null, '50px')
 	];
 	let asideClass = aside.className;
 
@@ -1122,7 +1122,8 @@ function buildAside(aside) {
 		componentArray.push(returnSnippet);
 		i++;
 	}
-	componentArray.push(buildDivider(null, '60%', '50px', null, '2px'));
+	//function buildDivider(contHeight, width, contTopMargin, style, dividerHeight, dividerColor, dividerTopMargin) {
+	componentArray.push(buildDivider(null, '60%', '50px', null, '2px', null, '50px'));
 	
 	return componentArray;
 }
