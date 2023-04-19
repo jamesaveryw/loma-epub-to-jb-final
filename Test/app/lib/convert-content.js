@@ -314,9 +314,28 @@ let lessonBuilder = {
 
 			// Question
 			if (/DIV/i.test(pageEl.tagName) && pageEl.classList.contains("question-wrapper")) {
+				// background color and top margin are
+				// different when there are back-to-back
+				// questions
+				let bgColor = '';
+				let topMargin = '30px';
+				// bg color alternates 
+				if (lessonBuilder.prevSnippet == 'question' && JB_Page[0].JBuilder_Content[JB_Page[0].JBuilder_Content.length - 1].Question_Comp[0].background_color == '') {
+					bgColor = '#FBF6D9';
+				}
+				// top margin is less with 
+				// consecutive questions
+				if (lessonBuilder.prevSnippet == 'question') {
+					topMargin = '0px';
+				}
+
 				let id = pageEl.id.replace(/-wrap/, '');
 				let question = buildQuestion(pageEl.querySelector("div.question-container-static"), lessonBuilder.answerKey[id]);
+
 				if (question) {
+					// set properties
+					question.Question_Comp[0].background_color = bgColor;
+					question.Question_Comp[0].top_margin = topMargin;
 					JB_Page[0].JBuilder_Content.push(question);
 				}
 			}
@@ -1202,6 +1221,9 @@ function buildQuestion(question, answerKey) {
 
 	// TODO: alternate background color if
 	// prev snippet is also a questions
+	if (lessonBuilder.prevSnippet == 'question') {
+
+	}
 
 	lessonBuilder.prevSnippet = "question";
 
