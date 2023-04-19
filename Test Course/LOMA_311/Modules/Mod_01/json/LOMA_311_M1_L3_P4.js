@@ -346,7 +346,7 @@ Lesson_Data_File([
                     {
                         "image_name": "3-1figure.jpg",
                         "image_w_text_tag": [
-                            "Three columns with icons and explanatory text.<br /><br />Column One: Bilateral Agreement between the European Union and the UnitedStates of America on Prudential Measures Regarding Insurance and Reinsurance<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Addresses insurance and reinsurance issues. For instance:</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• E.U. requirements regarding insurer finances and ability to pay policybenefits (called prudential measures), apply only to a U.S. insurer’s operationswithin the E.U., not the company as a whole.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• U.S. state insurance laws regarding collateral for reinsurance must treatnon-U.S. insurers differently than they have in the past.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The agreement calls for the exchange of information between U.S. and E.U.regulators</span><br /><br />Column Two: International Convention for the Suppression of the Financingof Terrorism<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• This United Nations convention prohibits any person from providing fundsthat are intended to be used to carry out acts of terrorism.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The 132 signing countries agreed to enact laws to criminalize such financingand to impose appropriate penalties.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• These anti-money laundering acts require financial institutions to monitorcustomer activity and report suspicious or unusually large transactionsto appropriate authorities</span><br /><br />Column Three: General Agreement on Trade in Services (GATS)<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Promotes the international flow of services, including insurance and otherfinancial services.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Addresses: (1) services supplied across borders, (2) consumption of servicesin another country, (3) establishing a commercial presence in another country,and (4) individuals travelling from one country to provide services inanother.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• GATS was entered into by members of the World Trade Organization (WTO)in 1995. Most of the world’s trading nations are WTO members.</span>"
+                            "Three columns with icons and explanatory text. Column One: Bilateral Agreement between the European Union and the UnitedStates of America on Prudential Measures Regarding Insurance and Reinsurance • Addresses insurance and reinsurance issues. For instance: • E.U. requirements regarding insurer finances and ability to pay policybenefits (called prudential measures), apply only to a U.S. insurer’s operationswithin the E.U., not the company as a whole. • U.S. state insurance laws regarding collateral for reinsurance must treatnon-U.S. insurers differently than they have in the past. • The agreement calls for the exchange of information between U.S. and E.U.regulators Column Two: International Convention for the Suppression of the Financingof Terrorism • This United Nations convention prohibits any person from providing fundsthat are intended to be used to carry out acts of terrorism. • The 132 signing countries agreed to enact laws to criminalize such financingand to impose appropriate penalties. "
                         ],
                         "border_style": "",
                         "border_height": "",
@@ -410,7 +410,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: Corporations have two primary features that make them the ideal form of business organization for insurers. First, a corporation is a legal entity that is separate from its owners. Second, a corporation continues beyond the death of any or all of its owners.",
@@ -471,14 +471,14 @@ Lesson_Data_File([
                         "Question_type": "",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Match the type of insurance company with its description.",
@@ -551,7 +551,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In the United States, the process to form a corporation that intends to underwrite and issue insurance is basically the same as the process for other types of corporations, and no additional requirements apply.",

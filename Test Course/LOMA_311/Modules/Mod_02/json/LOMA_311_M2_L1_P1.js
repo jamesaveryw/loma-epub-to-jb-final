@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "All contracts can be classified in a variety of ways. A life insurance contract, for example, is both a (<strong>formal</strong> / <strong>informal</strong>) contract and a (<strong>bilateral</strong> / <strong>unilateral</strong>) contract.",

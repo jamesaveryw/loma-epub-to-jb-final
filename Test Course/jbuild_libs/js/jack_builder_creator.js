@@ -351,7 +351,16 @@ if(typeof moduleFolder !== "undefined")
 
 if(typeof moduleFolder === "undefined")
 		{
-			alt_icon = "../../../jbuild_libs/images/feedback-bk.png";
+			var altimg = String(window.location);
+			if(altimg.search("LLL") < 1)
+				{
+						alt_icon = "../../../jbuild_libs/images/feedback-bk.png";
+				}
+		
+			if(altimg.search("LLL") > 1)
+				{
+						alt_icon = "../../../../../jbuild_libs/images/feedback-bk.png";							
+				}
 		}
 //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -2556,6 +2565,11 @@ Jcc_Comp_Maker = Jcc_Comp_Maker + "<tr>";
 										{
 											tbl_border_array[0] = "border-left:" + BI_array[1] + " " + BI_array[2] + " " + BI_array[3] + ";";
 											
+											if(new_jcc_tbl_whole[0].Col_Heading[tbl_head].merge === "true")
+													{
+														console.log("DOOM: " + tbl_border_array[0])
+													}
+
 											if(new_jcc_tbl_whole[0].Col_Heading[tbl_head].merge !== "true")
 												{
 														tbl_border_array[1] = "border-top: 0px solid black;";
@@ -3500,9 +3514,9 @@ var new_vid	= sSelections[jcc][snglBld[jcc]][0];
 
 				///////////////////////////BAL - 7/1/2021///////////////////////////////
 				//useChinaCache, if on ChinaCache
-				if(window.location.href.indexOf("ll-content.ccedge.cn") !== -1){
-					//new_vid.Video = new_vid.Video.replace("https://ry6g4c.cloud.influxis.com/", "https://ll-content.ccedge.cn/ChinaCache/video/");
-					new_vid.Video = new_vid.Video.replace("https://loma.azureedge.net/videos/","https://ll-content.ccedge.cn/ChinaCache/videos/");
+				if(window.location.href.indexOf("ll-content.ccnetworks.cn") !== -1){
+					//new_vid.Video = new_vid.Video.replace("https://ry6g4c.cloud.influxis.com/", "https://ll-content.ccnetworks.cn/ChinaCache/video/");
+					new_vid.Video = new_vid.Video.replace("https://loma.azureedge.net/videos/","https://ll-content.ccnetworks.cn/ChinaCache/videos/");
 				}
 				///////////////////////////BAL - 7/1/2021///////////////////////////////
 											
@@ -3676,9 +3690,9 @@ vid_ref_tracker = 1;
 /*
 ///////////////////////////BAL - 7/1/2021///////////////////////////////
 //useChinaCache, if on ChinaCache
-if(window.location.href.indexOf("ll-content.ccedge.cn") !== -1){
-//new_vid.Video = new_vid.Video.replace("https://ry6g4c.cloud.influxis.com/", "https://ll-content.ccedge.cn/ChinaCache/video/");
-new_vid.Video = new_vid.Video.replace("https://loma.azureedge.net/videos/","https://ll-content.ccedge.cn/ChinaCache/videos/");
+if(window.location.href.indexOf("ll-content.ccnetworks.cn") !== -1){
+//new_vid.Video = new_vid.Video.replace("https://ry6g4c.cloud.influxis.com/", "https://ll-content.ccnetworks.cn/ChinaCache/video/");
+new_vid.Video = new_vid.Video.replace("https://loma.azureedge.net/videos/","https://ll-content.ccnetworks.cn/ChinaCache/videos/");
 }
 ///////////////////////////BAL - 7/1/2021///////////////////////////////
 */
@@ -4240,11 +4254,11 @@ flip_card_sMaker = flip_card_sMaker + "</"+heading_data[3].size+"></div>";
 //-------<(  Flipcard Heading Code )>-------											
 
 											
-//-------<(  Flipcard Paragraph_New Code )>-------											
+//-------<(  Flipcard Paragraph_New Code )>-------	
+										
 	function csnt_Paragraphs_New(paragraph_data,crd_number)
 		{
-
-				
+							
 				if(paragraph_data[0].background_image.length > 0)
 					{
 	flip_card_sMaker = "<div class='col-lg-12 col-md-12 col-xs-12' style='background: linear-gradient(rgba(220, 220, 220, 0.8), rgba(220, 220, 220, 0.8)), rgba(220,220,220,0.8) url("+img_loc + paragraph_data[0].background_image+"); width:100%; height: auto; background-position: center center; background-size: cover; padding: 0px 20px; border-top-color:"+paragraph_data[0].border_color+"; border-top-width:"+paragraph_data[0].border_weight+"; border-top-style:"+paragraph_data[0].border_style+"; border-bottom-color:"+paragraph_data[0].border_color+"; border-bottom-width:"+paragraph_data[0].border_weight+"; border-bottom-style:"+paragraph_data[0].border_style+"; border-radius:"+paragraph_data[0].border_radius+"; margin-top:"+paragraph_data[0].top_margin+";'>";	
@@ -4252,12 +4266,19 @@ flip_card_sMaker = flip_card_sMaker + "</"+heading_data[3].size+"></div>";
 			
 				if(paragraph_data[0].background_image.length === 0)							
 					{
+
+
+
+
 	flip_card_sMaker = "<div class='col-lg-12 col-md-12 col-xs-12' style='height:auto; padding: 0px 20px; background-color:"+paragraph_data[0].background_color+"; border-top-color:"+paragraph_data[0].border_color+"; border-top-width:"+paragraph_data[0].border_weight+"; border-top-style:"+paragraph_data[0].border_style+"; border-bottom-color:"+paragraph_data[0].border_color+"; border-bottom-width:"+paragraph_data[0].border_weight+"; border-bottom-style:"+paragraph_data[0].border_style+"; border-radius:"+paragraph_data[0].border_radius+"; margin-top:"+paragraph_data[0].top_margin+";'>";		
 					}
-										
-		flip_card_sMaker = flip_card_sMaker + "<div style='padding:"+paragraph_data[0].Padding+";'><span style='text-align:"+paragraph_data[0].heading_alignment+"; color:"+paragraph_data[0].heading_color+"'>";
-										
-		flip_card_sMaker = flip_card_sMaker + "<"+paragraph_data[0].heading_font_size+" style='font-weight:"+paragraph_data[0].heading_weight+";font-style:"+paragraph_data[0].heading_style+";font-variant:"+paragraph_data[0].heading_variant+"; text-transform:"+paragraph_data[0].heading_transform+"'>"+paragraph_data[0].heading+"</"+paragraph_data[0].heading_font_size+">";
+
+					
+
+
+		flip_card_sMaker = flip_card_sMaker + "<div style='padding:"+paragraph_data[0].Padding+";'><span style='text-align:"+paragraph_data[0].heading_alignment+"; color:"+paragraph_data[0].heading_color+"'>"; //color:"+paragraph_data[0].heading_color+"
+				
+		flip_card_sMaker = flip_card_sMaker + "<"+paragraph_data[0].heading_font_size+" style='color:"+paragraph_data[0].heading_color+"; font-weight:"+paragraph_data[0].heading_weight+";font-style:"+paragraph_data[0].heading_style+";font-variant:"+paragraph_data[0].heading_variant+"; text-transform:"+paragraph_data[0].heading_transform+"'>"+paragraph_data[0].heading+"</"+paragraph_data[0].heading_font_size+">";
 										
 		flip_card_sMaker = flip_card_sMaker + "</span></div>";									
 											
@@ -4278,7 +4299,8 @@ flip_card_sMaker = flip_card_sMaker + "<p class='jb_column2' style='color:"+para
 				}
 flip_card_sMaker = flip_card_sMaker + "</div>";			
 		
-			jflip_array[crd_number * 1] = flip_card_sMaker;			
+			jflip_array[crd_number * 1] = flip_card_sMaker;		
+						
 			call_setup();
 		}
 
@@ -4734,8 +4756,8 @@ if($(document).width() > 414)
 if($(document).width() <= 414)
 	{
 		Jcc_Comp_Maker = Jcc_Comp_Maker + "<div style='height:660px'>"; //Begin two cards  if($(document).width() <= 414)
-		flip_mar = "20px";
-		fl_fh_ht = "20px";
+		flip_mar = "40px";
+		fl_fh_ht = "40px";
 	}
 //------------------------------------------<( Begin )>	
 //-------<( Card 1 )					
@@ -5328,7 +5350,20 @@ Jcc_Comp_Maker = Jcc_Comp_Maker + "<div><img class='qstImg' src='jbuild_libs/ima
 
 		if(typeof moduleFolder === "undefined")
 			{												//src='../../../jbuild_libs/images/
+
+				var floc = String(window.location);
+					if(floc.search("LLL") < 1)
+							{
 Jcc_Comp_Maker = Jcc_Comp_Maker + "<div><img class='qstImg' src='../../../jbuild_libs/images/" + qComp[0].image + "' alt='"+qComp[0].image_alt_text+"'/><br><br></div>";
+							}
+
+					if(floc.search("LLL") > 1)
+							{
+Jcc_Comp_Maker = Jcc_Comp_Maker + "<div><img class='qstImg' src='../../../../../jbuild_libs/images/" + qComp[0].image + "' alt='"+qComp[0].image_alt_text+"'/><br><br></div>";								
+							}
+
+
+//Jcc_Comp_Maker = Jcc_Comp_Maker + "<div><img class='qstImg' src='../../../jbuild_libs/images/" + qComp[0].image + "' alt='"+qComp[0].image_alt_text+"'/><br><br></div>";
 			}
 		//-------<( Added to check for portal or development )>-------		
 	
@@ -6030,10 +6065,25 @@ var mag_lens;
 
 		if(typeof moduleFolder === "undefined")
 			{
-				mag_lens = "../../../jbuild_libs/images/zoom.png";
-				plus_icon = "../../../jbuild_libs/images/plus_icon.png";
-				minus_icon = "../../../jbuild_libs/images/minus_sign.png";
-				fit_icon = "../../../jbuild_libs/images/resize_full.png";
+
+				var mgimg = String(window.location);
+				if(mgimg.search("LLL") < 1)
+					{
+						mag_lens = "../../../jbuild_libs/images/zoom.png";
+						plus_icon = "../../../jbuild_libs/images/plus_icon.png";
+						minus_icon = "../../../jbuild_libs/images/minus_sign.png";
+						fit_icon = "../../../jbuild_libs/images/resize_full.png";
+					}
+			
+				if(mgimg.search("LLL") > 1)
+					{
+						mag_lens = "../../../../../jbuild_libs/images/zoom.png";
+						plus_icon = "../../../../../jbuild_libs/images/plus_icon.png";
+						minus_icon = "../../../../../jbuild_libs/images/minus_sign.png";
+						fit_icon = "../../../../../jbuild_libs/images/resize_full.png";						
+					}
+
+
 			}									
 								
 
@@ -6480,7 +6530,20 @@ Jcc_Comp_Maker = Jcc_Comp_Maker + "<img id='' style='transform: rotate("+ flippe
 					
 if(typeof moduleFolder === "undefined")
 	{
-Jcc_Comp_Maker = Jcc_Comp_Maker + "<img id='' style='transform: rotate("+ flipper +"); margin:-10px; overflow:hidden; width: 100%;' src='../../../jbuild_libs/images/" + sSelections[jcc][snglBld[jcc]][0].divider_image + ".png' height='"+ sSelections[jcc][snglBld[jcc]][1].height + "width:"+ sSelections[jcc][snglBld[jcc]][1].width +";' alt=''/>";							
+		var divimg = String(window.location);
+		if(divimg.search("LLL") < 1)
+			{
+				Jcc_Comp_Maker = Jcc_Comp_Maker + "<img id='' style='transform: rotate("+ flipper +"); margin:-10px; overflow:hidden; width: 100%;' src='../../../jbuild_libs/images/" + sSelections[jcc][snglBld[jcc]][0].divider_image + ".png' height='"+ sSelections[jcc][snglBld[jcc]][1].height + "width:"+ sSelections[jcc][snglBld[jcc]][1].width +";' alt=''/>";	
+			}
+	
+		if(divimg.search("LLL") > 1)
+			{
+				Jcc_Comp_Maker = Jcc_Comp_Maker + "<img id='' style='transform: rotate("+ flipper +"); margin:-10px; overflow:hidden; width: 100%;' src='../../../../../jbuild_libs/images/" + sSelections[jcc][snglBld[jcc]][0].divider_image + ".png' height='"+ sSelections[jcc][snglBld[jcc]][1].height + "width:"+ sSelections[jcc][snglBld[jcc]][1].width +";' alt=''/>";								
+			}
+
+
+		
+						
 	}
 //-------<( Added to check for portal or development )>-------		
 	
@@ -8048,6 +8111,8 @@ Jcc_Comp_Maker = Jcc_Comp_Maker + "</div>";
 //-------------------------------------------------------------------------------------------------------------
 case "Learning_Objectives":
 		///////////BRIAN EDIT 2019-11-25////////////////
+		console.log("Learning Objectives was called")
+		
 		var headlineText = "";
 		var headlineTextStyle = "";
 		//var locale = "";
@@ -8055,6 +8120,7 @@ case "Learning_Objectives":
 
 		var locale = returnLocale();
 
+		console.log(locale)
 		/* if( typeof course_settings === "undefined" || typeof course_settings == null){
 			locale = "en-US";			
 		}else{
@@ -8079,6 +8145,9 @@ case "Learning_Objectives":
 
 		switch (locale.locale){
 		///////////BRIAN EDIT 2019-11-25////////////////
+
+			
+
 			case "ar-MA": headlineText = "أهداف التعلم";
 						  headlineTextStyle = "style=\"color: #" + colorOption + "; font-family: 'Tahoma'; transform: translate(-50%, -84%);\"";
 			break;
@@ -8144,12 +8213,36 @@ case "Learning_Objectives":
 		var loContent = "<div class=\"col-lg-12 col-md-12 col-xs-12\" style=\"margin:0; padding:0;\">";
 			loContent +=  "<div id=\"bLearningObjectives\">";
 			loContent += "<div id=\"bLoHeadline\" " + headlineTextStyle + ">" + headlineText + "</div>";
-			
+// Are we translating LLL activities?
+
+var loimg = String(window.location);
+//console.log("loimg: " + loimg);
+//// console.log(loimg.search("LLL"))
+
+/*
+
 			if( typeof courseType === "undefined" || typeof courseType == null){
 				loContent += "<img src=\"../../../jbuild_libs/images/LO_Images/LO_" + colorOption + ".png\" alt=\"\">";
+			
 			}else{
 				loContent += "<img src=\"jbuild_libs/images/LO_Images/LO_" + colorOption + ".png\" alt=\"\">";
 			}
+*/
+
+if( typeof courseType === "undefined" || typeof courseType == null){
+				if(loimg.search("LLL") < 1)
+					{
+						loContent += "<img src=\"../../../jbuild_libs/images/LO_Images/LO_" + colorOption + ".png\" alt=\"\">";
+					}
+									
+				if(loimg.search("LLL") > 1)
+					{
+						loContent = "<img src=\"../../../../../jbuild_libs/images/LO_Images/LO_" + colorOption + ".png\" alt=\"\">";						
+					}	
+				}
+
+
+
 
 			loContent += "</div></div>";
 
@@ -8234,7 +8327,8 @@ Jcc_Comp_Maker = Jcc_Comp_Maker + "</"+sSelections[jcc][snglBld[jcc]][3].size+">
 					}
 										
 		Jcc_Comp_Maker = Jcc_Comp_Maker + "<div style='padding:"+paraSetup.Padding+";'><span style='text-align:"+paraSetup.heading_alignment+"; color:"+paraSetup.heading_color+"'>";
-										
+		
+		
 		//Jcc_Comp_Maker = Jcc_Comp_Maker + "<"+paraSetup.heading_font_size+" style='font-weight:"+paraSetup.heading_weight+";font-style:"+paraSetup.heading_style+";font-variant:"+paraSetup.heading_variant+"; text-transform:"+paraSetup.heading_transform+"'>"+paraSetup.heading+"</"+paraSetup.heading_font_size+">";
 											
 		//BRIAN 01/13/2020 -- added the color attribute from the above line to the line below
@@ -8269,7 +8363,10 @@ Jcc_Comp_Maker = Jcc_Comp_Maker + "<p class='jb_column2' style='color:"+paraSetu
 										
 Jcc_Comp_Maker = Jcc_Comp_Maker + "</div>";
 //Jcc_Comp_Maker = Jcc_Comp_Maker + "</div>";	
-//Jcc_Comp_Maker = Jcc_Comp_Maker + "</div>";												
+//Jcc_Comp_Maker = Jcc_Comp_Maker + "</div>";
+//paraSetup = [];
+
+												
 					break;
 											
 //-------------------------------------------------------------------------------------------------------------	
@@ -8378,7 +8475,19 @@ Jcc_Comp_Maker = Jcc_Comp_Maker + "</div>";
 					
 					if(typeof moduleFolder === "undefined")
 						{
-							pdf_logo = "../../../jbuild_libs/images/" + pdf_setup.Pdf_Icon; 
+							var pdfimg = String(window.location);
+							if(pdfimg.search("LLL") < 1)
+								{
+									pdf_logo = "../../../jbuild_libs/images/" + pdf_setup.Pdf_Icon;
+								}
+						
+							if(pdfimg.search("LLL") > 1)
+								{
+									pdf_logo = "../../../../../jbuild_libs/images/" + pdf_setup.Pdf_Icon;							
+								}
+
+
+							 
 						}					
 											
 										Jcc_Comp_Maker = Jcc_Comp_Maker + "<div class='col-lg-12 col-md-12 col-xs-12' style='margin-top:10px;'>";	
@@ -8562,7 +8671,18 @@ Jcc_Comp_Maker = Jcc_Comp_Maker + "</div>";
 					
 					if(typeof moduleFolder === "undefined")
 						{
-							var new_icon = "../../../jbuild_libs/images/" + Info_Box_Array[7];
+							var infoimg = String(window.location);
+								if(infoimg.search("LLL") < 1)
+									{
+										var new_icon = "../../../jbuild_libs/images/" + Info_Box_Array[7];
+									}
+
+								if(infoimg.search("LLL") > 1)
+									{
+										var new_icon = "../../../../../jbuild_libs/images/" + Info_Box_Array[7];							
+									}
+
+							
 						}						
 						
 
@@ -8755,7 +8875,18 @@ if(typeof moduleFolder !== "undefined")
 					
 if(typeof moduleFolder === "undefined")
 	{
-		var ac_new_icon = "../../../jbuild_libs/images/" + jcc_data[7].Icon;					
+
+		var inbximg = String(window.location);
+		if(inbximg.search("LLL") < 1)
+			{
+				var ac_new_icon = "../../../jbuild_libs/images/" + jcc_data[7].Icon;
+			}
+	
+		if(inbximg.search("LLL") > 1)
+			{
+				var ac_new_icon = "../../../../../jbuild_libs/images/" + jcc_data[7].Icon;					
+			}		
+							
 	}
 //-------<( Added to check for portal or development )>-------	
 											
@@ -8782,13 +8913,13 @@ Jcc_Comp_Maker = Jcc_Comp_Maker +  "<div style='background-color:"+acc_setup_arr
 				//var new_vid	= sSelections[jcc][snglBld[jcc]][0];
 				jcc_data = sSelections[jcc][snglBld[jcc]][accm].Video_Files_New;
 
-				console.log(window.location.href.indexOf("ll-content.ccedge.cn"));
+				console.log(window.location.href.indexOf("ll-content.ccnetworks.cn"));
 				///////////////////////////BAL - 7/1/2021///////////////////////////////
 				//useChinaCache, if on ChinaCache
 				var bal_vid;
 				
-				if(window.location.href.indexOf("ll-content.ccedge.cn") !== -1){
-					bal_vid = jcc_data[0].Video.replace("https://loma.azureedge.net/videos/","https://ll-content.ccedge.cn/ChinaCache/videos/");
+				if(window.location.href.indexOf("ll-content.ccnetworks.cn") !== -1){
+					bal_vid = jcc_data[0].Video.replace("https://loma.azureedge.net/videos/","https://ll-content.ccnetworks.cn/ChinaCache/videos/");
 					//console.log("bal_vid = " + bal_vid);
 					jcc_data[0].Video = bal_vid;
 				}
@@ -10442,10 +10573,26 @@ var img_fit;
 
 		if(typeof moduleFolder === "undefined")
 			{
-				img_zoom = "../../../jbuild_libs/images/zoom.png";
-				img_plus = "../../../jbuild_libs/images/plus_icon.png";
-				img_minus = "../../../jbuild_libs/images/minus_sign.png";
-				img_fit = "../../../jbuild_libs/images/resize_full.png";
+
+				var magimg = String(window.location);
+				if(magimg.search("LLL") < 1)
+					{
+						img_zoom = "../../../jbuild_libs/images/zoom.png";
+						img_plus = "../../../jbuild_libs/images/plus_icon.png";
+						img_minus = "../../../jbuild_libs/images/minus_sign.png";
+						img_fit = "../../../jbuild_libs/images/resize_full.png";
+					}
+			
+				if(magimg.search("LLL") > 1)
+					{
+						img_zoom = "../../../../../jbuild_libs/images/zoom.png";
+						img_plus = "../../../../../jbuild_libs/images/plus_icon.png";
+						img_minus = "../../../../../jbuild_libs/images/minus_sign.png";
+						img_fit = "../../../../../jbuild_libs/images/resize_full.png";							
+					}
+
+				
+
 			}	
 
 Jcc_Comp_Maker = Jcc_Comp_Maker + "<div id='jbImgModal' class='img_modal' style='margin-top:10px'>";
