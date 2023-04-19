@@ -563,9 +563,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Three definitions with icons.<br /><br />Unfair price discrimination: A seller agrees to sell goods to a buyerat a price lower than the price charged other buyers <em>under the same circumstances</em>.A seller is <em>not</em> violating antitrust laws if it enters into priceagreements administered fairly and in an otherwise nondiscriminatory fashion.For example, a seller can give a buyer a volume discount.<br /><br />Tying arrangements: A tying arrangement is an illegal arrangement underwhich a business will sell one product to a purchaser only if the purchaseralso buys a second, different product from the firm.<br /><br />Boycotts: Competitors agree not to do business with another business.Often, companies engaging in a boycott use coercion and intimidation toforce others to join in the boycott."
-                        ],
+                        "image_w_text_tag": "Three definitions with icons.<br /><br />Unfair price discrimination: A seller agrees to sell goods to a buyerat a price lower than the price charged other buyers <em>under the same circumstances</em>.A seller is <em>not</em> violating antitrust laws if it enters into priceagreements administered fairly and in an otherwise nondiscriminatory fashion.For example, a seller can give a buyer a volume discount.<br /><br />Tying arrangements: A tying arrangement is an illegal arrangement underwhich a business will sell one product to a purchaser only if the purchaseralso buys a second, different product from the firm.<br /><br />Boycotts: Competitors agree not to do business with another business.Often, companies engaging in a boycott use coercion and intimidation toforce others to join in the boycott.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

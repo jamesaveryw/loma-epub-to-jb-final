@@ -929,9 +929,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Step-by-step infographic.<br /><br />Top box: Complaint to insurance department typically follows this process:<br /><br />Step one: Complaint is given file number and assigned to complaint examiner<br /><br />Step two: In most states, examiner completes NAIC standard complaint formto collect information about complaint<br /><br />Step three: NAIC compiles information from forms into NAIC ComplaintsDatabase System (CDS) which provides regulators with aggregated complaintdata on insurers<br /><br />Step four: Examiner sends copy of complaint to insurer and asks insurerto respond in writing<br /><br />Step five: If insurer responds by stating complaint is not valid, it mustprovide examiner with supporting documentation<br /><br />Step six: If complaint is valid, insurer responds to examiner and explainshow it will correct situation"
-                        ],
+                        "image_w_text_tag": "Step-by-step infographic.<br /><br />Top box: Complaint to insurance department typically follows this process:<br /><br />Step one: Complaint is given file number and assigned to complaint examiner<br /><br />Step two: In most states, examiner completes NAIC standard complaint formto collect information about complaint<br /><br />Step three: NAIC compiles information from forms into NAIC ComplaintsDatabase System (CDS) which provides regulators with aggregated complaintdata on insurers<br /><br />Step four: Examiner sends copy of complaint to insurer and asks insurerto respond in writing<br /><br />Step five: If insurer responds by stating complaint is not valid, it mustprovide examiner with supporting documentation<br /><br />Step six: If complaint is valid, insurer responds to examiner and explainshow it will correct situation",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

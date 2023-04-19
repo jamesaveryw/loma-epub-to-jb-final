@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Icon of money exchanging hands.<br /><br />Compensation: A principal generally has a duty to pay an agent the reasonablevalue of the agent’s services, unless the parties have agreed otherwise.<br /><br />Reimbursement: A principal generally has a duty to reimburse an agentfor all reasonable expenses incurred in performing the agency duties, unlessthe parties have agreed otherwise.<br /><br />Indemnification: A principal generally has a duty to compensate an agentfor any losses the agent incurs while performing the agency duties, unlessthe parties have agreed otherwise."
-                        ],
+                        "image_w_text_tag": "Icon of money exchanging hands.<br /><br />Compensation: A principal generally has a duty to pay an agent the reasonablevalue of the agent’s services, unless the parties have agreed otherwise.<br /><br />Reimbursement: A principal generally has a duty to reimburse an agentfor all reasonable expenses incurred in performing the agency duties, unlessthe parties have agreed otherwise.<br /><br />Indemnification: A principal generally has a duty to compensate an agentfor any losses the agent incurs while performing the agency duties, unlessthe parties have agreed otherwise.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -442,9 +440,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Two text boxes in an interdependent position.<br /><br />Box One, Principal’s Duties to the Agent: Compensation, Reimbursement,Indemnification<br /><br />Box Two, Agent’s Duties to the Principal: Duty of loyalty and good faith,Duty of obedience, Duty of competence, Duty of an accounting"
-                        ],
+                        "image_w_text_tag": "Two text boxes in an interdependent position.<br /><br />Box One, Principal’s Duties to the Agent: Compensation, Reimbursement,Indemnification<br /><br />Box Two, Agent’s Duties to the Principal: Duty of loyalty and good faith,Duty of obedience, Duty of competence, Duty of an accounting",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

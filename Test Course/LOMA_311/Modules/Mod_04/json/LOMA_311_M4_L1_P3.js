@@ -673,9 +673,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-2figure.jpg",
-                        "image_w_text_tag": [
-                            "An image of a sample binding premium receipt. It contains a number ofYES or NO questions to determine eligibility for temporary insurance. Alist of terms and conditions specifies elements such as the date coveragebegins, the amount of coverage, the date coverage terminates, and speciallimitations. The document closes with space for the amount of premium sentand the applicant’s signature."
-                        ],
+                        "image_w_text_tag": "An image of a sample binding premium receipt. It contains a number ofYES or NO questions to determine eligibility for temporary insurance. Alist of terms and conditions specifies elements such as the date coveragebegins, the amount of coverage, the date coverage terminates, and speciallimitations. The document closes with space for the amount of premium sentand the applicant’s signature.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

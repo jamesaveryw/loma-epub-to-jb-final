@@ -685,9 +685,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Two buildings, one marked FINRA and one marked SEC. Text boxes betweenthe two.<br /><br />Box 1, arrow leading to SEC: Investment companies must register with theSEC.<br /><br />Box 2, arrows leading to both: Securities brokers and dealers must registerwith the SEC and become members of FINRA.<br /><br />Box 3, arrows leading to both: Individuals associated with a FINRA memberwho engage in the securities business must register with the SEC and FINRAas a registered representative or principal.<br /><br />Box 4, arrow leading to SEC: Every security must be registered with theSEC before it is advertised or offered for sale to the public."
-                        ],
+                        "image_w_text_tag": "Two buildings, one marked FINRA and one marked SEC. Text boxes betweenthe two.<br /><br />Box 1, arrow leading to SEC: Investment companies must register with theSEC.<br /><br />Box 2, arrows leading to both: Securities brokers and dealers must registerwith the SEC and become members of FINRA.<br /><br />Box 3, arrows leading to both: Individuals associated with a FINRA memberwho engage in the securities business must register with the SEC and FINRAas a registered representative or principal.<br /><br />Box 4, arrow leading to SEC: Every security must be registered with theSEC before it is advertised or offered for sale to the public.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

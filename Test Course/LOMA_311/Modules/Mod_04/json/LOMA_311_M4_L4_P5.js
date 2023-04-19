@@ -663,9 +663,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "13-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Two-part branching chart.<br /><br />First part: Mistake of law — leads to “No effect on contract validity.”<br /><br />Second part: Mistake of fact — branches into “Unilateral mistake” and“Bilateral mistake.”<br /><br />Unilateral mistake — leads to “Effect depends on the type of mistake andthe circumstances of the case.”<br /><br />Bilateral mistake — branches into “Common mistake” and “Mutual mistake.”<br /><br />Common mistake — leads to “Contract is void when the parties make a commonmistake as to the identity or existence of the subject matter of the contract.”<br /><br />Mutual mistake — leads to “Contract is void if both parties are unawareof the mutual mistake as to the subject matter of the contract and areat cross purposes when entering the contract.”"
-                        ],
+                        "image_w_text_tag": "Two-part branching chart.<br /><br />First part: Mistake of law — leads to “No effect on contract validity.”<br /><br />Second part: Mistake of fact — branches into “Unilateral mistake” and“Bilateral mistake.”<br /><br />Unilateral mistake — leads to “Effect depends on the type of mistake andthe circumstances of the case.”<br /><br />Bilateral mistake — branches into “Common mistake” and “Mutual mistake.”<br /><br />Common mistake — leads to “Contract is void when the parties make a commonmistake as to the identity or existence of the subject matter of the contract.”<br /><br />Mutual mistake — leads to “Contract is void if both parties are unawareof the mutual mistake as to the subject matter of the contract and areat cross purposes when entering the contract.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

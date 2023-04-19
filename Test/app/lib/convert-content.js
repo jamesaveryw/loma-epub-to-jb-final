@@ -955,7 +955,7 @@ function buildFigure(figure) {
 			lessonBuilder.editLog[`${lessonBuilder.lesson_id}`].push(`${lessonBuilder.currentFileName} has a figure (${lessonBuilder.altText[figure.id]['fig-num']}) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in ${lessonBuilder.currentFileName}.js. Refer to ${lessonBuilder.currentPage.title} in chapter ${lessonBuilder.currentPage.path.replace(/.*?chapter(\d+)\\page\d*\.xhtml/, '$1')} of the EPUB to see the figure description.`);
 		}
 
-		JB_Image.image_w_text[0].image_w_text_tag = lessonBuilder.altText[figure.id].alt
+		JB_Image.image_w_text[0].image_w_text_tag = lessonBuilder.altText[figure.id].alt[0];
 	}
 
 	return JB_Image;

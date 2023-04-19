@@ -189,9 +189,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Branching chart.<br /><br />Contracts are divided into Formal Contracts and Informal Contracts.<br /><br />Formal Contracts must be expressed in writing and must contain a seal.<br /><br />Informal Contracts may be expressed orally or in writing, and no sealis required."
-                        ],
+                        "image_w_text_tag": "Branching chart.<br /><br />Contracts are divided into Formal Contracts and Informal Contracts.<br /><br />Formal Contracts must be expressed in writing and must contain a seal.<br /><br />Informal Contracts may be expressed orally or in writing, and no sealis required.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

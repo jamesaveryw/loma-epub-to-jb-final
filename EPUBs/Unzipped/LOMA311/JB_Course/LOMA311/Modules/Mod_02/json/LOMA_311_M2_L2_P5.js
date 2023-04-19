@@ -472,9 +472,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Two illustrations with text.<br /><br />Illustration One: A principal talking directly to an agent.<br /><br />Text One: Actual Authority — Created by a principal’s representationsto an agent.<br /><br />Authority to act on behalf of the principal that the principal intentionallyconfers on the agent and that the agent reasonably believes is conferred.<br /><br />Illustration Two: A principal, an agent, and a third party. The principalis in a separate location from the agent and third party.<br /><br />Text Two: Apparent authority — Created by a principal’s actions or representationsto a third party.<br /><br />Authority that is not expressly conferred on an agent but is authoritythat the principal either intentionally or negligently allows a third partyto believe the agent possesses."
-                        ],
+                        "image_w_text_tag": "Two illustrations with text.<br /><br />Illustration One: A principal talking directly to an agent.<br /><br />Text One: Actual Authority — Created by a principal’s representationsto an agent.<br /><br />Authority to act on behalf of the principal that the principal intentionallyconfers on the agent and that the agent reasonably believes is conferred.<br /><br />Illustration Two: A principal, an agent, and a third party. The principalis in a separate location from the agent and third party.<br /><br />Text Two: Apparent authority — Created by a principal’s actions or representationsto a third party.<br /><br />Authority that is not expressly conferred on an agent but is authoritythat the principal either intentionally or negligently allows a third partyto believe the agent possesses.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

@@ -195,9 +195,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Illustrations of national flags with accompanying text.<br /><br />Brazil: 70 years measured from January 1 of the year after the author’sdeath.<br /><br />Hong Kong: With certain exceptions, 50 years measured from the end ofthe calendar year in which the author dies.<br /><br />India: With certain exceptions, 60 years following the author’s death.<br /><br />Philippines: Generally 50 years after the author’s death.<br /><br />Singapore: 50 years after either the death of the author or the firstpublication of the work, whichever is later."
-                        ],
+                        "image_w_text_tag": "Illustrations of national flags with accompanying text.<br /><br />Brazil: 70 years measured from January 1 of the year after the author’sdeath.<br /><br />Hong Kong: With certain exceptions, 50 years measured from the end ofthe calendar year in which the author dies.<br /><br />India: With certain exceptions, 60 years following the author’s death.<br /><br />Philippines: Generally 50 years after the author’s death.<br /><br />Singapore: 50 years after either the death of the author or the firstpublication of the work, whichever is later.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

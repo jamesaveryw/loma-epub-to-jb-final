@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Text with icons.<br /><br />Duty of loyalty and good faith: An agent must act primarily for the principal’sbenefit.<br /><br />Duty of obedience: An agent must obey the principal’s lawful instructions.<br /><br />Duty of competence: An agent must use reasonable care, skill, and diligencein carrying out the agency duties.<br /><br />Duty of an accounting: An agent must account to the principal for allmoney that comes into the agent’s possession as a result of the agencyrelationship."
-                        ],
+                        "image_w_text_tag": "Text with icons.<br /><br />Duty of loyalty and good faith: An agent must act primarily for the principal’sbenefit.<br /><br />Duty of obedience: An agent must obey the principal’s lawful instructions.<br /><br />Duty of competence: An agent must use reasonable care, skill, and diligencein carrying out the agency duties.<br /><br />Duty of an accounting: An agent must account to the principal for allmoney that comes into the agent’s possession as a result of the agencyrelationship.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

@@ -353,9 +353,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Checklist infographic.<br /><br />An antifraud plan usually sets forth procedures that enable the insurerto:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prevent fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Review claims to detect fraud and investigate claims where fraud is suspected</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Report fraud to appropriate law enforcement authorities and cooperatewith authorities in prosecuting cases of fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Pursue civil actions against persons who commit fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Train employees and insurance agents to detect and prevent fraud</span>"
-                        ],
+                        "image_w_text_tag": "Checklist infographic.<br /><br />An antifraud plan usually sets forth procedures that enable the insurerto:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prevent fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Review claims to detect fraud and investigate claims where fraud is suspected</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Report fraud to appropriate law enforcement authorities and cooperatewith authorities in prosecuting cases of fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Pursue civil actions against persons who commit fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Train employees and insurance agents to detect and prevent fraud</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

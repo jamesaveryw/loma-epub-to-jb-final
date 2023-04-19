@@ -347,9 +347,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Four linked text blocks around a central text block.<br /><br />Center text: Writing requirements in some jurisdictions<br /><br />Outer text 1: Insurance contracts<br /><br />Outer text 2: Promises to pay debts discharged in bankruptcy<br /><br />Outer text 3: Agreements to pay commissions to real estate agents<br /><br />Outer text 4: Agreements that cannot be performed during the lifetimeof the promisor"
-                        ],
+                        "image_w_text_tag": "Four linked text blocks around a central text block.<br /><br />Center text: Writing requirements in some jurisdictions<br /><br />Outer text 1: Insurance contracts<br /><br />Outer text 2: Promises to pay debts discharged in bankruptcy<br /><br />Outer text 3: Agreements to pay commissions to real estate agents<br /><br />Outer text 4: Agreements that cannot be performed during the lifetimeof the promisor",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
