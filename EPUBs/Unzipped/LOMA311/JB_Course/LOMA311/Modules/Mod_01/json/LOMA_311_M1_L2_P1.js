@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "When his mother died, Matthew Hawkins submitted a claim to the Balustrade Life Insurance Company. Balustrade denied his claim, and in response, Mr. Hawkins filed a civil suit against Balustrade. Balustrade’s answer to Mr. Hawkins’ complaint stated that Mrs. Hawkins had made a material misrepresentation on her policy application with the company, which was grounds for Balustrade to deny the claim. What legal term best describes this portion of Balustrade’s response?",

@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: To sell life insurance in the United States, an insurance agent must be licensed by each state in which he conducts business. Most states consider annuities to be a type of life insurance. Thus, a license to sell life insurance usually includes annuities.",

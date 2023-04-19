@@ -241,7 +241,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -304,7 +304,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -403,7 +403,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -463,7 +463,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -523,7 +523,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -583,7 +583,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -767,7 +767,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: A contract is sometimes void or voidable because one or both parties made a mistake when entering the contract. However, only certain types of mistakes affect the validity of a contract.",
@@ -828,14 +828,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: If a life insurance policy was not purchased with the intention of killing the insured, but a beneficiary later is convicted in a civil or criminal court of wrongfully killing the insured, the contract is valid.",

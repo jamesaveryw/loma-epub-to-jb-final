@@ -188,7 +188,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Mr. Avez and Ms. Ballard chose to resolve their dispute out of court. They asked an impartial third party, Ms. Nitta, to hear both sides of the dispute and offer a solution. Both Mr. Avez and Ms. Ballard agreed to abide by the terms of Ms. Nitta’s decision. In this dispute, Ms. Nitta is acting in the role of the (<strong>mediator</strong> / <strong>arbitrator</strong>).",

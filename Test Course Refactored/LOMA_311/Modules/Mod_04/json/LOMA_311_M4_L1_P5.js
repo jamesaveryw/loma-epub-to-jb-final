@@ -248,7 +248,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "An agency agreement grants an agent authority to perform certain actions on behalf of an insurer. Which of the following actions does an agency agreement typically grant authority to an agent to perform? (Check all that apply.)",

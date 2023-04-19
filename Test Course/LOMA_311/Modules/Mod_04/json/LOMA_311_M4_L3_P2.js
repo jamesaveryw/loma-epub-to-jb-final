@@ -175,7 +175,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -235,7 +235,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -295,7 +295,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -355,7 +355,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -489,7 +489,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -549,7 +549,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -657,7 +657,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -726,7 +726,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -825,7 +825,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -891,7 +891,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1067,7 +1067,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1136,7 +1136,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1153,7 +1153,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following statements about assignments is correct?",
@@ -1224,14 +1224,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Monica Mullane owned a $150,000 policy on her life. Before she died, she assigned the policy to Alpha Bank as security for a $100,000 loan, and then assigned the policy to Beta Bank as security for another $100,000 loan. Both banks notified the insurer of the assignments, though Beta Bank informed the insurer before Alpha Bank did. Ms. Mullane died without fully repaying either loan, and at the time of her death she owed both banks $80,000. Under the American rule, how would the policy proceeds be distributed?",
@@ -1304,7 +1304,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following statements regarding viatical settlements is true?",

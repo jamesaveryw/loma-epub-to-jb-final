@@ -175,7 +175,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -235,7 +235,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -295,7 +295,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -355,7 +355,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -480,7 +480,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -540,7 +540,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -606,7 +606,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -675,7 +675,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -952,7 +952,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1012,7 +1012,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1149,7 +1149,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1209,7 +1209,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1308,7 +1308,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1371,7 +1371,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1483,7 +1483,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "At the time of her death, Daphne Christou owned a $300,000 insurance policy on her own life. Her children, Adrian and Basil, were named as primary beneficiaries in a per capita designation. At the time of Ms. Christou’s death, Adrian was still alive, but Basil had already died. The policy designated Basil’s surviving children Hector and Selene as secondary beneficiaries. What portion of the policy proceeds would Adrian receive?",
@@ -1556,7 +1556,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "20px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Julius Devine, a single father, purchased a policy on his life and named his 13-year-old daughter, Carina, as the irrevocable beneficiary. A year later, Julius remarried and decided to change the beneficiary on his policy to his wife. Carina provided her written consent to the beneficiary change. Would this change of beneficiary be valid?",
@@ -1926,7 +1926,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1986,7 +1986,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2084,7 +2084,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2144,7 +2144,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2233,7 +2233,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Chelsea Seng owns a universal life policy with a grace period provision. Ms. Seng did not make her payment on the premium due date of October 1. Assuming a typical grace period provision for policies of this type, what is the last day of the grace period?",
@@ -2311,7 +2311,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "20px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The following statements discuss premium payments. Select the <em>false</em> statement.",
@@ -2545,7 +2545,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "If a policy provides the appropriate benefit, a policyowner may choose to discontinue premium payments, upon which time the net cash value of his policy can be used as a single premium to purchase life insurance matching the original plan. The new insurance generally includes the continued right to receive policy dividends if the original policy was issued on a participating basis. The benefit that provides this option is known as a/an",
@@ -2892,7 +2892,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The following statements concern policy loans and policy withdrawals. Select the <em>false</em> statement.",
@@ -2970,7 +2970,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "20px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The following statements concern accelerated death benefits. Select the <em>false</em> statement.",
@@ -3182,7 +3182,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following actions must a policyowner typically take in order for an insurer to reinstate a policy? (Check all that apply.)",

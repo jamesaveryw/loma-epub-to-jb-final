@@ -200,7 +200,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Mr. Xavier and Ms. Yelenovich entered into a written contract with each other, and subsequently entered into a dispute over the contract’s terms. The court found that the contract was clear and unambiguous in its language and terms. Which of the following forms of parol evidence regarding the contract would <em>not</em> be admissible in court?",

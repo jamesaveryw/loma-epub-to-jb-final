@@ -377,7 +377,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -472,7 +472,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -745,7 +745,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -808,7 +808,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1157,7 +1157,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: Under the general rules of contract construction, when information in the certificate of insurance conflicts with information in the group contract, the disparity is considered an ambiguity and always will be construed according to the contract.",
@@ -1225,7 +1225,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "20px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following statements about the evidence of insurability provision are correct? (Check all that apply.)",
@@ -1582,7 +1582,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1651,7 +1651,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1711,7 +1711,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1774,7 +1774,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1791,7 +1791,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Each person insured under a group life insurance contract has the right to name the beneficiary who will receive the proceeds payable under the contract. The insured may name as the beneficiary (check all that apply):",
@@ -1864,7 +1864,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "20px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Most state insurance laws require that group life insurance contracts include a conversion privilege, which is a provision that gives the insured the right to obtain an individual life insurance policy when group life insurance coverage ends due to specified reasons. The conversion privilege is the same regardless of the reason the insured’s coverage ends.",

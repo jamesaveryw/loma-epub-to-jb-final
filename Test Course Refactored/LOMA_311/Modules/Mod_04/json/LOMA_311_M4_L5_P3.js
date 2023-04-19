@@ -312,7 +312,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -372,7 +372,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -450,7 +450,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -516,7 +516,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -818,7 +818,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Standard claim procedures for most insurers include which of the following tasks? (Check all that apply.)",
@@ -896,7 +896,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "20px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following situations might require an insurer to conduct an investigation to determine the proper payee of life insurance policy proceeds? (Check all that apply.)",
@@ -974,7 +974,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: A simultaneous death act states that if the insured and beneficiary die at the same time or under circumstances that make it impossible to determine which of them died first, then the insured is deemed to have survived the beneficiary.",
@@ -1214,7 +1214,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1274,7 +1274,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1664,7 +1664,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1724,7 +1724,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1859,7 +1859,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1919,7 +1919,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2021,7 +2021,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2081,7 +2081,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2134,7 +2134,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "One correct statement about the suicide exclusion provision in a life insurance policy is that",
@@ -2207,7 +2207,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "20px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Some life insurance policies contain a time limitation clause that specifies that the insured’s death must occur within a certain period of time—usually 90 or 180 days—from the date of an accident for accidental death benefits to be payable.",
@@ -2275,7 +2275,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: When a claim is paid under a compromise settlement, the insurer may obtain repayment of the amount it paid in settlement of the claim if it later discovers facts indicating that the claim should not have been paid.",

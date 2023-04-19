@@ -309,7 +309,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -378,7 +378,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -536,7 +536,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -599,7 +599,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1023,7 +1023,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: A defined contribution plan is a type of U.S. group retirement plan that is funded by contributions from the plan sponsor and/or plan participants. The most common defined contribution plan is the 401(k) plan, which permits a certain type of employer group to establish a retirement plan for its employees.",
@@ -1084,14 +1084,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A qualified plan is a group retirement plan that receives favorable federal income tax treatment because it meets specified requirements included in",
@@ -1164,7 +1164,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: ERISA imposes minimum funding requirements to ensure that qualified retirement plans provide promised benefits. These requirements are the same whether the plan is a defined contribution plan or a defined benefit plan.",

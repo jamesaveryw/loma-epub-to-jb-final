@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "An insurer receives an application for life insurance, which constitutes a offer to enter into a life insurance contract. However, the underwriting department determines that the prospective insured’s risk profile was not suitable for the premium rate that the prospective insured applied for. In regards to this offer, which of the following responses is the insurer most likely to take? (Check all that apply.)",
