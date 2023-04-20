@@ -8239,6 +8239,8 @@ if( typeof courseType === "undefined" || typeof courseType == null){
 					{
 						loContent = "<img src=\"../../../../../jbuild_libs/images/LO_Images/LO_" + colorOption + ".png\" alt=\"\">";						
 					}	
+				}else{
+					loContent += "<img src=\"jbuild_libs/images/LO_Images/LO_" + colorOption + ".png\" alt=\"\">";
 				}
 
 
