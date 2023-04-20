@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-1figure.jpg",
-                        "image_w_text_tag": [
-                            "A pyramid with three levels. The top level is identified as the CorporateLevel. Wording outside the top level says “Strategic decisions focus onestablishing and revising corporate goals and strategies.” The middle levelis identified as the Business Level (Subsidiary or Division) Level. Wordingoutside the middle level says “Business decisions focus on implementingcorporate strategies for a division or business segment.” The bottom levelis identified as the Operational Level. Wording outside the bottom levelsays “Operational decisions focus on the day-to-day implementation of business-levelstrategies.”"
-                        ],
+                        "image_w_text_tag": "A pyramid with three levels. The top level is identified as the CorporateLevel. Wording outside the top level says “Strategic decisions focus onestablishing and revising corporate goals and strategies.” The middle levelis identified as the Business Level (Subsidiary or Division) Level. Wordingoutside the middle level says “Business decisions focus on implementingcorporate strategies for a division or business segment.” The bottom levelis identified as the Operational Level. Wording outside the bottom levelsays “Operational decisions focus on the day-to-day implementation of business-levelstrategies.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -261,7 +259,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -324,7 +322,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -387,7 +385,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -450,7 +448,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -500,7 +498,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Operational decisions focus on the day-to-day implementation of business-level strategies.",
@@ -561,14 +559,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Decision making is not affected by the size of an organization.",

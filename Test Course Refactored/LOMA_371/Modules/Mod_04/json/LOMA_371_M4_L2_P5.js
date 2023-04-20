@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Annuity Surrender and Withdrawal Benefits",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,13 +115,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Typically, surrender and withdrawal benefits are available during an annuity contract’s accumulation period. Thus, immediate annuities—which do not have accumulation periods—do not usually provide surrender and withdrawal benefits. For deferred annuities, contract owners can (1) surrender the contract or (2) withdraw from the contract’s accumulated value. If the owner surrenders the contract, the <em>surrender value</em> is the accumulated value minus any applicable surrender charge. Recall that insurers generally impose surrender charges that are highest during the early years of a contract and then decrease gradually over time."
                     },
                     {
-                        "Paragraph_txt": "When estimating the cost of deferred annuity surrender benefits, insurance companies assume that surrender benefits will be paid at the beginning of each year. They also use mortality rates to estimate the number of annuitants at the beginning of any given year during the accumulation period."
+                        "Paragraph_txt": "<br />When estimating the cost of deferred annuity surrender benefits, insurance companies assume that surrender benefits will be paid at the beginning of each year. They also use mortality rates to estimate the number of annuitants at the beginning of any given year during the accumulation period."
                     },
                     {
-                        "Paragraph_txt": "Insurers estimate the cost of surrender benefits for a future year based on the number of in-force contracts at the beginning of the year, the expected surrender rate for each year, and the surrender value per unit. The <em>expected surrender rate</em> is an estimate of the percentage of surrenders during a particular year. Surrender rates for deferred annuities are usually the lowest during the early years of the accumulation period, and spike after the end of the contract’s surrender charge period; such spikes in surrender rates are known as <em>shock lapses</em>."
+                        "Paragraph_txt": "<br />Insurers estimate the cost of surrender benefits for a future year based on the number of in-force contracts at the beginning of the year, the expected surrender rate for each year, and the surrender value per unit. The <em>expected surrender rate</em> is an estimate of the percentage of surrenders during a particular year. Surrender rates for deferred annuities are usually the lowest during the early years of the accumulation period, and spike after the end of the contract’s surrender charge period; such spikes in surrender rates are known as <em>shock lapses</em>."
                     },
                     {
-                        "Paragraph_txt": "The formula for estimating the cost of surrender benefits for a particular year <em>n</em> is"
+                        "Paragraph_txt": "<br />The formula for estimating the cost of surrender benefits for a particular year <em>n</em> is"
                     }
                 ]
             },
@@ -178,7 +148,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -252,7 +222,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -288,10 +258,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "To find the total of the future surrender benefits, the insurer sums the annual surrender benefits for each year during the accumulation period."
                     },
                     {
-                        "Paragraph_txt": "Insurers must also calculate the cost of withdrawals. Typically, an insurer allows a deferred annuity contract owner to withdraw a specified percentage—usually 5-10 percent—of a contract’s accumulated value each year without charge. Withdrawals in excess of the allowable withdrawal rate are subject to separate surrender charges."
+                        "Paragraph_txt": "<br />Insurers must also calculate the cost of withdrawals. Typically, an insurer allows a deferred annuity contract owner to withdraw a specified percentage—usually 5-10 percent—of a contract’s accumulated value each year without charge. Withdrawals in excess of the allowable withdrawal rate are subject to separate surrender charges."
                     },
                     {
-                        "Paragraph_txt": "Insurers use the contractually specified withdrawal rate percentages to determine the cost of withdrawals for each year during the accumulation period. For instance, for year <em>n</em>, the formula is as follows:"
+                        "Paragraph_txt": "<br />Insurers use the contractually specified withdrawal rate percentages to determine the cost of withdrawals for each year during the accumulation period. For instance, for year <em>n</em>, the formula is as follows:"
                     }
                 ]
             },
@@ -318,7 +288,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -392,7 +362,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -442,7 +412,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "For deferred annuities, surrender rates are usually the (<strong>highest</strong> /<strong> lowest</strong>) during the early years of the accumulation period. For partial withdrawals, withdrawals in excess of the deferred annuity contract’s allowable withdrawal rate are subject to separate (<strong>shock lapses </strong>/<strong> surrender charges</strong>).",

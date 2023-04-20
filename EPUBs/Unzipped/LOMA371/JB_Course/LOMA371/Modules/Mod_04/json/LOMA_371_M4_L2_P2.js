@@ -218,9 +218,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "11-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Three annuity timelines.<br /><br />The Immediate Annuity timeline consists of a payout period that begins on an issue date, and is marked by periodic income payments.<br /><br />The Non-Annuitized Deferred Annuity timeline consists of an accumulation period that begins on a purchase date.<br /><br />The Annuitized Deferred Annuity timeline consists of an accumulation period that begins on a purchase date, reaches a maturity date, and then transitions into a payout period. The payout period is marked by periodic income payments."
-                        ],
+                        "image_w_text_tag": "Three annuity timelines.<br /><br />The Immediate Annuity timeline consists of a payout period that begins on an issue date, and is marked by periodic income payments.<br /><br />The Non-Annuitized Deferred Annuity timeline consists of an accumulation period that begins on a purchase date.<br /><br />The Annuitized Deferred Annuity timeline consists of an accumulation period that begins on a purchase date, reaches a maturity date, and then transitions into a payout period. The payout period is marked by periodic income payments.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -394,7 +392,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Deferred annuities provide the opportunity for a contract’s invested premiums to grow during the (<strong>accumulation </strong>/<strong> payout</strong>) period. If the contract is annuitized, the maturity date marks the beginning of the (<strong>accumulation </strong>/<strong> payout</strong>) period.",
@@ -465,14 +463,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: For variable annuities, the insurer decides how to invest premiums and bears the investment risk.",

@@ -189,9 +189,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-5figure.jpg",
-                        "image_w_text_tag": [
-                            "An infographic to illustrate characteristics that can result in more orless cohesive groups. A small blue circle in the middle is labeled “GroupCohesiveness.” Around the blue circle is a light blue circle labeled “MoreCohesive” that includes the characteristics of cohesive groups: (1) smallgroups, (2) lots of group interaction, (3) clear goals, and (4) groupsrewards. Around the light blue circle is a green circle that is labeled“Less Cohesive” that includes the characteristics of less cohesive groups:(1) large groups, (2) no group interaction, (3) individual rewards, and(4) no clear goals."
-                        ],
+                        "image_w_text_tag": "An infographic to illustrate characteristics that can result in more orless cohesive groups. A small blue circle in the middle is labeled “GroupCohesiveness.” Around the blue circle is a light blue circle labeled “MoreCohesive” that includes the characteristics of cohesive groups: (1) smallgroups, (2) lots of group interaction, (3) clear goals, and (4) groupsrewards. Around the light blue circle is a green circle that is labeled“Less Cohesive” that includes the characteristics of less cohesive groups:(1) large groups, (2) no group interaction, (3) individual rewards, and(4) no clear goals.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -452,7 +450,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A work group with a high degree of cohesiveness is likely to have (choose all that apply)",
@@ -518,14 +516,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Groupthink typically results in inferior group decisions and group outcomes.",

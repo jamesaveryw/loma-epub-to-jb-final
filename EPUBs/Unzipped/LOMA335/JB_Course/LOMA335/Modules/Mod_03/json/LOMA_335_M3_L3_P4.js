@@ -178,7 +178,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -274,7 +274,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -659,9 +659,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A sample frequency distribution that shows the standard deviation of policyface amounts from $250,000 to $5,000,000. An arrow points down to the mean,at around $400,000."
-                        ],
+                        "image_w_text_tag": "A sample frequency distribution that shows the standard deviation of policyface amounts from $250,000 to $5,000,000. An arrow points down to the mean,at around $400,000.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -800,9 +798,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A sample heat map of the United States with red for denser populationsof customers served (Southern United States and Pacific Northwest) andgreen for sparser populations of customers served (around California, theMidwest, and the Northeast)."
-                        ],
+                        "image_w_text_tag": "A sample heat map of the United States with red for denser populationsof customers served (Southern United States and Pacific Northwest) andgreen for sparser populations of customers served (around California, theMidwest, and the Northeast).",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -941,9 +937,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-5figure.jpg",
-                        "image_w_text_tag": [
-                            "A sample scatter diagram that shows higher policy face amounts at lowerspots on the diagram (assuming the unlabeled Y-axis is age while the X-axisis face amount, ranging from $50,000 to $3,000,000)."
-                        ],
+                        "image_w_text_tag": "A sample scatter diagram that shows higher policy face amounts at lowerspots on the diagram (assuming the unlabeled Y-axis is age while the X-axisis face amount, ranging from $50,000 to $3,000,000).",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1082,9 +1076,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "../../imgs/loma_335_chapter-9_f.png",
-                        "image_w_text_tag": [
-                            "A sample line diagram trending upward overtime (from 1970 to 2020) forboth men and women."
-                        ],
+                        "image_w_text_tag": "A sample line diagram trending upward overtime (from 1970 to 2020) forboth men and women.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1223,9 +1215,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-7figure.jpg",
-                        "image_w_text_tag": [
-                            "A sample bar chart demonstrating the difference in hold times for eachday of the week. The tallest bar is Sunday, followed by Friday, Saturday,Thursday, Monday, Tuesday, and Wednesday."
-                        ],
+                        "image_w_text_tag": "A sample bar chart demonstrating the difference in hold times for eachday of the week. The tallest bar is Sunday, followed by Friday, Saturday,Thursday, Monday, Tuesday, and Wednesday.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1364,9 +1354,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-8figure.jpg",
-                        "image_w_text_tag": [
-                            "A sample “donut shaped” pie chart showing the percentage of each typeof policy held. From the chart,<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Whole life is at 42%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Term life is 31%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Universal life is at 13%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Variable universal life is at 11%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Variable life is at 3%</span>"
-                        ],
+                        "image_w_text_tag": "A sample “donut shaped” pie chart showing the percentage of each typeof policy held. From the chart,<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Whole life is at 42%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Term life is 31%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Universal life is at 13%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Variable universal life is at 11%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Variable life is at 3%</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1489,9 +1477,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "../../imgs/loma_335_chapter-901.png",
-                        "image_w_text_tag": [
-                            "An example of an infographic to show how meaning is conveyed through bothwords and pictures.<br /><br />Infographic has an image at the top of a person next to dollars. Nearthe image is the following text: Benefit funding matters. Enrollment ratesare clearly related to employer funding, but not the value of these productsto employees.<br /><br />Beneath the text is a bar chart showing average benefits participationrates.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For dental insurance: where employer pays less than 50% of the premiums,53% participate; where employer pays more than 50% of the premiums, 80%participate; 68% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For vision care: where employer pays less than 50% of the premiums, 50%participate; where employer pays more than 50% of the premiums, 78% participate;65% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For short-term disability insurance: where employer pays less than 50%of the premiums, 40% participate; where employer pays more than 50% ofthe premiums, 85% participate; 65% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For accidental death and dismemberment insurance: where employer paysless than 50% of the premiums, 38% participate; where employer pays morethan 50% of the premiums, 82% participate; 60% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For critical illness insurance: where employer pays less than 50% of thepremiums, 27% participate; where employer pays more than 50% of the premiums,61% participate; 38% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For cancer insurance: where employer pays less than 50% of the premiums,21% participate; where employer pays more than 50% of the premiums, 63%participate; 36% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For accident insurance: where employer pays less than 50% of the premiums,29% participate; where employer pays more than 50% of the premiums, 76^participate; 50% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For long-term care insurance: where employer pays less than 50% of thepremiums, 36% participate; where employer pays more than 50% of the premiums,70% participate; 49% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For hospital indemnity insurance: where employer pays less than 50% ofthe premiums, 31% participate; where employer pays more than 50% of thepremiums, 66% participate; 47% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For limited-benefit medical/”skinny” plans: where employer pays less than50% of the premiums, 25% participate; where employer pays more than 50%of the premiums, 41% participate; 34% participate on average.</span><br /><br />Beneath the graph is the following text inside of a down-pointing arrow:Watch out: Core insurance benefit penetration rates are declining.<br /><br />Branching out from the arrow is an arm that holds a cloud. Inside thecloud reads the following text: A silver lining? Employers’ interest innon-insurance benefits is growing. Can you provide them with non-traditionalbenefits they’ll subsidize?"
-                        ],
+                        "image_w_text_tag": "An example of an infographic to show how meaning is conveyed through bothwords and pictures.<br /><br />Infographic has an image at the top of a person next to dollars. Nearthe image is the following text: Benefit funding matters. Enrollment ratesare clearly related to employer funding, but not the value of these productsto employees.<br /><br />Beneath the text is a bar chart showing average benefits participationrates.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For dental insurance: where employer pays less than 50% of the premiums,53% participate; where employer pays more than 50% of the premiums, 80%participate; 68% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For vision care: where employer pays less than 50% of the premiums, 50%participate; where employer pays more than 50% of the premiums, 78% participate;65% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For short-term disability insurance: where employer pays less than 50%of the premiums, 40% participate; where employer pays more than 50% ofthe premiums, 85% participate; 65% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For accidental death and dismemberment insurance: where employer paysless than 50% of the premiums, 38% participate; where employer pays morethan 50% of the premiums, 82% participate; 60% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For critical illness insurance: where employer pays less than 50% of thepremiums, 27% participate; where employer pays more than 50% of the premiums,61% participate; 38% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For cancer insurance: where employer pays less than 50% of the premiums,21% participate; where employer pays more than 50% of the premiums, 63%participate; 36% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For accident insurance: where employer pays less than 50% of the premiums,29% participate; where employer pays more than 50% of the premiums, 76^participate; 50% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For long-term care insurance: where employer pays less than 50% of thepremiums, 36% participate; where employer pays more than 50% of the premiums,70% participate; 49% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For hospital indemnity insurance: where employer pays less than 50% ofthe premiums, 31% participate; where employer pays more than 50% of thepremiums, 66% participate; 47% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For limited-benefit medical/”skinny” plans: where employer pays less than50% of the premiums, 25% participate; where employer pays more than 50%of the premiums, 41% participate; 34% participate on average.</span><br /><br />Beneath the graph is the following text inside of a down-pointing arrow:Watch out: Core insurance benefit penetration rates are declining.<br /><br />Branching out from the arrow is an arm that holds a cloud. Inside thecloud reads the following text: A silver lining? Employers’ interest innon-insurance benefits is growing. Can you provide them with non-traditionalbenefits they’ll subsidize?",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1554,7 +1540,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Of the following data visualization methods, the best method for showing how the average number of telephone-related IT requests has changed over time would be",
@@ -1620,14 +1606,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Of the following data visualization methods, the best data visualization method for communicating a formula for how much life insurance potential customers need would be",
@@ -1700,7 +1686,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Of the following data visualization methods, the best data visualization method for showing total expenditures by department within a specified period would be",

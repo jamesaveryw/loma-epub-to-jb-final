@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Allocation Bases",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -209,12 +179,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 13.6 Allocating Indirect Costs by Proportion</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "13-6figure.jpg",
-                        "image_w_text_tag": [
-                            "Two bar charts. The first shows salary expense by cost center.<br /><br />Cost Center A: 50%<br /><br />Cost Center B: 20%<br /><br />Cost Center C: 25%<br /><br />Cost Center D: 5%<br /><br />The second bar chart shows office supply expense by cost center. The proportions are identical.<br /><br />Cost Center A: 50%<br /><br />Cost Center B: 20%<br /><br />Cost Center C: 25%<br /><br />Cost Center D: 5%"
-                        ],
+                        "image_w_text_tag": "Two bar charts. The first shows salary expense by cost center.<br /><br />Cost Center A: 50%<br /><br />Cost Center B: 20%<br /><br />Cost Center C: 25%<br /><br />Cost Center D: 5%<br /><br />The second bar chart shows office supply expense by cost center. The proportions are identical.<br /><br />Cost Center A: 50%<br /><br />Cost Center B: 20%<br /><br />Cost Center C: 25%<br /><br />Cost Center D: 5%",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -227,7 +228,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 13.6</strong> Allocating Indirect Costs by Proportion",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -238,7 +239,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "The Hearthfire Life Insurance Company has four cost centers: A, B, C, and D. Each center is responsible for a percentage of Hearthfire’s total employee salaries. Because Hearthfire is unable to track direct usage of office supplies by cost center, Hearthfire allocates office supply expenses in the same proportion as each cost center’s salary expense.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -261,6 +262,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "The Hearthfire Life Insurance Company has four cost centers: A, B, C, and D. Each center is responsible for a percentage of Hearthfire’s total employee salaries. Because Hearthfire is unable to track direct usage of office supplies by cost center, Hearthfire allocates office supply expenses in the same proportion as each cost center’s salary expense."
                     }
                 ]
             },
@@ -490,7 +524,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which method of cost allocation allocates a service department’s costs to other benefiting service departments first, and then to benefiting operating departments?",

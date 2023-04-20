@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Expenses",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -147,12 +117,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.3 Major Insurance Company Expenses</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "10-3figure.jpg",
-                        "image_w_text_tag": [
-                            "<strong><em>Investment expenses</em> </strong> are the costs associatedwith investing the insurer’s assets.<br /><br /><strong><em>General and administrative expenses</em> </strong> are thecosts incurred as a result of undertaking normal business activities togenerate sales and to support products. General and administrative expensesinclude contractual benefit expenses and operating expenses.<br /><br /><strong><em>Contractual benefit expenses</em> </strong> are the costs ofpaying contractual obligations to policyowners and beneficiaries.<br /><br /><strong><em>Operating expenses</em> </strong> are the costs of businessoperations other than contractual benefit expenses. Operating expensesinclude acquisition expenses, maintenance expenses, development expenses,and overhead expenses.<br /><br /><strong><em>Acquisition expenses</em> </strong> are the costs for optainingand issuing new business. Examples of acquisition expenses include first-yearagent commissions, contract issue expenses, advertising expenses, and underwritingexpenses.<br /><br /><strong><em>Maintenance expenses</em> </strong> are product-related coststhat are incurred on in-force policies and contracts. Examples of maintenanceexpenses include renewal commissions, some agency or branch office expenses,and customer service operating expenses.<br /><br /><strong><em>Development expenses</em> </strong> are costs related to designing,testing, and implementing a new product. Examples of development expensesinclude new administrative software expenses and new business license fees.<br /><br /><strong><em>Overhead expenses</em> </strong> are the costs of normal businessoperations that are not directly connected with any product. Examples ofoverhead expenses include utility expenses, some agency or branch officeexpenses, and some information systems expenses."
-                        ],
+                        "image_w_text_tag": "<strong><em>Investment expenses</em> </strong> are the costs associatedwith investing the insurer’s assets.<br /><br /><strong><em>General and administrative expenses</em> </strong> are thecosts incurred as a result of undertaking normal business activities togenerate sales and to support products. General and administrative expensesinclude contractual benefit expenses and operating expenses.<br /><br /><strong><em>Contractual benefit expenses</em> </strong> are the costs ofpaying contractual obligations to policyowners and beneficiaries.<br /><br /><strong><em>Operating expenses</em> </strong> are the costs of businessoperations other than contractual benefit expenses. Operating expensesinclude acquisition expenses, maintenance expenses, development expenses,and overhead expenses.<br /><br /><strong><em>Acquisition expenses</em> </strong> are the costs for optainingand issuing new business. Examples of acquisition expenses include first-yearagent commissions, contract issue expenses, advertising expenses, and underwritingexpenses.<br /><br /><strong><em>Maintenance expenses</em> </strong> are product-related coststhat are incurred on in-force policies and contracts. Examples of maintenanceexpenses include renewal commissions, some agency or branch office expenses,and customer service operating expenses.<br /><br /><strong><em>Development expenses</em> </strong> are costs related to designing,testing, and implementing a new product. Examples of development expensesinclude new administrative software expenses and new business license fees.<br /><br /><strong><em>Overhead expenses</em> </strong> are the costs of normal businessoperations that are not directly connected with any product. Examples ofoverhead expenses include utility expenses, some agency or branch officeexpenses, and some information systems expenses.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -165,7 +166,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.3</strong> Major Insurance Company Expenses",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -281,7 +282,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Contractual benefit expenses are an example of an insurer’s (<strong>investment expenses </strong>/ <strong>general and administrative expenses</strong>).",
@@ -342,14 +343,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "An insurer starts an advertising campaign to promote a new product. How would the insurer classify the expenses associated with the advertising campaign?",
@@ -446,7 +447,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers also incur operating expenses that are similar to those incurred by noninsurance companies. Operating expenses, such as acquisition, development, maintenance, and overhead expenses, arise in the normal course of conducting business. Although insurers can readily identify the amount of contractual benefit expenses and agent compensation expenses incurred by product type or line of business, it is more difficult to determine what portion of the insurer’s operating expenses applies to a particular product. One important aspect of accounting for expenses concerns the allocation of operating expenses. In accounting, to <em>allocate</em> an amount is to distribute the amount <em>proportionally</em> among several accounts. The U.S. Annual Statement requires insurers to allocate operating expenses by lines of business."
                     },
                     {
-                        "Paragraph_txt": "A common method of allocating expenses is based on the amount of premium income for each line of business. First, the insurer determines what percentage of total premium income each line of business earned for the reporting period. Next, the insurer multiplies total operating expenses by that percentage to calculate the amount of operating expenses to allocate to each line of business. Keep in mind that, for agent commissions and other expenses that can easily be directly attributed to a specified product, expense allocation is unnecessary. Watch Video 10.2 for an example of allocating operating expenses."
+                        "Paragraph_txt": "<br />A common method of allocating expenses is based on the amount of premium income for each line of business. First, the insurer determines what percentage of total premium income each line of business earned for the reporting period. Next, the insurer multiplies total operating expenses by that percentage to calculate the amount of operating expenses to allocate to each line of business. Keep in mind that, for agent commissions and other expenses that can easily be directly attributed to a specified product, expense allocation is unnecessary. Watch Video 10.2 for an example of allocating operating expenses."
                     }
                 ]
             },
@@ -620,10 +621,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "For financial reporting purposes, an insurance company establishes a control account for each incurred commission expense. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">control account</span> summarizes accounting entries and monitors the expenses that are reported in a company’s financial statements. A typical control account, called <em>Agents Ledger Control</em> or <em>Producers Ledger Control</em>, includes commissions an insurer owes to agents as well as amounts that agents owe to the insurer. The amount of money owed by an insurer to an agent is an account payable, which is a short-term liability because the insurer expects to pay the agent within the current accounting period."
                     },
                     {
-                        "Paragraph_txt": "The amount of money owed by an agent to an insurer, often called <em>Agent Balances Due</em> or <em>Producer Balances Due</em>, is a type of account receivable. This account is a short-term asset account, because the insurer expects to receive this amount within the current accounting period. An agent may owe an insurer money because she may have received some form of income during her first months with the insurer as an advance against future commissions. In addition, an agent may owe an insurer for commissions that were paid on policies that subsequently lapsed. Under statutory accounting principles, agent balances due more than a specified length of time are generally considered a nonadmitted asset."
+                        "Paragraph_txt": "<br />The amount of money owed by an agent to an insurer, often called <em>Agent Balances Due</em> or <em>Producer Balances Due</em>, is a type of account receivable. This account is a short-term asset account, because the insurer expects to receive this amount within the current accounting period. An agent may owe an insurer money because she may have received some form of income during her first months with the insurer as an advance against future commissions. In addition, an agent may owe an insurer for commissions that were paid on policies that subsequently lapsed. Under statutory accounting principles, agent balances due more than a specified length of time are generally considered a nonadmitted asset."
                     },
                     {
-                        "Paragraph_txt": "Several types of accounting entries occur frequently in connection with agent commissions. Note, however, that insurers do not typically withhold taxes from commissions, although they do withhold taxes from payments to salaried employees, including salaried agents. The following is an example of how an insurer typically accounts for agent commissions."
+                        "Paragraph_txt": "<br />Several types of accounting entries occur frequently in connection with agent commissions. Note, however, that insurers do not typically withhold taxes from commissions, although they do withhold taxes from payments to salaried employees, including salaried agents. The following is an example of how an insurer typically accounts for agent commissions."
                     }
                 ]
             },
@@ -650,7 +651,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -686,28 +687,28 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> When a Wisdom Life Insurance Company agent earns a commission, Wisdom records an accounting entry to show that it has incurred the commission expense and has established a liability for the commission owed to the agent:"
                     },
                     {
-                        "Paragraph_txt": "<em>Commissions Expense</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..xxx"
+                        "Paragraph_txt": "<br /><em>Commissions Expense</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Agents Ledger Control</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>….xxx"
+                        "Paragraph_txt": "<br /><em>Agents Ledger Control</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>….xxx"
                     },
                     {
-                        "Paragraph_txt": "To record incurred agent commissions expense."
+                        "Paragraph_txt": "<br />To record incurred agent commissions expense."
                     },
                     {
-                        "Paragraph_txt": "Upon payment of the earned commission to the agent, Wisdom records the following accounting entry:"
+                        "Paragraph_txt": "<br />Upon payment of the earned commission to the agent, Wisdom records the following accounting entry:"
                     },
                     {
-                        "Paragraph_txt": "<em>Agents Ledger Control</em>…<wbr>……<wbr>……<wbr>…....xxx"
+                        "Paragraph_txt": "<br /><em>Agents Ledger Control</em>…<wbr>……<wbr>……<wbr>…....xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…<wbr>……<wbr>….xxx"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…<wbr>……<wbr>….xxx"
                     },
                     {
-                        "Paragraph_txt": "To record the payment of agent commissions."
+                        "Paragraph_txt": "<br />To record the payment of agent commissions."
                     },
                     {
-                        "Paragraph_txt": "The combined effect of the two transactions is an increase in an expense account—<em>Commissions</em> <em>Expense</em>—and a corresponding decrease in an asset account—<em>Cash</em>."
+                        "Paragraph_txt": "<br />The combined effect of the two transactions is an increase in an expense account—<em>Commissions</em> <em>Expense</em>—and a corresponding decrease in an asset account—<em>Cash</em>."
                     }
                 ]
             },
@@ -734,7 +735,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -803,7 +804,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most life insurance companies have a distribution system that relies primarily on commissioned agents. However, some insurers, especially direct response companies and group life insurers, rely on salaried agents or producers. An insurer may provide a salary or similar financial assistance to an agent while the agent establishes a client base. An insurer may also utilize branch office or field office managers to whom the insurer provides both a salary and additional compensation for developing an agency office."
                     },
                     {
-                        "Paragraph_txt": "In the case of salaried agents, an insurer is required to withhold payroll taxes, just as the insurer does for other salaried employees. A detailed discussion of payroll accounting is beyond the scope of this textbook. You should know, however, that payroll taxes withheld by an insurer are recorded in liability accounts. These liability accounts represent amounts that the insurer has collected on behalf of a governmental body and thus is obligated to pay. When the insurer pays taxes, the insurer debits the appropriate liability account and credits <em>Cash</em>. The effect of paying taxes to a governmental body decreases both the tax liability account and <em>Cash</em>. The following example shows how an insurer accounts for payments to its salaried employees."
+                        "Paragraph_txt": "<br />In the case of salaried agents, an insurer is required to withhold payroll taxes, just as the insurer does for other salaried employees. A detailed discussion of payroll accounting is beyond the scope of this textbook. You should know, however, that payroll taxes withheld by an insurer are recorded in liability accounts. These liability accounts represent amounts that the insurer has collected on behalf of a governmental body and thus is obligated to pay. When the insurer pays taxes, the insurer debits the appropriate liability account and credits <em>Cash</em>. The effect of paying taxes to a governmental body decreases both the tax liability account and <em>Cash</em>. The following example shows how an insurer accounts for payments to its salaried employees."
                     }
                 ]
             },
@@ -830,7 +831,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -866,49 +867,49 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Suppose a salaried agent at the Query Life Insurance Company, a U.S. company, earns a $1,200 monthly salary. From this salary, $120 must be withheld for federal income taxes, $90 must be withheld for Social Security and Medicare, and $25 must be withheld for state income taxes. Query’s accounting entry to establish liabilities for federal and state taxes and the amount payable to this agent is as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Salaries Expense</em>…<wbr>……<wbr>…1,200"
+                        "Paragraph_txt": "<br /><em>Salaries Expense</em>…<wbr>……<wbr>…1,200"
                     },
                     {
-                        "Paragraph_txt": "<em>Federal Income Taxes Payable</em>…<wbr>……<wbr>……<wbr>……<wbr>……..120"
+                        "Paragraph_txt": "<br /><em>Federal Income Taxes Payable</em>…<wbr>……<wbr>……<wbr>……<wbr>……..120"
                     },
                     {
-                        "Paragraph_txt": "<em>Social Security and Medicare Taxes Payable</em>…<wbr>…..90"
+                        "Paragraph_txt": "<br /><em>Social Security and Medicare Taxes Payable</em>…<wbr>…..90"
                     },
                     {
-                        "Paragraph_txt": "<em>State Income Taxes Payable</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…25"
+                        "Paragraph_txt": "<br /><em>State Income Taxes Payable</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…25"
                     },
                     {
-                        "Paragraph_txt": "<em>Salaries Payable</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>….….965"
+                        "Paragraph_txt": "<br /><em>Salaries Payable</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>….….965"
                     },
                     {
-                        "Paragraph_txt": "To record the establishment of a liability for an agent’s salary and the appropriate tax withholdings."
+                        "Paragraph_txt": "<br />To record the establishment of a liability for an agent’s salary and the appropriate tax withholdings."
                     },
                     {
-                        "Paragraph_txt": "The accounting entry records Query’s liability for taxes withheld as $235 ($120 + $90 + $25) and records the salary payable to the agent as $965 ($1,200 – $235). Thus, the amount payable to the agent equals the salary expense minus any withholdings."
+                        "Paragraph_txt": "<br />The accounting entry records Query’s liability for taxes withheld as $235 ($120 + $90 + $25) and records the salary payable to the agent as $965 ($1,200 – $235). Thus, the amount payable to the agent equals the salary expense minus any withholdings."
                     },
                     {
-                        "Paragraph_txt": "When Query pays the agent’s salary, it makes the following accounting entry:"
+                        "Paragraph_txt": "<br />When Query pays the agent’s salary, it makes the following accounting entry:"
                     },
                     {
-                        "Paragraph_txt": "<em>Salaries Payable</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>….965"
+                        "Paragraph_txt": "<br /><em>Salaries Payable</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>….965"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…….965"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…….965"
                     },
                     {
-                        "Paragraph_txt": "To record the payment of an agent’s salary."
+                        "Paragraph_txt": "<br />To record the payment of an agent’s salary."
                     },
                     {
-                        "Paragraph_txt": "When the company then pays the state income taxes withheld from the agent’s salary, the appropriate accounting entry is:"
+                        "Paragraph_txt": "<br />When the company then pays the state income taxes withheld from the agent’s salary, the appropriate accounting entry is:"
                     },
                     {
-                        "Paragraph_txt": "<em>State Income Taxes Payable</em>…<wbr>……<wbr>…..25"
+                        "Paragraph_txt": "<br /><em>State Income Taxes Payable</em>…<wbr>……<wbr>…..25"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…25"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…25"
                     },
                     {
-                        "Paragraph_txt": "To record the payment of state income taxes withheld from an agent’s salary."
+                        "Paragraph_txt": "<br />To record the payment of state income taxes withheld from an agent’s salary."
                     }
                 ]
             },
@@ -935,7 +936,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1004,7 +1005,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that, in reinsurance transactions, the company that purchases reinsurance is the <em>direct writer </em>or <em>ceding company</em>, and the insurer that assumes the reinsurance is the<em> reinsurer </em>or <em>assuming company</em>. If a direct writer cedes part of the insurance risk on a block of insurance policies to a reinsurer, then the direct writer pays periodic premiums to the reinsurer. Commissions that the reinsurer pays to the direct writer are called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">reinsurance allowances</span>, also known as <em>reinsurance commissions</em>, which are payments intended to cover all or part of the direct writer’s acquisition costs and other costs related to the reinsured business. In effect, the reinsurer pays a commission on this new business, just as any insurer pays a commission to an agent for new business. In such situations, the reinsurer pays the commission to the direct writer, rather than to an agent."
                     },
                     {
-                        "Paragraph_txt": "An example of accounting for reinsurance premiums follows."
+                        "Paragraph_txt": "<br />An example of accounting for reinsurance premiums follows."
                     }
                 ]
             },
@@ -1031,7 +1032,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1067,31 +1068,31 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Suppose the Lexicon Life Insurance Company cedes $300,000 of a block of ordinary life policies to Strawberry Re. If the reinsurance agreement specifies a reinsurance premium of $1,000 and a reinsurance allowance of $750, then to record payment of the reinsurance premium, Lexicon makes the following accounting entry:"
                     },
                     {
-                        "Paragraph_txt": "<em>Reinsurance Ceded—First-Year Premium Expense…<wbr>….</em>....1,000"
+                        "Paragraph_txt": "<br /><em>Reinsurance Ceded—First-Year Premium Expense…<wbr>….</em>....1,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Reinsurance Allowance—Ceded</em>…<wbr>……..…<wbr>……<wbr>……<wbr>….…<wbr>……<wbr>…..750"
+                        "Paragraph_txt": "<br /><em>Reinsurance Allowance—Ceded</em>…<wbr>……..…<wbr>……<wbr>……<wbr>….…<wbr>……<wbr>…..750"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…<wbr>…...…<wbr>…..…250"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…<wbr>…...…<wbr>…..…250"
                     },
                     {
-                        "Paragraph_txt": "To record the payment of the reinsurance premium."
+                        "Paragraph_txt": "<br />To record the payment of the reinsurance premium."
                     },
                     {
-                        "Paragraph_txt": "Strawberry Re records the receipt of the reinsurance premium income as follows:"
+                        "Paragraph_txt": "<br />Strawberry Re records the receipt of the reinsurance premium income as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Reinsurance Allowance—Assumed</em>…<wbr>……<wbr>……............…...…<wbr>…..750"
+                        "Paragraph_txt": "<br /><em>Reinsurance Allowance—Assumed</em>…<wbr>……<wbr>……............…...…<wbr>…..750"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…<wbr>….250"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…<wbr>….250"
                     },
                     {
-                        "Paragraph_txt": "<em>Reinsurance Assumed—First-Year Premium Expense</em> …<wbr>…1,000"
+                        "Paragraph_txt": "<br /><em>Reinsurance Assumed—First-Year Premium Expense</em> …<wbr>…1,000"
                     },
                     {
-                        "Paragraph_txt": "To record the receipt of reinsurance premium income, net of allowance."
+                        "Paragraph_txt": "<br />To record the receipt of reinsurance premium income, net of allowance."
                     }
                 ]
             },
@@ -1118,7 +1119,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1154,34 +1155,34 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Premium taxes</span> are taxes on the paid premium income an insurer receives within a particular jurisdiction. The definition of what constitutes <em>paid premium income</em> for tax purposes varies among jurisdictions. For example, some U.S. states impose the tax on gross premiums. Most states allow insurers to deduct policyowner dividends from their gross premiums before calculating premium taxes. In addition, investment income and reinsurance premiums are typically excluded from the formula that determines the amount of premium taxes due from an insurer."
                     },
                     {
-                        "Paragraph_txt": "State governments impose premium taxes on life insurance policies issued in that state. Taxing authorities calculate these taxes as a percentage of the premium income. Some states require that the insurer pay the larger of the premium tax or the state income tax."
+                        "Paragraph_txt": "<br />State governments impose premium taxes on life insurance policies issued in that state. Taxing authorities calculate these taxes as a percentage of the premium income. Some states require that the insurer pay the larger of the premium tax or the state income tax."
                     },
                     {
-                        "Paragraph_txt": "Fraternal benefit societies are typically exempt from premium taxes. In addition, many U.S. states do not impose premium taxes on annuity considerations, which are sometimes called <em>annuity premiums.</em> Annuity considerations are sometimes taxed at a lower rate than insurance premiums in those states that impose premium taxes on annuity considerations."
+                        "Paragraph_txt": "<br />Fraternal benefit societies are typically exempt from premium taxes. In addition, many U.S. states do not impose premium taxes on annuity considerations, which are sometimes called <em>annuity premiums.</em> Annuity considerations are sometimes taxed at a lower rate than insurance premiums in those states that impose premium taxes on annuity considerations."
                     },
                     {
-                        "Paragraph_txt": "Accounting for premium taxes requires two basic sets of accounting entries: one to record taxes incurred and another to record the payment of the tax. Typically, when an insurer incurs premium taxes, the insurer makes the following accounting entry:"
+                        "Paragraph_txt": "<br />Accounting for premium taxes requires two basic sets of accounting entries: one to record taxes incurred and another to record the payment of the tax. Typically, when an insurer incurs premium taxes, the insurer makes the following accounting entry:"
                     },
                     {
-                        "Paragraph_txt": "<em>Premium Tax Expense</em>…<wbr>…xxx"
+                        "Paragraph_txt": "<br /><em>Premium Tax Expense</em>…<wbr>…xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Premium Taxes Payable</em>…<wbr>…xxx"
+                        "Paragraph_txt": "<br /><em>Premium Taxes Payable</em>…<wbr>…xxx"
                     },
                     {
-                        "Paragraph_txt": "To record incurred premium taxes."
+                        "Paragraph_txt": "<br />To record incurred premium taxes."
                     },
                     {
-                        "Paragraph_txt": "Here, the insurer debits an expense account—<em>Premium Tax Expense</em>—and credits a liability account—<em>Premium Taxes Payable</em>—for the amount of premium taxes incurred. Upon payment of premium taxes, the insurer then makes a second accounting entry, as follows:"
+                        "Paragraph_txt": "<br />Here, the insurer debits an expense account—<em>Premium Tax Expense</em>—and credits a liability account—<em>Premium Taxes Payable</em>—for the amount of premium taxes incurred. Upon payment of premium taxes, the insurer then makes a second accounting entry, as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Premium Taxes Payable</em>…<wbr>….xxx"
+                        "Paragraph_txt": "<br /><em>Premium Taxes Payable</em>…<wbr>….xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>….xxx"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>….xxx"
                     },
                     {
-                        "Paragraph_txt": "To record the payment of premium taxes."
+                        "Paragraph_txt": "<br />To record the payment of premium taxes."
                     }
                 ]
             },
@@ -1198,7 +1199,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A typical control account for incurred commission expenses includes which of the following?",
@@ -1264,14 +1265,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: When a reinsurer pays a commission on new business, the reinsurer pays the commission to the direct writer, rather than to an agent.",
@@ -1339,7 +1340,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: An insurer records premium taxes with two basic sets of accounting entries, one to record taxes incurred and another to record the payment of the tax.",

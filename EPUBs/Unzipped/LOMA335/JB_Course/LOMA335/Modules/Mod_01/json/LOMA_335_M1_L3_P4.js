@@ -212,9 +212,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A box on the left-hand side has the word “Intrinsic Rewards” in it. Underneaththe box is an illustration of a head divided into two types of intrinsicrewards: sense of accomplishment and self-esteem. On the right-hand sideis a box with the word “Extrinsic Rewards” in it. Underneath the box isan illustration of a head with arrows pointing to the following extrinsicrewards located outside of the head: money, praise, employee benefits,and promotions."
-                        ],
+                        "image_w_text_tag": "A box on the left-hand side has the word “Intrinsic Rewards” in it. Underneaththe box is an illustration of a head divided into two types of intrinsicrewards: sense of accomplishment and self-esteem. On the right-hand sideis a box with the word “Extrinsic Rewards” in it. Underneath the box isan illustration of a head with arrows pointing to the following extrinsicrewards located outside of the head: money, praise, employee benefits,and promotions.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -442,7 +440,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Tanique Rowell, a technology manager at EndiFirst, wants to gain his employees’ acceptance for changing the department’s structure. Mr. Rowell worries that without using the right tactics, motivation will suffer over the long term. The best tactics Mr. Rowell could use for influencing employee behavior over the long term are likely [choose all that apply]",
@@ -513,14 +511,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In behavioral theory, the process of discouraging a specific behavior by ignoring it is known as negative reinforcement.",
@@ -588,7 +586,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Self-determination theory (SDT) states that the strength of an individual’s tendency to act in a certain way depends on the individual’s expectation that the act will be followed by a given outcome, and by the attractiveness of that outcome to the individual.",

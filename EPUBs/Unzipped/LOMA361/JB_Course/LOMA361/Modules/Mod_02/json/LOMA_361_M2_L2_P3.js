@@ -263,9 +263,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-5figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th colspan=\"2\"><p>Characteristics of Contra Accounts</p></th></tr><tr><td><p>How does a contra account appear in a company’s records?</p></td><td><p>It typically accompanies a companion account.</p></td></tr><tr><td><p>The companion account is typically what kind of account?</p></td><td><p>An asset account.</p></td></tr><tr><td><p>What is the normal balance of a contra account?</p></td><td><p>The opposite of the normal balance of the companion account.</p><p>For example, if the companion account is an asset account, it has a <em>debit </em>balance,which means the contra account has a <em>credit </em>balance.</p></td></tr><tr><td><p>What effect does a contra account typically have on its companion account?</p></td><td><p>The contra account usually <em>decreases </em>the balance of the companionaccount.</p></td></tr><tr><td><p>Can the amount in a contra account be larger than the amount in the companionaccount?</p></td><td><p>No.</p></td></tr><tr><td><p>What is the purpose of a contra account?</p></td><td><p>To provide additional information on the transactions that occur in thecompanion account.</p></td></tr><tr><td><p>What is a typical example of a contra account?</p></td><td><p class=\"txt-ni\"><em>Accumulated Depreciation </em>is a contra account; its companion assetaccount is <em>Real Estate</em>.</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th colspan=\"2\"><p>Characteristics of Contra Accounts</p></th></tr><tr><td><p>How does a contra account appear in a company’s records?</p></td><td><p>It typically accompanies a companion account.</p></td></tr><tr><td><p>The companion account is typically what kind of account?</p></td><td><p>An asset account.</p></td></tr><tr><td><p>What is the normal balance of a contra account?</p></td><td><p>The opposite of the normal balance of the companion account.</p><p>For example, if the companion account is an asset account, it has a <em>debit </em>balance,which means the contra account has a <em>credit </em>balance.</p></td></tr><tr><td><p>What effect does a contra account typically have on its companion account?</p></td><td><p>The contra account usually <em>decreases </em>the balance of the companionaccount.</p></td></tr><tr><td><p>Can the amount in a contra account be larger than the amount in the companionaccount?</p></td><td><p>No.</p></td></tr><tr><td><p>What is the purpose of a contra account?</p></td><td><p>To provide additional information on the transactions that occur in thecompanion account.</p></td></tr><tr><td><p>What is a typical example of a contra account?</p></td><td><p class=\"txt-ni\"><em>Accumulated Depreciation </em>is a contra account; its companion assetaccount is <em>Real Estate</em>.</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -721,7 +719,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The Sundog Life Insurance Company purchased the XYZ Building for $900,000. Depreciation expense on the XYZ Building is $25,000 per year. Which of the following statements about this situation is correct?",

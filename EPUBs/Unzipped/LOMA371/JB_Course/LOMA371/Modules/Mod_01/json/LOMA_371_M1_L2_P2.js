@@ -765,9 +765,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "2-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Asset risk (C-1) includes:<br /><br />Losses in market values of assets (for reasons other than interest-rate movements)<br /><br />A borrower defaults by failing to make timely payments of interest or principal<br /><br />Pricing risk (C-2) includes:<br /><br />Adverse mortality experiences relative to actuarial assumptions: for life insurance products, higher mortality rates than expected; for annuity products, higher life expectancy rates than expected<br /><br />Increases in administrative costs<br /><br />Interest-rate risk (C-3) includes:<br /><br />Losses in market values of assets, as caused by interest-rate movements<br /><br />A loss on a forced sale of assets, as caused by rising market interest rates<br /><br />An increase in customer withdrawals, as caused by rising market interest rates<br /><br />Losses on bond prepayments and mortgage prepayments, as caused by falling market interest rates<br /><br />Losses due to asset-liability mismatches<br /><br />General management risk (C-4) includes:<br /><br />Losses due to an expansion into new lines of business or geographic expansion<br /><br />Losses due to changes in laws that adversely affected the business<br /><br />Adverse judgments from class-action lawsuits<br /><br />Reputational loss<br /><br />Ratings downgrades<br /><br />Losses caused by mismanagement of any sort"
-                        ],
+                        "image_w_text_tag": "Asset risk (C-1) includes:<br /><br />Losses in market values of assets (for reasons other than interest-rate movements)<br /><br />A borrower defaults by failing to make timely payments of interest or principal<br /><br />Pricing risk (C-2) includes:<br /><br />Adverse mortality experiences relative to actuarial assumptions: for life insurance products, higher mortality rates than expected; for annuity products, higher life expectancy rates than expected<br /><br />Increases in administrative costs<br /><br />Interest-rate risk (C-3) includes:<br /><br />Losses in market values of assets, as caused by interest-rate movements<br /><br />A loss on a forced sale of assets, as caused by rising market interest rates<br /><br />An increase in customer withdrawals, as caused by rising market interest rates<br /><br />Losses on bond prepayments and mortgage prepayments, as caused by falling market interest rates<br /><br />Losses due to asset-liability mismatches<br /><br />General management risk (C-4) includes:<br /><br />Losses due to an expansion into new lines of business or geographic expansion<br /><br />Losses due to changes in laws that adversely affected the business<br /><br />Adverse judgments from class-action lawsuits<br /><br />Reputational loss<br /><br />Ratings downgrades<br /><br />Losses caused by mismanagement of any sort",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -938,7 +936,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1022,7 +1020,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1199,7 +1197,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1268,7 +1266,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1626,7 +1624,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1715,7 +1713,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2179,9 +2177,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "2-2figure.jpg",
-                        "image_w_text_tag": [
-                            "The Model Hazardous Condition Regulation authorizes regulators to require the financially impaired insurer to take corrective actions, such as any of the following:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Use reinsurance to reduce its liabilities and obtain surplus relief</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Limit its new or renewal business</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reduce its general and commission expenses by specified means</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Increase its capital and surplus</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Suspend or limit dividend payments</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Limit or divest investments in specified assets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• File reports stating the value of invested assets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Document the adequacy of its premium rates</span><br /><br />The Model Supervision Act authorizes regulators to require the financially impaired insurer to obtain permission from regulators before it can take any of the following actions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Sell or transfer assets or in-force business or use assets as collateral for loans</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Withdraw funds, lend assets, or invest</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Incur debt</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Accept new initial premiums</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Renew policies that are not guaranteed renewable</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Merge with another company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Enter into a new reinsurance treaty</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Pay specified surrender values to customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Increase the compensation to its officers or directors</span>"
-                        ],
+                        "image_w_text_tag": "The Model Hazardous Condition Regulation authorizes regulators to require the financially impaired insurer to take corrective actions, such as any of the following:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Use reinsurance to reduce its liabilities and obtain surplus relief</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Limit its new or renewal business</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reduce its general and commission expenses by specified means</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Increase its capital and surplus</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Suspend or limit dividend payments</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Limit or divest investments in specified assets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• File reports stating the value of invested assets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Document the adequacy of its premium rates</span><br /><br />The Model Supervision Act authorizes regulators to require the financially impaired insurer to obtain permission from regulators before it can take any of the following actions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Sell or transfer assets or in-force business or use assets as collateral for loans</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Withdraw funds, lend assets, or invest</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Incur debt</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Accept new initial premiums</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Renew policies that are not guaranteed renewable</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Merge with another company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Enter into a new reinsurance treaty</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Pay specified surrender values to customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Increase the compensation to its officers or directors</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -2451,7 +2447,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: An insurer should hold as much contractual reserves as possible to maintain capital adequacy.",
@@ -2512,14 +2508,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The brief document that states that a company’s reserves are adequate for the anticipated cash flows arising from the insurer’s contractual obligations given the assets supporting them is known as the",
@@ -2587,7 +2583,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Under principles-based reserving, life insurers must establish statutory reserves for their products based on prescribed formulas and assumptions.",
@@ -2648,14 +2644,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The legal minimum standard of capital that an insurer must maintain in order to be considered solvent by regulatory authorities is known as",
@@ -2728,7 +2724,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The tool to monitor solvency that determines the minimum capital level of an insurer based on the insurer’s size and risk profile as identified by a specific risk-weighted formula based on contingency risks is known as",
@@ -2799,14 +2795,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A state insurance department is particularly concerned that one insurer’s actual experience with mortality rates, operating expenses, and policyholder behavior will differ significantly from the actuarial assumptions used in the product’s financial design. In this case, the state insurance department is concerned about which of the following contingency risks?",
@@ -2884,7 +2880,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Regulators have determined that an insurer has an RBC ratio of 65%. The mandated step regulators will take is to",
@@ -2955,14 +2951,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "One entity that is important in shaping insurance prudential regulation internationally is the Conference of Sponsoring Organizations of the Treadway Commission (COSO). One true statement about COSO is that",

@@ -167,7 +167,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: One of the steps in estimating the insurer’s cost of future deferred annuity death benefits is applying an appropriate mortality rate to the remaining number of contracts within a given contract year.",

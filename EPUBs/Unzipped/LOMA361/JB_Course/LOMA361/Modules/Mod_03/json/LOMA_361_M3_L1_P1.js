@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Assume that you’re the manager of your company’s IT department. As the responsibility manager of the IT department, you manage your department’s direct costs. Which of the following are direct costs associated with your department? Check all that apply.",
@@ -234,9 +234,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "12-1figure.jpg",
-                        "image_w_text_tag": [
-                            "<strong>Function:</strong> <em>Identifying</em> financial information important to the decision-making process<br /><br /><strong>Example:</strong> Reporting premium income received by product type during an accounting period<br /><br /><strong>Function:</strong> <em>Measuring</em> the numeric value of things or events<br /><br /><strong>Example:</strong> Calculating net income by product type<br /><br /><strong>Function:</strong> <em>Analyzing</em> financial information to determine the characteristics of a particular subject<br /><br /><strong>Example:</strong> Estimating the expected profit margin on a product<br /><br /><strong>Function:</strong> <em>Communicating</em> financial information, management’s decision, and the reasons for that decision<br /><br /><strong>Example:</strong> Distributing periodic reports that compare actual amounts with budgeted amounts"
-                        ],
+                        "image_w_text_tag": "<strong>Function:</strong> <em>Identifying</em> financial information important to the decision-making process<br /><br /><strong>Example:</strong> Reporting premium income received by product type during an accounting period<br /><br /><strong>Function:</strong> <em>Measuring</em> the numeric value of things or events<br /><br /><strong>Example:</strong> Calculating net income by product type<br /><br /><strong>Function:</strong> <em>Analyzing</em> financial information to determine the characteristics of a particular subject<br /><br /><strong>Example:</strong> Estimating the expected profit margin on a product<br /><br /><strong>Function:</strong> <em>Communicating</em> financial information, management’s decision, and the reasons for that decision<br /><br /><strong>Example:</strong> Distributing periodic reports that compare actual amounts with budgeted amounts",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

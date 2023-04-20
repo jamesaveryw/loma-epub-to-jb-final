@@ -132,7 +132,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Stacy Dominick is the chief accounting officer for the EndiFirst Life Insurance Company, and Tom Ward is the claims manager. Do you think Ms. Dominick or Mr. Ward spends more time on the directing function of management?",

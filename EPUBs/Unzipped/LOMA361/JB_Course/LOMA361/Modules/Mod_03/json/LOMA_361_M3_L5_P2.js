@@ -407,9 +407,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Administrative controls guide employees in day-to-day tasks; accounting controls authorize financial transactions, safeguard assets, and ensure reliable financial reporting.<br /><br />Preventive controls are implemented before a transaction to prevent errors or problems from occurring; detective controls are undertaken after a transaction to detect an error or problem after it occurs."
-                        ],
+                        "image_w_text_tag": "Administrative controls guide employees in day-to-day tasks; accounting controls authorize financial transactions, safeguard assets, and ensure reliable financial reporting.<br /><br />Preventive controls are implemented before a transaction to prevent errors or problems from occurring; detective controls are undertaken after a transaction to detect an error or problem after it occurs.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -529,9 +527,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Insurers face a balancing act with preventive controls and detective controls:<br /><br />Preventive controls are usually more effective, but detective controls are usually less expensive."
-                        ],
+                        "image_w_text_tag": "Insurers face a balancing act with preventive controls and detective controls:<br /><br />Preventive controls are usually more effective, but detective controls are usually less expensive.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -898,7 +894,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -961,7 +957,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1038,9 +1034,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Insurers have to balance segregation of duties with employee empowerment:<br /><br />Strict segregation of duties minimizes opportunities for error, dishonesty, and crime; but employee empowerment can improve efficiency and employee satisfaction. On the other hand, employee empowerment requires more frequent internal audits."
-                        ],
+                        "image_w_text_tag": "Insurers have to balance segregation of duties with employee empowerment:<br /><br />Strict segregation of duties minimizes opportunities for error, dishonesty, and crime; but employee empowerment can improve efficiency and employee satisfaction. On the other hand, employee empowerment requires more frequent internal audits.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1182,7 +1176,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1242,7 +1236,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1335,7 +1329,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1395,7 +1389,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1573,9 +1567,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Insurers must balance the need to keep assets secure from theft, damage, or loss with the need for employees to access the assets to do their jobs."
-                        ],
+                        "image_w_text_tag": "Insurers must balance the need to keep assets secure from theft, damage, or loss with the need for employees to access the assets to do their jobs.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1698,9 +1690,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Segregation of duties means that jobs are designed so that incompatible functions are assigned to different individuals.<br /><br />Execution of transactions as authorized means that individuals are authorized to perform transactions of appropriate magnitude and importance.<br /><br />Recording of transactions as executed means that transactions are recorded in the correct accounting period, in the correct accounts, and in the correct amounts.<br /><br />Safeguarding of assets means that the company is protected against loss of items of value.<br /><br />Physical comparison of recorded amounts means that actual assets owned are compared to recorded amounts."
-                        ],
+                        "image_w_text_tag": "Segregation of duties means that jobs are designed so that incompatible functions are assigned to different individuals.<br /><br />Execution of transactions as authorized means that individuals are authorized to perform transactions of appropriate magnitude and importance.<br /><br />Recording of transactions as executed means that transactions are recorded in the correct accounting period, in the correct accounts, and in the correct amounts.<br /><br />Safeguarding of assets means that the company is protected against loss of items of value.<br /><br />Physical comparison of recorded amounts means that actual assets owned are compared to recorded amounts.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1806,7 +1796,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2193,7 +2183,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2210,7 +2200,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following statements about preventive controls and detective controls is correct?",
@@ -2281,14 +2271,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The accounting system at the Sundog Life Insurance Company is designed so that Sundog’s controller must approve invoices for payment, and Sundog’s treasurer must sign the checks that pay the invoices. What principle of effective internal control does this situation illustrate?",

@@ -145,7 +145,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -211,7 +211,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -285,9 +285,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Transactions that affect reserves:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record premium income received from the sale of a new life insuranceproduct, the insurer debits <em>Cash</em> and credits <em>Premium Income</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the purchase of invested assets to generate income and dividends,the insurer debits <em>Invested Assets</em> and credits <em>Cash</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the establishment of reserves for the new life insurance product,the insurer debits <em>Change in Reserves</em> and credits <em>Contractual Reserves</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Claims are incurred and reported against the new block of policies andare approved for payment.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the sale of invested assets to provide cash for the paymentof policy claims, the insurer debits <em>Cash</em> and credits <em>Invested Assets</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record payment of approved policy claims, the insurer debits <em>Death Claims Paid</em> andcredits <em>Cash</em> (for the same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Actuaries provide an updated reserve amount for the product on the valuationdate.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the reserves released following the settlement of a claim, theinsurer debits <em>Contractual Reserves</em> and credits <em>Change in Reserves</em> (forthe same amount).</span>"
-                        ],
+                        "image_w_text_tag": "Transactions that affect reserves:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record premium income received from the sale of a new life insuranceproduct, the insurer debits <em>Cash</em> and credits <em>Premium Income</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the purchase of invested assets to generate income and dividends,the insurer debits <em>Invested Assets</em> and credits <em>Cash</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the establishment of reserves for the new life insurance product,the insurer debits <em>Change in Reserves</em> and credits <em>Contractual Reserves</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Claims are incurred and reported against the new block of policies andare approved for payment.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the sale of invested assets to provide cash for the paymentof policy claims, the insurer debits <em>Cash</em> and credits <em>Invested Assets</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record payment of approved policy claims, the insurer debits <em>Death Claims Paid</em> andcredits <em>Cash</em> (for the same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Actuaries provide an updated reserve amount for the product on the valuationdate.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the reserves released following the settlement of a claim, theinsurer debits <em>Contractual Reserves</em> and credits <em>Change in Reserves</em> (forthe same amount).</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -791,7 +789,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -851,7 +849,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -911,7 +909,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1246,7 +1244,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1444,9 +1442,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-2figure.jpg",
-                        "image_w_text_tag": [
-                            "The reinsurer takes over the reserve for the reinsured business from thedirect writer, so the direct writer is able to take a reserve credit inthe amount of that reserve, effectively reducing the amount of the reservethe direct writer has to hold for that business."
-                        ],
+                        "image_w_text_tag": "The reinsurer takes over the reserve for the reinsured business from thedirect writer, so the direct writer is able to take a reserve credit inthe amount of that reserve, effectively reducing the amount of the reservethe direct writer has to hold for that business.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1509,7 +1505,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Under U.S. GAAP, life insurers are permitted to spread out the impact of first-year expenses on surplus by using an adjustment mechanism known as (<strong>modified reserves </strong>/<strong> deferred acquisition costs, or DAC</strong>).",
@@ -1570,14 +1566,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: A reserve credit is the solvency-basis accounting entry the direct writer uses to record a reduction of reserves due to the use of reinsurance.",

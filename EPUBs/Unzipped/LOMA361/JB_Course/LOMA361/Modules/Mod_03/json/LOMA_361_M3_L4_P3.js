@@ -251,9 +251,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "15-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Top-down budgeting:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Senior management builds budget based on strategic plan and prior year’s activities</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Lower-level management implements and adopts budget</span><br /><br />Bottom-up budgeting:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Lower-level management generates budgets per department with employee input and participation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Senior management receives recommendations for department budgets and assembles a budget based on these recommendations</span>"
-                        ],
+                        "image_w_text_tag": "Top-down budgeting:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Senior management builds budget based on strategic plan and prior year’s activities</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Lower-level management implements and adopts budget</span><br /><br />Bottom-up budgeting:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Lower-level management generates budgets per department with employee input and participation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Senior management receives recommendations for department budgets and assembles a budget based on these recommendations</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -571,7 +569,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "In comparing top-down budgeting and bottom-up budgeting, it is correct to say that (<strong>top-down / bottom-up) </strong>budgeting typically takes more time but often has more grassroots employee support.",
@@ -632,14 +630,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "(<strong>Zero-based </strong>/ <strong>Activity-based</strong>) budgeting is a budgeting process that treats each activity and function as though it were a new project under consideration.",

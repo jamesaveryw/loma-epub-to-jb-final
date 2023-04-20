@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Model Analysis",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -202,7 +172,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -262,7 +232,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -399,7 +369,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers use sensitivity analysis to assess the level of the change in input needed to create a change in the outputs. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Sensitivity analysis</span> is a method of measuring the responsiveness of the outputs produced by a financial model to changes in the values of the model’s input variables."
                     },
                     {
-                        "Paragraph_txt": "Like scenario testing, sensitivity analysis requires multiple scenarios and multiple processing runs. However, whereas scenario testing measures the amount of the change in a dependent variable created by a change in an independent variable, sensitivity analysis measures how much change in the independent variable is necessary to create a change in the dependent variable. In essence, scenario testing asks “What will the outcome of these scenarios be?”, while sensitivity testing asks “What effect does this variable have on another variable?” Sensitivity analysis can also be useful in identifying a range of values for independent variables over which the changes in dependent variables are acceptable."
+                        "Paragraph_txt": "<br />Like scenario testing, sensitivity analysis requires multiple scenarios and multiple processing runs. However, whereas scenario testing measures the amount of the change in a dependent variable created by a change in an independent variable, sensitivity analysis measures how much change in the independent variable is necessary to create a change in the dependent variable. In essence, scenario testing asks “What will the outcome of these scenarios be?”, while sensitivity testing asks “What effect does this variable have on another variable?” Sensitivity analysis can also be useful in identifying a range of values for independent variables over which the changes in dependent variables are acceptable."
                     }
                 ]
             },
@@ -426,7 +396,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -462,7 +432,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Chevalier Life Insurance is considering both scenario testing and sensitivity analysis to analyze potential interest rate risk to the company. When using scenario testing, Chevalier would define and test scenarios to answer questions such as, “How are our assets and liabilities likely to change if the market interest rate remains steady at 2%, falls to 1.5%, or rises to 2.5%?”"
                     },
                     {
-                        "Paragraph_txt": "When using sensitivity analysis, Chevalier would define and test scenarios to answer a question such as, “How much can the market interest rate change before it has a significant effect on company cash flows?”"
+                        "Paragraph_txt": "<br />When using sensitivity analysis, Chevalier would define and test scenarios to answer a question such as, “How much can the market interest rate change before it has a significant effect on company cash flows?”"
                     }
                 ]
             },
@@ -489,7 +459,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -525,7 +495,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurance companies often use sensitivity analysis to identify the sensitivity of the company’s assets and liabilities to changes in market interest rates. Insurers can then use the results of this analysis to construct investment portfolios and to provide input into technical product design. Sensitivity analysis can also be used to measure the interest sensitivity of product cash flows. Analysis of the effects of various interest-rate scenarios on cash flows is known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">interest-sensitive cash-flow testing</span>. Insurers can perform interest-sensitive cash-flow testing on a single product, a block of products, or an entire product line. Insurers often use interest-sensitive cash-flow testing to support various actuarial opinions and memoranda that regulators require."
                     },
                     {
-                        "Paragraph_txt": "In addition to scenario testing and sensitivity analysis, actuaries must further analyze and validate the results of the model to ensure the results are actuarially sound and reasonable. The following insight lists some questions actuaries may ask when validating the results of a financial model."
+                        "Paragraph_txt": "<br />In addition to scenario testing and sensitivity analysis, actuaries must further analyze and validate the results of the model to ensure the results are actuarially sound and reasonable. The following insight lists some questions actuaries may ask when validating the results of a financial model."
                     }
                 ]
             },
@@ -552,7 +522,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -656,7 +626,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -673,7 +643,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: Scenario testing for financial modeling generally involves testing a mix of optimistic, moderate, and pessimistic scenarios with at least one worst-case scenario.",
@@ -734,14 +704,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Sensitivity analysis measures the amount of the change in a dependent variable created by a change in an independent variable.",

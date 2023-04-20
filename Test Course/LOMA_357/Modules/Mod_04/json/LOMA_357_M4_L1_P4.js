@@ -436,7 +436,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -707,7 +707,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -929,7 +929,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "State insurance regulators apply (<strong>lower / higher</strong>) risk capital charges to riskier assets than assets that are less risky. Risk capital charges are one aspect of (<strong>solvency / market conduct</strong>) regulation.",
@@ -1000,14 +1000,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A life insurer operating in the United States is not allowed to report the full value of certain assets on the <em>Assets</em> page of the company’s Annual Statement, which must comply with statutory accounting principles.",
@@ -1210,7 +1210,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1270,7 +1270,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1526,7 +1526,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The Defined (<strong>Limits / Standards</strong>) Version of the Investments of Insurers Model Act, also known as the <em>pigeonhole version</em>, gives insurers specific rules regarding the investment risks they can undertake. The Defined (<strong>Limits / Standards</strong>) Version, also known as the <em>prudent person version</em>, gives insurers more discretion regarding the investment risks they assume.",
@@ -1597,14 +1597,14 @@ Lesson_Data_File([
                         "Question_type": "",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Below are several statements regarding an insurer’s Asset Valuation Reserve (AVR) and Interest Maintenance Reserve (IMR). Match each statement to the correct reserve. For each description, type the correct number choice in the blank.",

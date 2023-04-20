@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Every company has its own approach to classifying costs. For example, the cost of processing a policy can be classified in a number of different ways. What is the most common way of classifying costs?",

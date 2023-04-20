@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Motivation Theories",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -206,12 +176,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.2 Intrinsic and Extrinsic Rewards</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "3-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A box on the left-hand side has the word “Intrinsic Rewards” in it. Underneaththe box is an illustration of a head divided into two types of intrinsicrewards: sense of accomplishment and self-esteem. On the right-hand sideis a box with the word “Extrinsic Rewards” in it. Underneath the box isan illustration of a head with arrows pointing to the following extrinsicrewards located outside of the head: money, praise, employee benefits,and promotions."
-                        ],
+                        "image_w_text_tag": "A box on the left-hand side has the word “Intrinsic Rewards” in it. Underneaththe box is an illustration of a head divided into two types of intrinsicrewards: sense of accomplishment and self-esteem. On the right-hand sideis a box with the word “Extrinsic Rewards” in it. Underneath the box isan illustration of a head with arrows pointing to the following extrinsicrewards located outside of the head: money, praise, employee benefits,and promotions.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -224,7 +225,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.2</strong> Intrinsic and Extrinsic Rewards",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -293,7 +294,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The effects of intrinsic and extrinsic rewards can be seen in <span class=\"keyterm\" tabindex=\"0\" role=\"button\">self-determination theory (SDT)</span>—a motivation theory that proposes that people have three basic psychological needs. First, they have a need for <em>competence</em>—they want to know that they are effective in dealing with their environment. Second, people need <em>relatedness</em>—close, affectionate relationships with others. Finally, people need <em>autonomy—</em>to feel in control of their lives."
                     },
                     {
-                        "Paragraph_txt": "SDT suggests that there are two types of motivation. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Autonomous motivation </span>arises primarily from intrinsic rewards affiliated with needs for competence, relatedness, and autonomy. For example, some employees take on extra responsibilities to learn something new because they enjoy the challenge of gaining a competency or want to form new relationships. When autonomous motivation is involved, a person is highly motivated to engage in an activity. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Controlled motivation </span>primarily involves extrinsic rewards. For example, when employees take on additional tasks because they do not want to lose their jobs or they seek a promotion, controlled motivation is involved. People are rarely motivated by only one type of motivation. <span class=\"ens\" id=\"loma335-ch3-span-45\"> <span class=\"endnote hidden\" data-note=\"loma335-ch3-en6\" epub:type=\"noteref\" id=\"loma335-ch3-span-46\" role=\"doc-noteref\">6</span> </span> "
+                        "Paragraph_txt": "<br />SDT suggests that there are two types of motivation. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Autonomous motivation </span>arises primarily from intrinsic rewards affiliated with needs for competence, relatedness, and autonomy. For example, some employees take on extra responsibilities to learn something new because they enjoy the challenge of gaining a competency or want to form new relationships. When autonomous motivation is involved, a person is highly motivated to engage in an activity. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Controlled motivation </span>primarily involves extrinsic rewards. For example, when employees take on additional tasks because they do not want to lose their jobs or they seek a promotion, controlled motivation is involved. People are rarely motivated by only one type of motivation. <span class=\"ens\" id=\"loma335-ch3-span-45\"> <span class=\"endnote hidden\" data-note=\"loma335-ch3-en6\" epub:type=\"noteref\" id=\"loma335-ch3-span-46\" role=\"doc-noteref\">6</span> </span> "
                     }
                 ]
             },
@@ -416,13 +417,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <em>effort</em> component requires that employees have the skills and knowledge necessary for performance. Leaders provide training and guidance to ensure that employees feel confident in their abilities. Ensuring that employees have the right resources, such as accurate information or efficient computer systems, to do their jobs is also important."
                     },
                     {
-                        "Paragraph_txt": "The <em>performance</em> component requires that employees believe their effort will result in a reward. Clear performance requirements and understandable performance measurements are needed. Employees must trust that the process for assessment is fair and that a good job will result in the promised reward."
+                        "Paragraph_txt": "<br />The <em>performance</em> component requires that employees believe their effort will result in a reward. Clear performance requirements and understandable performance measurements are needed. Employees must trust that the process for assessment is fair and that a good job will result in the promised reward."
                     },
                     {
-                        "Paragraph_txt": "Finally, the <em>reward</em> must be important to the employee. Rewards need to incorporate extrinsic and intrinsic elements when possible to motivate high performance. Pay and benefits—examples of extrinsic rewards—do affect motivation in that people who are not paid adequately feel less motivated to perform at high levels. However, studies show that pay and benefits do not significantly enhance performance once employees achieve a certain minimum level of pay and benefits. For such employees, incorporating elements into a job that promote feelings of competency, relatedness, and autonomy often do enhance employee performance. For example, a company might see performance improve when employees are encouraged to spend an hour each week with coworkers on a special project of their own choosing or provide access to training and education programs that will improve competencies."
+                        "Paragraph_txt": "<br />Finally, the <em>reward</em> must be important to the employee. Rewards need to incorporate extrinsic and intrinsic elements when possible to motivate high performance. Pay and benefits—examples of extrinsic rewards—do affect motivation in that people who are not paid adequately feel less motivated to perform at high levels. However, studies show that pay and benefits do not significantly enhance performance once employees achieve a certain minimum level of pay and benefits. For such employees, incorporating elements into a job that promote feelings of competency, relatedness, and autonomy often do enhance employee performance. For example, a company might see performance improve when employees are encouraged to spend an hour each week with coworkers on a special project of their own choosing or provide access to training and education programs that will improve competencies."
                     },
                     {
-                        "Paragraph_txt": "Note that if any of these three components is lacking, an employee is less motivated to perform."
+                        "Paragraph_txt": "<br />Note that if any of these three components is lacking, an employee is less motivated to perform."
                     }
                 ]
             },
@@ -439,7 +440,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Tanique Rowell, a technology manager at EndiFirst, wants to gain his employees’ acceptance for changing the department’s structure. Mr. Rowell worries that without using the right tactics, motivation will suffer over the long term. The best tactics Mr. Rowell could use for influencing employee behavior over the long term are likely [choose all that apply]",
@@ -510,14 +511,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In behavioral theory, the process of discouraging a specific behavior by ignoring it is known as negative reinforcement.",
@@ -585,7 +586,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Self-determination theory (SDT) states that the strength of an individual’s tendency to act in a certain way depends on the individual’s expectation that the act will be followed by a given outcome, and by the attractiveness of that outcome to the individual.",

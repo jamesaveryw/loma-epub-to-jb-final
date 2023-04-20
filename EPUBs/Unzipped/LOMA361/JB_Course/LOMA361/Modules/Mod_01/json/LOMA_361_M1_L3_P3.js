@@ -251,9 +251,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Predictive quality has five primary characteristics:<br /><br /><strong>Understandable: </strong>People can comprehend the information and use it to make decisions<br /><br /><strong>Relevant: </strong>Useful, timely, and likely to affect decisions<br /><br /><strong>Reliable: </strong>Accurate, objective, free of bias and misrepresentation<br /><br /><strong>Comparable: </strong>Users can compare different companies or the same company over time<br /><br /><strong>Consistent: </strong>Accounting approach is the same over time<br /><br />Two secondary characteristics also contribute to predictive quality:<br /><br /><strong>Material: </strong>Contains all significant information<br /><br /><strong>Cost effective: </strong>Cost to report information is reasonable for its importance"
-                        ],
+                        "image_w_text_tag": "Predictive quality has five primary characteristics:<br /><br /><strong>Understandable: </strong>People can comprehend the information and use it to make decisions<br /><br /><strong>Relevant: </strong>Useful, timely, and likely to affect decisions<br /><br /><strong>Reliable: </strong>Accurate, objective, free of bias and misrepresentation<br /><br /><strong>Comparable: </strong>Users can compare different companies or the same company over time<br /><br /><strong>Consistent: </strong>Accounting approach is the same over time<br /><br />Two secondary characteristics also contribute to predictive quality:<br /><br /><strong>Material: </strong>Contains all significant information<br /><br /><strong>Cost effective: </strong>Cost to report information is reasonable for its importance",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -445,9 +443,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Flow chart.<br /><br />1: Is the information relevant?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No: Don’t report</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes: (go to 2)</span><br /><br />2: Is the information reliable?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes: Report in financial statements</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No: Report in notes to financial statements</span>"
-                        ],
+                        "image_w_text_tag": "Flow chart.<br /><br />1: Is the information relevant?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No: Don’t report</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes: (go to 2)</span><br /><br />2: Is the information reliable?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes: Report in financial statements</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No: Report in notes to financial statements</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -553,7 +549,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -613,7 +609,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -673,7 +669,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -733,7 +729,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -887,7 +883,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -947,7 +943,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1013,7 +1009,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1073,7 +1069,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1277,9 +1273,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-4figure.jpg",
-                        "image_w_text_tag": [
-                            "On the Revenues timeline, which runs from “when promised” to “when certain,” conservatism records “when certain.”<br /><br />On the Expenses timeline, which runs from “when incurred” to “when paid,” conservatism records “when paid.”<br /><br />On the Gains timeline, which runs from “when projected” to “when they actually occur,” conservatism records “when they actually occur.”<br /><br />On the Losses timeline, which runs from “immediately” to “when incurred,” conservatism records “immediately.”"
-                        ],
+                        "image_w_text_tag": "On the Revenues timeline, which runs from “when promised” to “when certain,” conservatism records “when certain.”<br /><br />On the Expenses timeline, which runs from “when incurred” to “when paid,” conservatism records “when paid.”<br /><br />On the Gains timeline, which runs from “when projected” to “when they actually occur,” conservatism records “when they actually occur.”<br /><br />On the Losses timeline, which runs from “immediately” to “when incurred,” conservatism records “immediately.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1450,7 +1444,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1513,7 +1507,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1629,7 +1623,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "An important qualitative characteristic under GAAP is the concept of relevance. When do we say that accounting information has relevance?",
@@ -1695,14 +1689,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Both GAAP and SAP require a company to apply the same accounting policies and procedures to the accounting information in its financial statements from one accounting period to the next, unless there is a sound reason for changing a specified policy or procedure. Which qualitative characteristic does this requirement describe?",
@@ -1780,7 +1774,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Conservative accounting methods help ensure a company has the resources to protect policyowners and beneficiaries from adverse financial conditions. Which of the following is <em>not</em> a common practice of reporting information in a conservative manner?",

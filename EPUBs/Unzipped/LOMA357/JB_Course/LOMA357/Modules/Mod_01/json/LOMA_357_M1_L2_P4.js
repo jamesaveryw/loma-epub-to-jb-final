@@ -207,7 +207,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -267,7 +267,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -507,9 +507,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "2-1figure.jpg",
-                        "image_w_text_tag": [
-                            "There are four vaults. The senior secured vault contains money, whichrepresents collateral. The vault has a claim ticket labeled “high priority.”<br /><br />The senior unsecured vault does not contain money and signifies a bondwhich is not backed by collateral. The vault has a claim ticket labeled“high priority.”<br /><br />The subordinated secured vault contains money, which represents collateral.The vault has a claim ticket labeled “low priority.”<br /><br />The subordinated unsecured vault does not contain money and signifiesa bond which is not backed by collateral. The vault has a claim ticketlabeled “low priority.”"
-                        ],
+                        "image_w_text_tag": "There are four vaults. The senior secured vault contains money, whichrepresents collateral. The vault has a claim ticket labeled “high priority.”<br /><br />The senior unsecured vault does not contain money and signifies a bondwhich is not backed by collateral. The vault has a claim ticket labeled“high priority.”<br /><br />The subordinated secured vault contains money, which represents collateral.The vault has a claim ticket labeled “low priority.”<br /><br />The subordinated unsecured vault does not contain money and signifiesa bond which is not backed by collateral. The vault has a claim ticketlabeled “low priority.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1082,7 +1080,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Assume a bond with a par value of $100,000 and a fixed coupon rate of 4% is owned by one bondholder. How much is the bond issuer’s annual interest payment to the bondholder?",
@@ -1153,14 +1151,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "For a bond, a restrictive covenant restricts the bond issuer from taking certain actions that would be harmful to the bondholder.",
@@ -1228,7 +1226,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Investment-grade bonds pose <strong>(higher / lower)</strong> levels of risk to bondholders, while high-yield bonds pose <strong>(higher / lower)</strong> levels of risk.",

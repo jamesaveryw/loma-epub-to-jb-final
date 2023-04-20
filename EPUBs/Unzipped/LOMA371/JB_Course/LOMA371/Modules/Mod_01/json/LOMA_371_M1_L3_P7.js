@@ -311,9 +311,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Image of a risk map, which appears as a five-by-five grid. The columns represent the likelihood of risk, running from very low to very high. The rows represent the severity of risk, running from very low to very high. The grid contains colors based on the intersection of likelihood and severity. Where both likelihood and severity are both low, the risk color is green; where both likelihood and severity are high, the risk color is orange or red. Where both factors are medium, or where a low factor meets a high factor, the risk color is yellow."
-                        ],
+                        "image_w_text_tag": "Image of a risk map, which appears as a five-by-five grid. The columns represent the likelihood of risk, running from very low to very high. The rows represent the severity of risk, running from very low to very high. The grid contains colors based on the intersection of likelihood and severity. Where both likelihood and severity are both low, the risk color is green; where both likelihood and severity are high, the risk color is orange or red. Where both factors are medium, or where a low factor meets a high factor, the risk color is yellow.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -442,7 +440,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Courser Life Insurance tracks risk exposures and management activity using metrics that indicate the level of operational risk exposures at a given point of time in order to help the company forecast future occurrences and take timely action. This type of tool is a",

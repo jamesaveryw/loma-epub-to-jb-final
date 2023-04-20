@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-3figure.jpg",
-                        "image_w_text_tag": [
-                            "<strong><em>Investment expenses</em> </strong> are the costs associatedwith investing the insurer’s assets.<br /><br /><strong><em>General and administrative expenses</em> </strong> are thecosts incurred as a result of undertaking normal business activities togenerate sales and to support products. General and administrative expensesinclude contractual benefit expenses and operating expenses.<br /><br /><strong><em>Contractual benefit expenses</em> </strong> are the costs ofpaying contractual obligations to policyowners and beneficiaries.<br /><br /><strong><em>Operating expenses</em> </strong> are the costs of businessoperations other than contractual benefit expenses. Operating expensesinclude acquisition expenses, maintenance expenses, development expenses,and overhead expenses.<br /><br /><strong><em>Acquisition expenses</em> </strong> are the costs for optainingand issuing new business. Examples of acquisition expenses include first-yearagent commissions, contract issue expenses, advertising expenses, and underwritingexpenses.<br /><br /><strong><em>Maintenance expenses</em> </strong> are product-related coststhat are incurred on in-force policies and contracts. Examples of maintenanceexpenses include renewal commissions, some agency or branch office expenses,and customer service operating expenses.<br /><br /><strong><em>Development expenses</em> </strong> are costs related to designing,testing, and implementing a new product. Examples of development expensesinclude new administrative software expenses and new business license fees.<br /><br /><strong><em>Overhead expenses</em> </strong> are the costs of normal businessoperations that are not directly connected with any product. Examples ofoverhead expenses include utility expenses, some agency or branch officeexpenses, and some information systems expenses."
-                        ],
+                        "image_w_text_tag": "<strong><em>Investment expenses</em> </strong> are the costs associatedwith investing the insurer’s assets.<br /><br /><strong><em>General and administrative expenses</em> </strong> are thecosts incurred as a result of undertaking normal business activities togenerate sales and to support products. General and administrative expensesinclude contractual benefit expenses and operating expenses.<br /><br /><strong><em>Contractual benefit expenses</em> </strong> are the costs ofpaying contractual obligations to policyowners and beneficiaries.<br /><br /><strong><em>Operating expenses</em> </strong> are the costs of businessoperations other than contractual benefit expenses. Operating expensesinclude acquisition expenses, maintenance expenses, development expenses,and overhead expenses.<br /><br /><strong><em>Acquisition expenses</em> </strong> are the costs for optainingand issuing new business. Examples of acquisition expenses include first-yearagent commissions, contract issue expenses, advertising expenses, and underwritingexpenses.<br /><br /><strong><em>Maintenance expenses</em> </strong> are product-related coststhat are incurred on in-force policies and contracts. Examples of maintenanceexpenses include renewal commissions, some agency or branch office expenses,and customer service operating expenses.<br /><br /><strong><em>Development expenses</em> </strong> are costs related to designing,testing, and implementing a new product. Examples of development expensesinclude new administrative software expenses and new business license fees.<br /><br /><strong><em>Overhead expenses</em> </strong> are the costs of normal businessoperations that are not directly connected with any product. Examples ofoverhead expenses include utility expenses, some agency or branch officeexpenses, and some information systems expenses.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -284,7 +282,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Contractual benefit expenses are an example of an insurer’s (<strong>investment expenses </strong>/ <strong>general and administrative expenses</strong>).",
@@ -345,14 +343,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "An insurer starts an advertising campaign to promote a new product. How would the insurer classify the expenses associated with the advertising campaign?",
@@ -653,7 +651,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -737,7 +735,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -833,7 +831,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -938,7 +936,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1034,7 +1032,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1121,7 +1119,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1201,7 +1199,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A typical control account for incurred commission expenses includes which of the following?",
@@ -1267,14 +1265,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: When a reinsurer pays a commission on new business, the reinsurer pays the commission to the direct writer, rather than to an agent.",
@@ -1342,7 +1340,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: An insurer records premium taxes with two basic sets of accounting entries, one to record taxes incurred and another to record the payment of the tax.",

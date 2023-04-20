@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "The Value Chain",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -147,12 +117,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.3 Porter’s Model and Insurance</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "1-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A picture of an arrow with three sections provides a simplified valuechain model for an insurance company’s operations. From top to bottom,the top section of the arrow is resource inputs. Middle section is transformativeprocesses. Bottom section of the arrow is outputs. Each section providesseveral bulleted examples.<br /><br /><strong>First section: Resource Inputs</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Owner investments</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Customer revenues</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Employee labor and expertise</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Data</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Technology</span><br /><br /><strong>Middle section: Transformative Processes</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Underwriting</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Claims processing</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Customer experience</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment management</span><br /><br /><strong>Last section: Outputs</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Satisfied customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Satisfied employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Goodwill</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Profits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment growth</span>"
-                        ],
+                        "image_w_text_tag": "A picture of an arrow with three sections provides a simplified valuechain model for an insurance company’s operations. From top to bottom,the top section of the arrow is resource inputs. Middle section is transformativeprocesses. Bottom section of the arrow is outputs. Each section providesseveral bulleted examples.<br /><br /><strong>First section: Resource Inputs</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Owner investments</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Customer revenues</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Employee labor and expertise</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Data</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Technology</span><br /><br /><strong>Middle section: Transformative Processes</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Underwriting</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Claims processing</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Customer experience</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment management</span><br /><br /><strong>Last section: Outputs</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Satisfied customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Satisfied employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Goodwill</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Profits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment growth</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -165,7 +166,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.3</strong> Porter’s Model and Insurance",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -236,12 +237,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.4 Value Chain for Claims Processing</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "1-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A picture of an arrow with three sections provides a simplified valuechain model for insurance claims operations. From top to bottom, the topsection of the arrow is resource inputs. Middle section is transformativeprocesses. Bottom section of the arrow is outputs. Each section providesseveral bulleted examples.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Resource Inputs</strong></p><ul><li><p>Employee labor</p></li><li><p>Data</p></li><li><p>Technology</p></li></ul></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Transformative Processes</strong></p><ul><li><p>Verify claims payable</p></li><li><p>Build customer satisfaction</p></li><li><p>Verify benefit amounts</p></li><li><p>Pay benefits to correct parties</p></li></ul></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Outputs</strong></p><ul><li><p>Benefit payments</p></li></ul></span>"
-                        ],
+                        "image_w_text_tag": "A picture of an arrow with three sections provides a simplified valuechain model for insurance claims operations. From top to bottom, the topsection of the arrow is resource inputs. Middle section is transformativeprocesses. Bottom section of the arrow is outputs. Each section providesseveral bulleted examples.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Resource Inputs</strong></p><ul><li><p>Employee labor</p></li><li><p>Data</p></li><li><p>Technology</p></li></ul></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Transformative Processes</strong></p><ul><li><p>Verify claims payable</p></li><li><p>Build customer satisfaction</p></li><li><p>Verify benefit amounts</p></li><li><p>Pay benefits to correct parties</p></li></ul></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Outputs</strong></p><ul><li><p>Benefit payments</p></li></ul></span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -254,7 +286,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.4</strong> Value Chain for Claims Processing",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -323,7 +355,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A value chain allows a company to analyze each link in the chain and determine which processes or activities are adding value to a customer and which processes might be improved or eliminated. As resources pass through each link in the value chain, the resources accrue <em>added value</em> from the transformative processes the company applies to the resources. Value chain activities are those that a company considers as directly impacting customers. Note that companies vary in which functions they classify as value-adding."
                     },
                     {
-                        "Paragraph_txt": "The more value a company creates, the more profitable the company is likely to be. Analyzing a value chain allows management to look for links between activities and functions and to design ways to improve efficiency and customer value. A value chain is also helpful for analyzing the interrelationships between company functions. For example, insurance companies know that there is a direct link between the quality of customer service and sales and distribution. An investment in technology that personalizes customer service activities in ways that please customers will likely result in increased or retained business and add value to the company."
+                        "Paragraph_txt": "<br />The more value a company creates, the more profitable the company is likely to be. Analyzing a value chain allows management to look for links between activities and functions and to design ways to improve efficiency and customer value. A value chain is also helpful for analyzing the interrelationships between company functions. For example, insurance companies know that there is a direct link between the quality of customer service and sales and distribution. An investment in technology that personalizes customer service activities in ways that please customers will likely result in increased or retained business and add value to the company."
                     }
                 ]
             },
@@ -340,7 +372,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "According to Porter’s value chain model, monetary investments from insurance company owners and revenues from insurance customers would be classified as",
@@ -406,14 +438,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "An operational area that an insurer would likely consider a value-adding function is",

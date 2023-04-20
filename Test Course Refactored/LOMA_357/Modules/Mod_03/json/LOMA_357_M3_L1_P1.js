@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Chapter 7 covers constructing the portfolio. Steps include determiningthe portfolio’s objectives and constraints; identifying, analyzing, andselecting the appropriate asset classes; setting the strategic asset allocation;developing a blended benchmark as a performance standard; and analyzing,selecting, and purchasing initial investments within each asset class.<br /><br />Chapter 8 covers managing the portfolio. Steps include implementing portfoliomanagement strategies, analyzing the market environment for tactical opportunities,executing portfolio transactions, and maintaining operational controls.<br /><br />Chapter 9 covers monitoring and evaluating the portfolio. Steps includemonitoring portfolio strategies and compliance, generating performancereports, evaluating portfolio performance, and identifying and implementingstrategic adjustments."
-                        ],
+                        "image_w_text_tag": "Chapter 7 covers constructing the portfolio. Steps include determiningthe portfolio’s objectives and constraints; identifying, analyzing, andselecting the appropriate asset classes; setting the strategic asset allocation;developing a blended benchmark as a performance standard; and analyzing,selecting, and purchasing initial investments within each asset class.<br /><br />Chapter 8 covers managing the portfolio. Steps include implementing portfoliomanagement strategies, analyzing the market environment for tactical opportunities,executing portfolio transactions, and maintaining operational controls.<br /><br />Chapter 9 covers monitoring and evaluating the portfolio. Steps includemonitoring portfolio strategies and compliance, generating performancereports, evaluating portfolio performance, and identifying and implementingstrategic adjustments.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -254,7 +252,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Investment professionals conduct asset class correlation analysis to assess the potential diversification benefits from including various asset-class pairings in a given portfolio.",

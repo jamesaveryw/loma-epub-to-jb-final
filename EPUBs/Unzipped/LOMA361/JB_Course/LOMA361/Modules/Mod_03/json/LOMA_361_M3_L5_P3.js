@@ -428,9 +428,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-6figure.jpg",
-                        "image_w_text_tag": [
-                            "<span style=\"text-indent:-1em;margin-left:1em;\"• Selection: Choose area to be audited.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Function: Identify job duties of all employees in the area and learn the nature of the area’s work.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Process: Obtain description of the area’s system. Identify the flow of steps associated with each task.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Controls: Verify the authorization level and the segregation of duties.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Verification: Confirm audit trail of sample transaction and investigate any discrepancies.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Evaluation: Propose recommendations that arise from audit findings.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Communication: Convey audit results to appropriate management level.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Closing the Control Loop: Follow up on audit findings and recommendations.</span>"
-                        ],
+                        "image_w_text_tag": "<span style=\"text-indent:-1em;margin-left:1em;\"• Selection: Choose area to be audited.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Function: Identify job duties of all employees in the area and learn the nature of the area’s work.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Process: Obtain description of the area’s system. Identify the flow of steps associated with each task.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Controls: Verify the authorization level and the segregation of duties.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Verification: Confirm audit trail of sample transaction and investigate any discrepancies.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Evaluation: Propose recommendations that arise from audit findings.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Communication: Convey audit results to appropriate management level.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Closing the Control Loop: Follow up on audit findings and recommendations.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -556,9 +554,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-7figure.jpg",
-                        "image_w_text_tag": [
-                            "<span style=\"text-indent:-1em;margin-left:1em;\"• Schedule the external audit.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Learn the insurer’s internal control methods and the laws and regulations affecting its financial reporting requirements.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Review the documents provided by the insurer’s internal auditors.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Gather evidence through sampling, observations, calculations, and physical inspection.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Test the audit trail of selected financial transactions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Issue the auditor’s report.</span>"
-                        ],
+                        "image_w_text_tag": "<span style=\"text-indent:-1em;margin-left:1em;\"• Schedule the external audit.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Learn the insurer’s internal control methods and the laws and regulations affecting its financial reporting requirements.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Review the documents provided by the insurer’s internal auditors.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Gather evidence through sampling, observations, calculations, and physical inspection.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Test the audit trail of selected financial transactions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Issue the auditor’s report.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -667,7 +663,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -815,7 +811,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -954,9 +950,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-8figure.jpg",
-                        "image_w_text_tag": [
-                            "An internal audit is performed by company employees for the company’s benefit and improvement.<br /><br />An external audit is performed by external auditors, primarily for external stakeholders.<br /><br />A financial audit examines company accounting records, policies, and procedures.<br /><br />A compliance audit verifies adherence to financial and/or marketing laws and regulations.<br /><br />A performance audit evaluates progress towards company objectives."
-                        ],
+                        "image_w_text_tag": "An internal audit is performed by company employees for the company’s benefit and improvement.<br /><br />An external audit is performed by external auditors, primarily for external stakeholders.<br /><br />A financial audit examines company accounting records, policies, and procedures.<br /><br />A compliance audit verifies adherence to financial and/or marketing laws and regulations.<br /><br />A performance audit evaluates progress towards company objectives.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1019,7 +1013,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following statements about internal and external audits is <em>false</em>?",
@@ -1090,14 +1084,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In the United States, the type of auditor’s opinion that insurance companies prefer is a qualified opinion.",
@@ -1165,7 +1159,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Performance audits require more subjective judgment than financial audits or compliance audits.",

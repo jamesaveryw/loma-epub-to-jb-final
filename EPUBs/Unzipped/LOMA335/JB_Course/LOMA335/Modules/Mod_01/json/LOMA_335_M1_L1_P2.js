@@ -129,7 +129,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The stakeholders in an insurance company include",
@@ -269,9 +269,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The question “What do stakeholders want?” is located in a circle withfive boxes going around the circle. Each box identifies a primary insurancecompany stakeholder and its wants as follows:<br /><br /><strong>Box 1. Customers want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reputable company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial stability</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsive to insurance needs</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Affordable, competitive products</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prompt service and payments</span><br /><br /><strong>Box 2. Governments want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Regulatory compliance with solvency and market conduct rules and regulations.</span><br /><br /><strong>Box 3. Employees want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Engaging work</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Opportunities for growth</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial and nonfinancial rewards</span><br /><br /><strong>Box 4. Owners want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reputable company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Predictable, positive investments returns</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Long-term growth and profitability</span><br /><br /><strong>Box 5. Suppliers, Vendors, and Partners want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Trustworthy and dependable business partners</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Long-term relationships</span>"
-                        ],
+                        "image_w_text_tag": "The question “What do stakeholders want?” is located in a circle withfive boxes going around the circle. Each box identifies a primary insurancecompany stakeholder and its wants as follows:<br /><br /><strong>Box 1. Customers want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reputable company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial stability</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsive to insurance needs</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Affordable, competitive products</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prompt service and payments</span><br /><br /><strong>Box 2. Governments want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Regulatory compliance with solvency and market conduct rules and regulations.</span><br /><br /><strong>Box 3. Employees want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Engaging work</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Opportunities for growth</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial and nonfinancial rewards</span><br /><br /><strong>Box 4. Owners want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reputable company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Predictable, positive investments returns</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Long-term growth and profitability</span><br /><br /><strong>Box 5. Suppliers, Vendors, and Partners want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Trustworthy and dependable business partners</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Long-term relationships</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -427,9 +425,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "../../imgs/loma_335_chapter-1_f.png",
-                        "image_w_text_tag": [
-                            "A drawing of a column illustrates how certain insurance company operationssupport other company operations. A list of primary insurance company operationssits on top of the column and a list of insurance company support operationsare located on the column.<br /><br /><strong>Primary operations</strong> on the top of the column are: (1) productdevelopment &amp; implementation, (2) sales &amp; distribution, (3) underwriting,(4) policy issue &amp; new business, (5) policy administration, (6) customerservice, (7) customer retention, and (8) claims.<br /><br /><strong>Support operations</strong> located on the column are: (1) marketingresearch, (2) information technology, (3) human resources, (4) accounting/auditing,(4) internal control, (5) other general administration."
-                        ],
+                        "image_w_text_tag": "A drawing of a column illustrates how certain insurance company operationssupport other company operations. A list of primary insurance company operationssits on top of the column and a list of insurance company support operationsare located on the column.<br /><br /><strong>Primary operations</strong> on the top of the column are: (1) productdevelopment &amp; implementation, (2) sales &amp; distribution, (3) underwriting,(4) policy issue &amp; new business, (5) policy administration, (6) customerservice, (7) customer retention, and (8) claims.<br /><br /><strong>Support operations</strong> located on the column are: (1) marketingresearch, (2) information technology, (3) human resources, (4) accounting/auditing,(4) internal control, (5) other general administration.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -535,7 +531,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -628,7 +624,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -848,7 +844,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -941,7 +937,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1057,7 +1053,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1150,7 +1146,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1266,7 +1262,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1356,7 +1352,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1409,7 +1405,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A company’s stakeholders can be external or internal to the organization.",
@@ -1470,14 +1466,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A company’s decision to do nothing still involves an opportunity cost.",
@@ -1545,7 +1541,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Quality, timeliness, and cost control, the primary tenets of general operations management, do not apply in insurance operations management.",
@@ -1606,14 +1602,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Knowledge workers primarily engage in transactional work.",

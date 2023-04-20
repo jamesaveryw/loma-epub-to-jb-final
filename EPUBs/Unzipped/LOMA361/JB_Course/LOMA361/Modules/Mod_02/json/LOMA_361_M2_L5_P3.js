@@ -234,9 +234,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-1figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p>U.S. GAAP</p></th><th><p>U.S. SAP</p></th></tr><tr><td><p><em>Additional Paid-In Capital</em></p></td><td><p><em>Gross Paid-In and Contributed Surplus</em></p></td></tr><tr><td><p><em>Retained Earnings</em></p></td><td><p><em>Special Surplus </em>or <em>Unassigned Surplus</em></p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p>U.S. GAAP</p></th><th><p>U.S. SAP</p></th></tr><tr><td><p><em>Additional Paid-In Capital</em></p></td><td><p><em>Gross Paid-In and Contributed Surplus</em></p></td></tr><tr><td><p><em>Retained Earnings</em></p></td><td><p><em>Special Surplus </em>or <em>Unassigned Surplus</em></p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -299,7 +297,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: An insurer can use a special surplus fund to satisfy a contingency that has since exhausted the unassigned surplus fund the insurer originally established for that contingency or to pay operating expenses when a company experiences a net loss during a year.",

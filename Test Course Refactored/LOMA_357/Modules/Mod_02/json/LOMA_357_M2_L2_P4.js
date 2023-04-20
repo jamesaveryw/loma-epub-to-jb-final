@@ -218,9 +218,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The pie chart represents general account assets. There are four slicesof varying sizes. The slices are labeled the individual whole life segment,individual term life segment, fixed annuity segment, and group life segment."
-                        ],
+                        "image_w_text_tag": "The pie chart represents general account assets. There are four slicesof varying sizes. The slices are labeled the individual whole life segment,individual term life segment, fixed annuity segment, and group life segment.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -469,7 +467,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -659,7 +657,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1014,9 +1012,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-2figure.jpg",
-                        "image_w_text_tag": [
-                            "The model has three actual portfolios: the assets portfolio, liabilitiesportfolio, and capital portfolio.<br /><br />The model has four strategic benchmarks: the assets benchmark, liabilitiesbenchmark, asset/liability benchmark, and capital benchmark.<br /><br />An arrow from the assets portfolio to the assets benchmark indicates thatthe performance of the assets portfolio is compared to the assets benchmark.There are also arrows from the liabilities portfolio to the liabilitiesbenchmark and from the capital portfolio to the capital benchmark.<br /><br />In addition, there are arrows from the assets benchmark and liabilitiesbenchmark to the asset/liability benchmark. The arrows indicate that theasset/liability benchmark is an integrated benchmark."
-                        ],
+                        "image_w_text_tag": "The model has three actual portfolios: the assets portfolio, liabilitiesportfolio, and capital portfolio.<br /><br />The model has four strategic benchmarks: the assets benchmark, liabilitiesbenchmark, asset/liability benchmark, and capital benchmark.<br /><br />An arrow from the assets portfolio to the assets benchmark indicates thatthe performance of the assets portfolio is compared to the assets benchmark.There are also arrows from the liabilities portfolio to the liabilitiesbenchmark and from the capital portfolio to the capital benchmark.<br /><br />In addition, there are arrows from the assets benchmark and liabilitiesbenchmark to the asset/liability benchmark. The arrows indicate that theasset/liability benchmark is an integrated benchmark.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1347,9 +1343,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-3figure.jpg",
-                        "image_w_text_tag": [
-                            "There are three main steps for creating a replicating portfolio. Stepone is to identify assets that exhibit the risk and return characteristicsof the pool of liabilities.<br /><br />Step two is to select market indexes that display the relevant characteristicsof the selected asset classes.<br /><br />Step three is to assemble the market indexes in suitable proportions toform a virtual portfolio."
-                        ],
+                        "image_w_text_tag": "There are three main steps for creating a replicating portfolio. Stepone is to identify assets that exhibit the risk and return characteristicsof the pool of liabilities.<br /><br />Step two is to select market indexes that display the relevant characteristicsof the selected asset classes.<br /><br />Step three is to assemble the market indexes in suitable proportions toform a virtual portfolio.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1457,7 +1451,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Because of segmentation, some general account assets are not available to support certain general account liabilities.",
@@ -1518,14 +1512,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which investment income allocation method assigns investment income to each of an insurer’s product lines in proportion to the reserves attributed to that product line?",
@@ -1593,7 +1587,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "How does an insurance company use a replicating portfolio in its integrated portfolio benchmarking model?",

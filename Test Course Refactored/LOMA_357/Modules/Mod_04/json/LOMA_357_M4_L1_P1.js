@@ -132,7 +132,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "In many jurisdictions, regulators seek to ensure that participants in the financial services industry conduct business fairly and ethically. Which type of industry regulation is primarily concerned with limiting the sharing of customers’ nonpublic personal information?",

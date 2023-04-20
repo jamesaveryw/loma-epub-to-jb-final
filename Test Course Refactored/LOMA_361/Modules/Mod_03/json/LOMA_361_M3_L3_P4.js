@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Cost-Volume-Profit Analysis",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Three critical factors in making business decisions are cost, volume, and profit. Management accounting evaluates the way each factor influences the others—in particular, how cost and volume affect profit. If volume increases, to what extent do costs and profits increase, and which increases more quickly? If profits are down, is it a result of growing costs or insufficient volume? To answer these questions—and many more—managers turn to cost-volume-profit analysis. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Cost-volume-profit (CVP) analysis</span>, sometimes called <em>breakeven analysis</em> or <em>profit-volume analysis</em>, is a type of cost analysis used to determine how changes in product prices, sales volume, fixed costs, variable costs, and the type of products a company offers affect its profit. CVP analysis uses both unit costs and costs that are classified by behavior—fixed costs, variable costs, and semi-variable costs."
                     },
                     {
-                        "Paragraph_txt": "CVP analysis offers many applications for management accounting. A company’s managers use CVP analysis to test scenarios using different cost, volume, and price assumptions for each product. With CVP analysis, managers can find the most profitable combination of variables to maximize the performance of their products, product lines, and organizations."
+                        "Paragraph_txt": "<br />CVP analysis offers many applications for management accounting. A company’s managers use CVP analysis to test scenarios using different cost, volume, and price assumptions for each product. With CVP analysis, managers can find the most profitable combination of variables to maximize the performance of their products, product lines, and organizations."
                     },
                     {
-                        "Paragraph_txt": "CVP analysis also has certain limitations, especially in the life insurance industry. The most significant limitation from an insurer’s perspective is that life insurance products turn a profit over time, as opposed to at the moment of sale. Further variables, such as mortality, also affect life insurance products. These variables can affect profits even when costs and volume remain constant. For these reasons, insurers tend to use CVP analysis for general business purposes, such as analyzing profitability on a divisional or company level."
+                        "Paragraph_txt": "<br />CVP analysis also has certain limitations, especially in the life insurance industry. The most significant limitation from an insurer’s perspective is that life insurance products turn a profit over time, as opposed to at the moment of sale. Further variables, such as mortality, also affect life insurance products. These variables can affect profits even when costs and volume remain constant. For these reasons, insurers tend to use CVP analysis for general business purposes, such as analyzing profitability on a divisional or company level."
                     }
                 ]
             },
@@ -208,7 +178,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -282,7 +252,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -318,7 +288,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "To calculate a product’s contribution margin, an insurer must separate the product’s fixed costs—such as rent, utilities, and some employee salaries—from its variable costs, such as agent commissions and operating expenses. Contribution margins tell us how much revenue is available to (1) cover fixed costs and (2) contribute to net income or profit. Note that a product can have a net loss if its costs exceed its revenues."
                     },
                     {
-                        "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">unit contribution margin</span> is the difference between the selling price of one unit of product and the variable costs for one unit of product."
+                        "Paragraph_txt": "<br />The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">unit contribution margin</span> is the difference between the selling price of one unit of product and the variable costs for one unit of product."
                     }
                 ]
             },
@@ -345,7 +315,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -419,7 +389,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -479,7 +449,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -539,7 +509,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -599,7 +569,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -740,7 +710,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -767,7 +737,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1034,7 +1004,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1094,7 +1064,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1220,16 +1190,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "The larger the contribution margin, the greater the net gain will be from an increase in sales."
                     },
                     {
-                        "Paragraph_txt": "To further narrow down which activities are contributing the most to net gain, a company can also calculate a segment margin for various segments of each profit center. In this context, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">segment</span> is a product, line of business, or responsibility center. Examples of segments might include a specific annuity product, the group life insurance line of business, or the underwriting responsibility center. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">segment margin</span> is the amount that remains after the segment’s variable costs and direct fixed costs are subtracted from the revenues generated by the segment. In other words, a segment margin is the portion of the contribution margin that remains after a segment has covered its direct fixed costs. The formal calculation can be written as follows:"
+                        "Paragraph_txt": "<br />To further narrow down which activities are contributing the most to net gain, a company can also calculate a segment margin for various segments of each profit center. In this context, a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">segment</span> is a product, line of business, or responsibility center. Examples of segments might include a specific annuity product, the group life insurance line of business, or the underwriting responsibility center. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">segment margin</span> is the amount that remains after the segment’s variable costs and direct fixed costs are subtracted from the revenues generated by the segment. In other words, a segment margin is the portion of the contribution margin that remains after a segment has covered its direct fixed costs. The formal calculation can be written as follows:"
                     },
                     {
-                        "Paragraph_txt": "<strong>Segment margin = Contribution margin – Direct fixed costs</strong>"
+                        "Paragraph_txt": "<br /><strong>Segment margin = Contribution margin – Direct fixed costs</strong>"
                     },
                     {
-                        "Paragraph_txt": "A segment margin indicates the segment’s profitability. A positive segment margin indicates profitability, and a negative segment margin indicates that a segment cannot recover its own costs. A company may maintain negative segment margins under certain circumstances, such as when a segment contributes to the company’s bottom line by covering shared indirect costs."
+                        "Paragraph_txt": "<br />A segment margin indicates the segment’s profitability. A positive segment margin indicates profitability, and a negative segment margin indicates that a segment cannot recover its own costs. A company may maintain negative segment margins under certain circumstances, such as when a segment contributes to the company’s bottom line by covering shared indirect costs."
                     },
                     {
-                        "Paragraph_txt": "Segment margins, when put in ratio form, can also help managers with performance evaluation. We calculate the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">segment margin ratio</span>, a measure of a segment’s operating performance efficiency, by dividing the segment margin by the segment’s total revenues, as follows:"
+                        "Paragraph_txt": "<br />Segment margins, when put in ratio form, can also help managers with performance evaluation. We calculate the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">segment margin ratio</span>, a measure of a segment’s operating performance efficiency, by dividing the segment margin by the segment’s total revenues, as follows:"
                     }
                 ]
             },
@@ -1313,7 +1283,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1330,7 +1300,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "In a given quarter, a product had total revenues of $2,500,000. The product’s total fixed costs were $500,000, and its total variable costs were $1,000,000, for a total cost of $1,500,000. What was the contribution margin for this product?",
@@ -1396,14 +1366,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Moondrop Life Insurance Company sells a term life insurance product with a unit premium of $1 per $1,000 of face amount of insurance per month. The variable cost for this product is $0.70, and Moondrop has $420,000 in fixed costs for the accounting period. What is the breakeven point for this accounting period?",

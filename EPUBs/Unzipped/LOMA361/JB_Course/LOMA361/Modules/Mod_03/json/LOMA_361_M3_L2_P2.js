@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "13-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Four outer circles: Care, Communication, Collaboration, and Continuation<br /><br />One larger circle: Culture<br /><br />Source: Adapted from Nick Shepherd, <em>The Behavioral Aspects of Cost Management</em>, (AMI, April 2016)<sup>1</sup>"
-                        ],
+                        "image_w_text_tag": "Four outer circles: Care, Communication, Collaboration, and Continuation<br /><br />One larger circle: Culture<br /><br />Source: Adapted from Nick Shepherd, <em>The Behavioral Aspects of Cost Management</em>, (AMI, April 2016)<sup>1</sup>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

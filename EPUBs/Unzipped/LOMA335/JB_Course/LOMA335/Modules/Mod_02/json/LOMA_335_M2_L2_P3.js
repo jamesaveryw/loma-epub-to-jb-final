@@ -156,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-1figure.jpg",
-                        "image_w_text_tag": [
-                            "A graphic summarizing the four phases of the project lifecycle.<br /><br />Phase 1 of 4 is initiation. Objective is to establish a need for and definethe project.<br /><br />Phase 2 of 4 is planning. Objective is to make detailed plans that guidethe team through the remaining phases.<br /><br />Phase 3 of 4 is execution. Objective is to complete project deliverableswhile measuring progress and providing corrective action as needed.<br /><br />Phase 4 of 4 is closure. Objective is to document acceptance of the projectresults."
-                        ],
+                        "image_w_text_tag": "A graphic summarizing the four phases of the project lifecycle.<br /><br />Phase 1 of 4 is initiation. Objective is to establish a need for and definethe project.<br /><br />Phase 2 of 4 is planning. Objective is to make detailed plans that guidethe team through the remaining phases.<br /><br />Phase 3 of 4 is execution. Objective is to complete project deliverableswhile measuring progress and providing corrective action as needed.<br /><br />Phase 4 of 4 is closure. Objective is to document acceptance of the projectresults.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -264,7 +262,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -366,7 +364,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -459,7 +457,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -552,7 +550,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -615,7 +613,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -708,7 +706,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -768,7 +766,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -873,7 +871,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1102,9 +1100,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-2figure.jpg",
-                        "image_w_text_tag": [
-                            "An example of a blank project charter document. The document shows someof the information a project charter document might contain, such as:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project name</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project sponsor</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project manager</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Unit</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Expected start date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Expected end date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A box to check whether or not a contract is included</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project background</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Expected deliverables</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project purpose</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project constraints</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project objectives</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• And project resources, including stakeholders, additional resources, expectedcost, and a box to check whether or not a cost-benefit analysis is included</span><br /><br />The document might also include a draft date."
-                        ],
+                        "image_w_text_tag": "An example of a blank project charter document. The document shows someof the information a project charter document might contain, such as:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project name</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project sponsor</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project manager</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Unit</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Expected start date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Expected end date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A box to check whether or not a contract is included</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project background</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Expected deliverables</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project purpose</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project constraints</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project objectives</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• And project resources, including stakeholders, additional resources, expectedcost, and a box to check whether or not a cost-benefit analysis is included</span><br /><br />The document might also include a draft date.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1213,7 +1209,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1309,7 +1305,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1369,7 +1365,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1465,7 +1461,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1539,9 +1535,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A flow chart—or org chart—illustrating the structure of a company’s projectmanagement roles.<br /><br />The hierarchy in this example is as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The highest rung is EndiFirst Insurance Company.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Beneath EndiFirst are the Project Management Committee, Other Board StandingCommittees, and President and CEO.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Beneath Project Management Committee is Project Management Office. BeneathProject Management Office is Project Management Staff.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• There is nothing beneath Other Board Standing Committees.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Beneath President and CEO are Project Sponsor for Each Project and ProjectManager for Each Project. There is nothing beneath Project Sponsor forEach Project. Beneath Project Manager for Each Project is Project Teamfor Each Project.</span>"
-                        ],
+                        "image_w_text_tag": "A flow chart—or org chart—illustrating the structure of a company’s projectmanagement roles.<br /><br />The hierarchy in this example is as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The highest rung is EndiFirst Insurance Company.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Beneath EndiFirst are the Project Management Committee, Other Board StandingCommittees, and President and CEO.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Beneath Project Management Committee is Project Management Office. BeneathProject Management Office is Project Management Staff.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• There is nothing beneath Other Board Standing Committees.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Beneath President and CEO are Project Sponsor for Each Project and ProjectManager for Each Project. There is nothing beneath Project Sponsor forEach Project. Beneath Project Manager for Each Project is Project Teamfor Each Project.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1640,7 +1634,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The project phases in a project lifecycle are sequential, and each phase must be completed before the next phase can begin.",
@@ -1701,14 +1695,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Jenson Manon is working on a report that clearly states limits on a project by specifying the project size, resources, limitations, and deliverables. Jenson is currently in the phase of project",
@@ -1781,7 +1775,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A document that formally authorizes the project to take place and appoints a project manager is a",
@@ -2604,7 +2598,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2679,7 +2673,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2765,7 +2759,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2858,7 +2852,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2937,7 +2931,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3030,7 +3024,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3090,7 +3084,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3198,7 +3192,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3272,9 +3266,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A flow chart showing an example of a basic work breakdown structure tohelp users visualize the depth of detail of each activity. The more specificthe activity, the further down on the flow chart it appears.<br /><br />The overarching project, and first level on the flow chart, is to updateEndiFirst’s self-service portal through the activities in the next levelon the flow chart: usability testing and customer surveys; developmentof a training initiative; and redesign of the self-service portal.<br /><br />The steps for usability testing and customer surveys are to design customersurveys, conduct usability testing and debrief, and analyze tests and surveys.When conducting usability testing and debrief, employees will form usergroup, establish testing location, and schedule tests. When analyzing testsand surveys, employees will perform statistical analysis, discuss results,and determine a plan of action.<br /><br />The steps for developing a training initiative are to train customer serviceteam and train development team.<br /><br />The steps for redesigning the self-service portal are to design interfaceand prototype, install systems, and launch systems. When prototyping, employeeswill present the prototype to sponsor and iterate. When installing systems,employees will test systems and incorporate customer survey. When launchingsystems, employees will launch system support."
-                        ],
+                        "image_w_text_tag": "A flow chart showing an example of a basic work breakdown structure tohelp users visualize the depth of detail of each activity. The more specificthe activity, the further down on the flow chart it appears.<br /><br />The overarching project, and first level on the flow chart, is to updateEndiFirst’s self-service portal through the activities in the next levelon the flow chart: usability testing and customer surveys; developmentof a training initiative; and redesign of the self-service portal.<br /><br />The steps for usability testing and customer surveys are to design customersurveys, conduct usability testing and debrief, and analyze tests and surveys.When conducting usability testing and debrief, employees will form usergroup, establish testing location, and schedule tests. When analyzing testsand surveys, employees will perform statistical analysis, discuss results,and determine a plan of action.<br /><br />The steps for developing a training initiative are to train customer serviceteam and train development team.<br /><br />The steps for redesigning the self-service portal are to design interfaceand prototype, install systems, and launch systems. When prototyping, employeeswill present the prototype to sponsor and iterate. When installing systems,employees will test systems and incorporate customer survey. When launchingsystems, employees will launch system support.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -3462,9 +3454,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Flow chart with steps progressing toward completion of project.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in on oval shape read “Request feedback about customer service”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Review customer feedback”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Identify top three pain points”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Identify critical action points to address thepain points”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in circle shape read “Draft a project plan”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in diamond shape read “Request project sponsor approval”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Option in box underneath reads “If no, return to planning”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Option in box underneath reads “If yes, continue with project”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Team building and sharing of actionables withteam and stakeholders”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Execution of project actionables and continuedmonitoring”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Question in diamond reads “Deliverables approved?”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Option in oval reads “If yes, close project”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Option in box reads “If no, return to planning”</span>"
-                        ],
+                        "image_w_text_tag": "Flow chart with steps progressing toward completion of project.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in on oval shape read “Request feedback about customer service”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Review customer feedback”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Identify top three pain points”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Identify critical action points to address thepain points”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in circle shape read “Draft a project plan”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in diamond shape read “Request project sponsor approval”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Option in box underneath reads “If no, return to planning”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Option in box underneath reads “If yes, continue with project”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Team building and sharing of actionables withteam and stakeholders”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Words in box shape read “Execution of project actionables and continuedmonitoring”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Question in diamond reads “Deliverables approved?”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Option in oval reads “If yes, close project”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Option in box reads “If no, return to planning”</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -3623,9 +3613,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-6figure.jpg",
-                        "image_w_text_tag": [
-                            "An example of a Gantt chart for a new product launch.<br /><br />X-axis lists months one through 12. Y-axis lists steps.<br /><br />Boxes at the intersection of a step and a month are shaded blue for completedand gray for planned. If neither completed nor planned because it doesn’tmake sense to do so (such as launching the product in month one) the boxis left blank.<br /><br />Examples of steps listed in the Gantt chart are as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policy forms to regulators</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Revise/resubmit forms</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Draft/test promotion materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Print promotion materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Distribute promotion materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Develop training materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Finalize training materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Conduct training</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Design administrative systems</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Test new systems</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Install systems</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Received product approval</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Complete Day 1 functions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Launch product</span>"
-                        ],
+                        "image_w_text_tag": "An example of a Gantt chart for a new product launch.<br /><br />X-axis lists months one through 12. Y-axis lists steps.<br /><br />Boxes at the intersection of a step and a month are shaded blue for completedand gray for planned. If neither completed nor planned because it doesn’tmake sense to do so (such as launching the product in month one) the boxis left blank.<br /><br />Examples of steps listed in the Gantt chart are as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policy forms to regulators</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Revise/resubmit forms</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Draft/test promotion materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Print promotion materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Distribute promotion materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Develop training materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Finalize training materials</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Conduct training</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Design administrative systems</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Test new systems</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Install systems</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Received product approval</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Complete Day 1 functions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Launch product</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -3822,7 +3810,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3912,7 +3900,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4130,7 +4118,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4385,7 +4373,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4516,7 +4504,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4617,7 +4605,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4691,9 +4679,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-7figure.jpg",
-                        "image_w_text_tag": [
-                            "A project network model for a new product launch.<br /><br />The first half of the image is an “Analysis of Product Launch” chart thatlists activity identifiers, activity description, beginning event nodes,ending event nodes, and estimated days.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For the activity description “Prepare regulatory filing and submit toregulators,” the activity identifier is A-B. The beginning event node isA. The ending event node is B. The estimated number of days is 25.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For description “Wait to obtain initial response for regulators,” theidentifier is B-I. Beginning event node B. Ending event node I. Days 15.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Create any promotional materials and send to print,” identifier isA-L. Beginning event node A. Ending event node L. Days 38.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Obtain printed promotional materials and wait to distribute at productlaunch,” identifier is L-N. Beginning node L. Ending note N. Days 1.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Create and finalize training materials,” identifier is A-J. Beginningnode A. Ending node J. Days 25.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Conduct training,” identifier is J-L. Beginning node A. Ending nodeL. Days 14.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Design and install administration system,” identifier is A-M. Beginningnode A. Ending node M. Days 96.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Wait to launch administration system,” identifier is M-N. Beginningnode M. Ending node N. Days 2.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Obtain final regulatory approval and launch product,” identifieris I-N. Beginning node I. Ending node N. Days 14.</span><br /><br />The second half of the image is a project network with nodes that havearrows between indicating numbers of days for completion. The model startswith A and ends with N, with a few different paths between the two. Theexpected times are as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A to B is 25 days, B to I is 15 days, I to N is 14 days</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A to L is 38 days, L to N is one day</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A to J is 25 days, J to L is 14 days, L to N is one day</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A to M is 96 days, M to N is two days</span>"
-                        ],
+                        "image_w_text_tag": "A project network model for a new product launch.<br /><br />The first half of the image is an “Analysis of Product Launch” chart thatlists activity identifiers, activity description, beginning event nodes,ending event nodes, and estimated days.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For the activity description “Prepare regulatory filing and submit toregulators,” the activity identifier is A-B. The beginning event node isA. The ending event node is B. The estimated number of days is 25.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For description “Wait to obtain initial response for regulators,” theidentifier is B-I. Beginning event node B. Ending event node I. Days 15.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Create any promotional materials and send to print,” identifier isA-L. Beginning event node A. Ending event node L. Days 38.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Obtain printed promotional materials and wait to distribute at productlaunch,” identifier is L-N. Beginning node L. Ending note N. Days 1.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Create and finalize training materials,” identifier is A-J. Beginningnode A. Ending node J. Days 25.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Conduct training,” identifier is J-L. Beginning node A. Ending nodeL. Days 14.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Design and install administration system,” identifier is A-M. Beginningnode A. Ending node M. Days 96.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Wait to launch administration system,” identifier is M-N. Beginningnode M. Ending node N. Days 2.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For “Obtain final regulatory approval and launch product,” identifieris I-N. Beginning node I. Ending node N. Days 14.</span><br /><br />The second half of the image is a project network with nodes that havearrows between indicating numbers of days for completion. The model startswith A and ends with N, with a few different paths between the two. Theexpected times are as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A to B is 25 days, B to I is 15 days, I to N is 14 days</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A to L is 38 days, L to N is one day</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A to J is 25 days, J to L is 14 days, L to N is one day</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A to M is 96 days, M to N is two days</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -5136,9 +5122,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-8figure.jpg",
-                        "image_w_text_tag": [
-                            "A blank example of a project schedule document showing some of the informationa project schedule might ask for, such as:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project identification number</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Name and number of activity or milestone, divided by functional groupassigned to work on it</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Expected finish date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Status percentage</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Actual finish date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Owner of activity</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Comments</span><br /><br />The schedule might also include a draft date or effective date."
-                        ],
+                        "image_w_text_tag": "A blank example of a project schedule document showing some of the informationa project schedule might ask for, such as:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project identification number</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Name and number of activity or milestone, divided by functional groupassigned to work on it</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Expected finish date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Status percentage</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Actual finish date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Owner of activity</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Comments</span><br /><br />The schedule might also include a draft date or effective date.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -5264,9 +5248,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-9figure.jpg",
-                        "image_w_text_tag": [
-                            "Example of the table of contents for a complex project plan. May includereference pages for items such as the following:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Introduction</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Purpose</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project goals and objectives</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Background Information</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Available alternatives</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Feasibility</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• References</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Definitions and acronyms</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project scope</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project constraints</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project milestones</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Schedule baseline</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Work breakdown structure</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project timeline</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Cost baseline</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Projected budget</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Staff requirements</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• IT requirements</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Other resource requirements</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Deliverables</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Milestones, activities, and events</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project management approach</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Communication plan</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Change management plan</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Approvals</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Sign off sheet</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Stakeholder requirements</span><br /><br />The project plan might also include a draft date."
-                        ],
+                        "image_w_text_tag": "Example of the table of contents for a complex project plan. May includereference pages for items such as the following:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Introduction</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Purpose</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project goals and objectives</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Background Information</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Available alternatives</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Feasibility</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• References</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Definitions and acronyms</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project scope</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project constraints</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project milestones</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Schedule baseline</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Work breakdown structure</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project timeline</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Cost baseline</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Projected budget</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Staff requirements</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• IT requirements</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Other resource requirements</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Deliverables</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Milestones, activities, and events</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project management approach</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Communication plan</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Change management plan</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Approvals</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Sign off sheet</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Stakeholder requirements</span><br /><br />The project plan might also include a draft date.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -5329,7 +5311,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Flow charts are effective planning tools for complex, long-term projects.",
@@ -5390,14 +5372,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Rob Kahn is using a weighted average of the estimates of optimistic time, most probable time, and pessimistic time to calculate the expected time to complete a project activity. The estimate that is given more weight than the other two estimates is the",
@@ -5470,7 +5452,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "According to the network model, a critical path is the",
@@ -5531,14 +5513,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In a given network model, there are three alternative paths. The expected times needed to complete each network path are as follows: A-K-N is 42 days, A-C-O is 68 days, and A-J-P is 33 days. What is the float for network path A-K-N?",
@@ -5663,7 +5645,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5756,7 +5738,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6059,7 +6041,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6152,7 +6134,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6319,7 +6301,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6391,7 +6373,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6483,7 +6465,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6546,7 +6528,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6675,9 +6657,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-10figure.jpg",
-                        "image_w_text_tag": [
-                            "A blank example of a project change authorization document showing someof the information a project change authorization document might ask for,such as:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Name of project sponsor</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Name of project manager</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project number</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project name</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Who the change was requested by</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Date of change request</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Description of change request</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A box to check whether or not the original project goals are still intact</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• List of original and changed project goals, if applicable</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Impact on schedule, budget, scope, and resources</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Impact on other projects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Action plan for the proposed changed</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Business owner name, signature, and signature date</span>"
-                        ],
+                        "image_w_text_tag": "A blank example of a project change authorization document showing someof the information a project change authorization document might ask for,such as:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Name of project sponsor</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Name of project manager</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project number</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project name</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Who the change was requested by</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Date of change request</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Description of change request</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A box to check whether or not the original project goals are still intact</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• List of original and changed project goals, if applicable</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Impact on schedule, budget, scope, and resources</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Impact on other projects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Action plan for the proposed changed</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Business owner name, signature, and signature date</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -6786,7 +6766,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6852,7 +6832,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6929,9 +6909,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-11figure.jpg",
-                        "image_w_text_tag": [
-                            "A blank example of a project closure authorization document. The purposeof the project closure authorization is to resolve open items, review fulfillmentof the project charter, and formally acknowledge delivery of the project’soutcomes.<br /><br />The sample document shows some of the information a project closure authorizationdocument might ask for, such as:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project identification number</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project sponsor name</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Department name</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Date of closure</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Core team members</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• List of goals achieved</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• List of success criteria</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• List of key outcomes delivered, and dates they were delivered</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Description of lessons learned</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Location of archives</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project sponsor signature and date for formal authorization of closure</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project manager signature and date to confirm fulfillment of project</span>"
-                        ],
+                        "image_w_text_tag": "A blank example of a project closure authorization document. The purposeof the project closure authorization is to resolve open items, review fulfillmentof the project charter, and formally acknowledge delivery of the project’soutcomes.<br /><br />The sample document shows some of the information a project closure authorizationdocument might ask for, such as:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project identification number</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project sponsor name</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Department name</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Date of closure</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Core team members</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• List of goals achieved</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• List of success criteria</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• List of key outcomes delivered, and dates they were delivered</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Description of lessons learned</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Location of archives</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project sponsor signature and date for formal authorization of closure</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Project manager signature and date to confirm fulfillment of project</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -6994,7 +6972,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Earned value management (EVM) applies monetary values when analyzing project timeliness and cost.",

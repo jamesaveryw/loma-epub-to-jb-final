@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Sam is an accountant who worked for many years in the manufacturing sector. Now he has his first job with a life insurance company. Which of the following reports will likely be new to Sam? Check all that apply.",

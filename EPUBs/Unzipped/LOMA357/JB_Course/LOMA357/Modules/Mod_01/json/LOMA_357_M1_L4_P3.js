@@ -181,7 +181,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -247,7 +247,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -313,7 +313,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -544,7 +544,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -607,7 +607,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -724,7 +724,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -784,7 +784,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -977,7 +977,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1384,9 +1384,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Three types of yield curve shapes are illustrated by three graphs. Fora normal yield curve shape, the graph shows an upward sloping curve, meaningthe yield increases as the term to maturity increases.<br /><br />For a flat yield curve shape, the graph shows a horizontal straight line,meaning the yield stays the same as the term to maturity increases.<br /><br />For an inverted yield curve shape, the graph shows a downward slopingcurve, meaning the yield decreases as the term to maturity increases."
-                        ],
+                        "image_w_text_tag": "Three types of yield curve shapes are illustrated by three graphs. Fora normal yield curve shape, the graph shows an upward sloping curve, meaningthe yield increases as the term to maturity increases.<br /><br />For a flat yield curve shape, the graph shows a horizontal straight line,meaning the yield stays the same as the term to maturity increases.<br /><br />For an inverted yield curve shape, the graph shows a downward slopingcurve, meaning the yield decreases as the term to maturity increases.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1663,7 +1661,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1737,7 +1735,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1830,7 +1828,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1868,7 +1866,6 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "../../imgs/4-1unnumbered.png",
-                        "image_w_text_tag": [],
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1983,7 +1980,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2039,7 +2036,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "When market interest rates rise, prices of existing bonds generally (<strong>rise / fall</strong>) because a rising-rate environment makes holding existing bonds (<strong>more / less</strong>) appealing. (Select the choice that correctly fills in the blanks.)",
@@ -2110,14 +2107,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "To avoid losing purchasing power, an investor must earn an investment rate of return greater than or equal to the inflation rate.",

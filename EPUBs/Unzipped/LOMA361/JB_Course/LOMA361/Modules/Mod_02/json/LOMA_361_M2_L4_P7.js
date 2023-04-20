@@ -391,7 +391,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: An agent’s commission is considered due or accrued when the insurer receives a premium too late in the accounting period to process the commission payment by the financial reporting date.",

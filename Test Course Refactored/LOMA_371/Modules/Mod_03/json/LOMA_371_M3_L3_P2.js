@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Describing Operating Expenses",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -347,10 +317,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "To understand how known expenses are likely to behave and therefore affect profitability, insurers must collect and analyze internal and external expense experience data. Experience data describe real-world observations of specified phenomena. Internal experience data reflect the characteristics and patterns of a company’s own historical expense experience, while external experience data reflect the characteristics and patterns of other companies’ historical expense experience."
                     },
                     {
-                        "Paragraph_txt": "To gather internal expense data, a company uses its own accounting information systems, which gather and store historical, company-specific accounting information. For example, an insurer’s systems contain historical records of premiums paid, lapses, claim costs, the cost of various underwriting reports, and many other forms of information that comprise the costs associated with a product. One particularly important accounting subsystem is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost accounting system</span>, which accumulates expense data for the dual purposes of effective cost control and accurate product design activities. The cost accounting system enables <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost accumulation</span>, which is the process of capturing all company costs and classifying them in meaningful ways."
+                        "Paragraph_txt": "<br />To gather internal expense data, a company uses its own accounting information systems, which gather and store historical, company-specific accounting information. For example, an insurer’s systems contain historical records of premiums paid, lapses, claim costs, the cost of various underwriting reports, and many other forms of information that comprise the costs associated with a product. One particularly important accounting subsystem is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost accounting system</span>, which accumulates expense data for the dual purposes of effective cost control and accurate product design activities. The cost accounting system enables <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost accumulation</span>, which is the process of capturing all company costs and classifying them in meaningful ways."
                     },
                     {
-                        "Paragraph_txt": "A company may have limited expense experience with a particular type of product. To bolster its internal expense data, a company acquires and analyzes external experience data to learn from other companies’ historical information. A company can gain external expense experience data from experience studies, benchmarking studies, and research conducted by independent consultants and by industry organizations such as the MIB Group Inc. (MIB), LIMRA International, and the Society of Actuaries (SOA)."
+                        "Paragraph_txt": "<br />A company may have limited expense experience with a particular type of product. To bolster its internal expense data, a company acquires and analyzes external experience data to learn from other companies’ historical information. A company can gain external expense experience data from experience studies, benchmarking studies, and research conducted by independent consultants and by industry organizations such as the MIB Group Inc. (MIB), LIMRA International, and the Society of Actuaries (SOA)."
                     }
                 ]
             },
@@ -386,10 +356,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The foundation for estimating future expenses is historical expense data. But future expense patterns do not always reliably follow historical expense data. The factors surrounding a company’s business are constantly changing, and expenses change with them. To develop expense projections that are more likely to match currently unknown future expense patterns, companies require expense analysis. For product design, <em>expense analysis</em> is a process in which insurers study relevant costs and project the characteristics and behaviors of those costs over a proposed product’s lifetime."
                     },
                     {
-                        "Paragraph_txt": "Financial modeling is a vital part of expense analysis. As we described in Chapter 4, insurers use financial modeling—both deterministic modeling and, increasingly, stochastic modeling—to estimate future financial performance by projecting potential income and potential costs. Stochastic modeling is increasingly useful because it can address the wider range of potential outcomes associated with the variability of policyholder behavior."
+                        "Paragraph_txt": "<br />Financial modeling is a vital part of expense analysis. As we described in Chapter 4, insurers use financial modeling—both deterministic modeling and, increasingly, stochastic modeling—to estimate future financial performance by projecting potential income and potential costs. Stochastic modeling is increasingly useful because it can address the wider range of potential outcomes associated with the variability of policyholder behavior."
                     },
                     {
-                        "Paragraph_txt": "Although insurers must include expense projections in all new product designs, not all of the expenses that affect a company’s new products require extensive expense analysis and modeling. If a particular operating activity is the same for all products or if a new product is sufficiently similar to one of the insurer’s existing products, the insurer may base its expense assumptions on standard costs. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Standard costs</span> are cost estimates representing the average amount of a given type of expenditure for normal business operations. Standard costs can efficiently estimate certain costs for product design, such as the cost of mailing policy documents. Standard costs may be direct, such as the cost of mailings, or indirect, such as rent and office equipment. However, insurers must review standard costs periodically to ensure that the costs continue to accurately reflect actual conditions."
+                        "Paragraph_txt": "<br />Although insurers must include expense projections in all new product designs, not all of the expenses that affect a company’s new products require extensive expense analysis and modeling. If a particular operating activity is the same for all products or if a new product is sufficiently similar to one of the insurer’s existing products, the insurer may base its expense assumptions on standard costs. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Standard costs</span> are cost estimates representing the average amount of a given type of expenditure for normal business operations. Standard costs can efficiently estimate certain costs for product design, such as the cost of mailing policy documents. Standard costs may be direct, such as the cost of mailings, or indirect, such as rent and office equipment. However, insurers must review standard costs periodically to ensure that the costs continue to accurately reflect actual conditions."
                     }
                 ]
             },
@@ -406,7 +376,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Executive salaries are an example of a/an (<strong>direct</strong> / <strong>indirect</strong>) cost and a (<strong>fixed</strong> / <strong>variable</strong>) cost.",
@@ -477,14 +447,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: A cost accounting system is useful in gathering an insurer’s internal expense data for the purposes of cost control and accurate product design.",

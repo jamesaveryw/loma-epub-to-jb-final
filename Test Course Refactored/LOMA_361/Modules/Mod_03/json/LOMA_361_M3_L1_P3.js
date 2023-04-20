@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Performance Measurement and Evaluation",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -237,10 +207,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "The difference between an actual result and an expected or assumed result is called a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">variance</span>. By measuring the extent to which various responsibility centers are achieving the company’s goals, variances provide valuable feedback to management.<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Variance analysis</span> is the study of the difference between expected or assumed results and actual results. Variance analysis is helpful in measuring and evaluating performance because variances quantify the unexpected results for which responsibility managers are accountable."
                     },
                     {
-                        "Paragraph_txt": "Variance analysis is an important component of<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> management by exception (MBE)</span>, a management style that focuses on results that deviate from an established baseline. MBE differs from management styles such as <em>management by objectives</em> <em>(MBO)</em>, which focuses on achieving specific goals commonly agreed upon by management and employees. In MBE, managers are alerted only when actual results vary by a specified amount or percentage from expected results. Therefore, MBE allows managers to spend less time monitoring results and more time on other tasks."
+                        "Paragraph_txt": "<br />Variance analysis is an important component of<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> management by exception (MBE)</span>, a management style that focuses on results that deviate from an established baseline. MBE differs from management styles such as <em>management by objectives</em> <em>(MBO)</em>, which focuses on achieving specific goals commonly agreed upon by management and employees. In MBE, managers are alerted only when actual results vary by a specified amount or percentage from expected results. Therefore, MBE allows managers to spend less time monitoring results and more time on other tasks."
                     },
                     {
-                        "Paragraph_txt": "In variance analysis, budgets are an effective tool for pinpointing variances from a standard or an expected result. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">budget</span> is a financial plan of action, expressed in monetary terms, that covers a specified period, such as one year. Large variances between budgeted and actual revenues and expenses are of particular concern to a company’s managers, who may respond by revising budgets or making operational changes. Managers generally try to make these changes as soon as possible to minimize potential losses."
+                        "Paragraph_txt": "<br />In variance analysis, budgets are an effective tool for pinpointing variances from a standard or an expected result. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">budget</span> is a financial plan of action, expressed in monetary terms, that covers a specified period, such as one year. Large variances between budgeted and actual revenues and expenses are of particular concern to a company’s managers, who may respond by revising budgets or making operational changes. Managers generally try to make these changes as soon as possible to minimize potential losses."
                     }
                 ]
             },
@@ -267,7 +237,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -303,7 +273,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example. </strong>The claims function at the Leonine Life Insurance Company has a $100,000 monthly budget for salaries expense. Actual salaries expense for September is $117,000. Suppose Leonine’s management established a policy stating that management must investigate and review any expense variance over 10%."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> The claims function’s variance in salaries expense would be 17%, calculated as ($117,000 – $100,000) ÷ $100,000. Because the variance is 17% over the budgeted amount, Leonine’s management would investigate and review it."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> The claims function’s variance in salaries expense would be 17%, calculated as ($117,000 – $100,000) ÷ $100,000. Because the variance is 17% over the budgeted amount, Leonine’s management would investigate and review it."
                     }
                 ]
             },
@@ -330,7 +300,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -615,7 +585,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we’ve just seen, the terms <em>positive</em> and <em>negative</em> are not necessarily good or bad from a company’s perspective. In essence, the distinction is between quantity and quality. The quantity, or numerical value of a variance, determines whether it is positive or negative. The quality of a variance, specifically whether or not it controls costs and is ultimately beneficial to the company’s net income on the income statement, determines whether it is favorable or unfavorable. A negative number that is an <em>unfavorable</em> variance, unless it is resolved, ultimately will have an unfavorable effect on the insurer’s net income."
                     },
                     {
-                        "Paragraph_txt": "The following chart summarizes the effects of positive/negative variances and favorable/unfavorable variances on a company’s revenues, expenses, and net income:"
+                        "Paragraph_txt": "<br />The following chart summarizes the effects of positive/negative variances and favorable/unfavorable variances on a company’s revenues, expenses, and net income:"
                     }
                 ]
             },
@@ -753,7 +723,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -813,7 +783,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -849,7 +819,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Companies typically calculate rate variances for labor costs, product costs, selling price, and overhead expenses."
                     },
                     {
-                        "Paragraph_txt": "A product’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">usage variance</span> is the difference between the actual quantities sold or processed and the budgeted (standard) quantities to be sold or processed, multiplied by the standard rate or unit cost. We can express usage variance in equation form as"
+                        "Paragraph_txt": "<br />A product’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">usage variance</span> is the difference between the actual quantities sold or processed and the budgeted (standard) quantities to be sold or processed, multiplied by the standard rate or unit cost. We can express usage variance in equation form as"
                     }
                 ]
             },
@@ -876,7 +846,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -936,7 +906,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -972,7 +942,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Companies typically calculate usage variances for labor efficiency, units used in a process, and the cost of materials to provide a service."
                     },
                     {
-                        "Paragraph_txt": "The sum of a product’s rate variance and usage variance equals the product’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">total variance</span>, as follows:"
+                        "Paragraph_txt": "<br />The sum of a product’s rate variance and usage variance equals the product’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">total variance</span>, as follows:"
                     }
                 ]
             },
@@ -999,7 +969,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1059,7 +1029,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1232,7 +1202,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "If a company processes fewer claims than projected in a given year, this is an example of a (<strong>positive variance</strong> / <strong>negative variance</strong>) and (<strong>a</strong> <strong>favorable variance</strong> / <strong>an</strong> <strong>unfavorable variance</strong>).",
@@ -1303,14 +1273,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In its fourth quarter budget, the Salmon Life Insurance Company budgeted to process 1,000 claims at a cost of $40 per claim. During the fourth quarter, Salmon actually processed 950 claims at a cost of $39 per claim. What were the rate variance and usage variance for the fourth quarter?",
@@ -1498,7 +1468,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The example in Video 12.3 shows monthly responsibility reports for the policyowner service function at several management levels. Because these departments and divisions are all cost centers, their evaluation is based primarily on cost control. However, the evaluation of a profit center should be based on the profits earned by the center, not exclusively on how the profit center controls costs. One way to monitor profit centers is to prepare a specific type of responsibility report, sometimes called a <em>segment report</em>. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">segment report</span> is a type of responsibility report that shows revenues and expenses—divided into fixed and variable components and direct and indirect costs—for a single responsibility center."
                     },
                     {
-                        "Paragraph_txt": "Segment reports for profit centers generally take the form of an income statement, because these reports show both revenues and expenses. A profit center’s segment report details activity at each management level, including condensed information from operations that are subordinate to the managerial level. Segment reports follow a similar pattern, as shown in the cost center responsibility reports in Video 12.3. As we move downward from one level to the next, segment reports examine a smaller portion of the company or division. Segment reports separate direct costs and indirect costs at each management level. Although segment reporting is primarily a management accounting tool, segment reports are sometimes required for financial reporting purposes."
+                        "Paragraph_txt": "<br />Segment reports for profit centers generally take the form of an income statement, because these reports show both revenues and expenses. A profit center’s segment report details activity at each management level, including condensed information from operations that are subordinate to the managerial level. Segment reports follow a similar pattern, as shown in the cost center responsibility reports in Video 12.3. As we move downward from one level to the next, segment reports examine a smaller portion of the company or division. Segment reports separate direct costs and indirect costs at each management level. Although segment reporting is primarily a management accounting tool, segment reports are sometimes required for financial reporting purposes."
                     }
                 ]
             },
@@ -1515,7 +1485,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "[True/False]: All responsibility reports show both costs and revenues for the relevant responsibility center.",
@@ -1667,7 +1637,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "The performance evaluation process of a responsibility center must consider several potential problems, some of which are inherent in the evaluation process itself. Managers must know how the financial information about a responsibility center was calculated, recorded, and reported before evaluating the center’s performance. For example, establishing standard costs is a reactive, rather than proactive, approach to estimating costs, and therefore based on existing experience."
                     },
                     {
-                        "Paragraph_txt": "Standard costs are more suited for a company’s core products and services, rather than products and services that are customized or unique in nature, and that therefore would require extrapolation. Therefore, comparing actual costs to standard costs may not be the appropriate method of evaluation. Other issues—including the time and resources used to estimate standard costs and the potential conflict between using standard costs to evaluate responsibility managers and the company’s overall performance evaluation process—can directly affect a responsibility center’s performance. Thus, the evaluation criteria used can be as important as the actual performance in the evaluative process. Figure 12.3 summarizes some of the more common mistakes a company might make during performance evaluation."
+                        "Paragraph_txt": "<br />Standard costs are more suited for a company’s core products and services, rather than products and services that are customized or unique in nature, and that therefore would require extrapolation. Therefore, comparing actual costs to standard costs may not be the appropriate method of evaluation. Other issues—including the time and resources used to estimate standard costs and the potential conflict between using standard costs to evaluate responsibility managers and the company’s overall performance evaluation process—can directly affect a responsibility center’s performance. Thus, the evaluation criteria used can be as important as the actual performance in the evaluative process. Figure 12.3 summarizes some of the more common mistakes a company might make during performance evaluation."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 12.3 Common Performance Evaluation Mistakes</strong>"
                     }
                 ]
             },
@@ -1675,9 +1678,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "12-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Narrowly Focused Variance Analysis: Can miss potential future problems<br /><br />Using Only One Evaluation Criterion: Encourages managers to ignore other factors<br /><br />Inappropriate Criteria: Stresses the wrong goals<br /><br />Unattainable Goals: Make fair evaluations impossible<br /><br />Evaluation Solely on Responsibility Center Performance: Fails to account for larger context<br /><br />Arbitrary Cost Allocation: May rely on incorrect information<br /><br />Arbitrary Revenue Allocation: Cannot fairly evaluate performance<br /><br />Inappropriate Use of Transfer Pricing: Muddles analysis between performance centers"
-                        ],
+                        "image_w_text_tag": "Narrowly Focused Variance Analysis: Can miss potential future problems<br /><br />Using Only One Evaluation Criterion: Encourages managers to ignore other factors<br /><br />Inappropriate Criteria: Stresses the wrong goals<br /><br />Unattainable Goals: Make fair evaluations impossible<br /><br />Evaluation Solely on Responsibility Center Performance: Fails to account for larger context<br /><br />Arbitrary Cost Allocation: May rely on incorrect information<br /><br />Arbitrary Revenue Allocation: Cannot fairly evaluate performance<br /><br />Inappropriate Use of Transfer Pricing: Muddles analysis between performance centers",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1690,7 +1691,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 12.3</strong> Common Performance Evaluation Mistakes",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1783,7 +1784,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1819,7 +1820,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example. </strong>At Battlement Life, the claims department manager kept costs under control by assigning more work to each claims employee, rather than hiring more employees."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> While variance analysis indicates that the claims department is performing as expected, the department faces the risk of heavy employee turnover due to the unsustainable workload, which would have a strong negative effect on future productivity."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> While variance analysis indicates that the claims department is performing as expected, the department faces the risk of heavy employee turnover due to the unsustainable workload, which would have a strong negative effect on future productivity."
                     }
                 ]
             },
@@ -1846,7 +1847,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1906,7 +1907,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1942,7 +1943,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example. </strong>Battlement Life evaluates the manager of its underwriting department solely on the number of policies underwriters approve."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> The underwriting manager has the incentive to pressure the underwriters to approve every policy application they receive. As a result, Battlement could suffer losses—such as higher lapse rates than expected—from poorly written business. Therefore, Battlement should evaluate the performance of its underwriting manager on additional criteria, such as placement rates."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> The underwriting manager has the incentive to pressure the underwriters to approve every policy application they receive. As a result, Battlement could suffer losses—such as higher lapse rates than expected—from poorly written business. Therefore, Battlement should evaluate the performance of its underwriting manager on additional criteria, such as placement rates."
                     }
                 ]
             },
@@ -1969,7 +1970,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2029,7 +2030,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2065,7 +2066,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Battlement Life evaluates its call center employees primarily on call time length. The call center manager encourages employees to resolve customer calls as quickly as possible."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> By stressing that a call center employee’s first priority is to resolve a call quickly, Battlement inadvertently discourages employees from providing thorough customer service. Employees who do not obtain all of the details of a customer’s problem or who fail to adequately resolve a problem might still be commended for their work if the call is ended on a timely basis. Thus, Battlement might develop a reputation for poor customer service despite the intentions of its managers."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> By stressing that a call center employee’s first priority is to resolve a call quickly, Battlement inadvertently discourages employees from providing thorough customer service. Employees who do not obtain all of the details of a customer’s problem or who fail to adequately resolve a problem might still be commended for their work if the call is ended on a timely basis. Thus, Battlement might develop a reputation for poor customer service despite the intentions of its managers."
                     }
                 ]
             },
@@ -2092,7 +2093,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2185,7 +2186,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2221,7 +2222,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example. </strong>Over the course of a fiscal year, many financial companies experienced decreasing sales for their variable annuities products. The responsibility manager for Battlement Life’s variable annuities line received a poor performance evaluation based on a slight decrease in variable annuity sales. However, variable annuity sales at Battlement did not decrease as much as they did at many other companies."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Since many companies experienced decreasing variable annuity sales, the market for variable annuities as a whole was in decline. Under these conditions, sales growth of variable annuities may have been an unachievable goal. Battlement’s responsibility manager for variable annuities likely deserves a better evaluation for keeping the decrease in sales minimal."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Since many companies experienced decreasing variable annuity sales, the market for variable annuities as a whole was in decline. Under these conditions, sales growth of variable annuities may have been an unachievable goal. Battlement’s responsibility manager for variable annuities likely deserves a better evaluation for keeping the decrease in sales minimal."
                     }
                 ]
             },
@@ -2248,7 +2249,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2385,7 +2386,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers may find it more challenging to evaluate the performance of specific responsibility centers, such as profit centers and investment centers, when transfer pricing is involved. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">transfer price</span> is the price of a good or service that one function or line of business charges another of the same company. For example, the human resources department of an insurer may use transfer pricing to charge the insurer’s group life insurance line of business for employee recruitment or training expenses. Unlike intercompany transactions, in which prices are determined by market factors such as supply and demand, transfer pricing arrangements are intracompany in nature—that is, they are established by a company’s internal management team."
                     },
                     {
-                        "Paragraph_txt": "Transfer pricing is especially important for insurance companies that have subsidiaries or are themselves subsidiaries. The transfer pricing method that an insurer selects is critical, because transfer prices directly affect the profits for which the responsibility managers of profit centers and investment centers are held accountable. An inappropriate transfer price might result in a misleading evaluation of a responsibility center’s performance. Moreover, inappropriate transfer prices may lead a responsibility manager to make decisions that are not in the insurer’s best interest. A discussion of the process of setting transfer prices is beyond the scope of this textbook."
+                        "Paragraph_txt": "<br />Transfer pricing is especially important for insurance companies that have subsidiaries or are themselves subsidiaries. The transfer pricing method that an insurer selects is critical, because transfer prices directly affect the profits for which the responsibility managers of profit centers and investment centers are held accountable. An inappropriate transfer price might result in a misleading evaluation of a responsibility center’s performance. Moreover, inappropriate transfer prices may lead a responsibility manager to make decisions that are not in the insurer’s best interest. A discussion of the process of setting transfer prices is beyond the scope of this textbook."
                     }
                 ]
             },
@@ -2402,7 +2403,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following are generally problematic criteria to use to evaluate a performance center? Select all that apply.",

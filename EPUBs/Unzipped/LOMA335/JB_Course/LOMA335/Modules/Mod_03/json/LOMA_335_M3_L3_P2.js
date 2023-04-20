@@ -267,7 +267,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -366,7 +366,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -537,7 +537,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -633,7 +633,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -743,9 +743,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Three data types are structured data, unstructured data, and semistructureddata.<br /><br />Structured data includes customer demographics such as name, address,age, marital status, occupation, and income level. Structured data alsoincludes transactions such as deposits, premiums paid, and account balances.<br /><br />Unstructured data includes user-written text such as the content in blogsor social media posts. Unstructured data also includes user-produced mediasuch as videos, gifs, images, and pdf files.<br /><br />Semistructured data includes email messages which contain structured datain fixed fields (sender, date, time) and unstructured data (the text ormedia in the body of an email)."
-                        ],
+                        "image_w_text_tag": "Three data types are structured data, unstructured data, and semistructureddata.<br /><br />Structured data includes customer demographics such as name, address,age, marital status, occupation, and income level. Structured data alsoincludes transactions such as deposits, premiums paid, and account balances.<br /><br />Unstructured data includes user-written text such as the content in blogsor social media posts. Unstructured data also includes user-produced mediasuch as videos, gifs, images, and pdf files.<br /><br />Semistructured data includes email messages which contain structured datain fixed fields (sender, date, time) and unstructured data (the text ormedia in the body of an email).",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1019,7 +1017,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Determine which of the following types of research would likely be classified as <strong>quantitative</strong> research. (select all that apply)",
@@ -1095,14 +1093,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Determine which of the following types of data would likely be classified as <strong>structured data. </strong>(select all that apply)",
@@ -1185,7 +1183,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "To improve data quality, data editing is sometimes required. When data is edited so that the intended user can successfully integrate the data with other statistical information over time, the editing should improve the quality of the data’s",

@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-2figure.jpg",
-                        "image_w_text_tag": [
-                            "An illustration of complicated and complex problems.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Complicated problems have (1) certainty about context and desired outcome,(2) experience is critical and often sufficient, (3) problems can be simplifiedinto parts and solved, (4) success with a similar problem practically guaranteesfuture success, (5) are likely to reoccur, (6) traditional analytical thinkingworks well.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Complex problems have (1) ambiguous context and uncertainty about desiredoutcomes, (2) experience is useful but often limited, (3) difficult toseparate parts from the whole, (4) success with a similar problem doesn’tguarantee future success, (5) are unique and not often repeated, and (6)innovative thinking works well.</span>"
-                        ],
+                        "image_w_text_tag": "An illustration of complicated and complex problems.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Complicated problems have (1) certainty about context and desired outcome,(2) experience is critical and often sufficient, (3) problems can be simplifiedinto parts and solved, (4) success with a similar problem practically guaranteesfuture success, (5) are likely to reoccur, (6) traditional analytical thinkingworks well.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Complex problems have (1) ambiguous context and uncertainty about desiredoutcomes, (2) experience is useful but often limited, (3) difficult toseparate parts from the whole, (4) success with a similar problem doesn’tguarantee future success, (5) are unique and not often repeated, and (6)innovative thinking works well.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -323,7 +321,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -386,7 +384,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -465,7 +463,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -528,7 +526,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -607,7 +605,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -670,7 +668,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -749,7 +747,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -809,7 +807,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -888,7 +886,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -948,7 +946,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1027,7 +1025,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1087,7 +1085,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1288,9 +1286,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A checklist to assist with the decision-making process. Determine whetheryou have a few or many solutions or ideas. Determine whether you have implementablesolutions or new ideas/directions. Are the solutions incremental or breakthrough?Will implementation be short or long? Are there tight or open boundaries?"
-                        ],
+                        "image_w_text_tag": "A checklist to assist with the decision-making process. Determine whetheryou have a few or many solutions or ideas. Determine whether you have implementablesolutions or new ideas/directions. Are the solutions incremental or breakthrough?Will implementation be short or long? Are there tight or open boundaries?",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

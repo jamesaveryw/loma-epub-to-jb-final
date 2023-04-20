@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Accounting Bases",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -421,7 +391,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -457,31 +427,31 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> On December 31, 2018, the last day of its annual accounting period, the Samarkand Life Insurance Company purchased $50,000 of office equipment on account from the Maxis Office Equipment Company. Maxis delivered the equipment to Samarkand on the same day. Samarkand remitted payment in full on January 10, 2019. Below are the accounting entries for this transaction under cash-basis accounting and accrual-basis accounting."
                     },
                     {
-                        "Paragraph_txt": "Under cash-basis accounting, Samarkand would record the following transaction on January 10, 2019."
+                        "Paragraph_txt": "<br />Under cash-basis accounting, Samarkand would record the following transaction on January 10, 2019."
                     },
                     {
-                        "Paragraph_txt": "<em>Office Equipment…………………………..……..….</em>$50,000"
+                        "Paragraph_txt": "<br /><em>Office Equipment…………………………..……..….</em>$50,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash………………………………………………….…..</em>$50,000"
+                        "Paragraph_txt": "<br /><em>Cash………………………………………………….…..</em>$50,000"
                     },
                     {
-                        "Paragraph_txt": "Under accrual-basis accounting, Samarkand would record the following transactions on December 31, 2018, and January 10, 2019, respectively:"
+                        "Paragraph_txt": "<br />Under accrual-basis accounting, Samarkand would record the following transactions on December 31, 2018, and January 10, 2019, respectively:"
                     },
                     {
-                        "Paragraph_txt": "<em>Office&nbsp;Equipment………………………….……..….</em>$50,000"
+                        "Paragraph_txt": "<br /><em>Office&nbsp;Equipment………………………….……..….</em>$50,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Accounts Payable…………………………………..</em>$50,000"
+                        "Paragraph_txt": "<br /><em>Accounts Payable…………………………………..</em>$50,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Accounts Payable…………………………………..</em>$50,000"
+                        "Paragraph_txt": "<br /><em>Accounts Payable…………………………………..</em>$50,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash……………………………………………………..</em>$50,000"
+                        "Paragraph_txt": "<br /><em>Cash……………………………………………………..</em>$50,000"
                     },
                     {
-                        "Paragraph_txt": "Because cash-basis accounting does not apply the realization principle or the matching principle, the resulting financial statements can be misleading. For example, under cash-basis accounting, Samarkand’s balance sheet of December 31, 2018, would not show that the balance in Samarkand’s <em>Office Equipment</em> account has increased by $50,000, nor would it show that Samarkand owes Maxis $50,000 for the new office equipment. However, this transaction may be material to Samarkand’s potential policyowners or investors. In contrast, under accrual-basis accounting, Samarkand’s balance sheet would show the financial effect of this pending business transaction."
+                        "Paragraph_txt": "<br />Because cash-basis accounting does not apply the realization principle or the matching principle, the resulting financial statements can be misleading. For example, under cash-basis accounting, Samarkand’s balance sheet of December 31, 2018, would not show that the balance in Samarkand’s <em>Office Equipment</em> account has increased by $50,000, nor would it show that Samarkand owes Maxis $50,000 for the new office equipment. However, this transaction may be material to Samarkand’s potential policyowners or investors. In contrast, under accrual-basis accounting, Samarkand’s balance sheet would show the financial effect of this pending business transaction."
                     }
                 ]
             },
@@ -508,7 +478,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -558,7 +528,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The accounting basis that a company uses also determines how the company puts the realization principle and the matching principle into practice. Which of these principles applies to each accounting basis?",

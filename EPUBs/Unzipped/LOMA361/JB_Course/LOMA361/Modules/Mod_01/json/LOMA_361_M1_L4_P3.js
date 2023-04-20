@@ -325,9 +325,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-2figure.jpg",
-                        "image_w_text_tag": [
-                            "The Form 10-K is submitted annually; the Form 10-Q is submitted quarterly.<br /><br />The Form 10-K must be audited; the Form 10-Q need not be audited.<br /><br />The Form 10-K must include complete financial statements; the Form 10-Q can contain condensed financial statements."
-                        ],
+                        "image_w_text_tag": "The Form 10-K is submitted annually; the Form 10-Q is submitted quarterly.<br /><br />The Form 10-K must be audited; the Form 10-Q need not be audited.<br /><br />The Form 10-K must include complete financial statements; the Form 10-Q can contain condensed financial statements.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -527,9 +525,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-3figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table class=\"blue striped\"><tbody><tr><th><p>Annual Report/Form 10-K (GAAP): Financial Statements</p></th><th><p>Where Found in Annual Statement (SAP)?</p></th></tr><tr><td><p>Balance Sheet</p></td><td><p><em>Assets</em></p><p><em>Liabilities, Surplus and Other Funds</em></p></td></tr><tr><td><p>Income Statement</p></td><td><p><em>Summary of Operations</em></p></td></tr><tr><td><p>Cash Flow Statement</p></td><td><p><em>Cash Flow</em></p></td></tr><tr><td><p>Statement of Owners’ Equity</p></td><td><p>“Capital and Surplus Account” on <em>Summary of Operations</em></p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table class=\"blue striped\"><tbody><tr><th><p>Annual Report/Form 10-K (GAAP): Financial Statements</p></th><th><p>Where Found in Annual Statement (SAP)?</p></th></tr><tr><td><p>Balance Sheet</p></td><td><p><em>Assets</em></p><p><em>Liabilities, Surplus and Other Funds</em></p></td></tr><tr><td><p>Income Statement</p></td><td><p><em>Summary of Operations</em></p></td></tr><tr><td><p>Cash Flow Statement</p></td><td><p><em>Cash Flow</em></p></td></tr><tr><td><p>Statement of Owners’ Equity</p></td><td><p>“Capital and Surplus Account” on <em>Summary of Operations</em></p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -625,7 +621,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: In the United States, all publicly traded companies, including stock insurers, must publish an Annual Report for their stockholders.",
@@ -686,14 +682,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In the United States, the Form 10-K is a quarterly report designed to keep the SEC and investors apprised of the company’s performance and condition during the year.",
@@ -761,7 +757,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In the Annual Statement, the page titled <em>Summary of Operations</em> is the statutory version of the GAAP balance sheet.",
@@ -822,14 +818,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Within the Annual Statement, each financial statement contains data for the current year and the previous year.",

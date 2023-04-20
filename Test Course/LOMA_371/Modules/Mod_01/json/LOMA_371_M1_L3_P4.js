@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Enterprise Risk Management",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The topics discussed so far in this chapter are common components of risk management programs for life insurance companies. As we described in Chapter 1, <em>enterprise risk management (ERM)</em> <strong> </strong>is a system that identifies and quantifies risks from both potential threats and potential opportunities and manages these risks in a coordinated approach that supports the organization’s strategic objectives. ERM takes a top-down, enterprise-wide approach to viewing <em>all</em> of the significant risks that could affect an insurer’s strategic objectives. According to ERM, risk is any negative consequence a company faces as it conducts its operations, including the failure to meet objectives or to exploit profitable opportunities."
                     },
                     {
-                        "Paragraph_txt": "ERM and traditional risk management share many specific practices in common, such as employing a CRO, maintaining a risk committee, and establishing a risk taxonomy. The key differences between the two systems are the number of risks encompassed and ERM’s inclusion of risk as an opportunity for gain. Although an insurer’s actuaries and investment specialists are responsible for managing a company’s ERM activities, all employees should recognize how ERM programs differ from other traditional risk management techniques. The following table summarizes the differences between traditional risk management and ERM."
+                        "Paragraph_txt": "<br />ERM and traditional risk management share many specific practices in common, such as employing a CRO, maintaining a risk committee, and establishing a risk taxonomy. The key differences between the two systems are the number of risks encompassed and ERM’s inclusion of risk as an opportunity for gain. Although an insurer’s actuaries and investment specialists are responsible for managing a company’s ERM activities, all employees should recognize how ERM programs differ from other traditional risk management techniques. The following table summarizes the differences between traditional risk management and ERM."
                     }
                 ]
             },
@@ -280,7 +250,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recent regulations have been strong drivers in pushing financial institutions and insurers to adopt ERM. Two examples of such regulations are the NAIC’s Risk Management and Own Risk and Solvency Assessment (ORSA) Model Act and the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the Dodd-Frank Act)."
                     },
                     {
-                        "Paragraph_txt": "Most insurers practice ERM to some extent, although some insurers implement ERM practices and techniques to a greater degree than do others. An effective ERM program typically includes the following components: (1) a risk management culture, (2) strategic risk management, (3) a risk control process, (4) a risk management framework, and (5) catastrophic event management."
+                        "Paragraph_txt": "<br />Most insurers practice ERM to some extent, although some insurers implement ERM practices and techniques to a greater degree than do others. An effective ERM program typically includes the following components: (1) a risk management culture, (2) strategic risk management, (3) a risk control process, (4) a risk management framework, and (5) catastrophic event management."
                     }
                 ]
             },
@@ -583,7 +553,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Various authorities have developed risk management frameworks to be used as guides for implementing risk management. For our purposes, a <em>risk management framework</em> is a set of components and principles that supports risk management throughout an organization."
                     },
                     {
-                        "Paragraph_txt": "Although developed by recognized authorities, risk management frameworks are voluntary, unless mandated by a governmental agency. When a governmental agency mandates a framework, it becomes a regulation. Companies that voluntarily comply with a framework adhere to best practices and are better prepared to respond to more stringent risk management requirements in the future. Three of the most well-known risk management frameworks are the ORSA ERM framework, the COSO ERM framework, and the ISO 31000 standard."
+                        "Paragraph_txt": "<br />Although developed by recognized authorities, risk management frameworks are voluntary, unless mandated by a governmental agency. When a governmental agency mandates a framework, it becomes a regulation. Companies that voluntarily comply with a framework adhere to best practices and are better prepared to respond to more stringent risk management requirements in the future. Three of the most well-known risk management frameworks are the ORSA ERM framework, the COSO ERM framework, and the ISO 31000 standard."
                     }
                 ]
             },
@@ -962,7 +932,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: Unlike traditional risk management, enterprise risk management (ERM) includes not only the potential for loss but the potential for taking advantage of an opportunity.",
@@ -1023,14 +993,14 @@ Lesson_Data_File([
                         "Question_type": "",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A risk management framework is a set of components and principles that supports risk management throughout an organization. Match each statement with the correct framework by typing the correct number choice in the blank.",

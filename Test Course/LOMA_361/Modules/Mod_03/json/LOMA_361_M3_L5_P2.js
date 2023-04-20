@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Internal Control",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -396,7 +366,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Preventive controls are usually more effective at reducing errors or problems than are detective controls, but preventive controls are also typically more expensive. As with any other expense, insurers analyze both preventive and detective controls to ensure that they provide benefits that are worth their costs."
                     },
                     {
-                        "Paragraph_txt": "Figure 16.1 summarizes administrative, accounting, preventive, and detective controls."
+                        "Paragraph_txt": "<br />Figure 16.1 summarizes administrative, accounting, preventive, and detective controls."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 16.1 Types of Controls</strong>"
                     }
                 ]
             },
@@ -404,9 +407,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Administrative controls guide employees in day-to-day tasks; accounting controls authorize financial transactions, safeguard assets, and ensure reliable financial reporting.<br /><br />Preventive controls are implemented before a transaction to prevent errors or problems from occurring; detective controls are undertaken after a transaction to detect an error or problem after it occurs."
-                        ],
+                        "image_w_text_tag": "Administrative controls guide employees in day-to-day tasks; accounting controls authorize financial transactions, safeguard assets, and ensure reliable financial reporting.<br /><br />Preventive controls are implemented before a transaction to prevent errors or problems from occurring; detective controls are undertaken after a transaction to detect an error or problem after it occurs.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -419,7 +420,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 16.1</strong> Types of Controls",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -490,12 +491,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 16.2 Preventive vs. Detective Controls: Balancing Effectiveness and Cost</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "16-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Insurers face a balancing act with preventive controls and detective controls:<br /><br />Preventive controls are usually more effective, but detective controls are usually less expensive."
-                        ],
+                        "image_w_text_tag": "Insurers face a balancing act with preventive controls and detective controls:<br /><br />Preventive controls are usually more effective, but detective controls are usually less expensive.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -508,7 +540,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 16.2</strong> Preventive vs. Detective Controls: Balancing Effectiveness and Cost",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -698,7 +730,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Internal controls are also designed to reduce the incidence of criminal acts, such as theft against a company by employees. Because no system is perfect, however, a determined employee occasionally can circumvent a company’s internal controls, at least temporarily."
                     },
                     {
-                        "Paragraph_txt": "A company must examine and evaluate its policies and procedures, and then develop controls that fit the company’s operations. Internal controls must be workable from an operational point of view as well as provide greater benefits than they cost."
+                        "Paragraph_txt": "<br />A company must examine and evaluate its policies and procedures, and then develop controls that fit the company’s operations. Internal controls must be workable from an operational point of view as well as provide greater benefits than they cost."
                     }
                 ]
             },
@@ -799,7 +831,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Note that an insurer could be subject to fines and other penalties for noncompliance with regulatory requirements. For example, regulators can impose a fine on a life insurance company that continues to file late quarterly financial statements. The payment of fines and penalties decreases an insurer’s net income and ultimately its surplus."
                     },
                     {
-                        "Paragraph_txt": "All effective internal control systems follow certain principles, including segregation of duties, execution of transactions as authorized, recording of transactions as executed, safeguarding of assets, and physical comparison of recorded amounts."
+                        "Paragraph_txt": "<br />All effective internal control systems follow certain principles, including segregation of duties, execution of transactions as authorized, recording of transactions as executed, safeguarding of assets, and physical comparison of recorded amounts."
                     }
                 ]
             },
@@ -835,7 +867,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The principle of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">segregation of duties</span>, also known as the <em>principle of dual control</em>, requires an employer to design jobs so that incompatible functions are assigned to different individuals. In this context, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">incompatible functions</span> are job duties that, when combined, place an employee in a position to commit an illegal act or to conceal errors or irregularities in the normal course of his employment. When incompatible functions are combined, an insurer is also less likely to detect unintentional employee errors. Segregating—or “separating”—duties among employees provides an environment in which an insurer can protect its assets and detect and correct errors and irregularities quickly."
                     },
                     {
-                        "Paragraph_txt": "In general, an effective internal control system separates the (1) custodial tasks, (2) authorization tasks, and (3) accounting tasks associated with an insurer’s assets. In this context, <em>custody</em> is defined as the physical or electronic handling of assets. Under segregation of duties, the employees typically work in different areas or functions of the company."
+                        "Paragraph_txt": "<br />In general, an effective internal control system separates the (1) custodial tasks, (2) authorization tasks, and (3) accounting tasks associated with an insurer’s assets. In this context, <em>custody</em> is defined as the physical or electronic handling of assets. Under segregation of duties, the employees typically work in different areas or functions of the company."
                     }
                 ]
             },
@@ -862,7 +894,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -898,7 +930,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> At the Evergreen Life Insurance Company, Julio assumes custody of all securities, whereas Shu-Ling is authorized to sell these securities. Finally, Marisela maintains the records associated with these securities."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> If Evergreen had not separated these incompatible functions, a dishonest employee would be able to conceal irregularities associated with selling these securities; even an honest employee could make a serious mistake that would potentially go undetected."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> If Evergreen had not separated these incompatible functions, a dishonest employee would be able to conceal irregularities associated with selling these securities; even an honest employee could make a serious mistake that would potentially go undetected."
                     }
                 ]
             },
@@ -925,7 +957,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -961,7 +993,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Complicating an insurer’s adherence to the segregation of duties is the trend toward employee empowerment, especially the delegation of start-to-finish processing by one employee. Under employee empowerment programs, many insurers delegate authority to employees at the lowest possible level in specified functions. This delegation can result in a blurring of incompatible functions. Therefore, under an employee empowerment program, an insurer should conduct random internal audits of business transactions more frequently than in a more hierarchical organization. We discuss internal auditing in detail later in the chapter."
                     },
                     {
-                        "Paragraph_txt": "Figure 16.3 illustrates balancing segregation of duties and employee empowerment."
+                        "Paragraph_txt": "<br />Figure 16.3 illustrates balancing segregation of duties and employee empowerment."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 16.3 Balancing Segregation of Duties and Employee Empowerment</strong>"
                     }
                 ]
             },
@@ -969,9 +1034,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Insurers have to balance segregation of duties with employee empowerment:<br /><br />Strict segregation of duties minimizes opportunities for error, dishonesty, and crime; but employee empowerment can improve efficiency and employee satisfaction. On the other hand, employee empowerment requires more frequent internal audits."
-                        ],
+                        "image_w_text_tag": "Insurers have to balance segregation of duties with employee empowerment:<br /><br />Strict segregation of duties minimizes opportunities for error, dishonesty, and crime; but employee empowerment can improve efficiency and employee satisfaction. On the other hand, employee empowerment requires more frequent internal audits.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -984,7 +1047,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 16.3</strong> Balancing Segregation of Duties and Employee Empowerment",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1086,7 +1149,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">execution of transactions as authorized</span> is the element of the internal control system that concerns the delegation of authority to perform specified tasks and the communication of that authority. In an insurance company, many different types of monetary transactions—such as issuing policies, paying benefits, purchasing and selling securities, and paying operating expenses—require employee authorization. No financial transaction should occur without some form of official authorization."
                     },
                     {
-                        "Paragraph_txt": "Authorization levels should be realistic and a company should communicate them clearly. Within the context of an internal control system, an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">authorization level</span> is the maximum monetary amount that a company employee has been granted official power to approve for disbursement. Whatever the type of transaction, a specified employee authorizes each transaction at the appropriate level. Each authorization level should reflect the transaction and the experience and responsibility of the employee concerned."
+                        "Paragraph_txt": "<br />Authorization levels should be realistic and a company should communicate them clearly. Within the context of an internal control system, an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">authorization level</span> is the maximum monetary amount that a company employee has been granted official power to approve for disbursement. Whatever the type of transaction, a specified employee authorizes each transaction at the appropriate level. Each authorization level should reflect the transaction and the experience and responsibility of the employee concerned."
                     }
                 ]
             },
@@ -1113,7 +1176,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1173,7 +1236,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1266,7 +1329,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1326,7 +1389,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1468,12 +1531,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 16.4 Balancing Act: Safeguarding Assets While Providing Access</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "16-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Insurers must balance the need to keep assets secure from theft, damage, or loss with the need for employees to access the assets to do their jobs."
-                        ],
+                        "image_w_text_tag": "Insurers must balance the need to keep assets secure from theft, damage, or loss with the need for employees to access the assets to do their jobs.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1486,7 +1580,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 16.4</strong> Balancing Act: Safeguarding Assets While Providing Access",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1555,7 +1649,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">physical comparison of recorded amounts</span> means that a company counts its assets on a periodic basis and compares this count to the amounts in its accounting records. This physical comparison is typically accomplished by means of an inventory. An<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> inventory</span> is an itemized count and listing of a company’s assets, such as property, products, materials, or securities."
                     },
                     {
-                        "Paragraph_txt": "Figure 16.5 summarizes the principles of an effective internal control system."
+                        "Paragraph_txt": "<br />Figure 16.5 summarizes the principles of an effective internal control system."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 16.5 Principles of an Effective Internal Control System</strong>"
                     }
                 ]
             },
@@ -1563,9 +1690,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "16-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Segregation of duties means that jobs are designed so that incompatible functions are assigned to different individuals.<br /><br />Execution of transactions as authorized means that individuals are authorized to perform transactions of appropriate magnitude and importance.<br /><br />Recording of transactions as executed means that transactions are recorded in the correct accounting period, in the correct accounts, and in the correct amounts.<br /><br />Safeguarding of assets means that the company is protected against loss of items of value.<br /><br />Physical comparison of recorded amounts means that actual assets owned are compared to recorded amounts."
-                        ],
+                        "image_w_text_tag": "Segregation of duties means that jobs are designed so that incompatible functions are assigned to different individuals.<br /><br />Execution of transactions as authorized means that individuals are authorized to perform transactions of appropriate magnitude and importance.<br /><br />Recording of transactions as executed means that transactions are recorded in the correct accounting period, in the correct accounts, and in the correct amounts.<br /><br />Safeguarding of assets means that the company is protected against loss of items of value.<br /><br />Physical comparison of recorded amounts means that actual assets owned are compared to recorded amounts.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1578,7 +1703,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 16.5</strong> Principles of an Effective Internal Control System",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1671,7 +1796,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2058,7 +2183,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2075,7 +2200,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following statements about preventive controls and detective controls is correct?",
@@ -2146,14 +2271,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The accounting system at the Sundog Life Insurance Company is designed so that Sundog’s controller must approve invoices for payment, and Sundog’s treasurer must sign the checks that pay the invoices. What principle of effective internal control does this situation illustrate?",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Asset Fluctuation Reserves",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,13 +115,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "The reserves we discussed in the previous chapter were those related to a life insurer’s obligations to its policyowners and beneficiaries—in other words, an insurer’s <em>contractual reserves</em>. In the United States, each life insurer also must establish two statutory reserves that are <em>noncontractual</em> in nature: the asset valuation reserve (AVR) and the interest maintenance reserve (IMR). The AVR and the IMR are designed to absorb gains and losses on the insurer’s invested assets."
                     },
                     {
-                        "Paragraph_txt": "You may recall from earlier chapters that the market values of an insurer’s invested assets can fluctuate widely. These two reserves are intended to minimize the effects of these fluctuations—thus earning them the name <em>asset fluctuation reserves</em>."
+                        "Paragraph_txt": "<br />You may recall from earlier chapters that the market values of an insurer’s invested assets can fluctuate widely. These two reserves are intended to minimize the effects of these fluctuations—thus earning them the name <em>asset fluctuation reserves</em>."
                     },
                     {
-                        "Paragraph_txt": "On an insurer’s statutory balance sheet, capital gains increase the insurer’s assets, whereas capital losses decrease them. The insurer must balance these changes in assets with a change in either liabilities or capital and surplus. If capital gains and losses were allowed to affect an insurer’s capital and surplus accounts, then the insurer’s capital and surplus would be subject to significant short-term fluctuations, resulting in an inaccurate picture of the insurer’s overall financial condition. Instead, these capital gains and losses are reflected in the AVR and the IMR. These two reserves act as a buffer for the insurer’s capital and surplus, causing capital and surplus to be affected only gradually by capital gains and losses. Thus, these reserves help to ensure the stability of an insurer’s capital and surplus accounts."
+                        "Paragraph_txt": "<br />On an insurer’s statutory balance sheet, capital gains increase the insurer’s assets, whereas capital losses decrease them. The insurer must balance these changes in assets with a change in either liabilities or capital and surplus. If capital gains and losses were allowed to affect an insurer’s capital and surplus accounts, then the insurer’s capital and surplus would be subject to significant short-term fluctuations, resulting in an inaccurate picture of the insurer’s overall financial condition. Instead, these capital gains and losses are reflected in the AVR and the IMR. These two reserves act as a buffer for the insurer’s capital and surplus, causing capital and surplus to be affected only gradually by capital gains and losses. Thus, these reserves help to ensure the stability of an insurer’s capital and surplus accounts."
                     },
                     {
-                        "Paragraph_txt": "Note that the AVR and IMR are relevant only for statutory reporting purposes."
+                        "Paragraph_txt": "<br />Note that the AVR and IMR are relevant only for statutory reporting purposes."
                     }
                 ]
             },
@@ -252,7 +222,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although these examples describe invested assets that have declined in value due to credit risk, the market value of invested assets can also increase due to credit risk."
                     },
                     {
-                        "Paragraph_txt": "At the end of the accounting year, an insurer may be required to increase its AVR by transferring an amount from its capital and surplus accounts. The amount that the insurer transfers depends on the risks associated with its invested assets: the riskier its invested assets, the larger the AVR the insurer must maintain. The ending balance of the AVR is reported on the statutory balance sheet as a liability."
+                        "Paragraph_txt": "<br />At the end of the accounting year, an insurer may be required to increase its AVR by transferring an amount from its capital and surplus accounts. The amount that the insurer transfers depends on the risks associated with its invested assets: the riskier its invested assets, the larger the AVR the insurer must maintain. The ending balance of the AVR is reported on the statutory balance sheet as a liability."
                     }
                 ]
             },
@@ -350,10 +320,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Capital gains caused by changes in market interest rates increase the IMR, whereas capital losses caused by changes in market interest rates decrease the IMR."
                     },
                     {
-                        "Paragraph_txt": "After an insurer posts a realized gain or loss on an invested asset to the IMR, the insurer amortizes, or spreads out, the gain or loss into investment income for the remaining original term of that investment. As a result, the insurer reports only a portion of an invested asset’s gain or loss on the <em>Statement of Operations</em> in a given year. The insurer then transfers a portion of each capital gain or loss from the IMR to capital and surplus each year until, at the date the invested asset would have matured, the insurer has transferred the entire gain or loss to capital and surplus. Therefore, these capital gains and losses affect capital and surplus gradually, as if the insurer had held the asset until maturity. As with the AVR, the ending balance of the IMR is generally reported on the statutory balance sheet as a liability."
+                        "Paragraph_txt": "<br />After an insurer posts a realized gain or loss on an invested asset to the IMR, the insurer amortizes, or spreads out, the gain or loss into investment income for the remaining original term of that investment. As a result, the insurer reports only a portion of an invested asset’s gain or loss on the <em>Statement of Operations</em> in a given year. The insurer then transfers a portion of each capital gain or loss from the IMR to capital and surplus each year until, at the date the invested asset would have matured, the insurer has transferred the entire gain or loss to capital and surplus. Therefore, these capital gains and losses affect capital and surplus gradually, as if the insurer had held the asset until maturity. As with the AVR, the ending balance of the IMR is generally reported on the statutory balance sheet as a liability."
                     },
                     {
-                        "Paragraph_txt": "Video 8.1 illustrates the differences between the AVR and IMR."
+                        "Paragraph_txt": "<br />Video 8.1 illustrates the differences between the AVR and IMR."
                     }
                 ]
             },
@@ -445,12 +415,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 8.1 AVR vs. IMR</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "8-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The purpose of both the AVR and the IMR is to allow investment lossesto affect capital and surplus gradually, avoiding short-term fluctuations.<br /><br />The ending balance of both the AVR and the IMR are generally reportedon the statutory balance sheet as a liability.<br /><br />The AVR absorbs gains and losses caused by credit risk and equity risk;the IMR absorbs gains and losses caused by interest-rate risk.<br /><br />The AVR typically applies to all types of invested assets, including bonds,preferred stock, derivatives, mortgages, common stock, and real estate;the IMR typically applies to debt securities, such as bonds, mortgages,mortgage-backed securities, and preferred stock.<br /><br />The AVR applies to both realized and unrealized gains and losses; theIMR applies to realized gains and losses only."
-                        ],
+                        "image_w_text_tag": "The purpose of both the AVR and the IMR is to allow investment lossesto affect capital and surplus gradually, avoiding short-term fluctuations.<br /><br />The ending balance of both the AVR and the IMR are generally reportedon the statutory balance sheet as a liability.<br /><br />The AVR absorbs gains and losses caused by credit risk and equity risk;the IMR absorbs gains and losses caused by interest-rate risk.<br /><br />The AVR typically applies to all types of invested assets, including bonds,preferred stock, derivatives, mortgages, common stock, and real estate;the IMR typically applies to debt securities, such as bonds, mortgages,mortgage-backed securities, and preferred stock.<br /><br />The AVR applies to both realized and unrealized gains and losses; theIMR applies to realized gains and losses only.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -463,7 +464,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 8.1</strong> AVR vs. IMR",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -513,7 +514,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "What do the asset valuation reserve (AVR) and the interest maintenance reserve (IMR) have in common?",

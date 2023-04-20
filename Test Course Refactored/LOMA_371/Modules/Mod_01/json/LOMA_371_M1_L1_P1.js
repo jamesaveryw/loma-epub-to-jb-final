@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Introduction",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -114,127 +84,6 @@ Lesson_Data_File([
                 ]
             },
             {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Solvency and Profitability"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "The Risk-Return Tradeoff"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Risk Management Culture and Product Development"
-                            },
-                            {
-                                "Paragraph_text": "The Actuarial Function"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "The Actuarial Control Cycle"
-                            },
-                            {
-                                "lstText": "Types of Actuaries"
-                            },
-                            {
-                                "lstText": "Actuarial Roles"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
                 "Question_Comp": [
                     {
                         "Question_type": "2",
@@ -247,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The two primary goals of any insurer are to ensure solvency and increase profitability. But which of the following statements about solvency and profitability are true for insurers?",
@@ -344,10 +193,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Companies in every industry manage various risks as an inevitable consequence of operating. For our purposes, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk</span> can be defined as the possibility of an unexpected outcome. The unexpected outcome may be a gain or a loss, but most people and businesses are concerned with the risks of potential losses. In addition, a potential loss may not be completely unexpected; a company may have identified a potential loss, but assumed that the outcome was unlikely in the normal course of business. The process of systematically identifying, assessing, and minimizing the negative impact of risk is known as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk management.</span>"
                     },
                     {
-                        "Paragraph_txt": "Insurers face the risks common to all companies. For example, like all companies, insurers face the risk that demand for their products could decrease, or even increase to an extent that places strain on the company. And like all financial services companies, insurers face the risk of malicious security breaches. By definition, though, a life insurance company also takes on risks from its customers. When a person purchases an insurance policy on her life, that person is managing the risk that her family will suffer a financial burden in the event of her untimely death. The insurance policy transfers that risk to the insurer, who accepts the risk of paying the death benefit."
+                        "Paragraph_txt": "<br />Insurers face the risks common to all companies. For example, like all companies, insurers face the risk that demand for their products could decrease, or even increase to an extent that places strain on the company. And like all financial services companies, insurers face the risk of malicious security breaches. By definition, though, a life insurance company also takes on risks from its customers. When a person purchases an insurance policy on her life, that person is managing the risk that her family will suffer a financial burden in the event of her untimely death. The insurance policy transfers that risk to the insurer, who accepts the risk of paying the death benefit."
                     },
                     {
-                        "Paragraph_txt": "Risk management is therefore a vital practice for any insurer. If an insurance company fails to manage risk adequately, the company is likely to become unable to meet its obligations to its policyowners and may ultimately go out of business. However, if an insurer manages risk well, it can meet the needs of all of its stakeholders, including policyowners, investors, regulators, and employees."
+                        "Paragraph_txt": "<br />Risk management is therefore a vital practice for any insurer. If an insurance company fails to manage risk adequately, the company is likely to become unable to meet its obligations to its policyowners and may ultimately go out of business. However, if an insurer manages risk well, it can meet the needs of all of its stakeholders, including policyowners, investors, regulators, and employees."
                     }
                 ]
             }

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Technical Product Design",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -147,12 +117,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.1 Technical Product Design in Product Development</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "6-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Shows the product development cycle. The Technical Product Design step is highlighted with a list of the following subcategories:<br /><br />Establishing a Financial Design, including Components of the Financial Design<br /><br />Testing a Financial Design<br /><br />Budgeting and Scheduling"
-                        ],
+                        "image_w_text_tag": "Shows the product development cycle. The Technical Product Design step is highlighted with a list of the following subcategories:<br /><br />Establishing a Financial Design, including Components of the Financial Design<br /><br />Testing a Financial Design<br /><br />Budgeting and Scheduling",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -165,7 +166,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.1</strong> Technical Product Design in Product Development",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -471,7 +472,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Companies can also conduct sensitivity analysis of extreme values to better understand how projected profits may be sensitive to variations in unknown future results. Sensitivity testing involves many model runs, ranging from fewer than a hundred runs for deterministic models to thousands of runs for stochastic models. Sensitivity analysis for a given product may involve both types of model."
                     },
                     {
-                        "Paragraph_txt": "Recall that each estimated value used in a life insurance or an annuity product design is known as an <em>actuarial assumption</em>. A typical product design includes actuarial assumptions for investment earnings, the costs of providing benefits, operating expenses, cash flow on existing and new business, expected loss scenarios, and unexpected financial results. Where applicable, insurers compare actuarial assumptions to relevant experience data from similar products."
+                        "Paragraph_txt": "<br />Recall that each estimated value used in a life insurance or an annuity product design is known as an <em>actuarial assumption</em>. A typical product design includes actuarial assumptions for investment earnings, the costs of providing benefits, operating expenses, cash flow on existing and new business, expected loss scenarios, and unexpected financial results. Where applicable, insurers compare actuarial assumptions to relevant experience data from similar products."
                     }
                 ]
             },
@@ -507,10 +508,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "In determining a product’s financial design, an insurer incorporates several product components, such as expected impacts on the company’s reserves and surplus created by the new product’s sales, as well as a charge for company operating expenses, a charge for the cost of benefits, a provision for investment results, premiums, and a contribution to company earnings. Each of these components must meet the valuation standards specific to the actuarial profession, such as the Actuarial Standards of Practice (ASOPs) set by the Actuarial Standards Board (ASB)."
                     },
                     {
-                        "Paragraph_txt": "In addition to premiums, considerations from customers may include annuity considerations, premiums for riders, and separate expense charges. Companies generally model the cost of benefits for each rider similarly to how they would model the costs for any other benefit."
+                        "Paragraph_txt": "<br />In addition to premiums, considerations from customers may include annuity considerations, premiums for riders, and separate expense charges. Companies generally model the cost of benefits for each rider similarly to how they would model the costs for any other benefit."
                     },
                     {
-                        "Paragraph_txt": "In undertaking product modeling, companies can use different approaches.<span class=\"ens\" id=\"loma371-ch6-span-6\"> <span class=\"endnote hidden\" data-note=\"loma371-ch6-en1\" epub:type=\"noteref\" id=\"loma371-ch6-span-7\" role=\"doc-noteref\">1</span> </span> Figure 6.2 illustrates one such approach, an equation that calculates a premium amount."
+                        "Paragraph_txt": "<br />In undertaking product modeling, companies can use different approaches.<span class=\"ens\" id=\"loma371-ch6-span-6\"> <span class=\"endnote hidden\" data-note=\"loma371-ch6-en1\" epub:type=\"noteref\" id=\"loma371-ch6-span-7\" role=\"doc-noteref\">1</span> </span> Figure 6.2 illustrates one such approach, an equation that calculates a premium amount."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.2 Calculating Premium Amounts</strong>"
                     }
                 ]
             },
@@ -518,9 +552,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A visual equation: Charge for operating expenses + contribution to company earnings + charge for cost of benefits – investment earnings = required premiums and other considerations from customers"
-                        ],
+                        "image_w_text_tag": "A visual equation: Charge for operating expenses + contribution to company earnings + charge for cost of benefits – investment earnings = required premiums and other considerations from customers",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -533,7 +565,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.2</strong> Calculating Premium Amounts",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -759,7 +791,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -819,7 +851,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -855,13 +887,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "How do actuaries calculate the amount to charge for company expenses? The actuaries estimate the costs—other than the cost of benefits—the company will incur in supporting the product, with allowances for future inflation."
                     },
                     {
-                        "Paragraph_txt": "To develop cost estimates, actuaries incorporate information from records of the company’s past expenses—called <em>expense experience</em>—as well as expenses of similar companies offering similar products. The company’s accounting area often develops the expense assumptions used in product design. The accounting area also works with the administrative areas to determine costs for expected transactions such as applications or policy loans. Then actuaries use these expense assumptions as a basis for estimating actual expenses."
+                        "Paragraph_txt": "<br />To develop cost estimates, actuaries incorporate information from records of the company’s past expenses—called <em>expense experience</em>—as well as expenses of similar companies offering similar products. The company’s accounting area often develops the expense assumptions used in product design. The accounting area also works with the administrative areas to determine costs for expected transactions such as applications or policy loans. Then actuaries use these expense assumptions as a basis for estimating actual expenses."
                     },
                     {
-                        "Paragraph_txt": "The <em>credibility</em> of experience data refers to the predictive value of the data set for a given purpose. For example, past trends have limited credibility because over a long future period, a trend is likely to cease or be supplanted by another trend. Therefore, in making long-term expense projections, actuaries make allowances for inflation and business cycles, or for the possibility that such cycles might be disrupted. For even greater accuracy in estimating future expenses, actuaries can analyze qualitative data such as customer feedback to help decision makers imagine how future events could diverge from established trends."
+                        "Paragraph_txt": "<br />The <em>credibility</em> of experience data refers to the predictive value of the data set for a given purpose. For example, past trends have limited credibility because over a long future period, a trend is likely to cease or be supplanted by another trend. Therefore, in making long-term expense projections, actuaries make allowances for inflation and business cycles, or for the possibility that such cycles might be disrupted. For even greater accuracy in estimating future expenses, actuaries can analyze qualitative data such as customer feedback to help decision makers imagine how future events could diverge from established trends."
                     },
                     {
-                        "Paragraph_txt": "We discuss incorporating operating expenses into technical product design further in Chapter 9."
+                        "Paragraph_txt": "<br />We discuss incorporating operating expenses into technical product design further in Chapter 9."
                     }
                 ]
             },
@@ -921,7 +953,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1058,7 +1090,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1329,7 +1361,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "During technical product design, companies must evaluate what the optimal investment policy for a new product is, and whether that policy is a good fit with the company’s existing investment patterns, currently offered products, and existing investment expertise. If the investment policy is not a good fit, and if the company still wishes to pursue the new product, the company must acquire new competencies, expertise, consulting services, or support software. An insurer must apply particular scrutiny to products that are supported by the general account, for which the insurer has assumed all risk."
                     },
                     {
-                        "Paragraph_txt": "For example, new complex design features may require an insurer to use support from hedging programs using investments in derivative securities. As you recall, <em>hedging</em> is an investment strategy that combines different offsetting types of securities in a given investment portfolio in order to reduce the overall riskiness, or volatility, of the portfolio’s asset mix. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">derivative security</span>, or <em>derivative</em>, is a financial security, such as a stock option, that derives its value from another security. A hedging program involves <span class=\"keyterm\" tabindex=\"0\" role=\"button\">hedge costs</span>, which are expenses for trading and holding derivative securities. Hedge costs can magnify the potential profits or losses from a product. For example, a hedge program might have a number of measures in place to control volatility, but in a sufficiently volatile market, the program may make adjustments so frequently that the hedge costs quickly increase. Effective hedging, however, reduces the risks of taking overall losses on products."
+                        "Paragraph_txt": "<br />For example, new complex design features may require an insurer to use support from hedging programs using investments in derivative securities. As you recall, <em>hedging</em> is an investment strategy that combines different offsetting types of securities in a given investment portfolio in order to reduce the overall riskiness, or volatility, of the portfolio’s asset mix. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">derivative security</span>, or <em>derivative</em>, is a financial security, such as a stock option, that derives its value from another security. A hedging program involves <span class=\"keyterm\" tabindex=\"0\" role=\"button\">hedge costs</span>, which are expenses for trading and holding derivative securities. Hedge costs can magnify the potential profits or losses from a product. For example, a hedge program might have a number of measures in place to control volatility, but in a sufficiently volatile market, the program may make adjustments so frequently that the hedge costs quickly increase. Effective hedging, however, reduces the risks of taking overall losses on products."
                     }
                 ]
             },
@@ -1421,7 +1453,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1481,7 +1513,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1612,7 +1644,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1648,7 +1680,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Countermeasure Life Insurance has two new product designs undergoing adjustment. For the first product, actuaries propose lowering the expense assumptions in the model. Countermeasure’s real-world operations must support this change by finding new, more efficient ways to do business so that actual expenses are reduced."
                     },
                     {
-                        "Paragraph_txt": "For the second product, actuaries propose increasing an investment income assumption. Countermeasure must support this assumption by adopting new investment strategies that are likely to produce greater investment income."
+                        "Paragraph_txt": "<br />For the second product, actuaries propose increasing an investment income assumption. Countermeasure must support this assumption by adopting new investment strategies that are likely to produce greater investment income."
                     }
                 ]
             },
@@ -1675,7 +1707,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1735,7 +1767,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1795,7 +1827,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1904,7 +1936,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: In determining a product’s financial design, an insurer incorporates product components that must meet the valuation standards specific to the actuarial profession, such as the Actuarial Standards of Practice (ASOPs) set by the Actuarial Standards Board (ASB).",
@@ -1965,14 +1997,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In general, experience data based on past trends has very high credibility, because trends are likely to continue over a long future period.",
@@ -2040,7 +2072,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The death benefit for a specific block of policies is $50,000,000. The estimated mortality rate for the group of insureds is 3%. What is the projected cost of the block’s death benefits for that year?",
@@ -2111,14 +2143,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the of the following product design features is NOT likely to increase policyholder behavior risk?",
@@ -2196,7 +2228,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Insurers credit investment returns and interest to customer accounts differently, depending on the product. For example, for fixed whole life insurance, the cash value grows at a (<strong>guaranteed fixed rate</strong> / <strong>rate that reflects the actual investment results</strong>). For a variable annuity, the accumulation value grows at a (<strong>guaranteed minimum crediting rate</strong> / <strong>rate that reflects the actual investment results</strong>).",
@@ -2267,14 +2299,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Hedge costs are not affected by a volatile market, because costs are determined when the offsetting types of securities are chosen.",
@@ -2342,7 +2374,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following characteristics may cause premium structures for individual life insurance products to vary? (Choose all that apply.)",

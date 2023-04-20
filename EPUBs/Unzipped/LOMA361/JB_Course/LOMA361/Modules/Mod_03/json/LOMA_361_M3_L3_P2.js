@@ -189,9 +189,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "14-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Balance Sheet ($000s omitted)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th>&nbsp;</th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th><th><p style=\"text-align: center;\">Amount Increase/Decrease</p></th><th><p style=\"text-align: center;\">Percent Increase/Decrease</p></th></tr><tr><th><p>Total Assets</p></th><td><p style=\"text-align: right;\">$11,825,060</p></td><td><p style=\"text-align: right;\">$13,901,278</p></td><td><p style=\"text-align: right;\">($2,076,218)</p></td><td><p style=\"text-align: right;\">(14.9%)</p></td></tr></tbody></table>[[NEEDS EDIT!!]]Income Statement ($000s omitted)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th>&nbsp;</th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th><th><p style=\"text-align: center;\">Amount Increase/Decrease</p></th><th><p style=\"text-align: center;\">Percent Increase/Decrease</p></th></tr><tr><th><p>Net Income</p></th><td><p style=\"text-align: right;\">$705,031</p></td><td><p style=\"text-align: right;\">$627,433</p></td><td><p style=\"text-align: right;\">$77,598</p></td><td><p style=\"text-align: right;\">12.4%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "Balance Sheet ($000s omitted)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th>&nbsp;</th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th><th><p style=\"text-align: center;\">Amount Increase/Decrease</p></th><th><p style=\"text-align: center;\">Percent Increase/Decrease</p></th></tr><tr><th><p>Total Assets</p></th><td><p style=\"text-align: right;\">$11,825,060</p></td><td><p style=\"text-align: right;\">$13,901,278</p></td><td><p style=\"text-align: right;\">($2,076,218)</p></td><td><p style=\"text-align: right;\">(14.9%)</p></td></tr></tbody></table>[[NEEDS EDIT!!]]Income Statement ($000s omitted)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th>&nbsp;</th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th><th><p style=\"text-align: center;\">Amount Increase/Decrease</p></th><th><p style=\"text-align: center;\">Percent Increase/Decrease</p></th></tr><tr><th><p>Net Income</p></th><td><p style=\"text-align: right;\">$705,031</p></td><td><p style=\"text-align: right;\">$627,433</p></td><td><p style=\"text-align: right;\">$77,598</p></td><td><p style=\"text-align: right;\">12.4%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -300,7 +298,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -423,7 +421,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -450,7 +448,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -513,7 +511,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -829,7 +827,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The Luna Life Insurance Company is using horizontal analysis to compare revenues from two separate accounting periods. The revenues in the base period were $24,700,000, and the revenues in the period under study were $26,600,000. What is the percentage value of the change between the two periods?",
@@ -900,14 +898,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Suppose you are conducting a trend analysis. The value for your base period is $6,100, and the value for the following period is $7,015. What are the index numbers for these two values?",
@@ -1042,9 +1040,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "14-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Figure: A section of a balance sheet.<br /><br />In the balance sheet, the Total Assets amount from 2018 and the Total Assets amount from 2017 are highlighted in red.<br /><br />Text in red: Horizontal analysis compares the amount of a particular item from one reporting period to another.<br /><br />In the balance sheet, the Debt Securities percent from 2018 and the Total Securities Available percent from 2018 are highlighted in purple.<br /><br />Text in purple: Vertical analysis compares the relationship between two items in the same accounting period."
-                        ],
+                        "image_w_text_tag": "Figure: A section of a balance sheet.<br /><br />In the balance sheet, the Total Assets amount from 2018 and the Total Assets amount from 2017 are highlighted in red.<br /><br />Text in red: Horizontal analysis compares the amount of a particular item from one reporting period to another.<br /><br />In the balance sheet, the Debt Securities percent from 2018 and the Total Securities Available percent from 2018 are highlighted in purple.<br /><br />Text in purple: Vertical analysis compares the relationship between two items in the same accounting period.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1243,7 +1239,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1306,7 +1302,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1386,9 +1382,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "14-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Chart: Puma Life Insurance Company Common-Size Balance Sheet, December 31, 2018<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th><p>Assets</p></th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th></tr><tr><td><p>Total securities available for sale</p></td><td><p style=\"text-align: right;\">80.7%</p></td><td><p style=\"text-align: right;\">85.7%</p></td></tr><tr><td><p>Other assets</p></td><td><p style=\"text-align: right;\">19.3%</p></td><td><p style=\"text-align: right;\">11.3%</p></td></tr><tr><td><p><strong>Total Assets</strong></p></td><td><p style=\"text-align: right;\">100%</p></td><td><p style=\"text-align: right;\">100%</p></td></tr><tr><th colspan=\"3\"><p>Liabilities and Stockholders<strong>’</strong>&nbsp;Equity</p></th></tr><tr><td><p>Total policy liabilities</p></td><td><p style=\"text-align: right;\">73.0%</p></td><td><p style=\"text-align: right;\">70.5%</p></td></tr><tr><td><p>Other liabilities</p></td><td><p style=\"text-align: right;\">3.9%</p></td><td><p style=\"text-align: right;\">4.9%</p></td></tr><tr><td><p><strong>Total Liabilities</strong></p></td><td><p style=\"text-align: right;\">76.9%</p></td><td><p style=\"text-align: right;\">75.4%</p></td></tr><tr><td><p><strong>Total Stockholders’ Equity</strong></p></td><td><p style=\"text-align: right;\">23.1%</p></td><td><p style=\"text-align: right;\">24.6%</p></td></tr><tr><td><p><strong>Total Liabilities and Stockholders’ Equity</strong></p></td><td><p style=\"text-align: right;\">100%</p></td><td><p style=\"text-align: right;\">100%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "Chart: Puma Life Insurance Company Common-Size Balance Sheet, December 31, 2018<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th><p>Assets</p></th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th></tr><tr><td><p>Total securities available for sale</p></td><td><p style=\"text-align: right;\">80.7%</p></td><td><p style=\"text-align: right;\">85.7%</p></td></tr><tr><td><p>Other assets</p></td><td><p style=\"text-align: right;\">19.3%</p></td><td><p style=\"text-align: right;\">11.3%</p></td></tr><tr><td><p><strong>Total Assets</strong></p></td><td><p style=\"text-align: right;\">100%</p></td><td><p style=\"text-align: right;\">100%</p></td></tr><tr><th colspan=\"3\"><p>Liabilities and Stockholders<strong>’</strong>&nbsp;Equity</p></th></tr><tr><td><p>Total policy liabilities</p></td><td><p style=\"text-align: right;\">73.0%</p></td><td><p style=\"text-align: right;\">70.5%</p></td></tr><tr><td><p>Other liabilities</p></td><td><p style=\"text-align: right;\">3.9%</p></td><td><p style=\"text-align: right;\">4.9%</p></td></tr><tr><td><p><strong>Total Liabilities</strong></p></td><td><p style=\"text-align: right;\">76.9%</p></td><td><p style=\"text-align: right;\">75.4%</p></td></tr><tr><td><p><strong>Total Stockholders’ Equity</strong></p></td><td><p style=\"text-align: right;\">23.1%</p></td><td><p style=\"text-align: right;\">24.6%</p></td></tr><tr><td><p><strong>Total Liabilities and Stockholders’ Equity</strong></p></td><td><p style=\"text-align: right;\">100%</p></td><td><p style=\"text-align: right;\">100%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1494,7 +1488,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1557,7 +1551,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1836,7 +1830,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1896,7 +1890,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1913,7 +1907,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Trend analysis is a practice associated with (<strong>horizontal analysis</strong> / <strong>vertical analysis</strong>.)",
@@ -1974,14 +1968,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Insurers can use (<strong>horizontal analysis</strong> / <strong>vertical analysis</strong>) to compile a common-size financial statement.",

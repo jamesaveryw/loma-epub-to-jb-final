@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Introduction",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -114,319 +84,6 @@ Lesson_Data_File([
                 ]
             },
             {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Accounting and Financial Reporting"
-                            },
-                            {
-                                "Paragraph_text": "Users of Accounting Information"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Internal Users"
-                            },
-                            {
-                                "lstText": "External Users"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Fields of Accounting"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Financial Accounting"
-                            },
-                            {
-                                "lstText": "Management Accounting"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Performing the Accounting Function"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Private Accounting"
-                            },
-                            {
-                                "lstText": "Public Accounting"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Regulatory Agencies and Organizations"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Securities and Exchange Commission"
-                            },
-                            {
-                                "lstText": "Financial Accounting Standards Board"
-                            },
-                            {
-                                "lstText": "American Institute of Certified Public Accountants"
-                            },
-                            {
-                                "lstText": "Public Company Auditing Oversight Board"
-                            },
-                            {
-                                "lstText": "National Association of Insurance Commissioners"
-                            },
-                            {
-                                "lstText": "Internal Revenue Service"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Financial Tools and Insurer Solvency"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Insurance Regulatory Information System"
-                            },
-                            {
-                                "lstText": "Risk-Based Capital Requirements"
-                            },
-                            {
-                                "lstText": "Financial Condition Examinations"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
                 "Question_Comp": [
                     {
                         "Question_type": "2",
@@ -439,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Imagine that you work in the accounting department of the Sundog Life Insurance Company, a U.S. stock insurer. You specialize in the field of accounting known as financial accounting. Which of the following reports are you likely to work with on a regular basis? (Check all that apply.)",
@@ -510,14 +167,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "As a U.S. stock insurer, Sundog Life is subject to regulation from which of the following agencies and organizations? (Check all that apply.)",

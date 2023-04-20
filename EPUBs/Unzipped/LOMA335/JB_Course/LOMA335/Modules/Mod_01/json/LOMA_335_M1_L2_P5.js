@@ -189,9 +189,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "2-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A circle has the wording: “Favorable Markets Have…” in the middle of thepage. Arrows go out from this inner circle to connect with other circlesidentifying the favorable market characteristics as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Many potential customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Few sellers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Low costs to acquire customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Easy customer access</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The possibility of repeat sales</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Urgent need for a product</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Easy product delivery</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Few or no substitute products</span>"
-                        ],
+                        "image_w_text_tag": "A circle has the wording: “Favorable Markets Have…” in the middle of thepage. Arrows go out from this inner circle to connect with other circlesidentifying the favorable market characteristics as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Many potential customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Few sellers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Low costs to acquire customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Easy customer access</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The possibility of repeat sales</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Urgent need for a product</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Easy product delivery</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Few or no substitute products</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -387,7 +385,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -773,7 +771,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -866,7 +864,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -929,7 +927,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1003,9 +1001,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "2-5figure.jpg",
-                        "image_w_text_tag": [
-                            "The term “Monopoly” is centered over the picture of a one tall buildingwith characteristics in a bulleted list underneath as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• One seller or a small number of related sellers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Many barriers to entry</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Advertising not important</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Non-price competition not important</span><br /><br />The term “Oligopoly” is centered over the picture of four tall buildingswith characteristics in a bulleted list underneath as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Few sellers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Many barriers to entry</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Advertising important</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Non-price competition important</span><br /><br />The term “Monopolistic Competition” is centered over the picture of eighttall buildings with characteristics in a bulleted list underneath as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Many sellers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Few barriers to entry</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Advertising important</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Non-price competition important</span>"
-                        ],
+                        "image_w_text_tag": "The term “Monopoly” is centered over the picture of a one tall buildingwith characteristics in a bulleted list underneath as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• One seller or a small number of related sellers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Many barriers to entry</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Advertising not important</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Non-price competition not important</span><br /><br />The term “Oligopoly” is centered over the picture of four tall buildingswith characteristics in a bulleted list underneath as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Few sellers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Many barriers to entry</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Advertising important</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Non-price competition important</span><br /><br />The term “Monopolistic Competition” is centered over the picture of eighttall buildings with characteristics in a bulleted list underneath as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Many sellers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Few barriers to entry</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Advertising important</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Non-price competition important</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1101,7 +1097,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Market share can be calculated by dividing total industry sales over a designated period by a company’s sales in the same designated period.",
@@ -1162,14 +1158,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The Fine Insurance Company is considering distributing its products in a new market. Select all of the market characteristics that would make the market attractive or favorable to Fine.",

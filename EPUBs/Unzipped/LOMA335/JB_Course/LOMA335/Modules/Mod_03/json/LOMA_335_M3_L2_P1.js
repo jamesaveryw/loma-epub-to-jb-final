@@ -132,7 +132,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "In order to refine EndiFirst's mobile strategy, company analysts want to determine which population of customers is most likely to purchase insurance through its mobile app. Which of the following actions could provide EndiFirst with the data it needs?",

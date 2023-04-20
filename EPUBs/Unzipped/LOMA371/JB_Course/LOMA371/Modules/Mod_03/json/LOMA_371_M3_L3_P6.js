@@ -395,7 +395,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following is <em>not</em> an example of a design adjustment that can help in mitigating risks for a fixed or fixed-rate product?",

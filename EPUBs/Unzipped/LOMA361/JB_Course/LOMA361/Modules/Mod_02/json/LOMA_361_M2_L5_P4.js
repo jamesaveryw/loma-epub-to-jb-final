@@ -748,9 +748,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-2figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p>Internal Sources of Funds (Increase Capital and Surplus)</p></th><th><p>Internal Uses of Funds (Decrease Capital and Surplus)</p></th></tr><tr><td><p>Net income from a net gain in operations or from the sale of an investedasset</p></td><td><p>A net loss from operations or from the sale of an invested asset</p></td></tr><tr><td><p>An increase in admitted assets (U.S. statutory accounting only)</p></td><td><p>A decrease in admitted assets (U.S. statutory accounting only)</p></td></tr><tr><td><p>Reserve destrengthening</p></td><td><p>Reserve strengthening</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p>Internal Sources of Funds (Increase Capital and Surplus)</p></th><th><p>Internal Uses of Funds (Decrease Capital and Surplus)</p></th></tr><tr><td><p>Net income from a net gain in operations or from the sale of an investedasset</p></td><td><p>A net loss from operations or from the sale of an invested asset</p></td></tr><tr><td><p>An increase in admitted assets (U.S. statutory accounting only)</p></td><td><p>A decrease in admitted assets (U.S. statutory accounting only)</p></td></tr><tr><td><p>Reserve destrengthening</p></td><td><p>Reserve strengthening</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1451,9 +1449,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-3figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p>External Sources of Funds (Increase Capital and Surplus)</p></th><th><p>External Uses of Funds (Decrease Capital and Surplus)</p></th></tr><tr><td><p>Ceding insurance risk to a reinsurer</p></td><td><p>Assuming insurance risk from a direct writer</p></td></tr><tr><td><p>Selling in-force business</p></td><td><p>Purchasing in-force business</p></td></tr><tr><td><p>Issuing stock</p></td><td><p>Repurchasing or retiring stock</p></td></tr><tr><td><p>Issuing surplus notes (U.S. statutory accounting only)</p></td><td><p>Repaying surplus notes (U.S. statutory accounting only)</p></td></tr><tr><td><p>Changing corporate form</p></td><td><p>Changing corporate form</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p>External Sources of Funds (Increase Capital and Surplus)</p></th><th><p>External Uses of Funds (Decrease Capital and Surplus)</p></th></tr><tr><td><p>Ceding insurance risk to a reinsurer</p></td><td><p>Assuming insurance risk from a direct writer</p></td></tr><tr><td><p>Selling in-force business</p></td><td><p>Purchasing in-force business</p></td></tr><tr><td><p>Issuing stock</p></td><td><p>Repurchasing or retiring stock</p></td></tr><tr><td><p>Issuing surplus notes (U.S. statutory accounting only)</p></td><td><p>Repaying surplus notes (U.S. statutory accounting only)</p></td></tr><tr><td><p>Changing corporate form</p></td><td><p>Changing corporate form</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1516,7 +1512,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "What effect does the purchase of a nonadmitted asset have on an insurer’s capital and surplus?",
@@ -1577,14 +1573,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following statements about surplus notes is correct?",

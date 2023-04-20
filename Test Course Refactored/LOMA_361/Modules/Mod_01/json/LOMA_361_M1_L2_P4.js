@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Double-Entry Accounting",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -240,7 +210,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">accounting entry</span>, also called a <em>journal entry</em>, is a record of a business transaction that includes at least one debit and one credit and shows the monetary value of the transaction in balance. For an activity to qualify as a business transaction, the activity must have a financial impact on the company—that is, the company must be able to assign an objective monetary value to the transaction."
                     },
                     {
-                        "Paragraph_txt": "A company determines the monetary value of a business transaction from source documents. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Source documents</span> are the various business papers and electronic forms that contain original information about a company’s business transactions. Source documents verify that a business transaction occurred, as well as the details of the transaction, such as the date, monetary amount, and who approved the transaction. Many insurance companies now track source documents by scanning them and storing them in an electronic document database. Examples of typical source documents for insurance companies are approved policy applications, premium notices, policy surrender forms, claim forms, invoices, and confirmations of investment purchases and sales."
+                        "Paragraph_txt": "<br />A company determines the monetary value of a business transaction from source documents. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Source documents</span> are the various business papers and electronic forms that contain original information about a company’s business transactions. Source documents verify that a business transaction occurred, as well as the details of the transaction, such as the date, monetary amount, and who approved the transaction. Many insurance companies now track source documents by scanning them and storing them in an electronic document database. Examples of typical source documents for insurance companies are approved policy applications, premium notices, policy surrender forms, claim forms, invoices, and confirmations of investment purchases and sales."
                     }
                 ]
             },
@@ -276,19 +246,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">simple accounting entry </span>is a record of a business transaction that affects only two accounts, and thus has only one debit and one credit. The accounting entry for the receipt of an annual premium is an example of a transaction that affects only two accounts. Suppose the Steadfast Life Insurance Company receives a $2,000 annual premium payment on a life insurance policy. This business transaction affects only two accounts—<em>Cash</em> and <em>Premium Income</em>—as shown below:"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash.........................</em>2,000"
+                        "Paragraph_txt": "<br /><em>Cash.........................</em>2,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Premium Income………….</em>2,000"
+                        "Paragraph_txt": "<br /><em>Premium Income………….</em>2,000"
                     },
                     {
-                        "Paragraph_txt": "To record the receipt of a $2,000 annual premium."
+                        "Paragraph_txt": "<br />To record the receipt of a $2,000 annual premium."
                     },
                     {
-                        "Paragraph_txt": "The example above shows a debit to<em> Cash</em> and a credit to <em>Premium Income</em>. The effect of this business transaction is to increase both <em>Cash</em> and <em>Premium</em> <em>Income</em> by $2,000, the amount of the premium payment. Note that journal entries list debits first and to the left and then list credits offset, or indented, to the right. In reality, most insurers have automated, electronic accounting entries; in these entries, debits might be listed in one column and credits in another column."
+                        "Paragraph_txt": "<br />The example above shows a debit to<em> Cash</em> and a credit to <em>Premium Income</em>. The effect of this business transaction is to increase both <em>Cash</em> and <em>Premium</em> <em>Income</em> by $2,000, the amount of the premium payment. Note that journal entries list debits first and to the left and then list credits offset, or indented, to the right. In reality, most insurers have automated, electronic accounting entries; in these entries, debits might be listed in one column and credits in another column."
                     },
                     {
-                        "Paragraph_txt": "The accounting entry above also includes a brief verbal description underneath it. The purpose of including verbal descriptions in accounting entries is to help anyone reviewing the company’s accounts to understand the details of a given transaction. Most automated systems contain clickable phrases that describe common transactions and that include links to each affected account."
+                        "Paragraph_txt": "<br />The accounting entry above also includes a brief verbal description underneath it. The purpose of including verbal descriptions in accounting entries is to help anyone reviewing the company’s accounts to understand the details of a given transaction. Most automated systems contain clickable phrases that describe common transactions and that include links to each affected account."
                     }
                 ]
             },
@@ -324,19 +294,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "Many business transactions affect more than two accounts. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">compound accounting entry</span> is an accounting record of a business transaction that affects more than two accounts. Suppose Steadfast paid a claim of $10,000 plus interest of $100 to the beneficiary of a life insurance policy. This business transaction affects three accounts—<em>Death Claims Paid</em>, <em>Interest Payable</em>, and <em>Cash</em>—as shown below:"
                     },
                     {
-                        "Paragraph_txt": "<em>Death&nbsp;Claims Paid............ </em>10,000"
+                        "Paragraph_txt": "<br /><em>Death&nbsp;Claims Paid............ </em>10,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Interest Payable.......................... </em>100"
+                        "Paragraph_txt": "<br /><em>Interest Payable.......................... </em>100"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash......................................... </em>10,100"
+                        "Paragraph_txt": "<br /><em>Cash......................................... </em>10,100"
                     },
                     {
-                        "Paragraph_txt": "To record the payment of a $10,000 death claim plus $100 interest.&nbsp;"
+                        "Paragraph_txt": "<br />To record the payment of a $10,000 death claim plus $100 interest.&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "The debit to <em>Death Claims Paid</em>, an expense account, increases the balance of this account, whereas the debit to <em>Interest Payable</em>, a liability account, and the credit to <em>Cash</em>, an asset account, decrease the balance in these accounts."
+                        "Paragraph_txt": "<br />The debit to <em>Death Claims Paid</em>, an expense account, increases the balance of this account, whereas the debit to <em>Interest Payable</em>, a liability account, and the credit to <em>Cash</em>, an asset account, decrease the balance in these accounts."
                     }
                 ]
             },
@@ -353,7 +323,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "According to double-entry accounting, which of the following statements is correct?",
@@ -705,7 +675,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Accounts can be either permanent or temporary. Examples of <em>permanent </em>accounts include",
@@ -776,14 +746,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "An insurer’s chart of accounts generally includes <em>Retained Earnings</em>, which is a type of account known as a",
@@ -880,34 +850,34 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">adjusting entry</span> is an accounting entry that a company makes to record accruals for revenues and expenses, unearned revenues, and prepaid expenses. Accruals allow an insurer to record expenses incurred but not yet paid and to record revenues earned but not yet received. Other adjusting entries include depreciation, changes made to reserve accounts, and corrections to previous accounting periods. After making the appropriate adjusting entries at the end of each accounting period, a company prepares its financial statements; it then records the applicable closing entries to ready its accounting records for the start of the next accounting period."
                     },
                     {
-                        "Paragraph_txt": "Adjusting entries typically apply to transactions of which a company has knowledge but lacks the appropriate source documents. Regardless, the company is still required to provide some type of documentation to support these entries. For example, salaries that an insurance company’s employees have earned during this year, but that the company will not pay until next year, may not yet have a time sheet or the equivalent source document available. Nonetheless, at the end of the accounting period, the company will prepare documentation that shows the amount of the adjusting entry, along with supporting details about how the monetary amounts were calculated. Using the general format of debiting an expense account—<em>Salaries Expense</em>, in this case—and crediting a payable account—<em>Salaries Payable</em>—the company prepares an adjusting entry as follows:"
+                        "Paragraph_txt": "<br />Adjusting entries typically apply to transactions of which a company has knowledge but lacks the appropriate source documents. Regardless, the company is still required to provide some type of documentation to support these entries. For example, salaries that an insurance company’s employees have earned during this year, but that the company will not pay until next year, may not yet have a time sheet or the equivalent source document available. Nonetheless, at the end of the accounting period, the company will prepare documentation that shows the amount of the adjusting entry, along with supporting details about how the monetary amounts were calculated. Using the general format of debiting an expense account—<em>Salaries Expense</em>, in this case—and crediting a payable account—<em>Salaries Payable</em>—the company prepares an adjusting entry as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Salaries Expense........................ </em>xxx"
+                        "Paragraph_txt": "<br /><em>Salaries Expense........................ </em>xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Salaries Payable........................</em> xxx"
+                        "Paragraph_txt": "<br /><em>Salaries Payable........................</em> xxx"
                     },
                     {
-                        "Paragraph_txt": "To adjust for salaries that have been earned but not yet paid."
+                        "Paragraph_txt": "<br />To adjust for salaries that have been earned but not yet paid."
                     },
                     {
-                        "Paragraph_txt": "Next year, upon paying the accrued salaries, the company would debit <em>Salaries Payable</em> and credit <em>Cash</em> to record this transaction, as follows:"
+                        "Paragraph_txt": "<br />Next year, upon paying the accrued salaries, the company would debit <em>Salaries Payable</em> and credit <em>Cash</em> to record this transaction, as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Salaries&nbsp; Payable..................</em> xxx"
+                        "Paragraph_txt": "<br /><em>Salaries&nbsp; Payable..................</em> xxx"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash......................................... </em>xxx"
+                        "Paragraph_txt": "<br /><em>Cash......................................... </em>xxx"
                     },
                     {
-                        "Paragraph_txt": "To pay accrued salaries from the previous year."
+                        "Paragraph_txt": "<br />To pay accrued salaries from the previous year."
                     },
                     {
-                        "Paragraph_txt": "In describing double-entry accounting and the different types of accounting entries, we generally state that the “company” makes various entries in its accounting system. In reality, most insurance companies use sophisticated accounting software, which performs many accounting tasks with minimal human intervention."
+                        "Paragraph_txt": "<br />In describing double-entry accounting and the different types of accounting entries, we generally state that the “company” makes various entries in its accounting system. In reality, most insurance companies use sophisticated accounting software, which performs many accounting tasks with minimal human intervention."
                     },
                     {
-                        "Paragraph_txt": "The insight below describes a relatively new technology that has the potential to transform the accounting function: robotic process automation (RPA)."
+                        "Paragraph_txt": "<br />The insight below describes a relatively new technology that has the potential to transform the accounting function: robotic process automation (RPA)."
                     }
                 ]
             },
@@ -934,7 +904,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1044,10 +1014,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "As noted above, a company using RPA typically sees a reduction in its workforce. However, with “robots” (or “bots”) performing the tedious, repetitive tasks associated with many business transactions, financial professionals can potentially spend more of their time on high-value activities, such as analyzing and interpreting data."
                     },
                     {
-                        "Paragraph_txt": "Although RPA is relatively new, its potential to increase operating efficiencies has gained the attention of insurers—as well as companies in other industries—around the world."
+                        "Paragraph_txt": "<br />Although RPA is relatively new, its potential to increase operating efficiencies has gained the attention of insurers—as well as companies in other industries—around the world."
                     },
                     {
-                        "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
+                        "Paragraph_txt": "<br /><a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
                     }
                 ]
             },
@@ -1074,7 +1044,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1228,7 +1198,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Normal balances are an important tool that managers (and others) can use to evaluate accounts and look for problems. For example, sometimes an account that has a normal debit balance shows a credit balance; alternatively, an account that has a normal credit balance shows a debit balance. In such cases, the manager who is responsible for that specific account balance must review it. For example, <em>Cash</em> has a normal debit balance. A credit balance in <em>Cash</em> means that the cash balance is below zero and must be investigated."
                     },
                     {
-                        "Paragraph_txt": "Video 2.4 teaches you about the normal balances for the five major account classifications."
+                        "Paragraph_txt": "<br />Video 2.4 teaches you about the normal balances for the five major account classifications."
                     }
                 ]
             },
@@ -1375,7 +1345,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Sophie works as an accountant for the Sundog Life Insurance Company. Sundog’s accounting software has flagged an account that needs investigating. One of the following statements describes this flagged account. Can you pick the right one?",

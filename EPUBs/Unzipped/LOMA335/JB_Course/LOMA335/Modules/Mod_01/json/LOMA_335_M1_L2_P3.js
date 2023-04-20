@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "2-1figure.jpg",
-                        "image_w_text_tag": [
-                            "A wooden road sign has three sections that identify three types of controlsand whether the control is best suited for controlling past operations,current operations, or future operations. The top section of the road signis an arrow pointing to the left and is labeled<br /><br /><strong>1. The Past – Feedback Controls</strong><br /><br />Examples of feedback controls include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Audits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Exception reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Performance appraisals</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Quality reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The middle section of the road sign is labeled</span><br /><br /><strong>2. You are Here – Concurrent Controls</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Examples of concurrent controls include</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real-time exception reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real-time monitoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Mentoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The bottom section of the road sign is an arrow pointing to the rightand is labeled</span><br /><br /><strong>3. The Future – Steering Controls</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Examples of steering controls include</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Codes of Conduct</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Job Descriptions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policies and Procedures</span>"
-                        ],
+                        "image_w_text_tag": "A wooden road sign has three sections that identify three types of controlsand whether the control is best suited for controlling past operations,current operations, or future operations. The top section of the road signis an arrow pointing to the left and is labeled<br /><br /><strong>1. The Past – Feedback Controls</strong><br /><br />Examples of feedback controls include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Audits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Exception reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Performance appraisals</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Quality reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The middle section of the road sign is labeled</span><br /><br /><strong>2. You are Here – Concurrent Controls</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Examples of concurrent controls include</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real-time exception reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real-time monitoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Mentoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The bottom section of the road sign is an arrow pointing to the rightand is labeled</span><br /><br /><strong>3. The Future – Steering Controls</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Examples of steering controls include</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Codes of Conduct</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Job Descriptions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policies and Procedures</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -294,7 +292,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -363,7 +361,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -423,7 +421,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -498,7 +496,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -591,7 +589,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -663,7 +661,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -723,7 +721,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -789,7 +787,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -849,7 +847,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -912,7 +910,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -965,7 +963,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The ABC Life Insurance Company has various operational controls that can be classified as steering controls, concurrent controls, or feedback controls. When ABC Life uses management by exception techniques to identify unacceptable performance at the end of an evaluation period, it is using a type of",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Account Classification",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -719,7 +689,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -779,7 +749,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1059,7 +1029,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Liabilities</span> represent the monetary value of a company’s current and future obligations. Liabilities result from a monetary commitment that the company’s management has made on behalf of the company. As such, liabilities represent demands against the company’s assets. A <em>payable</em>—an amount the company has promised to pay to another party—is a liability."
                     },
                     {
-                        "Paragraph_txt": "To remain in business, an insurer must have a higher monetary value for its assets than for its liabilities:"
+                        "Paragraph_txt": "<br />To remain in business, an insurer must have a higher monetary value for its assets than for its liabilities:"
                     }
                 ]
             },
@@ -1086,7 +1056,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1146,7 +1116,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1322,7 +1292,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1382,7 +1352,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1442,7 +1412,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1502,7 +1472,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1538,7 +1508,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall from Chapter 1 that, in the context of accounting, <em>capital </em>represents the amount of money invested in a company by its owners, usually through the purchase of the company’s stock."
                     },
                     {
-                        "Paragraph_txt": "One important example of a capital account is <em>Retained Earnings. </em> <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Retained earnings</span> represents the net income that an insurance company holds to reinvest in the company instead of paying the money out in dividends to its stockholders. Stock insurers use the <em>Retained Earnings</em> account when preparing GAAP financial reports. To comply with statutory financial reporting requirements, insurance companies use <em>Surplus </em>instead of <em>Retained Earnings</em>. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Surplus</span> is the cumulative amount of money—calculated as an insurance company’s assets minus its liabilities and capital—that remains in the company over time. Because mutual insurers and fraternal insurers do not have stockholders, they have no capital accounts. Thus, for mutual and fraternal insurers, we can say that"
+                        "Paragraph_txt": "<br />One important example of a capital account is <em>Retained Earnings. </em> <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Retained earnings</span> represents the net income that an insurance company holds to reinvest in the company instead of paying the money out in dividends to its stockholders. Stock insurers use the <em>Retained Earnings</em> account when preparing GAAP financial reports. To comply with statutory financial reporting requirements, insurance companies use <em>Surplus </em>instead of <em>Retained Earnings</em>. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Surplus</span> is the cumulative amount of money—calculated as an insurance company’s assets minus its liabilities and capital—that remains in the company over time. Because mutual insurers and fraternal insurers do not have stockholders, they have no capital accounts. Thus, for mutual and fraternal insurers, we can say that"
                     }
                 ]
             },
@@ -1565,7 +1535,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1625,7 +1595,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1748,7 +1718,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Revenues</span> represent the amount of earnings from a company’s core business operations. For insurance companies, core business operations include selling insurance and annuity products and services to customers, collecting investment income from investments that they own, and collecting fee income from providing administrative or management services to customers."
                     },
                     {
-                        "Paragraph_txt": "In general, an increase in a company’s revenues ultimately results in an increase in the company’s assets. For example, when a policyowner pays a policy premium, this transaction ultimately increases not only an insurer’s revenues but also its cash, which is an asset."
+                        "Paragraph_txt": "<br />In general, an increase in a company’s revenues ultimately results in an increase in the company’s assets. For example, when a policyowner pays a policy premium, this transaction ultimately increases not only an insurer’s revenues but also its cash, which is an asset."
                     }
                 ]
             },
@@ -1838,10 +1808,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Expenses</span>, also known as<em> costs</em>, are the amounts that a company spends in the course of conducting business. Expenses are a necessary part of doing business, because a company cannot generate revenues without incurring expenses. Typical expenses for an insurer include investment expenses, contractual benefit expenses, and operating expenses. Employee salaries usually are a large percentage of an insurer’s expenses."
                     },
                     {
-                        "Paragraph_txt": "Unlike revenues, which ultimately increase a company’s assets, expenses ultimately decrease the company’s assets. For example, the act of paying a policy claim (an expense) decreases cash (an asset)."
+                        "Paragraph_txt": "<br />Unlike revenues, which ultimately increase a company’s assets, expenses ultimately decrease the company’s assets. For example, the act of paying a policy claim (an expense) decreases cash (an asset)."
                     },
                     {
-                        "Paragraph_txt": "The relationship between an insurer’s revenues and expenses determines the insurer’s <em>net income</em> or <em>net loss</em>. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Net income</span>, or <em>net profit</em>, is any money that results from an excess of total revenues over total expenses during a specified period."
+                        "Paragraph_txt": "<br />The relationship between an insurer’s revenues and expenses determines the insurer’s <em>net income</em> or <em>net loss</em>. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Net income</span>, or <em>net profit</em>, is any money that results from an excess of total revenues over total expenses during a specified period."
                     }
                 ]
             },
@@ -1868,7 +1838,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1928,7 +1898,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1988,7 +1958,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2024,10 +1994,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Total expenses &gt; Total revenues = (Net loss)</strong>"
                     },
                     {
-                        "Paragraph_txt": "<strong>OR</strong>"
+                        "Paragraph_txt": "<br /><strong>OR</strong>"
                     },
                     {
-                        "Paragraph_txt": "<strong>Total expenses &gt; Total revenues = <span style=\"color:#B22222\">Net loss</span></strong>"
+                        "Paragraph_txt": "<br /><strong>Total expenses &gt; Total revenues = <span style=\"color:#B22222\">Net loss</span></strong>"
                     }
                 ]
             },
@@ -2054,7 +2024,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2071,7 +2041,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: An insurer’s short-term assets generally have high liquidity.",
@@ -2132,14 +2102,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: To remain in business, an insurer must have a higher monetary value for its liabilities than for its assets.",
@@ -2207,7 +2177,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: To comply with statutory financial reporting requirements, insurance companies use <em>Retained Earnings</em> instead of <em>Surplus</em>.",
@@ -2268,14 +2238,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In general, an increase in a company’s revenues ultimately results in a <em>decrease</em> in the company’s assets.",
@@ -2386,7 +2356,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2446,7 +2416,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2482,7 +2452,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Like all companies, insurance companies must keep both sides of this equation in balance—hence, the “balance” in “balance sheet.” Therefore, every business transaction that changes one side of the equation must be offset by at least one change to the other side of the equation."
                     },
                     {
-                        "Paragraph_txt": "For stock insurance companies, we can substitute the term <em>Capital and Surplus</em> for <em>Owners’ Equity</em>, as follows:"
+                        "Paragraph_txt": "<br />For stock insurance companies, we can substitute the term <em>Capital and Surplus</em> for <em>Owners’ Equity</em>, as follows:"
                     }
                 ]
             },
@@ -2509,7 +2479,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2569,7 +2539,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2596,7 +2566,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2632,7 +2602,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> To illustrate how the basic accounting equation stays in balance, let’s look at a simple transaction for a stock insurer."
                     },
                     {
-                        "Paragraph_txt": "A stock insurer issues additional stock to investors. This transaction increases <em>Cash</em> (part of <em>Assets</em>) on the left side of the equation, and this change is exactly offset by an equal increase to <em>Capital</em> on the right side of the equation."
+                        "Paragraph_txt": "<br />A stock insurer issues additional stock to investors. This transaction increases <em>Cash</em> (part of <em>Assets</em>) on the left side of the equation, and this change is exactly offset by an equal increase to <em>Capital</em> on the right side of the equation."
                     }
                 ]
             },
@@ -2659,7 +2629,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2719,7 +2689,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2779,7 +2749,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2806,7 +2776,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2842,7 +2812,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Let’s look at another simple transaction, this time for a mutual insurer."
                     },
                     {
-                        "Paragraph_txt": "A mutual insurer pays out policy dividends in cash to owners of its participating life insurance policies. This transaction decreases <em>Cash</em> (part of <em>Assets</em>) on the left side of the equation, and this change is exactly offset by an equal decrease in the insurer’s <em>Liabilities</em> on the right side of the equation. (We discuss policy dividends as a liability for insurers in a later chapter.)"
+                        "Paragraph_txt": "<br />A mutual insurer pays out policy dividends in cash to owners of its participating life insurance policies. This transaction decreases <em>Cash</em> (part of <em>Assets</em>) on the left side of the equation, and this change is exactly offset by an equal decrease in the insurer’s <em>Liabilities</em> on the right side of the equation. (We discuss policy dividends as a liability for insurers in a later chapter.)"
                     }
                 ]
             },
@@ -2869,7 +2839,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2905,7 +2875,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The basic accounting equation can be expanded to include an insurer’s revenues and expenses. At the end of an accounting period, the insurer closes out all its revenue and expense accounts on the income statement and transfers the net income or net loss—that is, total revenues minus total expenses—for the period to the <em>Owners’ Equity</em> account on the balance sheet."
                     },
                     {
-                        "Paragraph_txt": "Therefore, we can expand the basic accounting equation to include all five major account classifications:"
+                        "Paragraph_txt": "<br />Therefore, we can expand the basic accounting equation to include all five major account classifications:"
                     }
                 ]
             },
@@ -2932,7 +2902,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2992,7 +2962,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3009,7 +2979,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following correctly expresses the basic accounting equation for a <em>stock</em> insurer?",
@@ -3080,14 +3050,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The Blueberry Mutual Life Insurance Company, a U.S. mutual insurer, reported the following values on its year-end financial statements:",

@@ -156,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Four pairs of concepts, each one pushing against the other.<br /><br />Concept Pair 1: Rapid Innovation vs. Limited Operational and Financial Resources<br /><br />Concept Pair 2: Market Forces vs. Need for Disciplined Pricing<br /><br />Concept Pair 3: Rapid Speed vs. Regulatory Compliance<br /><br />Concept Pair 4: Customer Needs vs. Insurer Priorities and Capabilities"
-                        ],
+                        "image_w_text_tag": "Four pairs of concepts, each one pushing against the other.<br /><br />Concept Pair 1: Rapid Innovation vs. Limited Operational and Financial Resources<br /><br />Concept Pair 2: Market Forces vs. Need for Disciplined Pricing<br /><br />Concept Pair 3: Rapid Speed vs. Regulatory Compliance<br /><br />Concept Pair 4: Customer Needs vs. Insurer Priorities and Capabilities",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -824,9 +822,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A bar chart showing average shelf life of insurance and annuity projects.<br /><br />Insurance:<br /><br />Indexed universal life 1.25 years<br /><br />Term life 1.5 years<br /><br />Variable universal life 3.5 years<br /><br />Whole life 4.7 years<br /><br />Annuity:<br /><br />Indexed annuity 1.4 years<br /><br />Variable annuity 1.6 years<br /><br />Fixed annuity 4.8 years"
-                        ],
+                        "image_w_text_tag": "A bar chart showing average shelf life of insurance and annuity projects.<br /><br />Insurance:<br /><br />Indexed universal life 1.25 years<br /><br />Term life 1.5 years<br /><br />Variable universal life 3.5 years<br /><br />Whole life 4.7 years<br /><br />Annuity:<br /><br />Indexed annuity 1.4 years<br /><br />Variable annuity 1.6 years<br /><br />Fixed annuity 4.8 years",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -946,9 +942,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A figure of three text boxes.<br /><br />Box 1: Established Products, Generally Well Understood; generally lower risk<br /><br />Yearly renewable term life insurance<br /><br />Multiple-year term life insurance<br /><br />Fixed whole life insurance<br /><br />Universal life insurance<br /><br />Single-premium immediate annuities<br /><br />Box 2: Newer, Complex Products and Features; generally greater risk<br /><br />Variable universal life insurance with secondary guarantee riders<br /><br />Variable annuities with secondary death benefit guarantee riders<br /><br />Variable annuities with secondary living benefit guarantee riders<br /><br />Indexed annuities<br /><br />Box 3: Combination Products; risk level varies.<br /><br />Term life insurance with disability income insurance<br /><br />Hybrid life and long-term care insurance products<br /><br />Annuities with long-term care insurance"
-                        ],
+                        "image_w_text_tag": "A figure of three text boxes.<br /><br />Box 1: Established Products, Generally Well Understood; generally lower risk<br /><br />Yearly renewable term life insurance<br /><br />Multiple-year term life insurance<br /><br />Fixed whole life insurance<br /><br />Universal life insurance<br /><br />Single-premium immediate annuities<br /><br />Box 2: Newer, Complex Products and Features; generally greater risk<br /><br />Variable universal life insurance with secondary guarantee riders<br /><br />Variable annuities with secondary death benefit guarantee riders<br /><br />Variable annuities with secondary living benefit guarantee riders<br /><br />Indexed annuities<br /><br />Box 3: Combination Products; risk level varies.<br /><br />Term life insurance with disability income insurance<br /><br />Hybrid life and long-term care insurance products<br /><br />Annuities with long-term care insurance",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1093,7 +1087,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1153,7 +1147,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1289,9 +1283,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Chart showing average product development time.<br /><br />Term life products:<br /><br />Rate change: 18 weeks<br /><br />Revisions: 29 weeks<br /><br />New product: 35 weeks<br /><br />Whole life products:<br /><br />Rate change: 22 weeks<br /><br />Revisions: 31 weeks<br /><br />New product: 45 weeks<br /><br />Variable UL products:<br /><br />Rate change: 27 weeks<br /><br />Revisions: 44 weeks<br /><br />New product: 50 weeks"
-                        ],
+                        "image_w_text_tag": "Chart showing average product development time.<br /><br />Term life products:<br /><br />Rate change: 18 weeks<br /><br />Revisions: 29 weeks<br /><br />New product: 35 weeks<br /><br />Whole life products:<br /><br />Rate change: 22 weeks<br /><br />Revisions: 31 weeks<br /><br />New product: 45 weeks<br /><br />Variable UL products:<br /><br />Rate change: 27 weeks<br /><br />Revisions: 44 weeks<br /><br />New product: 50 weeks",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1397,7 +1389,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1457,7 +1449,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1520,7 +1512,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1580,7 +1572,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2063,7 +2055,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2123,7 +2115,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2202,7 +2194,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2262,7 +2254,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2341,7 +2333,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2401,7 +2393,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2418,7 +2410,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Blue Hawk Financial Company generally employs a new product strategy that involves offering previously unknown products. Blue Hawk’s strategy is commonly known as",
@@ -2489,14 +2481,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Most insurers employ only one product development strategy for all of their product lines.",
@@ -2564,7 +2556,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Shelf life refers to how long an insurer can offer a product in the marketplace before it becomes obsolete and needs to be revised, repriced or retired. In general, (<strong>whole life</strong> / <strong>term life</strong>) insurance products tend to have a shorter shelf life.",
@@ -2625,14 +2617,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Vibrant Insurance employs a product management group that performs hands-on development of a new product. This group includes representatives from marketing, actuarial, underwriting, contract administration, investments, IT, customer service, legal, and accounting areas. This group is known as a",
@@ -2705,7 +2697,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: When a company creates a product that is new to the market or the company, the filing process often takes longer than it would if the company modified an existing product.",

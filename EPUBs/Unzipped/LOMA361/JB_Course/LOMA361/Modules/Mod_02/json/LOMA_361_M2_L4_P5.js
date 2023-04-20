@@ -162,9 +162,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Flowchart:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer receives a claim, establishes a claim record, and records theclaim in the claim register.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer calculates its liability to the policyowner.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer approves the claim.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer issues draft or check; insurer debits <em>Death Claims Paid</em> andcredits <em>Cash</em> (for the same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• If the policy is reinsured, insurer determines the amount to be recoveredfrom the reinsurer and notifies the reinsurer of the approved claim; insurerdebits <em>Amount Recoverable from Reinsurer</em> and credits <em>Death Claims Paid</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Whether or not the policy is reinsured, if the claim is unpaid at theend of the accounting period, actuaries include the amount of the unpaidclaim in the claim liability.</span>"
-                        ],
+                        "image_w_text_tag": "Flowchart:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer receives a claim, establishes a claim record, and records theclaim in the claim register.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer calculates its liability to the policyowner.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer approves the claim.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer issues draft or check; insurer debits <em>Death Claims Paid</em> andcredits <em>Cash</em> (for the same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• If the policy is reinsured, insurer determines the amount to be recoveredfrom the reinsurer and notifies the reinsurer of the approved claim; insurerdebits <em>Amount Recoverable from Reinsurer</em> and credits <em>Death Claims Paid</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Whether or not the policy is reinsured, if the claim is unpaid at theend of the accounting period, actuaries include the amount of the unpaidclaim in the claim liability.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -273,7 +271,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -342,7 +340,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -359,7 +357,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: A typical accounting entry to record the payment of a death benefit on a life insurance policy would include a credit to <em>Death Claims Paid</em>.",

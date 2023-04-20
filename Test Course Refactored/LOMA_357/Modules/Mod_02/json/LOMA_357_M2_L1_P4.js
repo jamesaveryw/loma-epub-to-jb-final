@@ -156,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-1figure.jpg",
-                        "image_w_text_tag": [
-                            "At the top of the hierarchy is the corporate-level investment policy.At the next level down in the hierarchy is the functional-level investmentpolicy. At the bottom of the hierarchy are the investment policy statements.At this level, a given investment policy statement is only applicable toa specific portfolio."
-                        ],
+                        "image_w_text_tag": "At the top of the hierarchy is the corporate-level investment policy.At the next level down in the hierarchy is the functional-level investmentpolicy. At the bottom of the hierarchy are the investment policy statements.At this level, a given investment policy statement is only applicable toa specific portfolio.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -418,7 +416,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -603,7 +601,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -669,7 +667,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -755,7 +753,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -910,7 +908,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -979,7 +977,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1115,9 +1113,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-2figure.jpg",
-                        "image_w_text_tag": [
-                            "One key performance indicator is a line chart that illustrates the projectedand actual changes in a portfolio’s market values over a period of time.Another key performance indicator is a gauge that indicates how much investmentincome the portfolio has earned year-to-date as compared to its targetamount for the year.<br /><br />One key risk indicator is a pie chart that indicates the percent of abond portfolio’s holdings that are investment grade. The chart also indicatesthe target percentage of investment-grade holdings. Another key risk indicatoris an indicator that displays the acceptable range of the standard deviationof a portfolio’s annual rate of return. The indicator shows what the currentstandard deviation is and whether it is within the acceptable range."
-                        ],
+                        "image_w_text_tag": "One key performance indicator is a line chart that illustrates the projectedand actual changes in a portfolio’s market values over a period of time.Another key performance indicator is a gauge that indicates how much investmentincome the portfolio has earned year-to-date as compared to its targetamount for the year.<br /><br />One key risk indicator is a pie chart that indicates the percent of abond portfolio’s holdings that are investment grade. The chart also indicatesthe target percentage of investment-grade holdings. Another key risk indicatoris an indicator that displays the acceptable range of the standard deviationof a portfolio’s annual rate of return. The indicator shows what the currentstandard deviation is and whether it is within the acceptable range.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1285,7 +1281,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1377,7 +1373,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1473,7 +1469,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1562,7 +1558,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1661,7 +1657,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1721,7 +1717,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1795,9 +1791,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-3figure.jpg",
-                        "image_w_text_tag": [
-                            "The line chart illustrates a portfolio’s annual rate of return over a10-year span. For comparison, the chart illustrates another line that signifiesthe benchmark annual rate of return over the same period. Both lines riseand fall to indicate fluctuating performance from year-to-year."
-                        ],
+                        "image_w_text_tag": "The line chart illustrates a portfolio’s annual rate of return over a10-year span. For comparison, the chart illustrates another line that signifiesthe benchmark annual rate of return over the same period. Both lines riseand fall to indicate fluctuating performance from year-to-year.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1903,7 +1897,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1966,7 +1960,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2064,7 +2058,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Below are statements about an institutional investment portfolio’s investment policy statement (IPS). Which one of the following statements is false?",
@@ -2135,14 +2129,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A risk limit quantitatively expresses a company’s risk tolerance by specifying the maximum variance that a company will tolerate.",
@@ -2210,7 +2204,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which element of an IPS typically specifies the portfolio’s benchmark?",

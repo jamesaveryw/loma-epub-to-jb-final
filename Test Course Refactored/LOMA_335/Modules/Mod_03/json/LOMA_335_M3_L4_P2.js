@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Understanding Innovation",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -343,12 +313,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.1 Innovation by Level of Novelty</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "../../imgs/loma_335_chapter-102.png",
-                        "image_w_text_tag": [
-                            "A vertical arrow illustrates the degree of innovation. From the top tobottom: Incremental innovation has the least risk and the least cost. Breakthroughinnovation has the most risk and the greatest cost to innovate."
-                        ],
+                        "image_w_text_tag": "A vertical arrow illustrates the degree of innovation. From the top tobottom: Incremental innovation has the least risk and the least cost. Breakthroughinnovation has the most risk and the greatest cost to innovate.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -361,7 +362,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.1</strong> Innovation by Level of Novelty",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -454,7 +455,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -490,13 +491,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Incremental Innovations in Insurance Companies</strong> "
                     },
                     {
-                        "Paragraph_txt": "—Redesigning operational processes to automate handoffs in underwriting and claims"
+                        "Paragraph_txt": "<br />—Redesigning operational processes to automate handoffs in underwriting and claims"
                     },
                     {
-                        "Paragraph_txt": "—Creating a new and improved version of an existing insurance product"
+                        "Paragraph_txt": "<br />—Creating a new and improved version of an existing insurance product"
                     },
                     {
-                        "Paragraph_txt": "—Improving the security of data and systems to better protect against unauthorized access"
+                        "Paragraph_txt": "<br />—Improving the security of data and systems to better protect against unauthorized access"
                     }
                 ]
             },
@@ -523,7 +524,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -615,7 +616,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -651,16 +652,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Breakthrough Innovations in Insurance</strong> "
                     },
                     {
-                        "Paragraph_txt": "—In car insurance, real-time data furnished by customer monitoring offers a way for insurers to provide connected policyholders lower premiums and to increase customer retention."
+                        "Paragraph_txt": "<br />—In car insurance, real-time data furnished by customer monitoring offers a way for insurers to provide connected policyholders lower premiums and to increase customer retention."
                     },
                     {
-                        "Paragraph_txt": "—In home insurance, insurers are using smart phone-connected home technology to monitor for intruders, fires, or other perils and proactively avoid or minimize losses."
+                        "Paragraph_txt": "<br />—In home insurance, insurers are using smart phone-connected home technology to monitor for intruders, fires, or other perils and proactively avoid or minimize losses."
                     },
                     {
-                        "Paragraph_txt": "—In life insurance, insurers are replacing traditional medical underwriting tests with evaluations of applicants’ digital prescription drug information or other big data to decrease time to issue."
+                        "Paragraph_txt": "<br />—In life insurance, insurers are replacing traditional medical underwriting tests with evaluations of applicants’ digital prescription drug information or other big data to decrease time to issue."
                     },
                     {
-                        "Paragraph_txt": "—Online insurance applications are experimenting with video-based personal verification using smart phone cameras."
+                        "Paragraph_txt": "<br />—Online insurance applications are experimenting with video-based personal verification using smart phone cameras."
                     }
                 ]
             },
@@ -687,7 +688,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -786,7 +787,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Company culture and organizational structure often make breakthrough innovation difficult to accomplish in traditional insurance companies because they focus on efficiency (doing the same processes better) and risk minimization. Research suggests that breakthrough innovation is best introduced into traditional business operations once the initiative’s value and success have been proven outside the organization. As a result, insurers seeking breakthrough innovation are creating innovation labs that operate outside of current operations, or they are investing in start-up companies that will provide access to innovative technologies or products. A recent report found that 81 percent of high performing insurance businesses have invested in or are already working with insurance technology companies to innovate traditional insurance models.<span class=\"ens\" id=\"loma335-ch1-0-span-13\"> <span class=\"endnote hidden\" data-note=\"loma335-ch10-en2\" epub:type=\"noteref\" id=\"loma335-ch1-0-span-14\" role=\"doc-noteref\">2</span> </span>Investing in innovative ventures allows an insurer to learn the costs and benefits of an innovative idea without incurring all of the costs."
                     },
                     {
-                        "Paragraph_txt": "In today’s business environment, both the nature of work and the environment in which the work takes place are changing rapidly. The ability to tap the innovative intelligence of all of a company’s workers for both incremental and breakthrough innovations across a company’s value chain is necessary. To do this, companies must create a corporate culture that promotes innovative thinking throughout the organization."
+                        "Paragraph_txt": "<br />In today’s business environment, both the nature of work and the environment in which the work takes place are changing rapidly. The ability to tap the innovative intelligence of all of a company’s workers for both incremental and breakthrough innovations across a company’s value chain is necessary. To do this, companies must create a corporate culture that promotes innovative thinking throughout the organization."
                     }
                 ]
             },
@@ -803,7 +804,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Innovations in product packaging or product placement are correctly categorized as types of",
@@ -874,14 +875,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Innovations in an insurer’s core business operations that focus on promoting the profitability and growth of the current business are most likely",

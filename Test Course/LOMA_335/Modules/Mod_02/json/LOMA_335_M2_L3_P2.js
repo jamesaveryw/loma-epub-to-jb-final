@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Quality Management Basics",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -159,7 +129,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "In order for EndiFirst to satisfy customer needs, its products and services must meet a certain level of quality. Which of the following are ways that insurance companies can deliver quality to customers?",
@@ -251,7 +221,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "One way to define the quality of a product or service is “fitness for use.”<span class=\"ens\" id=\"loma335-ch6-span-4\"> <span class=\"endnote hidden\" data-note=\"loma335-ch6-en1\" epub:type=\"noteref\" id=\"loma335-ch6-span-5\" role=\"doc-noteref\">1</span> </span>This means that every product or service must have few failures and have the right features to satisfy customer needs. When it comes to insurance, the customer’s greatest need often occurs at the time of a loss. Within this context, the customer associates the quality of the product with the experts who help the customer navigate the consequences of a loss."
                     },
                     {
-                        "Paragraph_txt": "As we describe quality management, keep in mind that a positive <span class=\"keyterm\" tabindex=\"0\" role=\"button\">customer journey</span>—the path each customer travels with a company from beginning to end, including every interaction across every point of contact—is the ultimate quality goal for an insurer. The following insight offers some examples of ways that insurance companies deliver quality to customers."
+                        "Paragraph_txt": "<br />As we describe quality management, keep in mind that a positive <span class=\"keyterm\" tabindex=\"0\" role=\"button\">customer journey</span>—the path each customer travels with a company from beginning to end, including every interaction across every point of contact—is the ultimate quality goal for an insurer. The following insight offers some examples of ways that insurance companies deliver quality to customers."
                     }
                 ]
             },
@@ -278,7 +248,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -393,7 +363,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -429,7 +399,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Customers <em>expect</em> insurers to demonstrate the attributes in the insight above. Therefore, having these attributes does not differentiate one company from the next. A company that delivers quality service meets the customer’s expectation. On the other hand, a lack of quality will make a company stand out, and often cause a company to lose customers. As a result, most successful companies adopt a system for quality management early on and then refine the system continuously."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Quality management</span>—sometimes called <em>performance management</em>—refers to the activities an organization conducts on an ongoing basis to plan, control, measure, and improve its performance to ensure that its products or services consistently meet or exceed customer expectations."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Quality management</span>—sometimes called <em>performance management</em>—refers to the activities an organization conducts on an ongoing basis to plan, control, measure, and improve its performance to ensure that its products or services consistently meet or exceed customer expectations."
                     }
                 ]
             },
@@ -547,12 +517,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 6.1 Seven Principles of Quality Management</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "6-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Each of seven principles of quality management is described in a box nextto an image.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of five smiley faces ranging from dissatisfied (downward lips)to satisfied (upward lips) to represent customer focus. Customer focusrefers to striving to exceed customer expectations.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of hands supporting three people to represent leadership. Leadershiprefers to establishing purpose and direction.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of people in circle, in the center an outline of a lightbulbto represent engagement of people. Engagement of people refers to motivatingand empowering employees.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of three people surrounded by a moving gear to represent processapproach. Process approach refers to maintaining effective, efficient,coherent processes.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of a bar chart with bars increasing in size to represent improvement.Improvement refers to focusing on continuous improvement in all areas.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of documents tucked inside of a magnifying glass. Evidence-baseddecision-making refers to carefully analyzing data to inform decisions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of shaking hands to represent relationship management. Relationshipmanagement refers to developing and sustaining stakeholder relationships.</span>"
-                        ],
+                        "image_w_text_tag": "Each of seven principles of quality management is described in a box nextto an image.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of five smiley faces ranging from dissatisfied (downward lips)to satisfied (upward lips) to represent customer focus. Customer focusrefers to striving to exceed customer expectations.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of hands supporting three people to represent leadership. Leadershiprefers to establishing purpose and direction.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of people in circle, in the center an outline of a lightbulbto represent engagement of people. Engagement of people refers to motivatingand empowering employees.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of three people surrounded by a moving gear to represent processapproach. Process approach refers to maintaining effective, efficient,coherent processes.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of a bar chart with bars increasing in size to represent improvement.Improvement refers to focusing on continuous improvement in all areas.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of documents tucked inside of a magnifying glass. Evidence-baseddecision-making refers to carefully analyzing data to inform decisions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of shaking hands to represent relationship management. Relationshipmanagement refers to developing and sustaining stakeholder relationships.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -565,7 +566,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 6.1</strong> Seven Principles of Quality Management",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -576,7 +577,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a><br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -603,6 +604,39 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
+                    }
+                ]
+            },
+            {
                 "Question_Comp": [
                     {
                         "Question_type": "1",
@@ -615,7 +649,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The ISO 9000 standards are only applicable to companies of a certain size and within the insurance industry.",
@@ -676,14 +710,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The ISO 9000 principle of quality management that is about meeting customer needs and aiming to exceed customer expectations is",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Considerations in New Product Development",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "To develop and launch a new product, an insurance company must spend substantial money now and commit to future obligations in the hope of earning a profit later. The insurer incurs significant upfront costs by establishing reserves, paying sales commissions, utilizing actuarial services, and ensuring compliance."
                     },
                     {
-                        "Paragraph_txt": "The conditions surrounding product development, both external and internal, are ever-changing. Economic, demographic, and technological changes occur outside the company, while objectives and technology may change inside the company. Product development requires constant attention to the forces that threaten to pull a product’s objectives in different directions. Figure 5.1 illustrates the opposing forces surrounding new product development for life insurance companies."
+                        "Paragraph_txt": "<br />The conditions surrounding product development, both external and internal, are ever-changing. Economic, demographic, and technological changes occur outside the company, while objectives and technology may change inside the company. Product development requires constant attention to the forces that threaten to pull a product’s objectives in different directions. Figure 5.1 illustrates the opposing forces surrounding new product development for life insurance companies."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.1 Opposing Forces Affecting Product Development</strong>"
                     }
                 ]
             },
@@ -153,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Four pairs of concepts, each one pushing against the other.<br /><br />Concept Pair 1: Rapid Innovation vs. Limited Operational and Financial Resources<br /><br />Concept Pair 2: Market Forces vs. Need for Disciplined Pricing<br /><br />Concept Pair 3: Rapid Speed vs. Regulatory Compliance<br /><br />Concept Pair 4: Customer Needs vs. Insurer Priorities and Capabilities"
-                        ],
+                        "image_w_text_tag": "Four pairs of concepts, each one pushing against the other.<br /><br />Concept Pair 1: Rapid Innovation vs. Limited Operational and Financial Resources<br /><br />Concept Pair 2: Market Forces vs. Need for Disciplined Pricing<br /><br />Concept Pair 3: Rapid Speed vs. Regulatory Compliance<br /><br />Concept Pair 4: Customer Needs vs. Insurer Priorities and Capabilities",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -168,7 +169,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.1</strong> Opposing Forces Affecting Product Development",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -305,7 +306,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "To estimate the cost for an established product, companies and industry groups accumulate experience data to use in projecting the future costs of supporting the product. For new products, however, there is no history. Without relevant experience data, the actuarial staff must invest more time learning about the new product during product design. The insurer might even have to spend money to hire consulting actuaries who can contribute additional experience. The insurer must set standards for acceptable risk levels and must create administrative control systems for identifying risks, monitoring the status of these risks, and managing the most critical risks—all before the product’s risks are fully understood."
                     },
                     {
-                        "Paragraph_txt": "To manage new product risk, insurers consider many factors, including the product development strategy, product portfolio and product mix, shelf life, product complexity, customer experience, product management and control, regulatory factors, and other environmental pressures. Let’s explore each of these factors."
+                        "Paragraph_txt": "<br />To manage new product risk, insurers consider many factors, including the product development strategy, product portfolio and product mix, shelf life, product complexity, customer experience, product management and control, regulatory factors, and other environmental pressures. Let’s explore each of these factors."
                     }
                 ]
             },
@@ -785,12 +786,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.2 Shelf Life of Life Insurance and Annuity Products</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A bar chart showing average shelf life of insurance and annuity projects.<br /><br />Insurance:<br /><br />Indexed universal life 1.25 years<br /><br />Term life 1.5 years<br /><br />Variable universal life 3.5 years<br /><br />Whole life 4.7 years<br /><br />Annuity:<br /><br />Indexed annuity 1.4 years<br /><br />Variable annuity 1.6 years<br /><br />Fixed annuity 4.8 years"
-                        ],
+                        "image_w_text_tag": "A bar chart showing average shelf life of insurance and annuity projects.<br /><br />Insurance:<br /><br />Indexed universal life 1.25 years<br /><br />Term life 1.5 years<br /><br />Variable universal life 3.5 years<br /><br />Whole life 4.7 years<br /><br />Annuity:<br /><br />Indexed annuity 1.4 years<br /><br />Variable annuity 1.6 years<br /><br />Fixed annuity 4.8 years",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -803,7 +835,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.2</strong> Shelf Life of Life Insurance and Annuity Products",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -874,12 +906,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.3 Product Complexity</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A figure of three text boxes.<br /><br />Box 1: Established Products, Generally Well Understood; generally lower risk<br /><br />Yearly renewable term life insurance<br /><br />Multiple-year term life insurance<br /><br />Fixed whole life insurance<br /><br />Universal life insurance<br /><br />Single-premium immediate annuities<br /><br />Box 2: Newer, Complex Products and Features; generally greater risk<br /><br />Variable universal life insurance with secondary guarantee riders<br /><br />Variable annuities with secondary death benefit guarantee riders<br /><br />Variable annuities with secondary living benefit guarantee riders<br /><br />Indexed annuities<br /><br />Box 3: Combination Products; risk level varies.<br /><br />Term life insurance with disability income insurance<br /><br />Hybrid life and long-term care insurance products<br /><br />Annuities with long-term care insurance"
-                        ],
+                        "image_w_text_tag": "A figure of three text boxes.<br /><br />Box 1: Established Products, Generally Well Understood; generally lower risk<br /><br />Yearly renewable term life insurance<br /><br />Multiple-year term life insurance<br /><br />Fixed whole life insurance<br /><br />Universal life insurance<br /><br />Single-premium immediate annuities<br /><br />Box 2: Newer, Complex Products and Features; generally greater risk<br /><br />Variable universal life insurance with secondary guarantee riders<br /><br />Variable annuities with secondary death benefit guarantee riders<br /><br />Variable annuities with secondary living benefit guarantee riders<br /><br />Indexed annuities<br /><br />Box 3: Combination Products; risk level varies.<br /><br />Term life insurance with disability income insurance<br /><br />Hybrid life and long-term care insurance products<br /><br />Annuities with long-term care insurance",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -892,7 +955,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.3</strong> Product Complexity",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -961,7 +1024,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Technological innovation can affect the complexity of product design in multiple ways. For example, consumer-facing technology such as health-tracking wearable devices can provide an insurer with detailed data points on an insured person’s heart rate, activity levels, and so on. This data can inform the underwriting process and allows the insurer to create insurance products that offer lower premiums if the insured maintains a more active lifestyle. The varying premium amounts thus add to a product’s complexity."
                     },
                     {
-                        "Paragraph_txt": "Company-facing technological advances also make more complex products possible. As mentioned previously, new products have no experience data for insurers to draw on. For these products, companies have increasingly turned to stochastic modeling processes. As you recall from Chapter 4, stochastic modeling enables users to randomly model unknown future events to gain a better understanding of how a product might perform. Technological advances in computing power allow more companies to make greater use of stochastic modeling. In turn, stochastic modeling allows insurers to create complex products such as variable annuities with living benefit riders, which involve anticipating inflation and other variables 20-40 years into the future. However, stochastic modeling still poses challenges to insurers—even in companies where stochastic modeling is established, the processes require continual learning, and the models are subject to ongoing refinements."
+                        "Paragraph_txt": "<br />Company-facing technological advances also make more complex products possible. As mentioned previously, new products have no experience data for insurers to draw on. For these products, companies have increasingly turned to stochastic modeling processes. As you recall from Chapter 4, stochastic modeling enables users to randomly model unknown future events to gain a better understanding of how a product might perform. Technological advances in computing power allow more companies to make greater use of stochastic modeling. In turn, stochastic modeling allows insurers to create complex products such as variable annuities with living benefit riders, which involve anticipating inflation and other variables 20-40 years into the future. However, stochastic modeling still poses challenges to insurers—even in companies where stochastic modeling is established, the processes require continual learning, and the models are subject to ongoing refinements."
                     }
                 ]
             },
@@ -997,7 +1060,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we discussed earlier, not all products newly introduced to the market represent a totally new product design. A new product can represent slight stylistic adjustments to an existing product or it can offer notable new benefits."
                     },
                     {
-                        "Paragraph_txt": "Loosely, <em>innovation</em> refers to an improvement that adds value to a design or process. We can view innovation as existing in degrees, from a very small improvement to a broad, sweeping change. In the context of product development, innovation usually refers to at least a moderate change, because a small change is not likely to interest customers. At the far extreme, innovation can refer to a breakthrough that renders past designs and practices obsolete."
+                        "Paragraph_txt": "<br />Loosely, <em>innovation</em> refers to an improvement that adds value to a design or process. We can view innovation as existing in degrees, from a very small improvement to a broad, sweeping change. In the context of product development, innovation usually refers to at least a moderate change, because a small change is not likely to interest customers. At the far extreme, innovation can refer to a breakthrough that renders past designs and practices obsolete."
                     }
                 ]
             },
@@ -1024,7 +1087,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1084,7 +1147,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1184,12 +1247,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.4 Life Insurance Product Development Time by Product and Product Complexity</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Chart showing average product development time.<br /><br />Term life products:<br /><br />Rate change: 18 weeks<br /><br />Revisions: 29 weeks<br /><br />New product: 35 weeks<br /><br />Whole life products:<br /><br />Rate change: 22 weeks<br /><br />Revisions: 31 weeks<br /><br />New product: 45 weeks<br /><br />Variable UL products:<br /><br />Rate change: 27 weeks<br /><br />Revisions: 44 weeks<br /><br />New product: 50 weeks"
-                        ],
+                        "image_w_text_tag": "Chart showing average product development time.<br /><br />Term life products:<br /><br />Rate change: 18 weeks<br /><br />Revisions: 29 weeks<br /><br />New product: 35 weeks<br /><br />Whole life products:<br /><br />Rate change: 22 weeks<br /><br />Revisions: 31 weeks<br /><br />New product: 45 weeks<br /><br />Variable UL products:<br /><br />Rate change: 27 weeks<br /><br />Revisions: 44 weeks<br /><br />New product: 50 weeks",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1202,7 +1296,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.4</strong> Life Insurance Product Development Time by Product and Product Complexity",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1295,7 +1389,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1355,7 +1449,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1391,7 +1485,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because customer expectations are so high, delivering an exceptional customer experience must be a priority across the company. Many companies use an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">omnichannel service strategy</span> to seamlessly provide a similar, high-quality customer experience across multiple, integrated communication platforms. This strategy seeks to provide a positive experience at each potential point of contact that a customer might have with the company. For example, many customers would prefer using mobile devices to contact a company, while others prefer email, and still others prefer direct telephone calls. An insurer pursuing this strategy works to make each of these potential points of contact, as well as others, a positive customer experience. Many of the changes an insurer would make to pursue an omnichannel service strategy are outside the scope of this course, but this strategy can affect product development."
                     },
                     {
-                        "Paragraph_txt": "In the interest of promoting a stronger customer experience, insurance companies are developing products that are more customizable, allowing customers to purchase individualized products that match their individual needs. Certain CX initiatives can also empower the product development process itself."
+                        "Paragraph_txt": "<br />In the interest of promoting a stronger customer experience, insurance companies are developing products that are more customizable, allowing customers to purchase individualized products that match their individual needs. Certain CX initiatives can also empower the product development process itself."
                     }
                 ]
             },
@@ -1418,7 +1512,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1478,7 +1572,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1875,7 +1969,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we discussed in Chapter 2, regulatory risk can be created by changes in the regulatory environment. New or changed laws and regulations can have a profound effect on an insurer’s products. In most instances, a newly passed law or regulation does not take effect immediately—instead, it sets a date in the future by which insurers are expected to be compliant. This practice gives insurers time to make any required changes to their products or processes, but speed is still a key issue for affected insurers. To demonstrate compliance, an insurer makes a policy filing for each of its products. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">policy filing</span> is the act of submitting a policy contract form and any other legally required forms and documents to the appropriate state insurance department for approval. Insurers in many U.S. states can also file through the <em>Interstate Insurance Product Regulation Compact (Insurance Compact)</em>, which acts as a central point for electronic filing for those states, thus reducing the number of policy filings."
                     },
                     {
-                        "Paragraph_txt": "When a company creates a product that is new to the market or to the company, the filing process often takes longer than it would if the company modified an existing product. The more innovative the product, the more time it typically takes for regulators to be satisfied that the new product is fully compliant. As the regulators become familiar with the new product, similar products spend less time in the filing process. Therefore, regulatory issues are likely to have a greater impact on a company pursuing a first mover strategy than they do on a company pursuing a fast follower strategy."
+                        "Paragraph_txt": "<br />When a company creates a product that is new to the market or to the company, the filing process often takes longer than it would if the company modified an existing product. The more innovative the product, the more time it typically takes for regulators to be satisfied that the new product is fully compliant. As the regulators become familiar with the new product, similar products spend less time in the filing process. Therefore, regulatory issues are likely to have a greater impact on a company pursuing a first mover strategy than they do on a company pursuing a fast follower strategy."
                     }
                 ]
             },
@@ -1961,7 +2055,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2021,7 +2115,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2100,7 +2194,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2160,7 +2254,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2239,7 +2333,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2299,7 +2393,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2316,7 +2410,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Blue Hawk Financial Company generally employs a new product strategy that involves offering previously unknown products. Blue Hawk’s strategy is commonly known as",
@@ -2387,14 +2481,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Most insurers employ only one product development strategy for all of their product lines.",
@@ -2462,7 +2556,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Shelf life refers to how long an insurer can offer a product in the marketplace before it becomes obsolete and needs to be revised, repriced or retired. In general, (<strong>whole life</strong> / <strong>term life</strong>) insurance products tend to have a shorter shelf life.",
@@ -2523,14 +2617,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Vibrant Insurance employs a product management group that performs hands-on development of a new product. This group includes representatives from marketing, actuarial, underwriting, contract administration, investments, IT, customer service, legal, and accounting areas. This group is known as a",
@@ -2603,7 +2697,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: When a company creates a product that is new to the market or the company, the filing process often takes longer than it would if the company modified an existing product.",

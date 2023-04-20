@@ -254,9 +254,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "14-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Step 1: Identify activities. Example: Underwriting an individual life insurance application.<br /><br />Step 2: Identify the activity drivers for each activity. Example: The underwriting decision is one activity driver for underwriting.<br /><br />Step 3: Assign costs to each activity. Example: Managers track underwriting time and relevant costs for salaries, equipment, and supplies.<br /><br />Step 4: Determine the unit cost of each activity for comparative purposes. Example: The insurer divides total underwriting costs by the number of applications underwritten. Therefore, $43,750 underwriting costs ÷ 350 applications underwritten = $125 unit cost.<br /><br />Step 5: Identify all areas for which the costs of that activity apply. Example: The outputs for underwriting unit costs are individual life insurance policies for which a decision was made.<br /><br />Step 6: Assign each activity cost to the smallest meaningful organizational unit for which it has meaning. Example: The insurer assigns the activity costs for underwriting individual life insurance to the individual life line of business."
-                        ],
+                        "image_w_text_tag": "Step 1: Identify activities. Example: Underwriting an individual life insurance application.<br /><br />Step 2: Identify the activity drivers for each activity. Example: The underwriting decision is one activity driver for underwriting.<br /><br />Step 3: Assign costs to each activity. Example: Managers track underwriting time and relevant costs for salaries, equipment, and supplies.<br /><br />Step 4: Determine the unit cost of each activity for comparative purposes. Example: The insurer divides total underwriting costs by the number of applications underwritten. Therefore, $43,750 underwriting costs ÷ 350 applications underwritten = $125 unit cost.<br /><br />Step 5: Identify all areas for which the costs of that activity apply. Example: The outputs for underwriting unit costs are individual life insurance policies for which a decision was made.<br /><br />Step 6: Assign each activity cost to the smallest meaningful organizational unit for which it has meaning. Example: The insurer assigns the activity costs for underwriting individual life insurance to the individual life line of business.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -376,9 +374,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "14-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Table: Traditional Costs (by Category)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><td><p>Salaries</p></td><td><p style=\"text-align: right;\">$500,000</p></td></tr><tr><td><p>Supplies</p></td><td><p style=\"text-align: right;\">70,000</p></td></tr><tr><td><p>Rent</p></td><td><p style=\"text-align: right;\">60,000</p></td></tr><tr><td><p>Information Systems</p></td><td><p style=\"text-align: right;\">55,000</p></td></tr><tr><td><p>Miscellaneous</p></td><td><p style=\"text-align: right;\">25,000</p></td></tr><tr><td><p>Total</p></td><td><p style=\"text-align: right;\">$710,000</p></td></tr></tbody></table>[[NEEDS EDIT!!]]Table: Activity-Based Costs<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><td><p>Underwrite applications</p></td><td><p style=\"text-align: right;\">$185,000</p></td></tr><tr><td><p>Process approved applications</p></td><td><p style=\"text-align: right;\">90,000</p></td></tr><tr><td><p>Process claims</p></td><td><p style=\"text-align: right;\">95,000</p></td></tr><tr><td><p>Issue claim checks</p></td><td><p style=\"text-align: right;\">75,000</p></td></tr><tr><td><p>Service policyowner requests</p></td><td><p style=\"text-align: right;\">130,000</p></td></tr><tr><td><p>Manage departments</p></td><td><p style=\"text-align: right;\">80,000</p></td></tr><tr><td><p>File statements with regulators</p></td><td><p style=\"text-align: right;\">55,000</p></td></tr><tr><td><p>Total</p></td><td><p style=\"text-align: right;\">$710,000</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "Table: Traditional Costs (by Category)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><td><p>Salaries</p></td><td><p style=\"text-align: right;\">$500,000</p></td></tr><tr><td><p>Supplies</p></td><td><p style=\"text-align: right;\">70,000</p></td></tr><tr><td><p>Rent</p></td><td><p style=\"text-align: right;\">60,000</p></td></tr><tr><td><p>Information Systems</p></td><td><p style=\"text-align: right;\">55,000</p></td></tr><tr><td><p>Miscellaneous</p></td><td><p style=\"text-align: right;\">25,000</p></td></tr><tr><td><p>Total</p></td><td><p style=\"text-align: right;\">$710,000</p></td></tr></tbody></table>[[NEEDS EDIT!!]]Table: Activity-Based Costs<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><td><p>Underwrite applications</p></td><td><p style=\"text-align: right;\">$185,000</p></td></tr><tr><td><p>Process approved applications</p></td><td><p style=\"text-align: right;\">90,000</p></td></tr><tr><td><p>Process claims</p></td><td><p style=\"text-align: right;\">95,000</p></td></tr><tr><td><p>Issue claim checks</p></td><td><p style=\"text-align: right;\">75,000</p></td></tr><tr><td><p>Service policyowner requests</p></td><td><p style=\"text-align: right;\">130,000</p></td></tr><tr><td><p>Manage departments</p></td><td><p style=\"text-align: right;\">80,000</p></td></tr><tr><td><p>File statements with regulators</p></td><td><p style=\"text-align: right;\">55,000</p></td></tr><tr><td><p>Total</p></td><td><p style=\"text-align: right;\">$710,000</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -765,7 +761,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: Activity-based costing recognizes direct costs in the same way that other forms of costing do.",
@@ -826,14 +822,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: One advantage of functional cost analysis is that it is easy to apply and provides quick, generalized results.",

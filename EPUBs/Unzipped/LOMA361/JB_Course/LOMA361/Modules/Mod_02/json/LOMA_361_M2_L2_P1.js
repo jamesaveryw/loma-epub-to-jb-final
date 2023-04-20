@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Sam, our accountant who is new to the life insurance industry, is trying to get up to speed on his company’s assets, and he notices one he’s not familiar with—and no wonder: this asset is unique to life insurance companies. Which asset has Sam noticed?",

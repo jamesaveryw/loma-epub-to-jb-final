@@ -299,7 +299,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "[[Matching q-type. NEEDS EDIT.]]Match each organizational group to the corresponding description of its responsibilities. For each description, type the correct number choice in the blank.",

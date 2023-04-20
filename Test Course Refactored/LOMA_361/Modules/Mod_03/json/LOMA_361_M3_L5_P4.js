@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Regulations on Internal Control and Auditing",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -260,7 +230,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -355,10 +325,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although some overlap exists between the two COSO frameworks, they are designed to complement one another."
                     },
                     {
-                        "Paragraph_txt": "Both frameworks consist of a set of principles organized into five components. For the framework to be effective, a company must adhere to the principles provided under each of the five components. The COSO framework presents 17 principles divided among five interrelated components: the control environment, risk assessment, control activities, information and communication, and monitoring activities."
+                        "Paragraph_txt": "<br />Both frameworks consist of a set of principles organized into five components. For the framework to be effective, a company must adhere to the principles provided under each of the five components. The COSO framework presents 17 principles divided among five interrelated components: the control environment, risk assessment, control activities, information and communication, and monitoring activities."
                     },
                     {
-                        "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
+                        "Paragraph_txt": "<br /><a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
                     }
                 ]
             },
@@ -385,7 +355,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -549,7 +519,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The CPA who conducted the annual audit prepares this report within 60 days after the filing of the audit. In the report, the CPA describes any unremediated—that is, “uncorrected”—material weaknesses noted during the course of the audit. According to GAAS, a <em>material weakness</em> is defined as “a deficiency, or a combination of deficiencies, in internal control such that there is a reasonable possibility that a material misstatement of the entity’s financial statements will not be prevented, or detected and corrected on a timely basis.”<span class=\"ens\" id=\"loma361-ch16-span-80\"> <span class=\"endnote hidden\" data-note=\"loma361-ch16-en1\" epub:type=\"noteref\" id=\"loma361-ch16-span-81\" role=\"doc-noteref\">1</span> </span>"
                     },
                     {
-                        "Paragraph_txt": "If the CPA’s report does not describe the specific actions taken by the insurer to correct an unremediated material weakness, then the insurer is required to provide this description to the state insurance commissioner. If the CPA found no unremediated material weaknesses, she should disclose this fact in her report."
+                        "Paragraph_txt": "<br />If the CPA’s report does not describe the specific actions taken by the insurer to correct an unremediated material weakness, then the insurer is required to provide this description to the state insurance commissioner. If the CPA found no unremediated material weaknesses, she should disclose this fact in her report."
                     }
                 ]
             },
@@ -661,7 +631,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: According to SOX, the CEO and CFO of each U.S. stock insurer must certify the accuracy of the insurer’s financial statements.",
@@ -722,14 +692,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: According to the NAIC’s Annual Financial Reporting Model Regulation, the certified public accountant (CPA) who prepares the report titled <em>Communication of Internal Control Related to Matters Noted in the Audit </em>must note whether the insurer has any unremediated material weaknesses.",

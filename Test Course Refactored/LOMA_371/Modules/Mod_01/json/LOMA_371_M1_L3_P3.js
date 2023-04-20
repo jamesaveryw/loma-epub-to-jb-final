@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Traditional Risk Management in Life Insurance Companies",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -385,7 +355,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Most insurers have a risk management function integrated throughout the organization that blends elements of these two approaches."
                     },
                     {
-                        "Paragraph_txt": "Regardless of the approach, each insurer’s board of directors and senior management play a key role in the company’s governance structure. The board of directors and senior management set the company’s objectives, the strategies to achieve those objectives, and the governance structure needed to manage risks. When setting objectives, insurers must understand the risks and opportunities involved in the strategies employed to achieve them. For example, how will the company manage its risks? Do the levels of risk fall within defined tolerances and limits? An effective governance structure aligns an organization’s objectives and strategies with its risk management decisions."
+                        "Paragraph_txt": "<br />Regardless of the approach, each insurer’s board of directors and senior management play a key role in the company’s governance structure. The board of directors and senior management set the company’s objectives, the strategies to achieve those objectives, and the governance structure needed to manage risks. When setting objectives, insurers must understand the risks and opportunities involved in the strategies employed to achieve them. For example, how will the company manage its risks? Do the levels of risk fall within defined tolerances and limits? An effective governance structure aligns an organization’s objectives and strategies with its risk management decisions."
                     }
                 ]
             },
@@ -421,10 +391,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In Chapter 2 we discussed many types of risks that insurers commonly manage. However, one challenge of risk management is that, as regulatory and economic environments change, new types of risks emerge, and existing risks may increase in complexity. For example, some life insurers are experiencing significant, high-severity losses due to unanticipated, emerging nonfinancial risks, including (but not limited to) regulatory risk, cyber risk, and fraud risk. These risks are unlike the traditional financial risks insurers are accustomed to managing, such as credit risk and market risk. With the evolving nature of risk, each life insurance company must be able to create a comprehensive list of all of its key risk exposures, including emerging nonfinancial risks. To classify risks on that list, the insurer needs a <em>risk taxonomy</em>. For this course’s purposes, we define a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk taxonomy</span> as the classification and aggregation of all risks across an organization based on each risk’s core, defining characteristics."
                     },
                     {
-                        "Paragraph_txt": "In establishing a risk taxonomy, an insurer identifies, defines, and then expands risks into several subcategories, creating a hierarchical structure of risks. It groups risks that have similar characteristics together, which helps the company identify relationships and interconnections between risks. An agreed-upon language for its risks enhances communication across the organization."
+                        "Paragraph_txt": "<br />In establishing a risk taxonomy, an insurer identifies, defines, and then expands risks into several subcategories, creating a hierarchical structure of risks. It groups risks that have similar characteristics together, which helps the company identify relationships and interconnections between risks. An agreed-upon language for its risks enhances communication across the organization."
                     },
                     {
-                        "Paragraph_txt": "A risk taxonomy often includes a list of risk terms along with clear definitions, which reflect the company’s specific interpretation of each risk. Risk taxonomy is also an ongoing activity that an insurer must continually monitor and update. Once an insurer compiles a list of risks that pose a threat to the achievement of its strategic objectives, it must ensure it has a system of internal controls in place to monitor them."
+                        "Paragraph_txt": "<br />A risk taxonomy often includes a list of risk terms along with clear definitions, which reflect the company’s specific interpretation of each risk. Risk taxonomy is also an ongoing activity that an insurer must continually monitor and update. Once an insurer compiles a list of risks that pose a threat to the achievement of its strategic objectives, it must ensure it has a system of internal controls in place to monitor them."
                     }
                 ]
             },
@@ -493,7 +463,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "At the heart of most insurance companies’ internal control system is a cross-functional risk committee, which reports to the board of directors. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">risk committee</span> is a senior management group whose primary role is to provide overall guidance and control of an insurer’s risk management efforts. This group is responsible for identifying, measuring, and managing all the significant risks to which an insurer is exposed, including operational risks. The members of the risk committee typically come from the various business units and work as a team to manage the insurer’s risk exposures."
                     },
                     {
-                        "Paragraph_txt": "Risk committees have emerged in insurance companies in response to increasing regulatory requirements, a need for independent risk oversight, and a need for specialized professionals with risk expertise. An insurance company’s board of directors typically establishes a permanent risk committee to oversee the company’s risk management efforts. The risk committee is a key part of the second line of defense."
+                        "Paragraph_txt": "<br />Risk committees have emerged in insurance companies in response to increasing regulatory requirements, a need for independent risk oversight, and a need for specialized professionals with risk expertise. An insurance company’s board of directors typically establishes a permanent risk committee to oversee the company’s risk management efforts. The risk committee is a key part of the second line of defense."
                     }
                 ]
             },
@@ -597,7 +567,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although insurance companies must follow regulatory requirements, which represent external standards, they also monitor employees’ compliance with internal standards and encourage ethical behavior. We define <span class=\"keyterm\" tabindex=\"0\" role=\"button\">ethical behavior </span>as behavior that meets accepted standards of moral conduct. An insurance company can encourage ethical behavior by requiring training in ethics for its employees, establishing an ethics office or hotline, and incorporating ethical guidelines into the company’s mission statement. For an ethics program to succeed, top management must be involved, and the company must incorporate principles of ethics into everyday business decisions."
                     },
                     {
-                        "Paragraph_txt": "The compliance function is generally considered part of the second line of defense. A key role of the third line of defense is monitoring the compliance function to ensure effectiveness."
+                        "Paragraph_txt": "<br />The compliance function is generally considered part of the second line of defense. A key role of the third line of defense is monitoring the compliance function to ensure effectiveness."
                     }
                 ]
             },
@@ -647,7 +617,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: In companies that employ a chief risk officer [CRO], the CRO typically reports to the risk committee.",
@@ -708,14 +678,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Between the risk committee, compliance function, and internal audits, the compliance function typically examines the company’s records, policies, and procedures and reports their findings directly to the board of directors and the CEO.",
@@ -783,7 +753,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Match each example to the correct line of defense.",

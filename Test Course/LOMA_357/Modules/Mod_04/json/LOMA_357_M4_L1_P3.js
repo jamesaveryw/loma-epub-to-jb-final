@@ -397,7 +397,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -457,7 +457,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -624,7 +624,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -687,7 +687,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -803,9 +803,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The Financial Stability Oversight Council (FSOC) identifies emerging risksin the financial system and coordinates regulatory responses to any systemicthreats. The FSOC also identifies systemically important financial institutions,whose failure could threaten the country’s financial stability.<br /><br />The Office of Financial Research (OFR) supports the FSOC by collectingfinancial data, performing research and analysis, and developing risk measurementtools.<br /><br />The Federal Insurance Office (FIO) monitors the insurance industry andhelps the FSOC to identify systemically risky insurers.<br /><br />The Consumer Financial Protection Bureau (CFPB) establishes rules to protectconsumers from unfair, deceptive, and abusive practices arising from withinthe financial sector."
-                        ],
+                        "image_w_text_tag": "The Financial Stability Oversight Council (FSOC) identifies emerging risksin the financial system and coordinates regulatory responses to any systemicthreats. The FSOC also identifies systemically important financial institutions,whose failure could threaten the country’s financial stability.<br /><br />The Office of Financial Research (OFR) supports the FSOC by collectingfinancial data, performing research and analysis, and developing risk measurementtools.<br /><br />The Federal Insurance Office (FIO) monitors the insurance industry andhelps the FSOC to identify systemically risky insurers.<br /><br />The Consumer Financial Protection Bureau (CFPB) establishes rules to protectconsumers from unfair, deceptive, and abusive practices arising from withinthe financial sector.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1013,7 +1011,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which federal securities regulation established the Securities and Exchange Commission (SEC) in the United States?",
@@ -1094,14 +1092,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which federal securities regulation requires a mutual fund operating in the United States to register with the SEC and disclose information about its investment objectives and policies to investors?",
@@ -1333,7 +1331,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1374,9 +1372,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-1unnumbered.jpg",
-                        "image_w_text_tag": [
-                            "The decision tree starts with a question: is the insurer a publicly tradedstock company? If the answer is yes, then the company is subject to SECregulations.<br /><br />If the insurer is not a publicly traded stock company, then the tree branchesto another question: does the insurer sell variable products? If the answeris yes, then the company is subject to SEC regulations.<br /><br />If the insurer is not a publicly traded stock company and the insurerdoes not sell variable products, then the company is not subject to SECregulations."
-                        ],
+                        "image_w_text_tag": "The decision tree starts with a question: is the insurer a publicly tradedstock company? If the answer is yes, then the company is subject to SECregulations.<br /><br />If the insurer is not a publicly traded stock company, then the tree branchesto another question: does the insurer sell variable products? If the answeris yes, then the company is subject to SEC regulations.<br /><br />If the insurer is not a publicly traded stock company and the insurerdoes not sell variable products, then the company is not subject to SECregulations.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1482,7 +1478,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1545,7 +1541,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1608,7 +1604,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1834,7 +1830,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "SEC regulations do not apply to mutual and fraternal insurers that sell variable insurance products in the United States.",
@@ -1895,14 +1891,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which regulatory entity is the self-regulatory organization that licenses, investigates, and regulates securities firms and their representatives doing securities transaction business in the United States?",

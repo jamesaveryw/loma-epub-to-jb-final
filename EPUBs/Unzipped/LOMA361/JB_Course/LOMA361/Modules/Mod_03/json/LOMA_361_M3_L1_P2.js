@@ -260,9 +260,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "12-2figure.jpg",
-                        "image_w_text_tag": [
-                            "An insurance company home office organizes into investment centers, including a group insurance division and an individual insurance division.<br /><br />Under each investment center are profit centers, such as a health insurance line and a life insurance line.<br /><br />Under each profit center are cost centers, such as claims administration, underwriting, and policyowner service."
-                        ],
+                        "image_w_text_tag": "An insurance company home office organizes into investment centers, including a group insurance division and an individual insurance division.<br /><br />Under each investment center are profit centers, such as a health insurance line and a life insurance line.<br /><br />Under each profit center are cost centers, such as claims administration, underwriting, and policyowner service.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -367,7 +365,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The claims department of an insurance company is an example of a (<strong>cost center </strong>/ <strong>revenue center</strong>).",
@@ -428,14 +426,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following can be traced to a profit center?",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Financial Statements",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that <em>financial statements</em> are summary reports of a company’s financial condition on a specified date or of its performance over a specified period. The preparation of financial statements is the end product of financial accounting, which we discussed in Chapter 1."
                     },
                     {
-                        "Paragraph_txt": "An insurer’s financial statements must contain enough information for users—both internal and external—to gain a general understanding of the insurer’s financial condition, activities, and prospects for growth. Figure 4.1 presents examples of users of an insurance company’s financial statements."
+                        "Paragraph_txt": "<br />An insurer’s financial statements must contain enough information for users—both internal and external—to gain a general understanding of the insurer’s financial condition, activities, and prospects for growth. Figure 4.1 presents examples of users of an insurance company’s financial statements."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.1 Financial Statement Users</strong>"
                     }
                 ]
             },
@@ -153,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Financial Statement Users:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policyowners and employees seek a general status report about the company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Company managers and directors use information to make certain decisions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investors decide whether to purchase a company’s stocks or bonds or make some other kind of investment in the company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment analysts and financial advisors consider whether to recommend a company’s products to clients</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Rating agencies evaluate the insurer’s financial strength and creditworthiness and assign a rating</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Regulators examine the company’s financial condition and performance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Potential creditors decide whether to make a loan or extend some other form of credit to a company</span>"
-                        ],
+                        "image_w_text_tag": "Financial Statement Users:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policyowners and employees seek a general status report about the company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Company managers and directors use information to make certain decisions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investors decide whether to purchase a company’s stocks or bonds or make some other kind of investment in the company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment analysts and financial advisors consider whether to recommend a company’s products to clients</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Rating agencies evaluate the insurer’s financial strength and creditworthiness and assign a rating</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Regulators examine the company’s financial condition and performance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Potential creditors decide whether to make a loan or extend some other form of credit to a company</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -168,7 +169,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.1</strong> Financial Statement Users",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -237,7 +238,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Financial statements follow a general protocol to make them easy to read, interpret, and compare. The heading of each financial statement generally contains the (1) name of the company, (2) name of the financial statement, (3) specified date or accounting (reporting) period covered by the financial statement, and (4) denomination used in reporting the financial information. Companies usually round off the reported monetary amounts to the nearest thousand or million. In addition to these general conventions, each type of financial statement has a specific format that is best suited to the kinds of financial information contained in that statement."
                     },
                     {
-                        "Paragraph_txt": "The following sections discuss a company’s key financial statements: the balance sheet, the income statement, the cash flow statement, and the statement of owners’ equity. Our focus is on the GAAP financial statements that an insurer includes in its Annual Report."
+                        "Paragraph_txt": "<br />The following sections discuss a company’s key financial statements: the balance sheet, the income statement, the cash flow statement, and the statement of owners’ equity. Our focus is on the GAAP financial statements that an insurer includes in its Annual Report."
                     }
                 ]
             },
@@ -273,7 +274,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that a <em>balance sheet</em> is a financial statement that shows a company’s financial condition or position by summarizing the company’s assets, liabilities, and owners’ equity as of a specified date. Typically that date is the last day of the accounting period, such as March 31, June 30, September 30, or December 31. A company’s balance sheet is considered to be a <em>static report</em> because it provides a snapshot of the company’s financial position as of a specified date."
                     },
                     {
-                        "Paragraph_txt": "On their GAAP balance sheets, most U.S. insurers present their assets in accordance with SEC regulations, which state that investments are listed first, followed by cash and other assets. The financial report below is an example of an insurer’s GAAP balance sheet."
+                        "Paragraph_txt": "<br />On their GAAP balance sheets, most U.S. insurers present their assets in accordance with SEC regulations, which state that investments are listed first, followed by cash and other assets. The financial report below is an example of an insurer’s GAAP balance sheet."
                     }
                 ]
             },
@@ -825,10 +826,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Note that, because Steadfast is a stock insurer, its owners’ equity is referred to as <em>stockholders’ equity</em>."
                     },
                     {
-                        "Paragraph_txt": "Recall that, according to the basic accounting equation, the monetary amount of an insurer’s total assets must equal the combined monetary amounts of its total liabilities and owners’ equity. In other words, the two amounts must balance, giving this financial statement its name. Looking back at Steadfast’s balance sheet, we see that its total assets <em>do</em> equal its total liabilities and stockholders’ equity: both amounts are $251,846,000."
+                        "Paragraph_txt": "<br />Recall that, according to the basic accounting equation, the monetary amount of an insurer’s total assets must equal the combined monetary amounts of its total liabilities and owners’ equity. In other words, the two amounts must balance, giving this financial statement its name. Looking back at Steadfast’s balance sheet, we see that its total assets <em>do</em> equal its total liabilities and stockholders’ equity: both amounts are $251,846,000."
                     },
                     {
-                        "Paragraph_txt": "The balance sheet shows a user what a life insurer owns (its assets), what it owes (its liabilities), and what it has retained (its owners’ equity). A user can also determine whether an insurer is solvent by examining its balance sheet. Remember that, to be considered solvent, a life insurer must have an amount of assets that exceeds the amount of its liabilities. Steadfast is solvent, because its total assets of $251,846,000 exceed its total liabilities of $238,229,000."
+                        "Paragraph_txt": "<br />The balance sheet shows a user what a life insurer owns (its assets), what it owes (its liabilities), and what it has retained (its owners’ equity). A user can also determine whether an insurer is solvent by examining its balance sheet. Remember that, to be considered solvent, a life insurer must have an amount of assets that exceeds the amount of its liabilities. Steadfast is solvent, because its total assets of $251,846,000 exceed its total liabilities of $238,229,000."
                     }
                 ]
             },
@@ -864,10 +865,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "As we’ve discussed, an <em>income statement</em> is a financial statement that reports an insurer’s revenues and expenses during a specified accounting period and indicates whether the insurer experienced net income or a net loss during the accounting period. The income statement is considered to be a <em>dynamic report</em> because it presents the flow of a company’s financial transactions during a specified accounting period, rather than as of a specified date."
                     },
                     {
-                        "Paragraph_txt": "The income statement shows a user whether a life insurer is profitable: Is it earning net income or incurring a net loss? Remember that, for a specific accounting period, an insurer experiences (1) <em>net income</em> when its revenues exceed its expenses, and (2) <em>a net loss</em> when its expenses exceed its revenues. Users also examine this statement to identify how an insurer is earning funds (its revenues), as well as how it is spending them (its expenses)."
+                        "Paragraph_txt": "<br />The income statement shows a user whether a life insurer is profitable: Is it earning net income or incurring a net loss? Remember that, for a specific accounting period, an insurer experiences (1) <em>net income</em> when its revenues exceed its expenses, and (2) <em>a net loss</em> when its expenses exceed its revenues. Users also examine this statement to identify how an insurer is earning funds (its revenues), as well as how it is spending them (its expenses)."
                     },
                     {
-                        "Paragraph_txt": "The financial report below is an example of an insurer’s income statement prepared according to GAAP."
+                        "Paragraph_txt": "<br />The financial report below is an example of an insurer’s income statement prepared according to GAAP."
                     }
                 ]
             },
@@ -1306,10 +1307,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Realized capital gains and losses on invested assets must be reported on an insurer’s GAAP income statement. According to the FASB, a life insurer has two options for reporting<em> unrealized</em> capital gains and losses on its invested assets: (1) in its income statement or (2) in a separate statement of comprehensive income, which immediately follows the insurer’s income statement<em>. </em>"
                     },
                     {
-                        "Paragraph_txt": "<em>The statement of</em> <em>comprehensive income</em> presents a company’s comprehensive income for a given reporting period. <em>Comprehensive income (CI)</em> is the total change in equity for a reporting period, excluding changes resulting from investments by owners and distributions to owners. In other words, CI measures the changes in equity that result from <em>non-owner</em> transactions. Comprehensive income is the sum of net income and other items—known as <em>other comprehensive income (OCI)</em>—that are not reported on the income statement because they have not been realized."
+                        "Paragraph_txt": "<br /><em>The statement of</em> <em>comprehensive income</em> presents a company’s comprehensive income for a given reporting period. <em>Comprehensive income (CI)</em> is the total change in equity for a reporting period, excluding changes resulting from investments by owners and distributions to owners. In other words, CI measures the changes in equity that result from <em>non-owner</em> transactions. Comprehensive income is the sum of net income and other items—known as <em>other comprehensive income (OCI)</em>—that are not reported on the income statement because they have not been realized."
                     },
                     {
-                        "Paragraph_txt": "In equation format, we have:"
+                        "Paragraph_txt": "<br />In equation format, we have:"
                     }
                 ]
             },
@@ -1336,7 +1337,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1396,7 +1397,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1494,10 +1495,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because OCI is not reported on an insurer’s income statement, it is not included in the calculation of the insurer’s net income. Why is OCI excluded from an insurer’s net income? The components of OCI generally come from noncore business operations and onetime or unusual transactions. If these components <em>were</em> added to net income, the resulting figure could present an inaccurate view of the company’s operating performance."
                     },
                     {
-                        "Paragraph_txt": "To prevent this result, OCI accumulates on the statement of owners’ equity in a section called “accumulated other comprehensive income” or “AOCI.” We discuss the statement of owners’ equity later in this chapter. The balance of AOCI is also presented in the owners’ equity section of the balance sheet."
+                        "Paragraph_txt": "<br />To prevent this result, OCI accumulates on the statement of owners’ equity in a section called “accumulated other comprehensive income” or “AOCI.” We discuss the statement of owners’ equity later in this chapter. The balance of AOCI is also presented in the owners’ equity section of the balance sheet."
                     },
                     {
-                        "Paragraph_txt": "Our fictional company, Steadfast, includes the following statement of comprehensive income after its income statement:"
+                        "Paragraph_txt": "<br />Our fictional company, Steadfast, includes the following statement of comprehensive income after its income statement:"
                     }
                 ]
             },
@@ -1692,7 +1693,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1728,10 +1729,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>CI = Net income + OCI</strong>"
                     },
                     {
-                        "Paragraph_txt": "CI = $1,154,000 + $(2,251,000)"
+                        "Paragraph_txt": "<br />CI = $1,154,000 + $(2,251,000)"
                     },
                     {
-                        "Paragraph_txt": "CI = $(1,097,000)"
+                        "Paragraph_txt": "<br />CI = $(1,097,000)"
                     }
                 ]
             },
@@ -1758,7 +1759,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1794,10 +1795,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cash flow statement</span>, also called a <em>statement of cash flows</em>, is a financial statement that shows a company’s cash receipts, cash disbursements, and the net change in cash during a specified accounting period. It provides information about a company’s change in cash between the company’s current balance sheet and previous balance sheet. Like the income statement, the cash flow statement is a <em>dynamic report</em>."
                     },
                     {
-                        "Paragraph_txt": "The primary purpose of a cash flow statement is to demonstrate how a company manages its cash over time. Like all companies, insurance companies need to ensure that they have enough cash available to pay expenses. An insurer’s balance sheet may reveal billions in assets, but a portion of those assets need to be in cash. Otherwise, an insurer could be forced to sell assets for less than they are worth to pay its expenses. On the other hand, an insurer that holds too much idle cash could be missing out on investment opportunities. Therefore, managing cash effectively is one of an insurer’s most important tasks."
+                        "Paragraph_txt": "<br />The primary purpose of a cash flow statement is to demonstrate how a company manages its cash over time. Like all companies, insurance companies need to ensure that they have enough cash available to pay expenses. An insurer’s balance sheet may reveal billions in assets, but a portion of those assets need to be in cash. Otherwise, an insurer could be forced to sell assets for less than they are worth to pay its expenses. On the other hand, an insurer that holds too much idle cash could be missing out on investment opportunities. Therefore, managing cash effectively is one of an insurer’s most important tasks."
                     },
                     {
-                        "Paragraph_txt": "The financial report below is an example of an insurer’s cash flow statement."
+                        "Paragraph_txt": "<br />The financial report below is an example of an insurer’s cash flow statement."
                     }
                 ]
             },
@@ -2435,7 +2436,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "If the cash inflows exceed the cash outflows for an activity, then the result for that activity is a <em>net cash inflow</em>. Conversely, if the cash outflows exceed the cash inflows, then the result is a <em>net cash outflow</em>. For an accounting period, the net cash inflow (outflow), which is the difference between cash inflows and cash outflows, represents the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">net change in cash</span>—that is, the increase or decrease in cash."
                     },
                     {
-                        "Paragraph_txt": "Theoretically, a company’s net change in cash equals the difference between the amount of cash and cash equivalents as shown on any two consecutive balance sheets, such as the company’s current and previous balance sheet. You can calculate a company’s net cash flow during a specified period by subtracting the company’s cash outflows from its cash inflows. You can also determine net cash flow by subtracting the company’s uses of funds from its sources of funds."
+                        "Paragraph_txt": "<br />Theoretically, a company’s net change in cash equals the difference between the amount of cash and cash equivalents as shown on any two consecutive balance sheets, such as the company’s current and previous balance sheet. You can calculate a company’s net cash flow during a specified period by subtracting the company’s cash outflows from its cash inflows. You can also determine net cash flow by subtracting the company’s uses of funds from its sources of funds."
                     }
                 ]
             },
@@ -2462,7 +2463,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2522,7 +2523,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2582,7 +2583,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2642,7 +2643,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2737,7 +2738,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For example, looking back at Steadfast’s cash flow statement, under Cash Flows from Operating Activities, Steadfast had a “Change in premiums and fees receivable” of 97, representing a cash inflow of $97,000. In contrast, Steadfast had a “Change in accrued investment income” of (21), representing a cash outflow of $21,000. In addition, for the three types of activities—operating, investing, and financing—the summary line for each generally uses the phrase “net cash” rather than “net cash inflow” or “net cash outflow.” Again, whether the amount is an inflow or outflow is indicated by a positive number (no parentheses) or a negative number (in parentheses)."
                     },
                     {
-                        "Paragraph_txt": "Video 4.1 presents an example that shows the distinctions among the cash flows from operating, investing, and financing activities."
+                        "Paragraph_txt": "<br />Video 4.1 presents an example that shows the distinctions among the cash flows from operating, investing, and financing activities."
                     }
                 ]
             },
@@ -3339,7 +3340,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The primary purpose of the balance sheet is to show a company’s",
@@ -3410,14 +3411,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "One account that typically appears on a life insurance company’s income statement is",
@@ -3495,7 +3496,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Under GAAP, some life insurers prepare a separate statement of comprehensive income, which",
@@ -3566,14 +3567,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "One example of a <em>financing activity</em> that would result in a <em>cash inflow</em> for an insurer is the",
@@ -3651,7 +3652,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following financial statements are examples of<em> dynamic reports</em>? Check all that apply.",
@@ -3748,7 +3749,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the context of financial statements, one phrase you might read or hear is <em>financial statement integration</em>. This phrase simply means that a company’s financial statements are interrelated."
                     },
                     {
-                        "Paragraph_txt": "First of all, for a given accounting period, the income statement is linked to the balance sheet, because changes in the accounts on an insurer’s income statement ultimately affect accounts on the insurer’s balance sheet. For example, in general, an increase in an insurer’s revenues (income statement) ultimately results in an increase in the insurer’s assets (balance sheet)."
+                        "Paragraph_txt": "<br />First of all, for a given accounting period, the income statement is linked to the balance sheet, because changes in the accounts on an insurer’s income statement ultimately affect accounts on the insurer’s balance sheet. For example, in general, an increase in an insurer’s revenues (income statement) ultimately results in an increase in the insurer’s assets (balance sheet)."
                     }
                 ]
             },
@@ -3775,7 +3776,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3835,7 +3836,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3895,7 +3896,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3955,7 +3956,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4107,7 +4108,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following statements is <em>false</em>?",

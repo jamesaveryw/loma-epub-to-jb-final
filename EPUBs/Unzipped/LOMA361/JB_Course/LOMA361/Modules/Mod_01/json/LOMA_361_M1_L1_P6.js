@@ -234,7 +234,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -297,7 +297,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -371,9 +371,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-7figure.jpg",
-                        "image_w_text_tag": [
-                            "Question 1: Is the insurer a stock company?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes. Insurer IS subject to SEC regulation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No. Go to Question 2</span><br /><br />Question 2: Does the insurer sell variable products?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes. Insurer IS subject to SEC regulation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No. Insurer is NOT subject to SEC regulation</span>"
-                        ],
+                        "image_w_text_tag": "Question 1: Is the insurer a stock company?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes. Insurer IS subject to SEC regulation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No. Go to Question 2</span><br /><br />Question 2: Does the insurer sell variable products?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes. Insurer IS subject to SEC regulation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No. Insurer is NOT subject to SEC regulation</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -479,7 +477,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -539,7 +537,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -599,7 +597,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -659,7 +657,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -752,7 +750,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -812,7 +810,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -872,7 +870,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -932,7 +930,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1078,9 +1076,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-8figure.jpg",
-                        "image_w_text_tag": [
-                            "Important regulatory agencies and organizations for insurance companies include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Securities and Exchange Commission (SEC): regulates insurers that are public companies and insurers that sell variable products</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• American Institute of Certified Public Accountants (AICPA): influences accounting practices and develops generally accepted auditing standards (GAAS)</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial Accounting Standards Board (FASB): Establishes and promotes the use of U.S. GAAP</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Public Company Auditing Oversight Board (PCAOB): sets standards for external auditors of public companies</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• National Association of Insurance Commissioners (NAIC): Specifies the format and content of the U.S. Annual Statement and uses it to evaluate insurer financial condition and compliance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Internal Revenue Service (IRS): Enforces the tax code and strongly influences the practice of tax accounting</span>"
-                        ],
+                        "image_w_text_tag": "Important regulatory agencies and organizations for insurance companies include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Securities and Exchange Commission (SEC): regulates insurers that are public companies and insurers that sell variable products</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• American Institute of Certified Public Accountants (AICPA): influences accounting practices and develops generally accepted auditing standards (GAAS)</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial Accounting Standards Board (FASB): Establishes and promotes the use of U.S. GAAP</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Public Company Auditing Oversight Board (PCAOB): sets standards for external auditors of public companies</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• National Association of Insurance Commissioners (NAIC): Specifies the format and content of the U.S. Annual Statement and uses it to evaluate insurer financial condition and compliance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Internal Revenue Service (IRS): Enforces the tax code and strongly influences the practice of tax accounting</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1143,7 +1139,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: In the United States, a mutual insurer that sells variable products is subject to SEC regulation.",
@@ -1204,14 +1200,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: The SEC has delegated its responsibility for establishing U.S. GAAP to the PCAOB.",
@@ -1279,7 +1275,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In the United States, the NAIC’s influence on insurance accounting is strongest with respect to the Annual Statement.",

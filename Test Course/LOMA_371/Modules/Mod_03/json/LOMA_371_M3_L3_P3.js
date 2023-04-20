@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Assigning Expenses to Products or Product Lines",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -202,7 +172,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -286,7 +256,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -322,7 +292,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Unit costs can then be incorporated into the product’s financial design. For example, if an insurer knows the unit cost for an individual term life insurance policy, then the term life product must be designed so that each individual policy recoups its unit cost. For a new product, insurers generally base unit costs on projections of the product’s expected volume of business."
                     },
                     {
-                        "Paragraph_txt": "Unit costs for most fixed expenses are expressed as a flat amount per contract. For example, an insurer’s costs for preparing and mailing account statements to customers are fixed; the costs are the same for all contracts of the same type. Therefore, to determine a unit cost for statement preparation costs, the insurer would divide the total cost of preparing and mailing statements to customers by the number of contracts. Figure 9.1 shows a unit cost calculation for policy issue expenses."
+                        "Paragraph_txt": "<br />Unit costs for most fixed expenses are expressed as a flat amount per contract. For example, an insurer’s costs for preparing and mailing account statements to customers are fixed; the costs are the same for all contracts of the same type. Therefore, to determine a unit cost for statement preparation costs, the insurer would divide the total cost of preparing and mailing statements to customers by the number of contracts. Figure 9.1 shows a unit cost calculation for policy issue expenses."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.1 Unit Cost Calculation for Policy Expenses</strong>"
                     }
                 ]
             },
@@ -330,9 +333,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-1figure.jpg",
-                        "image_w_text_tag": [
-                            "A flowchart equation for calculating the cost of policy issue expenses.<br /><br />First box: Employee-related expenses of $1,500,000, includes salaries, office, equipment, software licenses, etc.<br /><br />Second box: Other policy expenses of $5,500,000, includes processing costs, premium taxes, marketing research, etc.<br /><br />Employee-related expenses of $1,500,000 + other policy expenses of $5,500,000 = Total expenses of $7,000,000<br /><br />Total expenses of $7,000,000, divided by number of policies issued of 20,000, equals unit cost of $350."
-                        ],
+                        "image_w_text_tag": "A flowchart equation for calculating the cost of policy issue expenses.<br /><br />First box: Employee-related expenses of $1,500,000, includes salaries, office, equipment, software licenses, etc.<br /><br />Second box: Other policy expenses of $5,500,000, includes processing costs, premium taxes, marketing research, etc.<br /><br />Employee-related expenses of $1,500,000 + other policy expenses of $5,500,000 = Total expenses of $7,000,000<br /><br />Total expenses of $7,000,000, divided by number of policies issued of 20,000, equals unit cost of $350.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -345,7 +346,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.1</strong> Unit Cost Calculation for Policy Expenses",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -562,7 +563,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -914,7 +915,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -950,10 +951,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because direct costs are associated with a particular project, assigning unit costs for direct expenses to a particular product is usually a straightforward process. The process of assigning unit costs for indirect costs is less straightforward. An insurer usually incurs the same amount of indirect expenses regardless of whether or not it offers a specific product. For example, the costs associated with an insurer’s accounting system apply to the entire company, and would be a key company expense even if the insurer decided not to offer a given product. An insurer must therefore allocate unit costs for indirect expenses along several products and product lines."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Cost allocation</span>, or <em>expense allocation</em>, is the accounting process of assigning an indirect cost to a particular cost object according to a formal procedure. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost object</span> is any purpose for which a business measures costs. For an insurance company, a cost object may be a product line, specific product, contract, monetary amount of contract value, customer, or any other specified business unit. The formal procedure used to assign indirect costs is known as a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost allocation method</span>."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Cost allocation</span>, or <em>expense allocation</em>, is the accounting process of assigning an indirect cost to a particular cost object according to a formal procedure. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost object</span> is any purpose for which a business measures costs. For an insurance company, a cost object may be a product line, specific product, contract, monetary amount of contract value, customer, or any other specified business unit. The formal procedure used to assign indirect costs is known as a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cost allocation method</span>."
                     },
                     {
-                        "Paragraph_txt": "Both standard costs and costs derived from expense analysis can be allocated costs. Figure 9.2 shows a simplified cost allocation for a fixed whole life insurance product."
+                        "Paragraph_txt": "<br />Both standard costs and costs derived from expense analysis can be allocated costs. Figure 9.2 shows a simplified cost allocation for a fixed whole life insurance product."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.2 Cost Allocation for a Fixed Whole Life Insurance Product</strong>"
                     }
                 ]
             },
@@ -961,9 +995,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Two folders of cost allocation charts.<br /><br />Chart 1, Acquisition Expenses (First Year):<br /><br />First-year commissions: $55.00 per $100 of premiums<br /><br />Underwriting; $1.00 per $1,000 of face amount; $100.00 per policy<br /><br />Premium taxes: $2.00 per $100 of premiums<br /><br />Other expenses: $0.25 per $1,000 of face amount; $21.25 per policy<br /><br />Chart 2, Maintenance Expenses (After Year):<br /><br />Renewal commissions: $10.00 per $100 of premiums<br /><br />Premium taxes: $2.00 per $100 of premiums<br /><br />Other expenses: $0.08 per $1,000 of face amount; $9.50 per policy"
-                        ],
+                        "image_w_text_tag": "Two folders of cost allocation charts.<br /><br />Chart 1, Acquisition Expenses (First Year):<br /><br />First-year commissions: $55.00 per $100 of premiums<br /><br />Underwriting; $1.00 per $1,000 of face amount; $100.00 per policy<br /><br />Premium taxes: $2.00 per $100 of premiums<br /><br />Other expenses: $0.25 per $1,000 of face amount; $21.25 per policy<br /><br />Chart 2, Maintenance Expenses (After Year):<br /><br />Renewal commissions: $10.00 per $100 of premiums<br /><br />Premium taxes: $2.00 per $100 of premiums<br /><br />Other expenses: $0.08 per $1,000 of face amount; $9.50 per policy",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -976,7 +1008,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.2</strong> Cost Allocation for a Fixed Whole Life Insurance Product",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1232,10 +1264,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Annuity commission schedules generally do not distinguish between first-year and renewal commissions, given that annuities usually feature large initial premiums and much smaller, if any, subsequent premiums. The simplest form of commission schedule for annuities is the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">deposit-based commission schedule</span>, which pays commissions only on premium payments. A deposit-based commission schedule usually pays a sum calculated as a percentage of the annuity’s premium, such as 5 percent."
                     },
                     {
-                        "Paragraph_txt": "By contrast, increasingly more insurers offer asset-based commission schedules. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">asset-based commission schedule</span> calculates commissions as a percentage of the accumulated value of a deferred annuity contract’s funds. In addition, commissions are payable as long as the contract remains in force, even if the contract owner stops making premium payments. At regular intervals—usually yearly—after premium payments stop, the agent receives a commission payment known as a <em>trail commission</em>."
+                        "Paragraph_txt": "<br />By contrast, increasingly more insurers offer asset-based commission schedules. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">asset-based commission schedule</span> calculates commissions as a percentage of the accumulated value of a deferred annuity contract’s funds. In addition, commissions are payable as long as the contract remains in force, even if the contract owner stops making premium payments. At regular intervals—usually yearly—after premium payments stop, the agent receives a commission payment known as a <em>trail commission</em>."
                     },
                     {
-                        "Paragraph_txt": "Asset-based commission schedules are designed to improve persistency, conserve annuity assets, and encourage agents to provide excellent ongoing service to annuity contract owners. The insight below compares deposit-based and asset-based commission schedules."
+                        "Paragraph_txt": "<br />Asset-based commission schedules are designed to improve persistency, conserve annuity assets, and encourage agents to provide excellent ongoing service to annuity contract owners. The insight below compares deposit-based and asset-based commission schedules."
                     }
                 ]
             },
@@ -1262,7 +1294,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1298,10 +1330,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Flora Ballantine, an agent working for Coral Life Insurance and Wisteria Financial Group, sells two different variable annuities with a $250,000 initial premium amount. The first annuity, a Coral product, offers a 4 percent deposit-based commission schedule. The second annuity, a Wisteria product, offers a 1 percent asset-based commission schedule."
                     },
                     {
-                        "Paragraph_txt": "For selling the Coral annuity contract, Flora receives a single payment of $10,000 ($250,000 × 0.04). When selling Coral’s products, Flora has a financial incentive to make as many initial sales as she can."
+                        "Paragraph_txt": "<br />For selling the Coral annuity contract, Flora receives a single payment of $10,000 ($250,000 × 0.04). When selling Coral’s products, Flora has a financial incentive to make as many initial sales as she can."
                     },
                     {
-                        "Paragraph_txt": "For selling the Wisteria annuity contract, Flora receives a payment each year based on the accumulated value of the contract, as long as the annuity’s owner does not surrender the contract. The following table shows the commission payments for the first five years (rounded to the nearest dollar)."
+                        "Paragraph_txt": "<br />For selling the Wisteria annuity contract, Flora receives a payment each year based on the accumulated value of the contract, as long as the annuity’s owner does not surrender the contract. The following table shows the commission payments for the first five years (rounded to the nearest dollar)."
                     }
                 ]
             },
@@ -1485,7 +1517,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1523,12 +1555,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 9.3 Sample Combination Commission Schedule Structures</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "9-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Two timelines of sample combination commission schedule structures. In both timelines, the surrender penalty ends at the end of Year 2.<br /><br />Timeline 1 pays a one-time 3% deposit-based commission on new premium at the beginning of Year 1, and a 0.5% asset-based commission based on accumulated contract value, starting one year following the end of the surrender penalty, at the end of each year beginning with Year 3.<br /><br />Timeline 2 pays a one-time 2% deposit-based commission on new premium during Year 1, and a 1% asset-based commission based on accumulated contract value, starting in the second contract year, at the end of each year beginning with Year 2."
-                        ],
+                        "image_w_text_tag": "Two timelines of sample combination commission schedule structures. In both timelines, the surrender penalty ends at the end of Year 2.<br /><br />Timeline 1 pays a one-time 3% deposit-based commission on new premium at the beginning of Year 1, and a 0.5% asset-based commission based on accumulated contract value, starting one year following the end of the surrender penalty, at the end of each year beginning with Year 3.<br /><br />Timeline 2 pays a one-time 2% deposit-based commission on new premium during Year 1, and a 1% asset-based commission based on accumulated contract value, starting in the second contract year, at the end of each year beginning with Year 2.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1541,7 +1604,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 9.3</strong> Sample Combination Commission Schedule Structures",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1591,7 +1654,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: Insurers typically calculate unit costs for fixed expenses as a percentage of an important contractual amount, such as the contract’s death benefit.",
@@ -1652,14 +1715,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Under marginal costing, indirect expenses are not allocated to products.",
@@ -1727,7 +1790,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: For the purposes of cost allocation, an indirect expense is one example of a cost object.",
@@ -1788,14 +1851,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In 2020, Vessel Life Insurance records a commission payment to a sales agent, Ms. Truong. The payment is equal to 4% of the premiums received for a policy that Ms. Truong sold to a customer in 2018. In 2019, Ms. Truong also stopped representing Vessel. This payment is an example of a (<strong>first-year</strong> / <strong>renewal</strong>) commission and a (<strong>vested</strong> / <strong>nonvested</strong>) commission.",

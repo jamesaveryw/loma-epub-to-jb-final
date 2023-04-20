@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Enterprise Risk Management (ERM)",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -169,7 +139,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -205,7 +175,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>External Risk</strong> "
                     },
                     {
-                        "Paragraph_txt": "The EndiFirst Insurance Company is subject to <em>investment risk</em>—the risk that the overall market for stocks or bonds will decline in value, negatively affecting its investments in stocks and bonds. EndiFirst uses the investment strategies of asset allocation and diversification to help minimize investment risks."
+                        "Paragraph_txt": "<br />The EndiFirst Insurance Company is subject to <em>investment risk</em>—the risk that the overall market for stocks or bonds will decline in value, negatively affecting its investments in stocks and bonds. EndiFirst uses the investment strategies of asset allocation and diversification to help minimize investment risks."
                     }
                 ]
             },
@@ -232,7 +202,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -292,7 +262,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -328,16 +298,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Operational Risk</strong> "
                     },
                     {
-                        "Paragraph_txt": "The EndiFirst Insurance Company is considering outsourcing some of its underwriting process to a third-party vendor. The vendor offers the latest technology for processing, but EndiFirst is weighing various risks associated with outsourcing this process. Among the questions raised:"
+                        "Paragraph_txt": "<br />The EndiFirst Insurance Company is considering outsourcing some of its underwriting process to a third-party vendor. The vendor offers the latest technology for processing, but EndiFirst is weighing various risks associated with outsourcing this process. Among the questions raised:"
                     },
                     {
-                        "Paragraph_txt": "—Will the vendor’s systems and business practices adequately protect the confidentiality and security of customer data?"
+                        "Paragraph_txt": "<br />—Will the vendor’s systems and business practices adequately protect the confidentiality and security of customer data?"
                     },
                     {
-                        "Paragraph_txt": "—Will the vendor adhere to EndiFirst’s underwriting policies regarding the products being sold?"
+                        "Paragraph_txt": "<br />—Will the vendor adhere to EndiFirst’s underwriting policies regarding the products being sold?"
                     },
                     {
-                        "Paragraph_txt": "With limited control over the outsourced underwriting process, EndiFirst might be financially responsible for data breaches and for higher than anticipated mortality costs. Poor service quality also could damage EndiFirst’s reputation with customers and ultimately sales. EndiFirst measures the potential for these risks against the benefits of outsourcing the process."
+                        "Paragraph_txt": "<br />With limited control over the outsourced underwriting process, EndiFirst might be financially responsible for data breaches and for higher than anticipated mortality costs. Poor service quality also could damage EndiFirst’s reputation with customers and ultimately sales. EndiFirst measures the potential for these risks against the benefits of outsourcing the process."
                     }
                 ]
             },
@@ -364,7 +334,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -433,7 +403,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The ERM process consists of analysis, forecasting, and modeling of various external and internal risks so that management can create company strategies for avoiding or mitigating the risk’s impact. In this chapter, we briefly describe risk analysis. In a later chapter, we present forecasting and modeling and describe how the information results might be used in ERM."
                     },
                     {
-                        "Paragraph_txt": "Insurance companies have many tools for identifying financial risk. For example, insurers can conduct mathematical analysis to identify the sensitivity of the company’s cash flows or stock value against risk factors such as interest rate or currency fluctuations. How do companies identify operational risk?"
+                        "Paragraph_txt": "<br />Insurance companies have many tools for identifying financial risk. For example, insurers can conduct mathematical analysis to identify the sensitivity of the company’s cash flows or stock value against risk factors such as interest rate or currency fluctuations. How do companies identify operational risk?"
                     }
                 ]
             },
@@ -460,7 +430,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -591,7 +561,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -651,7 +621,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -687,19 +657,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Modeling a Risk</strong> "
                     },
                     {
-                        "Paragraph_txt": "The EndiFirst Insurance Company is reviewing its readiness for the implementation of new tax policies in the United States. EndiFirst models the following scenarios:"
+                        "Paragraph_txt": "<br />The EndiFirst Insurance Company is reviewing its readiness for the implementation of new tax policies in the United States. EndiFirst models the following scenarios:"
                     },
                     {
-                        "Paragraph_txt": "—10% chance of the current tax system remaining unchanged"
+                        "Paragraph_txt": "<br />—10% chance of the current tax system remaining unchanged"
                     },
                     {
-                        "Paragraph_txt": "—40% chance of new regulations changing tax rates for companies only"
+                        "Paragraph_txt": "<br />—40% chance of new regulations changing tax rates for companies only"
                     },
                     {
-                        "Paragraph_txt": "—50% chance of new regulations changing tax rates for individuals as well as companies"
+                        "Paragraph_txt": "<br />—50% chance of new regulations changing tax rates for individuals as well as companies"
                     },
                     {
-                        "Paragraph_txt": "EndiFirst analyzes each scenario to better understand its exposure and to determine a course of action for the company should that option materialize."
+                        "Paragraph_txt": "<br />EndiFirst analyzes each scenario to better understand its exposure and to determine a course of action for the company should that option materialize."
                     }
                 ]
             },
@@ -726,7 +696,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -795,10 +765,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "ERM assists a company in planning and determining which risks are critical. Companies evaluate potential strategies for handling risks by evaluating the effects on company stakeholders of different strategies. Although the impact of a risk on the company’s customers is of primary importance, ERM evaluation must also consider other stakeholders’ interests. Stakeholders often have common interests but sometimes their interests can be in conflict with each other."
                     },
                     {
-                        "Paragraph_txt": "For example, the policyowners (customers) of an insurance company are primarily interested in the company’s solvency over the long term. Their interests suggest that an insurer maintain high levels of capital and reserves to ensure solvency regardless of what risks might occur in the future. Owners of stock life insurance companies, however, are interested in profits and growth. They want to maintain the minimum required reserves and invest excess capital for higher returns. In this example of conflicting interests, management must balance the risk of insolvency with the need for investment returns. ERM attempts to quantify the risks in such decisions by using modeling to identify alternatives with the greatest value and lowest risk potential. Once modeling is complete, management selects the optimum strategy or combination of strategies."
+                        "Paragraph_txt": "<br />For example, the policyowners (customers) of an insurance company are primarily interested in the company’s solvency over the long term. Their interests suggest that an insurer maintain high levels of capital and reserves to ensure solvency regardless of what risks might occur in the future. Owners of stock life insurance companies, however, are interested in profits and growth. They want to maintain the minimum required reserves and invest excess capital for higher returns. In this example of conflicting interests, management must balance the risk of insolvency with the need for investment returns. ERM attempts to quantify the risks in such decisions by using modeling to identify alternatives with the greatest value and lowest risk potential. Once modeling is complete, management selects the optimum strategy or combination of strategies."
                     },
                     {
-                        "Paragraph_txt": "For insurance companies in the business of managing other people’s risks, ERM would seem to be a logical process for all companies to follow. Surprisingly, a recent survey found that only 46 percent consider the interaction of risk sources from the financial and operational sides of the enterprise when assessing and measuring risk.<span class=\"ens\" id=\"loma335-ch1-span-36\"> <span class=\"endnote hidden\" data-note=\"loma335-ch1-en4\" epub:type=\"noteref\" id=\"loma335-ch1-span-37\" role=\"doc-noteref\">4</span> </span>However, the percentage of insurers utilizing ERM is likely to increase as insurers face potential disruptions in the insurance business."
+                        "Paragraph_txt": "<br />For insurance companies in the business of managing other people’s risks, ERM would seem to be a logical process for all companies to follow. Surprisingly, a recent survey found that only 46 percent consider the interaction of risk sources from the financial and operational sides of the enterprise when assessing and measuring risk.<span class=\"ens\" id=\"loma335-ch1-span-36\"> <span class=\"endnote hidden\" data-note=\"loma335-ch1-en4\" epub:type=\"noteref\" id=\"loma335-ch1-span-37\" role=\"doc-noteref\">4</span> </span>However, the percentage of insurers utilizing ERM is likely to increase as insurers face potential disruptions in the insurance business."
                     }
                 ]
             },
@@ -815,7 +785,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Financial risk is harder to identify and quantify than operational risk.",
@@ -876,14 +846,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Enterprise risk management (ERM) assists a company in identifying critical risks so that management can plan strategies for avoiding or minimizing the risk.",

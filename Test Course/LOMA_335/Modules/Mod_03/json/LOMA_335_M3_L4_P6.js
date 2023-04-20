@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Innovation Management",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -212,12 +182,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.4 Characteristics of Innovation Initiatives</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "10-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Characteristics of innovation projects.<br /><br />Small innovations: (1) little risk, (2) small payback, (3) use existingstaff as part of normal work responsibilities, (4) continuous improvementmethods work well.<br /><br />Larger innovations: (1) greater risk, (2) potentially greater payback,(3) existing staff participate on a dedicated team in addition to regularwork responsibilities, (4) traditional project management methods workwell.<br /><br />Breakthrough innovations: (1) greatest risk, (2) potentially greatestpayback, (3) experts inside and outside organization participate on a dedicatedinnovation team with no other work responsibilities, (4) customized designneeded."
-                        ],
+                        "image_w_text_tag": "Characteristics of innovation projects.<br /><br />Small innovations: (1) little risk, (2) small payback, (3) use existingstaff as part of normal work responsibilities, (4) continuous improvementmethods work well.<br /><br />Larger innovations: (1) greater risk, (2) potentially greater payback,(3) existing staff participate on a dedicated team in addition to regularwork responsibilities, (4) traditional project management methods workwell.<br /><br />Breakthrough innovations: (1) greatest risk, (2) potentially greatestpayback, (3) experts inside and outside organization participate on a dedicatedinnovation team with no other work responsibilities, (4) customized designneeded.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -230,7 +231,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.4</strong> Characteristics of Innovation Initiatives",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -508,12 +509,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 10.5 Innovation Portfolio Matrix</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "10-5figure.jpg",
-                        "image_w_text_tag": [
-                            "An innovation portfolio matrix with nine sections. Risk is shown increasingfrom low to high on the y axis. Time is seen increasing from short-termto long-term on the x axis. The most innovation projects occur in the short-to –mid-term range and in the low to moderate risk range."
-                        ],
+                        "image_w_text_tag": "An innovation portfolio matrix with nine sections. Risk is shown increasingfrom low to high on the y axis. Time is seen increasing from short-termto long-term on the x axis. The most innovation projects occur in the short-to –mid-term range and in the low to moderate risk range.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -526,7 +558,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 10.5</strong> Innovation Portfolio Matrix",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -609,7 +641,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The responsibilities of the innovation steering committee include (select all correct answers)",
@@ -680,14 +712,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Managing core business operations requires long-term, high-risk innovation.",

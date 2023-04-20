@@ -156,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The five key questions are:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What does the company own?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What does the company owe?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What has the company retained?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What has the company earned?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What has the company spent?</span>"
-                        ],
+                        "image_w_text_tag": "The five key questions are:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What does the company own?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What does the company owe?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What has the company retained?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What has the company earned?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What has the company spent?</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

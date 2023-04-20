@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Shows the product development cycle. The Product Introduction step is highlighted with a list of the following subcategories:<br /><br />Product Implementation, including Day 1 Functionality and Day 2 Functionality<br /><br />Product Launch"
-                        ],
+                        "image_w_text_tag": "Shows the product development cycle. The Product Introduction step is highlighted with a list of the following subcategories:<br /><br />Product Implementation, including Day 1 Functionality and Day 2 Functionality<br /><br />Product Launch",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -448,7 +446,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "To ensure that a new product is fully supported, an insurer typically categorizes billing as (<strong>Day 1</strong> / <strong>Day 2</strong>) functionality and commission payment as (<strong>Day 1</strong> / <strong>Day 2</strong>) functionality.",

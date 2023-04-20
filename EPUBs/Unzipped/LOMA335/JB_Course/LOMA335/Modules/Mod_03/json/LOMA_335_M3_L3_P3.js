@@ -252,7 +252,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -345,7 +345,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -405,7 +405,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -498,7 +498,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -558,7 +558,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -618,7 +618,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -678,7 +678,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -774,7 +774,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -911,7 +911,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1001,7 +1001,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1176,9 +1176,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Three types of data analytics include descriptive analytics, predictiveanalytics, and prescriptive analytics.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Descriptive analytics uses analyzed data to provide information aboutpast or current business conditions, and turns existing data into information.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Predictive analytics uses data to predict future events and anticipateconditions, and forecasts the future.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prescriptive analytics uses analyzed data to suggest decisions and showimplications of those decisions, and recommends actions.</span>"
-                        ],
+                        "image_w_text_tag": "Three types of data analytics include descriptive analytics, predictiveanalytics, and prescriptive analytics.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Descriptive analytics uses analyzed data to provide information aboutpast or current business conditions, and turns existing data into information.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Predictive analytics uses data to predict future events and anticipateconditions, and forecasts the future.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prescriptive analytics uses analyzed data to suggest decisions and showimplications of those decisions, and recommends actions.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1241,7 +1239,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Data mining involves forecasting the future movement of specified factors based on observed historical patterns of change.",
@@ -1342,7 +1340,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "EndiFirst wants to send marketing materials about a new life insurance product only to those customers who have the highest probability of buying the new product. EndiFirst has historical data that indicates people above a certain level of income and who have recently had a baby will be interested in buying life insurance. Data mining, modeling, and machine learning are used to identify and forecast those individuals who are most likely to buy the new product.",
@@ -1408,14 +1406,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "EndiFirst uses data mining software to uncover historical trends in contact center staffing levels and the number of service complaints.",
@@ -1488,7 +1486,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "EndFirst uses analytics to simulate scenarios and determine which of two potential marketing campaign will have the greatest appeal to urban Millennials.",

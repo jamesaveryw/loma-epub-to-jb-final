@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Model Inputs",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "&nbsp;"
+                        "Paragraph_txt": "<br />&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "As previously stated, insurers typically derive model inputs for financial models from four sources: actuarial assumptions, experience data, regulatory requirements and estimates of possible future conditions. Each of these sources provides independent variables to be used as inputs. In some cases, the values of these independent variables are derived from real-world observations—for example, a company’s experience with lapse rates on previous products. In other cases, the values of independent variables are selected randomly from a data distribution."
+                        "Paragraph_txt": "<br />As previously stated, insurers typically derive model inputs for financial models from four sources: actuarial assumptions, experience data, regulatory requirements and estimates of possible future conditions. Each of these sources provides independent variables to be used as inputs. In some cases, the values of these independent variables are derived from real-world observations—for example, a company’s experience with lapse rates on previous products. In other cases, the values of independent variables are selected randomly from a data distribution."
                     }
                 ]
             },
@@ -231,7 +201,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -291,7 +261,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -370,7 +340,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -430,7 +400,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -509,7 +479,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -660,7 +630,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "EXAMPLE"
                     },
                     {
-                        "Paragraph_txt": "Chevalier Life Insurance is planning a new life insurance product that falls under specific regulatory requirements due to the features it offers. One of the regulatory requirements is that Chevalier must test the new product using a prescribed economic scenario generator to ensure that the product performs adequately under certain scenarios."
+                        "Paragraph_txt": "<br />Chevalier Life Insurance is planning a new life insurance product that falls under specific regulatory requirements due to the features it offers. One of the regulatory requirements is that Chevalier must test the new product using a prescribed economic scenario generator to ensure that the product performs adequately under certain scenarios."
                     }
                 ]
             },
@@ -687,7 +657,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -756,10 +726,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurance company records and systems, such as accounting, ALM, and ERM, maintain a large amount of experience data about the past behavior of factors such as mortality rates and expenses. Insurers also have access to external experience data published in experience studies. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">experience study </span>is a compilation of data representing company or industry-wide historical experience with a specified modeling variable."
                     },
                     {
-                        "Paragraph_txt": "Actuaries use data from experience studies to help them determine the appropriate input to use in the model and to test the model’s assumptions against past experience. Insurance industry and company experience studies address observed trends in mortality rates, lapse rates, product expenses, product persistency, and policyholder behavior. Many experience studies focus on specific subsets of customers, such as studying mortality rates among groups selected by age, sex, or smoking status."
+                        "Paragraph_txt": "<br />Actuaries use data from experience studies to help them determine the appropriate input to use in the model and to test the model’s assumptions against past experience. Insurance industry and company experience studies address observed trends in mortality rates, lapse rates, product expenses, product persistency, and policyholder behavior. Many experience studies focus on specific subsets of customers, such as studying mortality rates among groups selected by age, sex, or smoking status."
                     },
                     {
-                        "Paragraph_txt": "Experience data can provide insurers with valuable information about how financial variables behaved in the past and how they can be expected to behave in the future, if conditions remain stable. One limitation of experience data is that such data cannot accurately predict how variables will behave if future conditions do not follow historical trends."
+                        "Paragraph_txt": "<br />Experience data can provide insurers with valuable information about how financial variables behaved in the past and how they can be expected to behave in the future, if conditions remain stable. One limitation of experience data is that such data cannot accurately predict how variables will behave if future conditions do not follow historical trends."
                     }
                 ]
             },
@@ -893,7 +863,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For some tasks, insurers can use trend analysis to forecast future values for design elements that follow known patterns, such as the cost of benefits and operating expenses. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Trend analysis</span> is a form of technical analysis that projects the future movement of specified variables based on historical patterns. Trend analysis can identify patterns in experience data that could, if they persist, have a significant impact on the company. Mortality trends are a particularly important area of analysis for the insurance industry."
                     },
                     {
-                        "Paragraph_txt": "Although trend analysis can be a valuable tool for forecasting the behaviors of variables that follow regular patterns, it generally doesn’t provide accurate estimates for variables whose behavior is volatile or that can’t be described in terms of observed values. In these cases, insurers typically use modeling to produce estimates of future conditions."
+                        "Paragraph_txt": "<br />Although trend analysis can be a valuable tool for forecasting the behaviors of variables that follow regular patterns, it generally doesn’t provide accurate estimates for variables whose behavior is volatile or that can’t be described in terms of observed values. In these cases, insurers typically use modeling to produce estimates of future conditions."
                     }
                 ]
             },
@@ -953,7 +923,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1013,7 +983,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1217,12 +1187,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 4.1 Sample Challenges of Acquiring Quality Data</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "4-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Appropriateness: Often easier to acquire general-purpose, less specialized data, especially for new products<br /><br />Accuracy: Requires time and sufficiently large sets of data<br /><br />Relevance: User needs can shift quickly<br /><br />Timeliness: Quicker results often sacrifice accuracy<br /><br />Interpretability: Greater detail usually requires more training to properly interpret<br /><br />Accessibility: Privacy requirements and competitive advantage discourage data-sharing<br /><br />Coherence: Ever-increasing volumes of useful data are harder to coordinate"
-                        ],
+                        "image_w_text_tag": "Appropriateness: Often easier to acquire general-purpose, less specialized data, especially for new products<br /><br />Accuracy: Requires time and sufficiently large sets of data<br /><br />Relevance: User needs can shift quickly<br /><br />Timeliness: Quicker results often sacrifice accuracy<br /><br />Interpretability: Greater detail usually requires more training to properly interpret<br /><br />Accessibility: Privacy requirements and competitive advantage discourage data-sharing<br /><br />Coherence: Ever-increasing volumes of useful data are harder to coordinate",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1235,7 +1236,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 4.1</strong> Sample Challenges of Acquiring Quality Data",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1285,7 +1286,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Chevalier Life Insurance is modeling a new product. For one key variable, Chevalier applies an assumption that is selected randomly from a specified statistical distribution applied across multiple simulations or scenarios. What type of assumption is Chevalier using for this variable?",
@@ -1351,14 +1352,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Assumptions dictated by regulation or by policy or contract terms are typically",
@@ -1431,7 +1432,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Quality data relies on a number of characteristics. One of these characteristics is the degree to which information gathered through data analysis meets the needs of users. This data characteristic is known as",
@@ -1502,14 +1503,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Experience data provides insurers with valuable information about how financial variables behaved in the past and how these variables can be expected to behave in the future if future conditions do not follow historical trends.",

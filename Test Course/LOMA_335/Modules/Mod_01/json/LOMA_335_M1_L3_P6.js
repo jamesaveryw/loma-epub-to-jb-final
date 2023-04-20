@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Motivating Through Job Design",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -292,7 +262,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Employers often attempt to organize work activities so that they are more suitable to employees. Three common approaches to job design are job rotation, job enlargement, and job enrichment."
                     },
                     {
-                        "Paragraph_txt": "One of the earliest approaches to job design was <span class=\"keyterm\" tabindex=\"0\" role=\"button\">job rotation</span>—a process in which employees are periodically shifted from one task to another task with similar skill requirements. Job rotation is appropriate for routine tasks in which shifting employees relieves the monotony of doing one repetitive task or alleviates the stress of certain work-related duties."
+                        "Paragraph_txt": "<br />One of the earliest approaches to job design was <span class=\"keyterm\" tabindex=\"0\" role=\"button\">job rotation</span>—a process in which employees are periodically shifted from one task to another task with similar skill requirements. Job rotation is appropriate for routine tasks in which shifting employees relieves the monotony of doing one repetitive task or alleviates the stress of certain work-related duties."
                     }
                 ]
             },
@@ -319,7 +289,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -379,7 +349,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -415,10 +385,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Job rotation allows a company to address unpredictable worker demand by shifting workers to areas where current demand is greatest. Job rotation is also an effective way for employees to acquire new skills, and companies sometimes use job rotation to train new employees. For example, management training programs frequently rotate management trainees through all areas of a company."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Job enlargement </span>is the process of creating a new job by combining two or more specialized tasks to add more variety. The enlarged job requires that the employee be more knowledgeable about a broader set of tasks, and sometimes for the completion of a whole and identifiable piece of work. Thus, job enlargement has the potential to increase the skill and task dimensions of a job. For example, a new business representative may be given the authority to enter life insurance application information and review insurability of the applicant up to a certain amount limit."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Job enlargement </span>is the process of creating a new job by combining two or more specialized tasks to add more variety. The enlarged job requires that the employee be more knowledgeable about a broader set of tasks, and sometimes for the completion of a whole and identifiable piece of work. Thus, job enlargement has the potential to increase the skill and task dimensions of a job. For example, a new business representative may be given the authority to enter life insurance application information and review insurability of the applicant up to a certain amount limit."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Job enrichment </span>is the process of redesigning a job to allow workers more control over how they perform their work tasks. When workers have greater authority and responsibility for the completion of their work, they often can eliminate unnecessary tasks and become more efficient and effective. For example, employees who are responsible for reaching out to the owners of lapsed policies may have their jobs enriched when they are given authority within specified guidelines to reinstate policies according to the policyowner’s needs for such things as a waiver of interest on overdue premiums or a waiver of medical tests."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Job enrichment </span>is the process of redesigning a job to allow workers more control over how they perform their work tasks. When workers have greater authority and responsibility for the completion of their work, they often can eliminate unnecessary tasks and become more efficient and effective. For example, employees who are responsible for reaching out to the owners of lapsed policies may have their jobs enriched when they are given authority within specified guidelines to reinstate policies according to the policyowner’s needs for such things as a waiver of interest on overdue premiums or a waiver of medical tests."
                     }
                 ]
             },
@@ -538,7 +508,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The job characteristics model describes five core job dimensions. A job that requires the completion of a whole and identifiable piece of work would rate high on the dimension of",
@@ -604,14 +574,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Job enlargement is a job design technique often used when work tasks are stressful.",

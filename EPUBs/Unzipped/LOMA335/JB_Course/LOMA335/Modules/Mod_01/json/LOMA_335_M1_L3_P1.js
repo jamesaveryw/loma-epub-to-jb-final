@@ -132,7 +132,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Kartik Alamos is a customer service manager at EndiFirst Life. Mr. Alamos positively influences the people who work for him by constructively evaluating their work and being an inspiring role model in his behaviors. What type of leadership do you think Mr. Alamos displays?",

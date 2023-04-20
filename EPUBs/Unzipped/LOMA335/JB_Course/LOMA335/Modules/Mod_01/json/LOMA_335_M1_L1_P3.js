@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A picture of an arrow with three sections provides a simplified valuechain model for an insurance company’s operations. From top to bottom,the top section of the arrow is resource inputs. Middle section is transformativeprocesses. Bottom section of the arrow is outputs. Each section providesseveral bulleted examples.<br /><br /><strong>First section: Resource Inputs</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Owner investments</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Customer revenues</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Employee labor and expertise</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Data</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Technology</span><br /><br /><strong>Middle section: Transformative Processes</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Underwriting</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Claims processing</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Customer experience</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment management</span><br /><br /><strong>Last section: Outputs</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Satisfied customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Satisfied employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Goodwill</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Profits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment growth</span>"
-                        ],
+                        "image_w_text_tag": "A picture of an arrow with three sections provides a simplified valuechain model for an insurance company’s operations. From top to bottom,the top section of the arrow is resource inputs. Middle section is transformativeprocesses. Bottom section of the arrow is outputs. Each section providesseveral bulleted examples.<br /><br /><strong>First section: Resource Inputs</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Owner investments</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Customer revenues</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Employee labor and expertise</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Data</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Technology</span><br /><br /><strong>Middle section: Transformative Processes</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Underwriting</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Claims processing</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Customer experience</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment management</span><br /><br /><strong>Last section: Outputs</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Satisfied customers</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Satisfied employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Goodwill</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Profits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment growth</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -275,9 +273,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A picture of an arrow with three sections provides a simplified valuechain model for insurance claims operations. From top to bottom, the topsection of the arrow is resource inputs. Middle section is transformativeprocesses. Bottom section of the arrow is outputs. Each section providesseveral bulleted examples.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Resource Inputs</strong></p><ul><li><p>Employee labor</p></li><li><p>Data</p></li><li><p>Technology</p></li></ul></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Transformative Processes</strong></p><ul><li><p>Verify claims payable</p></li><li><p>Build customer satisfaction</p></li><li><p>Verify benefit amounts</p></li><li><p>Pay benefits to correct parties</p></li></ul></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Outputs</strong></p><ul><li><p>Benefit payments</p></li></ul></span>"
-                        ],
+                        "image_w_text_tag": "A picture of an arrow with three sections provides a simplified valuechain model for insurance claims operations. From top to bottom, the topsection of the arrow is resource inputs. Middle section is transformativeprocesses. Bottom section of the arrow is outputs. Each section providesseveral bulleted examples.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Resource Inputs</strong></p><ul><li><p>Employee labor</p></li><li><p>Data</p></li><li><p>Technology</p></li></ul></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Transformative Processes</strong></p><ul><li><p>Verify claims payable</p></li><li><p>Build customer satisfaction</p></li><li><p>Verify benefit amounts</p></li><li><p>Pay benefits to correct parties</p></li></ul></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <p><strong>Outputs</strong></p><ul><li><p>Benefit payments</p></li></ul></span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -376,7 +372,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "According to Porter’s value chain model, monetary investments from insurance company owners and revenues from insurance customers would be classified as",
@@ -442,14 +438,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "An operational area that an insurer would likely consider a value-adding function is",

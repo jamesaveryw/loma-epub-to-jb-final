@@ -156,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Financial Statement Users:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policyowners and employees seek a general status report about the company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Company managers and directors use information to make certain decisions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investors decide whether to purchase a company’s stocks or bonds or make some other kind of investment in the company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment analysts and financial advisors consider whether to recommend a company’s products to clients</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Rating agencies evaluate the insurer’s financial strength and creditworthiness and assign a rating</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Regulators examine the company’s financial condition and performance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Potential creditors decide whether to make a loan or extend some other form of credit to a company</span>"
-                        ],
+                        "image_w_text_tag": "Financial Statement Users:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policyowners and employees seek a general status report about the company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Company managers and directors use information to make certain decisions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investors decide whether to purchase a company’s stocks or bonds or make some other kind of investment in the company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment analysts and financial advisors consider whether to recommend a company’s products to clients</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Rating agencies evaluate the insurer’s financial strength and creditworthiness and assign a rating</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Regulators examine the company’s financial condition and performance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Potential creditors decide whether to make a loan or extend some other form of credit to a company</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1339,7 +1337,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1399,7 +1397,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1695,7 +1693,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1761,7 +1759,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2465,7 +2463,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2525,7 +2523,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2585,7 +2583,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2645,7 +2643,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3342,7 +3340,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The primary purpose of the balance sheet is to show a company’s",
@@ -3413,14 +3411,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "One account that typically appears on a life insurance company’s income statement is",
@@ -3498,7 +3496,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Under GAAP, some life insurers prepare a separate statement of comprehensive income, which",
@@ -3569,14 +3567,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "One example of a <em>financing activity</em> that would result in a <em>cash inflow</em> for an insurer is the",
@@ -3654,7 +3652,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following financial statements are examples of<em> dynamic reports</em>? Check all that apply.",
@@ -3778,7 +3776,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3838,7 +3836,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3898,7 +3896,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3958,7 +3956,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4110,7 +4108,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following statements is <em>false</em>?",

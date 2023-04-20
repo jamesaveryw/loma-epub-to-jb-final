@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Effective Leaders",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -316,12 +286,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.1 Types of Power</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "3-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The word “Power” is located in a circle with five boxes going around thecircle. Each box identifies a type of power with a brief description asfollows:<br /><br /><strong>Box 1. Legitimate Power: </strong>Results from superior positionin the organizational hierarchy<br /><br /><strong>Box 2. Reward Power: </strong>Result from ability to allocateincentives based on behaviors or performance<br /><br /><strong>Box 3. Coercive Power</strong>: Results from ability to disciplineothers for poor performance<br /><br /><strong>Box 4: Expert Power:</strong> Results from skills, knowledge, orexpertise<br /><br /><strong>Box 5: Referent Power:</strong> Results from the loyalty, respect,or admiration of others"
-                        ],
+                        "image_w_text_tag": "The word “Power” is located in a circle with five boxes going around thecircle. Each box identifies a type of power with a brief description asfollows:<br /><br /><strong>Box 1. Legitimate Power: </strong>Results from superior positionin the organizational hierarchy<br /><br /><strong>Box 2. Reward Power: </strong>Result from ability to allocateincentives based on behaviors or performance<br /><br /><strong>Box 3. Coercive Power</strong>: Results from ability to disciplineothers for poor performance<br /><br /><strong>Box 4: Expert Power:</strong> Results from skills, knowledge, orexpertise<br /><br /><strong>Box 5: Referent Power:</strong> Results from the loyalty, respect,or admiration of others",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -334,7 +335,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.1</strong> Types of Power",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -417,7 +418,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "When trust in leadership is lacking, employees are less productive.",
@@ -478,14 +479,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The type of leadership power that exists because a person has earned the loyalty, respect, and admiration of others is known as",

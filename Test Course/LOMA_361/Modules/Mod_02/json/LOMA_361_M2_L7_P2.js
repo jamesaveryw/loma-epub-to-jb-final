@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Financial Ratio Analysis",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -169,7 +139,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -205,7 +175,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> When Charles went to work today, he had four major tasks to do by the end of the day. By 3:00, he had completed three of the tasks."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> In fraction form, Charles has completed ¾ of his tasks. To turn this fraction into a percentage, you would calculate 3 ÷ 4, which equals 0.75, and then multiply this by 100, to get 75%. So, by 3:00, Charles had completed 75% of his tasks for the day."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> In fraction form, Charles has completed ¾ of his tasks. To turn this fraction into a percentage, you would calculate 3 ÷ 4, which equals 0.75, and then multiply this by 100, to get 75%. So, by 3:00, Charles had completed 75% of his tasks for the day."
                     }
                 ]
             },
@@ -232,7 +202,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -268,7 +238,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In general, financial ratio results of less than 1 are expressed as a percentage—for example, a result of 0.05 is presented as 5 percent. On the other hand, ratio results of 100 percent or more are typically expressed as a number—for example, a result of 500 percent would be presented as 5."
                     },
                     {
-                        "Paragraph_txt": "When a ratio is expressed in fraction form, the number in the top part of the fraction is the numerator and the number in the bottom part of the fraction is the denominator:"
+                        "Paragraph_txt": "<br />When a ratio is expressed in fraction form, the number in the top part of the fraction is the numerator and the number in the bottom part of the fraction is the denominator:"
                     }
                 ]
             },
@@ -295,7 +265,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -379,7 +349,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -417,12 +387,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 11.1 Rules for Interpreting Changes in Ratios</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "11-1figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table><tbody><tr><td><p>The value of a ratio will increase if the value of the…</p></td><td>&nbsp;</td></tr><tr><td><p>…Numerator increases while the value of the denominator remains unchanged</p></td><td><p>Example:</p><p>¼ = 25%</p><p>¾ = 75%</p></td></tr><tr><td><p>…Denominator decreases while the value of the numerator remains unchanged</p></td><td><p>2/5 = 40%</p><p>2/4 = 50%</p></td></tr></tbody></table>[[NEEDS EDIT!!]][[NEEDS EDIT!!]]<table><tbody><tr><td><p>The value of a ratio will decrease if the value of the…</p></td><td>&nbsp;</td></tr><tr><td><p>…Numerator decreases while the value of the denominator remains unchanged</p></td><td><p>Example:</p><p>2/4 = 50%</p><p>¼ = 25%</p></td></tr><tr><td><p>…Denominator increases while the value of the numerator remains unchanged</p></td><td><p>2/3 = 66%</p><p>2/5 = 40%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table><tbody><tr><td><p>The value of a ratio will increase if the value of the…</p></td><td>&nbsp;</td></tr><tr><td><p>…Numerator increases while the value of the denominator remains unchanged</p></td><td><p>Example:</p><p>¼ = 25%</p><p>¾ = 75%</p></td></tr><tr><td><p>…Denominator decreases while the value of the numerator remains unchanged</p></td><td><p>2/5 = 40%</p><p>2/4 = 50%</p></td></tr></tbody></table>[[NEEDS EDIT!!]][[NEEDS EDIT!!]]<table><tbody><tr><td><p>The value of a ratio will decrease if the value of the…</p></td><td>&nbsp;</td></tr><tr><td><p>…Numerator decreases while the value of the denominator remains unchanged</p></td><td><p>Example:</p><p>2/4 = 50%</p><p>¼ = 25%</p></td></tr><tr><td><p>…Denominator increases while the value of the numerator remains unchanged</p></td><td><p>2/3 = 66%</p><p>2/5 = 40%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -435,7 +436,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 11.1</strong> Rules for Interpreting Changes in Ratios",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -741,7 +742,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In Chapter 2, we defined<em> liquidity</em> as the ease with which an asset can be converted into cash for an approximation of its underlying value. Recall that insurers must have enough cash and other liquid assets when needed to pay their contractual benefits and general business expenses on time. For insurers, <em>illiquidity</em>—that is, the lack of liquidity—means that an insurer lacks sufficient cash, which is not an option for an insurer, even on a short-term basis. On the other hand, highly liquid assets produce little or no return. Thus, excessive liquidity damages profits. The goal for insurance companies is to maintain a moderate level of overall liquidity. So, what’s a “moderate level”? We explain this phrase in a minute."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Liquidity ratios</span> measure a company’s ability to meet its maturing short-term obligations. The basic liquidity ratio contains assets in the numerator and liabilities in the denominator."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Liquidity ratios</span> measure a company’s ability to meet its maturing short-term obligations. The basic liquidity ratio contains assets in the numerator and liabilities in the denominator."
                     }
                 ]
             },
@@ -768,7 +769,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -852,7 +853,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -912,7 +913,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -996,7 +997,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1091,10 +1092,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Now let’s look at the phrase “moderate level of overall liquidity.” In terms of the current ratio, life insurers generally aim for a value of at least 1.0. A current ratio result of 1.0 indicates that an insurer’s current assets equal its current liabilities. What if the value for this ratio is less than 1.0? In this case, the insurer has less in current assets than it has in current liabilities. This insurer could be forced to sell long-term or less liquid investments at a discount or borrow money to satisfy its short-term obligations."
                     },
                     {
-                        "Paragraph_txt": "What about values of greater than 1.0? An insurer with a current ratio result of 2.0 has twice as much in current assets as it has in current liabilities. Remember, though, that an insurer doesn’t want the value of this ratio to be too high, because a high value typically indicates that the insurer is holding too much in current assets, which don’t provide much of a return."
+                        "Paragraph_txt": "<br />What about values of greater than 1.0? An insurer with a current ratio result of 2.0 has twice as much in current assets as it has in current liabilities. Remember, though, that an insurer doesn’t want the value of this ratio to be too high, because a high value typically indicates that the insurer is holding too much in current assets, which don’t provide much of a return."
                     },
                     {
-                        "Paragraph_txt": "So far, we’ve been discussing the values of the current ratio at a single point in time. However, insurers and analysts generally track the changes in the current ratio over time. For example, an increase in the value of a current ratio between two consecutive balance sheet dates generally indicates that the insurer has more liquidity now than during the previous reporting period. An increase in the value of the current ratio results when there is (1) an increase in the value of current assets in the numerator and/or (2) a decrease in the value of current liabilities in the denominator."
+                        "Paragraph_txt": "<br />So far, we’ve been discussing the values of the current ratio at a single point in time. However, insurers and analysts generally track the changes in the current ratio over time. For example, an increase in the value of a current ratio between two consecutive balance sheet dates generally indicates that the insurer has more liquidity now than during the previous reporting period. An increase in the value of the current ratio results when there is (1) an increase in the value of current assets in the numerator and/or (2) a decrease in the value of current liabilities in the denominator."
                     }
                 ]
             },
@@ -1121,7 +1122,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1157,7 +1158,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> In 2018, Evergreen had current assets of $9,900,000 and current liabilities of $11,000,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> For 2018, Evergreen’s current ratio was 0.90, found as $9,900,000 ÷ $11,000,000. In 2017, Evergreen’s current ratio was 1.25, so Evergreen had lower liquidity in 2018 than it had in 2017."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> For 2018, Evergreen’s current ratio was 0.90, found as $9,900,000 ÷ $11,000,000. In 2017, Evergreen’s current ratio was 1.25, so Evergreen had lower liquidity in 2018 than it had in 2017."
                     }
                 ]
             },
@@ -1184,7 +1185,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1244,7 +1245,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1280,7 +1281,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> In 2018, the Poplar Life Insurance Company had current assets of $12,000,000 and current liabilities of $6,000,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Poplar’s current ratio for 2018 was 2.0, found as $12,000,000 ÷ $6,000,000, which means that Poplar had greater liquidity in 2018 than did Evergreen, all other factors remaining equal."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Poplar’s current ratio for 2018 was 2.0, found as $12,000,000 ÷ $6,000,000, which means that Poplar had greater liquidity in 2018 than did Evergreen, all other factors remaining equal."
                     }
                 ]
             },
@@ -1307,7 +1308,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1367,7 +1368,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1451,7 +1452,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1511,7 +1512,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1673,7 +1674,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1801,7 +1802,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: An insurer that wants to increase the value of its current ratio would decrease its current assets while keeping its current liabilities the same.",
@@ -1862,14 +1863,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: The nonadmitted assets ratio measures the extent to which an insurer’s asset portfolio may be illiquid.",
@@ -1956,7 +1957,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers use several types of ratios to measure their operating performance, such as the general expense ratio, the benefits ratio, and the lapse and surrender ratio. The first two ratios indicate how an insurer’s products are performing, by comparing expenses or benefits paid to premium income. The lapse and surrender ratio measures how well the company is doing in retaining its customers."
                     },
                     {
-                        "Paragraph_txt": "Insurers generally use statutory data to calculate these three ratios, because this data is more conservative than is GAAP data."
+                        "Paragraph_txt": "<br />Insurers generally use statutory data to calculate these three ratios, because this data is more conservative than is GAAP data."
                     }
                 ]
             },
@@ -2016,7 +2017,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2100,7 +2101,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2160,7 +2161,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2322,7 +2323,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2382,7 +2383,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2466,7 +2467,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2502,7 +2503,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Examples of <em>benefits paid</em> include death benefits on life insurance policies, benefit payments on annuities, and disability benefits."
                     },
                     {
-                        "Paragraph_txt": "For this ratio, insurers typically aim for a result of less than 90 percent, and the recent industry average ranges from 40 percent to 45 percent. <span class=\"ens\" id=\"loma361-ch11-span-23\"> <span class=\"endnote hidden\" data-note=\"loma361-ch11-en2\" epub:type=\"noteref\" id=\"loma361-ch11-span-24\" role=\"doc-noteref\">2</span> </span> "
+                        "Paragraph_txt": "<br />For this ratio, insurers typically aim for a result of less than 90 percent, and the recent industry average ranges from 40 percent to 45 percent. <span class=\"ens\" id=\"loma361-ch11-span-23\"> <span class=\"endnote hidden\" data-note=\"loma361-ch11-en2\" epub:type=\"noteref\" id=\"loma361-ch11-span-24\" role=\"doc-noteref\">2</span> </span> "
                     }
                 ]
             },
@@ -2529,7 +2530,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2565,7 +2566,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> In 2018, Evergreen’s benefits paid were $2,940,000, and its premiums and considerations were $7,000,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> For 2018, Evergreen’s benefits ratio was 0.42, or 42%, found as $2,940,000 ÷ $7,000,000. For 2018, Evergreen’s benefits ratio fell within the range for the industry average."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> For 2018, Evergreen’s benefits ratio was 0.42, or 42%, found as $2,940,000 ÷ $7,000,000. For 2018, Evergreen’s benefits ratio fell within the range for the industry average."
                     }
                 ]
             },
@@ -2592,7 +2593,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2652,7 +2653,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2826,7 +2827,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2886,7 +2887,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2922,7 +2923,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> During 2018, 5,500 of Evergreen’s term life insurance policies either lapsed or were surrendered. The number of policies in force at the end of 2017 was 105,000; and the number of policies in force at the end of 2018 was 95,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> The average number of policies in force during 2018 was 100,000, calculated as (105,000 + 95,000) ÷ 2. Therefore, the lapse and surrender ratio for these policies was 5.5%, calculated as 5,500 ÷ 100,000, which falls within the range for the industry average."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> The average number of policies in force during 2018 was 100,000, calculated as (105,000 + 95,000) ÷ 2. Therefore, the lapse and surrender ratio for these policies was 5.5%, calculated as 5,500 ÷ 100,000, which falls within the range for the industry average."
                     }
                 ]
             },
@@ -2949,7 +2950,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3096,7 +3097,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: In general, the lower an insurer’s general expense ratio, the better.",
@@ -3157,14 +3158,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: An insurer that wants to improve its benefits ratio would focus on either increasing the amount of its benefits paid or decreasing its premiums and considerations.",
@@ -3232,7 +3233,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "During 2018, 6,800 of Sundog’s term life insurance policies either lapsed or were surrendered. The number of policies in force at the end of 2017 was 170,000, and the number of policies in force at the end of 2018 was 102,000. What was the lapse and surrender ratio for these policies for 2018?",
@@ -3382,7 +3383,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3442,7 +3443,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3590,7 +3591,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3650,7 +3651,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3710,7 +3711,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3794,7 +3795,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3830,10 +3831,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In general, the lower the value of a leverage ratio, the stronger an insurer’s financial position. A <em>decrease</em> in the value of a leverage ratio results from (1) a decrease in the value of liabilities in the numerator and/or (2) an increase in the value of capital in the denominator."
                     },
                     {
-                        "Paragraph_txt": "The basic leverage ratio focuses on a company’s debt obligations in relation to its ability to meet those obligations. Remember, though, that life insurance companies typically have little or no debt in the form of borrowed money that must be repaid with interest. Instead, life insurers have a significant amount of their liabilities in the form of reserves for contractual benefits. Thus, a more meaningful leverage ratio for insurers replaces (1) liabilities with contractual reserves and (2) capital with capital and surplus."
+                        "Paragraph_txt": "<br />The basic leverage ratio focuses on a company’s debt obligations in relation to its ability to meet those obligations. Remember, though, that life insurance companies typically have little or no debt in the form of borrowed money that must be repaid with interest. Instead, life insurers have a significant amount of their liabilities in the form of reserves for contractual benefits. Thus, a more meaningful leverage ratio for insurers replaces (1) liabilities with contractual reserves and (2) capital with capital and surplus."
                     },
                     {
-                        "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">insurance leverage ratio</span>, also called the <em>gross leverage ratio</em>, does just that: it compares an insurer’s contractual reserves to its capital and surplus."
+                        "Paragraph_txt": "<br />The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">insurance leverage ratio</span>, also called the <em>gross leverage ratio</em>, does just that: it compares an insurer’s contractual reserves to its capital and surplus."
                     }
                 ]
             },
@@ -3860,7 +3861,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3944,7 +3945,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4004,7 +4005,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4040,7 +4041,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> At year-end 2018, Evergreen had $16,000,000 in contractual reserves and $4,000,000 in capital and surplus."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Evergreen’s insurance leverage ratio in 2018 was 4.0, found as $16,000,000 ÷ $4,000,000. This result falls within the range of 4.0 to 6.5 mentioned above."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Evergreen’s insurance leverage ratio in 2018 was 4.0, found as $16,000,000 ÷ $4,000,000. This result falls within the range of 4.0 to 6.5 mentioned above."
                     }
                 ]
             },
@@ -4067,7 +4068,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4127,7 +4128,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4211,7 +4212,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4271,7 +4272,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4307,7 +4308,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> For 2018, Evergreen had $17,280,000 in total liabilities and $2,880,000 in surplus."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Evergreen’s debt-to-surplus ratio in 2018 was 6.0, found as $17,280,000 ÷ $2,880,000. This result falls within the range of 4.0 to 6.5 mentioned above."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Evergreen’s debt-to-surplus ratio in 2018 was 6.0, found as $17,280,000 ÷ $2,880,000. This result falls within the range of 4.0 to 6.5 mentioned above."
                     }
                 ]
             },
@@ -4334,7 +4335,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4462,7 +4463,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A life insurer decided to improve its insurance leverage ratio result by focusing on the numerator of the ratio. Was the life insurer trying to increase or decrease the numerator?",
@@ -4523,14 +4524,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: The debt-to-surplus ratio is especially important to mutual insurers and fraternal insurers.",
@@ -4617,7 +4618,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurance companies measure their financial strength using capital and surplus ratios. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Capital and surplus ratios</span>, also called <em>capitalization ratios</em>, are financial ratios used to express the relationship between an insurer’s capital and surplus and its liabilities. Capital and surplus ratios are sometimes referred to as simply <em>capital ratios</em> for stock companies or <em>surplus ratios</em> for mutual companies. In general, the higher the value of capital and surplus ratios, the stronger the insurer’s financial position."
                     },
                     {
-                        "Paragraph_txt": "The combined capital and surplus ratio, which measures an insurer’s long-term solvency, consists of capital and surplus in the numerator divided by total liabilities in the denominator:"
+                        "Paragraph_txt": "<br />The combined capital and surplus ratio, which measures an insurer’s long-term solvency, consists of capital and surplus in the numerator divided by total liabilities in the denominator:"
                     }
                 ]
             },
@@ -4644,7 +4645,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4728,7 +4729,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4755,7 +4756,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4791,7 +4792,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> In 2018, Evergreen had $4,000,000 in capital and surplus and $17,280,000 in total liabilities."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>. Evergreen’s capital and surplus ratio for 2018 was 23.15%, found as $4,000,000 ÷ $17,280,000, which we round to 23%. For 2017, Evergreen’s capital and surplus ratio was 21%. Therefore, the company’s financial strength increased from 2017 to 2018, based on these results."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>. Evergreen’s capital and surplus ratio for 2018 was 23.15%, found as $4,000,000 ÷ $17,280,000, which we round to 23%. For 2017, Evergreen’s capital and surplus ratio was 21%. Therefore, the company’s financial strength increased from 2017 to 2018, based on these results."
                     }
                 ]
             },
@@ -4818,7 +4819,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4854,7 +4855,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "One drawback of the basic capital and surplus ratio is that it is based on unweighted values, which result in unweighted ratios. Unweighted capital and surplus ratios are not suitable for comparing insurers that have different exposures to risk. To account for different risk levels, financial analysts typically apply weighted values. A <em>weighted value</em> is an amount that has been multiplied by a specified percentage."
                     },
                     {
-                        "Paragraph_txt": "One example of a weighted ratio is the risk-based capital (RBC) ratio we discussed in Chapter 1. A common formula for calculating the RBC ratio is"
+                        "Paragraph_txt": "<br />One example of a weighted ratio is the risk-based capital (RBC) ratio we discussed in Chapter 1. A common formula for calculating the RBC ratio is"
                     }
                 ]
             },
@@ -4881,7 +4882,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -4965,7 +4966,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5001,7 +5002,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Although details on the components of the RBC ratio—TAC and ACL RBC—are beyond the scope of this text, you should be aware that insurers compare their own RBC ratio results to those of other insurers. So what’s a typical RBC ratio result for a U.S. life insurer? Virtually all U.S. life insurers have RBC ratio results of greater than 250 percent. In fact, as of year-end 2016, the average RBC ratio result for U.S. life insurers was 1,040%. <span class=\"ens\" id=\"loma361-ch11-span-55\"> <span class=\"endnote hidden\" data-note=\"loma361-ch11-en4\" epub:type=\"noteref\" id=\"loma361-ch11-span-56\" role=\"doc-noteref\">4</span> </span> "
                     },
                     {
-                        "Paragraph_txt": "The basic capital ratio looks like the capital and surplus ratio, except <em>without </em>surplus:"
+                        "Paragraph_txt": "<br />The basic capital ratio looks like the capital and surplus ratio, except <em>without </em>surplus:"
                     }
                 ]
             },
@@ -5028,7 +5029,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5112,7 +5113,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5139,7 +5140,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5175,7 +5176,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> For 2018, Evergreen’s capital was $1,120,000, and its total liabilities were $17,280,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Evergreen’s capital ratio in 2018 was 6.48%, found as $1,120,000 ÷ $17,280,000, which we round to 6.5%. For 2017, Evergreen’s capital ratio was 5.0%. So, these ratios’ results indicate an increase in the company’s financial strength from 2017 to 2018."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Evergreen’s capital ratio in 2018 was 6.48%, found as $1,120,000 ÷ $17,280,000, which we round to 6.5%. For 2017, Evergreen’s capital ratio was 5.0%. So, these ratios’ results indicate an increase in the company’s financial strength from 2017 to 2018."
                     }
                 ]
             },
@@ -5202,7 +5203,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5330,7 +5331,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A life insurer decided to improve its basic capital ratio by focusing on the denominator of the ratio. Was the life insurer trying to increase or decrease the denominator?",
@@ -5441,7 +5442,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5525,7 +5526,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5561,7 +5562,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Generally, an increase in the value of a profitability ratio indicates higher profitability. An increase in the value of a profitability ratio results from (1) an increase in the value of net income or a gain from operations in the numerator and/or (2) a decrease in the value of the assets invested or equity used in the denominator. In choosing an appropriate measure of profit, you could choose either an insurer’s profit before taxes—its “gain (or income) from operations”—or its profit after taxes—its “net income.”"
                     },
                     {
-                        "Paragraph_txt": "Insurers and analysts use a variety of profitability ratios to evaluate a company’s ability to generate returns consistently to the company’s owners. In this section, we discuss the return on equity ratio (ROE), return on assets ratio (ROA), investment yield ratio, and net profit margin. The data for these ratios comes from an insurer’s GAAP-based balance sheet and income statement."
+                        "Paragraph_txt": "<br />Insurers and analysts use a variety of profitability ratios to evaluate a company’s ability to generate returns consistently to the company’s owners. In this section, we discuss the return on equity ratio (ROE), return on assets ratio (ROA), investment yield ratio, and net profit margin. The data for these ratios comes from an insurer’s GAAP-based balance sheet and income statement."
                     }
                 ]
             },
@@ -5621,7 +5622,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5795,7 +5796,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5855,7 +5856,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5891,7 +5892,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> For 2018, Evergreen’s net income was $637,000, and its owners’ equity as of the beginning of the reporting period was $3,962,250; its owners’ equity was $4,000,000 at the end of the reporting period."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Evergreen’s average owners’ equity was $3,981,125, calculated as ($3,962,250 + $4,000,000) ÷ 2, or $7,962,250 ÷ 2. Therefore, Evergreen’s ROE was 16%, calculated as $637,000 ÷ $3,981,125, which slightly exceeds the range listed above. However, Evergreen has a relatively high risk tolerance, so management is satisfied with this result."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Evergreen’s average owners’ equity was $3,981,125, calculated as ($3,962,250 + $4,000,000) ÷ 2, or $7,962,250 ÷ 2. Therefore, Evergreen’s ROE was 16%, calculated as $637,000 ÷ $3,981,125, which slightly exceeds the range listed above. However, Evergreen has a relatively high risk tolerance, so management is satisfied with this result."
                     }
                 ]
             },
@@ -5918,7 +5919,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -5978,7 +5979,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6152,7 +6153,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6212,7 +6213,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6248,7 +6249,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> For 2018, Evergreen’s net income was $637,000, and its total assets as of the beginning of the reporting period were $23,000,000; its total assets at the end of the reporting period were $21,280,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Evergreen’s average total assets for the period were $22,140,000, calculated as ($23,000,000 + $21,280,000) ÷ 2, or $44,280,000 ÷ 2. Therefore, Evergreen’s ROA was 2.87%, found as $637,000 ÷ $22,140,000, which we round to 2.9%. This result exceeds the industry average, so Evergreen’s management would want to investigate the reasons for this result."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Evergreen’s average total assets for the period were $22,140,000, calculated as ($23,000,000 + $21,280,000) ÷ 2, or $44,280,000 ÷ 2. Therefore, Evergreen’s ROA was 2.87%, found as $637,000 ÷ $22,140,000, which we round to 2.9%. This result exceeds the industry average, so Evergreen’s management would want to investigate the reasons for this result."
                     }
                 ]
             },
@@ -6275,7 +6276,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6335,7 +6336,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6509,7 +6510,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6569,7 +6570,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6605,7 +6606,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> For 2018, Evergreen’s net investment income was $900,000. Its total invested assets as of the beginning of the reporting period were $17,000,000, and its total invested assets at the end of the reporting period were $19,000,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Evergreen’s average invested assets for the period were $18,000,000, calculated as ($17,000,000 + $19,000,000) ÷ 2, or $36,000,000 ÷ 2. Therefore, Evergreen’s net investment yield was 5%, calculated as $900,000 ÷ $18,000,000, which falls within the range listed above."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Evergreen’s average invested assets for the period were $18,000,000, calculated as ($17,000,000 + $19,000,000) ÷ 2, or $36,000,000 ÷ 2. Therefore, Evergreen’s net investment yield was 5%, calculated as $900,000 ÷ $18,000,000, which falls within the range listed above."
                     }
                 ]
             },
@@ -6632,7 +6633,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6692,7 +6693,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6776,7 +6777,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6836,7 +6837,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -6872,7 +6873,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> In 2018, Evergreen’s net income was $637,000, and its total revenues were $7,965,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> For 2018, Evergreen’s net profit margin was 7.9%, found as $637,000 ÷ $7,965,000, which we round to 8.0%. This result falls within the range of 3% to 8%."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> For 2018, Evergreen’s net profit margin was 7.9%, found as $637,000 ÷ $7,965,000, which we round to 8.0%. This result falls within the range of 3% to 8%."
                     }
                 ]
             },
@@ -6899,7 +6900,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -7065,7 +7066,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following statements about profitability ratios is correct?",
@@ -7870,7 +7871,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "With respect to operating performance, Evergreen’s five-year ratio results are mixed. Although its results for each ratio fall within the ranges for the industry averages, the company is not performing as well as its competitors in terms of its general expense ratio and benefits ratio. Recall that, in general, the lower the value for these ratios, the better. Evergreen may want to “run a benchmark” to investigate what its competitors are doing in these areas to obtain these lower results. We discuss benchmarking in greater detail in a later chapter."
                     },
                     {
-                        "Paragraph_txt": "In addition, Evergreen’s results for the lapse and surrender ratio show that the company is experiencing an uptick in lapsed and surrendered business—a situation that management should investigate."
+                        "Paragraph_txt": "<br />In addition, Evergreen’s results for the lapse and surrender ratio show that the company is experiencing an uptick in lapsed and surrendered business—a situation that management should investigate."
                     }
                 ]
             },
@@ -8237,7 +8238,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Based on this data, Evergreen’s profitability might need improvement. Although the results for Evergreen’s net profit margin are fine, those for its ROE and ROA are higher than the average for its top five competitors. Although some stakeholders—in particular, a company’s stockholders—want high results for these ratios, high values could indicate that Evergreen is taking on too much risk. Management will want to investigate why the company’s ROE and ROA results have increased over the five-year period."
                     },
                     {
-                        "Paragraph_txt": "In Chapter 14, we present more examples of this kind of analysis."
+                        "Paragraph_txt": "<br />In Chapter 14, we present more examples of this kind of analysis."
                     }
                 ]
             }

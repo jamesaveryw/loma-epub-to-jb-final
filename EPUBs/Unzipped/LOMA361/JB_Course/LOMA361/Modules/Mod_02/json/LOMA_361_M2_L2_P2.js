@@ -231,9 +231,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Timeline:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 15: Dividend declared on stock owned by insurer</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 31: Annual Statement Date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• January 15: Insurer receives dividend</span><br /><br />Declared but unpaid dividend reported as “Investment income due and accrued”on Annual Statement."
-                        ],
+                        "image_w_text_tag": "Timeline:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 15: Dividend declared on stock owned by insurer</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 31: Annual Statement Date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• January 15: Insurer receives dividend</span><br /><br />Declared but unpaid dividend reported as “Investment income due and accrued”on Annual Statement.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -359,9 +357,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Timeline:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• April 15: Policy Anniversary/$250 Quarterly Premium Paid</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• July 15: $250 Quarterly Premium Paid</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• October 15: $250 Quarterly Premium Paid</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 31: Annual Statement Date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• January 15: $250 Quarterly Premium Paid: Reported as Deferred Premiumon Annual Statement</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• April 15: Policy Anniversary</span>"
-                        ],
+                        "image_w_text_tag": "Timeline:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• April 15: Policy Anniversary/$250 Quarterly Premium Paid</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• July 15: $250 Quarterly Premium Paid</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• October 15: $250 Quarterly Premium Paid</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 31: Annual Statement Date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• January 15: $250 Quarterly Premium Paid: Reported as Deferred Premiumon Annual Statement</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• April 15: Policy Anniversary</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -484,9 +480,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Timeline:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 15: Jack Smith’s Annual Premium Due</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 31: Annual Statement Date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• January 14: Jack Smith’s Annual Premium Received</span><br /><br />Jack Smith’s Annual Premium recorded as “Uncollected Premium” on AnnualStatement."
-                        ],
+                        "image_w_text_tag": "Timeline:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 15: Jack Smith’s Annual Premium Due</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 31: Annual Statement Date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• January 14: Jack Smith’s Annual Premium Received</span><br /><br />Jack Smith’s Annual Premium recorded as “Uncollected Premium” on AnnualStatement.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -609,9 +603,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-4figure.jpg",
-                        "image_w_text_tag": [
-                            "<span style=\"text-indent:-1em;margin-left:1em;\"• December 1: Quarterly Office Rent Paid</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 31: Annual Statement Date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• February 1: Next Quarterly Rent Payment Due</span><br /><br />2/3 of December 1 payment recorded as “Prepaid Expense” on Annual Statement."
-                        ],
+                        "image_w_text_tag": "<span style=\"text-indent:-1em;margin-left:1em;\"• December 1: Quarterly Office Rent Paid</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• December 31: Annual Statement Date</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• February 1: Next Quarterly Rent Payment Due</span><br /><br />2/3 of December 1 payment recorded as “Prepaid Expense” on Annual Statement.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -674,7 +666,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "All of the following short-term assets are considered admitted assets for U.S. statutory accounting purposes <strong>EXCEPT</strong> for",
@@ -745,14 +737,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Deferred premiums are individual life insurance policy premiums that are due before the statutory reporting date but that have not been received as of that date.",

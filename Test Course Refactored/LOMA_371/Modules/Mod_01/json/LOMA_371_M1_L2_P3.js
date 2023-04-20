@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Risks Insurers Manage",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -258,7 +228,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -318,7 +288,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -397,7 +367,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -457,7 +427,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -526,7 +496,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another investment risk<span class=\"keyterm\" tabindex=\"0\" role=\"button\">, market risk</span>,<strong> </strong>is the risk of losses or reduced investment returns caused by movements in overall market conditions or in a specific sector of the market. Market risk can take many forms, including equity risk, inflation risk, interest-rate risk, reinvestment-rate risk, currency risk, foreign investment risk, and liquidity risk."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Equity risk </span>is the risk of a loss arising from movements in the direction of the stock, or equity, markets. The market price of shares varies depending on demand and supply, among other factors."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Equity risk </span>is the risk of a loss arising from movements in the direction of the stock, or equity, markets. The market price of shares varies depending on demand and supply, among other factors."
                     }
                 ]
             },
@@ -553,7 +523,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -613,7 +583,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -649,7 +619,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Inflation risk </span>is the risk that the price of goods and services will increase over time, causing a decline in the value of investments and returns. During periods of inflation, market interest rates and the cost of most goods and services increase. For insurers, those increases have a direct impact on the profitability of their fixed-rate products, such as fixed cash value life insurance and fixed deferred annuity products."
                     },
                     {
-                        "Paragraph_txt": "The value of an investment return is affected by the value of money. Over time, inflation erodes the value of money, also known as money’s <em>purchasing power</em>. The presence of inflation requires an investor to earn a rate of return greater than or equal to the expected inflation rate in order to avoid losing purchasing power."
+                        "Paragraph_txt": "<br />The value of an investment return is affected by the value of money. Over time, inflation erodes the value of money, also known as money’s <em>purchasing power</em>. The presence of inflation requires an investor to earn a rate of return greater than or equal to the expected inflation rate in order to avoid losing purchasing power."
                     }
                 ]
             },
@@ -676,7 +646,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -736,7 +706,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -858,7 +828,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -918,7 +888,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -954,7 +924,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Reinvestment-rate risk </span>is the risk that a change in interest rates will lead to lower income when owners reinvest their funds. It refers to the possibility that owners will have to reinvest funds at a lower rate of return than the investment originally earned."
                     },
                     {
-                        "Paragraph_txt": "Insurers’ bond investments are susceptible to reinvestment-rate risk. When bonds mature and insurers reinvest their funds, they must invest at the current rates. If those rates are lower than the original rates, the insurer will earn a lower rate on its funds. The same is true for bonds that can be repaid before their maturity date."
+                        "Paragraph_txt": "<br />Insurers’ bond investments are susceptible to reinvestment-rate risk. When bonds mature and insurers reinvest their funds, they must invest at the current rates. If those rates are lower than the original rates, the insurer will earn a lower rate on its funds. The same is true for bonds that can be repaid before their maturity date."
                     }
                 ]
             },
@@ -981,7 +951,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1041,7 +1011,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1077,7 +1047,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Currency risk</span>, also known as <em>foreign exchange risk</em>,<strong> </strong>is the risk arising from changes in currency exchange rates. Insurers that operate in more than one country or that invest in securities that are denominated in a foreign currency are subject to currency risk."
                     },
                     {
-                        "Paragraph_txt": "When one currency falls in relation to another, the falling currency loses relative value and the rising currency gains relative value. Generally, currency risk can arise from geopolitical factors, fluctuations in the supply and demand of a country’s manufactured goods, inflation, and changes in government leadership."
+                        "Paragraph_txt": "<br />When one currency falls in relation to another, the falling currency loses relative value and the rising currency gains relative value. Generally, currency risk can arise from geopolitical factors, fluctuations in the supply and demand of a country’s manufactured goods, inflation, and changes in government leadership."
                     }
                 ]
             },
@@ -1104,7 +1074,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1164,7 +1134,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1224,7 +1194,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1284,7 +1254,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1344,7 +1314,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1404,7 +1374,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1440,10 +1410,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "In addition to the operational and business risks that all companies face, insurers face risks that are unique to the insurance business. One of the most important of these is <em>pricing risk</em>, a contingency risk we described earlier in this chapter."
                     },
                     {
-                        "Paragraph_txt": "For insurers, pricing is complicated because the amount and timing of many of the costs associated with insurance products are unknown. For example, when an insurer designs a life insurance product, it can only estimate how much in benefits it will have to pay in a given year. If more insureds die than the company anticipated, it will have to pay more in death benefits than it planned. If differences are great enough, the company may even lose money on the product."
+                        "Paragraph_txt": "<br />For insurers, pricing is complicated because the amount and timing of many of the costs associated with insurance products are unknown. For example, when an insurer designs a life insurance product, it can only estimate how much in benefits it will have to pay in a given year. If more insureds die than the company anticipated, it will have to pay more in death benefits than it planned. If differences are great enough, the company may even lose money on the product."
                     },
                     {
-                        "Paragraph_txt": "In addition, insurers manage <span class=\"keyterm\" tabindex=\"0\" role=\"button\">underwriting risk</span>, which is the specific risk that insurers assume through the insurance and annuity contracts they underwrite. Underwriters must follow the insurer’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">underwriting philosophy</span>, a set of objectives that guides all of an insurer’s underwriting actions when selecting risks. If underwriters select risks outside of the parameters designated during pricing, the product may not meet profitability goals."
+                        "Paragraph_txt": "<br />In addition, insurers manage <span class=\"keyterm\" tabindex=\"0\" role=\"button\">underwriting risk</span>, which is the specific risk that insurers assume through the insurance and annuity contracts they underwrite. Underwriters must follow the insurer’s <span class=\"keyterm\" tabindex=\"0\" role=\"button\">underwriting philosophy</span>, a set of objectives that guides all of an insurer’s underwriting actions when selecting risks. If underwriters select risks outside of the parameters designated during pricing, the product may not meet profitability goals."
                     }
                 ]
             },
@@ -1479,7 +1449,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "One of the most significant pricing risks for life insurers is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortality risk</span>, which is the risk that actual mortality—the incidence of death in a specified group of people—will differ from expectations. For life insurance, mortality risk is the likelihood that a person will die sooner than statistically expected; for annuities, it is the likelihood that a person will live longer than statistically expected."
                     },
                     {
-                        "Paragraph_txt": "Recall from Chapter 1 that actuaries are responsible for performing experience analysis. Actuaries typically review the mortality experience data associated with a new product at the end of a specified period to compare actual mortality rates and assumed mortality rates. This evaluation is important because differences can affect company reserves and its results on the balance sheet and income statement. The evaluation may also affect future products and services."
+                        "Paragraph_txt": "<br />Recall from Chapter 1 that actuaries are responsible for performing experience analysis. Actuaries typically review the mortality experience data associated with a new product at the end of a specified period to compare actual mortality rates and assumed mortality rates. This evaluation is important because differences can affect company reserves and its results on the balance sheet and income statement. The evaluation may also affect future products and services."
                     }
                 ]
             },
@@ -1506,7 +1476,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1566,7 +1536,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1602,7 +1572,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another significant pricing risk insurers face is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">expense risk</span>, which is the risk that actual expenses will differ from the amounts assumed during product design. The company estimates its operating expenses, such as salaries, agent compensation, rent, and legal fees, in an <span class=\"keyterm\" tabindex=\"0\" role=\"button\">expense budget</span>, which is a financial plan of action that identifies the types and amounts of expenses a company expects to incur during an accounting period."
                     },
                     {
-                        "Paragraph_txt": "Most of the information insurers use to estimate product expenses comes from the company’s past experience data. However, due to changes in economic and business conditions, a company’s actual experience can differ from its expected experience. Like an unexpectedly high mortality rate for life insurance products, unexpectedly high expenses can lead to lower profits and could even create losses."
+                        "Paragraph_txt": "<br />Most of the information insurers use to estimate product expenses comes from the company’s past experience data. However, due to changes in economic and business conditions, a company’s actual experience can differ from its expected experience. Like an unexpectedly high mortality rate for life insurance products, unexpectedly high expenses can lead to lower profits and could even create losses."
                     }
                 ]
             },
@@ -1629,7 +1599,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1689,7 +1659,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1725,7 +1695,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An insurer builds its operating expenses into product design so that these expenses are passed along in the form of charges to customers. The amount charged to cover each policy’s share of the expenses of operation is called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">expense loading</span>. Expense loading is a cost area that can vary from company to company based on its operations and efficiency."
                     },
                     {
-                        "Paragraph_txt": "An insurance company’s operating expenses affect not only product design, but also the company’s competitive position in the marketplace. Through careful expense management, an insurer can reduce its operating expenses, thereby requiring less expense loading. In this way, the insurer improves its operational efficiency and its competitive position."
+                        "Paragraph_txt": "<br />An insurance company’s operating expenses affect not only product design, but also the company’s competitive position in the marketplace. Through careful expense management, an insurer can reduce its operating expenses, thereby requiring less expense loading. In this way, the insurer improves its operational efficiency and its competitive position."
                     }
                 ]
             },
@@ -1811,7 +1781,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1871,7 +1841,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1907,7 +1877,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers can often reduce the negative effects of policyholder behaviors, such as excessive lapses and surrenders, by adding margins, or extra amounts, to the expense amounts in their product designs. Margins provide a cushion in case actual expenses caused by policyholder behavior exceed assumed expenses. Insurers can also reduce the impact of excess lapses and surrenders by assessing surrender charges on lapses or surrenders that occur during the early years of certain policies, or by implementing customer retention programs to reduce overall lapse rates. We will discuss how operating expenses and policyholder behavior expenses are incorporated into product design in Chapter 9."
                     },
                     {
-                        "Paragraph_txt": "A type of policyholder behavior risk that insurers face is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">antiselection risk</span>, also called <em>adverse selection risk</em>, which is the risk of loss or adverse product performance due to the tendency of individuals who believe they have a greater-than-average likelihood of loss to seek insurance protection to a greater extent than do those who believe they have an average or a less-than-average likelihood of loss. Insurers manage antiselection risk by ensuring that underwriters assess each risk carefully and by including provisions such as the incontestability provision in their policies."
+                        "Paragraph_txt": "<br />A type of policyholder behavior risk that insurers face is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">antiselection risk</span>, also called <em>adverse selection risk</em>, which is the risk of loss or adverse product performance due to the tendency of individuals who believe they have a greater-than-average likelihood of loss to seek insurance protection to a greater extent than do those who believe they have an average or a less-than-average likelihood of loss. Insurers manage antiselection risk by ensuring that underwriters assess each risk carefully and by including provisions such as the incontestability provision in their policies."
                     }
                 ]
             },
@@ -1943,7 +1913,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A risk category common to companies in all industries is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">business risk</span>, which is the risk that changes in a company’s external environment will affect its operations. Business risks include regulatory risk, competition risk, event risk, and geopolitical risk. Some companies also recognize <em>industry risk</em>, which focuses on changes in the external environment specifically shared by companies in the same industry."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Regulatory risk </span>is the risk created by changes in the regulatory environment. Regulatory risk includes the risk of loss associated with non-compliance with laws, rules, or regulations. In addition to complying with current laws and regulations, insurers must keep up with constant regulatory changes, as oversight of the insurance industry continues to receive heightened scrutiny. These constant changes can negatively affect company performance. For example, insurers often devote substantial resources to prepare for new laws and regulations. These efforts can place a huge strain on a company and can even threaten its solvency."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Regulatory risk </span>is the risk created by changes in the regulatory environment. Regulatory risk includes the risk of loss associated with non-compliance with laws, rules, or regulations. In addition to complying with current laws and regulations, insurers must keep up with constant regulatory changes, as oversight of the insurance industry continues to receive heightened scrutiny. These constant changes can negatively affect company performance. For example, insurers often devote substantial resources to prepare for new laws and regulations. These efforts can place a huge strain on a company and can even threaten its solvency."
                     }
                 ]
             },
@@ -1970,7 +1940,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2030,7 +2000,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2090,7 +2060,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2150,7 +2120,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2210,7 +2180,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2270,7 +2240,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2330,7 +2300,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2366,7 +2336,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example 1: </strong>Increased tensions between two countries drove up the price of oil. This event reduced discretionary income available to the average consumer and changed buying behaviors locally."
                     },
                     {
-                        "Paragraph_txt": "<strong>Example 2: </strong>A banking crisis in one region drives investors to purchase bonds and other conservative investments in another region. The resulting reduction in bond yields affects consumer and insurer investment portfolios."
+                        "Paragraph_txt": "<br /><strong>Example 2: </strong>A banking crisis in one region drives investors to purchase bonds and other conservative investments in another region. The resulting reduction in bond yields affects consumer and insurer investment portfolios."
                     }
                 ]
             },
@@ -2393,7 +2363,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2429,7 +2399,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Operational risk </span>is the risk of financial losses resulting from inadequate or failed internal processes, controls, systems, and people. These risks can arise in any operational area of the company, including marketing, product development, claim administration, information technology, underwriting, and customer service. Operational risk is challenging because one situation can pose multiple risks to multiple operational areas. The types of operational risk we will discuss are strategy risk, distribution risk, reputation risk, human resources risk, business process risk, cyber risk, and fraud risk."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Strategy risk</span> is the risk that a particular strategy selected by an insurer to grow sales, market share, profits, or distribution will not produce the desired results and instead lead to losses."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Strategy risk</span> is the risk that a particular strategy selected by an insurer to grow sales, market share, profits, or distribution will not produce the desired results and instead lead to losses."
                     }
                 ]
             },
@@ -2456,7 +2426,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2516,7 +2486,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2576,7 +2546,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2636,7 +2606,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2696,7 +2666,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2756,7 +2726,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2816,7 +2786,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2876,7 +2846,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2912,7 +2882,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Business process risk</span>, the risk of a loss related to the processes used by the organization to create, sell, and service products, is another type of operational risk. The loss can be a result of an inefficient or ineffective business process or can be a result of a company’s failure to adhere to a business process. Both inefficient and ineffective processes result in higher costs, longer service times, and increased quality errors. Because business processes are internal factors controllable by the company, business process risk is distinct from other types of risk that may involve factors that are external to the insurer."
                     },
                     {
-                        "Paragraph_txt": "Most processes are part of a company’s day-to-day business operations and are in place to ensure that company goals are met and procedures followed. Sometimes deviating from current business processes can lead to innovation and process improvements. However, departing from an existing business process, whether intentional or not, often results in an ineffective and inefficient process."
+                        "Paragraph_txt": "<br />Most processes are part of a company’s day-to-day business operations and are in place to ensure that company goals are met and procedures followed. Sometimes deviating from current business processes can lead to innovation and process improvements. However, departing from an existing business process, whether intentional or not, often results in an ineffective and inefficient process."
                     }
                 ]
             },
@@ -2939,7 +2909,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2999,7 +2969,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3130,7 +3100,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3190,7 +3160,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3207,7 +3177,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Mountaintop Insurance issues a loan to Spruce Pine Financial. Six months later, Spruce Pine fails to make scheduled payments and goes bankrupt, and cannot pay back the loan in full. Mountaintop suffers a loss and its solvency is affected. The type of risk that this scenario describes is",
@@ -3278,14 +3248,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Mountaintop Insurance owns bonds that generate payments based on a fixed 5 percent rate. During a period of inflation, the inflation rate increases by 3%. As a result, the bond payments cannot purchase as much goods and services as Mountaintop planned, and Mountaintop has lost purchasing power. The type of risk that this event describes is",
@@ -3363,7 +3333,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Mountaintop Insurance received an unusually high number of claims and didn’t have enough cash on hand to pay the benefits due. In order to meet its contractual obligations, Mountaintop had to sell existing assets below their underlying value. The type of risk that this scenario describes is",

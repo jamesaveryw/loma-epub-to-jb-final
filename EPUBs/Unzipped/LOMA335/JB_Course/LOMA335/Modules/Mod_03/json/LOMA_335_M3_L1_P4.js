@@ -159,9 +159,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-3figure.jpg",
-                        "image_w_text_tag": [
-                            "The steps in the decision making process are shown in cascading boxes.Top box: Identify and define a problem or need. Second level box: Identifydecision alternatives. Third level box: Evaluate the relative benefitsand risks of proposed solutions. Fourth level box: Choose the best decisionalternative. Fifth level box: Implement the decision. Sixth level box:Monitor decision outcomes."
-                        ],
+                        "image_w_text_tag": "The steps in the decision making process are shown in cascading boxes.Top box: Identify and define a problem or need. Second level box: Identifydecision alternatives. Third level box: Evaluate the relative benefitsand risks of proposed solutions. Fourth level box: Choose the best decisionalternative. Fifth level box: Implement the decision. Sixth level box:Monitor decision outcomes.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -281,9 +279,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A series of business questions that are often included in the decision-makingprocess are shown in boxes. First box: How much revenue will this new productgenerate? Second box: What is our target market? Third box: How many peoplewill buy our new product? Fourth box: What makes our customers decide topurchase? Fifth box: How satisfied are customers with our products? Sixthbox: When is the best time to release an update? Seventh box: How manycustomers can we reach with this advertisement?"
-                        ],
+                        "image_w_text_tag": "A series of business questions that are often included in the decision-makingprocess are shown in boxes. First box: How much revenue will this new productgenerate? Second box: What is our target market? Third box: How many peoplewill buy our new product? Fourth box: What makes our customers decide topurchase? Fifth box: How satisfied are customers with our products? Sixthbox: When is the best time to release an update? Seventh box: How manycustomers can we reach with this advertisement?",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -473,7 +469,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -533,7 +529,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -640,9 +636,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-5figure.jpg",
-                        "image_w_text_tag": [
-                            "A description of cooperative conflict and competitive conflict.<br /><br />The first image has a bullseye and arrow heading toward the word “goal”in the center. The arrow includes the characteristics of cooperative conflict:(1) effective group communication and trust, (2) shared values and beliefs,(3) Recognition of the legitimacy of others’ interests, and (4) Desireto search for solutions that are responsive to the needs of all.<br /><br />The second image has a bullseye and the word “goal” in the center. Severalarrows are heading toward the goal but missing it. The arrows include thecharacteristics of competitive conflict: (1) lack of trust caused by misinformationand false promises, (2) coercive tactics to impose one side’s view on theothers, (3) ongoing disagreement about and critical rejection of others’ideas, (4) prefer decision failure over loss in power struggle."
-                        ],
+                        "image_w_text_tag": "A description of cooperative conflict and competitive conflict.<br /><br />The first image has a bullseye and arrow heading toward the word “goal”in the center. The arrow includes the characteristics of cooperative conflict:(1) effective group communication and trust, (2) shared values and beliefs,(3) Recognition of the legitimacy of others’ interests, and (4) Desireto search for solutions that are responsive to the needs of all.<br /><br />The second image has a bullseye and the word “goal” in the center. Severalarrows are heading toward the goal but missing it. The arrows include thecharacteristics of competitive conflict: (1) lack of trust caused by misinformationand false promises, (2) coercive tactics to impose one side’s view on theothers, (3) ongoing disagreement about and critical rejection of others’ideas, (4) prefer decision failure over loss in power struggle.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -748,7 +742,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -814,7 +808,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1099,9 +1093,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-6figure.jpg",
-                        "image_w_text_tag": [
-                            "Four levels of risk. Level 1: clear enough future with a single view ofthe future. Level 2: alternative futures with a limited set of possiblefuture outcomes, one of which will occur. Level 3: range of futures witha range of possible future outcomes. Level 4: true uncertainty with noteven a range of possible future outcomes."
-                        ],
+                        "image_w_text_tag": "Four levels of risk. Level 1: clear enough future with a single view ofthe future. Level 2: alternative futures with a limited set of possiblefuture outcomes, one of which will occur. Level 3: range of futures witha range of possible future outcomes. Level 4: true uncertainty with noteven a range of possible future outcomes.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1240,7 +1232,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1303,7 +1295,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1363,7 +1355,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1426,7 +1418,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1574,7 +1566,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "All decisions require information gathering and evaluation.",
@@ -1635,14 +1627,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Decision making may involve cooperative or competitive conflict. Cooperative conflict is characterized by (choose all that apply)",
@@ -1715,7 +1707,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "According to McKinsey &amp; Company, the difference between a Level 2 decision and a Level 3 decision is that",

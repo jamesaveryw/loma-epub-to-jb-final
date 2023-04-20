@@ -139,7 +139,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -273,7 +273,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -548,7 +548,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -732,7 +732,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -795,7 +795,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -858,7 +858,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -911,7 +911,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Match each security selection strategy to the correct description. For each description, type the correct number choice in the blank.",
@@ -982,14 +982,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following statements about tactical asset allocation (TAA) is false?",
@@ -1191,7 +1191,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1254,7 +1254,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1619,9 +1619,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-2figure.jpg",
-                        "image_w_text_tag": [
-                            "The chart has maturity dates ranging from zero to 30 years. Several bondsof varying maturities are represented on the chart to illustrate a particularportfolio’s bond holdings under the barbell strategy.<br /><br />A block of bonds, ranging from one year to five years, is on the left.This block represents the short end of the barbell.<br /><br />Another block of bonds, ranging from 25 years to 30 years, is on the right.This block represents the long end of the barbell.<br /><br />There is nothing in the space between five years and 25 years, signifyingthat there are no bonds with intermediate-term maturities in this portfolio."
-                        ],
+                        "image_w_text_tag": "The chart has maturity dates ranging from zero to 30 years. Several bondsof varying maturities are represented on the chart to illustrate a particularportfolio’s bond holdings under the barbell strategy.<br /><br />A block of bonds, ranging from one year to five years, is on the left.This block represents the short end of the barbell.<br /><br />Another block of bonds, ranging from 25 years to 30 years, is on the right.This block represents the long end of the barbell.<br /><br />There is nothing in the space between five years and 25 years, signifyingthat there are no bonds with intermediate-term maturities in this portfolio.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1785,7 +1783,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Due to positive market sentiment, a stock’s share price has risen above its normal level. As the upward price trend continues, a (<strong>momentum / contrarian</strong>) investor is likely to buy shares. If the share price rises too far above its appropriate value, a (<strong>momentum / contrarian</strong>) investor is likely to sell shares.",
@@ -1856,14 +1854,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A bond laddering strategy reduces the investor’s (<strong>reinvestment / liquidity</strong>) risk. However, the strategy can increase (<strong>reinvestment / liquidity</strong>) risk in a decreasing interest-rate environment.",
@@ -1941,7 +1939,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A barbell strategy is a bond investment strategy in which the investor divides the bonds in a portfolio between short-term and intermediate-term maturities and avoids long-term maturities.",

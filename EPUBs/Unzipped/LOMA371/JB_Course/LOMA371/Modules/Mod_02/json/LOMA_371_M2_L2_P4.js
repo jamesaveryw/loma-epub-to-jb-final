@@ -156,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Shows the product development cycle. The Monitoring, Evaluation, and Feedback step is highlighted. There are no subcategories."
-                        ],
+                        "image_w_text_tag": "Shows the product development cycle. The Monitoring, Evaluation, and Feedback step is highlighted. There are no subcategories.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -480,7 +478,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -540,7 +538,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -600,7 +598,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -660,7 +658,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -867,9 +865,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Graphic representation of when deviations are favorable or adverse.<br /><br />When actual values for company revenues are greater than assumed, the deviation is favorable. When actual values for company revenues are lower than assumed, the deviation is adverse.<br /><br />When actual values for benefit payments are greater than assumed, the deviation is adverse. When actual values for benefit payments are lower than assumed, the deviation is favorable.<br /><br />When actual values for company expenses are greater than assumed, the deviation is adverse. When actual values for company expenses are lower than assumed, the deviation is favorable."
-                        ],
+                        "image_w_text_tag": "Graphic representation of when deviations are favorable or adverse.<br /><br />When actual values for company revenues are greater than assumed, the deviation is favorable. When actual values for company revenues are lower than assumed, the deviation is adverse.<br /><br />When actual values for benefit payments are greater than assumed, the deviation is adverse. When actual values for benefit payments are lower than assumed, the deviation is favorable.<br /><br />When actual values for company expenses are greater than assumed, the deviation is adverse. When actual values for company expenses are lower than assumed, the deviation is favorable.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -932,7 +928,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following corrective actions can an insurer take when sales of a new product are poor? (Choose all that apply.)",
@@ -1003,14 +999,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "An example of an adverse deviation is when an insurer’s actual benefit payments are (<strong>greater</strong> / <strong>lesser</strong>) than the benefit payment assumptions used in product design.",

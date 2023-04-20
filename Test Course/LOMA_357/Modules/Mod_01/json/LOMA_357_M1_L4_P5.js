@@ -198,9 +198,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-2figure.jpg",
-                        "image_w_text_tag": [
-                            "The graph has annual rates of return on the vertical axis and years ofreturns on the horizontal axis. A horizontal line represents the mean annualrate of return. There are several points that represent a rate of returnfor a particular year.<br /><br />Some of the points are above the mean line, and some are below. Some ofthe points are slightly above or below the mean line, while others arewell above or well below the mean line.<br /><br />The scattering of points in relation to the mean line illustrates thedispersion of the annual rates of return."
-                        ],
+                        "image_w_text_tag": "The graph has annual rates of return on the vertical axis and years ofreturns on the horizontal axis. A horizontal line represents the mean annualrate of return. There are several points that represent a rate of returnfor a particular year.<br /><br />Some of the points are above the mean line, and some are below. Some ofthe points are slightly above or below the mean line, while others arewell above or well below the mean line.<br /><br />The scattering of points in relation to the mean line illustrates thedispersion of the annual rates of return.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -309,7 +307,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -372,7 +370,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -435,7 +433,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -606,7 +604,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -683,9 +681,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-3figure.jpg",
-                        "image_w_text_tag": [
-                            "There are three graphs. Each graph has a vertical line in the center thatrepresents the mean. Each graph also has a curve that moves upward fromthe left, peaks, and moves downward toward the right. These curves showdata distribution in relation to the mean.<br /><br />One curve shows a normal distribution, in which the peak occurs on thevertical mean line. Therefore, the number of values to the left, or lowerthan the mean, is equal to the number of values to the right, or higherthan the mean.<br /><br />The other two curves show nonnormal distributions, in which the peak occursto the left or the right of the mean. If the peak is to the left of themean, then the number of values lower than the mean is greater than thenumber of values higher than the mean.<br /><br />If the peak is to the right of the mean, then the number of values higherthan the mean is greater than the number of values lower than the mean."
-                        ],
+                        "image_w_text_tag": "There are three graphs. Each graph has a vertical line in the center thatrepresents the mean. Each graph also has a curve that moves upward fromthe left, peaks, and moves downward toward the right. These curves showdata distribution in relation to the mean.<br /><br />One curve shows a normal distribution, in which the peak occurs on thevertical mean line. Therefore, the number of values to the left, or lowerthan the mean, is equal to the number of values to the right, or higherthan the mean.<br /><br />The other two curves show nonnormal distributions, in which the peak occursto the left or the right of the mean. If the peak is to the left of themean, then the number of values lower than the mean is greater than thenumber of values higher than the mean.<br /><br />If the peak is to the right of the mean, then the number of values higherthan the mean is greater than the number of values lower than the mean.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -892,7 +888,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1070,7 +1066,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1150,9 +1146,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-4figure.jpg",
-                        "image_w_text_tag": [
-                            "There are two graphs, each with a vertical line in the center that signifiesthe expected annual return, or the mean. The curve for each graph indicatesthat historical annual return values that are normally distributed. Withineach graph, several other vertical lines represent standard deviations.The lines mark one, two, and three standard deviations both to the leftand to the right of the mean.<br /><br />The area ranging from one standard deviation to the left of the mean toone standard deviation to the right of the mean corresponds to a confidenceinterval of 67%. The wider range of values covered by two standard deviationsto the left and two to the right of the mean correspond to a confidenceinterval of 95%. The widest range, which consists of three standard deviationsto the left and three to the right, corresponds to a confidence intervalof 99%. Beyond three standard deviations, at the far left and far rightof each graph, are areas marked as the tails.<br /><br />The curve for Investment A is wider than the curve for Investment B. Therefore,Investment A has a wider range in its values relative to its mean. In addition,Investment A’s standard deviations are further apart than Investment B’sstandard deviations."
-                        ],
+                        "image_w_text_tag": "There are two graphs, each with a vertical line in the center that signifiesthe expected annual return, or the mean. The curve for each graph indicatesthat historical annual return values that are normally distributed. Withineach graph, several other vertical lines represent standard deviations.The lines mark one, two, and three standard deviations both to the leftand to the right of the mean.<br /><br />The area ranging from one standard deviation to the left of the mean toone standard deviation to the right of the mean corresponds to a confidenceinterval of 67%. The wider range of values covered by two standard deviationsto the left and two to the right of the mean correspond to a confidenceinterval of 95%. The widest range, which consists of three standard deviationsto the left and three to the right, corresponds to a confidence intervalof 99%. Beyond three standard deviations, at the far left and far rightof each graph, are areas marked as the tails.<br /><br />The curve for Investment A is wider than the curve for Investment B. Therefore,Investment A has a wider range in its values relative to its mean. In addition,Investment A’s standard deviations are further apart than Investment B’sstandard deviations.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1257,7 +1251,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The returns of high-volatility investments are more predictable than the returns of low-volatility investments.",
@@ -1318,14 +1312,14 @@ Lesson_Data_File([
                         "Question_type": "",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Match the confidence interval to the corresponding number of standard deviations in a normal distribution. For each description, type the correct number choice in the blank.",

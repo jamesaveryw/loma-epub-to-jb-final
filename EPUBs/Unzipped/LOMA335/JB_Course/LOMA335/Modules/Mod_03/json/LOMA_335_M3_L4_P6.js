@@ -218,9 +218,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Characteristics of innovation projects.<br /><br />Small innovations: (1) little risk, (2) small payback, (3) use existingstaff as part of normal work responsibilities, (4) continuous improvementmethods work well.<br /><br />Larger innovations: (1) greater risk, (2) potentially greater payback,(3) existing staff participate on a dedicated team in addition to regularwork responsibilities, (4) traditional project management methods workwell.<br /><br />Breakthrough innovations: (1) greatest risk, (2) potentially greatestpayback, (3) experts inside and outside organization participate on a dedicatedinnovation team with no other work responsibilities, (4) customized designneeded."
-                        ],
+                        "image_w_text_tag": "Characteristics of innovation projects.<br /><br />Small innovations: (1) little risk, (2) small payback, (3) use existingstaff as part of normal work responsibilities, (4) continuous improvementmethods work well.<br /><br />Larger innovations: (1) greater risk, (2) potentially greater payback,(3) existing staff participate on a dedicated team in addition to regularwork responsibilities, (4) traditional project management methods workwell.<br /><br />Breakthrough innovations: (1) greatest risk, (2) potentially greatestpayback, (3) experts inside and outside organization participate on a dedicatedinnovation team with no other work responsibilities, (4) customized designneeded.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -547,9 +545,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-5figure.jpg",
-                        "image_w_text_tag": [
-                            "An innovation portfolio matrix with nine sections. Risk is shown increasingfrom low to high on the y axis. Time is seen increasing from short-termto long-term on the x axis. The most innovation projects occur in the short-to –mid-term range and in the low to moderate risk range."
-                        ],
+                        "image_w_text_tag": "An innovation portfolio matrix with nine sections. Risk is shown increasingfrom low to high on the y axis. Time is seen increasing from short-termto long-term on the x axis. The most innovation projects occur in the short-to –mid-term range and in the low to moderate risk range.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -645,7 +641,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The responsibilities of the innovation steering committee include (select all correct answers)",
@@ -716,14 +712,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Managing core business operations requires long-term, high-risk innovation.",

@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Your department is submitting budget reports, and a couple of your coworkers are grumbling about the extra work involved. But you’re pretty sure that the many advantages of budgeting outweigh the disadvantages of the process. What are some of those advantages? Check all that apply.",

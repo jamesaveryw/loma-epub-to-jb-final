@@ -215,9 +215,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "13-6figure.jpg",
-                        "image_w_text_tag": [
-                            "Two bar charts. The first shows salary expense by cost center.<br /><br />Cost Center A: 50%<br /><br />Cost Center B: 20%<br /><br />Cost Center C: 25%<br /><br />Cost Center D: 5%<br /><br />The second bar chart shows office supply expense by cost center. The proportions are identical.<br /><br />Cost Center A: 50%<br /><br />Cost Center B: 20%<br /><br />Cost Center C: 25%<br /><br />Cost Center D: 5%"
-                        ],
+                        "image_w_text_tag": "Two bar charts. The first shows salary expense by cost center.<br /><br />Cost Center A: 50%<br /><br />Cost Center B: 20%<br /><br />Cost Center C: 25%<br /><br />Cost Center D: 5%<br /><br />The second bar chart shows office supply expense by cost center. The proportions are identical.<br /><br />Cost Center A: 50%<br /><br />Cost Center B: 20%<br /><br />Cost Center C: 25%<br /><br />Cost Center D: 5%",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -526,7 +524,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which method of cost allocation allocates a service department’s costs to other benefiting service departments first, and then to benefiting operating departments?",

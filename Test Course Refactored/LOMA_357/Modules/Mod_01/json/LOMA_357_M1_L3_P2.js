@@ -195,9 +195,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-1figure.jpg",
-                        "image_w_text_tag": [
-                            "We list the steps in the securitization process and the activities ofthe participants. Before the securitization process begins, borrowers enterinto loans from a loan originator.<br /><br />The loan originator originates loans, creates a special purpose entity,appoints a trustee, and sells the original loans to the special purposeentity. In addition, the loan originator typically services loans and distributespayments to investors.<br /><br />The special purpose entity purchases the original loans, structures aportfolio of loans, provides credit enhancements, and issues and sellsstructured securities.<br /><br />The investors in the structured securities purchase packaged securitiesand collect investment income."
-                        ],
+                        "image_w_text_tag": "We list the steps in the securitization process and the activities ofthe participants. Before the securitization process begins, borrowers enterinto loans from a loan originator.<br /><br />The loan originator originates loans, creates a special purpose entity,appoints a trustee, and sells the original loans to the special purposeentity. In addition, the loan originator typically services loans and distributespayments to investors.<br /><br />The special purpose entity purchases the original loans, structures aportfolio of loans, provides credit enhancements, and issues and sellsstructured securities.<br /><br />The investors in the structured securities purchase packaged securitiesand collect investment income.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -462,9 +460,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Let’s compare the AAA debt tranche, AA debt tranche, A debt tranche, andequity tranche. In terms of payment priority, the AAA debt tranche is thefirst to collect and make payments. Second is the AA debt tranche and thirdis the A debt tranche. The equity tranche is the last to collect and makepayments.<br /><br />In terms of creditworthiness, the AAA debt tranche is the most creditworthy.Second is the AA debt tranche and third is the A debt tranche. The equitytranche is the least creditworthy.<br /><br />In terms of riskiness, the AAA debt tranche has the lowest risk. Secondlowest is the AA debt tranche and third is the A debt tranche. The equitytranche has the highest risk.<br /><br />In terms of interest rates, the AAA debt tranche has the lowest interestrate. Second lowest is the AA debt tranche and third is the A debt tranche.The equity tranche does not have a set interest rate, but has the potentialto earn the highest rate of return."
-                        ],
+                        "image_w_text_tag": "Let’s compare the AAA debt tranche, AA debt tranche, A debt tranche, andequity tranche. In terms of payment priority, the AAA debt tranche is thefirst to collect and make payments. Second is the AA debt tranche and thirdis the A debt tranche. The equity tranche is the last to collect and makepayments.<br /><br />In terms of creditworthiness, the AAA debt tranche is the most creditworthy.Second is the AA debt tranche and third is the A debt tranche. The equitytranche is the least creditworthy.<br /><br />In terms of riskiness, the AAA debt tranche has the lowest risk. Secondlowest is the AA debt tranche and third is the A debt tranche. The equitytranche has the highest risk.<br /><br />In terms of interest rates, the AAA debt tranche has the lowest interestrate. Second lowest is the AA debt tranche and third is the A debt tranche.The equity tranche does not have a set interest rate, but has the potentialto earn the highest rate of return.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -987,7 +983,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following is not a part of the securitization process?",
@@ -1058,14 +1054,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following structured securities are not backed by pools of residential mortgage loans? Select all that apply.",

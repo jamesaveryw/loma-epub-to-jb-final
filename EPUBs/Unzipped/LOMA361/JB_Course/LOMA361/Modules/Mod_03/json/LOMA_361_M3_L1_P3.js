@@ -237,7 +237,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -300,7 +300,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -723,7 +723,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -783,7 +783,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -846,7 +846,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -906,7 +906,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -969,7 +969,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1029,7 +1029,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1202,7 +1202,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "If a company processes fewer claims than projected in a given year, this is an example of a (<strong>positive variance</strong> / <strong>negative variance</strong>) and (<strong>a</strong> <strong>favorable variance</strong> / <strong>an</strong> <strong>unfavorable variance</strong>).",
@@ -1273,14 +1273,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In its fourth quarter budget, the Salmon Life Insurance Company budgeted to process 1,000 claims at a cost of $40 per claim. During the fourth quarter, Salmon actually processed 950 claims at a cost of $39 per claim. What were the rate variance and usage variance for the fourth quarter?",
@@ -1485,7 +1485,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "[True/False]: All responsibility reports show both costs and revenues for the relevant responsibility center.",
@@ -1678,9 +1678,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "12-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Narrowly Focused Variance Analysis: Can miss potential future problems<br /><br />Using Only One Evaluation Criterion: Encourages managers to ignore other factors<br /><br />Inappropriate Criteria: Stresses the wrong goals<br /><br />Unattainable Goals: Make fair evaluations impossible<br /><br />Evaluation Solely on Responsibility Center Performance: Fails to account for larger context<br /><br />Arbitrary Cost Allocation: May rely on incorrect information<br /><br />Arbitrary Revenue Allocation: Cannot fairly evaluate performance<br /><br />Inappropriate Use of Transfer Pricing: Muddles analysis between performance centers"
-                        ],
+                        "image_w_text_tag": "Narrowly Focused Variance Analysis: Can miss potential future problems<br /><br />Using Only One Evaluation Criterion: Encourages managers to ignore other factors<br /><br />Inappropriate Criteria: Stresses the wrong goals<br /><br />Unattainable Goals: Make fair evaluations impossible<br /><br />Evaluation Solely on Responsibility Center Performance: Fails to account for larger context<br /><br />Arbitrary Cost Allocation: May rely on incorrect information<br /><br />Arbitrary Revenue Allocation: Cannot fairly evaluate performance<br /><br />Inappropriate Use of Transfer Pricing: Muddles analysis between performance centers",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1786,7 +1784,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1849,7 +1847,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1909,7 +1907,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1972,7 +1970,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2032,7 +2030,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2095,7 +2093,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2188,7 +2186,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2251,7 +2249,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2405,7 +2403,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following are generally problematic criteria to use to evaluate a performance center? Select all that apply.",

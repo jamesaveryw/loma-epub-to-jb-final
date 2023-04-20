@@ -404,9 +404,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "15-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A six-month sales revenue budget.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The first row records estimated sales from January to June.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The second row records sales from February to July.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The third row records sales from March to August.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The fourth row records sales from April to September.</span><br /><br />The estimated revenue for a month may change from row to row, as the company updates their estimations based on current performance."
-                        ],
+                        "image_w_text_tag": "A six-month sales revenue budget.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The first row records estimated sales from January to June.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The second row records sales from February to July.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The third row records sales from March to August.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The fourth row records sales from April to September.</span><br /><br />The estimated revenue for a month may change from row to row, as the company updates their estimations based on current performance.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -535,7 +533,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "White Rhino Life Insurance created a two-year budget, which also provided alternate sets of estimates to be used in different circumstances. This is an example of a (<strong>static</strong> / <strong>flexible</strong>) and (<strong>short-term</strong> / <strong>long-term</strong>) budget.",
@@ -606,14 +604,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: A period budget is generally more accurate than a rolling budget.",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Control Systems",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -147,12 +117,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.1 Control Systems</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "2-1figure.jpg",
-                        "image_w_text_tag": [
-                            "A wooden road sign has three sections that identify three types of controlsand whether the control is best suited for controlling past operations,current operations, or future operations. The top section of the road signis an arrow pointing to the left and is labeled<br /><br /><strong>1. The Past – Feedback Controls</strong><br /><br />Examples of feedback controls include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Audits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Exception reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Performance appraisals</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Quality reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The middle section of the road sign is labeled</span><br /><br /><strong>2. You are Here – Concurrent Controls</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Examples of concurrent controls include</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real-time exception reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real-time monitoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Mentoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The bottom section of the road sign is an arrow pointing to the rightand is labeled</span><br /><br /><strong>3. The Future – Steering Controls</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Examples of steering controls include</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Codes of Conduct</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Job Descriptions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policies and Procedures</span>"
-                        ],
+                        "image_w_text_tag": "A wooden road sign has three sections that identify three types of controlsand whether the control is best suited for controlling past operations,current operations, or future operations. The top section of the road signis an arrow pointing to the left and is labeled<br /><br /><strong>1. The Past – Feedback Controls</strong><br /><br />Examples of feedback controls include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Audits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Exception reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Performance appraisals</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Quality reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The middle section of the road sign is labeled</span><br /><br /><strong>2. You are Here – Concurrent Controls</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Examples of concurrent controls include</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real-time exception reports</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real-time monitoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Mentoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The bottom section of the road sign is an arrow pointing to the rightand is labeled</span><br /><br /><strong>3. The Future – Steering Controls</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Examples of steering controls include</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Budgets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Codes of Conduct</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Job Descriptions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policies and Procedures</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -165,7 +166,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.1</strong> Control Systems",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -291,7 +292,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -327,13 +328,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Subjective vs. Objective Performance Standards</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst requires an annual performance evaluation for each employee."
+                        "Paragraph_txt": "<br />EndiFirst requires an annual performance evaluation for each employee."
                     },
                     {
-                        "Paragraph_txt": "Some employees are assessed on objective quantifiable goals, e.g., <em>answers X number of calls per day</em>, <em>processes X number of applications without errors per day</em>. Managers of these employees can measure an employee’s performance and recommend specific ways to improve performance."
+                        "Paragraph_txt": "<br />Some employees are assessed on objective quantifiable goals, e.g., <em>answers X number of calls per day</em>, <em>processes X number of applications without errors per day</em>. Managers of these employees can measure an employee’s performance and recommend specific ways to improve performance."
                     },
                     {
-                        "Paragraph_txt": "Other employees are evaluated on the quality or innovation inherent in their work, which is more subjective. Nonetheless, managers of these employees must determine quantifiable goals for evaluating an employee’s work. A quantifiable measurement for this type of work might be to <em>submit two innovation ideas to the innovation steering committee quarterly</em>, to <em>provide biweekly control reports by the stated deadline</em>, or to <em>receive positive feedback from peers or industry stakeholders </em>who deal directly with the employee."
+                        "Paragraph_txt": "<br />Other employees are evaluated on the quality or innovation inherent in their work, which is more subjective. Nonetheless, managers of these employees must determine quantifiable goals for evaluating an employee’s work. A quantifiable measurement for this type of work might be to <em>submit two innovation ideas to the innovation steering committee quarterly</em>, to <em>provide biweekly control reports by the stated deadline</em>, or to <em>receive positive feedback from peers or industry stakeholders </em>who deal directly with the employee."
                     }
                 ]
             },
@@ -360,7 +361,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -420,7 +421,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -456,19 +457,19 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst’s Code of Conduct</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst’s Code of Conduct describes employee behaviors that represent a conflict of interest and provides specific examples. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">conflict of interest</span> exists when the interests or actions of one entity, such as an employee, are incompatible with the interests or actions of a related entity, such as an employer."
+                        "Paragraph_txt": "<br />EndiFirst’s Code of Conduct describes employee behaviors that represent a conflict of interest and provides specific examples. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">conflict of interest</span> exists when the interests or actions of one entity, such as an employee, are incompatible with the interests or actions of a related entity, such as an employer."
                     },
                     {
-                        "Paragraph_txt": "<strong>Example of Prohibited Behavior: </strong> <em>An employee shall not accept gifts from vendors or suppliers unless such a gift has a value of less than $20.</em> "
+                        "Paragraph_txt": "<br /><strong>Example of Prohibited Behavior: </strong> <em>An employee shall not accept gifts from vendors or suppliers unless such a gift has a value of less than $20.</em> "
                     },
                     {
-                        "Paragraph_txt": "<strong>Potential Conflict of Interest: </strong> <em>A valuable gift might encourage an employee to treat a supplier or vendor as a preferred partner even if the services or products provided by the supplier or vendor are not favorable to the company.</em> "
+                        "Paragraph_txt": "<br /><strong>Potential Conflict of Interest: </strong> <em>A valuable gift might encourage an employee to treat a supplier or vendor as a preferred partner even if the services or products provided by the supplier or vendor are not favorable to the company.</em> "
                     },
                     {
-                        "Paragraph_txt": "By educating employees about conflicts of interest, and providing specific examples of prohibited behaviors, employees are better able to avoid such conflicts."
+                        "Paragraph_txt": "<br />By educating employees about conflicts of interest, and providing specific examples of prohibited behaviors, employees are better able to avoid such conflicts."
                     },
                     {
-                        "Paragraph_txt": "Many companies require annual code of conduct reviews; some require employees to complete a conflict-of-interest questionnaire each year."
+                        "Paragraph_txt": "<br />Many companies require annual code of conduct reviews; some require employees to complete a conflict-of-interest questionnaire each year."
                     }
                 ]
             },
@@ -495,7 +496,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -588,7 +589,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -624,16 +625,16 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Concurrent Control</strong> "
                     },
                     {
-                        "Paragraph_txt": "A manager in an insurer’s customer contact center listens to real-time conversations and provides feedback to an employee as the conversation takes place."
+                        "Paragraph_txt": "<br />A manager in an insurer’s customer contact center listens to real-time conversations and provides feedback to an employee as the conversation takes place."
                     },
                     {
-                        "Paragraph_txt": "An underwriting manager, or more experienced underwriter, reviews and helps a new underwriter correct a case before it is sent for approval."
+                        "Paragraph_txt": "<br />An underwriting manager, or more experienced underwriter, reviews and helps a new underwriter correct a case before it is sent for approval."
                     },
                     {
-                        "Paragraph_txt": "Real-time customer call statistics are monitored to determine appropriate staffing levels for call volume."
+                        "Paragraph_txt": "<br />Real-time customer call statistics are monitored to determine appropriate staffing levels for call volume."
                     },
                     {
-                        "Paragraph_txt": "An operations manager reviews expenses quarterly against the budget to ensure that her department remains within the budget’s guidelines."
+                        "Paragraph_txt": "<br />An operations manager reviews expenses quarterly against the budget to ensure that her department remains within the budget’s guidelines."
                     }
                 ]
             },
@@ -660,7 +661,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -720,7 +721,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -756,10 +757,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Concurrent Exception Report</strong> "
                     },
                     {
-                        "Paragraph_txt": "A claims processing system processes and automatically pays certain claims according to rules relating to such things as claim amount and contestability. Exceptions to the system’s rules are flagged for human review."
+                        "Paragraph_txt": "<br />A claims processing system processes and automatically pays certain claims according to rules relating to such things as claim amount and contestability. Exceptions to the system’s rules are flagged for human review."
                     },
                     {
-                        "Paragraph_txt": "A customer service system triggers an alert when a service representative exceeds a maximum time limit with a customer so that a manager can offer assistance to the service representative in handling the call."
+                        "Paragraph_txt": "<br />A customer service system triggers an alert when a service representative exceeds a maximum time limit with a customer so that a manager can offer assistance to the service representative in handling the call."
                     }
                 ]
             },
@@ -786,7 +787,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -846,7 +847,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -882,7 +883,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Feedback Control</strong> "
                     },
                     {
-                        "Paragraph_txt": "The Fine Life Insurance Company has established a goal of decreasing the number of customer complaints by 10% from the previous year. Fine logs customer complaints into a central repository at the end of each day. The complaints are analyzed the next day to rectify any identified problems or to make improvements as needed to related processes."
+                        "Paragraph_txt": "<br />The Fine Life Insurance Company has established a goal of decreasing the number of customer complaints by 10% from the previous year. Fine logs customer complaints into a central repository at the end of each day. The complaints are analyzed the next day to rectify any identified problems or to make improvements as needed to related processes."
                     }
                 ]
             },
@@ -909,7 +910,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -945,7 +946,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Management by exception </span>is a feedback control that requires a manager to investigate performance that falls outside an established, acceptable performance range. For example, if Fine Life determines that the majority of customer service complaints relate to only two customer service representatives, the manager would review the work of those representatives, and help them improve their work processes. Alternatively, if department operations exceed budget guidelines, the exceptions are investigated to improve future planning."
                     },
                     {
-                        "Paragraph_txt": "The primary disadvantage associated with feedback controls is that, because they take place at the end of a process or evaluation period, inefficiencies in performance often continue for some time before corrections or improvements are made. Still, for ongoing operations, feedback controls are a primary way to assess and continually improve productivity."
+                        "Paragraph_txt": "<br />The primary disadvantage associated with feedback controls is that, because they take place at the end of a process or evaluation period, inefficiencies in performance often continue for some time before corrections or improvements are made. Still, for ongoing operations, feedback controls are a primary way to assess and continually improve productivity."
                     }
                 ]
             },
@@ -962,7 +963,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The ABC Life Insurance Company has various operational controls that can be classified as steering controls, concurrent controls, or feedback controls. When ABC Life uses management by exception techniques to identify unacceptable performance at the end of an evaluation period, it is using a type of",

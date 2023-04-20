@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Introduction",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -110,195 +80,6 @@ Lesson_Data_File([
                     },
                     {
                         "Paragraph_txt": ""
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Data Acquisition"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Quantitative Research"
-                            },
-                            {
-                                "lstText": "Qualitative Research"
-                            },
-                            {
-                                "lstText": "Data Storage"
-                            },
-                            {
-                                "lstText": "Data Quality"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Data Analytics"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Descriptive Analytics"
-                            },
-                            {
-                                "lstText": "Predictive Analytics"
-                            },
-                            {
-                                "lstText": "Prescriptive Analytics"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
-                    }
-                ]
-            },
-            {
-                "List_text_paragraph": [
-                    {
-                        "List_Heading": "",
-                        "heading_alignment": "center",
-                        "heading_style": "bold",
-                        "heading_underline": "",
-                        "heading_underline_color": "",
-                        "heading_underline_height": "0px",
-                        "heading_color": "",
-                        "heading_size": "h1",
-                        "paragraph_alignment": "left",
-                        "paragraph_text_size": "jb1",
-                        "paragraph_top_text_color": "#000000",
-                        "paragraph_bot_text_color": "#000000"
-                    },
-                    {
-                        "Top_Paragraphs": [
-                            {
-                                "Paragraph_text": "Data Visualization"
-                            }
-                        ]
-                    },
-                    {
-                        "align_text": "left"
-                    },
-                    {
-                        "Type_of_List": "ul",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1"
-                    },
-                    {
-                        "top_margin": "10px"
-                    },
-                    {
-                        "background_color": "#ffffff"
-                    },
-                    {
-                        "padding": "10px"
-                    },
-                    {
-                        "text_color": "#000000"
-                    },
-                    {
-                        "list_items": [
-                            {
-                                "lstText": "Tables"
-                            },
-                            {
-                                "lstText": "Charts"
-                            },
-                            {
-                                "lstText": "Infographics"
-                            }
-                        ]
-                    },
-                    {
-                        "Bottom_paragraphs": []
                     }
                 ]
             },
@@ -331,16 +112,13 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Using the Data"
-                    },
-                    {
                         "Paragraph_txt": "The complexity of a decision depends on the characteristics of the decision environment: the degree of uncertainty about decision outcomes, the number of decision alternatives and states of nature, and the quality of available information. In this chapter, we discuss how insurers can use data to improve the quality of the information guiding their business decisions."
                     },
                     {
-                        "Paragraph_txt": "In Chapter 7, we discussed the steps in the decision-making process. First, decision makers need to frame the decision by defining the problem and asking the right business questions. Typically, a decision maker forms one or more answerable business questions soon after identifying an opportunity, challenge, or other situation that requires a business decision; in other words, a decision maker determines the <em>business problem</em>."
+                        "Paragraph_txt": "<br />In Chapter 7, we discussed the steps in the decision-making process. First, decision makers need to frame the decision by defining the problem and asking the right business questions. Typically, a decision maker forms one or more answerable business questions soon after identifying an opportunity, challenge, or other situation that requires a business decision; in other words, a decision maker determines the <em>business problem</em>."
                     },
                     {
-                        "Paragraph_txt": "Next, decision makers identify needs and evaluate alternatives based on the business question. Recall the example from Chapter 7 involving customer complaints about hold times. Here, the <em>need</em> is decreased hold times and the <em>alternatives</em> are whether and how many representatives to hire."
+                        "Paragraph_txt": "<br />Next, decision makers identify needs and evaluate alternatives based on the business question. Recall the example from Chapter 7 involving customer complaints about hold times. Here, the <em>need</em> is decreased hold times and the <em>alternatives</em> are whether and how many representatives to hire."
                     }
                 ]
             },
@@ -367,7 +145,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -631,7 +409,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -681,7 +459,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Why do insurance companies gather data? Choose all that apply.",

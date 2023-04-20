@@ -145,7 +145,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -276,7 +276,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -350,9 +350,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A chart comparing actuaries and data scientists in three categories.<br /><br />Category 1, Knowledge:<br /><br />Actuaries have more experience with the financial ramifications and impact of analysis; data scientists specialize in new techniques such as neural networks and natural language processing.<br /><br />Category 2, Approach:<br /><br />Actuaries tend to use established methods; data scientists use new methods, depending on the data.<br /><br />Actuaries tend to use past experience to project future outcomes; data scientists explore alternatives to traditional approaches.<br /><br />Actuarial work must adhere to strictly regulated methods and tests; data scientists answer primarily to company management.<br /><br />Category 3, Focus:<br /><br />Actuaries seek opportunities to enhance financial results, but generally have a stronger focus on risk, while data scientists tend to focus more on the search for potential opportunities."
-                        ],
+                        "image_w_text_tag": "A chart comparing actuaries and data scientists in three categories.<br /><br />Category 1, Knowledge:<br /><br />Actuaries have more experience with the financial ramifications and impact of analysis; data scientists specialize in new techniques such as neural networks and natural language processing.<br /><br />Category 2, Approach:<br /><br />Actuaries tend to use established methods; data scientists use new methods, depending on the data.<br /><br />Actuaries tend to use past experience to project future outcomes; data scientists explore alternatives to traditional approaches.<br /><br />Actuarial work must adhere to strictly regulated methods and tests; data scientists answer primarily to company management.<br /><br />Category 3, Focus:<br /><br />Actuaries seek opportunities to enhance financial results, but generally have a stronger focus on risk, while data scientists tend to focus more on the search for potential opportunities.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -537,9 +535,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A cycle of three nodes, with both a “first pass” route and a “second pass” route.<br /><br />Node 1: Define the Problem; first pass: Identify customer need<br /><br />Node 2: Design the Solution; first pass: Create alternatives for products<br /><br />Node 3: Monitor the Results; first pass:Collect product data<br /><br />Node 1: Define the Problem; second pass: Isolate product element not performing as expected<br /><br />Node 2: Design the Solution; second pass: Modify product element<br /><br />Node 3: Monitor the Results; second pass:Collect product data"
-                        ],
+                        "image_w_text_tag": "A cycle of three nodes, with both a “first pass” route and a “second pass” route.<br /><br />Node 1: Define the Problem; first pass: Identify customer need<br /><br />Node 2: Design the Solution; first pass: Create alternatives for products<br /><br />Node 3: Monitor the Results; first pass:Collect product data<br /><br />Node 1: Define the Problem; second pass: Isolate product element not performing as expected<br /><br />Node 2: Design the Solution; second pass: Modify product element<br /><br />Node 3: Monitor the Results; second pass:Collect product data",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -645,7 +641,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -737,7 +733,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -969,7 +965,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1029,7 +1025,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1128,7 +1124,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1188,7 +1184,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1507,7 +1503,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: A data scientist’s work is more strictly regulated than an actuary’s work.",
@@ -1568,14 +1564,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which type of actuary is responsible for preparing actuarial reports for insurers and reviewing the assumptions behind proposed products?",
@@ -1653,7 +1649,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Valuation is calculating the monetary value of a company’s assets, liabilities, and capital for accounting and financial reporting purposes.",
@@ -1714,14 +1710,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The practice of coordinating the administration of an insurer’s investments with the administration of its obligations to customers so as to achieve the best possible effects is known as",

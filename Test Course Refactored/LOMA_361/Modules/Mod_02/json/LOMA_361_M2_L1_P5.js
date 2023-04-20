@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Investment Accounting",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -299,7 +269,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -335,7 +305,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Kona Corporation recently issued bonds with a par value of $1,000, a maturity date of 10 years, and semiannual coupon payments at a 5% annual coupon rate. The Peaberry Insurance Company purchased 100 Kona bonds at a par value of $1,000 per bond. Peaberry plans to hold the Kona bonds until maturity."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> In this situation, the <em>bond issuer</em> is Kona, and the <em>bondholder</em> is Peaberry. Over the 10-year period of holding the Kona bonds, Peaberry will receive a <em>coupon payment</em> of $50 in interest per year, or $25 in interest twice per year, on each bond. On the <em>maturity date</em> of these bonds, Peaberry will receive the <em>par value</em> of $1,000 on each bond."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> In this situation, the <em>bond issuer</em> is Kona, and the <em>bondholder</em> is Peaberry. Over the 10-year period of holding the Kona bonds, Peaberry will receive a <em>coupon payment</em> of $50 in interest per year, or $25 in interest twice per year, on each bond. On the <em>maturity date</em> of these bonds, Peaberry will receive the <em>par value</em> of $1,000 on each bond."
                     }
                 ]
             },
@@ -362,7 +332,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -400,12 +370,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.3 Bond Certificate</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-3figure.jpg",
-                        "image_w_text_tag": [
-                            "The bond certificate lists a par value of $1,000, a coupon rate of 5%,and a maturity date of July 15, 2030."
-                        ],
+                        "image_w_text_tag": "The bond certificate lists a par value of $1,000, a coupon rate of 5%,and a maturity date of July 15, 2030.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -418,7 +419,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.3</strong> Bond Certificate",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -429,7 +430,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "On the maturity date, whoever owns the bond at that time receives the par value from the issuer.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -484,10 +485,43 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
+                        "Paragraph_txt": "On the maturity date, whoever owns the bond at that time receives the par value from the issuer."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
                         "Paragraph_txt": "Bonds issued by corporations are called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">corporate bonds</span>, whereas those issued by governments—including federal, state, provincial, county, city, and other local governments—are called <span class=\"keyterm\" tabindex=\"0\" role=\"button\">government bonds</span>. Although the largest proportion of an insurer’s bond investments are corporate bonds, insurers also invest a considerable amount of money in government bonds."
                     },
                     {
-                        "Paragraph_txt": "Insurers typically maintain detailed accounting records—including the purchase price, par value, coupon rate, coupon payment dates, name of the bond issuer, issue date, and maturity date—for each bond that they own. They also report summary information about their bond investments within their financial statements."
+                        "Paragraph_txt": "<br />Insurers typically maintain detailed accounting records—including the purchase price, par value, coupon rate, coupon payment dates, name of the bond issuer, issue date, and maturity date—for each bond that they own. They also report summary information about their bond investments within their financial statements."
                     }
                 ]
             },
@@ -547,7 +581,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -583,7 +617,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Lentyl Insurance Company purchased for $950 a $1,000 par value bond issued by the Yuletide Corporation."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> A typical entry that Lentyl would make to record this purchase is a debit of $950 to an asset account, such as <em>Yuletide Bonds</em>, and a credit of $950 to <em>Cash</em>. If, instead, Lentyl purchased the bond for $1,200, it would most likely record a debit to <em>Yuletide Bonds </em>for $1,200 and a credit of $1,200 to <em>Cash</em>."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> A typical entry that Lentyl would make to record this purchase is a debit of $950 to an asset account, such as <em>Yuletide Bonds</em>, and a credit of $950 to <em>Cash</em>. If, instead, Lentyl purchased the bond for $1,200, it would most likely record a debit to <em>Yuletide Bonds </em>for $1,200 and a credit of $1,200 to <em>Cash</em>."
                     }
                 ]
             },
@@ -610,7 +644,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -646,7 +680,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For U.S. statutory reporting purposes, a bond’s statement value generally depends on its NAIC rating. The NAIC has six ratings for bonds. Bonds rated NAIC 1 to NAIC 5 are reported at amortized cost. For bonds that are rated NAIC 6—the designation for bonds “in or near default”—life insurers typically use a valuation method known as the <em>lower-of-cost-or-market (LCM) rule</em>. According to this rule, the statement value of a bond rated NAIC 6 is the lower of its amortized cost or fair value. The difference between the bond’s amortized cost and its fair value is generally an unrealized loss."
                     },
                     {
-                        "Paragraph_txt": "The following chart lists the NAIC ratings for bonds:"
+                        "Paragraph_txt": "<br />The following chart lists the NAIC ratings for bonds:"
                     }
                 ]
             },
@@ -795,7 +829,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -831,7 +865,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Azalea Life Insurance Company owns a bond that has an amortized cost, or book value, of $1 million. The fair value of this bond is $300,000. This bond has a rating of NAIC 6."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> For U.S. statutory reporting purposes, Azalea would record an unrealized loss of $700,000 and reduce the book value of this bond to $300,000."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> For U.S. statutory reporting purposes, Azalea would record an unrealized loss of $700,000 and reduce the book value of this bond to $300,000."
                     }
                 ]
             },
@@ -858,7 +892,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -918,7 +952,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -954,13 +988,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> An insurer is the bondholder of 5,000 bonds issued by the Triangle Corporation. Each bond has a $1,000 par value. The bonds pay an annual coupon rate of interest of 6%. In this situation, the insurer will receive $150,000 in interest income twice each year, calculated as follows: 5,000 bonds × $1,000 par value × (6% coupon rate ÷ 2 payments per year). In this case, the insurer would record its interest income as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……150,000"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……150,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Interest Income—Triangle Bonds</em>…<wbr>……<wbr>…..150,000"
+                        "Paragraph_txt": "<br /><em>Interest Income—Triangle Bonds</em>…<wbr>……<wbr>…..150,000"
                     },
                     {
-                        "Paragraph_txt": "To record the receipt of semiannual bond interest income."
+                        "Paragraph_txt": "<br />To record the receipt of semiannual bond interest income."
                     }
                 ]
             },
@@ -987,7 +1021,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1047,7 +1081,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1083,43 +1117,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> An insurer purchases a $1,000 bond at par with a 7% coupon rate and semiannual payments—that is, two coupon payments per year of $35 each—with $20 accrued interest income as of the purchase date. The bond was issued by the Triangle Corporation."
                     },
                     {
-                        "Paragraph_txt": "The insurer’s purchase price is $1,020, calculated as follows:"
+                        "Paragraph_txt": "<br />The insurer’s purchase price is $1,020, calculated as follows:"
                     },
                     {
-                        "Paragraph_txt": "$1,000 purchase price + $20 accrued income = $1,020"
+                        "Paragraph_txt": "<br />$1,000 purchase price + $20 accrued income = $1,020"
                     },
                     {
-                        "Paragraph_txt": "The insurer records the accrued interest as an asset—<em>Investment Income Due and Accrued</em>—as shown in the following accounting entry:"
+                        "Paragraph_txt": "<br />The insurer records the accrued interest as an asset—<em>Investment Income Due and Accrued</em>—as shown in the following accounting entry:"
                     },
                     {
-                        "Paragraph_txt": "<em>Triangle</em> <em>Bonds</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…<wbr>….…<wbr>……<wbr>…1,000"
+                        "Paragraph_txt": "<br /><em>Triangle</em> <em>Bonds</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…..…<wbr>….…<wbr>……<wbr>…1,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Investment Income Due and Accrued—Bonds</em>…<wbr>……<wbr>……<wbr>…......20"
+                        "Paragraph_txt": "<br /><em>Investment Income Due and Accrued—Bonds</em>…<wbr>……<wbr>……<wbr>…......20"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…….…<wbr>……<wbr>….…..…<wbr>……<wbr>…….1,020"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…….…<wbr>……<wbr>….…..…<wbr>……<wbr>…….1,020"
                     },
                     {
-                        "Paragraph_txt": "To record the purchase of Triangle bonds with accrued bond interest income."
+                        "Paragraph_txt": "<br />To record the purchase of Triangle bonds with accrued bond interest income."
                     },
                     {
-                        "Paragraph_txt": "The insurer expects to receive the full amount of the bond interest, $35 in our example, when the next semiannual interest payment is made. Upon receipt of the regularly scheduled semiannual interest payment, the insurer would record the following accounting entry:"
+                        "Paragraph_txt": "<br />The insurer expects to receive the full amount of the bond interest, $35 in our example, when the next semiannual interest payment is made. Upon receipt of the regularly scheduled semiannual interest payment, the insurer would record the following accounting entry:"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…<wbr>……..35"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…<wbr>……..35"
                     },
                     {
-                        "Paragraph_txt": "<em>Investment Income Due and Accrued—Bonds</em>…<wbr>….20"
+                        "Paragraph_txt": "<br /><em>Investment Income Due and Accrued—Bonds</em>…<wbr>….20"
                     },
                     {
-                        "Paragraph_txt": "<em>Interest Income—Triangle Bonds</em>…<wbr>……<wbr>……<wbr>……..…..15"
+                        "Paragraph_txt": "<br /><em>Interest Income—Triangle Bonds</em>…<wbr>……<wbr>……<wbr>……..…..15"
                     },
                     {
-                        "Paragraph_txt": "To record accrued and received bond interest income."
+                        "Paragraph_txt": "<br />To record accrued and received bond interest income."
                     },
                     {
-                        "Paragraph_txt": "Note that the insurer’s income statement would include only $15 of bond interest income because the bond seller earned the remaining $20 in interest income."
+                        "Paragraph_txt": "<br />Note that the insurer’s income statement would include only $15 of bond interest income because the bond seller earned the remaining $20 in interest income."
                     }
                 ]
             },
@@ -1146,7 +1180,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1215,13 +1249,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Changes in an existing bond’s price are generally inversely related to changes in market interest rates. This relationship can be illustrated as follows:"
                     },
                     {
-                        "Paragraph_txt": "If market interest rates <img alt=\"rise\" class=\"kInteractive image image130image in-line\" data-kotobee=\"Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVQQECVZATVBGWgsbGA4WAwcyF0RVJxoGJQAQAgMRSlBXX1FXFBBYTV1ACAMVHBELBEhAREdGUkpAWQYaQg4MC0AAU0dYTV1ADwYZSlBXX0tQDRlYTV1AAgITMAQMCUBLABgRTV1AUQEBAw5JQBcXERQAAEpAWVVRXVBLSwoLT1odBQgBRBoEQgMXF0pSTwUaD0pAWUNRXVAECVEAU0dOTV1AGQYHCkdXVwASJQ==\" src=\"../../imgs/up-arrow.png\" style=\"margin: 5px auto; position: static; transition: none;\" width=\"50\">then the prices of existing bonds <img alt=\"fall\" class=\"kInteractive image in-line\" data-kotobee=\"Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVQQECVZATVBGWgsbGA4WAwcyF0RVJxoGJQAQAgMRSlBXX1FXFBBYTV1ACAMVHBELBEhAREdGUkpAWQYaQg4MC0AAU0dYTV1ADwYZSlBXX0tQDRlYTV1AAgITMAQMCUBLABgRTV1AUQEBAw5JQBcXABkATV1AUUpGXQQECUkAU0dYTV1AGw4AB0dXVx8AU0daRkBcRUAdAgUWSkFKFhtZCR0ABBhaHwwCQBcXREIw\" src=\"../../imgs/down-arrow.png\" style=\"margin: 5px auto; position: static; transition: none;\" width=\"50\"> "
+                        "Paragraph_txt": "<br />If market interest rates <img alt=\"rise\" class=\"kInteractive image image130image in-line\" data-kotobee=\"Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVQQECVZATVBGWgsbGA4WAwcyF0RVJxoGJQAQAgMRSlBXX1FXFBBYTV1ACAMVHBELBEhAREdGUkpAWQYaQg4MC0AAU0dYTV1ADwYZSlBXX0tQDRlYTV1AAgITMAQMCUBLABgRTV1AUQEBAw5JQBcXERQAAEpAWVVRXVBLSwoLT1odBQgBRBoEQgMXF0pSTwUaD0pAWUNRXVAECVEAU0dOTV1AGQYHCkdXVwASJQ==\" src=\"../../imgs/up-arrow.png\" style=\"margin: 5px auto; position: static; transition: none;\" width=\"50\">then the prices of existing bonds <img alt=\"fall\" class=\"kInteractive image in-line\" data-kotobee=\"Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVQQECVZATVBGWgsbGA4WAwcyF0RVJxoGJQAQAgMRSlBXX1FXFBBYTV1ACAMVHBELBEhAREdGUkpAWQYaQg4MC0AAU0dYTV1ADwYZSlBXX0tQDRlYTV1AAgITMAQMCUBLABgRTV1AUQEBAw5JQBcXABkATV1AUUpGXQQECUkAU0dYTV1AGw4AB0dXVx8AU0daRkBcRUAdAgUWSkFKFhtZCR0ABBhaHwwCQBcXREIw\" src=\"../../imgs/down-arrow.png\" style=\"margin: 5px auto; position: static; transition: none;\" width=\"50\"> "
                     },
                     {
-                        "Paragraph_txt": "If market interest rates <img alt=\"fall\" class=\"kInteractive image in-line\" data-kotobee=\"Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVQQECVZATVBGWgsbGA4WAwcyF0RVJxoGJQAQAgMRSlBXX1FXFBBYTV1ACAMVHBELBEhAREdGUkpAWQYaQg4MC0AAU0dYTV1ADwYZSlBXX0tQDRlYTV1AAgITMAQMCUBLABgRTV1AUQEBAw5JQBcXABkATV1AUUpGXQQECUkAU0dYTV1AGw4AB0dXVx8AU0daRkBcRUAdAgUWSkFKFhtZCR0ABBhEXkwVC0IAU0dRXys=\" src=\"../../imgs/down-arrow.png\" style=\"margin: 5px auto; position: static; transition: none;\" width=\"50\">then the prices of existing bonds <img alt=\"rise\" class=\"kInteractive image in-line\" data-kotobee=\"Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVRYXEEAJREdGDAYBCg0YCjUXBFVjDgc5Bw0bBwpRXVBfEVdQBFlRWl0RBw4HHAwECEAAU0dOTV1AAgFZAwsLAAAXU1lRWl0WAgJRXVBfC1BJDVlRWl0bBggrCQsJAEtEDBBRWl1IBRoYA05AVxdEDQFRWl1ITl1GHQsWAAAXU1lRWl0CChscSlBXXwAXU1taR0FcRAYZCBFKEFUIAAcGBxhCWkEEAQVAVxcAVjE=\" src=\"../../imgs/up-arrow.png\" style=\"margin: 5px auto; position: static; transition: none;\" width=\"50\"> "
+                        "Paragraph_txt": "<br />If market interest rates <img alt=\"fall\" class=\"kInteractive image in-line\" data-kotobee=\"Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVQQECVZATVBGWgsbGA4WAwcyF0RVJxoGJQAQAgMRSlBXX1FXFBBYTV1ACAMVHBELBEhAREdGUkpAWQYaQg4MC0AAU0dYTV1ADwYZSlBXX0tQDRlYTV1AAgITMAQMCUBLABgRTV1AUQEBAw5JQBcXABkATV1AUUpGXQQECUkAU0dYTV1AGw4AB0dXVx8AU0daRkBcRUAdAgUWSkFKFhtZCR0ABBhEXkwVC0IAU0dRXys=\" src=\"../../imgs/down-arrow.png\" style=\"margin: 5px auto; position: static; transition: none;\" width=\"50\">then the prices of existing bonds <img alt=\"rise\" class=\"kInteractive image in-line\" data-kotobee=\"Tlg2SlBXDEhCREdGUgEHBwNYSlBXB0BNAAMdBx1XWV1OSlBXC0pLBFBGWkNXWV0SAw0EEQAXU09RWl0cBAERSlBXSQAXUxgVGggbBUpGXVhQSQAXUwUbGBoCTl1GVRYXEEAJREdGDAYBCg0YCjUXBFVjDgc5Bw0bBwpRXVBfEVdQBFlRWl0RBw4HHAwECEAAU0dOTV1AAgFZAwsLAAAXU1lRWl0WAgJRXVBfC1BJDVlRWl0bBggrCQsJAEtEDBBRWl1IBRoYA05AVxdEDQFRWl1ITl1GHQsWAAAXU1lRWl0CChscSlBXXwAXU1taR0FcRAYZCBFKEFUIAAcGBxhCWkEEAQVAVxcAVjE=\" src=\"../../imgs/up-arrow.png\" style=\"margin: 5px auto; position: static; transition: none;\" width=\"50\"> "
                     },
                     {
-                        "Paragraph_txt": "Because of the inverse relationship between market interest rates and bond prices, a bond’s purchase price often differs from its par value. Thus, a bond’s fair value—usually its current market value—does not necessarily equal the bond’s par value. In general, a bond will sell at a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">discount</span>—that is, less than the par value—if market interest rates are higher than the bond’s coupon rate and will sell at a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">premium</span>—that is, greater than the par value—if market interest rates are lower than the bond’s coupon rate. Video 5.2 reviews bond discounts and premiums."
+                        "Paragraph_txt": "<br />Because of the inverse relationship between market interest rates and bond prices, a bond’s purchase price often differs from its par value. Thus, a bond’s fair value—usually its current market value—does not necessarily equal the bond’s par value. In general, a bond will sell at a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">discount</span>—that is, less than the par value—if market interest rates are higher than the bond’s coupon rate and will sell at a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">premium</span>—that is, greater than the par value—if market interest rates are lower than the bond’s coupon rate. Video 5.2 reviews bond discounts and premiums."
                     }
                 ]
             },
@@ -1395,7 +1429,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1431,7 +1465,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Cardamom Life Insurance Company purchased a $1,000 par value bond for $1,200. The bond has an annual coupon rate of 4%."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> The bond’s purchase price of $1,200 is not relevant in calculating the bond’s semiannual coupon payments. The semiannual coupon payments on this bond are calculated as the bond’s par value of $1,000, multiplied by 4% divided by 2: $1,000 × (0.04 ÷ 2) = $20."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> The bond’s purchase price of $1,200 is not relevant in calculating the bond’s semiannual coupon payments. The semiannual coupon payments on this bond are calculated as the bond’s par value of $1,000, multiplied by 4% divided by 2: $1,000 × (0.04 ÷ 2) = $20."
                     }
                 ]
             },
@@ -1458,7 +1492,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1518,7 +1552,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1602,7 +1636,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1662,7 +1696,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1884,7 +1918,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1944,7 +1978,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1980,52 +2014,52 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Willow Corporation issued a $1,000 par value bond with a coupon rate of 5%. Suppose that the Castle Life Insurance Company purchased these 5% bonds at their $1,000 par value."
                     },
                     {
-                        "Paragraph_txt": "Now assume that market interest rates fall to 3%. Willow, as the bond issuer, is still obligated to pay interest at a rate of 5% to its bondholders, including Castle. In the current market, the Willow bonds earn Castle $50 per year; new bonds issued at par value would have a coupon rate of 3% and, therefore, would earn bondholders only $30 per year."
+                        "Paragraph_txt": "<br />Now assume that market interest rates fall to 3%. Willow, as the bond issuer, is still obligated to pay interest at a rate of 5% to its bondholders, including Castle. In the current market, the Willow bonds earn Castle $50 per year; new bonds issued at par value would have a coupon rate of 3% and, therefore, would earn bondholders only $30 per year."
                     },
                     {
-                        "Paragraph_txt": "If Castle chose to sell these bonds in the current market, it could demand a bond price higher than $1,000—that is, a <em>premium</em>—because the Willow bond’s coupon rate is higher than the current market interest rate of 3%. A new purchaser of the Willow bonds would be willing to pay more than the par value to lock in the higher coupon rate."
+                        "Paragraph_txt": "<br />If Castle chose to sell these bonds in the current market, it could demand a bond price higher than $1,000—that is, a <em>premium</em>—because the Willow bond’s coupon rate is higher than the current market interest rate of 3%. A new purchaser of the Willow bonds would be willing to pay more than the par value to lock in the higher coupon rate."
                     },
                     {
-                        "Paragraph_txt": "The accounting entry to record Castle’s sale of the Willow bonds at a premium would most likely be"
+                        "Paragraph_txt": "<br />The accounting entry to record Castle’s sale of the Willow bonds at a premium would most likely be"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……$$$"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……$$$"
                     },
                     {
-                        "Paragraph_txt": "<em>Willow Bonds</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…<wbr>……<wbr>….$$"
+                        "Paragraph_txt": "<br /><em>Willow Bonds</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…<wbr>……<wbr>….$$"
                     },
                     {
-                        "Paragraph_txt": "<em>Gain on Sale of Willow Bonds</em>…<wbr>……<wbr>……<wbr>……..$"
+                        "Paragraph_txt": "<br /><em>Gain on Sale of Willow Bonds</em>…<wbr>……<wbr>……<wbr>……..$"
                     },
                     {
-                        "Paragraph_txt": "To record the sale of Willow bonds at a premium."
+                        "Paragraph_txt": "<br />To record the sale of Willow bonds at a premium."
                     },
                     {
-                        "Paragraph_txt": "The amount of cash received equals the amount credited to the bonds sold <em>plus</em> the amount of the realized gain on the sale of the bonds. Note that, if Castle were to keep the bonds, rather than sell them, Castle would have an <em>unrealized gain</em> on these bonds."
+                        "Paragraph_txt": "<br />The amount of cash received equals the amount credited to the bonds sold <em>plus</em> the amount of the realized gain on the sale of the bonds. Note that, if Castle were to keep the bonds, rather than sell them, Castle would have an <em>unrealized gain</em> on these bonds."
                     },
                     {
-                        "Paragraph_txt": "Now assume that market interest rates rise to 8%. Castle, as the bondholder, faces a current market price on the Willow bonds that is lower than their par value. The 8% bonds would earn $80 a year in interest income, whereas the Willow bonds would earn Castle only $50 a year in interest income. A new purchaser of the Willow bonds would be unwilling to pay the par value of the bond because it could purchase new bonds that have a higher coupon rate."
+                        "Paragraph_txt": "<br />Now assume that market interest rates rise to 8%. Castle, as the bondholder, faces a current market price on the Willow bonds that is lower than their par value. The 8% bonds would earn $80 a year in interest income, whereas the Willow bonds would earn Castle only $50 a year in interest income. A new purchaser of the Willow bonds would be unwilling to pay the par value of the bond because it could purchase new bonds that have a higher coupon rate."
                     },
                     {
-                        "Paragraph_txt": "In order to persuade a purchaser to buy the Willow bonds, Castle would need to sell the bonds at a price below par value—that is, at a <em>discount</em>. In this case, Castle would receive less than the $1,000 par value per bond sold."
+                        "Paragraph_txt": "<br />In order to persuade a purchaser to buy the Willow bonds, Castle would need to sell the bonds at a price below par value—that is, at a <em>discount</em>. In this case, Castle would receive less than the $1,000 par value per bond sold."
                     },
                     {
-                        "Paragraph_txt": "If Castle were to sell the Willow bonds in this situation, Castle would have a <em>realized loss</em> on the bonds. Upon the sale of the bonds at a discount, Castle would most likely record the following accounting entry:"
+                        "Paragraph_txt": "<br />If Castle were to sell the Willow bonds in this situation, Castle would have a <em>realized loss</em> on the bonds. Upon the sale of the bonds at a discount, Castle would most likely record the following accounting entry:"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash…<wbr>……<wbr>……................…<wbr>……<wbr>……<wbr>….</em>$$"
+                        "Paragraph_txt": "<br /><em>Cash…<wbr>……<wbr>……................…<wbr>……<wbr>……<wbr>….</em>$$"
                     },
                     {
-                        "Paragraph_txt": "<em>Loss on Sale of Willow Bonds…<wbr>….....</em>$"
+                        "Paragraph_txt": "<br /><em>Loss on Sale of Willow Bonds…<wbr>….....</em>$"
                     },
                     {
-                        "Paragraph_txt": "<em>Willow Bonds</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…$$$"
+                        "Paragraph_txt": "<br /><em>Willow Bonds</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…$$$"
                     },
                     {
-                        "Paragraph_txt": "To record the sale of Willow bonds at a discount."
+                        "Paragraph_txt": "<br />To record the sale of Willow bonds at a discount."
                     },
                     {
-                        "Paragraph_txt": "The amount of cash received equals the amount credited to the bonds sold <em>minus</em> the amount debited to the realized loss on the sale of the bonds. Castle would have an <em>unrealized loss</em> on these bonds if it chose to retain the bonds instead of selling them."
+                        "Paragraph_txt": "<br />The amount of cash received equals the amount credited to the bonds sold <em>minus</em> the amount debited to the realized loss on the sale of the bonds. Castle would have an <em>unrealized loss</em> on these bonds if it chose to retain the bonds instead of selling them."
                     }
                 ]
             },
@@ -2052,7 +2086,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2174,7 +2208,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2210,13 +2244,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example:</strong> The Trellis Life Insurance Company purchased $2.5 million of Syllable RMBSs. A typical accounting entry that Trellis most likely would make to record this transaction is"
                     },
                     {
-                        "Paragraph_txt": "<em>RMBSs—Syllable</em>…<wbr>……<wbr>…….2,500,000"
+                        "Paragraph_txt": "<br /><em>RMBSs—Syllable</em>…<wbr>……<wbr>…….2,500,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..2,500,000"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..2,500,000"
                     },
                     {
-                        "Paragraph_txt": "To record the purchase of Syllable RMBSs."
+                        "Paragraph_txt": "<br />To record the purchase of Syllable RMBSs."
                     }
                 ]
             },
@@ -2243,7 +2277,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2279,7 +2313,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Mortgages and mortgage-backed securities appeal to insurers because these investments generally return a predictable stream of cash flows by providing (1) monthly debt repayment schedules and (2) a minimum, often fixed, rate of return."
                     },
                     {
-                        "Paragraph_txt": "Sometimes an insurer is the mortgage lender rather than the purchaser of a pool of mortgages. Typically, insurers own the mortgages of large, commercial developments."
+                        "Paragraph_txt": "<br />Sometimes an insurer is the mortgage lender rather than the purchaser of a pool of mortgages. Typically, insurers own the mortgages of large, commercial developments."
                     }
                 ]
             },
@@ -2306,7 +2340,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2342,13 +2376,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example:</strong> The Roundel Life Insurance Company is the mortgage lender on the $20 million Origami Mall. In this case, the basic accounting entry to record this mortgage is"
                     },
                     {
-                        "Paragraph_txt": "<em>Mortgage Loan—Origami Mall</em>…<wbr>…20,000,000"
+                        "Paragraph_txt": "<br /><em>Mortgage Loan—Origami Mall</em>…<wbr>…20,000,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…..20,000,000"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…..20,000,000"
                     },
                     {
-                        "Paragraph_txt": "To record the issue of a mortgage on Origami Mall."
+                        "Paragraph_txt": "<br />To record the issue of a mortgage on Origami Mall."
                     }
                 ]
             },
@@ -2375,7 +2409,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2411,7 +2445,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "As part of each mortgage payment, most mortgage lenders, including insurers like the one in the above example, also require borrowers to make deposits to an escrow account. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">escrow account</span>, a liability account for the lender, is a trust account used to pay property maintenance expenses, property taxes, and other expenses related to a mortgaged property. Many lenders establish escrow accounts to ensure that (1) the property is maintained at some minimum level and (2) property taxes and other routine costs are paid."
                     },
                     {
-                        "Paragraph_txt": "When the insurer pays property taxes or other property expenses related to the mortgaged property, the insurer debits the property’s escrow account and credits <em>Cash</em>. The amount deposited in escrow by the borrower remains the same each month until a change in taxes, property insurance premiums, or other expenses necessitates a change in the escrow deposit. Because the lender accounts for escrow deposits separately from the principal and interest payments on the mortgage loan, escrow account transactions do not affect the outstanding principal and interest payments on the mortgage."
+                        "Paragraph_txt": "<br />When the insurer pays property taxes or other property expenses related to the mortgaged property, the insurer debits the property’s escrow account and credits <em>Cash</em>. The amount deposited in escrow by the borrower remains the same each month until a change in taxes, property insurance premiums, or other expenses necessitates a change in the escrow deposit. Because the lender accounts for escrow deposits separately from the principal and interest payments on the mortgage loan, escrow account transactions do not affect the outstanding principal and interest payments on the mortgage."
                     }
                 ]
             },
@@ -2506,7 +2540,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Of these two classes, life insurers typically invest more heavily in common stock than preferred stock."
                     },
                     {
-                        "Paragraph_txt": "Typically, U.S. statutory accounting limits the percentage of stocks that insurers can hold in the general account. Insurers also hold stocks in their separate accounts. We discuss the general account and separate accounts in the next chapter. Although equity securities make up a much smaller portion of an insurer’s investment portfolio than do bonds and other debt securities, an insurer’s investments in equity securities can represent a large monetary amount. The following sections discuss accounting for stocks from the investor’s point of view, with the assumption that an insurance company is the investor. In a later chapter, we discuss accounting for stocks when the insurer issues its own stock."
+                        "Paragraph_txt": "<br />Typically, U.S. statutory accounting limits the percentage of stocks that insurers can hold in the general account. Insurers also hold stocks in their separate accounts. We discuss the general account and separate accounts in the next chapter. Although equity securities make up a much smaller portion of an insurer’s investment portfolio than do bonds and other debt securities, an insurer’s investments in equity securities can represent a large monetary amount. The following sections discuss accounting for stocks from the investor’s point of view, with the assumption that an insurance company is the investor. In a later chapter, we discuss accounting for stocks when the insurer issues its own stock."
                     }
                 ]
             },
@@ -2542,10 +2576,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Accounting for the purchase and sale of stock held for investment purposes is similar to that for the purchase and sale of bonds. In other words, <em>Stock</em> is debited and <em>Cash</em> is credited for the stock’s purchase price, net of fees, commissions, or other transaction costs."
                     },
                     {
-                        "Paragraph_txt": "In their GAAP financial statements, insurers report the fair value per share of each stock they own—whether the stock is common or preferred. Under U.S. statutory accounting, most common stock is reported at fair value as of the financial reporting date. In contrast, most preferred stock is reported in a manner similar to bonds. Preferred stock that has an NAIC designation of 1 to 3 is reported at its amortized cost. However, for preferred stock with an NAIC designation of 4 to 6, insurers use the lower-of-cost-or-market (LCM) rule to report the preferred stock’s value."
+                        "Paragraph_txt": "<br />In their GAAP financial statements, insurers report the fair value per share of each stock they own—whether the stock is common or preferred. Under U.S. statutory accounting, most common stock is reported at fair value as of the financial reporting date. In contrast, most preferred stock is reported in a manner similar to bonds. Preferred stock that has an NAIC designation of 1 to 3 is reported at its amortized cost. However, for preferred stock with an NAIC designation of 4 to 6, insurers use the lower-of-cost-or-market (LCM) rule to report the preferred stock’s value."
                     },
                     {
-                        "Paragraph_txt": "The chart below lists the NAIC ratings for preferred stock:"
+                        "Paragraph_txt": "<br />The chart below lists the NAIC ratings for preferred stock:"
                     }
                 ]
             },
@@ -2727,7 +2761,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2763,73 +2797,73 @@ Lesson_Data_File([
                         "Paragraph_txt": "The Parapet Life Insurance Company purchased 100 shares of Dandelion common stock for $95 per share. Parapet records the transaction by debiting the cost of the common stock to the <em>Dandelion Common Stock</em> account and crediting <em>Cash</em> for the same amount. The accounting entry is as follows:"
                     },
                     {
-                        "Paragraph_txt": "<em>Dandelion Common Stock</em>…9,500"
+                        "Paragraph_txt": "<br /><em>Dandelion Common Stock</em>…9,500"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..9,500"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..9,500"
                     },
                     {
-                        "Paragraph_txt": "To record the purchase of Dandelion common stock."
+                        "Paragraph_txt": "<br />To record the purchase of Dandelion common stock."
                     },
                     {
-                        "Paragraph_txt": "Assume that Parapet decides to sell all 100 shares of the Dandelion common stock for $80 per share, the current market price. The cash proceeds for this sale can be found by multiplying the number of shares sold by the market price per share: 100 shares × $80 per share = $8,000. Because the net sales proceeds of $8,000 are less than the historical cost of $9,500, we know that this sale results in a realized capital loss."
+                        "Paragraph_txt": "<br />Assume that Parapet decides to sell all 100 shares of the Dandelion common stock for $80 per share, the current market price. The cash proceeds for this sale can be found by multiplying the number of shares sold by the market price per share: 100 shares × $80 per share = $8,000. Because the net sales proceeds of $8,000 are less than the historical cost of $9,500, we know that this sale results in a realized capital loss."
                     },
                     {
-                        "Paragraph_txt": "We can compute the realized capital loss as follows:"
+                        "Paragraph_txt": "<br />We can compute the realized capital loss as follows:"
                     },
                     {
-                        "Paragraph_txt": "<strong>Realized capital loss = Net sales proceeds – Asset’s historical cost</strong> "
+                        "Paragraph_txt": "<br /><strong>Realized capital loss = Net sales proceeds – Asset’s historical cost</strong> "
                     },
                     {
-                        "Paragraph_txt": "Plugging in the values from the sale gives us"
+                        "Paragraph_txt": "<br />Plugging in the values from the sale gives us"
                     },
                     {
-                        "Paragraph_txt": "$8,000 – $9,500 = –$1,500, or a realized capital loss of $1,500"
+                        "Paragraph_txt": "<br />$8,000 – $9,500 = –$1,500, or a realized capital loss of $1,500"
                     },
                     {
-                        "Paragraph_txt": "The accounting entry to record this transaction is"
+                        "Paragraph_txt": "<br />The accounting entry to record this transaction is"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…<wbr>……<wbr>…..8,000"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……..…<wbr>……<wbr>…..8,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Loss on Sale of Dandelion Common Stock</em>…...1,500"
+                        "Paragraph_txt": "<br /><em>Loss on Sale of Dandelion Common Stock</em>…...1,500"
                     },
                     {
-                        "Paragraph_txt": "<em>Dandelion Common Stock</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…9,500"
+                        "Paragraph_txt": "<br /><em>Dandelion Common Stock</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…9,500"
                     },
                     {
-                        "Paragraph_txt": "To record the sale of Dandelion common stock at a loss."
+                        "Paragraph_txt": "<br />To record the sale of Dandelion common stock at a loss."
                     },
                     {
-                        "Paragraph_txt": "Suppose instead that Parapet sold the Dandelion common stock for $120 per share. Because the net sales proceeds of $12,000, or 100 × $120, are more than the historical cost of $9,500, we know that this sale results in a realized capital gain."
+                        "Paragraph_txt": "<br />Suppose instead that Parapet sold the Dandelion common stock for $120 per share. Because the net sales proceeds of $12,000, or 100 × $120, are more than the historical cost of $9,500, we know that this sale results in a realized capital gain."
                     },
                     {
-                        "Paragraph_txt": "We can compute the realized capital gain as follows:"
+                        "Paragraph_txt": "<br />We can compute the realized capital gain as follows:"
                     },
                     {
-                        "Paragraph_txt": "<strong>Realized capital gain = Net sales proceeds – Asset’s historical cost</strong> "
+                        "Paragraph_txt": "<br /><strong>Realized capital gain = Net sales proceeds – Asset’s historical cost</strong> "
                     },
                     {
-                        "Paragraph_txt": "Plugging in the values from the sale gives us"
+                        "Paragraph_txt": "<br />Plugging in the values from the sale gives us"
                     },
                     {
-                        "Paragraph_txt": "$12,000 – $9,500 = $2,500, or a realized capital gain of $2,500"
+                        "Paragraph_txt": "<br />$12,000 – $9,500 = $2,500, or a realized capital gain of $2,500"
                     },
                     {
-                        "Paragraph_txt": "The accounting entry to record this transaction is"
+                        "Paragraph_txt": "<br />The accounting entry to record this transaction is"
                     },
                     {
-                        "Paragraph_txt": "<em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…...12,000"
+                        "Paragraph_txt": "<br /><em>Cash</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…...12,000"
                     },
                     {
-                        "Paragraph_txt": "<em>Dandelion Common Stock</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…9,500"
+                        "Paragraph_txt": "<br /><em>Dandelion Common Stock</em>…<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>……<wbr>…9,500"
                     },
                     {
-                        "Paragraph_txt": "<em>Gain on Sale of Dandelion Common Stock</em>…<wbr>….….….2,500"
+                        "Paragraph_txt": "<br /><em>Gain on Sale of Dandelion Common Stock</em>…<wbr>….….….2,500"
                     },
                     {
-                        "Paragraph_txt": "To record the sale of Dandelion common stock at a gain."
+                        "Paragraph_txt": "<br />To record the sale of Dandelion common stock at a gain."
                     }
                 ]
             },
@@ -2856,7 +2890,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2975,7 +3009,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3011,10 +3045,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Examples. </strong> "
                     },
                     {
-                        "Paragraph_txt": "Suppose a common stock has an annual cash dividend of $1. In this case, the quarterly dividend is $0.25 per share, found as $1 ÷ 4."
+                        "Paragraph_txt": "<br />Suppose a common stock has an annual cash dividend of $1. In this case, the quarterly dividend is $0.25 per share, found as $1 ÷ 4."
                     },
                     {
-                        "Paragraph_txt": "A preferred stock with a par value of $20 has a cash dividend expressed as 10% of its par value, resulting in an annual dividend of $2 per share, or a quarterly dividend of $0.50 per share, found as $2 ÷ 4."
+                        "Paragraph_txt": "<br />A preferred stock with a par value of $20 has a cash dividend expressed as 10% of its par value, resulting in an annual dividend of $2 per share, or a quarterly dividend of $0.50 per share, found as $2 ÷ 4."
                     }
                 ]
             },
@@ -3041,7 +3075,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3077,7 +3111,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A typical accounting entry to record the receipt of cash dividends is a debit to <em>Cash</em>, an asset account, and a credit to a revenue account, such as <em>Dividend Income</em>—<em>Common Stock</em> or <em>Dividend Income</em>—<em>Preferred Stock</em>. Like accrued interest and accrued investment income, cash dividends that have been earned but not yet received on stock that an insurer owns as of the insurer’s financial reporting date are reported under <em>Investment Income Due and Accrued</em> or a similar asset account. We discuss accrued investment income in a later chapter."
                     },
                     {
-                        "Paragraph_txt": "Cash dividends are payable to stockholders who own the stock on the ex-dividend date. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">ex-dividend date</span>, also called the <em>ex-date</em>, is the date following the declaration date that is used for determining whether a stockholder is eligible to receive a declared cash dividend. The ex-dividend date is typically two business days prior to the record date. The <em>record date</em> is the date on which parties who are listed on a company’s records as owning the company’s common stock are identified as being entitled to receive dividends on stock, which are declared by the issuing company’s board of directors. Video 5.3 includes an example that shows typical accounting entries for cash dividend transactions."
+                        "Paragraph_txt": "<br />Cash dividends are payable to stockholders who own the stock on the ex-dividend date. The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">ex-dividend date</span>, also called the <em>ex-date</em>, is the date following the declaration date that is used for determining whether a stockholder is eligible to receive a declared cash dividend. The ex-dividend date is typically two business days prior to the record date. The <em>record date</em> is the date on which parties who are listed on a company’s records as owning the company’s common stock are identified as being entitled to receive dividends on stock, which are declared by the issuing company’s board of directors. Video 5.3 includes an example that shows typical accounting entries for cash dividend transactions."
                     }
                 ]
             },
@@ -3299,7 +3333,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "In contrast, derivatives held for purposes other than hedging—for example, to generate income—are typically reported at fair value, and any changes in the fair value of such a derivative are recognized in current operations."
                     },
                     {
-                        "Paragraph_txt": "The NAIC’s <em>Derivative Instruments Model Regulation</em> also establishes standards for the prudent use of derivatives by insurance companies. According to this Model Regulation, insurers must have written guidelines that govern their transactions in derivative instruments, and they also must have procedures in place for monitoring their derivatives. Insurers generally record these guidelines and procedures in a <em>derivatives use plan (DUP)</em>. Many insurers conduct periodic audits of their DUPs to confirm that they are complying with the DUP."
+                        "Paragraph_txt": "<br />The NAIC’s <em>Derivative Instruments Model Regulation</em> also establishes standards for the prudent use of derivatives by insurance companies. According to this Model Regulation, insurers must have written guidelines that govern their transactions in derivative instruments, and they also must have procedures in place for monitoring their derivatives. Insurers generally record these guidelines and procedures in a <em>derivatives use plan (DUP)</em>. Many insurers conduct periodic audits of their DUPs to confirm that they are complying with the DUP."
                     }
                 ]
             },
@@ -3316,7 +3350,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Five years ago, the Sundog Life Insurance Company purchased 100 Lyrical Corporation bonds at their $10,000 par value. The Lyrical bonds specify a coupon rate of 6%. Market interest rates are now 4%, and Sundog is considering selling all of its Lyrical bonds. Under SAP, the accounting entry that Sundog would make to record this sale most likely would include a",
@@ -3387,14 +3421,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Under GAAP and SAP, mortgages are generally reported at their outstanding principal or amortized cost.",
@@ -3462,7 +3496,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Two years ago, the Sundog Life Insurance Company purchased 100 shares of Pagoda common stock for $50 per share. Sundog recently sold all of the Pagoda common stock for net sales proceeds of $80 per share. The accounting entry that Sundog made to record this sale most likely included a",
@@ -3533,14 +3567,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: SAP requires U.S. insurers to recognize derivatives as either assets or liabilities on the balance sheet and measure them at fair value, regardless of the purpose for holding the derivative.",

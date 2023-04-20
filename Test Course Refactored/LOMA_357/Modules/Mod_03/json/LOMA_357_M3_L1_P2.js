@@ -139,7 +139,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -397,7 +397,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -635,7 +635,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -698,7 +698,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1126,7 +1126,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1189,7 +1189,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1269,9 +1269,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-2figure.jpg",
-                        "image_w_text_tag": [
-                            "The asset class correlation matrix lists several asset classes both horizontallyin rows and vertically in columns. At the intersection of each row andcolumn is a correlation coefficient value. This particular matrix has bothpositive and negative numbers, indicating that some asset class pairs arepositively correlated and some are negatively correlated."
-                        ],
+                        "image_w_text_tag": "The asset class correlation matrix lists several asset classes both horizontallyin rows and vertically in columns. At the intersection of each row andcolumn is a correlation coefficient value. This particular matrix has bothpositive and negative numbers, indicating that some asset class pairs arepositively correlated and some are negatively correlated.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1344,7 +1342,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1407,7 +1405,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1928,9 +1926,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A pie chart illustrates a hypothetical portfolio’s asset allocations.50% is allocated to stocks, 40% to bonds, 8% to real estate, and 2% tocash.<br /><br />In this example, the model projects three outcomes, ranked by probability.The 10<sup>th</sup> percentile represents one of the most pessimistic outcomes,the 50<sup>th</sup> percentile represents one of the most likely outcomes,and the 90<sup>th</sup> percentile represents one of the most optimisticoutcomes.<br /><br />For annualized rate of return, the 10<sup>th</sup> percentile’s value is5.39%, the 50<sup>th</sup> percentile’s value is 6.82%, and the 90<sup>th</sup> percentile’svalue is 8.17%.<br /><br />For the portfolio’s end balance, the 10<sup>th</sup> percentile’s valueis $4,430,893; the 50<sup>th</sup> percentile’s value is $7,129,052; andthe 90<sup>th</sup> percentile’s value is $10,846,921.<br /><br />The chart shows the projected growth in the portfolio’s balance over 30years. There are three lines arcing upward that represent the 10<sup>th</sup>,50<sup>th</sup>, and 90<sup>th</sup> percentile balances. The 10<sup>th</sup> percentileline has the lowest ending balance, the 90<sup>th</sup> percentile linehas the highest ending balance, and the 50<sup>th</sup> percentile linehas a balance ending between the balances of the other two lines."
-                        ],
+                        "image_w_text_tag": "A pie chart illustrates a hypothetical portfolio’s asset allocations.50% is allocated to stocks, 40% to bonds, 8% to real estate, and 2% tocash.<br /><br />In this example, the model projects three outcomes, ranked by probability.The 10<sup>th</sup> percentile represents one of the most pessimistic outcomes,the 50<sup>th</sup> percentile represents one of the most likely outcomes,and the 90<sup>th</sup> percentile represents one of the most optimisticoutcomes.<br /><br />For annualized rate of return, the 10<sup>th</sup> percentile’s value is5.39%, the 50<sup>th</sup> percentile’s value is 6.82%, and the 90<sup>th</sup> percentile’svalue is 8.17%.<br /><br />For the portfolio’s end balance, the 10<sup>th</sup> percentile’s valueis $4,430,893; the 50<sup>th</sup> percentile’s value is $7,129,052; andthe 90<sup>th</sup> percentile’s value is $10,846,921.<br /><br />The chart shows the projected growth in the portfolio’s balance over 30years. There are three lines arcing upward that represent the 10<sup>th</sup>,50<sup>th</sup>, and 90<sup>th</sup> percentile balances. The 10<sup>th</sup> percentileline has the lowest ending balance, the 90<sup>th</sup> percentile linehas the highest ending balance, and the 50<sup>th</sup> percentile linehas a balance ending between the balances of the other two lines.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -2026,7 +2022,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "If a pair of asset classes are (<strong>positively / negatively</strong>) correlated, the values of the asset classes move in the <em>same</em> direction. If a pair of asset classes are (<strong>positively / negatively</strong>) correlated, the values of the asset classes move in <em>opposite</em> directions.",
@@ -2097,14 +2093,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Mean variance optimization (MVO) is a modeling technique that produces several optimal asset allocation scenarios, called _________.",
@@ -2182,7 +2178,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "For an efficient portfolio on the efficient frontier, an investor can add assets to the portfolio to obtain a higher expected return without increasing portfolio risk.",
@@ -2355,7 +2351,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2465,7 +2461,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2755,9 +2751,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Some considerations for environmental factors are energy efficiency, effortsto reduce carbon dioxide emissions, control of waste products, and naturalresource conservation.<br /><br />Some considerations for social factors are safe working conditions, employeerelations, diversity initiatives, community involvement, and customer protections.<br /><br />Some considerations for governance factors are executive compensation,board member conflicts of interest, shareholder rights, and corporate disclosuresand transparency."
-                        ],
+                        "image_w_text_tag": "Some considerations for environmental factors are energy efficiency, effortsto reduce carbon dioxide emissions, control of waste products, and naturalresource conservation.<br /><br />Some considerations for social factors are safe working conditions, employeerelations, diversity initiatives, community involvement, and customer protections.<br /><br />Some considerations for governance factors are executive compensation,board member conflicts of interest, shareholder rights, and corporate disclosuresand transparency.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -2856,7 +2850,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Regarding blended benchmarks, which of the following statements is false?",
@@ -2927,14 +2921,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Investment professionals can use several factors to select individual assets for a portfolio. Which factor is less of a consideration for an investor with a long time horizon than for one with a short time horizon?",

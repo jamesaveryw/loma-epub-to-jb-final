@@ -204,7 +204,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -278,7 +278,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -338,7 +338,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -412,7 +412,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -541,7 +541,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -615,7 +615,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -708,7 +708,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -782,7 +782,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1280,7 +1280,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1340,7 +1340,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1406,7 +1406,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1469,7 +1469,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1529,7 +1529,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1589,7 +1589,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1663,9 +1663,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A list of changes that take place during market interest-rate increases.<br /><br />General Changes: Rates are up and prices are down.<br /><br />Changes in Bond Markets: Downward pressure on prices of existing bonds.<br /><br />Reaction in General Account: Decreases in the market value of existing interest-bearing assets, and increases in the durations of some interest-bearing assets.<br /><br />Reaction in Products: Potential increases in withdrawals, lapses, and surrenders of existing interest-bearing products.<br /><br />Reaction in Liabilities: Fixed-rate product liabilities may shorten."
-                        ],
+                        "image_w_text_tag": "A list of changes that take place during market interest-rate increases.<br /><br />General Changes: Rates are up and prices are down.<br /><br />Changes in Bond Markets: Downward pressure on prices of existing bonds.<br /><br />Reaction in General Account: Decreases in the market value of existing interest-bearing assets, and increases in the durations of some interest-bearing assets.<br /><br />Reaction in Products: Potential increases in withdrawals, lapses, and surrenders of existing interest-bearing products.<br /><br />Reaction in Liabilities: Fixed-rate product liabilities may shorten.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1777,7 +1775,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1837,7 +1835,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1900,7 +1898,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1960,7 +1958,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2020,7 +2018,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2080,7 +2078,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2154,9 +2152,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A list of changes that take place during market interest-rate decreases.<br /><br />General Changes: Rates are down and prices are up.<br /><br />Changes in Bond Markets: Upward pressure on prices of existing bonds.<br /><br />Reaction in General Account: Increases in the market value of existing interest-bearing assets, and decreases in the durations of some interest-bearing assets.<br /><br />Reaction in Products: Potential decreases in withdrawals, lapses, and surrenders of existing interest-bearing products.<br /><br />Reaction in Liabilities: Fixed-rate product liabilities may lenghten."
-                        ],
+                        "image_w_text_tag": "A list of changes that take place during market interest-rate decreases.<br /><br />General Changes: Rates are down and prices are up.<br /><br />Changes in Bond Markets: Upward pressure on prices of existing bonds.<br /><br />Reaction in General Account: Increases in the market value of existing interest-bearing assets, and decreases in the durations of some interest-bearing assets.<br /><br />Reaction in Products: Potential decreases in withdrawals, lapses, and surrenders of existing interest-bearing products.<br /><br />Reaction in Liabilities: Fixed-rate product liabilities may lenghten.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -2431,7 +2427,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2553,7 +2549,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2668,7 +2664,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Tourmaline Financial Services offers a product with a guaranteed interest-crediting rate of 2%. The rate of return on Tourmaline’s investments that support this product is 4%. The interest spread for this product is",
@@ -2739,14 +2735,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "According to the prospective valuation method, the formula for calculating the cash value of a fixed life insurance product is stated as:",
@@ -2824,7 +2820,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Accumulation units represent ownership shares in a fixed account in a variable deferred annuity.",
@@ -2885,14 +2881,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Spread compression is most likely to occur in an environment of",

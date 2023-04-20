@@ -156,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-3figure.jpg",
-                        "image_w_text_tag": [
-                            "The pie chart illustrates the total net assets of investment funds registeredin the United States, as of 2017. The largest slice is open-end mutualfunds, which had $18.7 trillion in assets, or approximately 83.26% of thetotal net assets.<br /><br />The second-largest slice is exchange-traded funds, which had $3.4 trillionin assets, or approximately 15.14% of the total net assets.<br /><br />The third-largest slice is closed-end mutual funds, which had $275 billionin assets, or approximately 1.22% of the total net assets.<br /><br />The smallest slice is unit investment trusts, which had $85 billion inassets, or approximately 0.38% of the total net assets."
-                        ],
+                        "image_w_text_tag": "The pie chart illustrates the total net assets of investment funds registeredin the United States, as of 2017. The largest slice is open-end mutualfunds, which had $18.7 trillion in assets, or approximately 83.26% of thetotal net assets.<br /><br />The second-largest slice is exchange-traded funds, which had $3.4 trillionin assets, or approximately 15.14% of the total net assets.<br /><br />The third-largest slice is closed-end mutual funds, which had $275 billionin assets, or approximately 1.22% of the total net assets.<br /><br />The smallest slice is unit investment trusts, which had $85 billion inassets, or approximately 0.38% of the total net assets.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -996,7 +994,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which type of mutual fund has a fixed number of outstanding shares and has trades of its shares executed throughout the day (while the market is open)?",

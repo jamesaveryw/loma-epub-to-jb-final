@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Because GAAP accounting focuses on profitability and SAP accounting focuses on solvency, a company prepares its accounting information differently for each set of principles. For example, a company may prepare information according to the principle of conservatism, by understating its revenues and assets and overstating its costs and liabilities. This conservative approach is required by (<strong>GAAP</strong> / <strong>SAP</strong>).",

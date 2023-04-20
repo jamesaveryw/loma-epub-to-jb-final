@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Setting Margins for Profits, Risks, and Policyholder Behavior",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -290,7 +260,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -477,7 +447,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -587,7 +557,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "To properly model a product’s performance, insurers consider all of these behaviors when determining policyholder behavior assumptions. The task of projecting these behaviors is clearly challenging. To further complicate product modeling for policyholder behavior, companies typically have little or no internal experience data for new products and features. In addition, policyholder behavior constantly evolves, particularly with respect to new products and product features. External forces such as volatile financial markets and increased access to financial information may influence a policyholder’s decisions."
                     },
                     {
-                        "Paragraph_txt": "One factor affecting product profitability is whether an option is “in the money” for the policyholder. In a financial context, a benefit available from an ownership option or rider is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">in the money (ITM)</span> for the policyholder if the benefit is more favorable for the customer than are the benefits available under the contract itself. In other words, if exercising an option would be more favorable to the policyholder than not exercising the option, the option is ITM. A common example of an ITM benefit is a policy element that retains value during stock market declines or similar downturns."
+                        "Paragraph_txt": "<br />One factor affecting product profitability is whether an option is “in the money” for the policyholder. In a financial context, a benefit available from an ownership option or rider is <span class=\"keyterm\" tabindex=\"0\" role=\"button\">in the money (ITM)</span> for the policyholder if the benefit is more favorable for the customer than are the benefits available under the contract itself. In other words, if exercising an option would be more favorable to the policyholder than not exercising the option, the option is ITM. A common example of an ITM benefit is a policy element that retains value during stock market declines or similar downturns."
                     }
                 ]
             },
@@ -614,7 +584,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -674,7 +644,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -710,7 +680,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Policyholders tend to exercise ownership options in products when financial market conditions are unfavorable for the company and favorable for the policyholder. However, this generalization does not always apply. A policyholder might not exercise her options even when the options are ITM, or she might exercise the options even when the transaction would produce a loss for the policyholder. For example, the immediate needs of a policyholder’s household may take priority over the optimal exercise of the policyholder’s ownership options. Unexpected expenses in a policyholder’s life may make it more attractive for the policyholder to exercise an option for a smaller amount of money, payable immediately, than to receive a larger amount of money in the future."
                     },
                     {
-                        "Paragraph_txt": "An insurer must estimate how <em>efficient</em> its policyholders will be for a given product—that is to say, how likely a policyholder is to exercise ownership options when market conditions produce the greatest gains for the policyholder. If the insurer underestimates policyholder efficiency, the insurer is at risk of underpricing the product’s riders or other benefits, and the company might not be able to meet its profit targets. If the insurer overestimates policyholder efficiency, it may price its products too high for the market."
+                        "Paragraph_txt": "<br />An insurer must estimate how <em>efficient</em> its policyholders will be for a given product—that is to say, how likely a policyholder is to exercise ownership options when market conditions produce the greatest gains for the policyholder. If the insurer underestimates policyholder efficiency, the insurer is at risk of underpricing the product’s riders or other benefits, and the company might not be able to meet its profit targets. If the insurer overestimates policyholder efficiency, it may price its products too high for the market."
                     }
                 ]
             },
@@ -909,10 +879,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Using internal and external experience data, insurers typically build provisions for policyholder behavior into their expense projections. If actual lapse and surrender rates are lower than expected, the expense charge in the product design is typically sufficient to cover the company’s costs. If actual lapse and surrender rates are higher than expected the insurer may not be able to fully recover its costs."
                     },
                     {
-                        "Paragraph_txt": "To help protect against potential losses from adverse deviations from expense projections, insurers may base their expense charges on the results of pessimistic scenarios. If an expense charge is built on a pessimistic scenario—for instance, the expectation that lapse rates will be five percent higher than initially projected—then it is more likely that any deviation from that expectation will be favorable. Basing an assumption on a non-ideal outcome amounts to creating a <em>margin</em>."
+                        "Paragraph_txt": "<br />To help protect against potential losses from adverse deviations from expense projections, insurers may base their expense charges on the results of pessimistic scenarios. If an expense charge is built on a pessimistic scenario—for instance, the expectation that lapse rates will be five percent higher than initially projected—then it is more likely that any deviation from that expectation will be favorable. Basing an assumption on a non-ideal outcome amounts to creating a <em>margin</em>."
                     },
                     {
-                        "Paragraph_txt": "Watch Video 9.1 for a basic illustration of the use of margins to manage the risk of decreased persistency for a life insurance product. For simplicity’s sake, this video does not include provisions for contingencies other than lapses, or calculate persistency rates beyond the product’s first year, both of which would be necessary for actual product design."
+                        "Paragraph_txt": "<br />Watch Video 9.1 for a basic illustration of the use of margins to manage the risk of decreased persistency for a life insurance product. For simplicity’s sake, this video does not include provisions for contingencies other than lapses, or calculate persistency rates beyond the product’s first year, both of which would be necessary for actual product design."
                     }
                 ]
             },
@@ -1230,7 +1200,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The (<strong>lapse rate</strong> / <strong>surrender rate</strong>) for a block of life insurance policies is the ratio of business in force that terminates for nonpayment of premium during a given period to the total business in force at the beginning of that period.",
@@ -1291,14 +1261,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "When modeling potential policyholder behavior, if one or more of the underlying risks in the assumptions are nondiversifiable, the preferable modeling structure would be",
@@ -1371,7 +1341,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The relative size of a margin is likely to be <em>larger</em> if",

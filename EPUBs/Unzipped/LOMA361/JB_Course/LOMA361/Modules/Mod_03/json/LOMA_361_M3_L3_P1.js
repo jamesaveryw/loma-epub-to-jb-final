@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "You’re at a company meeting, and upper management is going over the company’s financials. They show slides of the income statements for the last two quarters, pointing out where revenues increased or decreased between the two. They then discuss the expected revenues for the current quarter, based on the previous two quarters. This process of comparison is an example of (<strong>horizontal analysis</strong> / <strong>vertical analysis</strong>).",

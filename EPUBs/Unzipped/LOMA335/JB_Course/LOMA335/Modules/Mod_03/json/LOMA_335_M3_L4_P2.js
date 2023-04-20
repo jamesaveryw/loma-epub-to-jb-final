@@ -349,9 +349,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "../../imgs/loma_335_chapter-102.png",
-                        "image_w_text_tag": [
-                            "A vertical arrow illustrates the degree of innovation. From the top tobottom: Incremental innovation has the least risk and the least cost. Breakthroughinnovation has the most risk and the greatest cost to innovate."
-                        ],
+                        "image_w_text_tag": "A vertical arrow illustrates the degree of innovation. From the top tobottom: Incremental innovation has the least risk and the least cost. Breakthroughinnovation has the most risk and the greatest cost to innovate.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -457,7 +455,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -526,7 +524,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -618,7 +616,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -690,7 +688,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -806,7 +804,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Innovations in product packaging or product placement are correctly categorized as types of",
@@ -877,14 +875,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Innovations in an insurer’s core business operations that focus on promoting the profitability and growth of the current business are most likely",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Cost of Benefits in Technical Product Design",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -231,7 +201,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -305,7 +275,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -398,7 +368,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -504,7 +474,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -564,7 +534,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -670,7 +640,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -706,7 +676,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Note that this calculation produces a statistically weighted expectation of loss per policy in a block of policies. If actual mortality is higher than expected, then the mortality charges in the product’s design may not be sufficient to pay for the product’s actual mortality cost. To protect the insurer against adverse experience, the product design typically includes a <em>mortality margin</em>, which we will discuss momentarily."
                     },
                     {
-                        "Paragraph_txt": "Insurers build mortality cost into a product’s pricing in different ways depending on whether the product is a term life, whole life, or universal life product. We discuss life insurance technical product design in more detail in Chapter 10."
+                        "Paragraph_txt": "<br />Insurers build mortality cost into a product’s pricing in different ways depending on whether the product is a term life, whole life, or universal life product. We discuss life insurance technical product design in more detail in Chapter 10."
                     }
                 ]
             },
@@ -742,7 +712,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "For a life annuity, the annuity benefit cost equals the value of the benefits promised under the contract. For one year of a single life annuity contract, the insurer’s probability of having to pay the yearly benefit amount is equal to the annuitant’s probability of surviving that year. Remember that an annuitant’s probability of surviving each year is equal to 1 minus the appropriate tabular mortality rate."
                     },
                     {
-                        "Paragraph_txt": "Using a product-differentiated mortality table for annuitants, the calculation of the one-year annuity benefit cost for a $1,000 annual income payment on a life annuity issued to a male age 65 is shown below:"
+                        "Paragraph_txt": "<br />Using a product-differentiated mortality table for annuitants, the calculation of the one-year annuity benefit cost for a $1,000 annual income payment on a life annuity issued to a male age 65 is shown below:"
                     }
                 ]
             },
@@ -769,7 +739,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -907,7 +877,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1157,10 +1127,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "As with life insurance products, the total mortality charge typically includes a mortality margin to protect against adverse experience. Note that some life insurance products allow the option to receive benefit payments as a stream of income payments, which are effectively annuity payments and influence the product’s pricing accordingly."
                     },
                     {
-                        "Paragraph_txt": "When pricing an annuity product, the payout schedule is also a factor. With a <em>deferred annuity</em>, which begins making payments at least one annuity period—in this context, one year—after the contract is purchased, the insurer can invest the purchase premium and build any expected gains on the investments into the product’s pricing. In the case of an <em>immediate annuity</em>, which begins making payments within a year after the contract is purchased, the insurer has less opportunity for investments to gain value. Insurers therefore hedge their risk with immediate annuities by using mortality credits. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortality credit</span> is a monetary value that an insurer (1) allotted to payments for an annuity, and (2) did not pay in full due to the death of the annuitant. When an annuitant dies before the insurer has paid all the potential payments from his annuity, the insurer can use the resulting mortality credits to fund payments for other annuity contracts."
+                        "Paragraph_txt": "<br />When pricing an annuity product, the payout schedule is also a factor. With a <em>deferred annuity</em>, which begins making payments at least one annuity period—in this context, one year—after the contract is purchased, the insurer can invest the purchase premium and build any expected gains on the investments into the product’s pricing. In the case of an <em>immediate annuity</em>, which begins making payments within a year after the contract is purchased, the insurer has less opportunity for investments to gain value. Insurers therefore hedge their risk with immediate annuities by using mortality credits. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">mortality credit</span> is a monetary value that an insurer (1) allotted to payments for an annuity, and (2) did not pay in full due to the death of the annuitant. When an annuitant dies before the insurer has paid all the potential payments from his annuity, the insurer can use the resulting mortality credits to fund payments for other annuity contracts."
                     },
                     {
-                        "Paragraph_txt": "We discuss deferred annuities and annuity product design in more detail in Chapter 11."
+                        "Paragraph_txt": "<br />We discuss deferred annuities and annuity product design in more detail in Chapter 11."
                     }
                 ]
             },
@@ -1269,7 +1239,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Comet Life Insurance is designing a one-year term life insurance product. Comet’s product-specific mortality tables, given a starting cohort of 100,000 women, list the mortality rate for 45-year-old women as 0.0031. Therefore, Comet estimates that the mortality cost for a policy with a $200,000 face amount issued to a 45-year-old woman would be",
@@ -1335,14 +1305,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The estimated benefit cost for a $5,000 annual income payment on a life annuity issued to a male aged 70, assuming a mortality rate of 0.0204 for males aged 70, is",
@@ -1420,7 +1390,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: A positive mortality margin for a life annuity payout results from applying a lower mortality rate than would be found in a basic mortality table.",

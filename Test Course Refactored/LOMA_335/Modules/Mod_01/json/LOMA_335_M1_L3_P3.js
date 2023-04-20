@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Behavior Modification",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -392,7 +362,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Overall, the most effective influence tactics tend to be rational persuasion and consultation. Pressure tactics are rarely appropriate in the workplace unless other methods of influencing an employee’s behavior have failed. For example, a manager may need to threaten termination of employment if other methods of influence have not changed an employee’s actions."
                     },
                     {
-                        "Paragraph_txt": "Any of these tactics may influence others to accept or agree to what a leader wants in the short term. However, rational persuasion and consultation are the best tactics for motivating others and gaining acceptance or agreement over the long term."
+                        "Paragraph_txt": "<br />Any of these tactics may influence others to accept or agree to what a leader wants in the short term. However, rational persuasion and consultation are the best tactics for motivating others and gaining acceptance or agreement over the long term."
                     }
                 ]
             },
@@ -842,7 +812,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -878,10 +848,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Customer Service Examples</strong> "
                     },
                     {
-                        "Paragraph_txt": "<u>Antecedent that prompts negative behavior</u>: A computer system that freezes periodically causes employees to complain to customers about the slow system, which negatively affects the quality of customer service."
+                        "Paragraph_txt": "<br /><u>Antecedent that prompts negative behavior</u>: A computer system that freezes periodically causes employees to complain to customers about the slow system, which negatively affects the quality of customer service."
                     },
                     {
-                        "Paragraph_txt": "<u>Antecedent that prompts positive behavior</u>: A checklist of frequently asked questions about a variable annuity product assists employees in answering customer questions quickly and correctly."
+                        "Paragraph_txt": "<br /><u>Antecedent that prompts positive behavior</u>: A checklist of frequently asked questions about a variable annuity product assists employees in answering customer questions quickly and correctly."
                     }
                 ]
             },
@@ -908,7 +878,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1024,7 +994,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1084,7 +1054,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1163,7 +1133,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1223,7 +1193,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1302,7 +1272,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1362,7 +1332,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1441,7 +1411,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1501,7 +1471,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1537,10 +1507,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Negative reinforcement and punishment seem similar but they are not. In these examples, Tina’s manager used negative reinforcement when she realized that Tina’s unwillingness to do the presentation was due to her anxiety about standing in front of the group. By removing the unpleasant aspect of the situation that was causing Tina’s anxiety, Tina’s manager used negative reinforcement appropriately. People often use negative reinforcement inappropriately without realizing it. For example, an employee who finds a task boring may complain about the task to his manager until the manager reassigns the task to another employee. The complaining employee is then encouraged in the future to complain about other tasks he does not enjoy doing."
                     },
                     {
-                        "Paragraph_txt": "Punishment, on the other hand, requires applying something unpleasant to influence behavior. In Tina’s case, her punishment would have been no quarterly bonus if she did not do the presentation. Acting to avoid something negative typically results in less than optimal performance."
+                        "Paragraph_txt": "<br />Punishment, on the other hand, requires applying something unpleasant to influence behavior. In Tina’s case, her punishment would have been no quarterly bonus if she did not do the presentation. Acting to avoid something negative typically results in less than optimal performance."
                     },
                     {
-                        "Paragraph_txt": "Of these strategies, positive reinforcement, such as praise and recognition, tends to be the most effective in ongoing behavior management. Studies show that praise and recognition from superiors are highly effective ways of boosting morale and productivity. In addition, the timing of behavioral consequences is important. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Continuous reinforcement </span>is the process of either encouraging or discouraging every instance of a specific behavior. In contrast, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">intermittent reinforcement </span>is the process of encouraging or discouraging some, rather than all, instances of a specific behavior. Continuous reinforcement is often required when employees are learning new behaviors. Once behaviors are learned, intermittent reinforcement is adequate."
+                        "Paragraph_txt": "<br />Of these strategies, positive reinforcement, such as praise and recognition, tends to be the most effective in ongoing behavior management. Studies show that praise and recognition from superiors are highly effective ways of boosting morale and productivity. In addition, the timing of behavioral consequences is important. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Continuous reinforcement </span>is the process of either encouraging or discouraging every instance of a specific behavior. In contrast, <span class=\"keyterm\" tabindex=\"0\" role=\"button\">intermittent reinforcement </span>is the process of encouraging or discouraging some, rather than all, instances of a specific behavior. Continuous reinforcement is often required when employees are learning new behaviors. Once behaviors are learned, intermittent reinforcement is adequate."
                     }
                 ]
             },
@@ -1567,7 +1537,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1603,7 +1573,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Continuous and Intermittent Reinforcement</strong> "
                     },
                     {
-                        "Paragraph_txt": "A supervisor in an underwriting department is training a new underwriter to use the new business processing system. The supervisor initially uses continuous reinforcement to praise or correct the employee’s behavior each time he completes an application correctly. Once the employee appears to understand the system, the supervisor uses intermittent reinforcement to ensure that the correct behavior continues."
+                        "Paragraph_txt": "<br />A supervisor in an underwriting department is training a new underwriter to use the new business processing system. The supervisor initially uses continuous reinforcement to praise or correct the employee’s behavior each time he completes an application correctly. Once the employee appears to understand the system, the supervisor uses intermittent reinforcement to ensure that the correct behavior continues."
                     }
                 ]
             },
@@ -1630,7 +1600,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             }

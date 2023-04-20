@@ -145,7 +145,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -211,7 +211,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -306,7 +306,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -369,7 +369,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -462,7 +462,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -522,7 +522,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -813,7 +813,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -873,7 +873,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1438,9 +1438,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Each style box is a 3 by 3 grid. The equity fund style box’s rows aremarket capitalization categories: large-cap, mid-cap, and small-cap. Thestyle box’s columns are investment styles: value, core, and growth. Onebox is in black, which indicates that the fund in question invests in mid-capequities and has a growth investment style.<br /><br />The fixed-income style box’s rows are levels of credit quality: high,medium, and low. The style box’s columns are durations: short, medium,and long. One box is in black, which indicates that the fund in questioninvests in fixed-income assets with a high credit quality and the fund’sholdings typically have a short duration."
-                        ],
+                        "image_w_text_tag": "Each style box is a 3 by 3 grid. The equity fund style box’s rows aremarket capitalization categories: large-cap, mid-cap, and small-cap. Thestyle box’s columns are investment styles: value, core, and growth. Onebox is in black, which indicates that the fund in question invests in mid-capequities and has a growth investment style.<br /><br />The fixed-income style box’s rows are levels of credit quality: high,medium, and low. The style box’s columns are durations: short, medium,and long. One box is in black, which indicates that the fund in questioninvests in fixed-income assets with a high credit quality and the fund’sholdings typically have a short duration.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1783,9 +1781,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-6figure.jpg",
-                        "image_w_text_tag": [
-                            "The scorecard is set up as a table that displays information and rankingsfor four funds. Information displayed includes each fund’s 1-year return,5-year return, and expense ratio.<br /><br />For each category, each fund’s peer group percentile number shows whereit ranks in comparison to its peers. For example, Fund A’s 1-year returnof 6.22% is in the 9<sup>th</sup> percentile of its peer group, while FundD’s 1-year return of 2.87% is in the 82<sup>nd</sup> percentile.<br /><br />Below the information for the funds is another row for the peer groupbenchmark. The table shows the peer group benchmark’s 1-year return, 5-yearreturn, and expense ratio values.<br /><br />Finally, each fund also has a composite rating on a scale of one to fivestars. The composite ratings that the funds received ranged from two tofour stars."
-                        ],
+                        "image_w_text_tag": "The scorecard is set up as a table that displays information and rankingsfor four funds. Information displayed includes each fund’s 1-year return,5-year return, and expense ratio.<br /><br />For each category, each fund’s peer group percentile number shows whereit ranks in comparison to its peers. For example, Fund A’s 1-year returnof 6.22% is in the 9<sup>th</sup> percentile of its peer group, while FundD’s 1-year return of 2.87% is in the 82<sup>nd</sup> percentile.<br /><br />Below the information for the funds is another row for the peer groupbenchmark. The table shows the peer group benchmark’s 1-year return, 5-yearreturn, and expense ratio values.<br /><br />Finally, each fund also has a composite rating on a scale of one to fivestars. The composite ratings that the funds received ranged from two tofour stars.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1887,7 +1883,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A fund with an active management strategy attempts to (<strong>outperform / earn</strong>) the average market return earned by fund peers. In general, an actively managed fund trades (<strong>less / more</strong>) frequently than a passively managed fund.",
@@ -1958,14 +1954,14 @@ Lesson_Data_File([
                         "Question_type": "",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Some funds are classified by investment style. Match each equity fund to the appropriate description of its typical investments. For each description, type the correct number choice in the blank.",
@@ -2048,7 +2044,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Investment professionals use a style box to compare a fund’s performance to the performances of its benchmark and other funds in its peer group.",

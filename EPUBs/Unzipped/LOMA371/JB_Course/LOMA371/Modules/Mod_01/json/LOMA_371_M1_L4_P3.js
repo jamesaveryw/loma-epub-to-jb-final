@@ -201,7 +201,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -261,7 +261,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -340,7 +340,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -400,7 +400,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -479,7 +479,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -657,7 +657,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -923,7 +923,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -983,7 +983,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1223,9 +1223,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Appropriateness: Often easier to acquire general-purpose, less specialized data, especially for new products<br /><br />Accuracy: Requires time and sufficiently large sets of data<br /><br />Relevance: User needs can shift quickly<br /><br />Timeliness: Quicker results often sacrifice accuracy<br /><br />Interpretability: Greater detail usually requires more training to properly interpret<br /><br />Accessibility: Privacy requirements and competitive advantage discourage data-sharing<br /><br />Coherence: Ever-increasing volumes of useful data are harder to coordinate"
-                        ],
+                        "image_w_text_tag": "Appropriateness: Often easier to acquire general-purpose, less specialized data, especially for new products<br /><br />Accuracy: Requires time and sufficiently large sets of data<br /><br />Relevance: User needs can shift quickly<br /><br />Timeliness: Quicker results often sacrifice accuracy<br /><br />Interpretability: Greater detail usually requires more training to properly interpret<br /><br />Accessibility: Privacy requirements and competitive advantage discourage data-sharing<br /><br />Coherence: Ever-increasing volumes of useful data are harder to coordinate",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1288,7 +1286,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Chevalier Life Insurance is modeling a new product. For one key variable, Chevalier applies an assumption that is selected randomly from a specified statistical distribution applied across multiple simulations or scenarios. What type of assumption is Chevalier using for this variable?",
@@ -1354,14 +1352,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Assumptions dictated by regulation or by policy or contract terms are typically",
@@ -1434,7 +1432,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Quality data relies on a number of characteristics. One of these characteristics is the degree to which information gathered through data analysis meets the needs of users. This data characteristic is known as",
@@ -1505,14 +1503,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Experience data provides insurers with valuable information about how financial variables behaved in the past and how these variables can be expected to behave in the future if future conditions do not follow historical trends.",

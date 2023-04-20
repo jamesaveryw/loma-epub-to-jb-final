@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Performing the Accounting Function",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -249,7 +219,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "The head of a company’s accounting function is typically the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">controller</span> or <em>comptroller.</em> Although the controller usually reports to the company’s chief financial officer (CFO), reporting relationships among the controller and other company officers and employees vary among companies."
                     },
                     {
-                        "Paragraph_txt": "Figure 1.6 shows how the role of the controller has been changing in recent years."
+                        "Paragraph_txt": "<br />Figure 1.6 shows how the role of the controller has been changing in recent years."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.6 The Changing Role of the Controller</strong>"
                     }
                 ]
             },
@@ -257,9 +260,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-6figure.jpg",
-                        "image_w_text_tag": [
-                            "Before:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Oversee bookkeeping</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ensure compliance with regulations</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ensure effective controls are in place</span><br /><br />Now (All of “Before” plus…):<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Contribute to the overall direction of the company by participating in strategic analysis and decision making</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Discover ways to improve operating efficiency</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Acquire business knowledge beyond accounting</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Build relationships and share information with other company leaders</span>"
-                        ],
+                        "image_w_text_tag": "Before:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Oversee bookkeeping</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ensure compliance with regulations</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ensure effective controls are in place</span><br /><br />Now (All of “Before” plus…):<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Contribute to the overall direction of the company by participating in strategic analysis and decision making</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Discover ways to improve operating efficiency</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Acquire business knowledge beyond accounting</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Build relationships and share information with other company leaders</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -272,7 +273,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.6</strong> The Changing Role of the Controller",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -341,7 +342,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Public accounting is performed by <em>public accountants</em>, who work for, or are affiliated with, a public accounting company or governmental regulatory authority. In the United States, accountants who work in public accounting generally earn the professional accounting credential known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Certified Public Accountant (CPA)</span> designation."
                     },
                     {
-                        "Paragraph_txt": "Although public accountants can perform activities related to both financial and management accounting, in this text, we emphasize public accountants’ financial accounting activities. For example, insurance companies hire public accountants to perform annual audits of their financial statements. An <em>audit</em> is the examination and evaluation of a company’s accounting records, policies, and procedures to ensure that certain requirements are met. We discuss auditing in detail later in the text."
+                        "Paragraph_txt": "<br />Although public accountants can perform activities related to both financial and management accounting, in this text, we emphasize public accountants’ financial accounting activities. For example, insurance companies hire public accountants to perform annual audits of their financial statements. An <em>audit</em> is the examination and evaluation of a company’s accounting records, policies, and procedures to ensure that certain requirements are met. We discuss auditing in detail later in the text."
                     }
                 ]
             }

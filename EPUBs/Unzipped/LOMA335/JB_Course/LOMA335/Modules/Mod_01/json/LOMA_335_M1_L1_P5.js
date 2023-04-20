@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-5figure.jpg",
-                        "image_w_text_tag": [
-                            "A bar chart shows percentages that indicate the likelihood of disruptionin the insurance industry, banking and capital markets, and healthcareindustry from over-regulation, changing consumer behavior, technologicalchange, and new market entrants.<br /><br />[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th>&nbsp;</th><th><p>Over-regulation</p></th><th><p>Changing consumer behavior</p></th><th><p>Speed of technological change</p></th><th><p>New Market Entrants</p></th></tr><tr><th><p>Insurance Industry</p></th><td><p>67%</p></td><td><p>42%</p></td><td><p>45%</p></td><td><p>22%</p></td></tr><tr><th><p>Banking and capital markets</p></th><td><p>60%</p></td><td><p>35%</p></td><td><p>22%</p></td><td><p>15%</p></td></tr><tr><th><p>Healthcare</p></th><td><p>54%</p></td><td><p>21%</p></td><td><p>27%</p></td><td><p>16%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "A bar chart shows percentages that indicate the likelihood of disruptionin the insurance industry, banking and capital markets, and healthcareindustry from over-regulation, changing consumer behavior, technologicalchange, and new market entrants.<br /><br />[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th>&nbsp;</th><th><p>Over-regulation</p></th><th><p>Changing consumer behavior</p></th><th><p>Speed of technological change</p></th><th><p>New Market Entrants</p></th></tr><tr><th><p>Insurance Industry</p></th><td><p>67%</p></td><td><p>42%</p></td><td><p>45%</p></td><td><p>22%</p></td></tr><tr><th><p>Banking and capital markets</p></th><td><p>60%</p></td><td><p>35%</p></td><td><p>22%</p></td><td><p>15%</p></td></tr><tr><th><p>Healthcare</p></th><td><p>54%</p></td><td><p>21%</p></td><td><p>27%</p></td><td><p>16%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -308,9 +306,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-6figure.jpg",
-                        "image_w_text_tag": [
-                            "A picture of a head has the term “Artificial Intelligence” in the middle.Five solid lines come out from the head to identify capabilities of artificialintelligence systems. Each line connects to a capability and a pictureillustrating that capability. Capabilities of artificial intelligence fromleft to right are: (1) recognizes images with a picture of eyeglasses,(2) understands language with a picture of an ear, (3) solves complex problemswith a picture of a lightbulb, (4) creates perspectives with a pictureof a compass, and (5) learns and reasons with a picture of a head processinginformation."
-                        ],
+                        "image_w_text_tag": "A picture of a head has the term “Artificial Intelligence” in the middle.Five solid lines come out from the head to identify capabilities of artificialintelligence systems. Each line connects to a capability and a pictureillustrating that capability. Capabilities of artificial intelligence fromleft to right are: (1) recognizes images with a picture of eyeglasses,(2) understands language with a picture of an ear, (3) solves complex problemswith a picture of a lightbulb, (4) creates perspectives with a pictureof a compass, and (5) learns and reasons with a picture of a head processinginformation.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -472,9 +468,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-7figure.jpg",
-                        "image_w_text_tag": [
-                            "Three boxes are arranged around a three-pointed arrow to illustrate thecompeting challenges insurers face innovating for the future while runninga high-performing business. First box is labeled “Present” and wordingbeside the box says to “optimize current business.” Second box is labeled“Past” and wording beside the box says to “forget the past.” Third boxis labeled “Future” and wording beside the box says to “create future.”"
-                        ],
+                        "image_w_text_tag": "Three boxes are arranged around a three-pointed arrow to illustrate thecompeting challenges insurers face innovating for the future while runninga high-performing business. First box is labeled “Present” and wordingbeside the box says to “optimize current business.” Second box is labeled“Past” and wording beside the box says to “forget the past.” Third boxis labeled “Future” and wording beside the box says to “create future.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -649,7 +643,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -715,7 +709,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -822,9 +816,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-8figure.jpg",
-                        "image_w_text_tag": [
-                            "A pie chart divides the 2017 U.S. Workforce by percentages into four demographiccategories: Boomers, Gen Xers, Millennials, and Others to illustrate thatMillennials are now the largest demographic group in the workforce.<br /><br />[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p>Boomers</p></th><th><p>Gen Xers</p></th><th><p>Millennials</p></th><th><p>Others</p></th></tr><tr><td><p>25%</p></td><td><p>33%</p></td><td><p>35%</p></td><td><p>7%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "A pie chart divides the 2017 U.S. Workforce by percentages into four demographiccategories: Boomers, Gen Xers, Millennials, and Others to illustrate thatMillennials are now the largest demographic group in the workforce.<br /><br />[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p>Boomers</p></th><th><p>Gen Xers</p></th><th><p>Millennials</p></th><th><p>Others</p></th></tr><tr><td><p>25%</p></td><td><p>33%</p></td><td><p>35%</p></td><td><p>7%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1031,7 +1023,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A computer system that can perform tasks normally requiring human intelligence is",
@@ -1092,14 +1084,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Authentication measures for verifying a life insurance policyowner’s identity are necessary to prevent",
@@ -1167,7 +1159,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Managing the workforce of today is challenging because the workforce contains full-time, part-time, and independent workers.",

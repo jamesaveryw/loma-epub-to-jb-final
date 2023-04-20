@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Asset-Liability Management",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -420,7 +390,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -456,7 +426,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example 1: </strong>Leed Insurance’s portfolio of bonds has duration of 15, which means that for a 0.1 percent increase in interest rates, the value of the bond portfolio declines by 1.5 percent. If there is a 0.1 percent decrease in interest rates, the value of the bond portfolio increases by 1.5 percent."
                     },
                     {
-                        "Paragraph_txt": "<strong>Example 2. </strong>Leed Insurance uses duration matching for liabilities that have highly predictable cash flows and whose value is very sensitive to interest rates. Leed structures its fixed-income asset portfolio so that the values of the asset and liability portfolios move in sync in response to interest-rate changes. In other words, the duration-matched portfolios have the same sensitivity to interest-rate changes."
+                        "Paragraph_txt": "<br /><strong>Example 2. </strong>Leed Insurance uses duration matching for liabilities that have highly predictable cash flows and whose value is very sensitive to interest rates. Leed structures its fixed-income asset portfolio so that the values of the asset and liability portfolios move in sync in response to interest-rate changes. In other words, the duration-matched portfolios have the same sensitivity to interest-rate changes."
                     }
                 ]
             },
@@ -483,7 +453,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -586,12 +556,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 3.1 Portfolio Risk Management in ALM</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "3-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Diversification: Spread out risk among a variety of assets<br /><br />Hedging: Hold an asset that offsets the risk of another asset<br /><br />Cash-Flow Matching: Structure assets so cash inflows match cash outflows<br /><br />Duration Matching: Structure assets to have the same interest-rate sensitivity as liabilities"
-                        ],
+                        "image_w_text_tag": "Diversification: Spread out risk among a variety of assets<br /><br />Hedging: Hold an asset that offsets the risk of another asset<br /><br />Cash-Flow Matching: Structure assets so cash inflows match cash outflows<br /><br />Duration Matching: Structure assets to have the same interest-rate sensitivity as liabilities",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -604,7 +605,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 3.1</strong> Portfolio Risk Management in ALM",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -774,7 +775,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurance companies use a variety of internal reports for ALM. Some reports provide details concerning the company’s liabilities, while other reports provide details about investments in the asset portfolio. Internal ALM reports support sound ALM within a company. Because of the company-specific nature of these reports, they vary from one company to another. Some of the most common internal ALM reports are the investment activity report, investment portfolio performance review, and duration gap report."
                     },
                     {
-                        "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment activity report </span>specifies the details of all investment portfolio transactions, including all asset acquisitions and all dispositions of assets from the investment portfolio through sales, prepayments (redemptions), or repayment at maturity. Although narrow in scope, this report is typically the most detailed and the most frequently produced of any report in a formal ALM reporting system."
+                        "Paragraph_txt": "<br />An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">investment activity report </span>specifies the details of all investment portfolio transactions, including all asset acquisitions and all dispositions of assets from the investment portfolio through sales, prepayments (redemptions), or repayment at maturity. Although narrow in scope, this report is typically the most detailed and the most frequently produced of any report in a formal ALM reporting system."
                     }
                 ]
             },
@@ -801,7 +802,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -861,7 +862,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1001,10 +1002,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Insurers commonly use two formal ALM reports for external reporting: (1) an Actuarial Opinion and Memorandum (AOM), with supporting documentation, and (2) a crediting-rate resolution. Recall that an AOM consists of two separate documents—the actuarial opinion and the actuarial memorandum—that insurers are required to submit annually to regulators."
                     },
                     {
-                        "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">crediting-rate resolution</span> is a formal declaration by the board of directors of the rate of interest the insurer will credit on customers’ money held in interest-bearing products."
+                        "Paragraph_txt": "<br />A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">crediting-rate resolution</span> is a formal declaration by the board of directors of the rate of interest the insurer will credit on customers’ money held in interest-bearing products."
                     },
                     {
-                        "Paragraph_txt": "Crediting rates vary widely by product and by company. An annual crediting-rate resolution typically presents details about the company’s interest-crediting strategies. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Interest-crediting strategies </span>are the formulas and criteria a company uses to set the interest rates it will credit for interest-sensitive products."
+                        "Paragraph_txt": "<br />Crediting rates vary widely by product and by company. An annual crediting-rate resolution typically presents details about the company’s interest-crediting strategies. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Interest-crediting strategies </span>are the formulas and criteria a company uses to set the interest rates it will credit for interest-sensitive products."
                     }
                 ]
             },
@@ -1031,7 +1032,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1091,7 +1092,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1151,7 +1152,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1187,7 +1188,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Award Financial Services Company</strong>"
                     },
                     {
-                        "Paragraph_txt": "Resolved that, effective January 1, 201X, through December 31, 201X, excess interest at a rate equal to the difference between the total interest rate from the following table and the guaranteed interest rate be declared on the outstanding balances of the previously issued individual annuity contracts:"
+                        "Paragraph_txt": "<br />Resolved that, effective January 1, 201X, through December 31, 201X, excess interest at a rate equal to the difference between the total interest rate from the following table and the guaranteed interest rate be declared on the outstanding balances of the previously issued individual annuity contracts:"
                     }
                 ]
             },
@@ -1300,7 +1301,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1317,7 +1318,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A risk management strategy that involves holding an asset with characteristics that counterbalance one or more of the risks in the investor’s risk array is known as",
@@ -1388,14 +1389,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The ALM report that specifies the details of all investment portfolio transactions is known as the",

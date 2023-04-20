@@ -156,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Arrows link the five steps of the product development process into an ongoing cycle.<br /><br />Product Planning<br /><br />Comprehensive Business Analysis<br /><br />Technical Product Design<br /><br />Product Introduction<br /><br />Monitoring, Evaluation, and Feedback"
-                        ],
+                        "image_w_text_tag": "Arrows link the five steps of the product development process into an ongoing cycle.<br /><br />Product Planning<br /><br />Comprehensive Business Analysis<br /><br />Technical Product Design<br /><br />Product Introduction<br /><br />Monitoring, Evaluation, and Feedback",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -278,9 +276,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-6figure.jpg",
-                        "image_w_text_tag": [
-                            "Shows the product development cycle. The Product Planning step is highlighted with a list of the following subcategories:<br /><br />Idea Generation<br /><br />Idea Screening"
-                        ],
+                        "image_w_text_tag": "Shows the product development cycle. The Product Planning step is highlighted with a list of the following subcategories:<br /><br />Idea Generation<br /><br />Idea Screening",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -599,9 +595,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-7figure.jpg",
-                        "image_w_text_tag": [
-                            "Shows the product development cycle. The Comprehensive Business Analysis step is highlighted with a list of the following subcategories:<br /><br />Market Analysis<br /><br />Product Design Objectives<br /><br />Feasibility Study<br /><br />Marketing Plan<br /><br />Marketing Projections<br /><br />Product Proposal"
-                        ],
+                        "image_w_text_tag": "Shows the product development cycle. The Comprehensive Business Analysis step is highlighted with a list of the following subcategories:<br /><br />Market Analysis<br /><br />Product Design Objectives<br /><br />Feasibility Study<br /><br />Marketing Plan<br /><br />Marketing Projections<br /><br />Product Proposal",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -713,7 +707,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1270,7 +1264,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1598,7 +1592,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: During the idea screening process, a company searches for new ideas by conducting market research, engaging in special projects, and monitoring its own and its competitors’ products.",
@@ -1659,14 +1653,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Deep Ocean Insurance is determining whether it has the capability to take a new product to market. During this process, the company looks at its operational and technical abilities to see whether Deep Ocean can structure the proposed product to be competitive and profitable, and whether the insurer’s current resources, employees, systems, and technological capacity can support the product. This information indicates that Deep Ocean is currently working on a",

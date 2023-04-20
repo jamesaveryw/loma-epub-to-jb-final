@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "An insurer’s product design decisions are based on the concept of the time value of money, which means that the value of a sum of money changes over time if invested with positive interest. According to this principle, the value of a sum of money received in the present would be (<strong>lesser</strong> / <strong>greater</strong>) than the value of the same sum of money received five years from now.",

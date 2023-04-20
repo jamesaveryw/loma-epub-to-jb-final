@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Regulatory Agencies and Organizations",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Because the insurance industry manages large amounts of money and because many people rely on insurers for financial protection, the public can be negatively affected if insurers do not adhere to prudent standards in their business transactions. Therefore, the financial health of the insurance industry is deemed to be in the public interest. Compliance with financial reporting requirements helps ensure that each insurance company adequately prepares for the eventual payment of contractual benefits. In addition, to make informed decisions, policyowners, investors, and other interested parties must be able to rely on the information presented in an insurer’s financial statements."
                     },
                     {
-                        "Paragraph_txt": "The following sections discuss agencies and organizations that have a significant impact on accounting and financial reporting for life insurance companies in the United States. Note, however, that other countries have a variety of agencies and organizations that provide similar regulatory and professional oversight of the insurance industry."
+                        "Paragraph_txt": "<br />The following sections discuss agencies and organizations that have a significant impact on accounting and financial reporting for life insurance companies in the United States. Note, however, that other countries have a variety of agencies and organizations that provide similar regulatory and professional oversight of the insurance industry."
                     }
                 ]
             },
@@ -264,7 +234,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -300,7 +270,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Stanza Mutual Life Insurance Company sells term life and whole life insurance products and variable annuity products. The Lyrical Life Insurance Company sells fixed and variable life and annuity products. Stanza is a U.S. company, and Lyrical is a non-U.S. company that prepares its financial statements according to IFRS."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis. </strong>Because Stanza sells variable products, it is required to submit financial statements to the SEC; however, because Stanza is a mutual insurer, these statements can be statutory financial statements rather than GAAP financial statements. Although it is a non-U.S. company, Lyrical can submit its financial statements to the SEC without restating them according to U.S. GAAP because it prepares its financial statements according to IFRS."
+                        "Paragraph_txt": "<br /><strong>Analysis. </strong>Because Stanza sells variable products, it is required to submit financial statements to the SEC; however, because Stanza is a mutual insurer, these statements can be statutory financial statements rather than GAAP financial statements. Although it is a non-U.S. company, Lyrical can submit its financial statements to the SEC without restating them according to U.S. GAAP because it prepares its financial statements according to IFRS."
                     }
                 ]
             },
@@ -327,7 +297,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -365,12 +335,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.7 Insurers Subject to SEC Regulation</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "1-7figure.jpg",
-                        "image_w_text_tag": [
-                            "Question 1: Is the insurer a stock company?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes. Insurer IS subject to SEC regulation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No. Go to Question 2</span><br /><br />Question 2: Does the insurer sell variable products?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes. Insurer IS subject to SEC regulation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No. Insurer is NOT subject to SEC regulation</span>"
-                        ],
+                        "image_w_text_tag": "Question 1: Is the insurer a stock company?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes. Insurer IS subject to SEC regulation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No. Go to Question 2</span><br /><br />Question 2: Does the insurer sell variable products?<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Yes. Insurer IS subject to SEC regulation</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• No. Insurer is NOT subject to SEC regulation</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -383,7 +384,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.7</strong> Insurers Subject to SEC Regulation",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -476,7 +477,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -536,7 +537,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -596,7 +597,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -656,7 +657,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -749,7 +750,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -809,7 +810,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -869,7 +870,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -929,7 +930,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -998,7 +999,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> National Association of Insurance Commissioners (NAIC)</span> is a private, nonprofit association of the commissioners of all 50 states, the District of Columbia, and the U.S. territories that promotes uniformity of state regulation by developing model laws and regulations that serve as guidelines for the states. Although the NAIC has no legislative power, its recommendations and actions strongly influence the individual state insurance commissioners, the state legislatures, and the insurance industry. Each state insurance department or commission determines which NAIC recommendations it approves or modifies, and then incorporates these recommendations into its state reporting requirements for insurers."
                     },
                     {
-                        "Paragraph_txt": "The NAIC’s influence on insurance accounting is strongest with respect to the U.S. Annual Statement, which we discussed earlier. The NAIC specifies the format and content of the Annual Statement. The NAIC also uses information in the Annual Statement to evaluate an insurer’s financial condition, as well as its compliance with insurance laws and regulatory requirements."
+                        "Paragraph_txt": "<br />The NAIC’s influence on insurance accounting is strongest with respect to the U.S. Annual Statement, which we discussed earlier. The NAIC specifies the format and content of the Annual Statement. The NAIC also uses information in the Annual Statement to evaluate an insurer’s financial condition, as well as its compliance with insurance laws and regulatory requirements."
                     }
                 ]
             },
@@ -1034,7 +1035,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Internal Revenue Service (IRS)</span>, a part of the U.S. Department of the Treasury, is the governmental agency responsible for enforcing the provisions of laws and regulations concerning income taxes. Insurers in the United States must adhere to the tax code of the IRS. The IRS significantly influences the way in which insurance companies conduct business. A complete discussion of tax accounting, the tax code, and specific tax effects on an insurer’s products is beyond the scope of this textbook."
                     },
                     {
-                        "Paragraph_txt": "Figure 1.8 summarizes the important regulatory agencies and organizations for insurance companies."
+                        "Paragraph_txt": "<br />Figure 1.8 summarizes the important regulatory agencies and organizations for insurance companies."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.8 Regulatory Agencies and Organizations</strong>"
                     }
                 ]
             },
@@ -1042,9 +1076,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-8figure.jpg",
-                        "image_w_text_tag": [
-                            "Important regulatory agencies and organizations for insurance companies include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Securities and Exchange Commission (SEC): regulates insurers that are public companies and insurers that sell variable products</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• American Institute of Certified Public Accountants (AICPA): influences accounting practices and develops generally accepted auditing standards (GAAS)</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial Accounting Standards Board (FASB): Establishes and promotes the use of U.S. GAAP</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Public Company Auditing Oversight Board (PCAOB): sets standards for external auditors of public companies</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• National Association of Insurance Commissioners (NAIC): Specifies the format and content of the U.S. Annual Statement and uses it to evaluate insurer financial condition and compliance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Internal Revenue Service (IRS): Enforces the tax code and strongly influences the practice of tax accounting</span>"
-                        ],
+                        "image_w_text_tag": "Important regulatory agencies and organizations for insurance companies include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Securities and Exchange Commission (SEC): regulates insurers that are public companies and insurers that sell variable products</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• American Institute of Certified Public Accountants (AICPA): influences accounting practices and develops generally accepted auditing standards (GAAS)</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial Accounting Standards Board (FASB): Establishes and promotes the use of U.S. GAAP</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Public Company Auditing Oversight Board (PCAOB): sets standards for external auditors of public companies</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• National Association of Insurance Commissioners (NAIC): Specifies the format and content of the U.S. Annual Statement and uses it to evaluate insurer financial condition and compliance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Internal Revenue Service (IRS): Enforces the tax code and strongly influences the practice of tax accounting</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1057,7 +1089,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.8</strong> Regulatory Agencies and Organizations",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1107,7 +1139,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: In the United States, a mutual insurer that sells variable products is subject to SEC regulation.",
@@ -1168,14 +1200,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: The SEC has delegated its responsibility for establishing U.S. GAAP to the PCAOB.",
@@ -1243,7 +1275,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In the United States, the NAIC’s influence on insurance accounting is strongest with respect to the Annual Statement.",

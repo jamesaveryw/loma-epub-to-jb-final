@@ -392,7 +392,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -455,7 +455,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -547,7 +547,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -591,9 +591,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-1unnumbered.jpg",
-                        "image_w_text_tag": [
-                            "The visual shows a hierarchy. At the top is the Dexicos Financial Group.Underneath, three lines connect to each of its subsidiaries, called DexicosSavings and Loans, Dexicos Investment Management, and Dexicos Life InsuranceCompany.<br /><br />There are arrows from Dexicos Investment Management to Dexicos Savingsand Loans and Dexicos Life Insurance Company. These arrows indicate thatthe investment management subsidiary is providing services to the othersubsidiaries.<br /><br />Underneath Dexicos Investment Management is an arrow to a box labeled“outside institutional investors.” This indicates that Dexicos InvestmentManagement also provides services to entities outside of the Dexicos FinancialGroup holding company."
-                        ],
+                        "image_w_text_tag": "The visual shows a hierarchy. At the top is the Dexicos Financial Group.Underneath, three lines connect to each of its subsidiaries, called DexicosSavings and Loans, Dexicos Investment Management, and Dexicos Life InsuranceCompany.<br /><br />There are arrows from Dexicos Investment Management to Dexicos Savingsand Loans and Dexicos Life Insurance Company. These arrows indicate thatthe investment management subsidiary is providing services to the othersubsidiaries.<br /><br />Underneath Dexicos Investment Management is an arrow to a box labeled“outside institutional investors.” This indicates that Dexicos InvestmentManagement also provides services to entities outside of the Dexicos FinancialGroup holding company.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -666,7 +664,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -808,9 +806,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-1figure.jpg",
-                        "image_w_text_tag": [
-                            "There is a large investment operations rectangle with three branches droppingbelow. Each branch represents a particular classification of operationsactivities.<br /><br />The first branch is for front-office operations and comprises the followingactivities: portfolio management, asset management, asset trading, investmentanalysis, and investment research.<br /><br />The second branch is for middle-office operations and comprises the followingactivities: investment forecasting, securities regulatory compliance, tradesettlements, funds disbursement, portfolio performance reporting, and investmentrisk management.<br /><br />The third branch is for back office-operations and comprises the followingactivities: investment accounting, investment reporting, investment informationtechnology, data governance and security, and management of vendor relationships.<br /><br />There is a note underneath the middle-office and back-office branches.The note states that when an organization does not acknowledge a separatemiddle office, the middle-office functions are classified as back-officefunctions.<br /><br />To the right of the large investment operations rectangle is a large rectanglerepresenting other relevant operations. The branch below other operationscomprises the following activities: investment sales, investment marketing,customer service or client services, asset-liability management, managingfund options, and product development."
-                        ],
+                        "image_w_text_tag": "There is a large investment operations rectangle with three branches droppingbelow. Each branch represents a particular classification of operationsactivities.<br /><br />The first branch is for front-office operations and comprises the followingactivities: portfolio management, asset management, asset trading, investmentanalysis, and investment research.<br /><br />The second branch is for middle-office operations and comprises the followingactivities: investment forecasting, securities regulatory compliance, tradesettlements, funds disbursement, portfolio performance reporting, and investmentrisk management.<br /><br />The third branch is for back office-operations and comprises the followingactivities: investment accounting, investment reporting, investment informationtechnology, data governance and security, and management of vendor relationships.<br /><br />There is a note underneath the middle-office and back-office branches.The note states that when an organization does not acknowledge a separatemiddle office, the middle-office functions are classified as back-officefunctions.<br /><br />To the right of the large investment operations rectangle is a large rectanglerepresenting other relevant operations. The branch below other operationscomprises the following activities: investment sales, investment marketing,customer service or client services, asset-liability management, managingfund options, and product development.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -873,7 +869,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "[[Matching q-type. NEEDS EDIT.]]An insurer’s investment function typically includes certain professional roles. Can you match each role below to the right description of that role? For each description, type the correct number choice in the blank.",
@@ -949,14 +945,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Select the operations activities that are usually classified as front-office operations within the investment function.",
@@ -1440,7 +1436,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1503,7 +1499,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1614,7 +1610,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1677,7 +1673,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1814,7 +1810,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1877,7 +1873,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1954,9 +1950,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-2figure.jpg",
-                        "image_w_text_tag": [
-                            "There is a chart displaying a line that represents the daily movementsof a security’s price over a date range spanning several months. In addition,a second line represents the security’s moving average over the same period.Both lines are gradually trending up over the date range shown, meaningthe security’s price is generally increasing over time."
-                        ],
+                        "image_w_text_tag": "There is a chart displaying a line that represents the daily movementsof a security’s price over a date range spanning several months. In addition,a second line represents the security’s moving average over the same period.Both lines are gradually trending up over the date range shown, meaningthe security’s price is generally increasing over time.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -2140,7 +2134,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2262,7 +2256,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2322,7 +2316,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2432,7 +2426,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2482,7 +2476,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Within a life insurance company, the investment function interacts with several other functional areas. The area that needs information from investment professionals to support product design assumptions is",
@@ -2558,14 +2552,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following is <em>not</em> a type of information system typically used by the investment function?",
@@ -2643,7 +2637,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Some life insurance companies outsource certain aspects of investment management to external vendors. Because they have access to an insurer’s data, such external vendors represent an additional risk to the company’s cybersecurity.",

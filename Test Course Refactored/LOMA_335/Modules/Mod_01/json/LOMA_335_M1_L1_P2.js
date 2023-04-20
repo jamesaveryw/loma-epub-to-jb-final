@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Insurance Company Operations",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -159,7 +129,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The stakeholders in an insurance company include",
@@ -263,12 +233,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.1 Insurance Company Stakeholders</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "1-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The question “What do stakeholders want?” is located in a circle withfive boxes going around the circle. Each box identifies a primary insurancecompany stakeholder and its wants as follows:<br /><br /><strong>Box 1. Customers want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reputable company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial stability</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsive to insurance needs</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Affordable, competitive products</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prompt service and payments</span><br /><br /><strong>Box 2. Governments want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Regulatory compliance with solvency and market conduct rules and regulations.</span><br /><br /><strong>Box 3. Employees want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Engaging work</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Opportunities for growth</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial and nonfinancial rewards</span><br /><br /><strong>Box 4. Owners want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reputable company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Predictable, positive investments returns</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Long-term growth and profitability</span><br /><br /><strong>Box 5. Suppliers, Vendors, and Partners want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Trustworthy and dependable business partners</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Long-term relationships</span>"
-                        ],
+                        "image_w_text_tag": "The question “What do stakeholders want?” is located in a circle withfive boxes going around the circle. Each box identifies a primary insurancecompany stakeholder and its wants as follows:<br /><br /><strong>Box 1. Customers want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reputable company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial stability</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsive to insurance needs</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Affordable, competitive products</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prompt service and payments</span><br /><br /><strong>Box 2. Governments want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Regulatory compliance with solvency and market conduct rules and regulations.</span><br /><br /><strong>Box 3. Employees want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Engaging work</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Opportunities for growth</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Financial and nonfinancial rewards</span><br /><br /><strong>Box 4. Owners want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reputable company</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Predictable, positive investments returns</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Long-term growth and profitability</span><br /><br /><strong>Box 5. Suppliers, Vendors, and Partners want</strong><br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Trustworthy and dependable business partners</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Long-term relationships</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -281,7 +282,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.1</strong> Insurance Company Stakeholders",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -383,7 +384,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Quality, timeliness, and cost control are the primary tenets of general operations management. However, service companies apply these concepts differently than do manufacturing companies. A manufacturing company transforms raw materials into a finished product that customers want or need and are willing to buy. In such a company, profits are very product-centered and depend on the costs of the raw materials needed to manufacture the products, the timeliness of the company’s production and shipping methods, and the quality and innovation inherent in the finished product."
                     },
                     {
-                        "Paragraph_txt": "Insurers create profits through the sale of intangible products and services. Insurance products consist of an insurer’s contractual financial commitments as well as services such as claim payments, interest payments, and expert and friendly customer assistance. The elements of quality, timeliness, and cost control apply more to the operations supporting these intangible insurance products than to the actual product. Figure 1.2 shows insurance company operations categorized as either primary or support operations. Note that company operations may be categorized differently but these are typical categories. Primary and support operations both contribute to the overall success and profitability of the insurance company."
+                        "Paragraph_txt": "<br />Insurers create profits through the sale of intangible products and services. Insurance products consist of an insurer’s contractual financial commitments as well as services such as claim payments, interest payments, and expert and friendly customer assistance. The elements of quality, timeliness, and cost control apply more to the operations supporting these intangible insurance products than to the actual product. Figure 1.2 shows insurance company operations categorized as either primary or support operations. Note that company operations may be categorized differently but these are typical categories. Primary and support operations both contribute to the overall success and profitability of the insurance company."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.2 Insurance Company Operations</strong>"
                     }
                 ]
             },
@@ -391,9 +425,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "../../imgs/loma_335_chapter-1_f.png",
-                        "image_w_text_tag": [
-                            "A drawing of a column illustrates how certain insurance company operationssupport other company operations. A list of primary insurance company operationssits on top of the column and a list of insurance company support operationsare located on the column.<br /><br /><strong>Primary operations</strong> on the top of the column are: (1) productdevelopment &amp; implementation, (2) sales &amp; distribution, (3) underwriting,(4) policy issue &amp; new business, (5) policy administration, (6) customerservice, (7) customer retention, and (8) claims.<br /><br /><strong>Support operations</strong> located on the column are: (1) marketingresearch, (2) information technology, (3) human resources, (4) accounting/auditing,(4) internal control, (5) other general administration."
-                        ],
+                        "image_w_text_tag": "A drawing of a column illustrates how certain insurance company operationssupport other company operations. A list of primary insurance company operationssits on top of the column and a list of insurance company support operationsare located on the column.<br /><br /><strong>Primary operations</strong> on the top of the column are: (1) productdevelopment &amp; implementation, (2) sales &amp; distribution, (3) underwriting,(4) policy issue &amp; new business, (5) policy administration, (6) customerservice, (7) customer retention, and (8) claims.<br /><br /><strong>Support operations</strong> located on the column are: (1) marketingresearch, (2) information technology, (3) human resources, (4) accounting/auditing,(4) internal control, (5) other general administration.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -406,7 +438,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.2</strong> Insurance Company Operations",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -499,7 +531,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -565,7 +597,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The information/technology department incorrectly designs a compliance feature into the system for a new product. New product sales suffer when the product’s rollout is delayed."
                     },
                     {
-                        "Paragraph_txt": "The legal department is slow to approve the contract for a new product idea. New product sales suffer when a competitor enters the market first with a similar product."
+                        "Paragraph_txt": "<br />The legal department is slow to approve the contract for a new product idea. New product sales suffer when a competitor enters the market first with a similar product."
                     }
                 ]
             },
@@ -592,7 +624,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -812,7 +844,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -878,7 +910,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The accounting/payroll function processes compensation payments for all employees within a company."
                     },
                     {
-                        "Paragraph_txt": "The compliance function maintains licensing and compliance records for sales professionals."
+                        "Paragraph_txt": "<br />The compliance function maintains licensing and compliance records for sales professionals."
                     }
                 ]
             },
@@ -905,7 +937,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1021,7 +1053,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1087,7 +1119,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The policy administration function explains policy riders and endorsements to a policyowner."
                     },
                     {
-                        "Paragraph_txt": "The claims administration function pays an insurance policy claim."
+                        "Paragraph_txt": "<br />The claims administration function pays an insurance policy claim."
                     }
                 ]
             },
@@ -1114,7 +1146,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1230,7 +1262,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1320,7 +1352,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1356,7 +1388,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "&nbsp;"
                     },
                     {
-                        "Paragraph_txt": "Traditionally, insurance company operations involved a large amount of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">transactional work</span>—routine and repetitive tasks with little flexibility in how processes are completed. Insurers have now automated many transactional tasks in underwriting, claims processing, and customer service. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Automation </span>is the operation of a process, system, or piece of equipment without human intervention. Automation allows insurance companies to create jobs that make better use of workers’ talents and knowledge. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Knowledge workers</span>are<strong> </strong>employees who can interpret information within a specific, yet broad domain; use skills and knowledge to define problems; and identify alternative solutions to problems. Companies that effectively employ knowledge workers can earn a competitive edge in the marketplace as these workers tend to be self-managing and continuously innovating.<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Intellectual capital </span>is the sum of all employee knowledge that a company can use to drive profits as well as other proprietary information that a company owns.<span class=\"ens\" id=\"loma335-ch1-span-16\"> <span class=\"endnote hidden\" data-note=\"loma335-ch1-en1\" epub:type=\"noteref\" id=\"loma335-ch1-span-17\" role=\"doc-noteref\">1</span> </span>Companies that emphasize training and education for workers contribute to the development of the company’s intellectual capital and add value to the company. "
+                        "Paragraph_txt": "<br />Traditionally, insurance company operations involved a large amount of <span class=\"keyterm\" tabindex=\"0\" role=\"button\">transactional work</span>—routine and repetitive tasks with little flexibility in how processes are completed. Insurers have now automated many transactional tasks in underwriting, claims processing, and customer service. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Automation </span>is the operation of a process, system, or piece of equipment without human intervention. Automation allows insurance companies to create jobs that make better use of workers’ talents and knowledge. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Knowledge workers</span>are<strong> </strong>employees who can interpret information within a specific, yet broad domain; use skills and knowledge to define problems; and identify alternative solutions to problems. Companies that effectively employ knowledge workers can earn a competitive edge in the marketplace as these workers tend to be self-managing and continuously innovating.<span class=\"keyterm\" tabindex=\"0\" role=\"button\"> Intellectual capital </span>is the sum of all employee knowledge that a company can use to drive profits as well as other proprietary information that a company owns.<span class=\"ens\" id=\"loma335-ch1-span-16\"> <span class=\"endnote hidden\" data-note=\"loma335-ch1-en1\" epub:type=\"noteref\" id=\"loma335-ch1-span-17\" role=\"doc-noteref\">1</span> </span>Companies that emphasize training and education for workers contribute to the development of the company’s intellectual capital and add value to the company. "
                     }
                 ]
             },
@@ -1373,7 +1405,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A company’s stakeholders can be external or internal to the organization.",
@@ -1434,14 +1466,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A company’s decision to do nothing still involves an opportunity cost.",
@@ -1509,7 +1541,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Quality, timeliness, and cost control, the primary tenets of general operations management, do not apply in insurance operations management.",
@@ -1570,14 +1602,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Knowledge workers primarily engage in transactional work.",

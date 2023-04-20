@@ -175,7 +175,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -235,7 +235,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -298,7 +298,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -464,7 +464,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -609,9 +609,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Illustration of a normal probability curve. The curve is symmetrical, with its highest point in the center, which represents the mean. The curve slopes down equally to either side. On either side, the portion of the curve outside of three standard deviations is marked as a tail."
-                        ],
+                        "image_w_text_tag": "Illustration of a normal probability curve. The curve is symmetrical, with its highest point in the center, which represents the mean. The curve slopes down equally to either side. On either side, the portion of the curve outside of three standard deviations is marked as a tail.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -731,9 +729,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Illustration of a non-normal probability curve. The curve is asymmetrical. Its highest point is to the left of the center mean, and the curve’s slope falls off sharply to the left. The curve’s slope falls off more gradually to the right. On the left, the curve does not go outside three standard deviations. On the right, the portion of the curve outside three standard deviations is marked as the tail."
-                        ],
+                        "image_w_text_tag": "Illustration of a non-normal probability curve. The curve is asymmetrical. Its highest point is to the left of the center mean, and the curve’s slope falls off sharply to the left. The curve’s slope falls off more gradually to the right. On the left, the curve does not go outside three standard deviations. On the right, the portion of the curve outside three standard deviations is marked as the tail.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -916,7 +912,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -976,7 +972,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1026,7 +1022,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: Optimization models typically produce results in the form of single-value estimates.",
@@ -1087,14 +1083,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: The two portions of a normal curve known as tails fall within one standard deviation on either side of the mean.",
@@ -1162,7 +1158,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Most real-world observations are distributed normally; that is, they create a normal curve.",
@@ -1223,14 +1219,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In a non-normal distribution, the mean is not generally equal to the median and mode.",
@@ -1298,7 +1294,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Insurers typically measure the severity of tail risk by calculating the conditional tail expectation (CTE), which is",

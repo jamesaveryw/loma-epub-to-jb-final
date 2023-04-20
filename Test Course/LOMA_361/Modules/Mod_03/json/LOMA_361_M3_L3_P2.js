@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Comparative Analysis",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +148,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Horizontal analysis</span> is a type of comparative analysis that involves calculating the absolute monetary amount of change in a particular account value on a specified financial statement from one reporting period to another. Horizontal analysis uses <span class=\"keyterm\" tabindex=\"0\" role=\"button\">comparative financial statements</span>, which present data for two or more accounting periods side by side. Comparative financial statements can be formed from multiple balance sheets, income statements, cash flow statements, and statements of owners’ equity. Comparative financial statements can present year-to-year changes in terms of (1) absolute numerical amounts or (2) percentages or ratios."
                     },
                     {
-                        "Paragraph_txt": "Figure 14.1 shows excerpts from the comparative balance sheets and income statements of the Luna Life Insurance Company."
+                        "Paragraph_txt": "<br />Figure 14.1 shows excerpts from the comparative balance sheets and income statements of the Luna Life Insurance Company."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 14.1 Comparative Financial Statements</strong>"
                     }
                 ]
             },
@@ -186,9 +189,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "14-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Balance Sheet ($000s omitted)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th>&nbsp;</th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th><th><p style=\"text-align: center;\">Amount Increase/Decrease</p></th><th><p style=\"text-align: center;\">Percent Increase/Decrease</p></th></tr><tr><th><p>Total Assets</p></th><td><p style=\"text-align: right;\">$11,825,060</p></td><td><p style=\"text-align: right;\">$13,901,278</p></td><td><p style=\"text-align: right;\">($2,076,218)</p></td><td><p style=\"text-align: right;\">(14.9%)</p></td></tr></tbody></table>[[NEEDS EDIT!!]]Income Statement ($000s omitted)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th>&nbsp;</th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th><th><p style=\"text-align: center;\">Amount Increase/Decrease</p></th><th><p style=\"text-align: center;\">Percent Increase/Decrease</p></th></tr><tr><th><p>Net Income</p></th><td><p style=\"text-align: right;\">$705,031</p></td><td><p style=\"text-align: right;\">$627,433</p></td><td><p style=\"text-align: right;\">$77,598</p></td><td><p style=\"text-align: right;\">12.4%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "Balance Sheet ($000s omitted)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th>&nbsp;</th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th><th><p style=\"text-align: center;\">Amount Increase/Decrease</p></th><th><p style=\"text-align: center;\">Percent Increase/Decrease</p></th></tr><tr><th><p>Total Assets</p></th><td><p style=\"text-align: right;\">$11,825,060</p></td><td><p style=\"text-align: right;\">$13,901,278</p></td><td><p style=\"text-align: right;\">($2,076,218)</p></td><td><p style=\"text-align: right;\">(14.9%)</p></td></tr></tbody></table>[[NEEDS EDIT!!]]Income Statement ($000s omitted)<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th>&nbsp;</th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th><th><p style=\"text-align: center;\">Amount Increase/Decrease</p></th><th><p style=\"text-align: center;\">Percent Increase/Decrease</p></th></tr><tr><th><p>Net Income</p></th><td><p style=\"text-align: right;\">$705,031</p></td><td><p style=\"text-align: right;\">$627,433</p></td><td><p style=\"text-align: right;\">$77,598</p></td><td><p style=\"text-align: right;\">12.4%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -201,7 +202,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 14.1</strong> Comparative Financial Statements",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -270,7 +271,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The financial reporting period chosen as the reference point for horizontal analysis is known as the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">base period</span>. A base period could be a specific month, quarter, year, or other appropriate period of time. In most cases, the base period is the earliest period. In the above example, the base period for Luna’s comparative balance sheet is 2017, the earlier financial reporting period. For truly accurate analysis, a company must be sure it is including identical categories for analysis in each period. A category that is present in one period and absent in another can weight the findings, which makes the analysis less accurate and useful."
                     },
                     {
-                        "Paragraph_txt": "To calculate the absolute monetary amount of the change being analyzed, subtract the base period amount from the amount of the period under study. To calculate the percentage change, divide the absolute monetary amount by the base period amount, and then multiply the result by 100, as follows:"
+                        "Paragraph_txt": "<br />To calculate the absolute monetary amount of the change being analyzed, subtract the base period amount from the amount of the period under study. To calculate the percentage change, divide the absolute monetary amount by the base period amount, and then multiply the result by 100, as follows:"
                     }
                 ]
             },
@@ -297,7 +298,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -333,7 +334,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Absolute monetary amount = </strong>"
                     },
                     {
-                        "Paragraph_txt": "<strong>Period under study amount – Base period amount</strong>"
+                        "Paragraph_txt": "<br /><strong>Period under study amount – Base period amount</strong>"
                     }
                 ]
             },
@@ -420,7 +421,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -447,7 +448,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -483,7 +484,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Aries Life Insurance Company had total assets of $13,901,278 in 2017 and total assets of $14,825,060 in 2018. Because 2017 is the earlier period, it is the base period, and 2018 is the period under study. The absolute monetary amount of the change in assets is $923,782, which represents a 6.6% increase in total assets from 2017 to 2018. This increase in total assets is calculated as follows:"
                     },
                     {
-                        "Paragraph_txt": "($14,825,060 – $13,901,278) ÷ $13,901,278 = 0.066 x 100 = 6.6%"
+                        "Paragraph_txt": "<br />($14,825,060 – $13,901,278) ÷ $13,901,278 = 0.066 x 100 = 6.6%"
                     }
                 ]
             },
@@ -510,7 +511,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -826,7 +827,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The Luna Life Insurance Company is using horizontal analysis to compare revenues from two separate accounting periods. The revenues in the base period were $24,700,000, and the revenues in the period under study were $26,600,000. What is the percentage value of the change between the two periods?",
@@ -897,14 +898,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Suppose you are conducting a trend analysis. The value for your base period is $6,100, and the value for the following period is $7,015. What are the index numbers for these two values?",
@@ -1003,12 +1004,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 14.2 Horizontal and Vertical Analysis</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "14-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Figure: A section of a balance sheet.<br /><br />In the balance sheet, the Total Assets amount from 2018 and the Total Assets amount from 2017 are highlighted in red.<br /><br />Text in red: Horizontal analysis compares the amount of a particular item from one reporting period to another.<br /><br />In the balance sheet, the Debt Securities percent from 2018 and the Total Securities Available percent from 2018 are highlighted in purple.<br /><br />Text in purple: Vertical analysis compares the relationship between two items in the same accounting period."
-                        ],
+                        "image_w_text_tag": "Figure: A section of a balance sheet.<br /><br />In the balance sheet, the Total Assets amount from 2018 and the Total Assets amount from 2017 are highlighted in red.<br /><br />Text in red: Horizontal analysis compares the amount of a particular item from one reporting period to another.<br /><br />In the balance sheet, the Debt Securities percent from 2018 and the Total Securities Available percent from 2018 are highlighted in purple.<br /><br />Text in purple: Vertical analysis compares the relationship between two items in the same accounting period.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1021,7 +1053,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 14.2</strong> Horizontal and Vertical Analysis",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1207,7 +1239,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1243,7 +1275,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Murcielago Life Insurance runs a vertical analysis to compare last year’s premium income to last year’s total revenues. The analysis reveals that premium income made up 57% of Murcielago’s total revenues last year. This percentage is higher than Murcielago’s management usually anticipates for premium income."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Murcielago’s management can easily see that premium income played a larger role in the company’s success last year than anticipated. Murcielago’s next action would probably be to use horizontal analysis to investigate whether premium income was much higher than anticipated last year, or whether its invested assets had lower income than anticipated, thus leaving premium income to contribute a greater overall percentage of the company’s total revenues."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Murcielago’s management can easily see that premium income played a larger role in the company’s success last year than anticipated. Murcielago’s next action would probably be to use horizontal analysis to investigate whether premium income was much higher than anticipated last year, or whether its invested assets had lower income than anticipated, thus leaving premium income to contribute a greater overall percentage of the company’s total revenues."
                     }
                 ]
             },
@@ -1270,7 +1302,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1306,10 +1338,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "We can also use vertical analysis to compile a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">common-size financial statement</span>, which is a financial statement that includes the percentages obtained from vertical analysis. Common-size financial statements often display only percentages; monetary amounts for each item may not be given. The balance sheet and the income statement are often exhibited as common-size statements."
                     },
                     {
-                        "Paragraph_txt": "Each item on a common-size balance sheet is expressed as a percentage of (1) total assets or (2) total liabilities and owners’ equity. In other words, the amount of a company’s total assets is the “common size” to which we reference the balance sheet’s other asset amounts. Similarly, total liabilities and owners’ equity is the “common size” to which we reference the balance sheet’s liability amounts and owners’ equity amounts."
+                        "Paragraph_txt": "<br />Each item on a common-size balance sheet is expressed as a percentage of (1) total assets or (2) total liabilities and owners’ equity. In other words, the amount of a company’s total assets is the “common size” to which we reference the balance sheet’s other asset amounts. Similarly, total liabilities and owners’ equity is the “common size” to which we reference the balance sheet’s liability amounts and owners’ equity amounts."
                     },
                     {
-                        "Paragraph_txt": "Most commonly, insurers use common-size financial statements to compare their company with other companies in the industry. Common-size balance sheets allow insurers to compare financial strength and liquidity, among other qualities. Similarly, an insurer can use common-size income statements to compare profitability, expense control, and other measures. Figure 14.3 shows a simplified example of a common-size balance sheet."
+                        "Paragraph_txt": "<br />Most commonly, insurers use common-size financial statements to compare their company with other companies in the industry. Common-size balance sheets allow insurers to compare financial strength and liquidity, among other qualities. Similarly, an insurer can use common-size income statements to compare profitability, expense control, and other measures. Figure 14.3 shows a simplified example of a common-size balance sheet."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 14.3 Simplified Common-Size Balance Sheet</strong>"
                     }
                 ]
             },
@@ -1317,9 +1382,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "14-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Chart: Puma Life Insurance Company Common-Size Balance Sheet, December 31, 2018<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th><p>Assets</p></th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th></tr><tr><td><p>Total securities available for sale</p></td><td><p style=\"text-align: right;\">80.7%</p></td><td><p style=\"text-align: right;\">85.7%</p></td></tr><tr><td><p>Other assets</p></td><td><p style=\"text-align: right;\">19.3%</p></td><td><p style=\"text-align: right;\">11.3%</p></td></tr><tr><td><p><strong>Total Assets</strong></p></td><td><p style=\"text-align: right;\">100%</p></td><td><p style=\"text-align: right;\">100%</p></td></tr><tr><th colspan=\"3\"><p>Liabilities and Stockholders<strong>’</strong>&nbsp;Equity</p></th></tr><tr><td><p>Total policy liabilities</p></td><td><p style=\"text-align: right;\">73.0%</p></td><td><p style=\"text-align: right;\">70.5%</p></td></tr><tr><td><p>Other liabilities</p></td><td><p style=\"text-align: right;\">3.9%</p></td><td><p style=\"text-align: right;\">4.9%</p></td></tr><tr><td><p><strong>Total Liabilities</strong></p></td><td><p style=\"text-align: right;\">76.9%</p></td><td><p style=\"text-align: right;\">75.4%</p></td></tr><tr><td><p><strong>Total Stockholders’ Equity</strong></p></td><td><p style=\"text-align: right;\">23.1%</p></td><td><p style=\"text-align: right;\">24.6%</p></td></tr><tr><td><p><strong>Total Liabilities and Stockholders’ Equity</strong></p></td><td><p style=\"text-align: right;\">100%</p></td><td><p style=\"text-align: right;\">100%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "Chart: Puma Life Insurance Company Common-Size Balance Sheet, December 31, 2018<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th><p>Assets</p></th><th><p style=\"text-align: center;\">2018</p></th><th><p style=\"text-align: center;\">2017</p></th></tr><tr><td><p>Total securities available for sale</p></td><td><p style=\"text-align: right;\">80.7%</p></td><td><p style=\"text-align: right;\">85.7%</p></td></tr><tr><td><p>Other assets</p></td><td><p style=\"text-align: right;\">19.3%</p></td><td><p style=\"text-align: right;\">11.3%</p></td></tr><tr><td><p><strong>Total Assets</strong></p></td><td><p style=\"text-align: right;\">100%</p></td><td><p style=\"text-align: right;\">100%</p></td></tr><tr><th colspan=\"3\"><p>Liabilities and Stockholders<strong>’</strong>&nbsp;Equity</p></th></tr><tr><td><p>Total policy liabilities</p></td><td><p style=\"text-align: right;\">73.0%</p></td><td><p style=\"text-align: right;\">70.5%</p></td></tr><tr><td><p>Other liabilities</p></td><td><p style=\"text-align: right;\">3.9%</p></td><td><p style=\"text-align: right;\">4.9%</p></td></tr><tr><td><p><strong>Total Liabilities</strong></p></td><td><p style=\"text-align: right;\">76.9%</p></td><td><p style=\"text-align: right;\">75.4%</p></td></tr><tr><td><p><strong>Total Stockholders’ Equity</strong></p></td><td><p style=\"text-align: right;\">23.1%</p></td><td><p style=\"text-align: right;\">24.6%</p></td></tr><tr><td><p><strong>Total Liabilities and Stockholders’ Equity</strong></p></td><td><p style=\"text-align: right;\">100%</p></td><td><p style=\"text-align: right;\">100%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1332,7 +1395,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 14.3</strong> Simplified Common-Size Balance Sheet",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1425,7 +1488,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1461,7 +1524,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> For 2018, the Immensity Insurance Company’s net income of $580,000,000 is greater than the Humility Life Insurance Company’s net income of $110,000,000. As net profits are determined after expenses are subtracted, you might assume from this information that Immensity is the more profitable company. However, let’s examine the simplified common-size income statements for both companies, presented below."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Here we see that Humility’s net income represents a greater percentage of its total revenues (14%) than does Immensity’s net income (11%). Therefore, although Humility’s net income is lower in amount, Humility appears to be operating more efficiently than is Immensity."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Here we see that Humility’s net income represents a greater percentage of its total revenues (14%) than does Immensity’s net income (11%). Therefore, although Humility’s net income is lower in amount, Humility appears to be operating more efficiently than is Immensity."
                     }
                 ]
             },
@@ -1488,7 +1551,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1737,10 +1800,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Common-size financial statements are useful for benchmarking purposes. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Benchmarking</span>, or <em>running a benchmark</em>, is a process that consists of (1) identifying the best outcomes that other companies have achieved for a specific activity or process and the practices that produced those outcomes, and (2) implementing those practices to equal or surpass the best outcomes. Insurers may benchmark for both financial and nonfinancial practices; here, we focus on financial benchmarking."
                     },
                     {
-                        "Paragraph_txt": "To conduct expense analysis using benchmarking, an insurer first determines a set of selection criteria, such as company size or region of operations, and selects a group of appropriate companies according to these criteria. The insurer then acquires data regarding these companies’ expense experience by line of business, function, or another classification."
+                        "Paragraph_txt": "<br />To conduct expense analysis using benchmarking, an insurer first determines a set of selection criteria, such as company size or region of operations, and selects a group of appropriate companies according to these criteria. The insurer then acquires data regarding these companies’ expense experience by line of business, function, or another classification."
                     },
                     {
-                        "Paragraph_txt": "Where possible, insurers commonly benchmark against other insurance companies, other financial services organizations—such as banks and mutual fund companies—and even companies in other industries. An insurer may also run a comparison between the company’s own operations and expenses and the average results of the entire industry. Because the industry average contains data from companies that may be much larger or smaller than the insurer running the benchmark, the analysis may indicate larger variations than the insurer might have received from benchmarking against companies of similar size. However, an industry-wide comparison can indicate whether a company is exceeding or falling behind in any particular area. An insurer might also have a larger or smaller competitor in a specific market."
+                        "Paragraph_txt": "<br />Where possible, insurers commonly benchmark against other insurance companies, other financial services organizations—such as banks and mutual fund companies—and even companies in other industries. An insurer may also run a comparison between the company’s own operations and expenses and the average results of the entire industry. Because the industry average contains data from companies that may be much larger or smaller than the insurer running the benchmark, the analysis may indicate larger variations than the insurer might have received from benchmarking against companies of similar size. However, an industry-wide comparison can indicate whether a company is exceeding or falling behind in any particular area. An insurer might also have a larger or smaller competitor in a specific market."
                     }
                 ]
             },
@@ -1767,7 +1830,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1827,7 +1890,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1844,7 +1907,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Trend analysis is a practice associated with (<strong>horizontal analysis</strong> / <strong>vertical analysis</strong>.)",
@@ -1905,14 +1968,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Insurers can use (<strong>horizontal analysis</strong> / <strong>vertical analysis</strong>) to compile a common-size financial statement.",

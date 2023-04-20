@@ -195,9 +195,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The Quill Life Insurance Company, a U.S. company, has a controlling financial interest in two subsidiaries, Wetlands Group Life and Pumpkin Financial. Under U.S. GAAP, only Quill must prepare financial statements. Under Statutory accounting, Quill and both of its subsidiaries must all prepare their own financial statements.<br /><br />Quill Life Insurance Org Chart 1: Under GAAP, only Quill Life Insurance is highlighted. The subsidiaries Wetlands Group Life and Pumpkin Financial are not highlighted.<br /><br />Quill Life Insurance Org Chart 2: Under SAP, Quill Life Insurance and its subsidiaries Wetlands Group Life and Pumpkin Financial are all highlighted."
-                        ],
+                        "image_w_text_tag": "The Quill Life Insurance Company, a U.S. company, has a controlling financial interest in two subsidiaries, Wetlands Group Life and Pumpkin Financial. Under U.S. GAAP, only Quill must prepare financial statements. Under Statutory accounting, Quill and both of its subsidiaries must all prepare their own financial statements.<br /><br />Quill Life Insurance Org Chart 1: Under GAAP, only Quill Life Insurance is highlighted. The subsidiaries Wetlands Group Life and Pumpkin Financial are not highlighted.<br /><br />Quill Life Insurance Org Chart 2: Under SAP, Quill Life Insurance and its subsidiaries Wetlands Group Life and Pumpkin Financial are all highlighted.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -365,7 +363,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -425,7 +423,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             }

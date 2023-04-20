@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A matrix with four sections describes different types of decisions. They-axis of the matrix identifies the scope and impact of decisions fromnarrow at the bottom to broad at the top. The x-axis of the matrix identifiesthe level of familiarity with the decision as being unfamiliar and infrequentfrom the left side of the matrix to familiar and frequent on the rightside.<br /><br />The top, left-hand section of the matrix is “Big-bet decisions.” Thesedecisions have broad scope and impact but are unfamiliar and infrequent.The top, right-hand section of the matrix is “Cross-cutting decisions.”These decisions have broad scope and impact but are familiar and frequent.The bottom, left-hand section of the matrix is “Ad hoc decisions.” Thesedecisions are narrow in scope and impact and are unfamiliar and infrequent.The bottom, right-hand section of the matrix is “Delegated decisions.”These decisions are narrow in scope and impact and familiar and frequent."
-                        ],
+                        "image_w_text_tag": "A matrix with four sections describes different types of decisions. They-axis of the matrix identifies the scope and impact of decisions fromnarrow at the bottom to broad at the top. The x-axis of the matrix identifiesthe level of familiarity with the decision as being unfamiliar and infrequentfrom the left side of the matrix to familiar and frequent on the rightside.<br /><br />The top, left-hand section of the matrix is “Big-bet decisions.” Thesedecisions have broad scope and impact but are unfamiliar and infrequent.The top, right-hand section of the matrix is “Cross-cutting decisions.”These decisions have broad scope and impact but are familiar and frequent.The bottom, left-hand section of the matrix is “Ad hoc decisions.” Thesedecisions are narrow in scope and impact and are unfamiliar and infrequent.The bottom, right-hand section of the matrix is “Delegated decisions.”These decisions are narrow in scope and impact and familiar and frequent.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -294,7 +292,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -357,7 +355,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -417,7 +415,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -480,7 +478,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -573,7 +571,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -636,7 +634,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -729,7 +727,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -792,7 +790,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -809,7 +807,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "In the ABCD categories of decisions, a low-risk decision that is made frequently is known as",
@@ -880,14 +878,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In the ABCD categories of decisions, cross-cutting decisions are decisions that (choose all that are correct)",

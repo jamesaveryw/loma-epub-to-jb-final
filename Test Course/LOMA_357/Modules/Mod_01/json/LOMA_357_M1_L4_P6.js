@@ -236,9 +236,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Several investment characteristics are listed and categorized under oneof two columns.<br /><br />The first column lists characteristics that are categorized as lower risksassociated with lower expected returns. The characteristics are: owninga short-term asset, lending to a borrower with a higher credit rating,owning a loan that is secured by collateral, owning a highly-rated bond,owning an asset that is easy to sell, owning an asset with a steady marketvalue, and owning an investment that pays returns in the investor’s domesticcurrency.<br /><br />The second column lists characteristics that are categorized as higherrisks associated with higher expected returns. The characteristics are:owning a long-term asset, lending to a borrower with a lower credit rating,owning a loan that is unsecured by collateral, owning a bond with a lowrating, owning an asset that is difficult to sell, owning an asset witha volatile market value, and owning an investment that pays returns ina currency other than the investor’s domestic currency."
-                        ],
+                        "image_w_text_tag": "Several investment characteristics are listed and categorized under oneof two columns.<br /><br />The first column lists characteristics that are categorized as lower risksassociated with lower expected returns. The characteristics are: owninga short-term asset, lending to a borrower with a higher credit rating,owning a loan that is secured by collateral, owning a highly-rated bond,owning an asset that is easy to sell, owning an asset with a steady marketvalue, and owning an investment that pays returns in the investor’s domesticcurrency.<br /><br />The second column lists characteristics that are categorized as higherrisks associated with higher expected returns. The characteristics are:owning a long-term asset, lending to a borrower with a lower credit rating,owning a loan that is unsecured by collateral, owning a bond with a lowrating, owning an asset that is difficult to sell, owning an asset witha volatile market value, and owning an investment that pays returns ina currency other than the investor’s domestic currency.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -363,7 +361,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Which of the following investment characteristics is associated with higher risk and higher expected returns?",

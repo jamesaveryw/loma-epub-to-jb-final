@@ -423,9 +423,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "11-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The Board of Directors is responsible for controls at the corporate level.Corporate-level controls focus on corporate strategy and governance. Examplesinclude the mission statement, corporate strategies and policies, profitabilitytargets, and corporate risk appetite.<br /><br />The investment function is responsible for controls at the functionallevel. Functional-level controls focus on leading, organizing, and controllingthe entire investment function. Examples include investment policies forsuch things as asset allocation strategies and credit quality limits.<br /><br />Investment Operations is responsible for controls at the operational level.Operational-level controls focus on the day-to-day implementation of plansfor managing the investment portfolios. Examples include operational policiesfor such things as employee authorization limits and stop loss limits."
-                        ],
+                        "image_w_text_tag": "The Board of Directors is responsible for controls at the corporate level.Corporate-level controls focus on corporate strategy and governance. Examplesinclude the mission statement, corporate strategies and policies, profitabilitytargets, and corporate risk appetite.<br /><br />The investment function is responsible for controls at the functionallevel. Functional-level controls focus on leading, organizing, and controllingthe entire investment function. Examples include investment policies forsuch things as asset allocation strategies and credit quality limits.<br /><br />Investment Operations is responsible for controls at the operational level.Operational-level controls focus on the day-to-day implementation of plansfor managing the investment portfolios. Examples include operational policiesfor such things as employee authorization limits and stop loss limits.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -865,7 +863,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The investment function of an insurance company is affected by the company’s investment policies, but not its risk policies.",
@@ -926,14 +924,14 @@ Lesson_Data_File([
                         "Question_type": "",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Match each description of a type of audit to the correct key term. For each description, type the correct number choice in the blank.",

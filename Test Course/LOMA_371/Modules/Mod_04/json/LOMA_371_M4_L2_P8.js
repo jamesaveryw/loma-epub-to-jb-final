@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Variable Annuity Guarantee Riders",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -279,7 +249,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -315,7 +285,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Wei-Chao Chen purchases a variable deferred annuity with a single premium payment of $500,000. Mr. Chen is the contract’s owner and its annuitant. Mr. Chen’s variable annuity has a GMDB equal to the greater of all premiums paid—adjusted for withdrawals—and the accumulated value at the date of death. When Mr. Chen dies, he has taken no withdrawals from his annuity and his contract’s accumulated value has fallen to $300,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: The contract’s accumulated value—$300,000—fell below the premium amount that Mr. Chen paid—$500,000. Therefore, the death benefit of his annuity is the greater of the two values: $500,000."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: The contract’s accumulated value—$300,000—fell below the premium amount that Mr. Chen paid—$500,000. Therefore, the death benefit of his annuity is the greater of the two values: $500,000."
                     }
                 ]
             },
@@ -342,7 +312,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -435,7 +405,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -639,7 +609,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -699,7 +669,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -759,7 +729,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -819,7 +789,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -954,7 +924,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Analysis</strong>: On March 5, 2018—the first anniversary date—the contract’s accumulated value had fallen to $480,000. Thus, the insurer did not apply the reset, and the contract’s guaranteed death benefit equaled Mr. Chen’s premium payment of $500,000 (assuming no withdrawals). On March 5, 2019, the accumulated value had grown, so the insurer reset the death benefit to $550,000. On the next anniversary date—March 5, 2020—the insurer did not reset the death benefit because the accumulated value fell from the previous anniversary date."
                     },
                     {
-                        "Paragraph_txt": "If Mr. Chen were to die in July 2020, his beneficiary would receive $550,000—assuming this amount is greater than the contract’s accumulated value and no withdrawals were taken from the contract after the reset."
+                        "Paragraph_txt": "<br />If Mr. Chen were to die in July 2020, his beneficiary would receive $550,000—assuming this amount is greater than the contract’s accumulated value and no withdrawals were taken from the contract after the reset."
                     }
                 ]
             },
@@ -981,7 +951,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1017,13 +987,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "Variable annuity guaranteed living benefits can be referred to as “GLBs.” Living benefits typically offer some type of guaranteed benefit while the annuitant is alive. When a variable annuity contract owner purchases a living benefit rider, the contract essentially has two values: the accumulated value and the <em>living benefit value</em>, which is based on the insurance company’s guarantees for that particular contract. Because living benefits are guaranteed, insurers must establish reserves for them and be prepared to make benefit payments that become due."
                     },
                     {
-                        "Paragraph_txt": "From a customer’s perspective, living benefits can provide protection against market losses: if a variable annuity contract’s accumulated value falls due to poor market performance, the living benefit value is unaffected. Thus, variable annuity contract owners can use living benefit riders to hedge their investment risk. Put differently, living benefit riders essentially enable variable annuity contract owners to share their investment risk with insurers."
+                        "Paragraph_txt": "<br />From a customer’s perspective, living benefits can provide protection against market losses: if a variable annuity contract’s accumulated value falls due to poor market performance, the living benefit value is unaffected. Thus, variable annuity contract owners can use living benefit riders to hedge their investment risk. Put differently, living benefit riders essentially enable variable annuity contract owners to share their investment risk with insurers."
                     },
                     {
-                        "Paragraph_txt": "From an insurer’s perspective, living benefits introduce the risk that a variable annuity’s separate account assets will not be sufficient to cover the contract’s living benefit value, thus necessitating contributions from the insurer’s general account assets. Because living benefit riders increase the risk assumed by insurers, most insurers impose limits on the investment choices of variable annuity contract owners who purchase living benefits. For example, insurers may not offer some of the most aggressive subaccounts to contract owners who select a GLB."
+                        "Paragraph_txt": "<br />From an insurer’s perspective, living benefits introduce the risk that a variable annuity’s separate account assets will not be sufficient to cover the contract’s living benefit value, thus necessitating contributions from the insurer’s general account assets. Because living benefit riders increase the risk assumed by insurers, most insurers impose limits on the investment choices of variable annuity contract owners who purchase living benefits. For example, insurers may not offer some of the most aggressive subaccounts to contract owners who select a GLB."
                     },
                     {
-                        "Paragraph_txt": "Most variable annuity contracts offer one or more of the following living benefit riders: guaranteed minimum income benefits, guaranteed minimum withdrawal benefits, guaranteed lifetime withdrawal benefits, and guaranteed minimum accumulation benefits."
+                        "Paragraph_txt": "<br />Most variable annuity contracts offer one or more of the following living benefit riders: guaranteed minimum income benefits, guaranteed minimum withdrawal benefits, guaranteed lifetime withdrawal benefits, and guaranteed minimum accumulation benefits."
                     }
                 ]
             },
@@ -1083,7 +1053,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1119,7 +1089,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Let’s return to our variable annuity contract owner, Wei-Chao Chen, who purchases his variable annuity with a single premium payment of $500,000. Assume that Mr. Chen also purchases a GMIB rider that stipulates a growth rate of 5 percent compounded per year. The GMIB rider requires a waiting period of 10 years."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: After 10 years, the accumulated value of Mr. Chen’s annuity is $450,000. However, the living benefit value is $814,447.31, found as $500,000 <strong>×</strong> (1.05)<span class=\"ens\" id=\"loma371-ch11-span-96\"> <span class=\"endnote hidden\" data-note=\"loma371-ch11-en10\" epub:type=\"noteref\" id=\"loma371-ch11-span-97\" role=\"doc-noteref\">10</span> </span>. Mr. Chen could decide to annuitize his variable annuity and receive annual income payments based on the living benefit value. If he annuitizes his contract, his insurer would determine the lifetime payment amount by applying a guaranteed annuitization rate that was stipulated in the rider at the contract’s issue."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: After 10 years, the accumulated value of Mr. Chen’s annuity is $450,000. However, the living benefit value is $814,447.31, found as $500,000 <strong>×</strong> (1.05)<span class=\"ens\" id=\"loma371-ch11-span-96\"> <span class=\"endnote hidden\" data-note=\"loma371-ch11-en10\" epub:type=\"noteref\" id=\"loma371-ch11-span-97\" role=\"doc-noteref\">10</span> </span>. Mr. Chen could decide to annuitize his variable annuity and receive annual income payments based on the living benefit value. If he annuitizes his contract, his insurer would determine the lifetime payment amount by applying a guaranteed annuitization rate that was stipulated in the rider at the contract’s issue."
                     }
                 ]
             },
@@ -1146,7 +1116,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1206,7 +1176,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1242,7 +1212,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Instead of a GMIB, assume that Mr. Chen purchases a GMWB that stipulates he can annually withdraw 5 percent of the contract’s principal of $500,000. One year later, the accumulated value of his contract is $400,000. Mr. Chen decides to use the living benefit to make a withdrawal from his contract."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis:</strong> Mr. Chen withdraws $25,000 (found as $500,000 × 0.05). Because of his GMWB rider, Mr. Chen could withdraw $25,000 a year until he has used up the contract’s protected value. At that rate of withdrawal, the protected value of $500,000 should last for 20 years (found as $500,000 ÷ $25,000 per year = 20 years)."
+                        "Paragraph_txt": "<br /><strong>Analysis:</strong> Mr. Chen withdraws $25,000 (found as $500,000 × 0.05). Because of his GMWB rider, Mr. Chen could withdraw $25,000 a year until he has used up the contract’s protected value. At that rate of withdrawal, the protected value of $500,000 should last for 20 years (found as $500,000 ÷ $25,000 per year = 20 years)."
                     }
                 ]
             },
@@ -1269,7 +1239,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1329,7 +1299,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1365,7 +1335,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Now assume that Mr. Chen’s GMWB is a GLWB. One year after purchasing his variable annuity, Mr. Chen decides to use the living benefit. The accumulated value of his contract is $400,000, and the principal is $500,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Because the contract’s principal amount of $500,000 is higher than its accumulated value of $400,000, the insurer bases the GLWB calculation on the principal amount. The insurer uses Mr. Chen’s current age to determine the percentage that will apply to the principal. This percentage of the principal is the amount that will be withdrawn and disbursed to Mr. Chen for the rest of his life. The insurer determines that Mr. Chen’s withdrawal rate is 5%, so he will receive lifetime annual disbursements of $25,000 (found as $500,000 × 0.05)."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Because the contract’s principal amount of $500,000 is higher than its accumulated value of $400,000, the insurer bases the GLWB calculation on the principal amount. The insurer uses Mr. Chen’s current age to determine the percentage that will apply to the principal. This percentage of the principal is the amount that will be withdrawn and disbursed to Mr. Chen for the rest of his life. The insurer determines that Mr. Chen’s withdrawal rate is 5%, so he will receive lifetime annual disbursements of $25,000 (found as $500,000 × 0.05)."
                     }
                 ]
             },
@@ -1392,7 +1362,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1428,7 +1398,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">guaranteed minimum accumulation benefit (GMAB)</span> is a living benefit rider that guarantees a minimum protected value for a variable annuity contract even if its accumulated value declines because of poor investment performance. Usually, the contract owner must wait for a specified period—typically from seven to ten years—before the guaranteed value provided under the GMAB becomes available."
                     },
                     {
-                        "Paragraph_txt": "The amount of the GMAB’s protected value is generally equal to a return of the contract owner’s premium or the premium plus a modest growth factor. With a GMAB, the contract owner is not required to annuitize the contract and thus can still earn future investment gains."
+                        "Paragraph_txt": "<br />The amount of the GMAB’s protected value is generally equal to a return of the contract owner’s premium or the premium plus a modest growth factor. With a GMAB, the contract owner is not required to annuitize the contract and thus can still earn future investment gains."
                     }
                 ]
             },
@@ -1455,7 +1425,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1491,7 +1461,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Let’s say that Mr. Chen purchases a GMAB based on the annuity contract’s principal of $500,000. The living benefit has a required waiting period of eight years. Eight years later, the accumulated value of Mr. Chen’s contract has fallen to $280,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis</strong>: Because of the GMAB, Mr. Chen’s contract has a protected value of $500,000 after the eight-year waiting period, even though the actual accumulated value is lower."
+                        "Paragraph_txt": "<br /><strong>Analysis</strong>: Because of the GMAB, Mr. Chen’s contract has a protected value of $500,000 after the eight-year waiting period, even though the actual accumulated value is lower."
                     }
                 ]
             },
@@ -1518,7 +1488,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1684,7 +1654,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: An insurer administers variable annuity guarantee riders within its separate accounts.",
@@ -1745,14 +1715,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The form of variable annuity guaranteed minimum death benefits that resets the contract’s death benefit at periodic intervals, based on growth in the accumulated value, is called the",
@@ -1825,7 +1795,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "One type of variable annuity living benefit guarantees, for a specified period, a minimum protected value against which a contract owner may make annual withdrawals of a specified amount without charge, even if the contract’s accumulated value falls below the protected value. This type of living benefit rider is a",

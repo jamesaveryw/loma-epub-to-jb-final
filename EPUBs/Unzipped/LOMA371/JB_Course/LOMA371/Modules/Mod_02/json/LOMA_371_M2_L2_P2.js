@@ -153,9 +153,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Shows the product development cycle. The Technical Product Design step is highlighted with a list of the following subcategories:<br /><br />Establishing a Financial Design, including Components of the Financial Design<br /><br />Testing a Financial Design<br /><br />Budgeting and Scheduling"
-                        ],
+                        "image_w_text_tag": "Shows the product development cycle. The Technical Product Design step is highlighted with a list of the following subcategories:<br /><br />Establishing a Financial Design, including Components of the Financial Design<br /><br />Testing a Financial Design<br /><br />Budgeting and Scheduling",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -554,9 +552,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A visual equation: Charge for operating expenses + contribution to company earnings + charge for cost of benefits – investment earnings = required premiums and other considerations from customers"
-                        ],
+                        "image_w_text_tag": "A visual equation: Charge for operating expenses + contribution to company earnings + charge for cost of benefits – investment earnings = required premiums and other considerations from customers",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -795,7 +791,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -855,7 +851,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -957,7 +953,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1094,7 +1090,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1457,7 +1453,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1517,7 +1513,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1648,7 +1644,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1711,7 +1707,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1771,7 +1767,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1831,7 +1827,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1940,7 +1936,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: In determining a product’s financial design, an insurer incorporates product components that must meet the valuation standards specific to the actuarial profession, such as the Actuarial Standards of Practice (ASOPs) set by the Actuarial Standards Board (ASB).",
@@ -2001,14 +1997,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: In general, experience data based on past trends has very high credibility, because trends are likely to continue over a long future period.",
@@ -2076,7 +2072,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The death benefit for a specific block of policies is $50,000,000. The estimated mortality rate for the group of insureds is 3%. What is the projected cost of the block’s death benefits for that year?",
@@ -2147,14 +2143,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the of the following product design features is NOT likely to increase policyholder behavior risk?",
@@ -2232,7 +2228,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Insurers credit investment returns and interest to customer accounts differently, depending on the product. For example, for fixed whole life insurance, the cash value grows at a (<strong>guaranteed fixed rate</strong> / <strong>rate that reflects the actual investment results</strong>). For a variable annuity, the accumulation value grows at a (<strong>guaranteed minimum crediting rate</strong> / <strong>rate that reflects the actual investment results</strong>).",
@@ -2303,14 +2299,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Hedge costs are not affected by a volatile market, because costs are determined when the offsetting types of securities are chosen.",
@@ -2378,7 +2374,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following characteristics may cause premium structures for individual life insurance products to vary? (Choose all that apply.)",

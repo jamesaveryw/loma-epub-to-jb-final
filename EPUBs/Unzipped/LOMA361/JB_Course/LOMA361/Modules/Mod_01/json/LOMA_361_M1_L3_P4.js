@@ -596,7 +596,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -656,7 +656,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -730,9 +730,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Emphatic Life Insurance Company purchases a new computer system for $1,000,000. The system’s estimated useful life is 5 years, and the salvage value is $200,000.<br /><br />Yearly depreciated expense is ($1,000,000 – $200,000) ÷ 5; or $800,000 ÷ 5; or $160,000<br /><br />The system’s value depreciates by $160,000 every year until it reaches the salvage value of $200,000 five years later."
-                        ],
+                        "image_w_text_tag": "Emphatic Life Insurance Company purchases a new computer system for $1,000,000. The system’s estimated useful life is 5 years, and the salvage value is $200,000.<br /><br />Yearly depreciated expense is ($1,000,000 – $200,000) ÷ 5; or $800,000 ÷ 5; or $160,000<br /><br />The system’s value depreciates by $160,000 every year until it reaches the salvage value of $200,000 five years later.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -871,7 +869,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -931,7 +929,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -948,7 +946,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The cost concept governs whether a company uses book value or historical cost when recording the value of an asset. Which of the following statements regarding the cost concept is <em>not</em> true?",
@@ -1014,14 +1012,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In its financial statements, a company should disclose any information or fact that, by its omission, could mislead an interested user of the company’s financial information. Which accounting concept does this practice describe?",
@@ -1094,7 +1092,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Because the Emphatic Life Insurance Company does not complete all its transactions over a single accounting period, it applies the realization principle and the matching principle to the process of revenue and expense recognition. Which answer correctly describes each principle?",
@@ -1165,14 +1163,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Currently, U.S. GAAP permits three approaches to expense recognition. Which of these approaches makes use of the concept of depreciation?",

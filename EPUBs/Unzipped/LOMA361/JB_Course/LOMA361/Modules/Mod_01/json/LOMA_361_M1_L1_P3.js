@@ -172,7 +172,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -235,7 +235,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -339,7 +339,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -402,7 +402,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -462,7 +462,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -525,7 +525,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -585,7 +585,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -648,7 +648,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -722,9 +722,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Internal users with a direct financial interest in a life insurance company include employees, directors, and officers.<br /><br />External users with a direct financial interest in the company include individual policyowners, group policyholders, beneficiaries, insureds, stockholders, agents, reinsurers, and creditors.<br /><br />External users with an indirect financial interest include external auditors, federal agencies, state insurance departments, independent rating agencies, tax authorities, and competing companies."
-                        ],
+                        "image_w_text_tag": "Internal users with a direct financial interest in a life insurance company include employees, directors, and officers.<br /><br />External users with a direct financial interest in the company include individual policyowners, group policyholders, beneficiaries, insureds, stockholders, agents, reinsurers, and creditors.<br /><br />External users with an indirect financial interest include external auditors, federal agencies, state insurance departments, independent rating agencies, tax authorities, and competing companies.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -787,7 +785,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "An independent rating agency has assigned a rating to the Sundog Life Insurance Company. This rating agency is an example of an (<strong>internal</strong> / <strong>external</strong>) user of Sundog’s financial information, and the agency has (<strong>a direct</strong> / <strong>an indirect</strong>) financial interest in Sundog’s performance.",
@@ -858,14 +856,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Internal users of a company’s financial information typically have a direct financial interest in the company, whereas external users can have either a direct or an indirect financial interest in the company.",
@@ -990,9 +988,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-3figure.jpg",
-                        "image_w_text_tag": [
-                            "An insurer’s accounting system captures data from business transactions in 5 steps:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Business transactions occur</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer collects data from the transactions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer processes data</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer produces reports that turn data into information</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer shares reports with internal and external users</span>"
-                        ],
+                        "image_w_text_tag": "An insurer’s accounting system captures data from business transactions in 5 steps:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Business transactions occur</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer collects data from the transactions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer processes data</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer produces reports that turn data into information</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer shares reports with internal and external users</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

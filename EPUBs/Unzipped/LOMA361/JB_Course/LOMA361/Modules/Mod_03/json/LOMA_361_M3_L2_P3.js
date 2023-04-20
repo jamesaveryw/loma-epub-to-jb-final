@@ -251,9 +251,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "13-2figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th><p>Cost Classification</p></th><th><p>Definition</p></th><th><p>Example</p></th></tr><tr><th><p>Direct cost</p></th><td><p>A cost that is identified specifically with a single cost object</p></td><td><p>To the group life insurance line of business, the salary of the division manager of group life insurance</p></td></tr><tr><th><p>Indirect cost</p></th><td><p>A cost that cannot be identified specifically with a single cost object</p></td><td><p>To a line of business, the salary of the company’s CEO</p></td></tr><tr><th><p>Controllable Cost</p></th><td><p>A cost over which a responsibility manager has decision-making authority</p></td><td><p>To a line of business, the cost of its supplies, travel, and employee overtime</p></td></tr><tr><th><p>Noncontrollable cost</p></th><td><p>A cost over which a responsibility manager has no decision-making authority</p></td><td><p>To a line of business, home office rent and depreciation on equipment</p></td></tr><tr><th><p>Sunk cost</p></th><td><p>A cost that already has been incurred and that cannot change as a result of a current or future decision</p></td><td><p>To a line of business, the cost of new computer equipment purchased</p></td></tr><tr><th><p>Discretionary cost</p></th><td><p>A cost that can be decreased or even eliminated as a result of a management decision without stopping the production of a good or service</p></td><td><p>To a life insurer, the costs of product advertising, promotional campaigns, and employee training</p></td></tr><tr><th><p>Differential cost</p></th><td><p>The difference in cost between two alternative choices; also known as <em>incremental cost</em></p></td><td><p>To the group insurance division, the difference in cost if a new line of business is added, and if the new line is not added, to the division</p></td></tr><tr><th><p>Unit cost</p></th><td><p>A cost attributable to a single measured amount of work</p></td><td><p>To a life insurer, the costs per $1,000 of insurance issued</p></td></tr><tr><th><p>Marginal cost</p></th><td><p>The additional cost incurred as a result of producing one additional unit of an existing product or service</p></td><td><p>To a life insurer, the additional cost of processing one more policy application per hour</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th><p>Cost Classification</p></th><th><p>Definition</p></th><th><p>Example</p></th></tr><tr><th><p>Direct cost</p></th><td><p>A cost that is identified specifically with a single cost object</p></td><td><p>To the group life insurance line of business, the salary of the division manager of group life insurance</p></td></tr><tr><th><p>Indirect cost</p></th><td><p>A cost that cannot be identified specifically with a single cost object</p></td><td><p>To a line of business, the salary of the company’s CEO</p></td></tr><tr><th><p>Controllable Cost</p></th><td><p>A cost over which a responsibility manager has decision-making authority</p></td><td><p>To a line of business, the cost of its supplies, travel, and employee overtime</p></td></tr><tr><th><p>Noncontrollable cost</p></th><td><p>A cost over which a responsibility manager has no decision-making authority</p></td><td><p>To a line of business, home office rent and depreciation on equipment</p></td></tr><tr><th><p>Sunk cost</p></th><td><p>A cost that already has been incurred and that cannot change as a result of a current or future decision</p></td><td><p>To a line of business, the cost of new computer equipment purchased</p></td></tr><tr><th><p>Discretionary cost</p></th><td><p>A cost that can be decreased or even eliminated as a result of a management decision without stopping the production of a good or service</p></td><td><p>To a life insurer, the costs of product advertising, promotional campaigns, and employee training</p></td></tr><tr><th><p>Differential cost</p></th><td><p>The difference in cost between two alternative choices; also known as <em>incremental cost</em></p></td><td><p>To the group insurance division, the difference in cost if a new line of business is added, and if the new line is not added, to the division</p></td></tr><tr><th><p>Unit cost</p></th><td><p>A cost attributable to a single measured amount of work</p></td><td><p>To a life insurer, the costs per $1,000 of insurance issued</p></td></tr><tr><th><p>Marginal cost</p></th><td><p>The additional cost incurred as a result of producing one additional unit of an existing product or service</p></td><td><p>To a life insurer, the additional cost of processing one more policy application per hour</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -421,7 +419,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -484,7 +482,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -544,7 +542,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -607,7 +605,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -710,9 +708,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "13-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A line graph, showing fixed, variable, and semi-variable costs over sales volume.<br /><br />As volume increases, the fixed cost stays steady at $1,500.<br /><br />As volume increases, the variable costs start at $0 and rise at a steady rate.<br /><br />As volume increases, the total electricity cost starts at $1,500 and rises at the same rate as the variable costs rise. At each amount of volume sold, the total cost equals $1,500 + the variable cost at that volume."
-                        ],
+                        "image_w_text_tag": "A line graph, showing fixed, variable, and semi-variable costs over sales volume.<br /><br />As volume increases, the fixed cost stays steady at $1,500.<br /><br />As volume increases, the variable costs start at $0 and rise at a steady rate.<br /><br />As volume increases, the total electricity cost starts at $1,500 and rises at the same rate as the variable costs rise. At each amount of volume sold, the total cost equals $1,500 + the variable cost at that volume.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -916,7 +912,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1000,7 +996,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1125,7 +1121,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1209,7 +1205,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1445,7 +1441,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1508,7 +1504,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1525,7 +1521,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Can you match the type of cost with its classification? Type in the correct number in the box after the type of cost.",
@@ -1591,14 +1587,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Last year, the Heroism Life Insurance Company issued 6,000 policies for a total cost of $1,800,000. This year, the company issued 6,500 policies for a total cost of $1,900,000. What is the marginal cost of issuing the additional 500 policies?",

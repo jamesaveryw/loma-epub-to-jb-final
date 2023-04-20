@@ -321,7 +321,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: In the United States, all life insurers must undergo the analytical phase of IRIS.",
@@ -382,14 +382,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: The NAIC established the risk-based capital (RBC) requirements, which evaluate the adequacy of an insurer’s capital based on its size and risk profile.",
@@ -588,9 +588,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-9figure.jpg",
-                        "image_w_text_tag": [
-                            "NAIC zones include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Western</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Midwest</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Southeast</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Northeast</span>"
-                        ],
+                        "image_w_text_tag": "NAIC zones include<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Western</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Midwest</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Southeast</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Northeast</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -715,7 +713,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "One correct statement about financial condition examinations in the United States is that",

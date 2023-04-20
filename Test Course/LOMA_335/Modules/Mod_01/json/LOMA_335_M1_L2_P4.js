@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "A Strategically Aligned Company",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,7 +115,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "In successful companies, strategic plans align with organizational resources and operational activities in ways that clearly support the company’s mission and move the company in a coordinated manner toward common goals."
                     },
                     {
-                        "Paragraph_txt": "A company’s most senior management, working with the company’s board of directors, maintains ultimate responsibility for this company alignment. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Corporate governance</span>is the responsibility and authority of a company’s board of directors to direct senior management to fulfill its mission on behalf of the company’s stakeholders in a legal and fiscally responsible manner. Figure 2.2 presents a framework of questions that are considered in creating and maintaining a strategically aligned company. "
+                        "Paragraph_txt": "<br />A company’s most senior management, working with the company’s board of directors, maintains ultimate responsibility for this company alignment. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Corporate governance</span>is the responsibility and authority of a company’s board of directors to direct senior management to fulfill its mission on behalf of the company’s stakeholders in a legal and fiscally responsible manner. Figure 2.2 presents a framework of questions that are considered in creating and maintaining a strategically aligned company. "
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.2 Organizational Alignment Framework</strong>"
                     }
                 ]
             },
@@ -153,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "2-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A framework for creating and maintaining a strategically aligned companyis presented in five boxes that are aligned vertically on the left-handside. An arrow points downward from the first box connecting it to thesecond box, and so on until reaching the fifth box.<br /><br />The top box is labeled: <strong>Corporate Mission</strong>. To the rightof this box are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Why does our company exist?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Who are our customers?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What do our customers want?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Who are our competitors?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What advantages do we have over our competitors?</span><br /><br />The second box is labeled <strong>Corporate Strategies</strong>. To theright of this box are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How well do corporate strategies fulfill the corporate mission?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How do our corporate strategies take advantage of competitive advantages?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How might our corporate strategies adapt to new opportunities or perceivedthreats?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How might corporate strategies affect employee satisfaction?</span><br /><br />The third box is labeled: <strong>Resources. </strong>To the right of thisbox are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What financial, human, and technology resources are available to supportthe delivery of corporate strategies?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can management redeploy current resources for better support of corporatestrategies?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can management obtain needed resources that are not available internally?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can management enhance employee satisfaction to better support corporatestrategies?</span><br /><br />The fourth box is labeled: <strong>Business Processes. </strong>To theright of this box are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How well are processes supporting the accomplishment of corporate strategies?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How do we measure success?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can we modify processes when circumstances or customer needs change?</span><br /><br />The last box is labeled: <strong>Control Systems</strong>. To the rightof this box are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What outcomes are corporate strategies achieving?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How do outcomes compare to expectations outlined in the mission statementand corporate strategies?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What areas are not meeting expectations?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can the company improve operations to align better with corporatestrategies?</span>"
-                        ],
+                        "image_w_text_tag": "A framework for creating and maintaining a strategically aligned companyis presented in five boxes that are aligned vertically on the left-handside. An arrow points downward from the first box connecting it to thesecond box, and so on until reaching the fifth box.<br /><br />The top box is labeled: <strong>Corporate Mission</strong>. To the rightof this box are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Why does our company exist?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Who are our customers?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What do our customers want?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Who are our competitors?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What advantages do we have over our competitors?</span><br /><br />The second box is labeled <strong>Corporate Strategies</strong>. To theright of this box are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How well do corporate strategies fulfill the corporate mission?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How do our corporate strategies take advantage of competitive advantages?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How might our corporate strategies adapt to new opportunities or perceivedthreats?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How might corporate strategies affect employee satisfaction?</span><br /><br />The third box is labeled: <strong>Resources. </strong>To the right of thisbox are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What financial, human, and technology resources are available to supportthe delivery of corporate strategies?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can management redeploy current resources for better support of corporatestrategies?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can management obtain needed resources that are not available internally?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can management enhance employee satisfaction to better support corporatestrategies?</span><br /><br />The fourth box is labeled: <strong>Business Processes. </strong>To theright of this box are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How well are processes supporting the accomplishment of corporate strategies?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How do we measure success?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can we modify processes when circumstances or customer needs change?</span><br /><br />The last box is labeled: <strong>Control Systems</strong>. To the rightof this box are the following questions:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What outcomes are corporate strategies achieving?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How do outcomes compare to expectations outlined in the mission statementand corporate strategies?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• What areas are not meeting expectations?</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• How can the company improve operations to align better with corporatestrategies?</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -168,7 +169,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.2</strong> Organizational Alignment Framework",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -360,12 +361,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 2.3 Strategic Alignment Matrix</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "2-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A matrix with four sections illustrates that, at the best companies, purpose,strategy, and capabilities align for effectiveness. The question “How alignedis your long-term purpose?” is to the left of the matrix. The question“How aligned is your strategy with your organizational capabilities?” isunderneath the bottom of the matrix.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The upper left quadrant of the matrix includes companies that have a long-termpurpose but do not have strategies or organizational capabilities alignedwith the purpose. These companies have the best of intentions but are incapableof accomplishing those intentions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The upper right quadrant includes companies that have a long-term purposethat is aligned with strategies and organizational capabilities. Companiesin this quadrant have the very best chance of being successful.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The bottom left quadrant includes companies that do not have a long-termpurpose nor have they aligned strategy with organizational capabilities.Companies in this quadrant are the least likely to survive.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The bottom right quadrant includes companies that have aligned strategywith organizational capabilities but without a long-term purpose are goingnowhere.</span>"
-                        ],
+                        "image_w_text_tag": "A matrix with four sections illustrates that, at the best companies, purpose,strategy, and capabilities align for effectiveness. The question “How alignedis your long-term purpose?” is to the left of the matrix. The question“How aligned is your strategy with your organizational capabilities?” isunderneath the bottom of the matrix.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The upper left quadrant of the matrix includes companies that have a long-termpurpose but do not have strategies or organizational capabilities alignedwith the purpose. These companies have the best of intentions but are incapableof accomplishing those intentions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The upper right quadrant includes companies that have a long-term purposethat is aligned with strategies and organizational capabilities. Companiesin this quadrant have the very best chance of being successful.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The bottom left quadrant includes companies that do not have a long-termpurpose nor have they aligned strategy with organizational capabilities.Companies in this quadrant are the least likely to survive.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• The bottom right quadrant includes companies that have aligned strategywith organizational capabilities but without a long-term purpose are goingnowhere.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -378,7 +410,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 2.3</strong> Strategic Alignment Matrix",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -389,7 +421,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a><br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -412,6 +444,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
                     }
                 ]
             },
@@ -512,7 +577,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Correcting misalignment often requires that company leaders make tough choices about the company’s purpose, people, and processes, which can involve significant organizational and operational changes. Management uses questions like those outlined in Figure 2.2 to identify the areas that require change. Strategic management then creates plans designed to accomplish those changes and communicates the plans to employees."
                     },
                     {
-                        "Paragraph_txt": "Organizational realignment often breaks down when communicating these changes to employees. Unless employees understand the importance of the change strategies and believe the strategies will work to accomplish a stated goal that is beneficial to the company and to employees, company morale will suffer. Strong leadership and honest communication are necessary, as are policies that reward desired behaviors. Later chapters delve more deeply into the leadership, company culture, and changing business processes that are required to keep a company aligned or correct misalignment."
+                        "Paragraph_txt": "<br />Organizational realignment often breaks down when communicating these changes to employees. Unless employees understand the importance of the change strategies and believe the strategies will work to accomplish a stated goal that is beneficial to the company and to employees, company morale will suffer. Strong leadership and honest communication are necessary, as are policies that reward desired behaviors. Later chapters delve more deeply into the leadership, company culture, and changing business processes that are required to keep a company aligned or correct misalignment."
                     }
                 ]
             },
@@ -539,7 +604,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -575,22 +640,22 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Realignment</strong> "
                     },
                     {
-                        "Paragraph_txt": "The Fine Life Insurance Company’s mission is to provide insurance products with the highest level of quality service at affordable prices. Initially, the goal of quality customer service was clear in company strategies. However, as time passed, the company instituted many strategies designed for operational efficiencies. Over time, the decisions made to improve operational efficiency negatively affected the quality of service. To realign its purpose and its strategies, Fine Life Insurance had to refocus its processes on how to provide quality service. Among the actions taken during realignment were"
+                        "Paragraph_txt": "<br />The Fine Life Insurance Company’s mission is to provide insurance products with the highest level of quality service at affordable prices. Initially, the goal of quality customer service was clear in company strategies. However, as time passed, the company instituted many strategies designed for operational efficiencies. Over time, the decisions made to improve operational efficiency negatively affected the quality of service. To realign its purpose and its strategies, Fine Life Insurance had to refocus its processes on how to provide quality service. Among the actions taken during realignment were"
                     },
                     {
-                        "Paragraph_txt": "—Determining customers’ wants and needs"
+                        "Paragraph_txt": "<br />—Determining customers’ wants and needs"
                     },
                     {
-                        "Paragraph_txt": "—Hiring additional employees"
+                        "Paragraph_txt": "<br />—Hiring additional employees"
                     },
                     {
-                        "Paragraph_txt": "—Retraining existing employees"
+                        "Paragraph_txt": "<br />—Retraining existing employees"
                     },
                     {
-                        "Paragraph_txt": "—Providing employees with meaningful rewards for providing quality service"
+                        "Paragraph_txt": "<br />—Providing employees with meaningful rewards for providing quality service"
                     },
                     {
-                        "Paragraph_txt": "—Implementing new automated processes that provide customization of services to customer needs"
+                        "Paragraph_txt": "<br />—Implementing new automated processes that provide customization of services to customer needs"
                     }
                 ]
             },
@@ -617,7 +682,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -634,7 +699,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Corporate governance is the responsibility and authority of a company’s operations management to fulfill its responsibilities within corporate strategy.",
@@ -695,14 +760,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Missed financial projections and low employee morale are often indications of a misaligned organization.",

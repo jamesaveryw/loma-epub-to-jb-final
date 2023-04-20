@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "The Four Functions of Management",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -273,7 +243,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -309,7 +279,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst Mission Statement</strong> "
                     },
                     {
-                        "Paragraph_txt": "The EndiFirst Insurance Company provides customers with peace of mind by providing affordable and easy-to-purchase insurance products."
+                        "Paragraph_txt": "<br />The EndiFirst Insurance Company provides customers with peace of mind by providing affordable and easy-to-purchase insurance products."
                     }
                 ]
             },
@@ -336,7 +306,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -405,7 +375,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Planning at the strategic level requires knowledge about the environment in which the company operates. Management creates strategic plans in accordance with economic, political, and legal considerations in the company’s external environment. Strategic management must also consider the competitive environment in which the company operates. All of a company’s strategic planning efforts should support the corporate mission."
                     },
                     {
-                        "Paragraph_txt": "The broad planning targets a company attempts to achieve in support of the corporate mission are <span class=\"keyterm\" tabindex=\"0\" role=\"button\">corporate goals</span>, or <em>corporate objectives. </em> "
+                        "Paragraph_txt": "<br />The broad planning targets a company attempts to achieve in support of the corporate mission are <span class=\"keyterm\" tabindex=\"0\" role=\"button\">corporate goals</span>, or <em>corporate objectives. </em> "
                     }
                 ]
             },
@@ -432,7 +402,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -468,7 +438,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst Corporate Goal</strong> "
                     },
                     {
-                        "Paragraph_txt": "To offer, underwrite, and issue simple, affordable life and property/casualty insurance products on a digital sales platform by the year 20XX."
+                        "Paragraph_txt": "<br />To offer, underwrite, and issue simple, affordable life and property/casualty insurance products on a digital sales platform by the year 20XX."
                     }
                 ]
             },
@@ -495,7 +465,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -555,7 +525,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -591,13 +561,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst Corporate Strategies</strong>-"
                     },
                     {
-                        "Paragraph_txt": "- Purchase the most robust and cost-effective digital platform by end of business year"
+                        "Paragraph_txt": "<br />- Purchase the most robust and cost-effective digital platform by end of business year"
                     },
                     {
-                        "Paragraph_txt": "- Have digital platform operational by 20XX"
+                        "Paragraph_txt": "<br />- Have digital platform operational by 20XX"
                     },
                     {
-                        "Paragraph_txt": "- Design simplified, actuarially sound insurance products for launch by 20XX"
+                        "Paragraph_txt": "<br />- Design simplified, actuarially sound insurance products for launch by 20XX"
                     }
                 ]
             },
@@ -624,7 +594,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -684,7 +654,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -720,7 +690,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst Competitive Advantage</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst was one of the first insurance companies to provide online information and online policy service options to customers. Thus, EndiFirst sees its experience in digital as an opportunity to become the leader in providing low-cost insurance products through a digital sales platform."
+                        "Paragraph_txt": "<br />EndiFirst was one of the first insurance companies to provide online information and online policy service options to customers. Thus, EndiFirst sees its experience in digital as an opportunity to become the leader in providing low-cost insurance products through a digital sales platform."
                     }
                 ]
             },
@@ -747,7 +717,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -783,7 +753,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Corporate strategies usually extend at least three to five years into the future. Long-term plans, however, are always subject to change as circumstances in a company’s environment change. For example, EndiFirst taking longer than anticipated to research and purchase the technology it needs would delay the accomplishment of other strategies."
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Business strategies </span>are action plans for a line of business, such as a <em>product line, business unit, </em>or <em>strategic business unit (SBU). </em>In insurance companies, a product line might consist of individual life insurance and annuities or property and casualty insurance. Business strategies must carefully align to support corporate strategies."
+                        "Paragraph_txt": "<br /><span class=\"keyterm\" tabindex=\"0\" role=\"button\">Business strategies </span>are action plans for a line of business, such as a <em>product line, business unit, </em>or <em>strategic business unit (SBU). </em>In insurance companies, a product line might consist of individual life insurance and annuities or property and casualty insurance. Business strategies must carefully align to support corporate strategies."
                     }
                 ]
             },
@@ -810,7 +780,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -846,7 +816,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst Business Strategy</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst will first create its digital sales platform for its property and casualty line of business. Then EndiFirst will expand into its life insurance line as it gains experience with insurance sales on a digital platform."
+                        "Paragraph_txt": "<br />EndiFirst will first create its digital sales platform for its property and casualty line of business. Then EndiFirst will expand into its life insurance line as it gains experience with insurance sales on a digital platform."
                     }
                 ]
             },
@@ -873,7 +843,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -966,7 +936,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1002,7 +972,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst Budget Priorities</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst’s senior management plans to invest 10% of the corporate budget for each of the next three years in new technology and staff, signaling the company’s commitment to the digital strategy."
+                        "Paragraph_txt": "<br />EndiFirst’s senior management plans to invest 10% of the corporate budget for each of the next three years in new technology and staff, signaling the company’s commitment to the digital strategy."
                     }
                 ]
             },
@@ -1029,7 +999,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1188,7 +1158,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1224,7 +1194,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst Operational Planning</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst’s digital strategy requires that new simplified insurance products be ready for implementation by 20XX. EndiFirst’s Product Development Unit develops an 18-month plan that outlines the operational steps necessary to create these new products."
+                        "Paragraph_txt": "<br />EndiFirst’s digital strategy requires that new simplified insurance products be ready for implementation by 20XX. EndiFirst’s Product Development Unit develops an 18-month plan that outlines the operational steps necessary to create these new products."
                     }
                 ]
             },
@@ -1251,7 +1221,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1344,7 +1314,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1380,13 +1350,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>EndiFirst Tactics </strong> "
                     },
                     {
-                        "Paragraph_txt": "- Tactic 1: Product development manager will hire a new digital unit manager to head a digital product development unit by October 1, 20XX."
+                        "Paragraph_txt": "<br />- Tactic 1: Product development manager will hire a new digital unit manager to head a digital product development unit by October 1, 20XX."
                     },
                     {
-                        "Paragraph_txt": "- Tactic 2: Digital unit manager will have initial draft of a digital product development plan ready by December 1, 20XX for product development manager to review and finalize by January 1, 20XX."
+                        "Paragraph_txt": "<br />- Tactic 2: Digital unit manager will have initial draft of a digital product development plan ready by December 1, 20XX for product development manager to review and finalize by January 1, 20XX."
                     },
                     {
-                        "Paragraph_txt": "- Tactic 3: Digital unit manager will schedule weekly meetings with the digital unit so that everyone can report on goals and accomplishments and make adjustments as necessary to keep the digital product development plan on track."
+                        "Paragraph_txt": "<br />- Tactic 3: Digital unit manager will schedule weekly meetings with the digital unit so that everyone can report on goals and accomplishments and make adjustments as necessary to keep the digital product development plan on track."
                     }
                 ]
             },
@@ -1413,7 +1383,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1473,7 +1443,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1509,7 +1479,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Functional Expertise</strong> "
                     },
                     {
-                        "Paragraph_txt": "John Downing, the new manager for the digital project development unit, has worked in product development for 20 years. Most recently he worked with a technology company, and EndiFirst hired him because of his knowledge of digital systems and ability to problem solve. When Mr. Downing provides guidance to his team members or reviews a team member’s work, his opinions and recommendations are highly respected and easily accepted because of his functional expertise."
+                        "Paragraph_txt": "<br />John Downing, the new manager for the digital project development unit, has worked in product development for 20 years. Most recently he worked with a technology company, and EndiFirst hired him because of his knowledge of digital systems and ability to problem solve. When Mr. Downing provides guidance to his team members or reviews a team member’s work, his opinions and recommendations are highly respected and easily accepted because of his functional expertise."
                     }
                 ]
             },
@@ -1536,7 +1506,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1553,7 +1523,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The management of Time Insurance has issued the following statement: “Time will assist people in creating a comfortable secure retirement with innovative annuity products.” This statement best describes a",
@@ -1619,14 +1589,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A general plan for day-to-day activities that must occur within a stated budget is an example of",

@@ -156,9 +156,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A circular arrow to represent a cycle, with equally spaced boxes movingclockwise. Each box contains a step in quality control cycle.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Box 1: Quality planning</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Box 2: Quality monitoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Box 3: Quality analysis</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Box 4: Quality improvement</span><br /><br />After quality improvement, the cycle restarts with Box 1: Quality planning."
-                        ],
+                        "image_w_text_tag": "A circular arrow to represent a cycle, with equally spaced boxes movingclockwise. Each box contains a step in quality control cycle.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Box 1: Quality planning</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Box 2: Quality monitoring</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Box 3: Quality analysis</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Box 4: Quality improvement</span><br /><br />After quality improvement, the cycle restarts with Box 1: Quality planning.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -311,9 +309,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A sample customer persona labeled “Persona Profile.”<br /><br />An image of a person and his name and age is shown in the top left corner(Matthew, 40).<br /><br />Boxes on the page describe information that might be included in a customerpersona, as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Contact information: Accurate contact information enables easy identificationand communication with customers.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Characteristics: These characteristics often relate to a customer’s financialneeds: Demographic (age, gender, nationality), psychographic (personality,lifestyle), and household (marital status, number and ages of children).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Behaviors: A customers’ behavior patterns can help insurers identify servicestrategies that have succeeded in the past and are likely to succeed inthe future.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Level of satisfaction: A customer’s current satisfaction level with acompany and its services is an important predictor of future behavior andcan help a company determine how to maintain or improve satisfaction levels.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Interactions: A customer’s past company interactions—sales transactions,calls, visits to website, or complaints—can inform the company about thecustomer’s expectations and perceptions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Risk tolerance: A customer’s willingness or ability to accept risk canhelp a company determine the customer’s product or service needs.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Purchase: A customer’s previous purchases can help a company identifyadditional customer purchase needs.</span>"
-                        ],
+                        "image_w_text_tag": "A sample customer persona labeled “Persona Profile.”<br /><br />An image of a person and his name and age is shown in the top left corner(Matthew, 40).<br /><br />Boxes on the page describe information that might be included in a customerpersona, as follows:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Contact information: Accurate contact information enables easy identificationand communication with customers.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Characteristics: These characteristics often relate to a customer’s financialneeds: Demographic (age, gender, nationality), psychographic (personality,lifestyle), and household (marital status, number and ages of children).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Behaviors: A customers’ behavior patterns can help insurers identify servicestrategies that have succeeded in the past and are likely to succeed inthe future.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Level of satisfaction: A customer’s current satisfaction level with acompany and its services is an important predictor of future behavior andcan help a company determine how to maintain or improve satisfaction levels.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Interactions: A customer’s past company interactions—sales transactions,calls, visits to website, or complaints—can inform the company about thecustomer’s expectations and perceptions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Risk tolerance: A customer’s willingness or ability to accept risk canhelp a company determine the customer’s product or service needs.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Purchase: A customer’s previous purchases can help a company identifyadditional customer purchase needs.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -537,7 +533,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -665,7 +661,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -826,7 +822,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -922,7 +918,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1192,9 +1188,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A basic example of a dashboard graphic with stoplight indicators.<br /><br />The first row shows a sample gauge that indicates the rough number ofpremiums processed daily. A yellow dot, or stoplight, is shown underneaththe gauge. Next to the gauge is a line diagram that illustrates the trendof premiums processed by year in both the current and previous year. Anoption to “see full report” is shown below the line diagram.<br /><br />The second row shows a sample gauge that indicates the rough number ofclaims paid daily. A green dot, or stoplight, is shown underneath the gauge.Next to the gauge is a line diagram that illustrates the trend of claimspaid by year in both the current and previous year. An option to “see fullreport” is shown below the line diagram.<br /><br />The third row of images is a sample gauge that indicates the rough underwritingresponse time. A yellow dot, or stoplight, is shown underneath the gauge.Next to the gauge is a line diagram that illustrates the trend of underwritingresponse time by year in both the current and previous year. An optionto “see full report” is shown below the line diagram."
-                        ],
+                        "image_w_text_tag": "A basic example of a dashboard graphic with stoplight indicators.<br /><br />The first row shows a sample gauge that indicates the rough number ofpremiums processed daily. A yellow dot, or stoplight, is shown underneaththe gauge. Next to the gauge is a line diagram that illustrates the trendof premiums processed by year in both the current and previous year. Anoption to “see full report” is shown below the line diagram.<br /><br />The second row shows a sample gauge that indicates the rough number ofclaims paid daily. A green dot, or stoplight, is shown underneath the gauge.Next to the gauge is a line diagram that illustrates the trend of claimspaid by year in both the current and previous year. An option to “see fullreport” is shown below the line diagram.<br /><br />The third row of images is a sample gauge that indicates the rough underwritingresponse time. A yellow dot, or stoplight, is shown underneath the gauge.Next to the gauge is a line diagram that illustrates the trend of underwritingresponse time by year in both the current and previous year. An optionto “see full report” is shown below the line diagram.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1329,7 +1323,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1440,7 +1434,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1514,9 +1508,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-5figure.jpg",
-                        "image_w_text_tag": [
-                            "A control chart that plots data observations about telephone hold timesin line diagram form. Minutes, from zero to two, are on the Y-axis. Shiftnumbers under consideration, from zero to 18, are on the X-axis. A black“center line” is bolded. A red dotted line indicates the lower and uppercontrol limits. In this chart, only one data point (shift 11) goes abovethe upper control limit (1.7 minutes). No data points go below the lowercontrol limit (0.3 minutes)."
-                        ],
+                        "image_w_text_tag": "A control chart that plots data observations about telephone hold timesin line diagram form. Minutes, from zero to two, are on the Y-axis. Shiftnumbers under consideration, from zero to 18, are on the X-axis. A black“center line” is bolded. A red dotted line indicates the lower and uppercontrol limits. In this chart, only one data point (shift 11) goes abovethe upper control limit (1.7 minutes). No data points go below the lowercontrol limit (0.3 minutes).",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1625,7 +1617,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1685,7 +1677,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1858,7 +1850,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1950,7 +1942,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2046,7 +2038,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2333,7 +2325,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2532,7 +2524,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2630,7 +2622,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2740,9 +2732,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-6figure.jpg",
-                        "image_w_text_tag": [
-                            "A Pareto chart—a type of bar chart—that displays the frequency of defectsthat can be attributed to each cause.<br /><br />Percentage of total defects is on the Y-axis, and the cause is on theX-axis.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Poor instructions cause about 31% of defects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Small type causes about 28% of defects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Small blanks cause about 17% of defects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Wrong language causes about 15% of defects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Jargon causes about 9% of defects</span>"
-                        ],
+                        "image_w_text_tag": "A Pareto chart—a type of bar chart—that displays the frequency of defectsthat can be attributed to each cause.<br /><br />Percentage of total defects is on the Y-axis, and the cause is on theX-axis.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Poor instructions cause about 31% of defects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Small type causes about 28% of defects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Small blanks cause about 17% of defects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Wrong language causes about 15% of defects</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Jargon causes about 9% of defects</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -3156,9 +3146,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-7figure.jpg",
-                        "image_w_text_tag": [
-                            "A fishbone diagram. The “head” is a box that states “Defect Rate—New ClaimForm.”<br /><br />Branching off a center line are four “fish bones,” with two on top andtwo on bottom. After each fish bone is a cause of defect. Closer to thehead (top and bottom) are “Not enough space for information” and “Typeis hard to read.” Behind those (top and bottom) are “Form is in Englishonly” and “Instructions are unclear.”"
-                        ],
+                        "image_w_text_tag": "A fishbone diagram. The “head” is a box that states “Defect Rate—New ClaimForm.”<br /><br />Branching off a center line are four “fish bones,” with two on top andtwo on bottom. After each fish bone is a cause of defect. Closer to thehead (top and bottom) are “Not enough space for information” and “Typeis hard to read.” Behind those (top and bottom) are “Form is in Englishonly” and “Instructions are unclear.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -3287,7 +3275,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The first step in the quality control cycle is",
@@ -3358,14 +3346,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A performance dashboard shows a summary of company results at the end of every quarter.",
@@ -3433,7 +3421,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A companies’ cash on hand is an example of which type of performance metric?",
@@ -3499,14 +3487,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A drill-up option in a cascading report enables linking from a parent report up to a child report.",
@@ -3574,7 +3562,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Companies use different approaches when conducting quality analysis. The five-step approach that focuses on solving a problem with the goal of improving an existing business process is",
@@ -3640,14 +3628,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The Pareto principle states that a large percentage of causes contributes to a small percentage of the results.",

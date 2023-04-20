@@ -172,7 +172,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -256,7 +256,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -333,9 +333,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-1figure.jpg",
-                        "image_w_text_tag": [
-                            "A flowchart equation for calculating the cost of policy issue expenses.<br /><br />First box: Employee-related expenses of $1,500,000, includes salaries, office, equipment, software licenses, etc.<br /><br />Second box: Other policy expenses of $5,500,000, includes processing costs, premium taxes, marketing research, etc.<br /><br />Employee-related expenses of $1,500,000 + other policy expenses of $5,500,000 = Total expenses of $7,000,000<br /><br />Total expenses of $7,000,000, divided by number of policies issued of 20,000, equals unit cost of $350."
-                        ],
+                        "image_w_text_tag": "A flowchart equation for calculating the cost of policy issue expenses.<br /><br />First box: Employee-related expenses of $1,500,000, includes salaries, office, equipment, software licenses, etc.<br /><br />Second box: Other policy expenses of $5,500,000, includes processing costs, premium taxes, marketing research, etc.<br /><br />Employee-related expenses of $1,500,000 + other policy expenses of $5,500,000 = Total expenses of $7,000,000<br /><br />Total expenses of $7,000,000, divided by number of policies issued of 20,000, equals unit cost of $350.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -565,7 +563,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -917,7 +915,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -997,9 +995,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Two folders of cost allocation charts.<br /><br />Chart 1, Acquisition Expenses (First Year):<br /><br />First-year commissions: $55.00 per $100 of premiums<br /><br />Underwriting; $1.00 per $1,000 of face amount; $100.00 per policy<br /><br />Premium taxes: $2.00 per $100 of premiums<br /><br />Other expenses: $0.25 per $1,000 of face amount; $21.25 per policy<br /><br />Chart 2, Maintenance Expenses (After Year):<br /><br />Renewal commissions: $10.00 per $100 of premiums<br /><br />Premium taxes: $2.00 per $100 of premiums<br /><br />Other expenses: $0.08 per $1,000 of face amount; $9.50 per policy"
-                        ],
+                        "image_w_text_tag": "Two folders of cost allocation charts.<br /><br />Chart 1, Acquisition Expenses (First Year):<br /><br />First-year commissions: $55.00 per $100 of premiums<br /><br />Underwriting; $1.00 per $1,000 of face amount; $100.00 per policy<br /><br />Premium taxes: $2.00 per $100 of premiums<br /><br />Other expenses: $0.25 per $1,000 of face amount; $21.25 per policy<br /><br />Chart 2, Maintenance Expenses (After Year):<br /><br />Renewal commissions: $10.00 per $100 of premiums<br /><br />Premium taxes: $2.00 per $100 of premiums<br /><br />Other expenses: $0.08 per $1,000 of face amount; $9.50 per policy",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1298,7 +1294,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1521,7 +1517,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1595,9 +1591,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Two timelines of sample combination commission schedule structures. In both timelines, the surrender penalty ends at the end of Year 2.<br /><br />Timeline 1 pays a one-time 3% deposit-based commission on new premium at the beginning of Year 1, and a 0.5% asset-based commission based on accumulated contract value, starting one year following the end of the surrender penalty, at the end of each year beginning with Year 3.<br /><br />Timeline 2 pays a one-time 2% deposit-based commission on new premium during Year 1, and a 1% asset-based commission based on accumulated contract value, starting in the second contract year, at the end of each year beginning with Year 2."
-                        ],
+                        "image_w_text_tag": "Two timelines of sample combination commission schedule structures. In both timelines, the surrender penalty ends at the end of Year 2.<br /><br />Timeline 1 pays a one-time 3% deposit-based commission on new premium at the beginning of Year 1, and a 0.5% asset-based commission based on accumulated contract value, starting one year following the end of the surrender penalty, at the end of each year beginning with Year 3.<br /><br />Timeline 2 pays a one-time 2% deposit-based commission on new premium during Year 1, and a 1% asset-based commission based on accumulated contract value, starting in the second contract year, at the end of each year beginning with Year 2.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1660,7 +1654,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: Insurers typically calculate unit costs for fixed expenses as a percentage of an important contractual amount, such as the contract’s death benefit.",
@@ -1721,14 +1715,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Under marginal costing, indirect expenses are not allocated to products.",
@@ -1796,7 +1790,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: For the purposes of cost allocation, an indirect expense is one example of a cost object.",
@@ -1857,14 +1851,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In 2020, Vessel Life Insurance records a commission payment to a sales agent, Ms. Truong. The payment is equal to 4% of the premiums received for a policy that Ms. Truong sold to a customer in 2018. In 2019, Ms. Truong also stopped representing Vessel. This payment is an example of a (<strong>first-year</strong> / <strong>renewal</strong>) commission and a (<strong>vested</strong> / <strong>nonvested</strong>) commission.",

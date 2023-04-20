@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Basic Risk Management Strategies",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -202,7 +172,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -262,7 +232,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -355,7 +325,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -415,7 +385,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -508,7 +478,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -568,7 +538,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -628,7 +598,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -688,7 +658,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -869,7 +839,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Another method of managing risk is to transfer it. Transferring risk involves shifting the financial responsibility associated with that risk to another party, usually through financial products that involve a fee for the transfer. The most common way for most individuals and businesses to transfer risk is to purchase insurance coverage."
                     },
                     {
-                        "Paragraph_txt": "Insurers also transfer their risk under insurance and annuity contracts by purchasing reinsurance<em>. </em>Recall from Chapter 1 that <em>reinsurance</em> is insurance that one insurance company—known as the <em>direct writer</em>—purchases from another insurance company—known as the <em>reinsurer</em>—to transfer all or part of the risk on insurance policies that the direct writer issued."
+                        "Paragraph_txt": "<br />Insurers also transfer their risk under insurance and annuity contracts by purchasing reinsurance<em>. </em>Recall from Chapter 1 that <em>reinsurance</em> is insurance that one insurance company—known as the <em>direct writer</em>—purchases from another insurance company—known as the <em>reinsurer</em>—to transfer all or part of the risk on insurance policies that the direct writer issued."
                     }
                 ]
             },
@@ -896,7 +866,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -956,7 +926,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -992,7 +962,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "When an insurer transfers risk through reinsurance, the insurer does not necessarily avoid all exposure to risk. In such cases, the direct writer must accept the risk that the reinsurer will fail to perform its part of the agreement."
                     },
                     {
-                        "Paragraph_txt": "Note that when an insurer uses reinsurance to transfer part of the risk on a life insurance policy or annuity contract, the insurer is also <em>controlling </em>its risk exposure by sharing part of the contract’s liability. In other words, controlling risk and transferring risk are not always mutually exclusive events. Similarly, if the insurer does not transfer all of the risk on a policy or contract, the insurer is accepting any risk that remains."
+                        "Paragraph_txt": "<br />Note that when an insurer uses reinsurance to transfer part of the risk on a life insurance policy or annuity contract, the insurer is also <em>controlling </em>its risk exposure by sharing part of the contract’s liability. In other words, controlling risk and transferring risk are not always mutually exclusive events. Similarly, if the insurer does not transfer all of the risk on a policy or contract, the insurer is accepting any risk that remains."
                     }
                 ]
             },
@@ -1019,7 +989,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1079,7 +1049,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1139,7 +1109,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1199,7 +1169,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1348,7 +1318,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Through its distribution channels, an insurer hears that its customers are very concerned about paying for long term care. The insurer creates a universal life product with a long-term care rider to satisfy this need and issues policies to customers. This rider is an example of the insurer",

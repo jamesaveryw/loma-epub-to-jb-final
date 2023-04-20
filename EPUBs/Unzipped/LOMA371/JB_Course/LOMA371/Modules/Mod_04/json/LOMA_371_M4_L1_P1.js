@@ -96,7 +96,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Assume that a life insurance product offers all of the benefits below. The product’s design must incorporate the cost of which benefits? Select all that apply.",
@@ -231,9 +231,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Graphic equation.<br /><br />The present value of future cash inflows must be greater than the present value of future cash outflows.<br /><br />The present value of future cash inflows is shown as premium payments from customers plus investment earnings.<br /><br />The present value of future cash outflows is shown as charge for cost of benefits plus charge for operating expenses plus provision for adverse deviation if required."
-                        ],
+                        "image_w_text_tag": "Graphic equation.<br /><br />The present value of future cash inflows must be greater than the present value of future cash outflows.<br /><br />The present value of future cash inflows is shown as premium payments from customers plus investment earnings.<br /><br />The present value of future cash outflows is shown as charge for cost of benefits plus charge for operating expenses plus provision for adverse deviation if required.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

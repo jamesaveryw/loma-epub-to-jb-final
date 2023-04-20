@@ -337,7 +337,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -400,7 +400,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -474,9 +474,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The chart illustrates the portfolio’s risk over a period of time. Thetotal risk is comprised of specific risk and systematic risk. The levelof total risk curves downward over time.<br /><br />The level of systematic risk stays constant. Therefore, the decrease inspecific risk over time is what causes the portfolio’s total risk to curvedownward over time. Eventually, almost all of the specific risk is gone,leaving systematic risk to make up the majority of the total risk."
-                        ],
+                        "image_w_text_tag": "The chart illustrates the portfolio’s risk over a period of time. Thetotal risk is comprised of specific risk and systematic risk. The levelof total risk curves downward over time.<br /><br />The level of systematic risk stays constant. Therefore, the decrease inspecific risk over time is what causes the portfolio’s total risk to curvedownward over time. Eventually, almost all of the specific risk is gone,leaving systematic risk to make up the majority of the total risk.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -594,7 +592,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -657,7 +655,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -717,7 +715,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -780,7 +778,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -934,7 +932,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "In general, hedging is an investment risk (<strong>reduction / elimination</strong>) strategy. One of the popular investment vehicles for creating a hedge is a (<strong>common stock / derivative</strong>).",

@@ -207,7 +207,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -267,7 +267,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -341,9 +341,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-1figure.jpg",
-                        "image_w_text_tag": [
-                            "A chart comparing the mortality rates per 1,000 calculated based on various industry tables, for issue age 55, male.<br /><br />Line one, tabular mortality rates, is listed at 100%. The line curves sharply.<br /><br />Line two, mortality rates with projection, is listed at 30%. The line curves more gradually, at a fraction of the height of the first line."
-                        ],
+                        "image_w_text_tag": "A chart comparing the mortality rates per 1,000 calculated based on various industry tables, for issue age 55, male.<br /><br />Line one, tabular mortality rates, is listed at 100%. The line curves sharply.<br /><br />Line two, mortality rates with projection, is listed at 30%. The line curves more gradually, at a fraction of the height of the first line.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -449,7 +447,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -509,7 +507,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -583,9 +581,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Box 1: Differentiation by Demographic Group<br /><br />Subtypes: Population Mortality Tables<br /><br />Box 2: Differentiation by Product Type<br /><br />Subtypes: Life Insurance Mortality Tables, Annuity Mortality Tables<br /><br />Box 3: Differentiation by Purpose<br /><br />Subtypes: Basic Mortality Tables, Valuation Mortality Tables<br /><br />Box 4: Differentiation by Underwriting Characteristics<br /><br />Subtypes: Select Mortality Tables, Ultimate Mortality Tables, Select and Ultimate Mortality Tables<br /><br />Box 5: Differentiation by Sex<br /><br />Subtypes: Sex-distinct Mortality Tables, Unisex Mortality Tables<br /><br />Box 6: Differentiation by Availability to Public<br /><br />Subtypes: Proprietary Mortality Tables, Published Mortality Tables<br /><br />Box 7: Differentiation by Incorporated Rate Adjustments<br /><br />Subtypes: Static Mortality Tables, Generational Mortality Tables, Mortality Tables with Projection"
-                        ],
+                        "image_w_text_tag": "Box 1: Differentiation by Demographic Group<br /><br />Subtypes: Population Mortality Tables<br /><br />Box 2: Differentiation by Product Type<br /><br />Subtypes: Life Insurance Mortality Tables, Annuity Mortality Tables<br /><br />Box 3: Differentiation by Purpose<br /><br />Subtypes: Basic Mortality Tables, Valuation Mortality Tables<br /><br />Box 4: Differentiation by Underwriting Characteristics<br /><br />Subtypes: Select Mortality Tables, Ultimate Mortality Tables, Select and Ultimate Mortality Tables<br /><br />Box 5: Differentiation by Sex<br /><br />Subtypes: Sex-distinct Mortality Tables, Unisex Mortality Tables<br /><br />Box 6: Differentiation by Availability to Public<br /><br />Subtypes: Proprietary Mortality Tables, Published Mortality Tables<br /><br />Box 7: Differentiation by Incorporated Rate Adjustments<br /><br />Subtypes: Static Mortality Tables, Generational Mortality Tables, Mortality Tables with Projection",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -648,7 +644,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A product design team working for Metric Life Insurance anticipates that recent medical advances may cause mortality rates to decline slightly in the near future. To anticipate this potential change in mortality, the team decides to adjust their mortality tables by multiplying the mortality rates by 80 percent. This adjustment is an example of the",

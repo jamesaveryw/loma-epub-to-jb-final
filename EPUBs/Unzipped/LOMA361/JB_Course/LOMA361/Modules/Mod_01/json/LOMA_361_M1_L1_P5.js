@@ -260,9 +260,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-6figure.jpg",
-                        "image_w_text_tag": [
-                            "Before:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Oversee bookkeeping</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ensure compliance with regulations</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ensure effective controls are in place</span><br /><br />Now (All of “Before” plus…):<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Contribute to the overall direction of the company by participating in strategic analysis and decision making</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Discover ways to improve operating efficiency</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Acquire business knowledge beyond accounting</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Build relationships and share information with other company leaders</span>"
-                        ],
+                        "image_w_text_tag": "Before:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Oversee bookkeeping</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ensure compliance with regulations</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ensure effective controls are in place</span><br /><br />Now (All of “Before” plus…):<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Contribute to the overall direction of the company by participating in strategic analysis and decision making</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Discover ways to improve operating efficiency</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Acquire business knowledge beyond accounting</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Build relationships and share information with other company leaders</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

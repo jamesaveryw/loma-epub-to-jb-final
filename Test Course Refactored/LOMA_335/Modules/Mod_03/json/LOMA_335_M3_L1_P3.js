@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "The ABCDs of Decision Making",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -147,12 +117,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.2 The ABCDs of Categorizing Decisions</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "7-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A matrix with four sections describes different types of decisions. They-axis of the matrix identifies the scope and impact of decisions fromnarrow at the bottom to broad at the top. The x-axis of the matrix identifiesthe level of familiarity with the decision as being unfamiliar and infrequentfrom the left side of the matrix to familiar and frequent on the rightside.<br /><br />The top, left-hand section of the matrix is “Big-bet decisions.” Thesedecisions have broad scope and impact but are unfamiliar and infrequent.The top, right-hand section of the matrix is “Cross-cutting decisions.”These decisions have broad scope and impact but are familiar and frequent.The bottom, left-hand section of the matrix is “Ad hoc decisions.” Thesedecisions are narrow in scope and impact and are unfamiliar and infrequent.The bottom, right-hand section of the matrix is “Delegated decisions.”These decisions are narrow in scope and impact and familiar and frequent."
-                        ],
+                        "image_w_text_tag": "A matrix with four sections describes different types of decisions. They-axis of the matrix identifies the scope and impact of decisions fromnarrow at the bottom to broad at the top. The x-axis of the matrix identifiesthe level of familiarity with the decision as being unfamiliar and infrequentfrom the left side of the matrix to familiar and frequent on the rightside.<br /><br />The top, left-hand section of the matrix is “Big-bet decisions.” Thesedecisions have broad scope and impact but are unfamiliar and infrequent.The top, right-hand section of the matrix is “Cross-cutting decisions.”These decisions have broad scope and impact but are familiar and frequent.The bottom, left-hand section of the matrix is “Ad hoc decisions.” Thesedecisions are narrow in scope and impact and are unfamiliar and infrequent.The bottom, right-hand section of the matrix is “Delegated decisions.”These decisions are narrow in scope and impact and familiar and frequent.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -165,7 +166,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.2</strong> The ABCDs of Categorizing Decisions",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -176,7 +177,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a><br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -199,6 +200,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
                     }
                 ]
             },
@@ -258,7 +292,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -294,7 +328,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Ad Hoc Decision</strong> "
                     },
                     {
-                        "Paragraph_txt": "Mary is responsible for ordering office supplies. The office is out of pens because her supplier did not have the pens she ordered in stock. Mary decides to go to a local office supply store and buy pens for the office rather than waiting until the next week when the supplier will have the pens in stock. Mary made this decision without consulting her manager because she knew that her manager would want her to handle such a small problem herself."
+                        "Paragraph_txt": "<br />Mary is responsible for ordering office supplies. The office is out of pens because her supplier did not have the pens she ordered in stock. Mary decides to go to a local office supply store and buy pens for the office rather than waiting until the next week when the supplier will have the pens in stock. Mary made this decision without consulting her manager because she knew that her manager would want her to handle such a small problem herself."
                     }
                 ]
             },
@@ -321,7 +355,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -381,7 +415,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -417,7 +451,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Big-Bet Decision</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst’s decision to develop a new self-service portal for its customers requires the participation of all company divisions, including extensive involvement by IT."
+                        "Paragraph_txt": "<br />EndiFirst’s decision to develop a new self-service portal for its customers requires the participation of all company divisions, including extensive involvement by IT."
                     }
                 ]
             },
@@ -444,7 +478,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -537,7 +571,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -573,7 +607,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Cross-Cutting Decision</strong> "
                     },
                     {
-                        "Paragraph_txt": "EndiFirst’s product development team includes representatives from the company’s marketing, underwriting, contract administration, actuarial, investments, information technology, customer service, legal, and accounting areas. This cross-functional team is considering creating a new life insurance product that will require extensive collaboration to get to market in a timely and profitable way."
+                        "Paragraph_txt": "<br />EndiFirst’s product development team includes representatives from the company’s marketing, underwriting, contract administration, actuarial, investments, information technology, customer service, legal, and accounting areas. This cross-functional team is considering creating a new life insurance product that will require extensive collaboration to get to market in a timely and profitable way."
                     }
                 ]
             },
@@ -600,7 +634,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -693,7 +727,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -729,7 +763,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Delegated Decision</strong> "
                     },
                     {
-                        "Paragraph_txt": "Tom has been trained to follow customer service procedures for responding to customers’ insurance policy requests. Tom knows how to use the automated system to deliver the appropriate information in almost all customer service situations without any involvement from management."
+                        "Paragraph_txt": "<br />Tom has been trained to follow customer service procedures for responding to customers’ insurance policy requests. Tom knows how to use the automated system to deliver the appropriate information in almost all customer service situations without any involvement from management."
                     }
                 ]
             },
@@ -756,7 +790,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -773,7 +807,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "In the ABCD categories of decisions, a low-risk decision that is made frequently is known as",
@@ -844,14 +878,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "In the ABCD categories of decisions, cross-cutting decisions are decisions that (choose all that are correct)",

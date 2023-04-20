@@ -162,9 +162,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Benefits of strong solvency:<br /><br />Increased ability to withstand economic downturns<br /><br />Ability to support more business<br /><br />Reduced regulatory scrutiny<br /><br />Stronger foundation to pursue new initiatives<br /><br />Higher ratings from rating agencies<br /><br />Increased employee job security<br /><br />Ability to attract top industry talent<br /><br />Greater customer confidence<br /><br />Reduced risk of regulator control"
-                        ],
+                        "image_w_text_tag": "Benefits of strong solvency:<br /><br />Increased ability to withstand economic downturns<br /><br />Ability to support more business<br /><br />Reduced regulatory scrutiny<br /><br />Stronger foundation to pursue new initiatives<br /><br />Higher ratings from rating agencies<br /><br />Increased employee job security<br /><br />Ability to attract top industry talent<br /><br />Greater customer confidence<br /><br />Reduced risk of regulator control",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -309,7 +307,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -530,7 +528,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -666,9 +664,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Benefits of strong profitability:<br /><br />More cash available for investing<br /><br />Greater growth and capacity to serve more customers<br /><br />Lower interest rates on borrowed funds<br /><br />Higher ratings from rating agencies<br /><br />More funds to support new products and distribution channels<br /><br />Higher policy or stockholder dividends<br /><br />Greater ability to price products competitively<br /><br />Greater capacity to invest in customer service improvements<br /><br />Greater ability to attract and retain employees"
-                        ],
+                        "image_w_text_tag": "Benefits of strong profitability:<br /><br />More cash available for investing<br /><br />Greater growth and capacity to serve more customers<br /><br />Lower interest rates on borrowed funds<br /><br />Higher ratings from rating agencies<br /><br />More funds to support new products and distribution channels<br /><br />Higher policy or stockholder dividends<br /><br />Greater ability to price products competitively<br /><br />Greater capacity to invest in customer service improvements<br /><br />Greater ability to attract and retain employees",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -823,7 +819,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "All of the following are benefits of strong solvency EXCEPT:",
@@ -894,14 +890,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Which of the following investment transactions typically represent a LOWER risk with LOWER potential returns? (Check all that apply.)",

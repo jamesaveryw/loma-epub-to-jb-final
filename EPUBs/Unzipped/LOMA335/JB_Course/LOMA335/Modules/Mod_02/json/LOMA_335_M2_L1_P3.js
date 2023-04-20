@@ -344,9 +344,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Flow chart with four steps progressing toward a node.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Self-service portal login</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Select “Make premium payment”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Enter billing information</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Select “confirm”</span><br /><br />Question in node reads “problems?”<br /><br />Flow chart continues:<br /><br />If no to problems, payment complete.<br /><br />If yes to problems, (a) call customer service, (b) select “2” for payments,(c) CSR processes payment."
-                        ],
+                        "image_w_text_tag": "Flow chart with four steps progressing toward a node.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Self-service portal login</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Select “Make premium payment”</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Enter billing information</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Select “confirm”</span><br /><br />Question in node reads “problems?”<br /><br />Flow chart continues:<br /><br />If no to problems, payment complete.<br /><br />If yes to problems, (a) call customer service, (b) select “2” for payments,(c) CSR processes payment.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -491,7 +489,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -584,7 +582,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -601,7 +599,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "A process improvement initiative has five basic steps. The first step in this process is to",
@@ -662,14 +660,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A process charter establishes the authority and accountability of a team. The team member who is responsible for the direction of the process but who does not perform duties related to the process is identified as the",
@@ -742,7 +740,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Within a process, an activity is the smallest unit to undergo analysis.",
@@ -931,7 +929,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1024,7 +1022,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1084,7 +1082,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1174,7 +1172,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1248,9 +1246,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A large display with the heading “customer service.” Underneath the heading,a list of call center statistics that shows 5 calls waiting, 0 calls abandoned,20 customer service representatives, 80 calls answered on time, and a longesthold time of 45 seconds.<br /><br />Beneath the screen, a computer monitor that shows a popup with the samestatistics for individual viewing."
-                        ],
+                        "image_w_text_tag": "A large display with the heading “customer service.” Underneath the heading,a list of call center statistics that shows 5 calls waiting, 0 calls abandoned,20 customer service representatives, 80 calls answered on time, and a longesthold time of 45 seconds.<br /><br />Beneath the screen, a computer monitor that shows a popup with the samestatistics for individual viewing.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1373,9 +1369,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Four typical balanced scorecard perspectives are financial performance,customer satisfaction, internal operations, and learning and growth.<br /><br />Financial performance refers to considering company’s ongoing financialhealth. Customer satisfaction refers to gathering information on how customersview the company. Internal operations refers to analyzing operations throughmetrics such as efficiency and quality. Learning and growth refers to focusingon company’s ability to improve and adapt to circumstances."
-                        ],
+                        "image_w_text_tag": "Four typical balanced scorecard perspectives are financial performance,customer satisfaction, internal operations, and learning and growth.<br /><br />Financial performance refers to considering company’s ongoing financialhealth. Customer satisfaction refers to gathering information on how customersview the company. Internal operations refers to analyzing operations throughmetrics such as efficiency and quality. Learning and growth refers to focusingon company’s ability to improve and adapt to circumstances.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1481,7 +1475,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1604,7 +1598,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1664,7 +1658,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1757,7 +1751,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1856,7 +1850,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1946,7 +1940,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2134,7 +2128,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2194,7 +2188,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2378,9 +2372,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Ascending stairs. Each stair depicts a different level of belt in orderof expertise from least to greatest: white belt, yellow belt, green belt,black belt, master black belt.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A white belt has a basic understanding of Six Sigma and supports Six Sigmaprojects.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A yellow belt is trained to integrate Six Sigma initiatives into workenvironment.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A green belt is trained in Six Sigma and works part-time on Six Sigmaprojects while maintaining other responsibilities.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A black belt is a fully dedicated Six Sigma expert and team leader whois responsible for Six Sigma improvement results.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A master black belt is an expert who coaches Black Belts throughout SixSigma projects and has extensive knowledge of statistics.</span>"
-                        ],
+                        "image_w_text_tag": "Ascending stairs. Each stair depicts a different level of belt in orderof expertise from least to greatest: white belt, yellow belt, green belt,black belt, master black belt.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A white belt has a basic understanding of Six Sigma and supports Six Sigmaprojects.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A yellow belt is trained to integrate Six Sigma initiatives into workenvironment.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A green belt is trained in Six Sigma and works part-time on Six Sigmaprojects while maintaining other responsibilities.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A black belt is a fully dedicated Six Sigma expert and team leader whois responsible for Six Sigma improvement results.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• A master black belt is an expert who coaches Black Belts throughout SixSigma projects and has extensive knowledge of statistics.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -2596,7 +2588,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2689,7 +2681,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2785,7 +2777,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -2875,7 +2867,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -3096,7 +3088,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Process analysis requires evaluating a process to determine the effectiveness of existing resources and the efficiency of workflow. A visual representation of the units responsible for a process on a simple process map is known as a",
@@ -3157,14 +3149,14 @@ Lesson_Data_File([
                         "Question_type": "2",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A balanced scorecard displays a set of key performance indicators and compares the values to performance standards. A company typically uses a balanced scorecard to keep track of [check all that apply]",
@@ -3242,7 +3234,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The continuous process improvement approach for defining, measuring, analyzing, improving, and controlling quality by reducing process defects is",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Users of Accounting Information",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -202,7 +172,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -238,7 +208,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Caridad is the chief financial officer (CFO) for the Sandpiper Life Insurance Company. Kurt works in Sandpiper’s policyowner service department. Darren is a manager in Sandpiper’s accounting function."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Caridad, Kurt, and Darren are all internal users of Sandpiper’s accounting information. In addition, each has a direct financial interest in Sandpiper’s financial performance. If Sandpiper’s financial performance suffers, all three could risk stagnant salaries—or even worse, they could lose their jobs."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Caridad, Kurt, and Darren are all internal users of Sandpiper’s accounting information. In addition, each has a direct financial interest in Sandpiper’s financial performance. If Sandpiper’s financial performance suffers, all three could risk stagnant salaries—or even worse, they could lose their jobs."
                     }
                 ]
             },
@@ -265,7 +235,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -369,7 +339,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -405,7 +375,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Shu-Ling Lee is insured by a Sandpiper policy, and her husband and children are beneficiaries of that policy. Kara owns stock in Sandpiper. Winifred and Fingal are independent agents who sell Sandpiper’s life insurance policies."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> The Lee family, Kara, Winifred, and Fingal are external users of Sandpiper’s financial information. If Sandpiper fails to perform well, each could suffer financially; therefore, they all have a direct financial interest in Sandpiper’s performance."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> The Lee family, Kara, Winifred, and Fingal are external users of Sandpiper’s financial information. If Sandpiper fails to perform well, each could suffer financially; therefore, they all have a direct financial interest in Sandpiper’s performance."
                     }
                 ]
             },
@@ -432,7 +402,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -492,7 +462,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -528,7 +498,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Sujatha works in the life insurance division of the federal tax office. Riley works for a rating agency that compiles data about the Sandpiper Life Insurance Company. Casper works for the insurance commissioner’s office in the jurisdiction in which Sandpiper is located. He is on the team that conducts financial condition examinations of Sandpiper."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Sujatha and the tax office that employs her, Riley and the rating agency that employs him, and Casper and the insurance commissioner’s office that employs him are external users of Sandpiper’s financial information. All of these parties have an indirect financial interest in Sandpiper’s financial information."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Sujatha and the tax office that employs her, Riley and the rating agency that employs him, and Casper and the insurance commissioner’s office that employs him are external users of Sandpiper’s financial information. All of these parties have an indirect financial interest in Sandpiper’s financial information."
                     }
                 ]
             },
@@ -555,7 +525,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -615,7 +585,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -651,7 +621,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Sarah serves on the board of directors of the Sandpiper Life Insurance Company and owns several Sandpiper life insurance policies. Sandpiper stockholder Andrew is also a Sandpiper employee. Dorothy works for a federal agency that oversees Sandpiper and other life insurance companies, and she is also the beneficiary of a Sandpiper life insurance policy."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Sarah and Andrew are both internal users and external users of Sandpiper’s financial information. Dorothy is an external user who has both a direct financial interest and an indirect financial interest in Sandpiper’s financial performance."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Sarah and Andrew are both internal users and external users of Sandpiper’s financial information. Dorothy is an external user who has both a direct financial interest and an indirect financial interest in Sandpiper’s financial performance."
                     }
                 ]
             },
@@ -678,7 +648,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -716,12 +686,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.2 Users of Accounting Information</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "1-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Internal users with a direct financial interest in a life insurance company include employees, directors, and officers.<br /><br />External users with a direct financial interest in the company include individual policyowners, group policyholders, beneficiaries, insureds, stockholders, agents, reinsurers, and creditors.<br /><br />External users with an indirect financial interest include external auditors, federal agencies, state insurance departments, independent rating agencies, tax authorities, and competing companies."
-                        ],
+                        "image_w_text_tag": "Internal users with a direct financial interest in a life insurance company include employees, directors, and officers.<br /><br />External users with a direct financial interest in the company include individual policyowners, group policyholders, beneficiaries, insureds, stockholders, agents, reinsurers, and creditors.<br /><br />External users with an indirect financial interest include external auditors, federal agencies, state insurance departments, independent rating agencies, tax authorities, and competing companies.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -734,7 +735,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.2</strong> Users of Accounting Information",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -784,7 +785,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "An independent rating agency has assigned a rating to the Sundog Life Insurance Company. This rating agency is an example of an (<strong>internal</strong> / <strong>external</strong>) user of Sundog’s financial information, and the agency has (<strong>a direct</strong> / <strong>an indirect</strong>) financial interest in Sundog’s performance.",
@@ -855,14 +856,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: Internal users of a company’s financial information typically have a direct financial interest in the company, whereas external users can have either a direct or an indirect financial interest in the company.",
@@ -951,12 +952,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 1.3 The Accounting System</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "1-3figure.jpg",
-                        "image_w_text_tag": [
-                            "An insurer’s accounting system captures data from business transactions in 5 steps:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Business transactions occur</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer collects data from the transactions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer processes data</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer produces reports that turn data into information</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer shares reports with internal and external users</span>"
-                        ],
+                        "image_w_text_tag": "An insurer’s accounting system captures data from business transactions in 5 steps:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Business transactions occur</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer collects data from the transactions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer processes data</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer produces reports that turn data into information</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer shares reports with internal and external users</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -969,7 +1001,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 1.3</strong> The Accounting System",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",

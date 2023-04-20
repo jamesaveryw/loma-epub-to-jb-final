@@ -451,9 +451,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-1figure.jpg",
-                        "image_w_text_tag": [
-                            "The purpose of both the AVR and the IMR is to allow investment lossesto affect capital and surplus gradually, avoiding short-term fluctuations.<br /><br />The ending balance of both the AVR and the IMR are generally reportedon the statutory balance sheet as a liability.<br /><br />The AVR absorbs gains and losses caused by credit risk and equity risk;the IMR absorbs gains and losses caused by interest-rate risk.<br /><br />The AVR typically applies to all types of invested assets, including bonds,preferred stock, derivatives, mortgages, common stock, and real estate;the IMR typically applies to debt securities, such as bonds, mortgages,mortgage-backed securities, and preferred stock.<br /><br />The AVR applies to both realized and unrealized gains and losses; theIMR applies to realized gains and losses only."
-                        ],
+                        "image_w_text_tag": "The purpose of both the AVR and the IMR is to allow investment lossesto affect capital and surplus gradually, avoiding short-term fluctuations.<br /><br />The ending balance of both the AVR and the IMR are generally reportedon the statutory balance sheet as a liability.<br /><br />The AVR absorbs gains and losses caused by credit risk and equity risk;the IMR absorbs gains and losses caused by interest-rate risk.<br /><br />The AVR typically applies to all types of invested assets, including bonds,preferred stock, derivatives, mortgages, common stock, and real estate;the IMR typically applies to debt securities, such as bonds, mortgages,mortgage-backed securities, and preferred stock.<br /><br />The AVR applies to both realized and unrealized gains and losses; theIMR applies to realized gains and losses only.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -516,7 +514,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "What do the asset valuation reserve (AVR) and the interest maintenance reserve (IMR) have in common?",

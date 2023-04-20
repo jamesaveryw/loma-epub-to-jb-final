@@ -162,9 +162,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-1figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p class=\"txt\">Type of Income</p></th><th><p class=\"txt\">Received?</p></th><th><p class=\"txt\">Earned?</p></th><th><p class=\"txt\">Account Classification</p></th></tr><tr><th><p class=\"txt\"><em>Collected income</em></p></th><td><p class=\"txt\">Yes</p></td><td><p class=\"txt\">Maybe</p></td><td><p class=\"txt\">Revenue or Liability</p></td></tr><tr><th><p class=\"txt\"><em>Unearned income</em></p></th><td><p class=\"txt\">Yes</p></td><td><p class=\"txt\">No</p></td><td><p class=\"txt\">Liability</p></td></tr><tr><th><p class=\"txt\"><em>Uncollected income</em></p></th><td><p class=\"txt\">No</p></td><td><p class=\"txt\">Yes</p></td><td><p class=\"txt\">Asset</p></td></tr><tr><th><p class=\"txt\"><em>Accrued income</em></p></th><td><p class=\"txt\">No</p></td><td><p class=\"txt\">Yes</p></td><td><p class=\"txt\">Asset</p></td></tr><tr><th><p class=\"txt\"><em>Deferred income</em></p></th><td><p class=\"txt\">No</p></td><td><p class=\"txt\">No</p></td><td><p class=\"txt\">Asset</p></td></tr></tbody></table>[[NEEDS EDIT!!]]<strong><em>Collected Income:</em> </strong> The amount of income, includingcertain adjustments, received in cash during an accounting period. Collectedpremium income can have both an earned portion and an unearned portionif the policy anniversary date is after the financial reporting date.<br /><br /><strong><em>Unearned income</em>: </strong> A subset of collected incomethat has not yet been earned. An <em>unearned premium</em> is that portionof the insurance premium received in one reporting period, but applicableto the insurance coverage to be provided in the following period but beforethe next policy anniversary date. Unearned premiums usually apply to disabilityincome (DI) insurance premiums and not to individual life insurance premiumsor annuity considerations.<br /><br /><strong><em>Uncollected income:</em> </strong> Income, including uncollectedpremiums on individual life insurance, that is due before the financialreporting date, but which the insurer has not received as of the financialreporting date.<br /><br /><strong><em>Accrued income:</em> </strong> Income that the insurer hasalready earned but which is receivable after the end of the accountingperiod. The income is a result of a contractual arrangement and is legallycollectible. Accrued income typically applies to investment income, suchas interest or dividends on an insurer’s invested assets. Premium incometypically is not classified as accrued income because individual policyownershave no legal obligation to pay premiums.<br /><br /><strong><em>Deferred income:</em> </strong> Deferred premiums for individuallife insurance policies are due after the statutory reporting date butbefore the next policy anniversary date. Deferred premiums apply to premiumpayments made more frequently than annually—for example, monthly or quarterly. <em>Deferred Premiums</em>,an asset account, is established to offset the overstated reserve, a liability."
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p class=\"txt\">Type of Income</p></th><th><p class=\"txt\">Received?</p></th><th><p class=\"txt\">Earned?</p></th><th><p class=\"txt\">Account Classification</p></th></tr><tr><th><p class=\"txt\"><em>Collected income</em></p></th><td><p class=\"txt\">Yes</p></td><td><p class=\"txt\">Maybe</p></td><td><p class=\"txt\">Revenue or Liability</p></td></tr><tr><th><p class=\"txt\"><em>Unearned income</em></p></th><td><p class=\"txt\">Yes</p></td><td><p class=\"txt\">No</p></td><td><p class=\"txt\">Liability</p></td></tr><tr><th><p class=\"txt\"><em>Uncollected income</em></p></th><td><p class=\"txt\">No</p></td><td><p class=\"txt\">Yes</p></td><td><p class=\"txt\">Asset</p></td></tr><tr><th><p class=\"txt\"><em>Accrued income</em></p></th><td><p class=\"txt\">No</p></td><td><p class=\"txt\">Yes</p></td><td><p class=\"txt\">Asset</p></td></tr><tr><th><p class=\"txt\"><em>Deferred income</em></p></th><td><p class=\"txt\">No</p></td><td><p class=\"txt\">No</p></td><td><p class=\"txt\">Asset</p></td></tr></tbody></table>[[NEEDS EDIT!!]]<strong><em>Collected Income:</em> </strong> The amount of income, includingcertain adjustments, received in cash during an accounting period. Collectedpremium income can have both an earned portion and an unearned portionif the policy anniversary date is after the financial reporting date.<br /><br /><strong><em>Unearned income</em>: </strong> A subset of collected incomethat has not yet been earned. An <em>unearned premium</em> is that portionof the insurance premium received in one reporting period, but applicableto the insurance coverage to be provided in the following period but beforethe next policy anniversary date. Unearned premiums usually apply to disabilityincome (DI) insurance premiums and not to individual life insurance premiumsor annuity considerations.<br /><br /><strong><em>Uncollected income:</em> </strong> Income, including uncollectedpremiums on individual life insurance, that is due before the financialreporting date, but which the insurer has not received as of the financialreporting date.<br /><br /><strong><em>Accrued income:</em> </strong> Income that the insurer hasalready earned but which is receivable after the end of the accountingperiod. The income is a result of a contractual arrangement and is legallycollectible. Accrued income typically applies to investment income, suchas interest or dividends on an insurer’s invested assets. Premium incometypically is not classified as accrued income because individual policyownershave no legal obligation to pay premiums.<br /><br /><strong><em>Deferred income:</em> </strong> Deferred premiums for individuallife insurance policies are due after the statutory reporting date butbefore the next policy anniversary date. Deferred premiums apply to premiumpayments made more frequently than annually—for example, monthly or quarterly. <em>Deferred Premiums</em>,an asset account, is established to offset the overstated reserve, a liability.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -359,7 +357,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Income that is due before the financial reporting date, but which the insurer has not received as of the financial reporting date, is known as",
@@ -425,14 +423,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "An insurer records investment income that is receivable after the end of the accounting period as (<strong>accrued income </strong>/<strong> deferred income</strong>), which the insurer (<strong>has earned </strong>/<strong> has not earned</strong>).",
@@ -641,9 +639,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-2figure.jpg",
-                        "image_w_text_tag": [
-                            "<span style=\"text-indent:-1em;margin-left:1em;\"• Receive application and initial premium</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Premium suspense or premium income?<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>Premium suspense: Go to 3</li><li>Premium income: Go to 4</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Record initial premium as premium suspense<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>Underwriting review and approval</li><li>Policy issue</li><li>Record premium as premium income</li><li>Go to 5</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Record initial premium as premium income<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>Underwriting review and approval</li><li>Policy issue</li><li>Go to 5</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Enter policy data on in-force file</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Send renewal premium notice and bill to policyowner</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Payment received?<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>No: Send reminder notice; go to 8</li><li>Yes: Go to 9</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Payment received?<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>No: Exercise policy lapse or nonforfeiture option</li><li>Yes: Go to 9</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Receive payment and update in-force file</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Record premium income</span>"
-                        ],
+                        "image_w_text_tag": "<span style=\"text-indent:-1em;margin-left:1em;\"• Receive application and initial premium</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Premium suspense or premium income?<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>Premium suspense: Go to 3</li><li>Premium income: Go to 4</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Record initial premium as premium suspense<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>Underwriting review and approval</li><li>Policy issue</li><li>Record premium as premium income</li><li>Go to 5</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Record initial premium as premium income<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>Underwriting review and approval</li><li>Policy issue</li><li>Go to 5</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Enter policy data on in-force file</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Send renewal premium notice and bill to policyowner</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Payment received?<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>No: Send reminder notice; go to 8</li><li>Yes: Go to 9</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Payment received?<ol start=\"1\" style=\"list-style-type: lower-alpha;\"><li>No: Exercise policy lapse or nonforfeiture option</li><li>Yes: Go to 9</li></ol></span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Receive payment and update in-force file</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Record premium income</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -870,7 +866,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The basic accounting entry used to record premium income on most insurance products consists of a (<strong>debit </strong>/ <strong>credit</strong>) to an asset account, such as<em> Cash</em>, and a (<strong>debit </strong>/ <strong>credit</strong>) to a revenue account, such as <em>Premium Income</em>.",
@@ -941,14 +937,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "After an insurer has deducted expenses and amortization from the investment income earned during the reporting period, the income that remains is the insurer’s (<strong>gross investment income </strong>/ <strong>net investment income</strong>).",

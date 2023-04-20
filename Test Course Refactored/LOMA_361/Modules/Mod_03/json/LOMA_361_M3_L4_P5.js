@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Types of Budgets",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -243,7 +213,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">operational budget</span> is a budget that covers part or all of a company’s core business operations, such as underwriting and claims. An operational budget reflects the financial steps the company will take during the coming year to achieve its objectives, such as releasing new products or reducing overhead. Typically, a company incorporates multiple operational budgets into the master budget, as discussed previously."
                     },
                     {
-                        "Paragraph_txt": "All operational budgets begin with a forecast of sales revenues and investment income. Insurers use one or more forecasting techniques to create this projection. Although the format and content of operational budgets vary widely among companies, operational budgets show the revenues or expenses that a company expects during a specified accounting period. Two basic types of operational budgets are revenue budgets and expense budgets."
+                        "Paragraph_txt": "<br />All operational budgets begin with a forecast of sales revenues and investment income. Insurers use one or more forecasting techniques to create this projection. Although the format and content of operational budgets vary widely among companies, operational budgets show the revenues or expenses that a company expects during a specified accounting period. Two basic types of operational budgets are revenue budgets and expense budgets."
                     }
                 ]
             },
@@ -405,12 +375,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 15.3 A Revenue Budget</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "15-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Revenue Budget ($000s), Quarter 1<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p style=\"text-align: center;\">Premium Income</p></th></tr><tr><td><p>Individual Life Insurance</p></td><td><p style=\"text-align: right;\">$5,008</p></td></tr><tr><td><p>Individual annuities</p></td><td><p style=\"text-align: right;\">4,427</p></td></tr><tr><td><p>Group life insurance</p></td><td><p style=\"text-align: right;\">3,606</p></td></tr><tr><td><p>Total Premium Income</p></td><td><p style=\"text-align: right;\">$13,401</p></td></tr><tr><th colspan=\"2\"><p style=\"text-align: center;\">Investment Income</p></th></tr><tr><td><p>From long-term securities</p></td><td><p style=\"text-align: right;\">$1,926</p></td></tr><tr><td><p>From short-term securities</p></td><td><p style=\"text-align: right;\">$2,735</p></td></tr><tr><td><p>Mortgage income</p></td><td><p style=\"text-align: right;\">$1,127</p></td></tr><tr><td><p>Total Investment Income</p></td><td><p style=\"text-align: right;\">$5,788</p></td></tr><tr><td><p><strong>Total Revenues</strong></p></td><td><p style=\"text-align: right;\">$18,829</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "Revenue Budget ($000s), Quarter 1<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p style=\"text-align: center;\">Premium Income</p></th></tr><tr><td><p>Individual Life Insurance</p></td><td><p style=\"text-align: right;\">$5,008</p></td></tr><tr><td><p>Individual annuities</p></td><td><p style=\"text-align: right;\">4,427</p></td></tr><tr><td><p>Group life insurance</p></td><td><p style=\"text-align: right;\">3,606</p></td></tr><tr><td><p>Total Premium Income</p></td><td><p style=\"text-align: right;\">$13,401</p></td></tr><tr><th colspan=\"2\"><p style=\"text-align: center;\">Investment Income</p></th></tr><tr><td><p>From long-term securities</p></td><td><p style=\"text-align: right;\">$1,926</p></td></tr><tr><td><p>From short-term securities</p></td><td><p style=\"text-align: right;\">$2,735</p></td></tr><tr><td><p>Mortgage income</p></td><td><p style=\"text-align: right;\">$1,127</p></td></tr><tr><td><p>Total Investment Income</p></td><td><p style=\"text-align: right;\">$5,788</p></td></tr><tr><td><p><strong>Total Revenues</strong></p></td><td><p style=\"text-align: right;\">$18,829</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -423,7 +424,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 15.3</strong> A Revenue Budget",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -434,7 +435,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "The Noonday Life Insurance Company sells individual life insurance, group life insurance, and individual annuities. Noonday itemizes its annual revenue budget by quarter. Quarter 1 is shown.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -457,6 +458,39 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "The Noonday Life Insurance Company sells individual life insurance, group life insurance, and individual annuities. Noonday itemizes its annual revenue budget by quarter. Quarter 1 is shown."
                     }
                 ]
             },
@@ -494,62 +528,6 @@ Lesson_Data_File([
                 ]
             },
             {
-                "image_w_text": [
-                    {
-                        "image_name": "15-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Expense Budget ($000s), Quarter 1<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p>Benefits</p></th></tr><tr><td><p>Individual insurance</p></td><td><p style=\"text-align: right;\">$2,324</p></td></tr><tr><td><p>Individual annuities</p></td><td><p style=\"text-align: right;\">$1,755</p></td></tr><tr><td><p>Group insurance</p></td><td><p style=\"text-align: right;\">$1,373</p></td></tr><tr><td><p>Total Contractual Benefits</p></td><td><p style=\"text-align: right;\">$5,452</p></td></tr><tr><td><p><u><strong>Sales Expenses</strong></u></p></td><td><p style=\"text-align: right;\">$2,831</p></td></tr><tr><th colspan=\"2\"><p>General and Administrative Expenses</p></th></tr><tr><td><p>Leases</p></td><td><p style=\"text-align: right;\">$145</p></td></tr><tr><td><p>Payroll</p></td><td><p style=\"text-align: right;\">$1,134</p></td></tr><tr><td><p>General</p></td><td><p style=\"text-align: right;\">$705</p></td></tr><tr><td><p>Depreciation</p></td><td><p style=\"text-align: right;\">$22</p></td></tr><tr><td><p><strong>Total General and Administrative Expenses</strong></p></td><td><p style=\"text-align: right;\">$2,006</p></td></tr><tr><td><p><strong>Total Expenses</strong></p></td><td><p style=\"text-align: right;\">$10,289</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
-                        "border_style": "",
-                        "border_height": "",
-                        "border_color": ""
-                    },
-                    {
-                        "image_position": "bottom",
-                        "image_aligmnent": "center"
-                    },
-                    {
-                        "image_size": "50%"
-                    },
-                    {
-                        "image_text": "<strong>Figure 15.4</strong> An Expense Budget",
-                        "image_list": [],
-                        "list_position": "bottom",
-                        "top_margin": "10px",
-                        "Type_of_List": "ol",
-                        "ul_type": "",
-                        "ol_type": "",
-                        "List_Text_Size": "jb1",
-                        "list_border_style": "",
-                        "list_border_height": "",
-                        "list_border_color": "",
-                        "image_text_below": "Noonday’s expense budget includes elements of the benefits budget, the sales expense budget, and the general and administrative expense budget. Quarter 1 is shown.<br/>"
-                    },
-                    {
-                        "image_text_color": "#bf0d3f",
-                        "image_text_style": "normal",
-                        "image_text_variant": "normal",
-                        "image_text_weight": "normal",
-                        "image_text_top_margin": "0%",
-                        "image_text_padding": "0px"
-                    },
-                    {
-                        "image_text_alignmnet": "left",
-                        "image_font_size": "jb1"
-                    },
-                    {
-                        "top_margin": "0px",
-                        "snippet_top_margin": "10px"
-                    },
-                    {
-                        "background_color": ""
-                    },
-                    {
-                        "image_radius": ""
-                    }
-                ]
-            },
-            {
                 "Paragraphs_New": [
                     {
                         "Paragraph_align": "left",
@@ -565,8 +543,8 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "Cash Budgets",
-                        "heading_font_size": "h3",
+                        "heading": "",
+                        "heading_font_size": "h2",
                         "heading_alignment": "center",
                         "heading_color": "",
                         "heading_weight": "bold",
@@ -578,23 +556,15 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Cash budgeting</span> is a budgeting activity that anticipates the cash flows into and out of a company during an accounting period. Many companies divide the annual cash budget into quarterly, monthly, weekly, and sometimes daily budgets to monitor cash flow more closely. Automated accounting systems make real-time cash reporting available. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cash budget</span> is a type of budget that projects a company’s beginning cash balance, cash inflows, cash outflows, and ending cash balance for a specified accounting period, typically by quarter."
-                    },
-                    {
-                        "Paragraph_txt": "The cash budget is not part of the operational budget, but it provides context for the operational budget by letting the insurer know how much cash is available to invest or to spend. Budgeting for cash helps a company in both the short term and the long term. In the short term, the company can plan for both cash shortages and cash excesses; in the long term, company management can decide the company’s investment strategy."
-                    },
-                    {
-                        "Paragraph_txt": "Cash inflows and outflows are unique to each company. Insurers use forecasting techniques to project cash inflows and cash outflows. A cash budget consists of a <em>cash receipts budget</em> (cash inflows) and a <em>cash disbursements budget</em> (cash outflows). A company plans for its cash inflows through a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cash receipts budget</span>, which is a schedule of cash receipts expected during the accounting period. To project both the timing and amount of its cash receipts, a company constructs the cash receipts budget using data from both the sales and investment forecasts. Figure 15.5 shows an example of a cash receipts budget."
+                        "Paragraph_txt": "<strong>Figure 15.4 An Expense Budget</strong>"
                     }
                 ]
             },
             {
                 "image_w_text": [
                     {
-                        "image_name": "15-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Cash Receipts Budget ($000s), Quarter 1<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p>Policy Receipts</p></th></tr><tr><td><p>Individual insurance premiums</p></td><td><p style=\"text-align: right;\">$5,008</p></td></tr><tr><td><p>Individual annuity considerations</p></td><td><p style=\"text-align: right;\">$4,427</p></td></tr><tr><td><p>Group insurance premiums</p></td><td><p style=\"text-align: right;\">$3,606</p></td></tr><tr><td><p>Total Policy Receipts</p></td><td><p style=\"text-align: right;\">$13,041</p></td></tr><tr><th colspan=\"2\"><p>Investment Receipts</p></th></tr><tr><td><p>Long-term securities income</p></td><td><p style=\"text-align: right;\">$1,926</p></td></tr><tr><td><p>Short-term securities income</p></td><td><p style=\"text-align: right;\">$2,735</p></td></tr><tr><td><p>Mortgage income</p></td><td><p style=\"text-align: right;\">$1,127</p></td></tr><tr><td><p>Total Investment Income</p></td><td><p style=\"text-align: right;\">$5,788</p></td></tr><tr><td><p><strong>Total Revenues</strong></p></td><td><p style=\"text-align: right;\">$18,829</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_name": "15-4figure.jpg",
+                        "image_w_text_tag": "Expense Budget ($000s), Quarter 1<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p>Benefits</p></th></tr><tr><td><p>Individual insurance</p></td><td><p style=\"text-align: right;\">$2,324</p></td></tr><tr><td><p>Individual annuities</p></td><td><p style=\"text-align: right;\">$1,755</p></td></tr><tr><td><p>Group insurance</p></td><td><p style=\"text-align: right;\">$1,373</p></td></tr><tr><td><p>Total Contractual Benefits</p></td><td><p style=\"text-align: right;\">$5,452</p></td></tr><tr><td><p><u><strong>Sales Expenses</strong></u></p></td><td><p style=\"text-align: right;\">$2,831</p></td></tr><tr><th colspan=\"2\"><p>General and Administrative Expenses</p></th></tr><tr><td><p>Leases</p></td><td><p style=\"text-align: right;\">$145</p></td></tr><tr><td><p>Payroll</p></td><td><p style=\"text-align: right;\">$1,134</p></td></tr><tr><td><p>General</p></td><td><p style=\"text-align: right;\">$705</p></td></tr><tr><td><p>Depreciation</p></td><td><p style=\"text-align: right;\">$22</p></td></tr><tr><td><p><strong>Total General and Administrative Expenses</strong></p></td><td><p style=\"text-align: right;\">$2,006</p></td></tr><tr><td><p><strong>Total Expenses</strong></p></td><td><p style=\"text-align: right;\">$10,289</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -607,7 +577,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 15.5</strong> A Cash Receipts Budget",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -618,7 +588,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "The Noonday Life Insurance Company divides its cash receipts budget into receipts from sales of insurance and annuity products and receipts from investments. Only Quarter 1 is shown.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -673,20 +643,87 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "A cash receipts budget resembles a revenue budget, such as the budget shown in Figure 15.3. For simplicity’s sake, this budget assumes no timing differences between income and cash receipts. In most cases, the figures in a cash receipts budget will vary from the figures in a revenue budget because the timing of cash payments may vary."
+                        "Paragraph_txt": "Noonday’s expense budget includes elements of the benefits budget, the sales expense budget, and the general and administrative expense budget. Quarter 1 is shown."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "Cash Budgets",
+                        "heading_font_size": "h3",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "In the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cash disbursements budget</span>, an insurer estimates the timing and amount of cash disbursements expected during the accounting period. Estimating cash disbursements for fixed expenses such as salaries is relatively easy and accurate. Cash disbursements for variable expenses, such as contractual benefit payments and commissions, can be less predictable. The accuracy of these projections depends in large part on the accuracy of the sales forecast. Figure 15.6 shows an example of a cash disbursements budget."
+                        "Paragraph_txt": "<span class=\"keyterm\" tabindex=\"0\" role=\"button\">Cash budgeting</span> is a budgeting activity that anticipates the cash flows into and out of a company during an accounting period. Many companies divide the annual cash budget into quarterly, monthly, weekly, and sometimes daily budgets to monitor cash flow more closely. Automated accounting systems make real-time cash reporting available. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cash budget</span> is a type of budget that projects a company’s beginning cash balance, cash inflows, cash outflows, and ending cash balance for a specified accounting period, typically by quarter."
+                    },
+                    {
+                        "Paragraph_txt": "<br />The cash budget is not part of the operational budget, but it provides context for the operational budget by letting the insurer know how much cash is available to invest or to spend. Budgeting for cash helps a company in both the short term and the long term. In the short term, the company can plan for both cash shortages and cash excesses; in the long term, company management can decide the company’s investment strategy."
+                    },
+                    {
+                        "Paragraph_txt": "<br />Cash inflows and outflows are unique to each company. Insurers use forecasting techniques to project cash inflows and cash outflows. A cash budget consists of a <em>cash receipts budget</em> (cash inflows) and a <em>cash disbursements budget</em> (cash outflows). A company plans for its cash inflows through a <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cash receipts budget</span>, which is a schedule of cash receipts expected during the accounting period. To project both the timing and amount of its cash receipts, a company constructs the cash receipts budget using data from both the sales and investment forecasts. Figure 15.5 shows an example of a cash receipts budget."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 15.5 A Cash Receipts Budget</strong>"
                     }
                 ]
             },
             {
                 "image_w_text": [
                     {
-                        "image_name": "15-6figure.jpg",
-                        "image_w_text_tag": [
-                            "Cash Disbursements Budget ($000s), Quarter 1<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p>Insurance Disbursements</p></th></tr><tr><td><p>Variable items:</p></td><td>&nbsp;</td></tr><tr><td><p>Insurance claims</p></td><td><p style=\"text-align: right;\">$3,697</p></td></tr><tr><td><p>Annuity benefits</p></td><td><p style=\"text-align: right;\">$1,755</p></td></tr><tr><td><p>Commissions</p></td><td><p style=\"text-align: right;\">$2,831</p></td></tr><tr><td><p>Total Variable Items</p></td><td><p style=\"text-align: right;\">$8,283</p></td></tr><tr><td><p>Fixed items:</p></td><td>&nbsp;</td></tr><tr><td><p>Leases</p></td><td><p style=\"text-align: right;\">$45</p></td></tr><tr><td><p>Payroll</p></td><td><p style=\"text-align: right;\">$1,134</p></td></tr><tr><td><p>General</p></td><td><p style=\"text-align: right;\">$705</p></td></tr><tr><td><p>Total Fixed Items</p></td><td><p style=\"text-align: right;\">$1,884</p></td></tr><tr><td><p><strong>Total Insurance Disbursements</strong></p></td><td><p style=\"text-align: right;\">$10,167</p></td></tr><tr><th colspan=\"2\"><p>Investment Disbursements</p></th></tr><tr><td><p>Short-term security purchases</p></td><td><p style=\"text-align: right;\">$ 9,302</p></td></tr><tr><td><p>Long-term security purchases</p></td><td><p style=\"text-align: right;\">$1,601</p></td></tr><tr><td><p>Mortgage purchases</p></td><td><p style=\"text-align: right;\">$450</p></td></tr><tr><td><p>Total Investment Disbursements</p></td><td><p style=\"text-align: right;\">$11,353</p></td></tr><tr><td><p><strong>Total Cash Disbursements</strong></p></td><td><p style=\"text-align: right;\">$21,520</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_name": "15-5figure.jpg",
+                        "image_w_text_tag": "Cash Receipts Budget ($000s), Quarter 1<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p>Policy Receipts</p></th></tr><tr><td><p>Individual insurance premiums</p></td><td><p style=\"text-align: right;\">$5,008</p></td></tr><tr><td><p>Individual annuity considerations</p></td><td><p style=\"text-align: right;\">$4,427</p></td></tr><tr><td><p>Group insurance premiums</p></td><td><p style=\"text-align: right;\">$3,606</p></td></tr><tr><td><p>Total Policy Receipts</p></td><td><p style=\"text-align: right;\">$13,041</p></td></tr><tr><th colspan=\"2\"><p>Investment Receipts</p></th></tr><tr><td><p>Long-term securities income</p></td><td><p style=\"text-align: right;\">$1,926</p></td></tr><tr><td><p>Short-term securities income</p></td><td><p style=\"text-align: right;\">$2,735</p></td></tr><tr><td><p>Mortgage income</p></td><td><p style=\"text-align: right;\">$1,127</p></td></tr><tr><td><p>Total Investment Income</p></td><td><p style=\"text-align: right;\">$5,788</p></td></tr><tr><td><p><strong>Total Revenues</strong></p></td><td><p style=\"text-align: right;\">$18,829</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -699,7 +736,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 15.6</strong> A Cash Disbursements Budget",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -710,7 +747,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "Noonday divides its cash disbursements budget into disbursements for insurance and annuities, and disbursements for investments. Noonday also divides the disbursements for insurance and annuities into a fixed component and a variable component.<br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -733,6 +770,195 @@ Lesson_Data_File([
                     },
                     {
                         "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "The Noonday Life Insurance Company divides its cash receipts budget into receipts from sales of insurance and annuity products and receipts from investments. Only Quarter 1 is shown."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "A cash receipts budget resembles a revenue budget, such as the budget shown in Figure 15.3. For simplicity’s sake, this budget assumes no timing differences between income and cash receipts. In most cases, the figures in a cash receipts budget will vary from the figures in a revenue budget because the timing of cash payments may vary."
+                    },
+                    {
+                        "Paragraph_txt": "<br />In the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cash disbursements budget</span>, an insurer estimates the timing and amount of cash disbursements expected during the accounting period. Estimating cash disbursements for fixed expenses such as salaries is relatively easy and accurate. Cash disbursements for variable expenses, such as contractual benefit payments and commissions, can be less predictable. The accuracy of these projections depends in large part on the accuracy of the sales forecast. Figure 15.6 shows an example of a cash disbursements budget."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 15.6 A Cash Disbursements Budget</strong>"
+                    }
+                ]
+            },
+            {
+                "image_w_text": [
+                    {
+                        "image_name": "15-6figure.jpg",
+                        "image_w_text_tag": "Cash Disbursements Budget ($000s), Quarter 1<br /><br />[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p>Insurance Disbursements</p></th></tr><tr><td><p>Variable items:</p></td><td>&nbsp;</td></tr><tr><td><p>Insurance claims</p></td><td><p style=\"text-align: right;\">$3,697</p></td></tr><tr><td><p>Annuity benefits</p></td><td><p style=\"text-align: right;\">$1,755</p></td></tr><tr><td><p>Commissions</p></td><td><p style=\"text-align: right;\">$2,831</p></td></tr><tr><td><p>Total Variable Items</p></td><td><p style=\"text-align: right;\">$8,283</p></td></tr><tr><td><p>Fixed items:</p></td><td>&nbsp;</td></tr><tr><td><p>Leases</p></td><td><p style=\"text-align: right;\">$45</p></td></tr><tr><td><p>Payroll</p></td><td><p style=\"text-align: right;\">$1,134</p></td></tr><tr><td><p>General</p></td><td><p style=\"text-align: right;\">$705</p></td></tr><tr><td><p>Total Fixed Items</p></td><td><p style=\"text-align: right;\">$1,884</p></td></tr><tr><td><p><strong>Total Insurance Disbursements</strong></p></td><td><p style=\"text-align: right;\">$10,167</p></td></tr><tr><th colspan=\"2\"><p>Investment Disbursements</p></th></tr><tr><td><p>Short-term security purchases</p></td><td><p style=\"text-align: right;\">$ 9,302</p></td></tr><tr><td><p>Long-term security purchases</p></td><td><p style=\"text-align: right;\">$1,601</p></td></tr><tr><td><p>Mortgage purchases</p></td><td><p style=\"text-align: right;\">$450</p></td></tr><tr><td><p>Total Investment Disbursements</p></td><td><p style=\"text-align: right;\">$11,353</p></td></tr><tr><td><p><strong>Total Cash Disbursements</strong></p></td><td><p style=\"text-align: right;\">$21,520</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
+                        "border_style": "",
+                        "border_height": "",
+                        "border_color": ""
+                    },
+                    {
+                        "image_position": "bottom",
+                        "image_aligmnent": "center"
+                    },
+                    {
+                        "image_size": "50%"
+                    },
+                    {
+                        "image_text": "",
+                        "image_list": [],
+                        "list_position": "bottom",
+                        "top_margin": "10px",
+                        "Type_of_List": "ol",
+                        "ul_type": "",
+                        "ol_type": "",
+                        "List_Text_Size": "jb1",
+                        "list_border_style": "",
+                        "list_border_height": "",
+                        "list_border_color": "",
+                        "image_text_below": ""
+                    },
+                    {
+                        "image_text_color": "#bf0d3f",
+                        "image_text_style": "normal",
+                        "image_text_variant": "normal",
+                        "image_text_weight": "normal",
+                        "image_text_top_margin": "0%",
+                        "image_text_padding": "0px"
+                    },
+                    {
+                        "image_text_alignmnet": "left",
+                        "image_font_size": "jb1"
+                    },
+                    {
+                        "top_margin": "0px",
+                        "snippet_top_margin": "10px"
+                    },
+                    {
+                        "background_color": ""
+                    },
+                    {
+                        "image_radius": ""
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "Noonday divides its cash disbursements budget into disbursements for insurance and annuities, and disbursements for investments. Noonday also divides the disbursements for insurance and annuities into a fixed component and a variable component."
                     }
                 ]
             },
@@ -842,10 +1068,43 @@ Lesson_Data_File([
                         "Paragraph_txt": "The <span class=\"keyterm\" tabindex=\"0\" role=\"button\">minimum cash balance</span> is the amount of cash that a company determines is necessary to pay all obligations in an accounting period without having excess cash. Setting this figure too low raises the risk of running out of cash. Setting this figure too high carries an opportunity cost because this cash is not earning a return for the insurer. Insurers use many methods to derive the minimum cash balance. Some insurers set the minimum cash balance equal to the budgeted cash disbursements for one month. Others use computer spreadsheet simulations to set the minimum cash balance."
                     },
                     {
-                        "Paragraph_txt": "By examining the cash budget, an insurer can estimate the timing and amount of cash shortages. The insurer can then plan to counteract any shortages, such as through short-term borrowing or liquidating assets. The insurer can also calculate the amount of excess cash to invest in liquid assets."
+                        "Paragraph_txt": "<br />By examining the cash budget, an insurer can estimate the timing and amount of cash shortages. The insurer can then plan to counteract any shortages, such as through short-term borrowing or liquidating assets. The insurer can also calculate the amount of excess cash to invest in liquid assets."
                     },
                     {
-                        "Paragraph_txt": "Figure 15.7 shows an example of a cash budget. In this example, Noonday has established a minimum cash balance of $3,250,000 for each quarter. Noonday expects that, by the end of the first quarter, it will encounter a cash shortage of $2,021,000. To make up for this shortage, Noonday has planned for a short-term loan in the amount of $2,500,000, which it expects to be able to repay, with interest, in the fourth quarter."
+                        "Paragraph_txt": "<br />Figure 15.7 shows an example of a cash budget. In this example, Noonday has established a minimum cash balance of $3,250,000 for each quarter. Noonday expects that, by the end of the first quarter, it will encounter a cash shortage of $2,021,000. To make up for this shortage, Noonday has planned for a short-term loan in the amount of $2,500,000, which it expects to be able to repay, with interest, in the fourth quarter."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 15.7 A Cash Budget</strong>"
                     }
                 ]
             },
@@ -853,9 +1112,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "15-7figure.jpg",
-                        "image_w_text_tag": [
-                            "Table: A cash budget, divided into four quarters and a total for the year. The budget compares Total Cash Receipts to Total Cash Needed and Total Effects of Financing to arrive at its Ending Cash Balance.<br /><br />The equation for Ending Cash Balance is Total Cash Receipts – Total Cash Needed + Total Effects of Financing. This balance is calculated for every quarter.<br /><br />Note that some entries in the end-of-year Total column are not derived as a toal of the monetary amounts in Quarters 1 through 4.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Beginning balance for the year is equal to the beginning balance of the first quarter.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ending cash balance for the year is equal to the fourth quarter’s ending cash balance.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Minimum cash balance is constant throughout the year.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Excess of cash is equal to end-of-year total cash available minus total cash needed.</span>"
-                        ],
+                        "image_w_text_tag": "Table: A cash budget, divided into four quarters and a total for the year. The budget compares Total Cash Receipts to Total Cash Needed and Total Effects of Financing to arrive at its Ending Cash Balance.<br /><br />The equation for Ending Cash Balance is Total Cash Receipts – Total Cash Needed + Total Effects of Financing. This balance is calculated for every quarter.<br /><br />Note that some entries in the end-of-year Total column are not derived as a toal of the monetary amounts in Quarters 1 through 4.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Beginning balance for the year is equal to the beginning balance of the first quarter.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Ending cash balance for the year is equal to the fourth quarter’s ending cash balance.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Minimum cash balance is constant throughout the year.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Excess of cash is equal to end-of-year total cash available minus total cash needed.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -868,7 +1125,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 15.7</strong> A Cash Budget",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -918,7 +1175,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Operational budgets cover a company’s core business operations. Which of the following is <em>not</em> a type of operational budget?",
@@ -989,14 +1246,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "A cash disbursements budget anticipates a company’s (<strong>inflows</strong> / <strong>outflows</strong>) of cash.",
@@ -1159,12 +1416,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 15.8 A Capital Budget</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "15-8figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p style=\"text-align: center;\">Design and Construction Summary Budget<br>for a Proposed New Regional Office<br>($000s)</p></th></tr><tr><td><p>Demolition</p></td><td><p style=\"text-align: right;\">$70</p></td></tr><tr><td><p>General construction ($30.50 per square foot)</p></td><td><p style=\"text-align: right;\">$11,250</p></td></tr><tr><td><p>Mechanical</p></td><td><p style=\"text-align: right;\">$2,090</p></td></tr><tr><td><p>Electrical</p></td><td><p style=\"text-align: right;\">$1,577</p></td></tr><tr><td><p>Vertical transportation</p></td><td><p style=\"text-align: right;\">$875</p></td></tr><tr><td><p>Construction manager fee</p></td><td><p style=\"text-align: right;\">$428</p></td></tr><tr><td><p>Sitework (including landscaping and surface parking)</p></td><td><p style=\"text-align: right;\">$1,700</p></td></tr><tr><td><p>Parking deck</p></td><td><p style=\"text-align: right;\">$1,050</p></td></tr><tr><td><p>Renovation of existing building</p></td><td><p style=\"text-align: right;\">$1,100</p></td></tr><tr><td><p>Architect/engineers</p></td><td><p style=\"text-align: right;\">$1,000</p></td></tr><tr><td><p>Construction contingency reserve</p></td><td><p style=\"text-align: right;\"><u>$650</u></p></td></tr><tr><td><p>Estimated total</p></td><td><p style=\"text-align: right;\"><u>$21,790</u></p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th colspan=\"2\"><p style=\"text-align: center;\">Design and Construction Summary Budget<br>for a Proposed New Regional Office<br>($000s)</p></th></tr><tr><td><p>Demolition</p></td><td><p style=\"text-align: right;\">$70</p></td></tr><tr><td><p>General construction ($30.50 per square foot)</p></td><td><p style=\"text-align: right;\">$11,250</p></td></tr><tr><td><p>Mechanical</p></td><td><p style=\"text-align: right;\">$2,090</p></td></tr><tr><td><p>Electrical</p></td><td><p style=\"text-align: right;\">$1,577</p></td></tr><tr><td><p>Vertical transportation</p></td><td><p style=\"text-align: right;\">$875</p></td></tr><tr><td><p>Construction manager fee</p></td><td><p style=\"text-align: right;\">$428</p></td></tr><tr><td><p>Sitework (including landscaping and surface parking)</p></td><td><p style=\"text-align: right;\">$1,700</p></td></tr><tr><td><p>Parking deck</p></td><td><p style=\"text-align: right;\">$1,050</p></td></tr><tr><td><p>Renovation of existing building</p></td><td><p style=\"text-align: right;\">$1,100</p></td></tr><tr><td><p>Architect/engineers</p></td><td><p style=\"text-align: right;\">$1,000</p></td></tr><tr><td><p>Construction contingency reserve</p></td><td><p style=\"text-align: right;\"><u>$650</u></p></td></tr><tr><td><p>Estimated total</p></td><td><p style=\"text-align: right;\"><u>$21,790</u></p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1177,7 +1465,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 15.8</strong> A Capital Budget",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1292,7 +1580,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "True/False: A company’s investment budgets are part of its capital budget.",

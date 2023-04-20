@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Reserves, Net Income, and Surplus",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -145,10 +115,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "Now we’re ready to consider some specific insurance transactions related to reserves to see how they are handled by the accounting function."
                     },
                     {
-                        "Paragraph_txt": "At the end of each accounting period, an insurer’s actuaries provide updated reserve amounts for each block of policies. The accounting function then posts an adjusting entry to ensure that the balance sheet reports the updated reserve amounts."
+                        "Paragraph_txt": "<br />At the end of each accounting period, an insurer’s actuaries provide updated reserve amounts for each block of policies. The accounting function then posts an adjusting entry to ensure that the balance sheet reports the updated reserve amounts."
                     },
                     {
-                        "Paragraph_txt": "Part of the aggregate reserve amount is <em>released</em> when a policy benefit is paid or a contract terminates. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">released reserve</span> is a contractual reserve that was originally established in connection with an in-force policy but is no longer required. Released reserves help cushion the impact of policy benefit payments on the insurer’s surplus, as shown in the following example."
+                        "Paragraph_txt": "<br />Part of the aggregate reserve amount is <em>released</em> when a policy benefit is paid or a contract terminates. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">released reserve</span> is a contractual reserve that was originally established in connection with an in-force policy but is no longer required. Released reserves help cushion the impact of policy benefit payments on the insurer’s surplus, as shown in the following example."
                     }
                 ]
             },
@@ -175,7 +145,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -211,10 +181,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> The Elegant Life Insurance Company established a reserve for a $1 million block of life insurance policies. At the time when $1 million in policy benefits was paid, the balance in the reserve account for this block of policies was $400,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Upon the payment of the policy benefits, Elegant would release $400,000 of reserves. Despite the $1 million paid in policy benefits, neither Elegant’s net income nor its surplus is automatically reduced by $1 million."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Upon the payment of the policy benefits, Elegant would release $400,000 of reserves. Despite the $1 million paid in policy benefits, neither Elegant’s net income nor its surplus is automatically reduced by $1 million."
                     },
                     {
-                        "Paragraph_txt": "Instead, Elegant’s net income decreases by only $600,000 ($1,000,000 – $400,000), which is the difference between the amount of the benefit payments and the amount of the released reserve for this block of policies, all other factors remaining equal. When it closes out the accounting period, Elegant adds net income to surplus, and assuming no policy dividends or cash dividends, the impact on surplus is also a decrease of $600,000 instead of $1 million, because of the released reserve."
+                        "Paragraph_txt": "<br />Instead, Elegant’s net income decreases by only $600,000 ($1,000,000 – $400,000), which is the difference between the amount of the benefit payments and the amount of the released reserve for this block of policies, all other factors remaining equal. When it closes out the accounting period, Elegant adds net income to surplus, and assuming no policy dividends or cash dividends, the impact on surplus is also a decrease of $600,000 instead of $1 million, because of the released reserve."
                     }
                 ]
             },
@@ -241,7 +211,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -279,12 +249,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.1 Flowchart of Accounting Entries</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "7-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Transactions that affect reserves:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record premium income received from the sale of a new life insuranceproduct, the insurer debits <em>Cash</em> and credits <em>Premium Income</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the purchase of invested assets to generate income and dividends,the insurer debits <em>Invested Assets</em> and credits <em>Cash</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the establishment of reserves for the new life insurance product,the insurer debits <em>Change in Reserves</em> and credits <em>Contractual Reserves</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Claims are incurred and reported against the new block of policies andare approved for payment.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the sale of invested assets to provide cash for the paymentof policy claims, the insurer debits <em>Cash</em> and credits <em>Invested Assets</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record payment of approved policy claims, the insurer debits <em>Death Claims Paid</em> andcredits <em>Cash</em> (for the same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Actuaries provide an updated reserve amount for the product on the valuationdate.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the reserves released following the settlement of a claim, theinsurer debits <em>Contractual Reserves</em> and credits <em>Change in Reserves</em> (forthe same amount).</span>"
-                        ],
+                        "image_w_text_tag": "Transactions that affect reserves:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record premium income received from the sale of a new life insuranceproduct, the insurer debits <em>Cash</em> and credits <em>Premium Income</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the purchase of invested assets to generate income and dividends,the insurer debits <em>Invested Assets</em> and credits <em>Cash</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the establishment of reserves for the new life insurance product,the insurer debits <em>Change in Reserves</em> and credits <em>Contractual Reserves</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Claims are incurred and reported against the new block of policies andare approved for payment.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the sale of invested assets to provide cash for the paymentof policy claims, the insurer debits <em>Cash</em> and credits <em>Invested Assets</em> (forthe same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record payment of approved policy claims, the insurer debits <em>Death Claims Paid</em> andcredits <em>Cash</em> (for the same amount).</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Actuaries provide an updated reserve amount for the product on the valuationdate.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• To record the reserves released following the settlement of a claim, theinsurer debits <em>Contractual Reserves</em> and credits <em>Change in Reserves</em> (forthe same amount).</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -297,7 +298,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.1</strong> Flowchart of Accounting Entries",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -425,13 +426,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "In the case of reserve strengthening and destrengthening, both the monetary amount of the reserve<em> and</em> the insurer’s underlying actuarial assumptions change. Accounting for reserve strengthening or destrengthening directly changes either capital or surplus on the insurer’s balance sheet. Accounts with names such as <em>Contractual Reserves</em>—<em>Life </em>or<em> Policy Reserves</em>—<em>Life</em> are used to record and report changes in reserves that result from reserve strengthening or destrengthening. The insurer also reports reserves—such as Aggregate Reserve for Life Contracts—for each type of insurance product in the Annual Statement."
                     },
                     {
-                        "Paragraph_txt": "Keep in mind that the periodic accounting entries made to increase or decrease an insurer’s aggregate reserves as a result of routine contractual transactions, such as paying policy claims or accounting for lapsed policies, differ from reserve strengthening and destrengthening. Recording accounting entries for routine contractual activity changes only the monetary amount of the aggregate reserves; the insurer’s original underlying assumptions to calculate the reserves do not change."
+                        "Paragraph_txt": "<br />Keep in mind that the periodic accounting entries made to increase or decrease an insurer’s aggregate reserves as a result of routine contractual transactions, such as paying policy claims or accounting for lapsed policies, differ from reserve strengthening and destrengthening. Recording accounting entries for routine contractual activity changes only the monetary amount of the aggregate reserves; the insurer’s original underlying assumptions to calculate the reserves do not change."
                     },
                     {
-                        "Paragraph_txt": "Typical account names used to record such changes include <em>Change in Reserves</em> or <em>Increases/Decreases in Provision for Future Policy Benefits</em>. These accounts are income statement accounts, and they are used to report changes in reserve amounts as a result of routine financial transactions associated with a block of policies. Thus, an insurer reports changes in reserves that are a result of routine contractual activity on its income statement."
+                        "Paragraph_txt": "<br />Typical account names used to record such changes include <em>Change in Reserves</em> or <em>Increases/Decreases in Provision for Future Policy Benefits</em>. These accounts are income statement accounts, and they are used to report changes in reserve amounts as a result of routine financial transactions associated with a block of policies. Thus, an insurer reports changes in reserves that are a result of routine contractual activity on its income statement."
                     },
                     {
-                        "Paragraph_txt": "Typically, changes in contractual reserves are reported at the end of an accounting period for that period’s transactions."
+                        "Paragraph_txt": "<br />Typically, changes in contractual reserves are reported at the end of an accounting period for that period’s transactions."
                     }
                 ]
             },
@@ -467,7 +468,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "An insurer’s first-year costs for many products are substantial. In addition, the insurer must establish reserves for a product in the product’s first year. The increase in a U.S. insurer’s assets resulting from a product’s first-year premium is often smaller than the increase in the insurer’s liabilities created by the reserve the insurer must establish for the product. In such situations, the insurer’s surplus must be reduced to provide for the increase in reserves."
                     },
                     {
-                        "Paragraph_txt": "For a new product, first-year costs of contract issue, sales commissions, and the creation of new reserves typically combine to produce a negative first-year surplus. This negative surplus is an aspect of surplus strain. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Surplus strain</span>, also known as <em>issue strain</em> or <em>new business strain</em>, is the decrease in an insurer’s surplus caused by the high first-year costs and the reserve requirements associated with new products. A decrease in potential surplus strain that strengthens an insurer’s financial position is referred to as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">surplus relief</span>. Watch Video 7.2 for an explanation of surplus strain. "
+                        "Paragraph_txt": "<br />For a new product, first-year costs of contract issue, sales commissions, and the creation of new reserves typically combine to produce a negative first-year surplus. This negative surplus is an aspect of surplus strain. <span class=\"keyterm\" tabindex=\"0\" role=\"button\">Surplus strain</span>, also known as <em>issue strain</em> or <em>new business strain</em>, is the decrease in an insurer’s surplus caused by the high first-year costs and the reserve requirements associated with new products. A decrease in potential surplus strain that strengthens an insurer’s financial position is referred to as <span class=\"keyterm\" tabindex=\"0\" role=\"button\">surplus relief</span>. Watch Video 7.2 for an explanation of surplus strain. "
                     }
                 ]
             },
@@ -788,7 +789,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -848,7 +849,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -908,7 +909,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1009,7 +1010,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Durable established $0.1 million in DAC (an asset) when it increased its reserves (a liability) by $0.1 million. As a result, Durable’s assets increase to $6.1 million ($6.0 million + $0.1 million), and its liabilities increase to $4.1 million ($4.0 million + $0.1 million)."
                     },
                     {
-                        "Paragraph_txt": "In this situation, Durable’s surplus remained unchanged:"
+                        "Paragraph_txt": "<br />In this situation, Durable’s surplus remained unchanged:"
                     }
                 ]
             },
@@ -1243,7 +1244,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1394,13 +1395,46 @@ Lesson_Data_File([
                         "Paragraph_txt": "Recall that a direct writer uses reinsurance primarily to reduce the amount of risk it assumes when it sells an insurance policy. Under some types of reinsurance arrangements, the reinsurer assumes some of the direct writer’s liability for benefit payments and also agrees to establish reserves for the reinsured portion of the risk. Under these agreements, a direct writer is responsible for establishing a smaller amount of required reserves and has a reduced potential for surplus strain."
                     },
                     {
-                        "Paragraph_txt": "The reduction in surplus strain that is achieved by using reinsurance is a type of surplus relief. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">reserve credit</span> is the solvency-basis accounting entry the direct writer uses to record a reduction of reserves due to the use of reinsurance. Despite its name, a reserve credit is actually posted as a<em> debit</em>; this means that a reserve credit decreases the amount of reserves as a result of reinsurance."
+                        "Paragraph_txt": "<br />The reduction in surplus strain that is achieved by using reinsurance is a type of surplus relief. A <span class=\"keyterm\" tabindex=\"0\" role=\"button\">reserve credit</span> is the solvency-basis accounting entry the direct writer uses to record a reduction of reserves due to the use of reinsurance. Despite its name, a reserve credit is actually posted as a<em> debit</em>; this means that a reserve credit decreases the amount of reserves as a result of reinsurance."
                     },
                     {
-                        "Paragraph_txt": "On a reinsured policy, the direct writer first establishes a policy reserve in the usual manner. Then the direct writer in effect reduces that reserve amount by recording a reserve credit that offsets a portion of the reserve. Most states restrict the situations in which a direct writer in the United States is entitled to take reinsurance reserve credits by placing requirements on the reinsurer. Because taking reserve credits can improve an insurer’s financial condition, insurers seek to cede risks to reinsurers that meet the specified requirements for reserve credit."
+                        "Paragraph_txt": "<br />On a reinsured policy, the direct writer first establishes a policy reserve in the usual manner. Then the direct writer in effect reduces that reserve amount by recording a reserve credit that offsets a portion of the reserve. Most states restrict the situations in which a direct writer in the United States is entitled to take reinsurance reserve credits by placing requirements on the reinsurer. Because taking reserve credits can improve an insurer’s financial condition, insurers seek to cede risks to reinsurers that meet the specified requirements for reserve credit."
                     },
                     {
-                        "Paragraph_txt": "Figure 7.2 illustrates the use of reserve credits."
+                        "Paragraph_txt": "<br />Figure 7.2 illustrates the use of reserve credits."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 7.2 Reserve Credits</strong>"
                     }
                 ]
             },
@@ -1408,9 +1442,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-2figure.jpg",
-                        "image_w_text_tag": [
-                            "The reinsurer takes over the reserve for the reinsured business from thedirect writer, so the direct writer is able to take a reserve credit inthe amount of that reserve, effectively reducing the amount of the reservethe direct writer has to hold for that business."
-                        ],
+                        "image_w_text_tag": "The reinsurer takes over the reserve for the reinsured business from thedirect writer, so the direct writer is able to take a reserve credit inthe amount of that reserve, effectively reducing the amount of the reservethe direct writer has to hold for that business.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1423,7 +1455,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 7.2</strong> Reserve Credits",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -1473,7 +1505,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Under U.S. GAAP, life insurers are permitted to spread out the impact of first-year expenses on surplus by using an adjustment mechanism known as (<strong>modified reserves </strong>/<strong> deferred acquisition costs, or DAC</strong>).",
@@ -1534,14 +1566,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "True/False: A reserve credit is the solvency-basis accounting entry the direct writer uses to record a reduction of reserves due to the use of reinsurance.",

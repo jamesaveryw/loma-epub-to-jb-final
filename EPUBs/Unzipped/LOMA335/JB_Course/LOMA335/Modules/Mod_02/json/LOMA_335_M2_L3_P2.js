@@ -129,7 +129,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "In order for EndiFirst to satisfy customer needs, its products and services must meet a certain level of quality. Which of the following are ways that insurance companies can deliver quality to customers?",
@@ -248,7 +248,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -363,7 +363,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -553,9 +553,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Each of seven principles of quality management is described in a box nextto an image.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of five smiley faces ranging from dissatisfied (downward lips)to satisfied (upward lips) to represent customer focus. Customer focusrefers to striving to exceed customer expectations.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of hands supporting three people to represent leadership. Leadershiprefers to establishing purpose and direction.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of people in circle, in the center an outline of a lightbulbto represent engagement of people. Engagement of people refers to motivatingand empowering employees.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of three people surrounded by a moving gear to represent processapproach. Process approach refers to maintaining effective, efficient,coherent processes.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of a bar chart with bars increasing in size to represent improvement.Improvement refers to focusing on continuous improvement in all areas.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of documents tucked inside of a magnifying glass. Evidence-baseddecision-making refers to carefully analyzing data to inform decisions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of shaking hands to represent relationship management. Relationshipmanagement refers to developing and sustaining stakeholder relationships.</span>"
-                        ],
+                        "image_w_text_tag": "Each of seven principles of quality management is described in a box nextto an image.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of five smiley faces ranging from dissatisfied (downward lips)to satisfied (upward lips) to represent customer focus. Customer focusrefers to striving to exceed customer expectations.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of hands supporting three people to represent leadership. Leadershiprefers to establishing purpose and direction.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of people in circle, in the center an outline of a lightbulbto represent engagement of people. Engagement of people refers to motivatingand empowering employees.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of three people surrounded by a moving gear to represent processapproach. Process approach refers to maintaining effective, efficient,coherent processes.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of a bar chart with bars increasing in size to represent improvement.Improvement refers to focusing on continuous improvement in all areas.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of documents tucked inside of a magnifying glass. Evidence-baseddecision-making refers to carefully analyzing data to inform decisions.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An image of shaking hands to represent relationship management. Relationshipmanagement refers to developing and sustaining stakeholder relationships.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -651,7 +649,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The ISO 9000 standards are only applicable to companies of a certain size and within the insurance industry.",
@@ -712,14 +710,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "The ISO 9000 principle of quality management that is about meeting customer needs and aiming to exceed customer expectations is",

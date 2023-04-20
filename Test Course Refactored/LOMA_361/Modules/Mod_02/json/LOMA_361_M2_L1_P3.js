@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Admitted Assets and Nonadmitted Assets",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -204,7 +174,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "The purpose of these classifications is to enable regulators to identify which of an insurer’s assets possess adequate liquidity. Recall that a <em>liquid asset</em> is one that can be readily converted to cash at an approximation of its underlying value. Liquid assets are crucial in enabling an insurer to satisfy its contractual obligations. In other words, admitted assets are assets whose values are “admitted” on the Annual Statement because they can easily be converted to cash—without a loss in value—to pay for an insurer’s obligations, whereas nonadmitted assets are assets whose value is “not admitted” because they do not possess this quality. By not allowing an insurer to report a value (or a full value) for a nonliquid asset, statutory regulators enforce the concept of conservatism, as discussed earlier in this text."
                     },
                     {
-                        "Paragraph_txt": "The excerpt below illustrates the treatment of admitted and nonadmitted assets on the <em>Assets </em>page of the Annual Statement:"
+                        "Paragraph_txt": "<br />The excerpt below illustrates the treatment of admitted and nonadmitted assets on the <em>Assets </em>page of the Annual Statement:"
                     }
                 ]
             },
@@ -342,7 +312,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -402,7 +372,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -495,12 +465,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.1 Admitted vs. Nonadmitted Assets</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "5-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Examples of Admitted Assets:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Cash and cash equivalents</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Most invested assets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policy loans</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment income due and accrued</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Deferred premiums</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Collected premiums</span><br /><br />Examples of Nonadmitted Assets:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Furniture and equipment</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prepaid expenses</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Automobiles</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Uncollected premiums over 90 days due</span>"
-                        ],
+                        "image_w_text_tag": "Examples of Admitted Assets:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Cash and cash equivalents</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Most invested assets</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policy loans</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Investment income due and accrued</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Deferred premiums</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Collected premiums</span><br /><br />Examples of Nonadmitted Assets:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Furniture and equipment</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prepaid expenses</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Automobiles</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Uncollected premiums over 90 days due</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -513,7 +514,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.1</strong> Admitted vs. Nonadmitted Assets",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -582,7 +583,40 @@ Lesson_Data_File([
                         "Paragraph_txt": "Note that the admitted and nonadmitted asset classifications are only relevant for statutory reporting purposes; under GAAP accounting, an insurer includes values for all of its assets in its financial statements. Because of this difference, the asset amounts in an insurer’s Annual Report rarely equal those shown on the <em>Assets</em> page of the insurer’s Annual Statement."
                     },
                     {
-                        "Paragraph_txt": "Figure 5.2 illustrates the distribution of net admitted assets for the U.S. life and health insurance industry in 2015."
+                        "Paragraph_txt": "<br />Figure 5.2 illustrates the distribution of net admitted assets for the U.S. life and health insurance industry in 2015."
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 5.2 Net Admitted Assets for U.S. Insurers</strong>"
                     }
                 ]
             },
@@ -590,9 +624,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Bar chart showing the relative importance of various invested assets forlife insurers:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Bonds: 42.77%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Separate accounts: 38.23%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• All other invested assets: 6.99%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Mortgage loans: 5.80%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Other assets: 3.23%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Stocks: 2.61%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real estate: 0.37%</span>"
-                        ],
+                        "image_w_text_tag": "Bar chart showing the relative importance of various invested assets forlife insurers:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Bonds: 42.77%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Separate accounts: 38.23%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• All other invested assets: 6.99%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Mortgage loans: 5.80%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Other assets: 3.23%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Stocks: 2.61%</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Real estate: 0.37%</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -605,7 +637,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 5.2</strong> Net Admitted Assets for U.S. Insurers",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -616,7 +648,7 @@ Lesson_Data_File([
                         "list_border_style": "",
                         "list_border_height": "",
                         "list_border_color": "",
-                        "image_text_below": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a><br/>"
+                        "image_text_below": ""
                     },
                     {
                         "image_text_color": "#bf0d3f",
@@ -671,6 +703,39 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
+                        "Paragraph_txt": "<a class=\"pdf_inline_style\" href=\"javascript:jb_src(0)\">Source</a>"
+                    }
+                ]
+            },
+            {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
                         "Paragraph_txt": "&nbsp;"
                     }
                 ]
@@ -688,7 +753,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "One example of a <em>nonadmitted</em> asset for a life insurer would be",

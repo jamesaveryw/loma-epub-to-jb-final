@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Cost Classification",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -245,12 +215,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 13.2 Cost Classification by Description</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "13-2figure.jpg",
-                        "image_w_text_tag": [
-                            "[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th><p>Cost Classification</p></th><th><p>Definition</p></th><th><p>Example</p></th></tr><tr><th><p>Direct cost</p></th><td><p>A cost that is identified specifically with a single cost object</p></td><td><p>To the group life insurance line of business, the salary of the division manager of group life insurance</p></td></tr><tr><th><p>Indirect cost</p></th><td><p>A cost that cannot be identified specifically with a single cost object</p></td><td><p>To a line of business, the salary of the company’s CEO</p></td></tr><tr><th><p>Controllable Cost</p></th><td><p>A cost over which a responsibility manager has decision-making authority</p></td><td><p>To a line of business, the cost of its supplies, travel, and employee overtime</p></td></tr><tr><th><p>Noncontrollable cost</p></th><td><p>A cost over which a responsibility manager has no decision-making authority</p></td><td><p>To a line of business, home office rent and depreciation on equipment</p></td></tr><tr><th><p>Sunk cost</p></th><td><p>A cost that already has been incurred and that cannot change as a result of a current or future decision</p></td><td><p>To a line of business, the cost of new computer equipment purchased</p></td></tr><tr><th><p>Discretionary cost</p></th><td><p>A cost that can be decreased or even eliminated as a result of a management decision without stopping the production of a good or service</p></td><td><p>To a life insurer, the costs of product advertising, promotional campaigns, and employee training</p></td></tr><tr><th><p>Differential cost</p></th><td><p>The difference in cost between two alternative choices; also known as <em>incremental cost</em></p></td><td><p>To the group insurance division, the difference in cost if a new line of business is added, and if the new line is not added, to the division</p></td></tr><tr><th><p>Unit cost</p></th><td><p>A cost attributable to a single measured amount of work</p></td><td><p>To a life insurer, the costs per $1,000 of insurance issued</p></td></tr><tr><th><p>Marginal cost</p></th><td><p>The additional cost incurred as a result of producing one additional unit of an existing product or service</p></td><td><p>To a life insurer, the additional cost of processing one more policy application per hour</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "[[NEEDS EDIT!!]]<table class=\"blue striped cellborders\"><tbody><tr><th><p>Cost Classification</p></th><th><p>Definition</p></th><th><p>Example</p></th></tr><tr><th><p>Direct cost</p></th><td><p>A cost that is identified specifically with a single cost object</p></td><td><p>To the group life insurance line of business, the salary of the division manager of group life insurance</p></td></tr><tr><th><p>Indirect cost</p></th><td><p>A cost that cannot be identified specifically with a single cost object</p></td><td><p>To a line of business, the salary of the company’s CEO</p></td></tr><tr><th><p>Controllable Cost</p></th><td><p>A cost over which a responsibility manager has decision-making authority</p></td><td><p>To a line of business, the cost of its supplies, travel, and employee overtime</p></td></tr><tr><th><p>Noncontrollable cost</p></th><td><p>A cost over which a responsibility manager has no decision-making authority</p></td><td><p>To a line of business, home office rent and depreciation on equipment</p></td></tr><tr><th><p>Sunk cost</p></th><td><p>A cost that already has been incurred and that cannot change as a result of a current or future decision</p></td><td><p>To a line of business, the cost of new computer equipment purchased</p></td></tr><tr><th><p>Discretionary cost</p></th><td><p>A cost that can be decreased or even eliminated as a result of a management decision without stopping the production of a good or service</p></td><td><p>To a life insurer, the costs of product advertising, promotional campaigns, and employee training</p></td></tr><tr><th><p>Differential cost</p></th><td><p>The difference in cost between two alternative choices; also known as <em>incremental cost</em></p></td><td><p>To the group insurance division, the difference in cost if a new line of business is added, and if the new line is not added, to the division</p></td></tr><tr><th><p>Unit cost</p></th><td><p>A cost attributable to a single measured amount of work</p></td><td><p>To a life insurer, the costs per $1,000 of insurance issued</p></td></tr><tr><th><p>Marginal cost</p></th><td><p>The additional cost incurred as a result of producing one additional unit of an existing product or service</p></td><td><p>To a life insurer, the additional cost of processing one more policy application per hour</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -263,7 +264,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 13.2</strong> Cost Classification by Description",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -418,7 +419,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -454,7 +455,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Last year, Forge Life Insurance spent $500,000 to upgrade its call center. This year, fewer customers are using the call center, and more customers are requesting online assistance. The estimated cost to upgrade Forge’s online service systems is $700,000. Forge’s CEO argues that it would be more economical to spend a smaller amount to encourage customers to use the call center, which the company has already paid for. The CEO proposes that the company should instead invest $150,000 in a program to promote the call center."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> Forge will not recover the sunk cost of $500,000, regardless of the decision the company makes. Forge should exclude this sunk cost and compare the relevant cost of $700,000 against the potential losses the company could see if Forge fails to meet its customers’ online expectations. Consider if Forge were to view the online service upgrades in terms of “total service investment,” and calculate the investment costs as $1,200,000 (last year’s $500,000 sunk cost + the $700,000 cost of the online service system upgrade) versus $650,000 (last year’s $500,000 sunk cost + the $150,000 cost of call center promotion). By focusing on sunk costs and not potential future losses, the company would assess this year’s potential improvements as more costly than they actually are. Therefore, the company might miss an affordable opportunity to increase customer loyalty."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> Forge will not recover the sunk cost of $500,000, regardless of the decision the company makes. Forge should exclude this sunk cost and compare the relevant cost of $700,000 against the potential losses the company could see if Forge fails to meet its customers’ online expectations. Consider if Forge were to view the online service upgrades in terms of “total service investment,” and calculate the investment costs as $1,200,000 (last year’s $500,000 sunk cost + the $700,000 cost of the online service system upgrade) versus $650,000 (last year’s $500,000 sunk cost + the $150,000 cost of call center promotion). By focusing on sunk costs and not potential future losses, the company would assess this year’s potential improvements as more costly than they actually are. Therefore, the company might miss an affordable opportunity to increase customer loyalty."
                     }
                 ]
             },
@@ -481,7 +482,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -541,7 +542,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -577,7 +578,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Last year, Strategist Life Insurance established a $750,000 advertising budget to promote its new line of annuity products. This year, Strategist reduced the advertising budget for these annuity products to $250,000."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> The advertising budget is a discretionary cost because this budget is not necessary for Strategist to create annuity products. Strategist could eliminate the entire advertising budget for its annuity line and still offer annuities to its customers. Therefore, Strategist can analyze the cost of advertising in the context of how much additional annuity revenue it is likely to generate."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> The advertising budget is a discretionary cost because this budget is not necessary for Strategist to create annuity products. Strategist could eliminate the entire advertising budget for its annuity line and still offer annuities to its customers. Therefore, Strategist can analyze the cost of advertising in the context of how much additional annuity revenue it is likely to generate."
                     }
                 ]
             },
@@ -604,7 +605,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -671,12 +672,43 @@ Lesson_Data_File([
                 ]
             },
             {
+                "Paragraphs_New": [
+                    {
+                        "Paragraph_align": "left",
+                        "Paragraph_Font_Size": "jb1",
+                        "Paragraph_Font_color": "",
+                        "Paragraph_Font_style": "",
+                        "Paragraph_Font_variant": "",
+                        "Paragraph_Font_weight": "",
+                        "Padding": "",
+                        "background_color": "",
+                        "top_margin": "20px",
+                        "border_color": "black",
+                        "border_weight": "thin",
+                        "border_style": "",
+                        "border_radius": "0px",
+                        "heading": "",
+                        "heading_font_size": "h2",
+                        "heading_alignment": "center",
+                        "heading_color": "",
+                        "heading_weight": "bold",
+                        "heading_style": "normal",
+                        "heading_variant": "normal",
+                        "heading_transform": "",
+                        "columns": "1",
+                        "line_spacing": "1.5",
+                        "background_image": ""
+                    },
+                    {
+                        "Paragraph_txt": "<strong>Figure 13.3 The Semi-Variable Costs of Electricity</strong>"
+                    }
+                ]
+            },
+            {
                 "image_w_text": [
                     {
                         "image_name": "13-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A line graph, showing fixed, variable, and semi-variable costs over sales volume.<br /><br />As volume increases, the fixed cost stays steady at $1,500.<br /><br />As volume increases, the variable costs start at $0 and rise at a steady rate.<br /><br />As volume increases, the total electricity cost starts at $1,500 and rises at the same rate as the variable costs rise. At each amount of volume sold, the total cost equals $1,500 + the variable cost at that volume."
-                        ],
+                        "image_w_text_tag": "A line graph, showing fixed, variable, and semi-variable costs over sales volume.<br /><br />As volume increases, the fixed cost stays steady at $1,500.<br /><br />As volume increases, the variable costs start at $0 and rise at a steady rate.<br /><br />As volume increases, the total electricity cost starts at $1,500 and rises at the same rate as the variable costs rise. At each amount of volume sold, the total cost equals $1,500 + the variable cost at that volume.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -689,7 +721,7 @@ Lesson_Data_File([
                         "image_size": "50%"
                     },
                     {
-                        "image_text": "<strong>Figure 13.3</strong> The Semi-Variable Costs of Electricity",
+                        "image_text": "",
                         "image_list": [],
                         "list_position": "bottom",
                         "top_margin": "10px",
@@ -880,7 +912,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -964,7 +996,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1089,7 +1121,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1173,7 +1205,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1209,7 +1241,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "A company incurs a marginal cost after all fixed costs applicable to a product or service have already been accounted for; therefore, marginal costs are always variable costs. Marginal cost information helps managers determine the monetary effect of a specific action and, in certain cases, whether an action should or should not be taken. Managers usually use this information to guide short-term decisions such as selling price or the amount of materials purchased."
                     },
                     {
-                        "Paragraph_txt": "Note that an increase in volume generally increases only variable costs. Therefore, an increase in volume can lower unit costs. Watch Video 13.1 for an example of how both unit costs and marginal costs are calculated."
+                        "Paragraph_txt": "<br />Note that an increase in volume generally increases only variable costs. Therefore, an increase in volume can lower unit costs. Watch Video 13.1 for an example of how both unit costs and marginal costs are calculated."
                     }
                 ]
             },
@@ -1379,10 +1411,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "When making decisions about expenditures, managers consider out-of-pocket costs. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">out-of-pocket cost</span> is a cost that requires outlays of cash or other resources. However, managers also need to consider the opportunity costs associated with a decision. An <span class=\"keyterm\" tabindex=\"0\" role=\"button\">opportunity cost</span> is the benefit that is forfeited or given up in choosing one decision alternative over another. Managers must be aware that all out-of-pocket costs carry associated opportunity costs—essentially, what the company could have gained by expending the out-of-pocket resources on another option. Note that sunk costs are not opportunity costs. An opportunity cost is a cost that may or may not yet be incurred, while a sunk cost is an actual financial cost that the company has already incurred."
                     },
                     {
-                        "Paragraph_txt": "A company does not actually know opportunity costs in advance; the company must estimate the costs for use in analysis and decision-making. As costs may change over time, a second, separate opportunity cost may be the cost of waiting as opposed to not having to wait."
+                        "Paragraph_txt": "<br />A company does not actually know opportunity costs in advance; the company must estimate the costs for use in analysis and decision-making. As costs may change over time, a second, separate opportunity cost may be the cost of waiting as opposed to not having to wait."
                     },
                     {
-                        "Paragraph_txt": "In addition, because no transactions are involved, a company’s accounting system does not capture the financial impact of opportunity costs. For management accounting purposes, financial analysis typically includes the impact of selecting one option over another, so both out-of-pocket and opportunity costs of various options are included for comparative purposes. However, for financial reporting purposes, a company’s financial statements do not include opportunity costs because these costs are not actual, objective costs. Managers analyze various alternatives to determine the out-of-pocket and opportunity costs of each option. Then a manager selects the option for which the potential benefits gained are greater than the opportunity costs of the remaining options."
+                        "Paragraph_txt": "<br />In addition, because no transactions are involved, a company’s accounting system does not capture the financial impact of opportunity costs. For management accounting purposes, financial analysis typically includes the impact of selecting one option over another, so both out-of-pocket and opportunity costs of various options are included for comparative purposes. However, for financial reporting purposes, a company’s financial statements do not include opportunity costs because these costs are not actual, objective costs. Managers analyze various alternatives to determine the out-of-pocket and opportunity costs of each option. Then a manager selects the option for which the potential benefits gained are greater than the opportunity costs of the remaining options."
                     }
                 ]
             },
@@ -1409,7 +1441,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1445,7 +1477,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "<strong>Example.</strong> Ranger Life Insurance is considering a new universal life product. The estimated out-of-pocket cost will be $1 million for research, actuarial work, systems, and marketing. Ranger’s management is also considering two other options: (1) a proposal for improving Ranger’s current universal life operating system or (2) a proposal for investing in new assets. Ranger can invest in only one of the three options: new product, improved operating system, or new assets. Alternatively, Ranger might choose not to invest the money at all, instead leaving it in an account to generate interest income."
                     },
                     {
-                        "Paragraph_txt": "<strong>Analysis.</strong> The operating system, new assets, and interest income are opportunity costs of the new product, as Ranger would be forfeiting their benefits if Ranger decides to pursue the new product. Similarly, if Ranger decides to use the funds either to improve the operating system or to invest in new assets, the new universal life product would be an opportunity cost of those decisions. The project manager therefore makes revenue and expense projections associated with (1) undertaking the new product, (2) enhancing the existing operating system, (3) investing in new assets, and (4) making no investment and instead generating interest income. In this way Ranger can assess which option would provide the greatest benefit, and which opportunity costs would be acceptable."
+                        "Paragraph_txt": "<br /><strong>Analysis.</strong> The operating system, new assets, and interest income are opportunity costs of the new product, as Ranger would be forfeiting their benefits if Ranger decides to pursue the new product. Similarly, if Ranger decides to use the funds either to improve the operating system or to invest in new assets, the new universal life product would be an opportunity cost of those decisions. The project manager therefore makes revenue and expense projections associated with (1) undertaking the new product, (2) enhancing the existing operating system, (3) investing in new assets, and (4) making no investment and instead generating interest income. In this way Ranger can assess which option would provide the greatest benefit, and which opportunity costs would be acceptable."
                     }
                 ]
             },
@@ -1472,7 +1504,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -1489,7 +1521,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Can you match the type of cost with its classification? Type in the correct number in the box after the type of cost.",
@@ -1555,14 +1587,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Last year, the Heroism Life Insurance Company issued 6,000 policies for a total cost of $1,800,000. This year, the company issued 6,500 policies for a total cost of $1,900,000. What is the marginal cost of issuing the additional 500 policies?",

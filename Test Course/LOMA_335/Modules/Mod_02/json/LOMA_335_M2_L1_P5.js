@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "Process Automation",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -178,7 +148,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "Companies today might not have to buy as much IT infrastructure as in the past because they can store their information in the <span class=\"keyterm\" tabindex=\"0\" role=\"button\">cloud</span>—a virtual data storage system that maintains digital data on multiple connected servers owned and managed by a hosting company. This advantage has a caveat, however: companies must still be able to secure their data. For greater control and visibility, many insurance companies still keep much of their information in-house."
                     },
                     {
-                        "Paragraph_txt": "Cyber breaches damage an insurance company’s reputation. Moreover, laws in most jurisdictions require insurance companies to take action to prevent the loss or corruption of customers’ nonpublic personal information. Most insurance companies are also required to protect proprietary information about the company itself. The insight below describes some regulations that apply to the insurance industry."
+                        "Paragraph_txt": "<br />Cyber breaches damage an insurance company’s reputation. Moreover, laws in most jurisdictions require insurance companies to take action to prevent the loss or corruption of customers’ nonpublic personal information. Most insurance companies are also required to protect proprietary information about the company itself. The insight below describes some regulations that apply to the insurance industry."
                     }
                 ]
             },
@@ -205,7 +175,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -241,13 +211,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "At the federal level, the <em>Gramm-Leach-Bliley (GLB) Act</em> requires financial services companies operating in the United States to protect the security and confidentiality of customers’ nonpublic personal information."
                     },
                     {
-                        "Paragraph_txt": "At the state level, the <em>National Association of Insurance Commissioners’ (NAIC’s) Model Privacy Act</em> establishes standards that insurers operating in the United States must follow when collecting, using, and disclosing personal information related to insurance transactions."
+                        "Paragraph_txt": "<br />At the state level, the <em>National Association of Insurance Commissioners’ (NAIC’s) Model Privacy Act</em> establishes standards that insurers operating in the United States must follow when collecting, using, and disclosing personal information related to insurance transactions."
                     },
                     {
-                        "Paragraph_txt": "The <em>Health Information Technology for Electronic and Clinical Health (HITECH) Act</em>, signed into law in 2009, addresses privacy and security issues associated with the electronic transmission of protected health information."
+                        "Paragraph_txt": "<br />The <em>Health Information Technology for Electronic and Clinical Health (HITECH) Act</em>, signed into law in 2009, addresses privacy and security issues associated with the electronic transmission of protected health information."
                     },
                     {
-                        "Paragraph_txt": "Similar regulations exist in other countries. For example, the Canadian provinces of Quebec, British Columbia, and Alberta have laws regulating how private-sector organizations can collect, use, and disclose personal information. Other Canadian provinces are governed by similar federal requirements in the <em>Personal Information Protection and Electronic Documents Act (PIPEDA)</em>."
+                        "Paragraph_txt": "<br />Similar regulations exist in other countries. For example, the Canadian provinces of Quebec, British Columbia, and Alberta have laws regulating how private-sector organizations can collect, use, and disclose personal information. Other Canadian provinces are governed by similar federal requirements in the <em>Personal Information Protection and Electronic Documents Act (PIPEDA)</em>."
                     }
                 ]
             },
@@ -274,7 +244,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -411,7 +381,7 @@ Lesson_Data_File([
                         "Paragraph_txt": "To support management and automation, most companies use <span class=\"keyterm\" tabindex=\"0\" role=\"button\">business process management systems.</span> Although systems differ somewhat, they typically provide process modeling tools for analysis; developer tools for system integration; dashboards for measuring, monitoring, and control; and user interaction to facilitate work."
                     },
                     {
-                        "Paragraph_txt": "Business process management systems typically rely on rules engines <span class=\"keyterm\" tabindex=\"0\" role=\"button\">. Rules engines</span>are software-based repositories of key business process rules that can be consistently applied in specified circumstances to produce the desired results. These programmed rules are the basis for automation. Rules engines require frequent review by IT based on business experience, feedback, and new findings. The insight below provides examples of business process management systems and their functions. "
+                        "Paragraph_txt": "<br />Business process management systems typically rely on rules engines <span class=\"keyterm\" tabindex=\"0\" role=\"button\">. Rules engines</span>are software-based repositories of key business process rules that can be consistently applied in specified circumstances to produce the desired results. These programmed rules are the basis for automation. Rules engines require frequent review by IT based on business experience, feedback, and new findings. The insight below provides examples of business process management systems and their functions. "
                     }
                 ]
             },
@@ -438,7 +408,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -474,25 +444,25 @@ Lesson_Data_File([
                         "Paragraph_txt": "<em>Customer experience management systems</em> manage all aspects of company interactions with and knowledge of each customer. Each interaction with a customer generates data—on demographics, behavior, satisfaction level, and more—that insurers can compile into profiles used to build long-term relationships, evaluate risk, and identify product needs."
                     },
                     {
-                        "Paragraph_txt": "<em>Automated workflow systems</em> support business process control by coordinating the flow of documents between process steps. These systems automatically prioritize, schedule, distribute, trigger, and even complete certain process steps."
+                        "Paragraph_txt": "<br /><em>Automated workflow systems</em> support business process control by coordinating the flow of documents between process steps. These systems automatically prioritize, schedule, distribute, trigger, and even complete certain process steps."
                     },
                     {
-                        "Paragraph_txt": "<em>Queueing management systems</em> model and analyze the work processes affected by waiting lines and establish rules for automatically routing items to service destinations. Insurers often use the information they gather from queueing management systems to measure the impact of volume changes on turnaround times or staffing needs."
+                        "Paragraph_txt": "<br /><em>Queueing management systems</em> model and analyze the work processes affected by waiting lines and establish rules for automatically routing items to service destinations. Insurers often use the information they gather from queueing management systems to measure the impact of volume changes on turnaround times or staffing needs."
                     },
                     {
-                        "Paragraph_txt": "<em>Financial management systems</em> keep track of income, expenses, and assets. They coordinate invoices, payments due and processed, and the security of payment information. They also provide decision makers with real-time,&nbsp;comprehensive access to financial information."
+                        "Paragraph_txt": "<br /><em>Financial management systems</em> keep track of income, expenses, and assets. They coordinate invoices, payments due and processed, and the security of payment information. They also provide decision makers with real-time,&nbsp;comprehensive access to financial information."
                     },
                     {
-                        "Paragraph_txt": "<em>Revenue management systems</em> apply models and measurements to predict how certain business decisions or market trends will affect company revenue."
+                        "Paragraph_txt": "<br /><em>Revenue management systems</em> apply models and measurements to predict how certain business decisions or market trends will affect company revenue."
                     },
                     {
-                        "Paragraph_txt": "<em>Knowledge management systems</em> gather, evaluate, and share a company’s information assets. They combine all of a company’s information resources and make that accumulated knowledge available to decision makers. Many insurers use knowledge management systems to give customer service representatives the information they need to answer customer questions."
+                        "Paragraph_txt": "<br /><em>Knowledge management systems</em> gather, evaluate, and share a company’s information assets. They combine all of a company’s information resources and make that accumulated knowledge available to decision makers. Many insurers use knowledge management systems to give customer service representatives the information they need to answer customer questions."
                     },
                     {
-                        "Paragraph_txt": "<em>Document management systems</em> manage electronic documents by centralizing and organizing document storage, controlling access to documents, automating routines for archiving, and ensuring regulatory compliance with records retention and privacy requirement."
+                        "Paragraph_txt": "<br /><em>Document management systems</em> manage electronic documents by centralizing and organizing document storage, controlling access to documents, automating routines for archiving, and ensuring regulatory compliance with records retention and privacy requirement."
                     },
                     {
-                        "Paragraph_txt": "<em>Content management systems</em> manage and store electronic content, including graphics and videos."
+                        "Paragraph_txt": "<br /><em>Content management systems</em> manage and store electronic content, including graphics and videos."
                     }
                 ]
             },
@@ -519,7 +489,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -555,10 +525,10 @@ Lesson_Data_File([
                         "Paragraph_txt": "We can expect technology use in the insurance industry to increase, fueling customers’ and companies’ expectations for self-service, mobile access, and personalization.<span class=\"ens\" id=\"loma335-ch4-span-83\"> <span class=\"endnote hidden\" data-note=\"loma335-ch4-en8\" epub:type=\"noteref\" id=\"loma335-ch4-span-84\" role=\"doc-noteref\">8</span> </span>To remain ahead of disruption from insurance companies as well as other participants moving into the insurance market, insurers should keep up with digital trends."
                     },
                     {
-                        "Paragraph_txt": "<em>Artificial intelligence, </em>introduced in Chapter 1<em>,</em> refers to the growing area of computer science that emphasizes the development of intelligent machines that work, learn, and react like humans. AI involves <span class=\"keyterm\" tabindex=\"0\" role=\"button\">machine learning</span>, which allows computers to identify patterns without being expressly told where or how to find them. AI has important implications for business process improvement in the insurance industry. For example, computers today can learn to categorize the severity of vehicle damage after an accident to help evaluate car insurance claims.<span class=\"ens\" id=\"loma335-ch4-span-86\"> <span class=\"endnote hidden\" data-note=\"loma335-ch4-en9\" epub:type=\"noteref\" id=\"loma335-ch4-span-87\" role=\"doc-noteref\">9</span> </span> "
+                        "Paragraph_txt": "<br /><em>Artificial intelligence, </em>introduced in Chapter 1<em>,</em> refers to the growing area of computer science that emphasizes the development of intelligent machines that work, learn, and react like humans. AI involves <span class=\"keyterm\" tabindex=\"0\" role=\"button\">machine learning</span>, which allows computers to identify patterns without being expressly told where or how to find them. AI has important implications for business process improvement in the insurance industry. For example, computers today can learn to categorize the severity of vehicle damage after an accident to help evaluate car insurance claims.<span class=\"ens\" id=\"loma335-ch4-span-86\"> <span class=\"endnote hidden\" data-note=\"loma335-ch4-en9\" epub:type=\"noteref\" id=\"loma335-ch4-span-87\" role=\"doc-noteref\">9</span> </span> "
                     },
                     {
-                        "Paragraph_txt": "AI can also make better use of data by analyzing the same data in different ways across business units. From customer experience management system data, an analyst can draw conclusions about both contact center initiatives and the company’s IT capabilities. Advanced AI can figure out <em>and</em> carry out both of these uses at once, allowing insurers more time for value-adding activities. The following insight summarizes some of the growing uses of AI in the insurance industry."
+                        "Paragraph_txt": "<br />AI can also make better use of data by analyzing the same data in different ways across business units. From customer experience management system data, an analyst can draw conclusions about both contact center initiatives and the company’s IT capabilities. Advanced AI can figure out <em>and</em> carry out both of these uses at once, allowing insurers more time for value-adding activities. The following insight summarizes some of the growing uses of AI in the insurance industry."
                     }
                 ]
             },
@@ -585,7 +555,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -695,7 +665,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -745,7 +715,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The cloud is a software-based repository of key business process rules that can be consistently applied in specified circumstances to produce the desired results.",

@@ -60,43 +60,13 @@ Lesson_Data_File([
                         "Paragraph_Font_variant": "",
                         "Paragraph_Font_weight": "",
                         "Padding": "",
-                        "background_color": "",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "",
-                        "border_radius": "0px",
-                        "heading": "The Operating Cycle",
-                        "heading_font_size": "h2",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    }
-                ]
-            },
-            {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
                         "background_color": "#FBF6D9",
                         "top_margin": "20px",
                         "border_color": "black",
                         "border_weight": "thin",
                         "border_style": "solid",
                         "border_radius": "0px",
-                        "heading": "Leaning Objectives",
+                        "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -371,13 +341,13 @@ Lesson_Data_File([
                         "Paragraph_txt": "All companies pay various <em>operating expenses</em>, which a company incurs in conducting its normal business operations. An insurer’s operating expenses are similar to those of many noninsurance companies and include such items as employee salaries, rent, maintenance, advertising, travel, and legal expenses."
                     },
                     {
-                        "Paragraph_txt": "Among the most significant operating expenses for insurers are agent commissions and salaries, which also represent a large use of an insurer’s funds. Most individual life insurance policies are sold on a commission basis. However, insurers typically compensate agents who sell group life insurance products on a salary basis."
+                        "Paragraph_txt": "<br />Among the most significant operating expenses for insurers are agent commissions and salaries, which also represent a large use of an insurer’s funds. Most individual life insurance policies are sold on a commission basis. However, insurers typically compensate agents who sell group life insurance products on a salary basis."
                     },
                     {
-                        "Paragraph_txt": "In addition, life insurers pay taxes that many noninsurance companies pay, including property taxes and unemployment taxes. Life insurers also pay some insurance-specific taxes and fees, such as premium taxes and licensing fees."
+                        "Paragraph_txt": "<br />In addition, life insurers pay taxes that many noninsurance companies pay, including property taxes and unemployment taxes. Life insurers also pay some insurance-specific taxes and fees, such as premium taxes and licensing fees."
                     },
                     {
-                        "Paragraph_txt": "The chart below classifies several specific insurer activities as either sources of funds or uses of funds and shows the accounts affected by each activity. Note that <em>Cash</em>, an asset account, increases when amounts are received and decreases when amounts are paid."
+                        "Paragraph_txt": "<br />The chart below classifies several specific insurer activities as either sources of funds or uses of funds and shows the accounts affected by each activity. Note that <em>Cash</em>, an asset account, increases when amounts are received and decreases when amounts are paid."
                     }
                 ]
             },
@@ -552,7 +522,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "For an insurance company, one example of a source of funds would be",

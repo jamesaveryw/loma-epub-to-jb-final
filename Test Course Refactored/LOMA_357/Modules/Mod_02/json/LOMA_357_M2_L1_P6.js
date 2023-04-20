@@ -290,9 +290,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-4figure.jpg",
-                        "image_w_text_tag": [
-                            "The three scales are sorted from highest quality—meaning the lowest riskof default—to lowest quality—meaning the highest risk of default.<br /><br />The Moody’s rating scale is: Aaa, Aa, A, Baa, Ba, B, Caa, Ca, and C. Theinvestment-grade ratings are Aaa, Aa, A, and Baa. The others are non-investmentgrade.<br /><br />The S&amp;P rating scale is: AAA, AA, A, BBB, BB, B, CCC, CC, C, and D.The investment-grade ratings are AAA, AA, A, and BBB. The others are non-investmentgrade.<br /><br />The SVO designation scale is: NAIC 1, NAIC 2, NAIC 3, NAIC 4, NAIC 5,and NAIC 6. The investment-grade ratings are NAIC 1 and NAIC 2. The othersare non-investment grade."
-                        ],
+                        "image_w_text_tag": "The three scales are sorted from highest quality—meaning the lowest riskof default—to lowest quality—meaning the highest risk of default.<br /><br />The Moody’s rating scale is: Aaa, Aa, A, Baa, Ba, B, Caa, Ca, and C. Theinvestment-grade ratings are Aaa, Aa, A, and Baa. The others are non-investmentgrade.<br /><br />The S&amp;P rating scale is: AAA, AA, A, BBB, BB, B, CCC, CC, C, and D.The investment-grade ratings are AAA, AA, A, and BBB. The others are non-investmentgrade.<br /><br />The SVO designation scale is: NAIC 1, NAIC 2, NAIC 3, NAIC 4, NAIC 5,and NAIC 6. The investment-grade ratings are NAIC 1 and NAIC 2. The othersare non-investment grade.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -472,7 +470,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "The NAIC’s Securities Valuation Office assigns designations to insurers’ fixed-income investments. The designations range from NAIC 1 to NAIC 6, with NAIC 1 representing the (<strong>best / worst</strong>) rating. The designations that signify investment-grade credit ratings are (<strong>NAIC 1 &amp; 2 / NAIC 5 &amp; 6</strong>).",
@@ -543,14 +541,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "For a life insurance company, regulatory capital is an investment constraint because it compels the company to invest money that could otherwise be held.",

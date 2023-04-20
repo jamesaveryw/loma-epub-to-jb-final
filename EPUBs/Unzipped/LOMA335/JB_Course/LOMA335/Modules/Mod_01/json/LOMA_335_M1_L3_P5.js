@@ -240,7 +240,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -312,7 +312,7 @@ Lesson_Data_File([
                         "Line_Style": "solid",
                         "Line_height": "2px",
                         "Line_Color": "#000000",
-                        "top_margin": "0px"
+                        "top_margin": "50px"
                     }
                 ]
             },
@@ -630,9 +630,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A bar chart showing the top five overall benefit priorities from an employerand employee perspective as follows:<br /><br />[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p><strong>Type of Benefit</strong></p></th><th><p><strong>Employee</strong></p></th><th><p><strong>Employer</strong></p></th></tr><tr><td><p>Health care insurance</p></td><td><p>87%</p></td><td><p>90%</p></td></tr><tr><td><p>Retirement savings plan</p></td><td><p>86%</p></td><td><p>92%</p></td></tr><tr><td><p>Vacation</p></td><td><p>77%</p></td><td><p>78%</p></td></tr><tr><td><p>Life insurance</p></td><td><p>62%</p></td><td><p>58%</p></td></tr><tr><td><p>Disability insurance</p></td><td><p>47%</p></td><td><p>58%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "A bar chart showing the top five overall benefit priorities from an employerand employee perspective as follows:<br /><br />[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p><strong>Type of Benefit</strong></p></th><th><p><strong>Employee</strong></p></th><th><p><strong>Employer</strong></p></th></tr><tr><td><p>Health care insurance</p></td><td><p>87%</p></td><td><p>90%</p></td></tr><tr><td><p>Retirement savings plan</p></td><td><p>86%</p></td><td><p>92%</p></td></tr><tr><td><p>Vacation</p></td><td><p>77%</p></td><td><p>78%</p></td></tr><tr><td><p>Life insurance</p></td><td><p>62%</p></td><td><p>58%</p></td></tr><tr><td><p>Disability insurance</p></td><td><p>47%</p></td><td><p>58%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -785,9 +783,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A bar chart showing the value of paid parental leave and disability insuranceto three age demographics as follows:<br /><br />[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p><strong>Age Demographic</strong></p></th><th><p><strong>Paid Parental Leave</strong></p></th><th><p><strong>Disability Insurance</strong></p></th></tr><tr><td><p>Age 20-39</p></td><td><p>40%</p></td><td><p>34%</p></td></tr><tr><td><p>Age 40-49</p></td><td><p>17%</p></td><td><p>49%</p></td></tr><tr><td><p>Age 50+</p></td><td><p>11%</p></td><td><p>62%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "A bar chart showing the value of paid parental leave and disability insuranceto three age demographics as follows:<br /><br />[[NEEDS EDIT!!]]<table class=\"striped blue\"><tbody><tr><th><p><strong>Age Demographic</strong></p></th><th><p><strong>Paid Parental Leave</strong></p></th><th><p><strong>Disability Insurance</strong></p></th></tr><tr><td><p>Age 20-39</p></td><td><p>40%</p></td><td><p>34%</p></td></tr><tr><td><p>Age 40-49</p></td><td><p>17%</p></td><td><p>49%</p></td></tr><tr><td><p>Age 50+</p></td><td><p>11%</p></td><td><p>62%</p></td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1040,7 +1036,7 @@ Lesson_Data_File([
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
                         "question": "Janelle Finley is doing a performance evaluation of one of her employees. Although the employee doesn’t always work collaboratively with her coworkers, Ms. Finley rates the employee as excellent on collaboration because the employee is excellent in the quality of her individual work. In this situation, Ms. Finley is likely subject to an evaluator bias known as",
@@ -1111,14 +1107,14 @@ Lesson_Data_File([
                         "Question_type": "1",
                         "text_color": "#000000",
                         "question_size": "jb1",
-                        "background_color": "",
+                        "background_color": "#FBF6D9",
                         "border_color": "",
                         "border_weight": "",
                         "border_style": "",
                         "border_radius": "10px",
                         "question_align": "left",
                         "feedback_align": "left",
-                        "top_margin": "10px",
+                        "top_margin": "0px",
                         "image": "",
                         "image_alt_text": "",
                         "question": "Jonny Brown recently attained an education designation and received $500. Mr. Brown’s compensation is a type of",
