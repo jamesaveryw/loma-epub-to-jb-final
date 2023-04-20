@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Describe the state regulatory requirements thatapply to life insurance and annuity advertisements"
                     }
                 ]
             },

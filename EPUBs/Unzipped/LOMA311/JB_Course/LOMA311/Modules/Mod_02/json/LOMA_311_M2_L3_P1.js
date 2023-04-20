@@ -51,39 +51,6 @@ Lesson_Data_File([
                 ]
             },
             {
-                "Paragraphs_New": [
-                    {
-                        "Paragraph_align": "left",
-                        "Paragraph_Font_Size": "jb1",
-                        "Paragraph_Font_color": "",
-                        "Paragraph_Font_style": "",
-                        "Paragraph_Font_variant": "",
-                        "Paragraph_Font_weight": "",
-                        "Padding": "",
-                        "background_color": "#FBF6D9",
-                        "top_margin": "20px",
-                        "border_color": "black",
-                        "border_weight": "thin",
-                        "border_style": "solid",
-                        "border_radius": "0px",
-                        "heading": "Learning Objective",
-                        "heading_font_size": "h3",
-                        "heading_alignment": "center",
-                        "heading_color": "",
-                        "heading_weight": "bold",
-                        "heading_style": "normal",
-                        "heading_variant": "normal",
-                        "heading_transform": "",
-                        "columns": "1",
-                        "line_spacing": "1.5",
-                        "background_image": ""
-                    },
-                    {
-                        "Paragraph_txt": ""
-                    }
-                ]
-            },
-            {
                 "Question_Comp": [
                     {
                         "Question_type": "1",

@@ -208,15 +208,17 @@ function getPages(lessonContents, path) {
 function getLOs(path) {
 	let LOs = [];
 	let LOContents = fs.readFileSync(path, "utf8");
+	const dom = new JSDOM(LOContents);
+	let doc = dom.window.document;
 	// remove line breaks and extra spacing
-	LOContents = LOContents.replace(/[\t\r\n]/g, "");
-	LOContents = LOContents.replace(/[ ]{2,}/g, "");
+	// LOContents = LOContents.replace(/[\t\r\n]/g, "");
+	// LOContents = LOContents.replace(/[ ]{2,}/g, "");
+	let loEls = slice(doc.querySelectorAll('ul.objectives li'));
+	// let matches = LOContents.match(/<li [^>]+>.*?<\/li>/g);
 
-	let matches = LOContents.match(/<li[^>]+>.*?<\/li>/g);
-
-	for (let match of matches) {
+	for (let loEl of loEls) {
 		LOs.push(
-			match.replace(/<li [^>]+><strong>.*?<\/strong>\s?(.*?)<\/li>/, "$1")
+			loEl.innerHTML.replace(/<strong>.*?<\/strong>\s?(.*?)/, "$1").replace(/[\t\r\n]/g, "").replace(/[ ]{2,}/g, "")
 		);
 	}
 

@@ -111,7 +111,7 @@ let lessonBuilder = {
 			// add objective. first page is list of LOs
 			// so it doesn't get one.
 			if (addObjectives && i > 1) {
-				this.pages[i].objective = lessonBuilder.objectives[i - 1];
+				this.pages[i].objective = lessonBuilder.objectives[i - 2];
 			}
 
 			// set the file name for the page

@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Explain U.S. federal antitrust laws and the types ofactivities they typically prohibit, and compare U.S. federal antitrustlaws to antitrust laws in other countries"
                     }
                 ]
             },

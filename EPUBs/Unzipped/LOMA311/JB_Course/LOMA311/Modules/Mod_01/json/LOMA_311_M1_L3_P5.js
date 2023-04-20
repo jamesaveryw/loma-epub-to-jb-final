@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Define a multinational corporation and describe waysin which companies can operate in a foreign country"
                     }
                 ]
             },

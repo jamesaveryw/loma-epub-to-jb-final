@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Describe and recognize an agency relationshipbetween a principal and an agent"
                     }
                 ]
             },

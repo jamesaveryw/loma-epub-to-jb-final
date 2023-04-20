@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Explain electronic commerce laws that are designedto facilitate electronic signatures, contracts, and documents"
                     }
                 ]
             },

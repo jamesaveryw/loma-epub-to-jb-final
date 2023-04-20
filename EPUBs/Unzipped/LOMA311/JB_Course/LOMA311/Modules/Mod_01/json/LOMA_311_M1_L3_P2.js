@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Identify the characteristics of a corporation thatmake it the ideal form of business organization for an insurance company"
                     }
                 ]
             },

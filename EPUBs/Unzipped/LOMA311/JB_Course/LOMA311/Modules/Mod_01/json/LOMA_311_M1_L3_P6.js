@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Compare the three primary groups of people who areinvolved in the management of a corporation and explain each group’s legalrights and duties"
                     }
                 ]
             },

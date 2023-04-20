@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Give examples of common state regulatory requirementsthat apply to insurance agents and sales activities"
                     }
                 ]
             },

@@ -240,7 +240,8 @@
                         "Identify the three stages of a civil action anddescribe the rules and procedures that the civil litigation process followsin the United States",
                         "Describe the general principles of tort law andexplain how liability for tortious conduct can be based on intentionaltorts, negligence, and strict liability",
                         "Differentiate between legal remedies and equitableremedies and describe the types of damages that may be awarded in civilactions",
-                        "Describe the equitable principles that equitycourts apply to determine whether to grant an equitable remedy to a plaintiff"
+                        "Describe the equitable principles that equitycourts apply to determine whether to grant an equitable remedy to a plaintiff",
+                        "Identify and describe two alternative disputeresolution methods"
                     ],
                     "answerKey": {
                         "loma311-ch2-question-1": {
@@ -433,6 +434,7 @@
                     ],
                     "objectives": [
                         "Identify the characteristics of a corporation thatmake it the ideal form of business organization for an insurance company",
+                        "Explain the steps a life insurer must take to do businessin the United States",
                         "Compare characteristics of corporations in the UnitedStates and other countries",
                         "Define a multinational corporation and describe waysin which companies can operate in a foreign country",
                         "Compare the three primary groups of people who areinvolved in the management of a corporation and explain each group’s legalrights and duties",
@@ -665,6 +667,7 @@
                         "Distinguish between (1) formal and informal contracts,(2) bilateral and unilateral contracts, (3) commutative and aleatory contracts,and (4) bargaining contracts and contracts of adhesion",
                         "Distinguish among valid contracts, void contracts,and voidable contracts",
                         "Identify and explain the four general requirementsfor the formation of a valid informal contract in most of the United States",
+                        "Identify some of the legal defenses that a defendantmay have against a lawsuit for breach of contract",
                         "Identify methods for discharging a contract anddescribe the remedies available for a breach of contract",
                         "Explain the purpose and effect of the Statuteof Frauds",
                         "Analyze the rules that the courts follow wheninterpreting the meaning of a contract",
@@ -926,6 +929,7 @@
                         "Identify various types of authority an agentmay possess to act on behalf of a principal",
                         "Describe an agent’s duties to the principal andthe principal’s duties to the agent, and identify the remedies availableif either party breaches the agency agreement",
                         "Identify situations in which a principal is liableto a third party with whom an agent deals on the principal’s behalf",
+                        "dentify situations in which an agent acting on behalfof a principal is liable to a third party",
                         "List the four methods by which an agency relationshipcan terminate, and explain when a principal has a duty to notify thirdparties of the termination"
                     ],
                     "answerKey": {
@@ -1129,10 +1133,13 @@
                     "objectives": [
                         "Distinguish between real property and personalproperty",
                         "Analyze common methods of acquiring property",
+                        "Identify the various forms of property ownershipand restrictions that may be placed on property ownership rights",
+                        "Explain how property is distributed when theproperty owner dies with a valid will and when the property owner dieswithout a valid will",
                         "Interpret the probate process and identify theroles that people play in administering an estate",
                         "Distinguish between copyrights, patents, andtrademarks or service marks, and explain how the owner of intellectualproperty can protect his rights in the property",
                         "Describe how Article 2 of the Uniform CommercialCode governs the sale of goods",
                         "Compare common types of negotiable instrumentsand identify the four requirements to qualify as a negotiable instrument",
+                        "Identify ways in which an instrument can be indorsedin the United States",
                         "Analyze the requirements that qualify the holderof a negotiable instrument as a holder in due course",
                         "Identify the parties who have liability undera negotiable instrument in a given situation",
                         "Distinguish between unsecured and secured credittransactions and describe the two basic requirements that must be met togain a security interest in personal property",
@@ -1313,8 +1320,10 @@
                     ],
                     "objectives": [
                         "Explain the preemption legal doctrine and describethe relationship between federal and state regulation in the United States",
+                        "Classify an insurance law as either a solvencylaw or a market conduct law",
                         "Describe the actions a state insurance departmentmay take if it finds that an insurer is in financial difficulty or is notcomplying with regulatory requirements",
                         "Identify and describe the tools available tostate insurance regulators to monitor the solvency of insurers",
+                        "Give examples of how the U.S. federal governmentregulates the life insurance industry in the United States",
                         "Identify life insurance and annuity productsthat qualify as securities and describe the types of regulatory requirementsthat federal securities laws impose on individuals and companies that issueand sell securities",
                         "Give examples of the types of regulatory requirementsthat apply to insurers around the world"
                     ],
@@ -1560,6 +1569,7 @@
                         "Give examples of common state regulatory requirementsthat apply to insurance agents and sales activities",
                         "Give examples of how state insurance laws regulateunderwriting, claim practices, and complaint handling",
                         "Compare and contrast U.S. privacy requirementsand the privacy requirements in the European Union and other countries",
+                        "Explain electronic commerce laws that are designedto facilitate electronic signatures, contracts, and documents",
                         "Give examples of measures that state insurancedepartments and insurers have taken to increase their capacity to detectand prevent insurance fraud",
                         "List the range of actions an insurance departmentcan take based on market analysis findings"
                     ],
@@ -1726,7 +1736,10 @@
                     ],
                     "objectives": [
                         "Identify and differentiate between the typesof groups in the United States that are eligible for group insurance",
+                        "List and describe the contract provisions requiredby the NAIC Group Life Insurance Model Act and most state insurance laws",
+                        "Explain the conditions under which the insureror group policyholder can end the group contract and identify the conversionprivilege that is available to insureds based on the conditions under whichtheir coverage ends",
                         "Describe the duties of plan administrators andplan fiduciaries in ERISA welfare benefit plans and ERISA retirement plans",
+                        "Distinguish among types of qualified retirementplans and describe various requirements that ERISA places on qualifiedretirement plans",
                         "Describe the most common funding instrument forqualified retirement plans"
                     ],
                     "answerKey": {
@@ -1925,6 +1938,7 @@
                         "Analyze the process of offer and acceptanceand identify other requirements the parties must meet to form a valid lifeinsurance contract",
                         "Explain the significance of the insurable interestrequirement and the consent requirement, and describe how the parties meetthese requirements",
                         "Determine in a given situation whether an insurancepolicy would be considered to have been delivered to the policyowner",
+                        "Distinguish between a closed contract and anopen contract, and identify the documents that constitute the entire contractbetween the insurer and the policyowner",
                         "Analyze the various types of temporary insuranceagreements, and explain how courts apply the doctrine of reasonable expectationsto interpret premium receipts",
                         "Identify the steps involved in the formation of annuitycontracts",
                         "Describe the types of activities that agency agreementstypically authorize insurance agents to perform on behalf of an insurer"
@@ -2088,6 +2102,7 @@
                         "In a given situation, identify the party towhom life insurance policy proceeds are payable following the insured’sdeath",
                         "Distinguish among the types of premiums a policyownermay pay, the payment methods she may use, and the ways an insurer may respondwhen a premium is unpaid",
                         "Distinguish among the various nonforfeitureoptions that insurers provide to owners of cash value life insurance policies",
+                        "Describe the policy loan provision and the policywithdrawal provision in a life insurance policy and distinguish betweena policy loan and a commercial loan",
                         "Describe the accelerated death benefit provisionand identify conditions under which the provision may apply",
                         "Identify and explain the requirements for thereinstatement of a life insurance policy",
                         "Identify the ownership rights that a contractowner has in an annuity"
@@ -2269,6 +2284,7 @@
                         "Distinguish between a viatical settlement anda life settlement",
                         "Explain the rights that creditors of a lifeinsurance policyowner or beneficiary have in the policy",
                         "Identify the parties to a trust agreement anddescribe the duties of the trustee and the rights of the trust beneficiary",
+                        "Describe reasons for establishing a trust anddistinguish among various types of trust",
                         "Identify the typical settlement options thata life insurance policy provides and describe the rights of beneficiariesand payees in regard to settlement options"
                     ],
                     "answerKey": {
@@ -2469,6 +2485,7 @@
                         "Distinguish between performance of a life insurancepolicy and contest of a life insurance policy",
                         "Describe the grounds on which an insurer maycontest the validity of a life insurance policy",
                         "Describe the three elements of a material misrepresentation",
+                        "Explain the actions an insurer may take whenit discovers a misrepresentation of the insured’s age or sex",
                         "Explain how the incontestability provision limitsan insurer’s right to contest the validity of a life insurance policy,and identify other barriers to contesting a policy",
                         "Distinguish among the types of mistakes thatcan affect the validity of a life insurance policy",
                         "Define common legal and equitable remedies availableto the parties to a life insurance policy"
@@ -2646,6 +2663,7 @@
                     "objectives": [
                         "Explain an insurer’s duties to perform annuitycontracts according to the most common annuitized payout options as wellas the terms of structured settlement agreements",
                         "List the tasks that make up the standard claimprocedures insurers follow when processing life insurance claims",
+                        "Describe how insurers determine the proper payeeof life insurance policy proceeds in situations involving conflicting claimants,common disasters, and short-term survivorship",
                         "Calculate the amount of policy proceeds payableunder a life insurance policy",
                         "Explain how insurers handle life insurance claimsituations that may involve fraud as well as those that involve policyexclusions, disappearance of the insured, disqualification of the beneficiary,and accidental death benefits",
                         "Describe how insurers can settle claim disputesthrough compromise settlements, and explain how conflict of laws rulesapply in civil actions involving life insurance policies"

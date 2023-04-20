@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "List the range of actions an insurance departmentcan take based on market analysis findings"
                     }
                 ]
             },

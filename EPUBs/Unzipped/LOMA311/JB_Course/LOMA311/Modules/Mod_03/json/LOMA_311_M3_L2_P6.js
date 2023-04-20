@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Compare and contrast U.S. privacy requirementsand the privacy requirements in the European Union and other countries"
                     }
                 ]
             },

@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Give examples of how state insurance laws regulateunderwriting, claim practices, and complaint handling"
                     }
                 ]
             },

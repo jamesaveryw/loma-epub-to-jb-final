@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Identify and explain the provisions that stateinsurance laws require insurers to include in individual life insurancepolicy forms"
                     }
                 ]
             },

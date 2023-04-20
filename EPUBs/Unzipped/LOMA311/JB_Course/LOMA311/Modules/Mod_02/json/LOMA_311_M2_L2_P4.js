@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Describe an agent’s duties to the principal andthe principal’s duties to the agent, and identify the remedies availableif either party breaches the agency agreement"
                     }
                 ]
             },

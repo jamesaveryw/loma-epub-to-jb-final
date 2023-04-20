@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Distinguish among the types of mistakes thatcan affect the validity of a life insurance policy"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

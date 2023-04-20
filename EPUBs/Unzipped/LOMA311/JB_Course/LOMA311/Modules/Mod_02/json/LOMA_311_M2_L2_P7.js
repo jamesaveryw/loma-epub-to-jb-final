@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "List the four methods by which an agency relationshipcan terminate, and explain when a principal has a duty to notify thirdparties of the termination"
                     }
                 ]
             },

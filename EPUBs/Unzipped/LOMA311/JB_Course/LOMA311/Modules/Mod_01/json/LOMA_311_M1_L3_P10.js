@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "List the nondiscrimination requirements that U.S. federaland state laws typically impose on employers"
                     }
                 ]
             },

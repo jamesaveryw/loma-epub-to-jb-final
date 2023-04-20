@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Explain how the incontestability provision limitsan insurer’s right to contest the validity of a life insurance policy,and identify other barriers to contesting a policy"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

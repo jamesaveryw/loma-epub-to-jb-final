@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Define common legal and equitable remedies availableto the parties to a life insurance policy"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

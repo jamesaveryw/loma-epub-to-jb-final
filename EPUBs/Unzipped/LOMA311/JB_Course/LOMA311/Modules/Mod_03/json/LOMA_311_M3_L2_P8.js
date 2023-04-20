@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Give examples of measures that state insurancedepartments and insurers have taken to increase their capacity to detectand prevent insurance fraud"
                     }
                 ]
             },

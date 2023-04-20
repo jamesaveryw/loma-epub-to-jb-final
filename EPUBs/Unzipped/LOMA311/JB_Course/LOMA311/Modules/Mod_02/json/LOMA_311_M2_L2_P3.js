@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Identify various types of authority an agentmay possess to act on behalf of a principal"
                     }
                 ]
             },

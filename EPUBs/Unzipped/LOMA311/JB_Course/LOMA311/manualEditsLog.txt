@@ -1,64 +1,60 @@
 
 LOMA_311_M1_L1:
-	Lesson has 7 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+	Lesson has 7 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
 
 	LOMA_311_M1_L1_P2 has a matching question that needs to be revised. Look for "[[Matching q-type. NEEDS EDIT.]]" in LOMA_311_M1_L1_P2.js. Refer to Sources of Law in chapter 1 of the EPUB to see the question.
 
 
 LOMA_311_M1_L2:
-	Lesson has 4 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+	Lesson has 5 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
 
 
 LOMA_311_M1_L3:
-	Lesson has 8 learning objectives, but 10 pages. Need to add relevant LOs to the beginning of each page.
-
 	LOMA_311_M1_L3_P10 has a video (Video 3.2) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_311_M1_L3_P10.js. Refer to Employment Regulation in chapter 3 of the EPUB to see the transcript.
 
 
 LOMA_311_M2_L1:
-	Lesson has 8 learning objectives, but 9 pages. Need to add relevant LOs to the beginning of each page.
+	Lesson has 9 learning objectives, but 8 pages. Need to add relevant LOs to the beginning of each page.
 
 	LOMA_311_M2_L1_P4 has a figure (Figure 4.4) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_311_M2_L1_P4.js. Refer to General Requirements for a Contract in chapter 4 of the EPUB to see the figure description.
 
 
 LOMA_311_M2_L2:
-	Lesson has 5 learning objectives, but 7 pages. Need to add relevant LOs to the beginning of each page.
-
 	LOMA_311_M2_L2_P6 has a video (Video 5.1) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_311_M2_L2_P6.js. Refer to Agent’s Liabilities to Third Parties in chapter 5 of the EPUB to see the transcript.
 
 
 LOMA_311_M2_L3:
-	Lesson has 10 learning objectives, but 8 pages. Need to add relevant LOs to the beginning of each page.
+	Lesson has 13 learning objectives, but 7 pages. Need to add relevant LOs to the beginning of each page.
 
 
 LOMA_311_M3_L1:
-	Lesson has 5 learning objectives, but 6 pages. Need to add relevant LOs to the beginning of each page.
-
-
-LOMA_311_M3_L2:
-	Lesson has 7 learning objectives, but 9 pages. Need to add relevant LOs to the beginning of each page.
-
-
-LOMA_311_M3_L3:
-	Lesson has 3 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
-
-
-LOMA_311_M4_L1:
-	Lesson has 6 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
-
-
-LOMA_311_M4_L2:
-	Lesson has 7 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
-
-
-LOMA_311_M4_L3:
 	Lesson has 7 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
 
 
+LOMA_311_M3_L2:
+
+LOMA_311_M3_L3:
+	Lesson has 6 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_311_M4_L1:
+	Lesson has 7 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_311_M4_L2:
+	Lesson has 8 learning objectives, but 2 pages. Need to add relevant LOs to the beginning of each page.
+
+
+LOMA_311_M4_L3:
+	Lesson has 8 learning objectives, but 4 pages. Need to add relevant LOs to the beginning of each page.
+
+
 LOMA_311_M4_L4:
+	Lesson has 7 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+
 
 LOMA_311_M4_L5:
-	Lesson has 5 learning objectives, but 3 pages. Need to add relevant LOs to the beginning of each page.
+	Lesson has 6 learning objectives, but 2 pages. Need to add relevant LOs to the beginning of each page.
 
 	LOMA_311_M4_L5_P3 has a video (Video 14.2) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_311_M4_L5_P3.js. Refer to Performance of the Life Insurance Contract in chapter 14 of the EPUB to see the transcript.
 

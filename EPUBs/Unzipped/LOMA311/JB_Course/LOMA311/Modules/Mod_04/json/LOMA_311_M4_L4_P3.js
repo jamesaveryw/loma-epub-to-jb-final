@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Describe the three elements of a material misrepresentation"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Identify situations in which a principal is liableto a third party with whom an agent deals on the principal’s behalf"
                     }
                 ]
             },

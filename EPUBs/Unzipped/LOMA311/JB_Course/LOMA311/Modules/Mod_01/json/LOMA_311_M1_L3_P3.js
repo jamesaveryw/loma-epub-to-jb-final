@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Explain the steps a life insurer must take to do businessin the United States"
                     }
                 ]
             },

@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Describe the grounds on which an insurer maycontest the validity of a life insurance policy"
+                        "Paragraph_txt": ""
                     }
                 ]
             },
