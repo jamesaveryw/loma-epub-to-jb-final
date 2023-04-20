@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Define business process reengineering and explainwhen it might be appropriate for a company to use business process reengineeringinstead of continuous process improvement"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

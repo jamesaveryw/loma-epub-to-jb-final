@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Distinguish between incremental and breakthroughinnovation, and explain the importance to insurers of moving beyond incrementalinnovation to breakthrough innovation"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

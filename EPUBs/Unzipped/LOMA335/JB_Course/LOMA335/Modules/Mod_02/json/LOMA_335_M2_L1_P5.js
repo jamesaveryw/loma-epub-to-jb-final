@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Discuss technologies used in process managementand explain how they can improve process efficiency"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Distinguish between analytical and innovative thinkingand describe the steps in the innovative thinking framework, includingproblems such as plastic words"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

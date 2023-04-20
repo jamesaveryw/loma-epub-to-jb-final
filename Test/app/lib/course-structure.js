@@ -212,7 +212,7 @@ function getLOs(path) {
 	LOContents = LOContents.replace(/[\t\r\n]/g, "");
 	LOContents = LOContents.replace(/[ ]{2,}/g, "");
 
-	let matches = LOContents.match(/<li [^>]+>.*?<\/li>/g);
+	let matches = LOContents.match(/<li[^>]+>.*?<\/li>/g);
 
 	for (let match of matches) {
 		LOs.push(

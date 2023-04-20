@@ -77,6 +77,7 @@ let lessonBuilder = {
 		lessonBuilder.altText = lesson.altText;
 		lessonBuilder.objectives = lesson.objectives;
 		lessonBuilder.pages = lesson.pages;
+		console.log(lesson.pages.length)
 		lessonBuilder.widgets = 0;
 		lessonBuilder.course_id = courseID.replace(/([A-Z]+)(\d+)/, "$1_$2");
 		lessonBuilder.lesson_id = `${lessonBuilder.course_id}_M${modNum}_L${lessonNum}`;
@@ -90,17 +91,18 @@ let lessonBuilder = {
 		lessonBuilder.doc;
 		lessonBuilder.prevSnippet;
 
+			console.log(`${lessonBuilder.lesson_id} has ${lessonBuilder.objectives.length} learning objectives, but ${lessonBuilder.pages.length - 2} pages.`);
 
 		// compare pages.length to objectives.length
 		// assign objectives if equal
 		// add to manual log if not equal
 		let addObjectives = false;
-		if (lessonBuilder.objectives.length == lessonBuilder.pages.length - 1) {
+		if (lessonBuilder.objectives.length == lessonBuilder.pages.length - 2) {
 			addObjectives = true;
 		} else {
 			// console.log(`${lessonBuilder.lesson_id} has ${lessonBuilder.objectives.length} learning objectives, but ${lessonBuilder.pages.length - 1} pages.`);
 
-			lessonBuilder.editLog[`${lessonBuilder.lesson_id}`].push(`Lesson has ${lessonBuilder.objectives.length} learning objectives, but ${lessonBuilder.pages.length - 1} pages. Need to add relevant LOs to the beginning of each page.`);
+			lessonBuilder.editLog[`${lessonBuilder.lesson_id}`].push(`Lesson has ${lessonBuilder.objectives.length} learning objectives, but ${lessonBuilder.pages.length - 2} pages. Need to add relevant LOs to the beginning of each page.`);
 		}
 		
 		let tocPages = []
@@ -108,7 +110,7 @@ let lessonBuilder = {
 		for (let i = 0; i < this.pages.length; i++) {
 			// add objective. first page is list of LOs
 			// so it doesn't get one.
-			if (addObjectives && i > 0) {
+			if (addObjectives && i > 1) {
 				this.pages[i].objective = lessonBuilder.objectives[i - 1];
 			}
 
@@ -160,7 +162,7 @@ let lessonBuilder = {
 		const dom = new JSDOM(pageContent);
 		lessonBuilder.doc = dom.window.document;
 		
-		if (!/LO$/.test(fileName)) {
+		if (!/(?:LO|P1)$/.test(fileName)) {
 			// add LO elements to beginning of page
 			let divLO = lessonBuilder.doc.createElement("div");
 			let headingLO = lessonBuilder.doc.createElement("h3");
