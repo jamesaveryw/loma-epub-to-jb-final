@@ -7,7 +7,7 @@ var course_settings =
 		"Portal_Setup":
 			{	
 				//COURSE_TYPE = hioc || hybrid || pdf || shortcourseA || demo-hioc || demo-hybrid || demo-pdf || demo-shortcourseA || more???
-				"Course_Type": "hybrid",
+				"Course_Type": "demo-hioc",
 
 				"Course_Number": "311",
 				"Course_Folder": "LOMA_311",				
@@ -353,9 +353,11 @@ var course_settings =
 					
 			//HIOC
 			"lesson_paragraph":	[
-				{"MLP_text":"Life insurance policies vary widely, and sometimes cover more than one person, or a minor child. Sometimes a business purchases a policy to cover business-related needs. Learn how underwriters evaluate applications for these different types of life insurance, as well as policy riders that provide supplemental benefits."},
+				{"MLP_text":"Cillum reprehenderit excepteur cillum elit et amet ea fugiat in nostrud. Aute qui quis magna nisi ullamco velit pariatur sit id voluptate. Non veniam ex magna id ea proident. Adipisicing aliquip consectetur sit mollit labore ad non voluptate. Cupidatat officia dolor irure ex mollit minim ea ipsum voluptate voluptate id qui eiusmod proident. Laborum exercitation incididunt adipisicing veniam laborum ea enim proident eiusmod mollit excepteur culpa."},
 				
-				{"MLP_text":"Crystal admits that she doesn’t know much about underwriting for group life insurance policies. Her colleague Jack explains that group underwriting can be a complex process. Learn along with Crystal about how the group underwriting process works, the risk factors involved, and the details of how group policies are administered."},
+				{"MLP_text":"Cupidatat ea nostrud commodo sit anim sunt commodo laborum irure occaecat. Est quis ea quis tempor consequat minim do nostrud. Nisi laboris consectetur officia laborum cillum. Velit culpa pariatur labore reprehenderit ipsum velit officia adipisicing."},
+				
+				{"MLP_text":"Sit enim adipisicing do occaecat non qui nostrud Lorem consectetur. Cillum adipisicing eiusmod nostrud amet officia laborum proident elit pariatur dolore. Ipsum ea commodo exercitation cillum veniam ullamco incididunt ullamco nulla."},
 			],
 			
 			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",
@@ -397,9 +399,11 @@ var course_settings =
 			//HIOC
 			"lesson_paragraph":
 			[
-				{"MLP_text":"Byron is proud of what his team has accomplished. When customers have a positive experience with an insurance company, they benefit, and the company benefits as well. How do insurers organize customer service departments to best address customer needs? What systems and technologies do they use? Byron takes us through the fundamentals of customer service in this lesson."},
+				{"MLP_text":"Enim eu elit consequat minim qui sint et Lorem non consequat non irure eu. Ut sint aliquip aliqua laborum eu eu laborum nostrud. Aute eiusmod cillum velit in magna cupidatat aliquip."},
 				
-				{"MLP_text":"Kerry contacts the policyowner service department at Bountiful Life when she has questions related to Robert’s policy. Responding to customer questions is one of many important functions CSRs perform. What other transactions do CSRs complete? How do they handle complicated policyowner issues? In this lesson, Byron shows us how CSRs provide essential services to owners of in-force policies."},
+				{"MLP_text":"Excepteur consequat ipsum quis Lorem irure laborum ea. Pariatur Lorem consectetur pariatur nulla id ad non aliqua nostrud. Consequat cupidatat exercitation sint cupidatat consequat excepteur. Sunt aute aliqua anim cupidatat nulla Lorem in. Occaecat fugiat eiusmod occaecat id. Esse incididunt consequat et eiusmod laborum ullamco cupidatat enim ipsum adipisicing ea laborum dolor."},
+
+				{"MLP_text":"Veniam do aute proident occaecat non commodo ipsum cupidatat. Ipsum aliquip tempor aliquip eu pariatur commodo nisi. Nostrud deserunt amet consectetur commodo ullamco."}
 			],
 			
 			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",
@@ -443,11 +447,15 @@ var course_settings =
 			//HIOC
 			"lesson_paragraph":
 			[
-				{"MLP_text":"Kerry files a claim with Bountiful Life when Robert dies. Who handles her claim? What systems are in place to carry out this important function? In this lesson, Jenna explains how claims departments are organized, the workflow strategies insurers use, and the legal issues related to claims. "},
+				{"MLP_text":"Eiusmod reprehenderit incididunt sit consequat eu tempor ipsum commodo. In do qui non sit eiusmod magna eiusmod. Do ut fugiat labore occaecat ex ipsum qui in. Officia exercitation eu aliquip ex aliqua id voluptate quis cillum excepteur. Incididunt commodo excepteur duis laboris mollit eiusmod enim. Lorem occaecat amet velit aliqua elit do sit minim nostrud mollit."},
 				
-				{"MLP_text":"Claim analysts must verify several key pieces of information during the claims evaluation process. They confirm the validity of claims using various documents that claimants submit, and ultimately they decide whether to approve or deny each claim. In this lesson, Jenna leads us through the first several steps of the process."},
+				{"MLP_text":"Nisi exercitation aliqua enim eiusmod in voluptate. Officia elit eiusmod magna cupidatat non dolor qui. Fugiat aliqua aliquip amet voluptate anim cupidatat aliquip commodo incididunt laboris consequat qui nulla. Pariatur ipsum cupidatat sunt nisi quis nisi sit elit dolore. Adipisicing esse magna dolor in enim anim. Eu dolor commodo ut laboris dolore et ipsum aliqua occaecat."},
 				
-				{"MLP_text":"After a claim analyst approves a claim, she must determine who receives the proceeds. In many instances this step is relatively simple, but in others the claim analyst encounters various challenges. Learn how claims personnel handle these different situations, and then try evaluating a couple of claims yourself."},
+				{"MLP_text":"Voluptate eiusmod anim labore deserunt Lorem do aliquip ullamco tempor in occaecat nulla est nulla. Laboris sunt ex nisi irure. Labore laborum aliqua nulla do voluptate amet do cupidatat do velit fugiat occaecat. Ex officia nisi consectetur occaecat dolor quis est minim reprehenderit aliquip. Dolor proident incididunt ipsum id aute incididunt dolor."},
+
+				{"MLP_text":"Voluptate cupidatat laboris commodo officia non reprehenderit non nisi esse. Ullamco culpa fugiat commodo consectetur mollit. Qui nisi Lorem in cillum dolor adipisicing. Ex culpa quis occaecat in ex in elit."},
+				
+				{"MLP_text":"Culpa ipsum in laboris sint incididunt velit. Et incididunt dolor esse qui adipisicing ex ad tempor sit. Voluptate cillum velit ut cillum aute sunt consequat id laborum ea."}
 			],
 
 			//HYBRID
