@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Describe the four primary business objectives forinnovation"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

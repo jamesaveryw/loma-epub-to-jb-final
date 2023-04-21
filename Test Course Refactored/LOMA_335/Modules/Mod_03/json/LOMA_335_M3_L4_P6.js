@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Describe cognitive biases and constraints that canaffect the execution of innovation in business organizations"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

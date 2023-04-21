@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Describe the management of innovation and the useof an innovation portfolio matrix as an aid in decision making"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

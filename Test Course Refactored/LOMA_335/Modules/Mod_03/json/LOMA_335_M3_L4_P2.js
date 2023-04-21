@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Describe the four primary business objectives forinnovation"
+                        "Paragraph_txt": ""
                     }
                 ]
             },
@@ -348,7 +348,7 @@ Lesson_Data_File([
             {
                 "image_w_text": [
                     {
-                        "image_name": "../../imgs/loma_335_chapter-102.png",
+                        "image_name": "loma_335_chapter-102.png",
                         "image_w_text_tag": "A vertical arrow illustrates the degree of innovation. From the top tobottom: Incremental innovation has the least risk and the least cost. Breakthroughinnovation has the most risk and the greatest cost to innovate.",
                         "border_style": "",
                         "border_height": "",

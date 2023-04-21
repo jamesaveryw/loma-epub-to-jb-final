@@ -424,7 +424,7 @@ Lesson_Data_File([
             {
                 "image_w_text": [
                     {
-                        "image_name": "../../imgs/loma_335_chapter-1_f.png",
+                        "image_name": "1-2figure.png",
                         "image_w_text_tag": "A drawing of a column illustrates how certain insurance company operationssupport other company operations. A list of primary insurance company operationssits on top of the column and a list of insurance company support operationsare located on the column.<br /><br /><strong>Primary operations</strong> on the top of the column are: (1) productdevelopment &amp; implementation, (2) sales &amp; distribution, (3) underwriting,(4) policy issue &amp; new business, (5) policy administration, (6) customerservice, (7) customer retention, and (8) claims.<br /><br /><strong>Support operations</strong> located on the column are: (1) marketingresearch, (2) information technology, (3) human resources, (4) accounting/auditing,(4) internal control, (5) other general administration.",
                         "border_style": "",
                         "border_height": "",

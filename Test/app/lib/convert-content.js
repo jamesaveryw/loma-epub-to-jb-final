@@ -935,7 +935,7 @@ function buildFigure(figure) {
 	lessonBuilder.prevSnippet = "image";
 	let JB_Image = JB.JB_Image();
 	let imgSrc = figure.querySelector("img").src;
-	imgSrc = imgSrc.replace(/\.\.\/\.\.\/imgs\/(.*?\.jpg)/, "$1");
+	imgSrc = imgSrc.replace(/\.\.\/\.\.\/imgs\/(.*?\.(?:png|jpg))/, "$1");
 	JB_Image.image_w_text[0].image_name = imgSrc;
 
 	// set image title

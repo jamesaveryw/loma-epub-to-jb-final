@@ -7,9 +7,9 @@ var course_settings = {
 		//COURSE_TYPE = hioc || hybrid || pdf || shortcourseA || demo-hioc || demo-hybrid || demo-pdf || demo-shortcourseA || immersion || more???
 		Course_Type: "demo-hioc",
 
-		Course_Number: "311", //"NY Reg 187",//
-		Course_Folder: "LOMA_311", //LOMA_302, NY_Reg_187
-		Course_Name: "LOMA 311", //"NY Reg 187",//"LOMA 361", // PLEASE KEEP THIS SAME FORMAT --> "LOMA 361", "SRI 111", etc !!!!
+		Course_Number: "335", //"NY Reg 187",//
+		Course_Folder: "LOMA_335", //LOMA_302, NY_Reg_187
+		Course_Name: "LOMA 335", //"NY Reg 187",//"LOMA 361", // PLEASE KEEP THIS SAME FORMAT --> "LOMA 361", "SRI 111", etc !!!!
 
 		// Requirements for entering the course
 		showTerms: true,
@@ -30,11 +30,11 @@ var course_settings = {
 		course_locale: "en-US", // en-US || zh-CN (Simplified) || zh-TW (Traditional) || fr-CA
 
 		LM_Logo: "LOMA_logo_Tagline_Reverse.png", // loma_blue.png, sri_logo_rev.png, or LLG.png
-		Course_Title: "Business Law for Insurance Professionals",
+		Course_Title: "Operational Excellence for Insurance Professionals",
 
 		//HYBRID
 		About: {
-			Infographic: "LOMA_361_InfoGraphic.jpg",
+			Infographic: "LOMA_335_InfoGraphic.jpg",
 			Alt_Text: "An infographic describing course content by chapters using bulleted items"
 		},
 
@@ -42,7 +42,7 @@ var course_settings = {
 
 		Welcome_text: {
 			Intro_Copy: [
-				"LOMA 311—<i>Business Law for Insurance Professionals</i>—provides a basic knowledge of the legal and regulatory environment surrounding the life insurance industry. Students will gain more awareness of potential legal and regulatory issues that may arise as they do their jobs. In addition, students will gain better understanding of important legal and regulatory challenges that affect the life insurance industry. Select <b>About</b> for a course overview.",
+				"The insurance industry is in the midst of fundamental changes in technology, products and markets, and customer expectations. <i>LOMA 335—Operational Excellence for Insurance Professionals</i> presents the business conditions and risks unique to the life insurance industry and helps you understand how to maximize value from company operations.",
 
 				'<span style="color: #CC0000;font-weight: bold;font-style:italic;">Warning:</span> If you open the course on more than one device at a time, you risk losing your progress. Make sure to Exit the course using the Exit icon <img src="includes/images/glyphicons-389-exit.png" alt=""> or the course menu in the course portal after each session.'
 			]
@@ -72,11 +72,11 @@ var course_settings = {
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 1 )>-------		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "Life Insurance Companies and Legal Issues",
+			Title: "People and Purpos",
 
 			Image: "",
 
-			Paragraph: "<b>Learn the basics about legal systems and how they affect life insurance companies. Module 1</b> 1 explains primary sources of law, types of legal systems, and the organization of federal and court systems in the United States. In addition, this module describes civil actions, tort law, and the methods that courts use to resolve disputes. Finally, you’ll learn about the legal requirements that apply to life insurance companies, the legal characteristics of corporations, and the antitrust, consumer protection, and nondiscrimination laws and regulations that a life insurer must obey.",
+			Paragraph: "<b>Learn the fundamentals for managing insurance company operations. Module 1</b> introduces you to insurance company stakeholders, the four functions of management, as well as strategies for creating a strategically aligned organization in a changing operating environment. You’ll also learn about leading and motivating people individually, as well as in groups.",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
@@ -105,13 +105,13 @@ var course_settings = {
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 2 )>-------				//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "Areas of Business Law",
+			Title: "Business Processes",
 
 			Image: "ACS101_M2.png",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
-			Paragraph: "<b>Learn about the laws that affect a company’s day-to-day business. Module 2</b> explains contract law, from the various types of contracts to the requirements for the formation of a valid contract and the various remedies and legal defenses that apply to a breach of contract. The module also describes agency laws that regulate the relationship between a principal and an agent. Finally, we explore property law and ownership rights, including the various ways that ownership rights can transfer from one party to another.",
+			Paragraph: "<b>Discover tools and techniques for improving insurance operations management. In Module 2,</b> you’ll learn process and project management techniques and see how they are applied in fictional insurance companies. You’ll also learn approaches for measuring and managing quality in insurance company operations.",
 
 			List: [
 				{ List_info: "" },
@@ -138,11 +138,11 @@ var course_settings = {
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 3 )>-------			//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "Regulation of the Life Insurance Business",
+			Title: "Decision Making",
 
 			Image: "",
 
-			Paragraph: "<b>Explore the regulatory environment of the life insurance industry. Module 3</b> explains the operation of state and federal regulation and the methods regulators use to monitor and guide insurers. You’ll also learn about common state regulatory requirements, electronic commerce laws, and measures to detect and prevent insurance fraud. Finally, we’ll explore the regulations and contract laws that govern group life insurance and retirement plans.",
+			Paragraph: "<b>Find out about effective decision making in insurance company operations. Module 3</b> presents the steps in the decision-making process, types of data needed for decision making, as well as data analysis and modeling concepts. Plus, you’ll learn about innovation and ways to spur innovative thinking during the decision-making process.",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
@@ -159,6 +159,8 @@ var course_settings = {
 			// If Hybrid/PDF, the number of these should match 
 			// the number of Chapters in the module.
 			lesson_paragraph: [
+				{ MLP_text: "" },
+
 				{ MLP_text: "" },
 
 				{ MLP_text: "" },

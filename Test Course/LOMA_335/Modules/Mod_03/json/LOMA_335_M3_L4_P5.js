@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Describe Vijay Govindarajan and Chris Trimble’sthree models of executing innovation initiatives"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

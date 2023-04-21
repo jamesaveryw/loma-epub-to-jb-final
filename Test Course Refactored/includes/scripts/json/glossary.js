@@ -1,2454 +1,1909 @@
 var glossary_settings = {
     "glossary_setup": [
         {
-            "sort": "A",
-            "term": "absolute assignment",
-            "definition": "The irrevocable transfer of all of a policyowner’s ownership rights ina life insurance policy to another "
+            "sort": "#",
+            "term": "360-degree review",
+            "definition": "A performance evaluation process in which opinions about an employee’sperformance are solicited from several sources, such as the employee, peers,subordinates, and customers and then combined into one rating. "
+        },
+        {
+            "sort": "#",
+            "term": "80-20 principle",
+            "definition": "A specific guideline which states that 20% of the components of a situationaccount for 80% of the outcomes. "
         },
         {
             "sort": "A",
-            "term": "Accelerated Benefits Model Regulation",
-            "definition": "An NAIC model regulation that is designed to regulate accelerated deathbenefit provisions and to impose disclosure standards on insurers thatprovide such benefits."
+            "term": "activity",
+            "definition": "Any part of a set of actions that generates work to accomplish a job,problem, or assignment. "
         },
         {
             "sort": "A",
-            "term": "accelerated death benefit provision",
-            "definition": "A life insurance policy provision that gives the policyowner the rightto receive a portion—usually between 50 and 80 percent—of the policy benefitduring the insured’s lifetime when the insured is terminally ill as definedin the policy. "
+            "term": "activity analysis",
+            "definition": "A report that documents the expected tasks and estimated time for completinga given activity, based on observation of or interviews with an individualperforming the activity. "
         },
         {
             "sort": "A",
-            "term": "acceptance",
-            "definition": "The offeree’s unqualified agreement to be bound to the terms of an offer."
+            "term": "ad hoc decision",
+            "definition": "An infrequent decision that can be made quickly at an individual levelbecause the risks involved is relatively small. "
         },
         {
             "sort": "A",
-            "term": "accession",
-            "definition": "A method of acquiring property ownership by which a property owner hasthe right to all that his property produces and all that is added to orunited with the property."
+            "term": "agile management",
+            "definition": "An approach to business effectiveness focused on finding and seizing opportunitiesto improve operations and processes. "
         },
         {
             "sort": "A",
-            "term": "accidental death benefit",
-            "definition": "A supplemental life insurance policy benefit that requires the insurerto pay a specified amount of money in addition to the policy’s basic deathbenefit if an insured dies as a result of an accident. "
+            "term": "AI",
+            "definition": "— artificial intelligence. "
         },
         {
             "sort": "A",
-            "term": "accord and satisfaction",
-            "definition": "A method of discharging a contract in which one party agrees to acceptsomething other than what he was entitled to receive under the originalcontract. "
+            "term": "analysis paralysis",
+            "definition": "The process of spending excessive time and energy in gathering decision-makinginformation. "
         },
         {
             "sort": "A",
-            "term": "acquisition",
-            "definition": "A transaction in which one corporation purchases a controlling interestin another corporation, resulting in a linkage between formerly independentcorporations. "
+            "term": "analytical thinking",
+            "definition": "The breaking down of a problem into separate manageable parts, and findingthe best workable solution. "
         },
         {
             "sort": "A",
-            "term": "actively-at-work provision",
-            "definition": "A group insurance contract provision that states that an employee mustbe actively at work—not away from work due to sickness, injury, or leave—onthe day coverage becomes effective. "
+            "term": "arithmetic average model",
+            "definition": "A forecasting model that uses the arithmetic average of a series of valuesas the forecast value for the next future period. "
         },
         {
             "sort": "A",
-            "term": "actual authority ",
-            "definition": "The authority to act on behalf of the principal that the principal intentionallyconfers on an agent and that the agent reasonably believes is conferred."
+            "term": "artificial intelligence",
+            "definition": "The area of computer science that emphasizes the development of intelligentmachines that work, learn, and react like humans. "
         },
         {
             "sort": "A",
-            "term": "administrative agencies",
-            "definition": "The various departments or ministries that make up the executive branchof a government and that are responsible for administering, enforcing,or carrying out a jurisdiction’s laws. "
+            "term": "attention bias",
+            "definition": "A consistent error in research outcomes that arises when people performbetter because they know they are being studied. "
         },
         {
             "sort": "A",
-            "term": "administrative code",
-            "definition": "A compilation of the administrative regulations of a given jurisdiction."
+            "term": "authentication requirements",
+            "definition": "Methods that enable companies to ensure that someone requesting or sendinginformation is who he or she claims to be. "
         },
         {
             "sort": "A",
-            "term": "administrative hearing",
-            "definition": "A proceeding conducted by an administrative agency—such as a state insurancedepartment—in accordance with the applicable administrative laws and procedures."
+            "term": "authority",
+            "definition": "The right to direct others. "
         },
         {
             "sort": "A",
-            "term": "administrative law",
-            "definition": "The body of law that consists of regulations issued by administrativeagencies. "
+            "term": "automation",
+            "definition": "The operation of a process, system, or piece of equipment without humanintervention. "
         },
         {
             "sort": "A",
-            "term": "administrator",
-            "definition": "A personal representative who is responsible for settling the estate ofa person who died intestate. "
-        },
-        {
-            "sort": "A",
-            "term": "adverse action",
-            "definition": "For purposes of the Fair Credit Reporting Act, a denial or revocationof credit or insurance coverage, a change in the terms of an existing creditarrangement or insurance coverage, or a refusal to grant credit or insurancein substantially the amount or on substantially the terms requested."
-        },
-        {
-            "sort": "A",
-            "term": "Advertisements of Life Insurance and Annuities Model Regulation (Model Advertisements Regulation). ",
-            "definition": "An NAIC model regulation that requires insurers to disclose to the publicall relevant information in their advertisements of life insurance andannuities. "
-        },
-        {
-            "sort": "A",
-            "term": "affidavit",
-            "definition": "A written statement made under oath. "
-        },
-        {
-            "sort": "A",
-            "term": "affirmative defense",
-            "definition": "An allegation of facts that constitute a defense to the plaintiff’s claimin a civil lawsuit. "
-        },
-        {
-            "sort": "A",
-            "term": "agency",
-            "definition": "The legal relationship between a principal and an agent. "
-        },
-        {
-            "sort": "A",
-            "term": "agency agreement",
-            "definition": "A written contract between an insurer and a financial professional thatspells out the rights and duties of the contracting parties, includingthe scope of the financial professional’s authority to act as an agentof the insurer. "
-        },
-        {
-            "sort": "A",
-            "term": "agency at will",
-            "definition": "An agency relationship that is to continue for an unspecified amount oftime. "
-        },
-        {
-            "sort": "A",
-            "term": "agency by ratification",
-            "definition": "An agency relationship created when a principal ratifies an unauthorizedact even though there was no agency relationship with the purported agent."
-        },
-        {
-            "sort": "A",
-            "term": "agent",
-            "definition": "A party who is authorized by another party, the principal, to act on theprincipal’s behalf. "
-        },
-        {
-            "sort": "A",
-            "term": "aleatory contract",
-            "definition": "A contract under which one party provides something of value to anotherparty in exchange for a conditional promise. "
-        },
-        {
-            "sort": "A",
-            "term": "alien insurer",
-            "definition": "From the perspective of a given state in the United States, an insurerthat incorporates under the laws of a country other than the United States"
-        },
-        {
-            "sort": "A",
-            "term": "alternative dispute resolution (ADR) method",
-            "definition": "A nonjudicial method of resolving civil disputes. "
-        },
-        {
-            "sort": "A",
-            "term": "Annual Statement",
-            "definition": "A comprehensive financial report that an insurer must file with the stateinsurance department and the NAIC. "
-        },
-        {
-            "sort": "A",
-            "term": "answer",
-            "definition": "A written document filed by the defendant in a civil lawsuit to respondto the plaintiff’s complaint. "
-        },
-        {
-            "sort": "A",
-            "term": "antitrust laws",
-            "definition": "Laws designed to protect commerce against the monopolization of marketpower and unlawful restraints of trade such as price discrimination andprice fixing. Known as competition laws in most countries other than theUnited States. "
-        },
-        {
-            "sort": "A",
-            "term": "apparent authority",
-            "definition": "Authority that is not expressly conferred on an agent, or not implicitlyincluded with that express authority, but that the principal either intentionallyor negligently allows a third party to believe the agent possesses."
-        },
-        {
-            "sort": "A",
-            "term": "appellate courts",
-            "definition": "Courts that are authorized to review the decisions of lower courts."
-        },
-        {
-            "sort": "A",
-            "term": "arbitration",
-            "definition": "An alternative dispute resolution method in which impartial third parties,known as arbitrators, evaluate the facts in dispute and render a decisionthat usually is binding on the parties. "
-        },
-        {
-            "sort": "A",
-            "term": "arbitrators",
-            "definition": "Impartial third parties who evaluate the facts in a civil dispute andrender a decision that is binding on the parties. "
-        },
-        {
-            "sort": "A",
-            "term": "articles of incorporation",
-            "definition": "The primary document that generally must be filed to incorporate a businessin a state and that describes some of the essential features of the corporation."
-        },
-        {
-            "sort": "A",
-            "term": "assignee",
-            "definition": "The person to whom ownership rights in property are transferred by meansof an assignment. "
-        },
-        {
-            "sort": "A",
-            "term": "assignment",
-            "definition": "The transfer of ownership rights in property from the property owner,known as the assignor, to another party, known as the assignee. "
-        },
-        {
-            "sort": "A",
-            "term": "assignment provision",
-            "definition": "An individual life insurance policy provision that describes the rolesof the insurer and the policyowner when the policy is assigned. "
-        },
-        {
-            "sort": "A",
-            "term": "assignor",
-            "definition": "The person who transfers ownership rights in property by means of an assignment."
-        },
-        {
-            "sort": "A",
-            "term": "assumption of the risk",
-            "definition": "An affirmative defense that totally bars a plaintiff’s claim when theplaintiff understood the nature of the risk presented by the defendant’sconduct and voluntarily incurred that risk. "
-        },
-        {
-            "sort": "A",
-            "term": "automatic nonforfeiture benefit",
-            "definition": "The life insurance policy nonforfeiture benefit that will become effectiveautomatically when a renewal premium is not paid by the end of the graceperiod and the policyowner has not elected another nonforfeiture option."
-        },
-        {
-            "sort": "A",
-            "term": "automatic premium loan (APL) benefit. ",
-            "definition": "A life insurance policy nonforfeiture benefit under which the insurerwill automatically pay an overdue premium by making a loan against thepolicy’s cash value if the cash value equals or exceeds the amount of thepremium due. "
-        },
-        {
-            "sort": "A",
-            "term": "aviation exclusion provision",
-            "definition": "A life insurance policy provision that states that an insurer will denypayment of policy proceeds if the insured’s death is caused by certainaviation-related activities."
+            "term": "autonomous motivation",
+            "definition": "Motivation arising primarily from intrinsic rewards affiliated with needsfor competence, relatedness, and autonomy. "
         },
         {
             "sort": "B",
-            "term": "backdating",
-            "definition": "A practice by which an insurer makes the effective date of an insurancepolicy earlier than the date of the application. "
+            "term": "balanced scorecard",
+            "definition": "A performance monitoring tool that displays a set of KPIs and comparesthe value to performance standards. "
         },
         {
             "sort": "B",
-            "term": "bad faith",
-            "definition": "Knowingly committing a wrong or, with a dishonest motive, failing to fulfilla legal duty. "
+            "term": "balanced scorecard approach",
+            "definition": "A conceptual framework that relies on two types of graphic displays—balancedscorecards and dashboards—to give decision makers actionable informationabout the progress of operations. "
         },
         {
             "sort": "B",
-            "term": "bargaining contract",
-            "definition": "A contract created when both parties, as equals, set the terms and conditionsof the contract. "
+            "term": "bar chart",
+            "definition": "A graphical display of a frequency distribution. "
         },
         {
             "sort": "B",
-            "term": "bearer paper",
-            "definition": "A negotiable instrument that is payable to bearer and thus can be negotiatedby the holder without having to be signed by a specific payee. "
+            "term": "barriers to entry",
+            "definition": "Obstacles, such as regulations, that impede a new seller’s entry intoa market. "
         },
         {
             "sort": "B",
-            "term": "bid rigging",
-            "definition": "A way that competitors raise prices in situations in which purchasersobtain goods or services by soliciting competing bids; the competitorsagree in advance who will submit the winning bid. "
+            "term": "benchmark",
+            "definition": "A performance standard that a company aspires to achieve. "
         },
         {
             "sort": "B",
-            "term": "bilateral contract",
-            "definition": "A contract under which both parties make legally enforceable promises."
+            "term": "benchmarking",
+            "definition": "A formal program for measuring company performance results, identifyingbest practices for the same performance areas, and emulating best practicesfor company processes. "
         },
         {
             "sort": "B",
-            "term": "bilateral mistake",
-            "definition": "A mistake that occurs when both parties are mistaken when they enter intoa contract. "
+            "term": "benchmarking study",
+            "definition": "A type of comparison study of expenses and other quantitative measuresof operational performance in which a company compares its performancewith that of its peers. "
         },
         {
             "sort": "B",
-            "term": "binding premium receipt",
-            "definition": "A premium receipt that provides temporary life insurance coverage thatbecomes effective on the date specified in the receipt. "
+            "term": "best payoff",
+            "definition": "In a payoff table, the highest possible value in each state of naturecolumn. "
         },
         {
             "sort": "B",
-            "term": "blank indorsement",
-            "definition": "The indorsement of a negotiable instrument by signature only, with noadditional wording; a blank indorsement makes the instrument bearer paper."
+            "term": "big-bet decision",
+            "definition": "An infrequent, unfamiliar decision that can have a profound effect ona company’s operations and future success. "
         },
         {
             "sort": "B",
-            "term": "breach of contract",
-            "definition": "The failure of a party to a contract to perform a contractual obligation."
+            "term": "big data",
+            "definition": "Large amounts of unprocessed information gathered from various sources,in various formats, and at a rapid speed. "
         },
         {
             "sort": "B",
-            "term": "broker-dealer",
-            "definition": "A term often used to refer to individuals and firms that transact securitiesbusinesses. "
+            "term": "board of directors ",
+            "definition": "group of individuals elected by the company’s owners that serves as thecompany’s primary governing body. "
         },
         {
             "sort": "B",
-            "term": "burden of proof",
-            "definition": "(1) The duty to present evidence at trial to prove a given fact or setof facts. (2) The duty to persuade the trier of fact in a trial that analleged fact is true. "
+            "term": "BOD",
+            "definition": "See board of directors."
         },
         {
             "sort": "B",
-            "term": "business judgment rule",
-            "definition": "A rule generally applied by U.S. courts when corporate directors are allegedto have breached a fiduciary duty. According to the rule, directors willnot be held personally liable for making business decisions if there isa reasonable basis to believe that the directors acted in good faith andwith due care. "
+            "term": "BPR",
+            "definition": "See business process reengineering."
         },
         {
             "sort": "B",
-            "term": "bylaws",
-            "definition": "A corporate document that contains the basic rules under which a corporationoperates. "
+            "term": "breakthrough innovation",
+            "definition": "A type of innovation that can change a company’s business model. "
+        },
+        {
+            "sort": "B",
+            "term": "business case",
+            "definition": "A justification for a proposed project that highlights how a project’sbenefits to the company will outweigh its costs and risks. "
+        },
+        {
+            "sort": "B",
+            "term": "business intelligence system",
+            "definition": "Software that includes tools for analyzing business conditions. "
+        },
+        {
+            "sort": "B",
+            "term": "business process",
+            "definition": "An ongoing method or system for responding to customer needs. "
+        },
+        {
+            "sort": "B",
+            "term": "business process management system",
+            "definition": "Software which supports business process management and business processautomation. "
+        },
+        {
+            "sort": "B",
+            "term": "business process reengineering",
+            "definition": "A formal program for fundamentally redesigning business processes, structures,and software with the goal of substantially improvement cost, quality,service levels, and speed. "
+        },
+        {
+            "sort": "B",
+            "term": "business strategies",
+            "definition": "Action plans for a line of business such as a product line, business unit,or strategic business unit (SBU). "
         },
         {
             "sort": "C",
-            "term": "case law",
-            "definition": "The body of law that consists of the written decisions of a common lawjurisdiction’s courts. Contrast with statutory law. "
+            "term": "cascading report",
+            "definition": "An electronic report that brings together related data sets and offersdistinctive data views suitable for various user needs. "
         },
         {
             "sort": "C",
-            "term": "cash surrender value nonforfeiture option",
-            "definition": "A life insurance policy nonforfeiture option that permits a policyownerto discontinue premium payments, surrender the policy, and receive thepolicy’s cash surrender value in a lump-sum payment. Also known as thecash payment nonforfeiture option. "
+            "term": "causal model",
+            "definition": "A forecasting model that uses historical data and other relevant variablesas basis for describing unknown future data points. "
         },
         {
             "sort": "C",
-            "term": "cause of action",
-            "definition": "A set of facts that gives a person the right to judicial relief. "
+            "term": "certainty",
+            "definition": "In decision making, a condition in which an expected outcome can be knownbased on available information with little probability of a deviation fromthe expected outcome. "
         },
         {
             "sort": "C",
-            "term": "center of gravity rule",
-            "definition": "A conflict of laws rule under which a court applies the law of the jurisdictionthat has the greatest interest "
+            "term": "chat box",
+            "definition": "A computer system that uses artificial intelligence and spoken languageor text to answer the most commonly asked customer questions. "
         },
         {
             "sort": "C",
-            "term": "certificate of authority ",
-            "definition": "A document issued by the state insurance department granting the insurerthe right to conduct insurance business in the state. Also known as a license."
+            "term": "child report",
+            "definition": "A detailed report that supports the master or summary report. "
         },
         {
             "sort": "C",
-            "term": "certificate of incorporation",
-            "definition": "A document issued by a state agency that grants a corporation its legalexistence and its right to operate as a corporation. Sometimes called acorporate charter. "
+            "term": "cloud",
+            "definition": "A virtual storage system that maintains digital data on multiple connectedservers owned and managed by a hosting company. "
         },
         {
             "sort": "C",
-            "term": "change of ownership provision",
-            "definition": "An individual life insurance policy provision that permits a policyownerto transfer all ownership rights by notifying the insurer, in writing,of the change, without having to enter into a separate assignment agreement.When the insurer records the ownership change in its records, the changegenerally becomes effective as of the date the policyowner signed the writtennotification "
+            "term": "coaching",
+            "definition": "A process in which a supervisor works with an employee to improve performanceon the job. "
         },
         {
             "sort": "C",
-            "term": "chief compliance officer (CCO)",
-            "definition": "The person in an insurance company who is responsible for overseeing andmanaging the company’s compliance with regulatory requirements and applicableinternal policies and procedures. "
+            "term": "code of conduct",
+            "definition": "A formal statement of a company’s values and its expectations for howits employees should behave in the course of business. "
         },
         {
             "sort": "C",
-            "term": "choice of laws provision",
-            "definition": "A contract provision that allows the parties to a contract to mutuallydecide which jurisdiction’s laws will govern their contract. "
+            "term": "coercive power",
+            "definition": "Power that results from a person’s ability to punish others because ofbehaviors or performance. "
         },
         {
             "sort": "C",
-            "term": "civil code",
-            "definition": "In a civil law jurisdiction, a code that contains the general principlesof law that apply to relationships between people that arise through birth,adoption, marriage, death, contracts, and personal liability. The civilcode usually also regulates property rights. "
+            "term": "cognitive bias",
+            "definition": "A general term used to describe biases in the human mind that are difficultto eliminate and that lead to inaccurate judgments. "
         },
         {
             "sort": "C",
-            "term": "civil laws",
-            "definition": "Laws that are concerned with private—that is, nongovernmental—rights andremedies. "
+            "term": "cohesiveness",
+            "definition": "The degree to which group members work together to accomplish the group’spurpose. "
         },
         {
             "sort": "C",
-            "term": "civil law system",
-            "definition": "A legal system based on the Roman legal system in which the laws are codifiedinto written codes enacted by the legislature. "
+            "term": "compensation",
+            "definition": "The total monetary amount of benefits provided by an employer to an employeein return for work performed as required, which can include an employee’spay as well as the value of vacations, bonuses, insurance, and any otherbenefit provided by the employer such as free parking or lunches. "
         },
         {
             "sort": "C",
-            "term": "civil litigation",
-            "definition": "A judicial process by which private parties go to court to enforce a legalright or to obtain a remedy for a civil wrong. "
+            "term": "competitive advantage",
+            "definition": "Any aspect of a company—such as cost structure, distribution network,or customer support—that allows the company to generate greater sales orretain more customers than competitors "
         },
         {
             "sort": "C",
-            "term": "class designation",
-            "definition": "A beneficiary designation that identifies a certain group of people, ratherthan naming each person individually. "
+            "term": "computational modeling",
+            "definition": "A form of modeling that uses the processing capabilities of IT to performmillions of simulations at once. "
         },
         {
             "sort": "C",
-            "term": "clear and convincing evidence",
-            "definition": "A degree of proof in which evidence shows that the truth of the factsasserted is highly probable and leaves no reasonable doubt as to the truthof those facts. "
+            "term": "concentration ratio",
+            "definition": "The sum of the percentage market shares of the top companies in the industryto determine industry competitiveness. "
         },
         {
             "sort": "C",
-            "term": "closed contract",
-            "definition": "A contract for which only those terms and conditions that are printedin—or attached to—the contract are considered to be part of the contract."
+            "term": "concurrent controls",
+            "definition": "Organizational controls that continuously monitor a company’s activitiesand systems as they are being performed to ensure that an activity is meetingestablished performance standards. "
         },
         {
             "sort": "C",
-            "term": "codicil",
-            "definition": "A testamentary document that supplements a will. "
+            "term": "conditional payoff table",
+            "definition": "A type of payoff table showing two or more states of nature. "
         },
         {
             "sort": "C",
-            "term": "collateral assignment",
-            "definition": "The transfer of some of a policyowner’s ownership rights in a life insurancepolicy to provide security for a debt. "
+            "term": "confirmation bias",
+            "definition": "The human tendency to seek, interpret, and remember information that confirmspre-existing beliefs. "
         },
         {
             "sort": "C",
-            "term": "collusion",
-            "definition": "An agreement between two or more people to defraud another person of hisrights. "
+            "term": "conflict of interest",
+            "definition": "A situation that exists when the interests or actions of one entity, suchas an employee, are incompatible with the interests or actions of a relatedentity, such as an employer. "
         },
         {
             "sort": "C",
-            "term": "common law system",
-            "definition": "A legal system based on the common law of England. "
+            "term": "consensus",
+            "definition": "An approach that requires all group members to understand and accept asolution before jointly choosing the course of action. "
         },
         {
             "sort": "C",
-            "term": "common mistake",
-            "definition": "A bilateral mistake that occurs when both parties to a contract make thesame mistake. "
+            "term": "continuous process improvement",
+            "definition": "An approach to process management that uses strategic initiatives to makeongoing, incremental improvements in processes and technology. "
         },
         {
             "sort": "C",
-            "term": "community property",
-            "definition": "In some states, certain property owned by a married couple in which eachspouse has an undivided half interest. "
+            "term": "continuous reinforcement",
+            "definition": "The process of either encouraging or discouraging every instance of aspecific behavior. "
         },
         {
             "sort": "C",
-            "term": "commutative contract",
-            "definition": "An agreement under which the parties specify in advance the values thatthey will exchange, and the parties generally exchange items or servicesthat they think are of relatively equal value. "
+            "term": "control chart",
+            "definition": "A chart showing a plot of data observations about a given process againsta measure of time. "
         },
         {
             "sort": "C",
-            "term": "comparative negligence",
-            "definition": "A system of apportioning losses between plaintiffs and defendants whenboth parties’ negligence contributed to a plaintiff’s loss. "
+            "term": "controlled motivation",
+            "definition": "Motivation arising primarily from extrinsic rewards. "
         },
         {
             "sort": "C",
-            "term": "compensatory damages",
-            "definition": "Damages intended to compensate an injured party for the amount of themonetary losses that resulted from a defendant’s wrongful conduct. "
-        },
-        {
-            "sort": "C",
-            "term": "complaint",
-            "definition": "A written document that sets out the cause of action on which a plaintiffin a civil lawsuit bases her claim against the defendant. "
-        },
-        {
-            "sort": "C",
-            "term": "compliance function",
-            "definition": "Actions a company takes to make sure it follows the laws and regulationsof the jurisdictions where it operates. "
-        },
-        {
-            "sort": "C",
-            "term": "compromise settlement",
-            "definition": "An agreement between two or more parties to settle a dispute regardingthe terms and/or performance of a contract. "
-        },
-        {
-            "sort": "C",
-            "term": "conciliation",
-            "definition": "An alternative dispute resolution method that is used in many countriesother than the United States and that is similar to mediation in that theparties are encouraged to come to a mutually acceptable agreement to resolvethe dispute. "
-        },
-        {
-            "sort": "C",
-            "term": "conclusive presumption",
-            "definition": "A presumption that cannot be refuted. "
-        },
-        {
-            "sort": "C",
-            "term": "condition",
-            "definition": "In contract law, an uncertain event, the occurrence or nonoccurrence ofwhich either creates or extinguishes a party’s duty to perform a contractualpromise. "
-        },
-        {
-            "sort": "C",
-            "term": "conditional premium receipt",
-            "definition": "A type of life insurance premium receipt that provides temporary insurancecoverage only if specified conditions are met. "
-        },
-        {
-            "sort": "C",
-            "term": "conditional promise",
-            "definition": "A promise to perform a stated act if a specified, uncertain event occurs."
-        },
-        {
-            "sort": "C",
-            "term": "condition precedent",
-            "definition": "In contract law, a condition that must occur in order to give rise toone party’s duty to perform a promise. "
-        },
-        {
-            "sort": "C",
-            "term": "condition subsequent",
-            "definition": "In contract law, a condition that, if it occurs, cancels one party’s dutyto perform a promise. "
-        },
-        {
-            "sort": "C",
-            "term": "conflict of laws",
-            "definition": "The area of the law that determines which substantive laws apply to eachissue in a case when the laws of more than one jurisdiction are involvedin the action. "
-        },
-        {
-            "sort": "C",
-            "term": "Congress",
-            "definition": "In the United States, the legislative branch of the federal government."
-        },
-        {
-            "sort": "C",
-            "term": "consideration",
-            "definition": "Whatever a promisor asks for and receives in exchange for his contractualpromise. "
-        },
-        {
-            "sort": "C",
-            "term": "constitution",
-            "definition": "In most countries, a document or group of documents that sets out thefundamental principles that determine the powers and duties of the governmentand the rights of the people. "
-        },
-        {
-            "sort": "C",
-            "term": "constructive delivery",
-            "definition": "Legally adequate delivery of a life insurance policy to a policyownerthat occurs when an insurer parts with control of the policy and intendsto be bound to its terms. "
-        },
-        {
-            "sort": "C",
-            "term": "Consumer Credit Protection Act",
-            "definition": "A U.S. federal law that regulates many aspects of how businesses providecredit to consumers. "
-        },
-        {
-            "sort": "C",
-            "term": "consumer credit report",
-            "definition": "For purposes of the Fair Credit Reporting Act, any communication of informationby a consumer reporting agency that (1) bears on a consumer’s creditworthiness,credit standing, credit capacity, character, general reputation, personalcharacteristics, or mode of living and (2) is used or collected as a factorin establishing a consumer’s eligibility for insurance or credit. "
-        },
-        {
-            "sort": "C",
-            "term": "Consumer Financial Protection Bureau (CFPB) ",
-            "definition": "An independent bureau within the Federal Reserve System charged with establishingclear rules for banks, mortgage companies, and other lenders and financialfirms to ensure that consumers can see the costs and features of financialproducts and services. "
-        },
-        {
-            "sort": "C",
-            "term": "consumer reporting agency",
-            "definition": "A private business that assembles or evaluates information on consumersand furnishes consumer credit reports to third parties in exchange fora fee. "
-        },
-        {
-            "sort": "C",
-            "term": "contempt of court",
-            "definition": "Any act that hinders a court in administering justice or that lessensthe authority and dignity of the court and that is punishable by the court."
-        },
-        {
-            "sort": "C",
-            "term": "contestable period",
-            "definition": "The time period within which the insurer has the right to avoid a policyon the grounds of a material misrepresentation in the application."
-        },
-        {
-            "sort": "C",
-            "term": "contingent beneficiary",
-            "definition": "The party who will receive life insurance policy proceeds if the primarybeneficiary dies before the insured. Also known as secondary beneficiaryor secondary payee. "
-        },
-        {
-            "sort": "C",
-            "term": "contingent payee",
-            "definition": "The person who will receive any policy proceeds payable under a settlementagreement following the death of the payee. Also known as a successor payee."
-        },
-        {
-            "sort": "C",
-            "term": "continuation statement ",
-            "definition": "A document that amends a financing statement that has been in effect forthe maximum allowable time and, thus, continues the effectiveness of thefinancing statement for a stated number of additional years. "
-        },
-        {
-            "sort": "C",
-            "term": "contract",
-            "definition": "A legally enforceable agreement between two or more parties; the agreementconsists of a promise or a set of promises. "
-        },
-        {
-            "sort": "C",
-            "term": "contract of adhesion",
-            "definition": "A contract that one party prepares and that the other party must acceptor reject as a whole, without any bargaining between the parties as tothe terms of the contract. "
-        },
-        {
-            "sort": "C",
-            "term": "contractual capacity",
-            "definition": "The legal power to enter into a binding contract. "
-        },
-        {
-            "sort": "C",
-            "term": "contributory negligence",
-            "definition": "An affirmative defense that is available when the plaintiff’s own negligencecontributed to her loss. "
-        },
-        {
-            "sort": "C",
-            "term": "contributory plan",
-            "definition": "A group insurance plan under which the group insureds pay all or partof the premium for their coverage. "
-        },
-        {
-            "sort": "C",
-            "term": "conversion privilege",
-            "definition": "A group life insurance contract provision that gives the insured the optionto obtain an individual life insurance policy when group life insurancecoverage ends due to specified reasons. "
-        },
-        {
-            "sort": "C",
-            "term": "copyright",
-            "definition": "A right that is granted by statute to the author or originator of an originalliterary or artistic work and that gives the copyright holder the exclusiveright to publish, produce, or perform the work for a specified time."
+            "term": "core team member",
+            "definition": "On a project team, a person or people assigned to perform a significantportion of project activities. "
         },
         {
             "sort": "C",
             "term": "corporate culture",
-            "definition": "The values, beliefs, goals, and patterns of behavior that employees ofan organization share. "
+            "definition": "The attitudes, values, perceptions, beliefs, and experiences shared bya company’s employees and instilled in new employees when they join thecompany. "
+        },
+        {
+            "sort": "C",
+            "term": "corporate goals",
+            "definition": "The broad planning targets a company attempts to achieve in support ofthe corporate mission. Also known as corporate objectives. "
         },
         {
             "sort": "C",
             "term": "corporate governance",
-            "definition": "A framework of rules and processes for directing and controlling a corporationthat emphasizes integrity, transparency, and balancing the interests ofstakeholders in fulfilling strategic goals. "
+            "definition": "The responsibility and authority of a company’s board of directors todirect the organization to fulfill its mission on behalf of the company’sstakeholders in a legal and fiscally responsible manner. "
         },
         {
             "sort": "C",
-            "term": "corporation",
-            "definition": "A legal entity that is created by the authority of a governmental unit,such as a state or nation, is separate and distinct from the people whoown it, and continues beyond the death of any or all of its owners. "
+            "term": "corporate strategy",
+            "definition": "A long-term plan that a company intends to use to achieve its goal inthe present and future. "
         },
         {
             "sort": "C",
-            "term": "counterclaim",
-            "definition": "A claim by the defendant in a civil lawsuit against the plaintiff; theclaim must arise out of the same facts on which the plaintiff’s claim isbased. "
+            "term": "correlation",
+            "definition": "A measure of whether, and how strongly, two values are related. "
         },
         {
             "sort": "C",
-            "term": "counteroffer",
-            "definition": "A rejection of an offer to contract and the making of a different offerto contract. "
+            "term": "crashing",
+            "definition": "A method for getting a project back on schedule by assigning additionalresources to the project, thereby increasing the cost of the project."
         },
         {
             "sort": "C",
-            "term": "criminal laws",
-            "definition": "Laws that define certain acts as crimes and provide specific punishmentsfor each crime. "
+            "term": "critical path",
+            "definition": "The most time-consuming chain of events in a network model. "
         },
         {
             "sort": "C",
-            "term": "customary law system",
-            "definition": "A legal system in which members of a community have accepted local customsas binding on the community’s members. "
+            "term": "cross-cutting decision",
+            "definition": "A familiar decision that can have broad organizational impact and requireseffective collaboration among many different parts of an organization."
+        },
+        {
+            "sort": "C",
+            "term": "cross-functional team",
+            "definition": "A group of representatives from two or more work groups that perform relatedbusiness activities across organizational boundaries. "
+        },
+        {
+            "sort": "C",
+            "term": "cultural bias",
+            "definition": "A consistent cognitive error resulting from the tendency to interpretand report data in terms of the observer’s own culture. "
+        },
+        {
+            "sort": "C",
+            "term": "customer journey",
+            "definition": "The path each customer travels with a company from beginning to end, includingevery interaction across every point of contact. "
+        },
+        {
+            "sort": "C",
+            "term": "cybersecurity",
+            "definition": "All of the efforts a company takes to protect its computer systems andnetworks from criminal activity. "
         },
         {
             "sort": "D",
-            "term": "damages",
-            "definition": "Monetary compensation that may be recovered by a plaintiff who has suffereda loss or injury as a result of a defendant’s wrongful conduct; the basiclegal remedy for most civil wrongs. "
+            "term": "data",
+            "definition": "Unprocessed facts. "
         },
         {
             "sort": "D",
-            "term": "Death Master File (DMF)",
-            "definition": "A database, maintained by the U.S. Social Security Administration, whichcontains information about people whose deaths were reported to the SocialSecurity Administration. "
+            "term": "data acquisition",
+            "definition": "The tasks involved in obtaining and storing information relevant to thebusiness question. "
         },
         {
             "sort": "D",
-            "term": "declaratory judgment",
-            "definition": "A judicial statement that declares or denies the parties’ legal rightsbut does not include specific relief or any means to enforce those rights."
+            "term": "data analytics",
+            "definition": "The practice of applying analytical techniques to large amounts of rawdata in order to draw conclusions and make business decisions. "
         },
         {
             "sort": "D",
-            "term": "defamation",
-            "definition": "An intentional tort that occurs when a person makes false statements thatinjure the good name or reputation of another person. "
+            "term": "data architecture",
+            "definition": "The method or methods by which authorized users can access and apply theinformation stored in company databases. "
         },
         {
             "sort": "D",
-            "term": "default judgment",
-            "definition": "In a civil lawsuit, a judgment entered against the defendant because thedefendant failed to file and answer within the required time or otherwisefailed to defend the lawsuit. "
+            "term": "data editing",
+            "definition": "A process for detecting and correcting inconsistencies, errors, and omissionsin a collection of data. "
         },
         {
             "sort": "D",
-            "term": "defendant",
-            "definition": "The party against whom a civil lawsuit is instituted. "
+            "term": "data mining",
+            "definition": "A process in which an analyst examines numerical data to uncover trendsand patterns. "
         },
         {
             "sort": "D",
-            "term": "defined benefit plan",
-            "definition": "A type of group retirement plan that uses a formula to determine the benefitamount—based on the employee’s pay and/or years of service—that each planparticipant will receive during retirement. "
+            "term": "data visualization",
+            "definition": "The use of illustrative graphics to convey an intuitive understandingof data. "
         },
         {
             "sort": "D",
-            "term": "defined contribution plan",
-            "definition": "A type of group retirement plan that is funded by contributions from theplan sponsor and/or plan participants and specifies the annual contributionthat the plan sponsor will deposit into the plan on behalf of each planparticipant. "
+            "term": "decision",
+            "definition": "A choice about a future action. "
         },
         {
             "sort": "D",
-            "term": "demutualization",
-            "definition": "The process a mutual insurer undertakes to convert to a stock form ofownership. "
+            "term": "decision alternatives",
+            "definition": "The options a decision maker considers before selecting a future courseof action. "
         },
         {
             "sort": "D",
-            "term": "Department of Labor (DOL)",
-            "definition": "A federal administrative agency whose mission is to foster and promotethe welfare of job seekers, workers, and retirees. "
+            "term": "decision constraints",
+            "definition": "Practical limitations that affect the selection of decision alternatives."
         },
         {
             "sort": "D",
-            "term": "deposition",
-            "definition": "A discovery method used in civil lawsuits in which attorneys for eachparty may question parties and other witnesses, who orally testify underoath. "
+            "term": "decision criteria",
+            "definition": "The simple-to-understand rules a decision maker uses to evaluate decisionalternatives. "
         },
         {
             "sort": "D",
-            "term": "directors",
-            "definition": "Individuals who are appointed or elected by a corporation’s stockholdersto manage and direct the affairs of a corporation; collectively referredto as the board of directors. "
+            "term": "decision environment",
+            "definition": "The collection of information, alternatives, values, and preferences availableto a decision maker at the time of a decision. "
         },
         {
             "sort": "D",
-            "term": "disaffirmance",
-            "definition": "A minor’s exercise of his right to avoid a contract. "
+            "term": "degree of confidence",
+            "definition": "The likelihood that a calculated value accurately predicts the true value."
         },
         {
             "sort": "D",
-            "term": "disclosed principal",
-            "definition": "A named principal on whose behalf an agent contracts. "
+            "term": "delegated decision",
+            "definition": "A familiar and frequent low risk decision. "
         },
         {
             "sort": "D",
-            "term": "discovery",
-            "definition": "A process in which the parties to a civil lawsuit gather information thatis relevant to the lawsuit so that they can prepare to present their respectivecases at trial. "
+            "term": "dependent activities",
+            "definition": "Activities that cannot be started until other activities have been completedbecause the outputs from one activity are required inputs for another activity."
         },
         {
             "sort": "D",
-            "term": "dismissal",
-            "definition": "A court order or judgment that concludes a civil lawsuit without a trialof the issues involved in the lawsuit. "
+            "term": "dependent variable",
+            "definition": "A variable that reacts to outside influences. "
         },
         {
             "sort": "D",
-            "term": "distributions",
-            "definition": "Benefits paid to group retirement plan participants, usually followingretirement. "
+            "term": "descriptive analytics",
+            "definition": "A type of data analytics that&nbsp;uses historical data to provide informationabout past or current business conditions. "
         },
         {
             "sort": "D",
-            "term": "dividend additions",
-            "definition": "Additional amounts of insurance that a policyowner purchases using policydividends. Also known as paid-up additions. "
+            "term": "descriptive statistics",
+            "definition": "Statistics that summarize a population of data. "
         },
         {
             "sort": "D",
-            "term": "doctrine of stare decisis",
-            "definition": "A general rule followed by the courts in common law jurisdictions. Accordingto this rule, when a court finds that a specific principle of law appliesto a certain set of facts, the court will apply that principle to all futurecases in which the facts are substantially the same. "
+            "term": "devils advocate",
+            "definition": "A person assigned to make a case against a decision-making team’s proposal."
         },
         {
             "sort": "D",
-            "term": "doctrine of substantial compliance",
-            "definition": "An equitable doctrine that provides that when a policyowner has done everythingpossible to comply with the beneficiary change procedure set forth in thepolicy, but has failed because of circumstances beyond his control, thechange will be considered effective. "
+            "term": "diffusion",
+            "definition": "The process by which an innovation spreads outside of its place of origin."
         },
         {
             "sort": "D",
-            "term": "Dodd-Frank Wall Street Reform and Consumer Protection Act",
-            "definition": "A U.S. federal law that provides for oversight of the financial servicesindustry and seeks to (1) improve accountability and transparency in thefinancial system and (2) protect consumers from abusive financial practices.Also known as the Dodd-Frank Act. "
+            "term": "disruptive change",
+            "definition": "A change that has the potential to influence how a business operates."
         },
         {
             "sort": "D",
-            "term": "domestic insurer",
-            "definition": "From the perspective of a given state in the United States, an insurerthat incorporates in the state. From the perspective of most countriesother than the United States, an insurer that incorporates within the country."
+            "term": "DMADV",
+            "definition": "A five-step approach to solving a problem with the goal of creating anew business process. "
         },
         {
             "sort": "D",
-            "term": "domicile",
-            "definition": "(1) The jurisdiction in which a business incorporates. Also known as domiciliarystate. (2) The place where a person has his true, fixed, and permanenthome. "
+            "term": "DMAIC",
+            "definition": "A five-step approach to solving a problem with the goal of improving anexisting business process. "
         },
         {
             "sort": "D",
-            "term": "domicile",
-            "definition": "(1) The state in which an insurer or other business incorporates. Alsoknown as domiciliary state. (2) The place where a person has his true,fixed, and permanent home."
+            "term": "dominant decision alternative",
+            "definition": "The decision alternative that consistently produces the best payoff forall states of nature. "
         },
         {
             "sort": "D",
-            "term": "donee",
-            "definition": "A party to whom a gift of property is made. "
+            "term": "drill-down option",
+            "definition": "A selection within a cascading report that enables linking from a parentreport down to a child report. "
         },
         {
             "sort": "D",
-            "term": "donor",
-            "definition": "A party who transfers property by making a gift of the property."
+            "term": "drill-through option",
+            "definition": "A link that the user of a summary report can click to see a differentlevel of detail of the information. "
         },
         {
             "sort": "D",
-            "term": "draft",
-            "definition": "A negotiable instrument that is an order, or an instruction, to pay asum of money. "
-        },
-        {
-            "sort": "D",
-            "term": "drawee",
-            "definition": "The bank on which a draft is written. "
-        },
-        {
-            "sort": "D",
-            "term": "duress",
-            "definition": "The forcing of a person to enter a contract against her own free willby acting wrongfully or threateningly to overpower the person’s will."
+            "term": "drill-up option",
+            "definition": "A selection within a cascading report that enables linking from a childreport up to a parent report. "
         },
         {
             "sort": "E",
-            "term": "electronic signature",
-            "definition": "A sound, symbol, or other data attached to an electronically transmitteddocument that was executed or adopted by a person with the intent to signthe document."
+            "term": "earned value",
+            "definition": "A monetary value assigned incrementally to all project steps, with theproject earning another increment of monetary value as more work is completed."
         },
         {
             "sort": "E",
-            "term": "Electronic Signatures in Global and National Commerce Act (E-SIGN). ",
-            "definition": "A U.S. federal law that eliminates legal barriers to the use of technologyto form and sign contracts, collect and store documents, and send and receivenotices and disclosures. The law ensures that contracts and signaturesmade in electronic form are the legal equivalent of paper documents andpen-and-ink signatures. "
+            "term": "earned value management",
+            "definition": "A technique for identifying discrepancies between performance and plansthat involves using monetary values to express performance feedback."
         },
         {
             "sort": "E",
-            "term": "employee",
-            "definition": "A person in the service of another, the employer, who has the power orright to control and direct how the employee performs the work. "
+            "term": "effectiveness",
+            "definition": "In process management, completing the activities necessary to achievethe desired outcome. Often referred to as \"Getting the right things done.\""
         },
         {
             "sort": "E",
-            "term": "Employee Retirement Income Security Act (ERISA) ",
-            "definition": "A U.S. federal law designed to ensure that employee pension and welfarebenefit plans meet certain minimum requirements to protect covered employees."
+            "term": "efficiency",
+            "definition": "In process management, completing an activity with minimal waste of humanor financial resources. Often referred to as \"Getting things done right.\""
         },
         {
             "sort": "E",
-            "term": "endorsement",
-            "definition": "A document that is attached to a life insurance policy and that becomespart of the insurance contract. "
+            "term": "ego bias",
+            "definition": "A memory distortion that leads an individual or group to recall informationin a self-serving manner. "
         },
         {
             "sort": "E",
-            "term": "endorsement method",
-            "definition": "A method of changing the beneficiary of a life insurance policy underwhich the policyowner must submit his policy to the insurer along witha beneficiary change request."
+            "term": "employee engagement",
+            "definition": "An individual’s involvement with, satisfaction with, and enthusiasm forthe work he does. "
         },
         {
             "sort": "E",
-            "term": "enrollment period",
-            "definition": "A group insurance contract provision that specifies a period of time,usually 31 days, during which a new employee may enroll for coverage. Alsocalled an eligibility period."
+            "term": "employee value proposition",
+            "definition": "A formal statement of what sets a company apart from other companies andidentifies what employees value most about working for the company. "
         },
         {
             "sort": "E",
-            "term": "enterprise risk management (ERM) ",
-            "definition": "A system practiced by most insurers to identify, quantify, and managerisks from potential threats and opportunities. "
+            "term": "encryption",
+            "definition": "A method of securing information wherein a technology encodes collecteddata so that only an authorized person possessing the required hardwareand/or software can decode that data. "
         },
         {
             "sort": "E",
-            "term": "entire contract provision",
-            "definition": "A policy provision that defines the documents that constitute the contractbetween the insurer and the policyowner. "
+            "term": "enterprise project management office",
+            "definition": "A project management office that operates at the strategic level by assessingrisk and organizing resources in relation to the company mission."
         },
         {
             "sort": "E",
-            "term": "Equal Employment Opportunity Commission (EEOC)",
-            "definition": "A U.S. federal agency responsible for administering federal antidiscriminationlaws. "
+            "term": "enterprise risk management",
+            "definition": "A system that identifies and quantifies risks from both potential threatsand potential opportunities and manages risks in a coordinated approachthat supports an organization’s strategic objectives. "
         },
         {
             "sort": "E",
-            "term": "equitable remedies",
-            "definition": "Remedies that were developed by common law courts of equity and that arebased on moral rights and concepts of justice. "
+            "term": "enterprise-wide reporting",
+            "definition": "The use of knowledge management systems and information updates acrossoperations such that employees have access to information relevant to theirroles. "
         },
         {
             "sort": "E",
-            "term": "equitable title",
-            "definition": "Ownership rights based on considerations of fairness and equity ratherthan on legal ownership rights "
+            "term": "EPMO",
+            "definition": "— enterprise project management office. "
         },
         {
             "sort": "E",
-            "term": "estate",
-            "definition": "All of the property that a decedent owned at her death. "
+            "term": "ERM",
+            "definition": "See enterprise risk management. ."
         },
         {
             "sort": "E",
-            "term": "estate taxes",
-            "definition": "In the United States, federal taxes that are imposed on decedents’ estatesthat are valued at more than a specified dollar amount. "
+            "term": "estimates",
+            "definition": "An approximate value that represents an unknown. "
         },
         {
             "sort": "E",
-            "term": "estoppel",
-            "definition": "An equitable doctrine by which someone is restrained—or estopped—fromacting in a manner that contradicts her previous conduct. "
+            "term": "EVM",
+            "definition": "See earned value management."
         },
         {
             "sort": "E",
-            "term": "ethics",
-            "definition": "A system of accepted standards of conduct and moral judgment that combineshonesty, integrity, and fair treatment. "
+            "term": "EVP",
+            "definition": "See employee value proposition."
         },
         {
             "sort": "E",
-            "term": "evidence",
-            "definition": "The means by which the disputed facts in a civil lawsuit are proved ordisproved. "
+            "term": "exception report",
+            "definition": "A report generated automatically by a company’s systems when results deviatefrom an established standard. "
         },
         {
             "sort": "E",
-            "term": "evidence of insurability provision",
-            "definition": "A group insurance contract provision that specifies the conditions, ifany, under which the insurer reserves the right to require a person eligiblefor insurance to provide evidence of insurability satisfactory to the insurerin order to obtain part or all of her coverage. "
+            "term": "expectancy theory",
+            "definition": "A motivation theory stating that the strength of an individual’s tendencyto act in a certain way depends on the individual’s expectation that theact will be followed by a given outcome, and by the attractiveness of thatoutcome to the individual. "
         },
         {
             "sort": "E",
-            "term": "exclusion",
-            "definition": "A life insurance policy provision that specifies certain situations underwhich an insurer will deny payment of policy proceeds. "
+            "term": "expected time",
+            "definition": "An estimate of the time needed to complete project activities. "
         },
         {
             "sort": "E",
-            "term": "executive branch",
-            "definition": "The branch of government that consists of a number of agencies or ministriesthat are responsible for administering, enforcing, or carrying out thejurisdiction’s laws."
+            "term": "expert power",
+            "definition": "Power that results from a person’s skills, knowledge, or expertise."
         },
         {
             "sort": "E",
-            "term": "executor",
-            "definition": "A personal representative who is responsible for settling the estate ofa person who died with a valid will. "
+            "term": "extinction",
+            "definition": "The process of discouraging a specific behavior by ignoring it. "
         },
         {
             "sort": "E",
-            "term": "express authority",
-            "definition": "Actual authority that a principal explicitly confers on an agent."
+            "term": "extranet",
+            "definition": "A limited-access network that allows people within an organization, andselect external stakeholders, to access company information "
         },
         {
             "sort": "E",
-            "term": "extended term insurance nonforfeiture option",
-            "definition": "A life insurance policy nonforfeiture option that allows the policyownerto use the policy’s net cash value as a net single premium to purchaseterm insurance for the full face amount provided under the original policyfor as long a term as that net cash value can provide. "
-        },
-        {
-            "sort": "E",
-            "term": "external fraud",
-            "definition": "Fraud committed by individuals who are not employees of an insurer, suchas consumers, claimants, and individuals who have some type of businessrelationship with the insurer. "
-        },
-        {
-            "sort": "E",
-            "term": "extraterritorial law",
-            "definition": "A type of insurance law sometimes enacted by a state that applies to thatstate’s residents covered under a contract, regardless of the contract’sstate of jurisdiction."
+            "term": "extrinsic motivation",
+            "definition": "A force that causes an individual to pursue an activity to obtain an externalgoal. "
         },
         {
             "sort": "F",
-            "term": "Fair Credit Reporting Act (FCRA",
-            "definition": "A U.S. federal law that regulates the reporting and use of consumer creditinformation and seeks to ensure that consumer credit reports contain onlyaccurate, relevant,and recent information. "
+            "term": "fast tracking",
+            "definition": "A method for reducing the time required to complete a project whereina project manager revisits the network’s critical path to decide if anysequential activities can be performed simultaneously. "
         },
         {
             "sort": "F",
-            "term": "Fair Labor Standards Act (FLSA)",
-            "definition": "A U.S. federal law that sets minimum requirements on the wages employersmust pay workers. "
+            "term": "feasibility",
+            "definition": "The degree to which company resources will be able to carry a projectto completion. "
         },
         {
             "sort": "F",
-            "term": "fair use doctrine",
-            "definition": "A legal doctrine that permits third parties to use limited portions ofa copyrighted work for purposes such as criticism, comment, news reporting,teaching, scholarship,or research. "
+            "term": "feedback controls",
+            "definition": "Organizational controls that compare actual performance or output withestablished standards at the end of a measurement period. "
         },
         {
             "sort": "F",
-            "term": "Federal Insurance Office (FIO)",
-            "definition": "A U.S. administrative office within the Treasury Department that monitorsthe insurance industry, identifies areas with inadequate state regulation,helps to identify systemically risky insurers, and deals with internationalinsurance issues. "
+            "term": "financial modeling",
+            "definition": "A computer-based mathematical model that approximates the operation ofreal-world financial processes. "
         },
         {
             "sort": "F",
-            "term": "Federal Reserve System (the Fed)",
-            "definition": "In the United States, a system consisting of 12 regional banks and thestate and national banks that are Fed members, whose functions includeconducting the nation’s monetary policy, supervising and regulating banks,and maintaining the stability of the nation’s financial system. "
+            "term": "firewall",
+            "definition": "A system component designed to prevent unauthorized access to a network."
         },
         {
             "sort": "F",
-            "term": "Federal Sentencing Guidelines",
-            "definition": "U.S. federal rules that set out uniform policies for sentencing individualsand organizations convicted of serious federal crimes. "
+            "term": "fishbone diagram",
+            "definition": "A graphical tool used for organizing potential causes for a problem andsorting the causes into defined categories. Also called an Ishikawa diagram."
         },
         {
             "sort": "F",
-            "term": "federal system",
-            "definition": "A type of governmental system in which a federal government and a numberof lower-level governments share governmental powers. For example, theUnited States is a federation of 50 states, the District of Columbia, anda number of territories. "
+            "term": "flextime",
+            "definition": "A work arrangement in which employees must work a certain number of hoursper week but have discretion in deciding when they will work. "
         },
         {
             "sort": "F",
-            "term": "Federal Trade Commission (FTC)",
-            "definition": "An independent administrative agency of the U.S. federal government responsiblefor enforcing both federal antitrust laws and federal consumer protectionlaws. "
+            "term": "float",
+            "definition": "The length of time an activity can be delayed without delaying the entireproject. Also known as slack time. "
         },
         {
             "sort": "F",
-            "term": "fiduciary",
-            "definition": "An entity or individual who holds a special position of trust or confidencewhen handling the affairs of another and who must put that other’s interestsabove the fiduciary’s own interests. "
+            "term": "flow chart",
+            "definition": "A visualization method that shows the systematic progression of a seriesof activities, using connecting lines and conventional symbols. "
         },
         {
             "sort": "F",
-            "term": "Financial Analysis Handbook",
-            "definition": "A handbook provided by the National Association of Insurance Commissionersto help regulators identify companies currently experiencing financialproblems, as well as those that have the greatest potential for developingproblems in the future. "
+            "term": "forecasting models",
+            "definition": "Mathematical constructs for projecting unknown or future outcomes usingknown results or data. "
         },
         {
             "sort": "F",
-            "term": "financial condition examination",
-            "definition": "A formal investigation of an insurer carried out by one or more stateinsurance departments to identify and monitor any threats to the insurer’ssolvency. "
+            "term": "formal leadership",
+            "definition": "The ability of a person to influence the behavior of others through theformal authority conveyed on the person by the company. "
         },
         {
             "sort": "F",
-            "term": "Financial Condition Examiners Handbook",
-            "definition": "A handbook provided by the NAIC that specifies standard procedures forexamining an insurer’s accounting records and other financial statementsto determine its financial condition. "
-        },
-        {
-            "sort": "F",
-            "term": "financial holding company (FHC)",
-            "definition": "A holding company that conducts activities that are financial in natureor incidental to financial activities, such as insurance, securities, andbanking. "
-        },
-        {
-            "sort": "F",
-            "term": "Financial Industry Regulatory Authority (FINRA)",
-            "definition": "A nonprofit organization of member firms responsible for regulating allsecurities firms doing business in the United States. "
-        },
-        {
-            "sort": "F",
-            "term": "Financial Stability Oversight Council (FSOC) ",
-            "definition": "A U.S. federal independent agency that monitors the safety and stabilityof the U.S. financial system, identifies systemic risks, and coordinatesregulatory responses to any threats to the system. "
-        },
-        {
-            "sort": "F",
-            "term": "financing statement",
-            "definition": "A document that is filed with a specified state or local government officialto record the existence of a security interest in identified property ofa debtor. "
-        },
-        {
-            "sort": "F",
-            "term": "FINRA Rules",
-            "definition": "Requirements for how broker-dealers and registered persons must conductbusiness; all registered members of the Financial Industry Regulatory Authoritymust comply with these rules "
-        },
-        {
-            "sort": "F",
-            "term": "foreign insurer",
-            "definition": "From the perspective of a given state in the United States, an insurerthat incorporates under the laws of another state. From the perspectiveof most countries other than the United States, an insurer that incorporatesunder the laws of another country "
-        },
-        {
-            "sort": "F",
-            "term": "formal contract",
-            "definition": "A contract that is enforceable because the parties met certain formalitiesconcerning the form of the agreement. "
-        },
-        {
-            "sort": "F",
-            "term": "fraternal insurer",
-            "definition": "A nonprofit organization, operated solely for the benefit of its members.It provides its members with social and insurance benefits. As such, afraternal insurer may not be required to become a corporation. Sometimescalled a fraternal benefit society "
-        },
-        {
-            "sort": "F",
-            "term": "fraud",
-            "definition": "An act by which someone intentionally deceives another party and inducesthat other party to part with something of value or to give up a legalright. "
-        },
-        {
-            "sort": "F",
-            "term": "fraudulent misrepresentation ",
-            "definition": "An intentional tort that occurs when a person knowingly or willfully makesa false statement with the intent that another person will rely on thestatement and will be harmed as a result of that reliance. "
-        },
-        {
-            "sort": "F",
-            "term": "free and open market",
-            "definition": "A market in which prices are established by market forces with littleor no intervention from the government or other powerful economic entities,such as monopolies."
-        },
-        {
-            "sort": "F",
-            "term": "freedom of contract",
-            "definition": "In the United States and many jurisdictions, a contract law principlethat states that parties have the right to contract with whomever theychoose and on whatever lawful terms they choose. "
-        },
-        {
-            "sort": "F",
-            "term": "free look provision",
-            "definition": "An individual life insurance policy provision that gives the policyownera period of time (usually 10 days) following policy delivery to cancelthe policy and receive a refund of all premiums paid. "
-        },
-        {
-            "sort": "F",
-            "term": "functional regulation",
-            "definition": "The principle that a single regulatory body should oversee similar financialactivities, regardless of which type of financial institution engages inthe activity. "
-        },
-        {
-            "sort": "F",
-            "term": "funding agency",
-            "definition": "The financial institution in which a qualified group retirement plan’sassets are held. "
-        },
-        {
-            "sort": "F",
-            "term": "funding instrument",
-            "definition": "An arrangement for investing qualified group retirement plan assets. Alsoknown as a funding vehicle. "
+            "term": "frequency distribution",
+            "definition": "A set of data organized to show the number of times each outcome occurs."
         },
         {
             "sort": "G",
-            "term": "general account",
-            "definition": "An undivided asset account that an insurer maintains for the purpose ofrecording assets that back the reserves established for traditional lifeinsurance and fixed annuity products. "
+            "term": "Gantt chart",
+            "definition": "A graphical scheduling tool that separates projects into critical activitiesand plots starting and ending dates for each activity. "
         },
         {
             "sort": "G",
-            "term": "general counsel",
-            "definition": "The person in an insurance company who is in charge of the legal department.Also known as chief counsel. "
+            "term": "gig economy",
+            "definition": "An environment in which an on-demand labor force is utilized to fill temporaryor short-term jobs, and there is no formal employer-employee relationshipbetween the independent worker and the employer. "
         },
         {
             "sort": "G",
-            "term": "general partnership",
-            "definition": "An association between two or more individuals who enter into an agreementto own and operate a business for profit. "
+            "term": "global boundaries",
+            "definition": "Boundaries such as regulations or corporate strategy that are outsidethe control of an innovation project. "
         },
         {
             "sort": "G",
-            "term": "gift",
-            "definition": "The voluntary transfer of property ownership from one person to anotherwithout the exchange of consideration. "
+            "term": "goal-setting theory",
+            "definition": "A motivation theory stating that employees are motivated by challengingyet attainable goals, along with appropriate feedback to mark progresstoward goals. "
         },
         {
             "sort": "G",
-            "term": "good faith",
-            "definition": "The honest intent to act without taking unfair advantage of another person."
+            "term": "group",
+            "definition": "Two or more people who interact while sharing a common identity and purpose."
         },
         {
             "sort": "G",
-            "term": "grace period provision",
-            "definition": "A policy provision that allows the policyowner to pay a renewal premiumwithin a stated period of time after a premium due date. "
-        },
-        {
-            "sort": "G",
-            "term": "Gramm-Leach-Bliley (GLB) Act",
-            "definition": "A U.S. federal law that permits financial firms to affiliate in ways thatresult in a more competitive and integrated financial services industry.Also known as the Financial Services Modernization Act (FSMA). "
-        },
-        {
-            "sort": "G",
-            "term": "gratuitous promise",
-            "definition": "In contract law, a promise that is not supported by consideration."
-        },
-        {
-            "sort": "G",
-            "term": "gross negligence",
-            "definition": "Consciously and voluntarily failing to perform, through action or inaction,a legal duty in reckless disregard of the consequences of that failure."
-        },
-        {
-            "sort": "G",
-            "term": "Group Life Insurance Definition and Group Life Insurance Standard Provisions Model Act (Group Life Insurance Model Act). ",
-            "definition": "An NAIC model law that defines the types of groups that are eligible forgroup life insurance and specifies standard provisions that group lifeinsurance contracts must include. "
-        },
-        {
-            "sort": "G",
-            "term": "guaranty association",
-            "definition": "An organization that operates under the supervision of the insurance commissionerto protect policyowners, insureds, beneficiaries, annuitants, payees, andassignees against losses that might result from the impairment or insolvencyof a life or health insurer. "
-        },
-        {
-            "sort": "G",
-            "term": "guaranty association disclaimer",
-            "definition": "A document that notifies policyowners of the existence of the state guarantyassociation and that includes a notice that, in the event of the insurer’sinsolvency, the policyowner may not be totally protected by the association."
-        },
-        {
-            "sort": "G",
-            "term": "guardian",
-            "definition": "An individual or group of individuals who is authorized by a court totake care of a person, known as a ward, and manage the ward’s propertyand affairs. "
+            "term": "groupthink",
+            "definition": "A phenomenon in which group members stress conformity and unanimity tothe point where alternate courses of action are ignored which results ininferior decisions and group outcomes. "
         },
         {
             "sort": "H",
-            "term": "holder",
-            "definition": "The person who has possession of a negotiable instrument that is payableto the person or to bearer and who is entitled to negotiate the instrument."
+            "term": "hacking",
+            "definition": "The process of using a computer and technology to gain unauthorized accessto another system’s data. "
         },
         {
             "sort": "H",
-            "term": "holder in due course",
-            "definition": "The holder of a negotiable instrument who paid value for the instrument,obtained it in good faith, and obtained it without knowledge of defensesor claims against its payment. "
+            "term": "handoff",
+            "definition": "A transfer of work from one work team member to another, typically acrossorganizational boundaries. "
         },
         {
             "sort": "H",
-            "term": "holding company system",
-            "definition": "A corporate ownership structure in which one company—the holding company—ownsand controls another company (or companies), known as a subsidiary. "
+            "term": "heat map",
+            "definition": "A data map in which different values for a given variable appear as differentcolors. "
+        },
+        {
+            "sort": "H",
+            "term": "heuristics",
+            "definition": "General rules that allow people to make decisions quickly without gatheringextensive information. "
+        },
+        {
+            "sort": "H",
+            "term": "hindsight bias",
+            "definition": "The tendency of decision makers to believe, after a decision is implementedand a certain result occurs, that they knew a decision would result inthat outcome during the decision-making process. "
         },
         {
             "sort": "I",
-            "term": "illustration",
-            "definition": "A presentation or depiction that shows consumers how the nonguaranteedvalues of a policy might vary over time. "
+            "term": "incremental innovation",
+            "definition": "A type of innovation that enhances operations and profitability. "
         },
         {
             "sort": "I",
-            "term": "implied authority",
-            "definition": "Actual authority that a principal intends an agent to have and that arisesincidentally from an express grant of authority. Also known as incidentalauthority. "
+            "term": "independent activities",
+            "definition": "Activities that can progress concurrently with no change to resource needs."
         },
         {
             "sort": "I",
-            "term": "incontestability provision",
-            "definition": "A policy provision that denies the insurer the right to avoid the contracton the grounds of a material misrepresentation in the application afterthe contract has been in force for a stated period time. "
+            "term": "independent variable",
+            "definition": "A variable that influences the behavior of another variable. "
         },
         {
             "sort": "I",
-            "term": "indemnification",
-            "definition": "Compensation or reimbursement of another’s loss. "
+            "term": "inferential statistics",
+            "definition": "Statistics that allow a decision maker to draw conclusions about a largepopulation based on the sample group. "
         },
         {
             "sort": "I",
-            "term": "independent contractor",
-            "definition": "A person who contracts to do a specific task according to his own methodsand who generally is not subject to the employer’s control except as tothe end product or final result of the work. "
+            "term": "infographic",
+            "definition": "A graphic representation designed to make information easy to understandand patterns easy to identify. "
         },
         {
             "sort": "I",
-            "term": "individual retirement account",
-            "definition": "An individual retirement arrangement that takes the form of a trust orcustodial account created by a bank, investment company, or similar organization"
+            "term": "informal leadership",
+            "definition": "The ability to influence the behavior of others by means other than theformal authority conferred on the person by the organization. "
         },
         {
             "sort": "I",
-            "term": "individual retirement annuity",
-            "definition": "An individual retirement arrangement funded by an annuity contract issuedby an insurer. "
+            "term": "information",
+            "definition": "A collection of data that is converted into a form that is meaningfulor useful for the accomplishment of some objective. "
         },
         {
             "sort": "I",
-            "term": "individual retirement arrangement (IRA)",
-            "definition": "A type of retirement plan that allows a person with taxable compensationto put a stated amount of compensation into a savings or investment productthat meets requirements specified in the federal tax laws, and thus receivefavorable federal tax treatment. "
+            "term": "information technology",
+            "definition": "The use of computer systems to gather, record, manage, analyze, and transmitcompany information. "
         },
         {
             "sort": "I",
-            "term": "informal contract",
-            "definition": "A contract that is enforceable because the parties met requirements concerningthe substance of the agreement rather than requirements concerning theform of the agreement "
+            "term": "innovation portfolio management",
+            "definition": "An approach to managing all company innovation as part of one coordinatedportfolio so that risks and returns from multiple initiatives can be alignedwith the organization’s mission, vision, strategies, and resources."
         },
         {
             "sort": "I",
-            "term": "infringement",
-            "definition": "Any violation of the exclusive rights belonging to the owner of intellectualproperty. "
+            "term": "innovation steering committee",
+            "definition": "An executive-level committee that meets regularly to foster innovationand set priorities for innovation initiatives. "
         },
         {
             "sort": "I",
-            "term": "injunction",
-            "definition": "A court order that prohibits a party from committing a specific act."
+            "term": "innovative thinking",
+            "definition": "The process of solving problems by discovering, combining, and arranginginsights, ideas, and methods in new ways. "
         },
         {
             "sort": "I",
-            "term": "insurability premium receipt",
-            "definition": "A conditional premium receipt that provides temporary life insurance coverageon condition that the insurer finds the proposed insured to be insurableas a standard or better-than-average risk. "
+            "term": "intellectual capital",
+            "definition": "The sum of all employee knowledge that a company can use to drive profitsas well as other proprietary information that a company owns. "
         },
         {
             "sort": "I",
-            "term": "insurable interest",
-            "definition": "An interest that exists when a person is likely to suffer a genuine lossor detriment should the event insured against by an insurance policy occur."
+            "term": "intelligent underwriting system",
+            "definition": "A software that performs underwriting steps based on preprogrammed rulesand parses language to assess risk automatically. "
         },
         {
             "sort": "I",
-            "term": "Insurance Data Security Model Law",
-            "definition": "An NAIC model law that requires insurers and other entities licensed bystate insurance departments to (1) develop, implement, and maintain aninformation security program; (2) investigate all cybersecurity events;and (3) notify the state insurance commissioner of such events. "
+            "term": "intermittent reinforcement",
+            "definition": "The process of encouraging or discouraging some, rather than all, instancesof a specific behavior. "
         },
         {
             "sort": "I",
-            "term": "insurance department",
-            "definition": "A state administrative agency that is responsible for enforcing the stateinsurance code and making certain that insurers conducting business withinthe state comply with all state insurance laws. Also known as the departmentof insurance (DOI). "
+            "term": "International Organization for Standardization",
+            "definition": "A global federation composed of representatives from standards-settingorganizations all over the world. "
         },
         {
             "sort": "I",
-            "term": "Insurance Fraud Prevention Model Act",
-            "definition": "An NAIC model law designed to enable the state insurance departments to(1) investigate insurance fraud, (2) stop fraudulent insurance acts, and(3) work with local, state, and federal law enforcement and regulatoryagencies to enforce laws that prohibit fraudulent insurance acts."
+            "term": "intranet",
+            "definition": "A private network accessible only to people within an organization."
         },
         {
             "sort": "I",
-            "term": "insurance holding company system",
-            "definition": "According to state laws based on the NAIC Insurance Holding Company SystemRegulatory Act, two or more affiliated corporations, one or more of whichis an insurer."
+            "term": "intrinsic motivation",
+            "definition": "A force that causes an individual to initiate an activity for its ownsake, because the activity is satisfying to the individual. "
         },
         {
             "sort": "I",
-            "term": "Insurance Information and Privacy Protection Model Act (Model Privacy Act)",
-            "definition": "An NAIC model law that sets standards for the collection, use, and disclosureof information gathered in connection with insurance transactions."
+            "term": "intrusion detection software",
+            "definition": "Technology that monitors system traffic and alerts administrators to potentialsecurity issues. "
         },
         {
             "sort": "I",
-            "term": "insurance trust",
-            "definition": "An irrevocable trust for which the trust property consists of insurancepolicies on the life of the settlor or the proceeds of such policies."
+            "term": "ISO 9000",
+            "definition": "A standardized collection of quality management fundamentals designedto help companies meet customer needs and follow regulatory requirementsrelated to products and services. "
         },
         {
             "sort": "I",
-            "term": "intangible property",
-            "definition": "Property that consists of one or more intangible legal rights that havevalue because, if necessary, the rights can be enforced by the courts."
-        },
-        {
-            "sort": "I",
-            "term": "intellectual property",
-            "definition": "Intangible personal property that is a product of the human intellectand in which the creator has ownership rights. "
-        },
-        {
-            "sort": "I",
-            "term": "intentional tort",
-            "definition": "A private wrong committed by a person who intended to do something thatthe law declares a wrong. "
-        },
-        {
-            "sort": "I",
-            "term": "internal fraud",
-            "definition": "Fraud committed by an insurer’s employees, such as officers, directors,and insurance agents. "
-        },
-        {
-            "sort": "I",
-            "term": "International Association of Insurance Supervisors (IAIS)",
-            "definition": "A voluntary membership organization of insurance supervisors and regulatorsfrom more than 200 jurisdictions in nearly 140 countries that promoteseffective and globally consistent supervision of the insurance industryand publishes various standards that describe best practices for insurancecompanies and supervisory authorities worldwide. "
-        },
-        {
-            "sort": "I",
-            "term": "interpleader",
-            "definition": "A court proceeding under which an insurer that cannot determine the properrecipient of policy proceeds pays the proceeds to a court and asks thecourt to decide the proper recipient. "
-        },
-        {
-            "sort": "I",
-            "term": "interrogatories",
-            "definition": "A discovery method used in civil lawsuits in which one party prepareswritten questions that the other party must answer in writing within aspecified time. "
-        },
-        {
-            "sort": "I",
-            "term": "Interstate Insurance Product Regulation Compact (IIPRC)",
-            "definition": "A public entity that operates alongside the state insurance departmentsto (1) enable member states to develop uniform national product standardsto protect consumers,(2) provide a central point of filing for covered insurance products,and (3) review product filings and make regulatory decisions based on thosestandards. "
-        },
-        {
-            "sort": "I",
-            "term": "inter vivos transfer",
-            "definition": "A transfer of property ownership that is made by a property owner duringhis life. "
-        },
-        {
-            "sort": "I",
-            "term": "inter vivos trust",
-            "definition": "A trust that takes effect during the settlor’s lifetime. Also known asa living trust. "
-        },
-        {
-            "sort": "I",
-            "term": "intestate",
-            "definition": "Not having a valid will at one’s death. "
-        },
-        {
-            "sort": "I",
-            "term": "investment company",
-            "definition": "A company that issues securities and engages primarily in investing andtrading securities. "
-        },
-        {
-            "sort": "I",
-            "term": "Investments of Insurers Model Act (Defined Limits Version). ",
-            "definition": "A model law that specifies the types of assets that insurers are permittedto treat as admitted assets. "
-        },
-        {
-            "sort": "I",
-            "term": "IRIS ratios",
-            "definition": "Twelve financial ratio tests that the National Association of InsuranceCommissioners applies to the information reported in each insurer’s AnnualStatement. "
-        },
-        {
-            "sort": "I",
-            "term": "irrevocable beneficiary",
-            "definition": "A life insurance beneficiary whose rights to policy proceeds are vestedwhen the beneficiary designation is changed. "
-        },
-        {
-            "sort": "I",
-            "term": "Islamic legal system",
-            "definition": "A legal system in which the law is set out in the Koran (or Qur’an) andis unchanging. "
-        },
-        {
-            "sort": "I",
-            "term": "issue of fact",
-            "definition": "An issue in which the parties to a civil lawsuit disagree as to the factsinvolved in the lawsuit. "
-        },
-        {
-            "sort": "I",
-            "term": "issue of law",
-            "definition": "An issue in which the parties to a civil lawsuit disagree on how the lawshould be applied to a given set of facts. "
+            "term": "IT",
+            "definition": "— information technology. "
         },
         {
             "sort": "J",
-            "term": "joint and several liability",
-            "definition": "Liability in which each defendant is independently liable for the entireamount of damages awarded to a plaintiff regardless of a defendant’s shareof responsibility for the losses. "
+            "term": "job description",
+            "definition": "A description of the duties, responsibilities, and accountabilities fora job. "
         },
         {
             "sort": "J",
-            "term": "judge",
-            "definition": "A judicial officer who presides over a trial court. "
+            "term": "job design",
+            "definition": "The way in which the elements of a job are organized. "
         },
         {
             "sort": "J",
-            "term": "judgment",
-            "definition": "An official decision of a court that resolves a litigated dispute anddetermines the rights and obligations of the parties to the action. "
+            "term": "job enlargement",
+            "definition": "An approach to job design in which a new job is created by combining twoor more specialized tasks to add more variety. "
         },
         {
             "sort": "J",
-            "term": "judgment creditor",
-            "definition": "A creditor who has sued a debtor who failed to repay a debt and has obtaineda judgment against the debtor. "
+            "term": "job enrichment",
+            "definition": "An approach to job design in which a job is redesigned to allow workersmore control over how they perform their work tasks. "
         },
         {
             "sort": "J",
-            "term": "judicial branch",
-            "definition": "The branch of government that consists of a system of courts that areresponsible for applying and interpreting the jurisdiction’s laws. "
+            "term": "job rotation",
+            "definition": "An approach to job design in which emloyees are periodically shifted fromone task to another task with similar skill requirements. "
         },
         {
             "sort": "J",
-            "term": "jurisdiction",
-            "definition": "(1) The authority of a court to hear specific cases or, in the event ofoverlapping authorities, the most appropriate forum to hear the case. (2)A geographic area of legal authority. "
+            "term": "job sharing",
+            "definition": "A work arrangement that allows two or more individuals to split one job."
+        },
+        {
+            "sort": "K",
+            "term": "kaizen",
+            "definition": "A gradual and continuous approach to process improvement using a seriesof modest changes and feedback from process team members. "
+        },
+        {
+            "sort": "K",
+            "term": "key performance indicator",
+            "definition": "A performance standard for a process or activity that is critical to acompany’s success. "
+        },
+        {
+            "sort": "K",
+            "term": "key process",
+            "definition": "One of several operational processes critical to meeting customer needs,maintaining a competitive position, or implementing the corporate plan."
+        },
+        {
+            "sort": "K",
+            "term": "knowledge workers",
+            "definition": "Employees who can interpret information within a specific, yet broad,domain; use skills and knowledge to define problems; and identify alternativesolutions to problems. "
+        },
+        {
+            "sort": "K",
+            "term": "KPI",
+            "definition": "See key performance indicator."
         },
         {
             "sort": "L",
-            "term": "laches",
-            "definition": "An equitable principle that bars a plaintiff from equitable relief ifshe unreasonably delayed in pursuing a claim against a defendant and thedefendant was harmed in some way as a result of the undue delay. "
+            "term": "latest allowable date",
+            "definition": "The last date on which a given event can occur without causing a delayin the entire project. "
         },
         {
             "sort": "L",
-            "term": "late payment offer",
-            "definition": "An insurer’s conditional offer to waive its right to require timely paymentof a premium "
+            "term": "law of large numbers",
+            "definition": "A rule that states that, under normal circumstances, the more times aparticular event is observed, the more likely it is that the observationswill approximate the true probability of the event. "
         },
         {
             "sort": "L",
-            "term": "law of agency",
-            "definition": "The body of law that defines the rights, duties, and liabilities thatarise among the parties when an agent represents a principal in dealingswith third parties. "
+            "term": "leader",
+            "definition": "A person who influences other people toward the achievement of a visionor set of goals. "
         },
         {
             "sort": "L",
-            "term": "legal function",
-            "definition": "Actions a company takes to handle legal matters such as contracts andlawsuits. "
+            "term": "lean management",
+            "definition": "A continuous process improvement approach that emphasizes creating a valuestream of Lean processes with minimal waste. "
         },
         {
             "sort": "L",
-            "term": "legal remedies",
-            "definition": "Limited and specific common law remedies that primarily involve the paymentof money damages to injured parties. "
+            "term": "Lean Six Sigma",
+            "definition": "A hybrid quality improvement method that combines Lean management principleswith Six Sigma management principles. "
         },
         {
             "sort": "L",
-            "term": "legislative branch",
-            "definition": "The branch of government that consists of one or more legislative bodiesthat are responsible for enacting laws to govern the applicable jurisdiction."
+            "term": "legacy systems",
+            "definition": "Older computer systems or applications that perform essential functionsand are costly to replace or redesign. "
         },
         {
             "sort": "L",
-            "term": "lien",
-            "definition": "A generic term used to describe a claim against property resulting froma debt or other obligation. "
+            "term": "legitimate power",
+            "definition": "Power that occurs solely because of a person’s superior position overothers in the organizational hierarchy. "
         },
         {
             "sort": "L",
-            "term": "Life Insurance and Annuities Replacement Model Regulation (Model Replacement Regulation)",
-            "definition": "An NAIC model regulation designed to make sure that insurers and insuranceagents provide consumers with fair and accurate information about policiesso that consumers can make informed decisions. "
+            "term": "line diagram",
+            "definition": "A diagram used to show changes in data over time. "
         },
         {
             "sort": "L",
-            "term": "Life Insurance Illustrations Model Regulation",
-            "definition": "An NAIC model regulation that sets rules that insurers and insurance agentsmust follow when using illustrations in life insurance sales. "
-        },
-        {
-            "sort": "L",
-            "term": "life settlement",
-            "definition": "The sale of an existing life insurance policy to a third party for morethan its cash surrender value but less than its death benefit. "
+            "term": "lower control limit",
+            "definition": "In a control chart, the lowest permissible value for an in-control observation."
         },
         {
             "sort": "M",
-            "term": "maker",
-            "definition": "The person who writes a draft. Also known as the drawer. "
+            "term": "machine learning",
+            "definition": "A component of artificial intelligence that allows computers to identifypatterns within data without express instruction about where or how tofind them. "
         },
         {
             "sort": "M",
-            "term": "Market Action Tracking System (MATS)",
-            "definition": "An electronic system maintained by the NAIC that allows states to scheduleand coordinate market conduct examinations. "
+            "term": "machine learning",
+            "definition": "A component of artificial intelligence that allows computers to identifypatterns without being expressly told where or how to find them. "
         },
         {
             "sort": "M",
-            "term": "market analysis",
-            "definition": "A process that state insurance departments use to collect and analyzeinformation to help them understand the marketplace in order to discoverpatterns or practices of insurers that deviate significantly from the normor that pose a potential risk to consumers. "
+            "term": "macro flow chart",
+            "definition": "A type of flow chart that shows a broad view of the progression of a seriesof activities. "
         },
         {
             "sort": "M",
-            "term": "market conduct examination",
-            "definition": "A formal investigation of an insurer’s nonfinancial operations carriedout by one or more state insurance departments to determine whether theinsurer’s market conduct operations comply with applicable laws and regulations."
+            "term": "management by exception",
+            "definition": "A performance management technique requiring that a manager investigateperformance that falls outside an established, acceptable performance range."
         },
         {
             "sort": "M",
-            "term": "market conduct laws",
-            "definition": "State insurance laws designed to make sure that insurance companies conductbusiness fairly and ethically. "
+            "term": "management by objectives",
+            "definition": "A performance evaluation technique in which the employee and supervisorwork together to (1) set clear and attainable goals for the appraisal periodand (2) develop a plan for achieving those goals. "
         },
         {
             "sort": "M",
-            "term": "Market Conduct Surveillance Model Law",
-            "definition": "An NAIC model law that sets a framework for market conduct oversight ofinsurers by the state insurance departments. "
+            "term": "margin of error",
+            "definition": "A measure that indicates the likely range of inaccuracy of a given sampleresult relative to a result based on the total population "
         },
         {
             "sort": "M",
-            "term": "material misrepresentation",
-            "definition": "A misrepresentation by one contracting party that induces the other partyto enter into a contract that it would not have entered had it known thetruth. "
+            "term": "market",
+            "definition": "A physical or virtual area in which buyers and sellers of a particulargood or service interact to exchange resources. "
         },
         {
             "sort": "M",
-            "term": "McCarran-Ferguson Act",
-            "definition": "A U.S. federal law that gives the states primary authority to regulateinsurance as long as Congress finds state regulation to be adequate."
+            "term": "marketing innovation",
+            "definition": "The introduction of a new or significantly improved marketing method,product design, product packaging, product placement, product promotion,or product pricing structure. "
         },
         {
             "sort": "M",
-            "term": "mediation",
-            "definition": "An alternative dispute resolution method in which an impartial third party,known as a mediator, facilitates negotiation between the parties in aneffort to create a mutually agreeable resolution of the dispute. "
+            "term": "market leadership",
+            "definition": "A company’s competitive position relative to its competitors in termsof market share percentage. "
         },
         {
             "sort": "M",
-            "term": "mediator",
-            "definition": "An impartial third party who facilitates negotiations between disputingparties in the process of mediation. "
+            "term": "market share",
+            "definition": "The percentage of an industry or market’s total sales that is earned bya particular company over a specified time period. "
         },
         {
             "sort": "M",
-            "term": "merger",
-            "definition": "A transaction in which one corporation is absorbed into another corporationby combining its assets and liabilities with those of the surviving corporation;the merged corporation is liquidated and ceases to exist. "
+            "term": "MBO",
+            "definition": "See management by objectives."
         },
         {
             "sort": "M",
-            "term": "minor",
-            "definition": "A person who is younger than a stated age, often 18, and thus does nothave full contractual capacity. "
+            "term": "mean",
+            "definition": "A measure of central tendency that identifies the numerical average ofa series of values. "
         },
         {
             "sort": "M",
-            "term": "misrepresentation",
-            "definition": "An untrue statement of fact. "
+            "term": "measurement bias",
+            "definition": "A systematic error arising from the instruments used for data collection."
         },
         {
             "sort": "M",
-            "term": "misstatement of age or sex provision",
-            "definition": "A policy provision that describes how the insurer may adjust the policybenefit or premium if the application incorrectly stated the insured’sage or sex. "
+            "term": "measures of central tendency",
+            "definition": "Representative values that describe the values in the middle of a population."
         },
         {
             "sort": "M",
-            "term": "mistake of fact",
-            "definition": "A mistake that occurs when one or both parties is mistaken as to the existenceof something or as to the identity of something or someone. "
+            "term": "measures of dispersion",
+            "definition": "Representative values that describe the distribution of data around specifiedcentral values. "
         },
         {
             "sort": "M",
-            "term": "mistake of law",
-            "definition": "A mistake that occurs when, with full knowledge of the facts, one or bothparties make a mistake as to the legal effect of those facts. "
+            "term": "median",
+            "definition": "A measure of central tendency that identifies the middle value in a setof values arranged in numerical order. "
         },
         {
             "sort": "M",
-            "term": "mitigate",
-            "definition": "To minimize the amount of damages that result from a defendant’s wrongdoing."
+            "term": "mentoring",
+            "definition": "A process for developing employee talent over the long term. "
         },
         {
             "sort": "M",
-            "term": "mixed legal system",
-            "definition": "A legal system that contains elements of more than one basic type of legalsystem. "
+            "term": "merit-based compensation ",
+            "definition": "A compensation plan that ties employee pay to individual employee performancein an effort to reward higher performing employees with greater rewards."
         },
         {
             "sort": "M",
-            "term": "model law",
-            "definition": "A sample law created and adopted by a national or international organizationof regulators, lawmakers, lawyers, and/or academics and that the sponsoringorganization encourages legislatures to enact. Sometimes called a modelact or a uniform law. "
+            "term": "milestone",
+            "definition": "An important interim goal for a project. "
         },
         {
             "sort": "M",
-            "term": "Model Regulation for Complaint Records to Be Maintained Pursuant to the NAIC Unfair Trade Practices Act. ",
-            "definition": "An NAIC model regulation that describes minimum complaint record requirementsand provides a sample complaint record format. "
+            "term": "milestone schedule",
+            "definition": "A summary listing of major activities and key milestones. Sometimes referredto as a master schedule. "
+        },
+        {
+            "sort": "M",
+            "term": "mission statement",
+            "definition": "A statement of a company’s fundamental purpose or reason for existence."
+        },
+        {
+            "sort": "M",
+            "term": "mode",
+            "definition": "A measure of central tendency that identifies the value that appears mostoften in a population. "
+        },
+        {
+            "sort": "M",
+            "term": "model",
+            "definition": "An item or system that simulates something else. "
+        },
+        {
+            "sort": "M",
+            "term": "monopolistic competition",
+            "definition": "A market with many sellers, similar products and services, a customerperception of non-price differences between products and services, insignificantbarriers to entry for new sellers, and reliance on advertising. "
         },
         {
             "sort": "M",
             "term": "monopoly",
-            "definition": "A market scenario in which one firm, or a group of firms acting together,controls the production and distribution of a product. "
+            "definition": "A market in which one firm, or a group of firms acting together, controlsthe production and distribution of a product. "
         },
         {
             "sort": "M",
-            "term": "multinational corporation",
-            "definition": "A corporation that operates in more than one country and makes major decisionswithin a global context. "
+            "term": "mortality study",
+            "definition": "A study of the longevity and ages at death of large groups of people"
         },
         {
             "sort": "M",
-            "term": "mutual insurance company",
-            "definition": "An insurance company owned by its policyowners. "
+            "term": "mortality tables",
+            "definition": "A visual tool that presents the number of deaths projected to occur withina given group of people during a specified period of time. "
         },
         {
             "sort": "M",
-            "term": "mutualization",
-            "definition": "The process a stock insurer undertakes to convert to a mutual form ofownership. "
+            "term": "most probable time",
+            "definition": "The amount of time that a given activity is most likely to require."
         },
         {
             "sort": "M",
-            "term": "mutual mistake",
-            "definition": "A bilateral mistake that occurs when both parties to a contract make amistake, but they make different mistakes. "
+            "term": "motivation",
+            "definition": "The force that gives purpose and direction to an individual’s behaviorand can be classified as either intrinsic or extrinsic. "
         },
         {
             "sort": "N",
-            "term": "NAIC Corporate Governance Annual Disclosure Act",
-            "definition": "An NAIC model law that requires an insurer to provide information regardingcorporate governance practices (called the corporate governance annualdisclosure) to its state of domicile annually by June 1. Also known asthe Corporate Governance Model Act. "
+            "term": "negative reinforcement",
+            "definition": "The process of encouraging a specific behavior by immediately withdrawingor terminating something that an individual finds unpleasant or negative."
         },
         {
             "sort": "N",
-            "term": "NAIC Uniform Certificate of Authority Application (UCAA)",
-            "definition": "A standardized application created by the NAIC that allows an insurerto submit the same application to all states in which it intends to dobusiness. "
+            "term": "network model",
+            "definition": "A visual representation of the activities in a process or project usedto identify the best use of resources. Sometimes referred to as a programevaluation and review technique (PERT) network. "
         },
         {
             "sort": "N",
-            "term": "National Association of Insurance Commissioners (NAIC)",
-            "definition": "A nonprofit association of the insurance commissioners of all U.S. statesand territories; one of the NAIC’s primary functions is to promote uniformityof state regulation by developing model insurance laws and regulations."
+            "term": "network path",
+            "definition": "A sequence of network activities from project inception to project end."
         },
         {
             "sort": "N",
-            "term": "National Association of Registered Agents and Brokers Reform Act of 2015 (NARAB II) ",
-            "definition": "A federal law that reestablished the National Association of RegisteredAgents and Brokers (NARAB), which serves as a national clearinghouse forlicensing insurance agents. "
+            "term": "NIGO rate",
+            "definition": "A measure of the percentage share of all incoming paperwork received withincomplete documentation. "
         },
         {
             "sort": "N",
-            "term": "National Council of Insurance Regulators (NCOIL). ",
-            "definition": "An organization—primarily made up of state legislators—that seeks to educatelegislators on insurance issues, improve the quality of state insuranceregulation, make insurance more affordable, and work to ensure that therole of insurance regulation remains with the states. "
+            "term": "nonmedical underwriting",
+            "definition": "A process in which examination-based proof of medical insurability isnot required from a proposed insured. "
         },
         {
             "sort": "N",
-            "term": "necessaries",
-            "definition": "Goods and services that a minor or other incapacitated person actuallyrequires to sustain her well-being. "
+            "term": "nonrandom sampling",
+            "definition": "A sampling method that bases sample selection on specific, personallyselected criteria. "
         },
         {
             "sort": "N",
-            "term": "negligence",
-            "definition": "A private wrong committed by a person who failed to exercise the legallyrequired degree of care in (1) doing something that is otherwise legallypermissible or (2) omitting to do something that is otherwise legally required."
+            "term": "nonresponse bias",
+            "definition": "A type of sampling bias that occurs when some members of a sample areinherently more likely to provide information than other members of thatsame sample. "
         },
         {
             "sort": "N",
-            "term": "negotiability",
-            "definition": "A feature of a negotiable instrument by which possession of the instrumentcan be transferred—or negotiated—from person to person and the instrumentgenerally is accepted as a substitute for cash. "
+            "term": "non-value-adding activity",
+            "definition": "Any activity that does not make the product or service more valuable tothe customer. "
         },
         {
             "sort": "N",
-            "term": "negotiable instrument",
-            "definition": "A written document that represents an unconditional promise or order topay a specified amount of money upon the demand of the owner of the instrument."
-        },
-        {
-            "sort": "N",
-            "term": "net cash surrender value",
-            "definition": "The amount of a life insurance policy’s cash value that the policyownerwill receive upon surrendering the policy. The net cash surrender valueis calculated by adjusting the cash surrender value for amounts such asdividend additions, advance premium payments, policy loans, and policywithdrawals. "
-        },
-        {
-            "sort": "N",
-            "term": "net policy proceeds",
-            "definition": "The amount of life insurance policy proceeds that remain after any overduepremiums and any outstanding policy loans and interest have been deducted."
-        },
-        {
-            "sort": "N",
-            "term": "nominal damages",
-            "definition": "Damages that may be awarded to a plaintiff who was wronged but did notsuffer a loss as a result of the wrong, who cannot prove the amount ofthe loss with reasonable certainty, or whose loss was trivial. "
-        },
-        {
-            "sort": "N",
-            "term": "noncontributory plan",
-            "definition": "A group insurance plan under which the group policyholder pays the entirecost of the premium for their coverage. "
-        },
-        {
-            "sort": "N",
-            "term": "nonforfeiture provision",
-            "definition": "A cash value life insurance policy provision that describes the optionsavailable to the owner of a cash value life insurance policy if the policylapses or if the policyowner decides to surrender the policy. "
-        },
-        {
-            "sort": "N",
-            "term": "nonpublic personal information",
-            "definition": "Personally identifiable information about a consumer that is not publiclyavailable. "
-        },
-        {
-            "sort": "N",
-            "term": "note",
-            "definition": "A negotiable instrument that is a promise to pay a sum of money "
+            "term": "norms",
+            "definition": "The general standards of behavior that dictate how people should behavein a given situation. "
         },
         {
             "sort": "O",
-            "term": "offer",
-            "definition": "A proposal that, if accepted by another according to its terms, constitutesa binding contract "
+            "term": "oligopoly",
+            "definition": "A market with few sellers, undifferentiated products or services, vigorousadvertising, and significant barriers to entry for new sellers. "
         },
         {
             "sort": "O",
-            "term": "offeree",
-            "definition": "The party to whom an offer to contract is made "
+            "term": "operational risk",
+            "definition": "The potential for financial losses resulting from inadequate or failedprocesses and controls, people, or systems. "
         },
         {
             "sort": "O",
-            "term": "offeror",
-            "definition": "The party who makes an offer to contract. "
+            "term": "operational strategy",
+            "definition": "A general action plan for activities that must occur within a budget dictatedby the company’s corporate plan. "
         },
         {
             "sort": "O",
-            "term": "officers",
-            "definition": "The persons in a corporation who are responsible for carrying out importantmanagement functions for the operation of the corporation "
+            "term": "operations ",
+            "definition": "The activities any company undertakes to produce goods and services."
         },
         {
             "sort": "O",
-            "term": "open contract",
-            "definition": "A contract that identifies the documents that constitute the contractbetween the parties, but the enumerated documents are not all attachedto the contract. "
+            "term": "operations management",
+            "definition": "Managerial efforts to ensure that the products and services a companyprovides to customers meet stated quality standards, are timely, and aredelivered profitably at the lowest reasonable cost to the company. "
         },
         {
             "sort": "O",
-            "term": "order paper",
-            "definition": "A negotiable instrument that is payable to the order of a specific payeeand, thus, can be negotiated only by the named payee. "
+            "term": "opportunity cost",
+            "definition": "A benefit that the decision maker forfeits or gives up in choosing onealternative over another. "
         },
         {
             "sort": "O",
-            "term": "Own Risk and Solvency Assessment (ORSA). ",
-            "definition": "An insurer’s self-appraisal of its current and future risks, the adequacyof its risk management program, and its current and future solvency positions."
+            "term": "optimism bias",
+            "definition": "A tendency for innovators to form unrealistically positive expectationsas to future outcomes and to codify these expectations into plans and performancestandards. "
+        },
+        {
+            "sort": "O",
+            "term": "optimistic time",
+            "definition": "The shortest amount of time a given activity is likely to require."
+        },
+        {
+            "sort": "O",
+            "term": "organizational agility",
+            "definition": "An organization’s ability to adapt quickly to changes in the externalenvironment. "
+        },
+        {
+            "sort": "O",
+            "term": "organizational innovation",
+            "definition": "The introduction of a new or significantly improved organizational designin business practices or workplace organization. "
+        },
+        {
+            "sort": "O",
+            "term": "org chart",
+            "definition": "A hierarchically patterned array of boxes and lines depicting the formallines of authority, responsibility, and communication in an organization."
+        },
+        {
+            "sort": "O",
+            "term": "outlier",
+            "definition": "An extremely high or low value that is not representative of the othervalues in a dataset. "
         },
         {
             "sort": "P",
-            "term": "parliamentary democracy",
-            "definition": "A country in which the legislative branch of government, usually knownas the Parliament, has ultimate authority for making all laws. "
+            "term": "parent report",
+            "definition": "A master or summary report. "
         },
         {
             "sort": "P",
-            "term": "parol evidence",
-            "definition": "Evidence that is extrinsic to—that is, outside of—an unambiguous writtenagreement. "
+            "term": "Pareto chart",
+            "definition": "A bar chart that depicts how much each factor contributes to a specifieddefect, with all sources arranged in descending order from left to right."
         },
         {
             "sort": "P",
-            "term": "parol evidence rule",
-            "definition": "A procedural rule that states that parol evidence is not admissible toadd to, vary, or contradict the terms of a written contract. "
+            "term": "Pareto principle",
+            "definition": "A guideline which states that a small percentage of causes contributesto a large percentage of the results. "
         },
         {
             "sort": "P",
-            "term": "partially disclosed principal",
-            "definition": "A principal on whose behalf an agent contracts by disclosing the existenceof the principal but without identifying the principal. "
+            "term": "payoff",
+            "definition": "The projected value of an outcome from a decision. "
         },
         {
             "sort": "P",
-            "term": "partial plan termination",
-            "definition": "A type of group retirement plan termination that occurs when the plansponsor terminates the plan for one group of plan participants but continuesthe plan for another group of plan participants. "
+            "term": "payoff analysis",
+            "definition": "A formal approach to decision making wherein each combination of a decisionalternative and a state of nature result in a potential payoff. "
         },
         {
             "sort": "P",
-            "term": "party",
-            "definition": "The plaintiff or defendant in a civil lawsuit. "
+            "term": "payoff table",
+            "definition": "A decision analysis tool that summarizes potential outcomes from a decisionin a tabular format. "
         },
         {
             "sort": "P",
-            "term": "past consideration",
-            "definition": "In contract law, a promise made in exchange for actions or events thathave already taken place and, therefore, are not considered adequate considerationfor a contract."
+            "term": "PDCA cycle",
+            "definition": "See Plan-Do-Check-Act cycle."
         },
         {
             "sort": "P",
-            "term": "patent",
-            "definition": "A governmental grant of property rights to the inventor or creator ofan original process, machine, manufactured article, or chemical compound."
+            "term": "peer recognition program",
+            "definition": "A compensation plan in which coworkers can nominate another worker fora small bonus because of exceptional behavior. "
         },
         {
             "sort": "P",
-            "term": "payee",
-            "definition": "(1) The person to whom a draft is made payable. (2) The person who, ifstill living at the insured’s death, will receive life insurance policyproceeds under a settlement agreement. "
+            "term": "performance-based compensation",
+            "definition": "A compensation plan that ties employee pay to a company-wide goal suchas profits or sales, or perhaps a nonfinancial goal such as improved customerservice levels. "
         },
         {
             "sort": "P",
-            "term": "payee",
-            "definition": "(1) The person to whom a draft is made payable. (2) The person who, ifstill living, will receive life insurance policy proceeds under a settlementagreement. "
+            "term": "performance dashboard",
+            "definition": "A type of software that graphically displays the status of a company’smost important performance measures. "
         },
         {
             "sort": "P",
-            "term": "payout options provision",
-            "definition": "An annuity contract provision that identifies each of the payout optionsfrom which the contract owner may select. Also known as the settlementoptions provision."
+            "term": "performance standard",
+            "definition": "An established level of performance to which a company or an individualcompares actual performance. "
         },
         {
             "sort": "P",
-            "term": "pension plan",
-            "definition": "A defined benefit retirement plan established by an employer or unionto provide workers with a lifetime income benefit that begins at retirement.Employers make mandatory contributions on behalf of employees, who typicallydo not make contributions. "
+            "term": "permanent part-time work arrangement",
+            "definition": "A work arrangement in which an employee works less than the hours requiredfor full-time employment. "
         },
         {
             "sort": "P",
-            "term": "per capita beneficiary designation",
-            "definition": "A class designation in which the class members all stand in the same relationshipto the policyowner and the class members who survive the insured sharethe policy proceeds equally. "
+            "term": "pessimistic time",
+            "definition": "The longest amount of the a given activity is likely to require."
         },
         {
             "sort": "P",
-            "term": "perjury",
-            "definition": "A crime that is committed when an individual knowingly makes false statementsunder oath. "
+            "term": "pie chart",
+            "definition": "A graphical display that presents data in the shape of a circle dividedinto radial sections. "
         },
         {
             "sort": "P",
-            "term": "person",
-            "definition": "In the context of civil litigation, a natural person or an entity, suchas a corporation, that the law recognizes as having legal rights and duties."
+            "term": "Plan-Do-Check-Act cycle",
+            "definition": "A four-step control cycle technique for supporting quality improvement."
         },
         {
             "sort": "P",
-            "term": "personal property",
-            "definition": "Any property other than real property. In some jurisdictions, referredto as movable property. "
+            "term": "PMI",
+            "definition": "— Project Management Institute. "
         },
         {
             "sort": "P",
-            "term": "personal representative",
-            "definition": "The person appointed by a probate court to settle a decedent’s estate."
+            "term": "PMO",
+            "definition": "See project management office."
         },
         {
             "sort": "P",
-            "term": "per stirpes beneficiary designation",
-            "definition": "A class designation in which the descendants of a deceased class membertake the decedent’s share of the policy proceeds by representation."
+            "term": "point estimate",
+            "definition": "An estimated result that is assigned a single value. "
         },
         {
             "sort": "P",
-            "term": "plaintiff",
-            "definition": "The party who institutes a civil lawsuit in the courts. "
+            "term": "political bias",
+            "definition": "The tendency for innovators to turn a project into a competition and totry to outdo one another in order to win. "
         },
         {
             "sort": "P",
-            "term": "plan administrator",
-            "definition": "Under the Employee Retirement Income Security Act, the person or organizationresponsible for handling the administrative aspects of the plan and ensuringthat the plan complies with applicable regulatory requirements. "
+            "term": "population",
+            "definition": "A set of all items that share a specified characteristic. "
         },
         {
             "sort": "P",
-            "term": "plan beneficiary",
-            "definition": "Under the Employee Retirement Income Security Act, a person specifiedby a plan participant or by the terms of an employee benefit plan, whois or may become entitled to a benefit under the plan. "
+            "term": "positive reinforcement",
+            "definition": "The process of encouraging a specific behavior by immediately followingit with a consequence that the individual finds pleasing or positive."
         },
         {
             "sort": "P",
-            "term": "plan participant",
-            "definition": "Under the Employee Retirement Income Security Act, a member of a coveredgroup who is eligible to participate in an ERISA welfare benefit plan and/orretirement plan and who actually chooses to take part in the plan or whoseparticipation is automatic. "
+            "term": "PPM ",
+            "definition": "See project portfolio management."
         },
         {
             "sort": "P",
-            "term": "plan sponsor",
-            "definition": "Under the Employee Retirement Income Security Act, a specified party,typically an employer or a union, that establishes an ERISA welfare benefitplan and/or retirement plan for the benefit of its employees or members."
+            "term": "predictive analytics",
+            "definition": "An analytical technique used to predict future events or customer behaviorsand anticipate conditions that are likely to cause negative consequences."
         },
         {
             "sort": "P",
-            "term": "plan termination",
-            "definition": "The ending of a group retirement plan when plan benefits cease to accrue."
+            "term": "prescriptive analytics",
+            "definition": "A type of proactive data analytics that uses data to suggest decisionalternatives and show the possible implications of each decision."
         },
         {
             "sort": "P",
-            "term": "pleadings",
-            "definition": "The formal, written statements that set out the claims and defenses ofeach of the parties to a lawsuit. "
+            "term": "prevention costs",
+            "definition": "Expenses for proactively limiting operational defects. "
         },
         {
             "sort": "P",
-            "term": "police power",
-            "definition": "Governmental power to enact laws to promote public health, safety, andwelfare. "
+            "term": "procedure",
+            "definition": "A set of instructions for following a series of steps in a regular, definiteorder to accomplish a process. "
         },
         {
             "sort": "P",
-            "term": "policy contest",
-            "definition": "A court action to determine the validity of a life insurance policy."
+            "term": "process",
+            "definition": "A series of ongoing operations, work activities, or tasks ordered in adefinite sequence and directed toward achieving an end-result. "
         },
         {
             "sort": "P",
-            "term": "policy dividends provision",
-            "definition": "An individual policy provision that describes the ways the owner of aparticipating policy may receive policy dividends. "
+            "term": "process analysis",
+            "definition": "A systemic evaluation of all aspects of a process to make the processfaster, more efficient, less expensive, and more focused on the customer."
         },
         {
             "sort": "P",
-            "term": "policy loan provision",
-            "definition": "A life insurance policy provision that gives the owner of a cash valuelife insurance policy the right to take out a loan for an amount that doesnot exceed the policy’s net cash value less one year’s interest on theloan. "
+            "term": "process charter",
+            "definition": "A formal document that establishes the authority and accountability ofa process team. "
         },
         {
             "sort": "P",
-            "term": "policy withdrawal provision",
-            "definition": "A provision included in some life insurance policies, such as universallife policies, that permits the policyowner to make withdrawals from thepolicy’s cash value. Also known as a partial surrender provision."
+            "term": "process innovation",
+            "definition": "The introduction of a new or significantly improved production processor method of delivery, including changes in techniques, equipment, or software."
         },
         {
             "sort": "P",
-            "term": "precedent",
-            "definition": "In common law jurisdictions, a court’s decision that generally must befollowed by that court and the lower courts in the same jurisdiction incases that involve substantially the same facts. "
+            "term": "process management",
+            "definition": "A formal method of defining, documenting, evaluating, and improvementresources and workflow so that processes better achieve the tasks theywere designed to accomplish. "
         },
         {
             "sort": "P",
-            "term": "preemption",
-            "definition": "A U.S. legal doctrine that holds that some matters are of such nationalimportance that the federal laws override—or preempt—any conflicting statelaws. "
+            "term": "process map",
+            "definition": "A graphical representation of a business process, typically using a recognizedset of graphical symbols. "
         },
         {
             "sort": "P",
-            "term": "preexisting duty",
-            "definition": "In contract law, a duty that a party has a legal obligation to performand, therefore, is not considered adequate consideration for a contract."
+            "term": "product development team",
+            "definition": "A group that performs hands-on development of a new product. "
         },
         {
             "sort": "P",
-            "term": "preponderance of the evidence",
-            "definition": "The degree of proof generally required in a civil action, in which thedecision as to an issue of fact must be supported by the greater weightof the evidence. "
+            "term": "product innovation",
+            "definition": "The introduction of a new product that is significantly different fromexisting products in terms of its characteristics, materials, components,software, functions, or intended uses. "
         },
         {
             "sort": "P",
-            "term": "presumption",
-            "definition": "A rule of law under which a fact is assumed to be true because anotherfact or set of facts was proven. "
+            "term": "project",
+            "definition": "A temporary, planned undertaking to achieve a specified result. "
         },
         {
             "sort": "P",
-            "term": "price fixing",
-            "definition": "A prohibited practice that occurs when competitors act together to affectthe price of a product or service. "
+            "term": "project baseline",
+            "definition": "A measurable starting point agreed upon by various stakeholders as performancestandards for a project. "
         },
         {
             "sort": "P",
-            "term": "prima facie case",
-            "definition": "In the trial of a civil lawsuit, evidence that is sufficient to provethe elements of a party’s case and that entitles the party to judicialrelief unless the opposing party presents evidence to the contrary. "
+            "term": "project change",
+            "definition": "An acknowledged deviation from the original project plan. "
         },
         {
             "sort": "P",
-            "term": "primary beneficiary",
-            "definition": "The party who, if still living, will receive the life insurance policyproceeds after the insured’s death. "
+            "term": "project charter",
+            "definition": "A document that formally authorizes the project to take place and appointsa project manager. "
         },
         {
             "sort": "P",
-            "term": "principal",
-            "definition": "(1) A party who authorizes another party, the agent, to act on the principal’sbehalf. (2) In the securities industry, an officer and/or manager who isinvolved in the day-to-day operation and supervision of a securities business,has qualified as a registered representative, and has passed additionalexaminations administered by the Financial Industry Regulatory Authority."
+            "term": "project closure authorization",
+            "definition": "An instrument used to document the formal closure of a project. "
         },
         {
             "sort": "P",
-            "term": "principal",
-            "definition": "(1) A party who authorizes another party, the agent, to act on the principal’sbehalf. (2) In the securities industry, is generally an officer and/ormanager of a FINRA member and is involved in the day-to-day operation andsupervision of the securities business, has qualified as a registered representative,and has passed additional examinations administered by FINRA. "
+            "term": "project constraints",
+            "definition": "Circumstances that place limitations on a project, and traditionally includescope, time, and cost. "
         },
         {
             "sort": "P",
-            "term": "private law",
-            "definition": "Those areas of the law that primarily involve disputes between nongovernmentalparties. "
+            "term": "project cost budget",
+            "definition": "A type of budget that shows the expected operational costs of a projectin its entirety. "
         },
         {
             "sort": "P",
-            "term": "probate court",
-            "definition": "A local court that is responsible for supervising the administration ofdecedents’ estates. "
+            "term": "project deliverable",
+            "definition": "A measurable outcome from a project. "
         },
         {
             "sort": "P",
-            "term": "probate estate",
-            "definition": "Any property owned by a decedent that does not pass at his death automaticallyby operation of law or contract. "
+            "term": "project lifecycle",
+            "definition": "The combination of all project phases, from project initiation to projectclosure. "
         },
         {
             "sort": "P",
-            "term": "probate process",
-            "definition": "A process established by each state to handle the distribution of decedents’estates. "
+            "term": "project management",
+            "definition": "A framework for directing projects to completion that involves (1) settingproject goals, and (2) planning, monitoring, and controlling project tasks,resources, and costs to meet those goals. "
         },
         {
             "sort": "P",
-            "term": "probationary period provision",
-            "definition": "A group insurance contract provision that specifies the length of timethat a new employee must wait before he can be covered under a group insuranceplan. Also called a waiting period. "
+            "term": "Project Management Institute",
+            "definition": "An organization that maintains a body of knowledge for the project managementcommunity. "
         },
         {
             "sort": "P",
-            "term": "procedural laws",
-            "definition": "Laws that specify the rules and methods that courts use to enforce substantivelaws. "
+            "term": "project management office",
+            "definition": "A unit with a permanent staff focused on project management activities."
         },
         {
             "sort": "P",
-            "term": "property",
-            "definition": "In legal terminology, anything tangible or intangible that is capableof being owned by someone "
+            "term": "project manager",
+            "definition": "The person who oversees the project team. "
         },
         {
             "sort": "P",
-            "term": "prospectus",
-            "definition": "A communication, usually in writing, that offers a security for sale andthat must contain detailed information about the issuer of the securityand the security itself."
+            "term": "project phase",
+            "definition": "A segment of the project lifecycle consisting of a set of related projectactivities. "
         },
         {
             "sort": "P",
-            "term": "prudential regulation",
-            "definition": "A term used to describe solvency regulation in many countries other thanthe United States. "
+            "term": "project plan",
+            "definition": "A comprehensive, formally executed document used to guide a project throughclosure. "
         },
         {
             "sort": "P",
-            "term": "public law",
-            "definition": "Those areas of the law that affect the public interest and that governrelationships between the government and nongovernmental parties. "
+            "term": "project portfolio management",
+            "definition": "An approach to project management that consists of treating all companyprojects as a portfolio and coordinating all projects with one anotheracross the company. In a project portfolio management approach, a committeeanalyzes a project for both its intrinsic benefits to the organizationand for its relative fit with the organization’s existing resources, processes,and projects. "
         },
         {
             "sort": "P",
-            "term": "punitive damages",
-            "definition": "Damages awarded in addition to compensatory damages when a defendant’sconduct was malicious or willful. Also known as exemplary damages. "
+            "term": "project schedule",
+            "definition": "A document that shows links between project elements, identifies dependencies,and shows a sequence that satisfies time and other constraints. "
         },
         {
             "sort": "P",
-            "term": "pure competition",
-            "definition": "A market scenario in which there are many producers and consumers of aproduct, and prices are established by market forces with no interferencefrom outside economic forces. "
+            "term": "project sponsor",
+            "definition": "Typically a company executive, the person who authorizes the project,provides support and resources to the project, and communications projectinformation up the organizational chain of command. "
+        },
+        {
+            "sort": "P",
+            "term": "project status",
+            "definition": "The project’s progress toward completion at a given point in time."
+        },
+        {
+            "sort": "P",
+            "term": "project team",
+            "definition": "The group of team members assigned to perform any portion of the projectactivities. "
+        },
+        {
+            "sort": "P",
+            "term": "punishment",
+            "definition": "The process of discouraging a specific behavior by immediately presentingan undesirable consequence or removing something desirable. "
         },
         {
             "sort": "Q",
-            "term": "qualified plan",
-            "definition": "A group retirement plan that receives favorable federal income tax treatmentin the United States because it meets specified requirements included infederal tax laws and the Employee Retirement Income Security Act."
+            "term": "QC",
+            "definition": "— quality circle. "
+        },
+        {
+            "sort": "Q",
+            "term": "qualitative research",
+            "definition": "Research that uses subjective data collection methods and produces datathat is difficult to summarize in numerical form. "
+        },
+        {
+            "sort": "Q",
+            "term": "quality analysis",
+            "definition": "Any type of research or investigation to understand an aspect of preventingdefects or meeting customer needs. "
+        },
+        {
+            "sort": "Q",
+            "term": "quality assurance",
+            "definition": "The activities a company undertakes to make certain the company deliverssatisfactory performance to customers. "
+        },
+        {
+            "sort": "Q",
+            "term": "quality circle",
+            "definition": "A problem-solving group of 5 to 10 employees who meet regularly to discussquality improvement, suggest ways to reduce costs, and present recommendationsto higher management. "
+        },
+        {
+            "sort": "Q",
+            "term": "quality management",
+            "definition": "The activities an organization conducts on an ongoing basis to plan, control,measure, and improve its performance to ensure that its products or servicesconsistently meet or exceed customer expectations. Also called performancemanagement. "
+        },
+        {
+            "sort": "Q",
+            "term": "quantitative research",
+            "definition": "Research designed to generate easy-to-analyze numerical data. "
         },
         {
             "sort": "R",
-            "term": "ratification",
-            "definition": "The adoption by a principal of an act that was taken on the principal’sbehalf but without the principal’s authorization. "
+            "term": "random sampling",
+            "definition": "A technique in which each item of a population has a determinable chance,or probability, of selection. "
         },
         {
             "sort": "R",
-            "term": "real property ",
-            "definition": "Land and whatever is growing on or affixed to the land. Also known asreal estate. In some jurisdictions, referred to as immovable property."
+            "term": "range",
+            "definition": "A measure of dispersion equal to the difference between the highest andlowest values in a particular population. "
         },
         {
             "sort": "R",
-            "term": "reasonable person standard",
-            "definition": "A standard applied in objective tests in which a party’s actions or understandingis compared to the actions or understanding of a hypothetical reasonableperson in the party’s position. "
+            "term": "range estimate",
+            "definition": "A result that includes possible values within specified limits. "
         },
         {
             "sort": "R",
-            "term": "rebating",
-            "definition": "A prohibited sales practice in which an insurance agent offers a prospectan inducement to purchase a policy from the agent when the inducement is(1) not offered to all applicants in similar situations and (2) not statedin the policy. "
+            "term": "RCA",
+            "definition": "— root-cause analysis. "
         },
         {
             "sort": "R",
-            "term": "rebuttable presumption",
-            "definition": "A presumption that can be disproven but that stands until adequate evidenceis presented to the contrary. "
+            "term": "referent power",
+            "definition": "Power that exists when a person can influence the behavior of others becauseof others’ loyalty, respect, admiration, or a desire for that person’sapproval. "
         },
         {
             "sort": "R",
-            "term": "receiver",
-            "definition": "In a receivership, the person responsible for formulating a plan to distributethe assets of the impaired insurer and for making sure the insurer’s obligationsto customers are met to the extent possible. Also known as a conservator."
+            "term": "response bias",
+            "definition": "A type of sampling bias that occurs when the way researchers word a questiondistorts the answer. "
         },
         {
             "sort": "R",
-            "term": "receivership",
-            "definition": "A process in which the state insurance commissioner, acting for a statecourt, takes control of and administers an impaired insurer’s assets andliabilities. Also known as conservatorship. "
+            "term": "reward power",
+            "definition": "Power that arises from a person’s ability to allocate incentives to othersbased on behaviors or performance. "
         },
         {
             "sort": "R",
-            "term": "reciprocity",
-            "definition": "An agreement between two states under which each state gives residentsof the other state certain privileges. "
+            "term": "rework costs",
+            "definition": "The costs of correcting defective work. "
         },
         {
             "sort": "R",
-            "term": "recording method",
-            "definition": "A method of changing the beneficiary of a life insurance policy underwhich the policyowner must provide the insurer with a written and signednotification of the beneficiary change. "
+            "term": "role",
+            "definition": "A socially determined way of behaving in a specific situation. "
         },
         {
             "sort": "R",
-            "term": "reduced paid-up insurance nonforfeiture option",
-            "definition": "A life insurance policy nonforfeiture option that allows the policyownerto use the policy’s net cash value as a net single premium to purchasepaid-up life insurance of the same plan as the original policy. "
+            "term": "root-cause analysis",
+            "definition": "A set of problem-solving methods and tools designed to determine the actualcausal factors that led to a particular incident or result. "
         },
         {
             "sort": "R",
-            "term": "reformation",
-            "definition": "An equitable remedy in which a written contract is rewritten to expressthe original agreement of the contracting parties. "
-        },
-        {
-            "sort": "R",
-            "term": "registered representative",
-            "definition": "A person who is associated with a member of the Financial Industry RegulatoryAuthority (FINRA), engages in the securities business on behalf of themember by soliciting the sale of securities or by training securities salespeople,and has passed a specified examination administered by FINRA. "
-        },
-        {
-            "sort": "R",
-            "term": "regtech",
-            "definition": "A type of technology that helps regulators, as well as insurance companies,manage regulatory and compliance activities more effectively and at a reducedcost. "
-        },
-        {
-            "sort": "R",
-            "term": "Regulation Best Interest",
-            "definition": "A Securities and Exchange Commission (SEC) package of rules and interpretations—announcedin 2019 with an implementation deadline of June 30, 2020—that was designedto enhance the quality and transparency of individual investors’ relationshipswith broker-dealers and investment advisers. "
-        },
-        {
-            "sort": "R",
-            "term": "regulations",
-            "definition": "Rules or orders that are issued by administrative agencies and that alsohave the force and effect of law, as long as they do not conflict withthe underlying statute. "
-        },
-        {
-            "sort": "R",
-            "term": "reinstatement",
-            "definition": "The process by which an insurer puts back into force a life insurancepolicy that has either been (1) terminated for nonpayment of premium or(2) continued under the extended term or reduced paid-up insurance nonforfeitureoption. "
-        },
-        {
-            "sort": "R",
-            "term": "reinstatement provision",
-            "definition": "An individual life insurance policy provision that describes the conditionsthe policyowner must meet to reinstate the policy after a lapse. "
-        },
-        {
-            "sort": "R",
-            "term": "representation",
-            "definition": "A statement made by a contracting party that is influential in inducingthe other party to enter into the contract. "
-        },
-        {
-            "sort": "R",
-            "term": "request to produce documents and things",
-            "definition": "A discovery method used in civil lawsuits in which one party requeststhe other party to produce documents and items related to the lawsuit."
-        },
-        {
-            "sort": "R",
-            "term": "required beginning date (RBD)",
-            "definition": "The date by which a retirement plan participant who retires at her normalretirement age must generally begin receiving plan distributions."
-        },
-        {
-            "sort": "R",
-            "term": "rescission",
-            "definition": "An equitable remedy in which a contract is cancelled and the parties arereturned to the positions they would have been in had no contract everbeen created. "
-        },
-        {
-            "sort": "R",
-            "term": "res judicata",
-            "definition": "A judicial doctrine under which the judgment in a civil lawsuit becomesfinal and binding on the parties. "
-        },
-        {
-            "sort": "R",
-            "term": "restitution",
-            "definition": "A civil remedy in which a party is ordered to return property to its owneror to the person entitled to it. "
-        },
-        {
-            "sort": "R",
-            "term": "restrictive indorsement",
-            "definition": "The indorsement of a negotiable instrument by signature with instructionsas to how the instrument can be used. "
-        },
-        {
-            "sort": "R",
-            "term": "revocable beneficiary",
-            "definition": "A life insurance beneficiary whose designation as a beneficiary can bechanged by the policyowner or group insured during the insured’s lifetime."
-        },
-        {
-            "sort": "R",
-            "term": "right of survivorship",
-            "definition": "A property right belonging to joint tenants; when one joint tenant dies,her share automatically passes to the surviving joint tenant or tenants."
-        },
-        {
-            "sort": "R",
-            "term": "Risk-Based Capital (RBC) for Insurers Model Act",
-            "definition": "A model law that provides state regulators with information by which toidentify potentially impaired insurers. "
-        },
-        {
-            "sort": "R",
-            "term": "rules of evidence",
-            "definition": "Procedural rules that govern the admissibility of evidence at trials andthat determine whether the evidence presented is sufficient to prove theissues involved in an action. "
+            "term": "rules engine",
+            "definition": "A software-based repository of key business process rules that can beconsistently applied in specified circumstances to produce the desiredresults. "
         },
         {
             "sort": "S",
-            "term": "sale of goods",
-            "definition": "The transfer of ownership of tangible personal property in exchange forsome other property, money, or services. "
+            "term": "salary survey",
+            "definition": "A type of comparison study in which employers share their compensationdata with an external researcher, who accumulates, analyzes, and presentsthe data to study participants. "
         },
         {
             "sort": "S",
-            "term": "secured party",
-            "definition": "A creditor who has obtained a security interest in a debtor’s property."
+            "term": "sales commission",
+            "definition": "An amount of money, usually a percentage of the sale amount, paid to someonefor selling a product or service. "
         },
         {
             "sort": "S",
-            "term": "secured transaction",
-            "definition": "A credit transaction in which a creditor extends credit and receives asecurity interest in the debtor’s property as a way to guarantee that thecreditor will be protected if the debtor defaults on the loan. "
+            "term": "sampling",
+            "definition": "A statistical technique used to examine a portion of a given group inorder to develop conclusions about the entire group. "
         },
         {
             "sort": "S",
-            "term": "Securities and Exchange Commission (SEC)",
-            "definition": "The U.S. federal agency responsible for administering federal securitieslaws. "
+            "term": "sampling bias",
+            "definition": "An error in choosing participants that occurs when the method used toobtain information from a sample results in a sample that is not representativeof the population being studied. "
         },
         {
             "sort": "S",
-            "term": "securities broker",
-            "definition": "A person, corporation, or other legal entity engaged in the business ofbuying and selling securities for the accounts of others "
+            "term": "scatter diagram",
+            "definition": "A diagram used to check visually for a likely correlation between twovariables. "
         },
         {
             "sort": "S",
-            "term": "securities dealer",
-            "definition": "A person, corporation, or other legal entity that is engaged in the businessof buying and selling securities for its own account. "
+            "term": "schedule variance",
+            "definition": "The difference between the scheduled finish date for an activity and theactual finish date. "
         },
         {
             "sort": "S",
-            "term": "security agreement",
-            "definition": "A contractual agreement in which a debtor gives a creditor a securityinterest in specific property of the debtor. "
+            "term": "scope creep",
+            "definition": "The practice of gradually modifying features of a project and its objectiveswithout formally addressing and negotiating changes with project stakeholders.Scope creep can make it difficult to successfully complete a project asplanned. "
         },
         {
             "sort": "S",
-            "term": "security interest",
-            "definition": "A claim against a debtor’s property that gives a creditor the right topossession of the property if the debtor defaults on the underlying loan."
+            "term": "scope statement",
+            "definition": "A report that clearly states the limits on a project by specifying theproject size, resources, limitations, and deliverables. "
         },
         {
             "sort": "S",
-            "term": "separate account",
-            "definition": "An asset account, maintained by an insurer apart from its general account,in which premiums for variable life insurance and variable annuity productsare held. "
+            "term": "scrum",
+            "definition": "A framework for managing the processes involved in software development."
         },
         {
             "sort": "S",
-            "term": "separate property",
-            "definition": "In community property states, property that belongs entirely to one spouse."
+            "term": "scrum master",
+            "definition": "A person who facilitates a scrum team by managing all of the businessprocesses required for software development. "
         },
         {
             "sort": "S",
-            "term": "service mark",
-            "definition": "A word, phrase, symbol, design, or combination thereof that identifiesand distinguishes the source of one party’s services from those of otherparties. "
+            "term": "SDT",
+            "definition": "See self-determination theory."
         },
         {
             "sort": "S",
-            "term": "service of process",
-            "definition": "The act of delivering—or serving—a complaint to a defendant in a civillawsuit. "
+            "term": "security token",
+            "definition": "A device used to generate a one-time-use code the user enters in orderto gain access to private company information. "
         },
         {
             "sort": "S",
-            "term": "settlement agreement",
-            "definition": "A contractual agreement between a life insurance policyowner and an insurergoverning the rights and obligations of the parties after the death ofthe insured. "
+            "term": "selection bias",
+            "definition": "A type of sampling bias that occurs when the method of data collectionsystematically excludes certain members of the sample. "
         },
         {
             "sort": "S",
-            "term": "settlement options provision",
-            "definition": "An individual life insurance policy provision that grants the policyowneror beneficiary several choices as to how the insurer will pay the policyproceeds. "
+            "term": "self-determination theory",
+            "definition": "A motivation theory that proposes people have three basic psychologicalneeds for competence, relatedness, and autonomy. "
         },
         {
             "sort": "S",
-            "term": "simultaneous death act",
-            "definition": "A U.S. state statute that provides that if an insured and beneficiarydie at the same time or under circumstances that make it impossible todetermine which of them died first, the insured is deemed to have survivedthe beneficiary, and policy proceeds are payable as though the insuredoutlived the beneficiary, unless the policy provides otherwise. "
+            "term": "semi-structured data",
+            "definition": "A type of data that includes a combination of structured and unstructuredelements. "
         },
         {
             "sort": "S",
-            "term": "sole proprietorship",
-            "definition": "A business that is owned and operated by one individual. "
+            "term": "sexual harassment",
+            "definition": "Any unwelcome sexual attention or conduct that creates an offensive orintimidating work environment. "
         },
         {
             "sort": "S",
-            "term": "solvency laws",
-            "definition": "State insurance laws designed to make sure that insurance companies arefinancially able to meet their debts and to pay policy benefits when theycome due. "
+            "term": "silo",
+            "definition": "Operational unit that operates in isolation from other operating units,not understanding how their jobs relate to other operational units or howcorporate goals relate to their jobs. "
         },
         {
             "sort": "S",
-            "term": "special indorsement",
-            "definition": "The indorsement of a negotiable instrument by a signature along with wordsindicating to whom the instrument should be paid. "
+            "term": "simple moving average model",
+            "definition": "A forecasting model that uses the arithmetic mean of a specified numberof the most recent data values as the forecast value for the next period."
         },
         {
             "sort": "S",
-            "term": "specific performance",
-            "definition": "An equitable remedy that requires a party who has breached a contractto carry out the contract according to its terms. "
+            "term": "simple random sampling",
+            "definition": "A method of random sampling in which every member of the data populationhas an equal chance of being included in the sample population. "
         },
         {
             "sort": "S",
-            "term": "spendthrift clause",
-            "definition": "A provision that may be included in a life insurance policy or settlementagreement to protect the policy proceeds from being seized by the beneficiary’screditors. Also known as a spendthrift trust clause. "
+            "term": "simplicity bias",
+            "definition": "The tendency to believe that a complex outcome must have come from a complexcause, and a complex outcome cannot have come from a simple cause."
         },
         {
             "sort": "S",
-            "term": "spendthrift trust",
-            "definition": "A trust that is designed to keep trust property out of the hands of creditorsof the trust beneficiary, by prohibiting the beneficiary from assigningor otherwise transferring her interest in the trust. "
+            "term": "Six Sigma",
+            "definition": "A disciplined approach for defining, measuring, analyzing, improving,and controlling quality by reducing process defects so that results fallwithin established parameters. "
         },
         {
             "sort": "S",
-            "term": "stakeholders",
-            "definition": "The parties that have an interest in how a company conducts its business."
+            "term": "size bias",
+            "definition": "A tendency to prefer large concepts instead of smaller ones. "
         },
         {
             "sort": "S",
-            "term": "state code",
-            "definition": "The compilation of the laws that have been enacted by a U.S. state "
+            "term": "skills-based pay",
+            "definition": "A compensation plan that rewards employees for developing and improvingjob skills. "
         },
         {
             "sort": "S",
-            "term": "state insurance code",
-            "definition": "The portion of each state code that is devoted to regulating the insuranceindustry within the state. "
+            "term": "social acceptance bias",
+            "definition": "A consistent cognitive error based on a tendency for individuals to makesocially acceptable statements even when they feel something else."
         },
         {
             "sort": "S",
-            "term": "Statute of Frauds",
-            "definition": "A law that declares certain types of contracts to be unenforceable unlessthey are evidenced by a written document signed by the party to be chargedwith performing the contract. "
+            "term": "social media analytics",
+            "definition": "A descriptive analytics technique used to understand customers throughactivity on blogs and social media networks. "
         },
         {
             "sort": "S",
-            "term": "statute",
-            "definition": "A law that is enacted by the legislative branch of government and thatdeclares, commands, or prohibits something. "
+            "term": "specific boundaries",
+            "definition": "Boundaries that relate directly to an innovation project, such as thebudget, time available, or resources needed. "
         },
         {
             "sort": "S",
-            "term": "statutory law",
-            "definition": "The body of law consisting of the statutes enacted by the legislativebranch of government. Contrast with case law. "
+            "term": "speech analytics",
+            "definition": "A descriptive analytics technique used to gain insight into customers’attitudes about a company by analyzing recorded speech. "
         },
         {
             "sort": "S",
-            "term": "stock insurance company",
-            "definition": "An insurance company owned by its stockholders. "
+            "term": "spot bonus",
+            "definition": "A payment made to an employee immediately after the employee performsin an exceptional way on the job or achieves a level of proficiency."
         },
         {
             "sort": "S",
-            "term": "strict liability",
-            "definition": "Liability imposed by tort law in very restricted situations without regardfor whether the defendant was at fault. "
+            "term": "stakeholder",
+            "definition": "Any party that has an interest in how a company conducts its business."
         },
         {
             "sort": "S",
-            "term": "structured settlement",
-            "definition": "A settlement of a civil dispute or lawsuit in which a party agrees tomake periodic payments to a specified payee for a specified period of time."
+            "term": "standard deviation",
+            "definition": "A measure of dispersion calculated as the square root of the variance.In general, the larger the standard deviation, the farther the values arefrom the mean. "
         },
         {
             "sort": "S",
-            "term": "substantive laws",
-            "definition": "Laws that create, define, and regulate legal rights and duties and thatcourts apply to specific cases. "
+            "term": "standing committee",
+            "definition": "A permanent committee that company executives use as a continuing sourceof advice. "
         },
         {
             "sort": "S",
-            "term": "suicide exclusion provision",
-            "definition": "A life insurance policy provision that states that an insurer will notpay policy proceeds if the insured dies as a result of suicide within astated period of time—usually two years—after the date that the policywas issued. "
+            "term": "stand-up meeting",
+            "definition": "A meeting during which employees stand up as they offer summaries abouttheir progress on an activity. The unintuitive feature of standing is intendedto keep meetings short. In some cases, these status checks don’t requirestanding or are conducted virtually and still retain the name \"stand-upmeeting.\" "
         },
         {
             "sort": "S",
-            "term": "suitability",
-            "definition": "The principle that the sale of a financial product must be consistentwith a customer’s investment objectives and financial situation "
+            "term": "states of nature",
+            "definition": "Influences on the outcome of a decision that are not under the decisionmaker’s control. "
         },
         {
             "sort": "S",
-            "term": "Suitability in Annuity Transactions Model Regulation",
-            "definition": "An NAIC model regulation that sets standards and procedures that applyto annuity product recommendations to consumers. "
+            "term": "statistical analysis",
+            "definition": "The use of mathematical techniques for collecting, organizing, describing,analyzing, and interpreting numerical data to support decisions. "
         },
         {
             "sort": "S",
-            "term": "summary plan description (SPD)",
-            "definition": "Under the Employee Retirement Income Security Act, an abbreviated versionof a plan document that is understandable by the average plan participantand that reasonably informs participants and beneficiaries of their rightsand obligations under the plan. "
+            "term": "statistical bias",
+            "definition": "A consistent or systemic error arising from a flaw in the research design."
         },
         {
             "sort": "S",
-            "term": "supplementary contract",
-            "definition": "A settlement agreement between an insurer and a life insurance policybeneficiary. "
+            "term": "statistical validity",
+            "definition": "The degree to which an observed result can be relied upon and not attributedto random error in sampling or measurement. "
         },
         {
             "sort": "S",
-            "term": "survivorship clause",
-            "definition": "A clause that is included in some life insurance policies and that requiresthe beneficiary to survive the insured for a stated number of days to beentitled to the policy proceeds. Also known as a time clause. "
+            "term": "steering committee",
+            "definition": "A group of stakeholders with diverse company backgrounds who guide andoversee the planning and implementation of a project. "
         },
         {
             "sort": "S",
-            "term": "System for Electronic Rate and Form Filing (SERFF)",
-            "definition": "An electronic system for policy form filings created and maintained bythe National Association of Insurance Commissioners. "
+            "term": "steering controls",
+            "definition": "Organizational controls that proactively communicate expectations andtry to prevent problems from occurring. "
         },
         {
             "sort": "S",
-            "term": "systemically important financial institution (SIFI) ",
-            "definition": "As identified by the Financial Stability Oversight Council, a financialinstitution whose failure could potentially pose a risk to the U.S. financialsystem and that is therefore subject to more stringent regulatory standardsthan other firms. "
+            "term": "stoplight indicators",
+            "definition": "Red, yellow (or amber), green, and sometimes blue symbols that indicatehow favorably the company’s actual performance compares with its performancestandards. "
         },
         {
             "sort": "S",
-            "term": "systemic risk",
-            "definition": "A risk, such as the failure of a large and interconnected financial institution,that affects the entire financial system. "
+            "term": "STP",
+            "definition": "See straight-through processing."
+        },
+        {
+            "sort": "S",
+            "term": "straight-through processing",
+            "definition": "A fully automated process in which the steps in a specified transactiontype are conducted without human intervention. "
+        },
+        {
+            "sort": "S",
+            "term": "stratified random sampling",
+            "definition": "A technique in which the user divides the population into segments, orstrata, and then selects a proportional number of items from each segmentat random. "
+        },
+        {
+            "sort": "S",
+            "term": "structured data",
+            "definition": "A type of data that exists in a fixed field within a record, data file,or spreadsheet; allows for systemic organization; and is easy to enter,store, and analyze. "
+        },
+        {
+            "sort": "S",
+            "term": "substitute products",
+            "definition": "Two or more products that customers can use to satisfy the same wantsor needs. "
+        },
+        {
+            "sort": "S",
+            "term": "systematic random sampling",
+            "definition": "A method of random sampling that involves selecting items from the populationat a uniform interval. "
         },
         {
             "sort": "T",
-            "term": "tangible property",
-            "definition": "An object or thing that can be physically possessed and that has valueas an object. "
+            "term": "table",
+            "definition": "An orderly listing of data. "
         },
         {
             "sort": "T",
-            "term": "target examination",
-            "definition": "A limited-scope market conduct examination that focuses on (1) a specificline of business or (2) a specific business practice, such as an insurer’sreplacement activities or advertising materials. "
+            "term": "tactic",
+            "definition": "An action designed to support an operating strategy. "
         },
         {
             "sort": "T",
-            "term": "termination statement",
-            "definition": "A document that is filed with a specified state or local government officialto record that a debtor has repaid a specified creditor, who thus no longerhas a security interest in the debtor’s property. "
+            "term": "tasks",
+            "definition": "The smallest units in a process to undergo analysis. "
         },
         {
             "sort": "T",
-            "term": "testamentary capacity",
-            "definition": "The legal capacity to make a will. "
+            "term": "telecommuting",
+            "definition": "A work arrangement in which employees work remotely away from the office."
+        },
+        {
+            "sort": "I",
+            "term": "ISO ",
+            "definition": "— International Organization for Standardization. "
         },
         {
             "sort": "T",
-            "term": "testamentary transfer",
-            "definition": "A transfer of property ownership that occurs after a property owner’sdeath. "
+            "term": "time requirements budget",
+            "definition": "A type of budget that shows calendar units of time—days, weeks, or months—andthe expected amount of staff time required during each specified unit."
         },
         {
             "sort": "T",
-            "term": "testamentary trust",
-            "definition": "A trust that takes effect at the settlor’s death "
+            "term": "time-series data",
+            "definition": "Information about a variable over successive periods. "
         },
         {
             "sort": "T",
-            "term": "testate",
-            "definition": "Having a valid will at one’s death. "
+            "term": "time-series model",
+            "definition": "Forecast models that estimate unknown future values based on known, historicaldata. "
         },
         {
             "sort": "T",
-            "term": "testator",
-            "definition": "A person who makes a will. "
+            "term": "total quality management",
+            "definition": "A specific, process-oriented approach to quality management for creatingan organizational culture committed to continuous improvement. "
         },
         {
             "sort": "T",
-            "term": "time limitation clause",
-            "definition": "A life insurance policy provision that specifies that the insured’s deathmust occur within a certain period of time—usually 90 or 180 days—fromthe date of an accident for accidental death benefits to be payable."
+            "term": "TQM",
+            "definition": "— total quality management. "
         },
         {
             "sort": "T",
-            "term": "title",
-            "definition": "A claim to ownership of property that is superior to anyone else’s ownershipclaim. "
+            "term": "transactional work",
+            "definition": "Routine and repetitive tasks with little flexibility in how processesare completed. "
         },
         {
             "sort": "T",
-            "term": "top-heavy plan",
-            "definition": "A group retirement plan under which, for a given plan year, the presentvalue of accrued benefits for key employees exceeds a specified percentageof the present value of accrued benefits for all employees. "
-        },
-        {
-            "sort": "T",
-            "term": "tort",
-            "definition": "A private wrong—other than a breach of contract—for which the law providesa remedy to the wronged party. "
-        },
-        {
-            "sort": "T",
-            "term": "trademark",
-            "definition": "A word, phrase, symbol, design, or combination thereof that identifiesand distinguishes the source of one party’s goods from those of other parties."
-        },
-        {
-            "sort": "T",
-            "term": "transferee",
-            "definition": "A party who obtains ownership of property by purchasing it. "
-        },
-        {
-            "sort": "T",
-            "term": "transferor",
-            "definition": "A party who sells property to another. "
-        },
-        {
-            "sort": "T",
-            "term": "treaty",
-            "definition": "A legally binding agreement entered into by two or more nations that agreeto abide by the terms of the agreement. Also known as convention or pact."
-        },
-        {
-            "sort": "T",
-            "term": "trial",
-            "definition": "A formal proceeding at which the parties to a civil lawsuit appear incourt along with their respective attorneys and present their cases tothe court. "
-        },
-        {
-            "sort": "T",
-            "term": "trial courts",
-            "definition": "Courts that first hear disputes and apply the law to controversies broughtbefore them. Sometimes referred to as courts of original jurisdiction."
-        },
-        {
-            "sort": "T",
-            "term": "trier of fact",
-            "definition": "The party that is responsible for deciding issues of fact in a civil trial.In a jury trial, the jury is the trier of fact; in a nonjury trial, thejudge is the trier of fact. "
+            "term": "trend analysis",
+            "definition": "A technique that involves forecasting the future movement of specifiedfactors based on observed historical patterns of change. "
         },
         {
             "sort": "T",
             "term": "trust",
-            "definition": "A fiduciary relationship created when one party, the grantor, transfersownership of property—known as the trust property or trust fund—to anotherparty, the trustee, who holds legal title to the property for the benefitof another party, the trust beneficiary. "
-        },
-        {
-            "sort": "T",
-            "term": "trust agreement",
-            "definition": "A written document that spells out the terms of a trust, including instructionsas to how the trustee is to handle the trust property or trust fund."
+            "definition": "A belief in the integrity, character, or ability of others. "
         },
         {
             "sort": "U",
-            "term": "unclaimed property",
-            "definition": "Intangible personal property that has gone unclaimed by its rightful ownerfor a specified time, typically three to five years. "
+            "term": "unstructured data",
+            "definition": "A type of data that does not have a rigid pattern and can’t be organizedsystematically. "
         },
         {
             "sort": "U",
-            "term": "undisclosed principal",
-            "definition": "A principal on whose behalf an agent contracts without mention of theexistence of the principal. "
-        },
-        {
-            "sort": "U",
-            "term": "undue influence",
-            "definition": "The misuse of a position of power or trust to overcome the free will ofanother person. "
-        },
-        {
-            "sort": "U",
-            "term": "Unfair Claims Settlement Practices Act",
-            "definition": "An NAIC model law that lists a number of actions that are considered unfairclaims practices if committed by an insurer (1) flagrantly and in consciousdisregard of the law or(2) so frequently as to indicate a general business practice. "
-        },
-        {
-            "sort": "U",
-            "term": "Unfair Life, Accident and Health Claims Settlement Practices Model Regulation (Unfair Claims Settlement Model Regulation)",
-            "definition": "An NAIC model regulation that sets minimum standards that insurers mustmeet in handling life and health insurance claims. "
-        },
-        {
-            "sort": "U",
-            "term": "Uniform Commercial Code",
-            "definition": "A U.S. model law that has been adopted in some form in all states to governcommercial transactions. "
-        },
-        {
-            "sort": "U",
-            "term": "Uniform Electronic Transactions Act (UETA)",
-            "definition": "A model law adopted by the National Conference of Commissioners on UniformState Laws to provide for the effectiveness of electronic signatures."
-        },
-        {
-            "sort": "U",
-            "term": "unilateral contract",
-            "definition": "A contract under which only one of the contracting parties makes a legallyenforceable promise. "
-        },
-        {
-            "sort": "U",
-            "term": "unilateral mistake",
-            "definition": "A mistake made by only one of the parties to a contract. "
-        },
-        {
-            "sort": "U",
-            "term": "unsecured transaction",
-            "definition": "A credit transaction in which a creditor extends credit and receives onlythe debtor’s promise to repay the debt. "
-        },
-        {
-            "sort": "U",
-            "term": "USA PATRIOT Act",
-            "definition": "A U.S. federal law that expanded federal antimoney laundering requirementsto cover all financial institutions, including insurance companies."
-        },
-        {
-            "sort": "U",
-            "term": "U.S. Code",
-            "definition": "The compilation of the federal statutes that have been enacted by theU.S. Congress. "
+            "term": "upper control limit",
+            "definition": "In a control chart, the highest permissible value for an in-control observation."
         },
         {
             "sort": "V",
-            "term": "valid contract",
-            "definition": "A contract that is enforceable by law. "
+            "term": "value-adding activity",
+            "definition": "Any activity that makes a product or service more valuable to the customer."
         },
         {
             "sort": "V",
-            "term": "Variable Life Insurance Model Regulation",
-            "definition": "An NAIC model regulation that sets qualifications an insurer must meetto market variable life insurance within a state and specifies requirementsthat variable life insurance policies must meet. It also requires the insurerto specify the standards of suitability it will follow when selling variablelife insurance. "
+            "term": "value chain",
+            "definition": "A set of activities that a company carries out to create stakeholder value."
         },
         {
             "sort": "V",
-            "term": "vested",
-            "definition": "In regard to a group retirement plan, a plan participant’s right to receivepartial or full benefits under the plan even if his employment ends beforehe retires. "
+            "term": "value stream",
+            "definition": "The continuous flow process of value creation. "
         },
         {
             "sort": "V",
-            "term": "vested right",
-            "definition": "A right that cannot be altered or changed without the consent of the personwho owns the right. "
+            "term": "variable",
+            "definition": "An item of data with a value that changes over time. "
         },
         {
             "sort": "V",
-            "term": "viatical settlement",
-            "definition": "A financial transaction in which a policyowner, typically a terminallyill individual with a life expectancy of 24 months or less, sells an insurancepolicy to a third party for more than its cash value but less than itsface value. "
+            "term": "variance",
+            "definition": "A measure of dispersion calculated as the average squared distance betweenthe population mean and each individual item in a population. "
         },
         {
             "sort": "V",
-            "term": "viatical settlement company",
-            "definition": "An organization that exists to buy life insurance policies from policyownersat a discount. The organization assumes a policy’s premium payments andcollects the death benefit of the policy upon the policyowner’s death.Also known as a life settlement company. "
+            "term": "variation",
+            "definition": "Changes from the norm that do not indicate a pattern of behavior."
         },
         {
             "sort": "V",
-            "term": "vicarious liability",
-            "definition": "Indirect liability, such as an employer’s liability for the torts of anemployee committed during the course of the employee’s employment."
+            "term": "virtual private network",
+            "definition": "A system that provides private access to authorized users who are noton location. "
         },
         {
             "sort": "V",
-            "term": "voidable contract",
-            "definition": "A contract under which a party has the right to avoid her obligationsunder the contract without incurring legal liability. "
-        },
-        {
-            "sort": "V",
-            "term": "void contract",
-            "definition": "An agreement that was never enforceable by law. "
+            "term": "vision statement",
+            "definition": "A statement of where a company would like to be in the future. "
         },
         {
             "sort": "W",
-            "term": "wagering contract",
-            "definition": "An illegal contract in which either party may gain or lose depending onthe outcome of an uncertain event, such as a lottery or a sporting event."
+            "term": "WBS",
+            "definition": "See work breakdown structure. ."
         },
         {
             "sort": "W",
-            "term": "waiver",
-            "definition": "The voluntary giving up of a known right. "
+            "term": "weighted moving average time-series model",
+            "definition": "A forecasting model that assigns relative weights to data values usedin a forecast and finds the average of the values. "
         },
         {
             "sort": "W",
-            "term": "ward",
-            "definition": "A person for whom a court has appointed a guardian. "
+            "term": "work breakdown structure",
+            "definition": "A graphical display of project elements that often includes an estimateof the labor effort required for each project activity. "
         },
         {
             "sort": "W",
-            "term": "war exclusion provision",
-            "definition": "A rarely used life insurance policy provision that states that an insurerwill deny payment of the full policy proceeds if an insured’s death iscaused by war-related activities."
-        },
-        {
-            "sort": "W",
-            "term": "warranty",
-            "definition": "A promise or guarantee recognized by law that a statement of fact is true."
-        },
-        {
-            "sort": "W",
-            "term": "warranty of authority ",
-            "definition": "A guarantee recognized by law that an agent is acting on behalf of a principalwho has contractual capacity and that the agent has authority to act forthe principal. "
-        },
-        {
-            "sort": "W",
-            "term": "will",
-            "definition": "A legal document that directs how a person’s property is to be distributedat his death. "
-        },
-        {
-            "sort": "W",
-            "term": "work for hire",
-            "definition": "Under U.S. federal copyright laws, a work prepared (1) by an employeewithin the course of his employment or (2) as the result of an agreementof the parties that it is a work for hire. "
+            "term": "workplace bullying",
+            "definition": "The tendency of individuals or groups to covertly or overtly use aggressiveor unreasonable behavior against a coworker or subordinate that is threatening,humiliating, or intimidating. "
         }
     ]
 };

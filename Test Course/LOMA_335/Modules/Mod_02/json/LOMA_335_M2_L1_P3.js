@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Describe benchmarks, balanced scorecards, and keyperformance indicators, and explain their role in process control"
+                        "Paragraph_txt": ""
                     }
                 ]
             },

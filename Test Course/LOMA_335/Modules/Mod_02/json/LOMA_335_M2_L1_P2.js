@@ -79,7 +79,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Describe process mapping and methods for processanalysis"
+                        "Paragraph_txt": ""
                     }
                 ]
             },
