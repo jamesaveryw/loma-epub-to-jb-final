@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Insurance Fraud Prevention"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -79,7 +76,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Give examples of measures that state insurancedepartments and insurers have taken to increase their capacity to detectand prevent insurance fraud"
                     }
                 ]
             },
@@ -353,9 +350,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Checklist infographic.<br /><br />An antifraud plan usually sets forth procedures that enable the insurerto:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prevent fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Review claims to detect fraud and investigate claims where fraud is suspected</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Report fraud to appropriate law enforcement authorities and cooperatewith authorities in prosecuting cases of fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Pursue civil actions against persons who commit fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Train employees and insurance agents to detect and prevent fraud</span>"
-                        ],
+                        "image_w_text_tag": "Checklist infographic.<br /><br />An antifraud plan usually sets forth procedures that enable the insurerto:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prevent fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Review claims to detect fraud and investigate claims where fraud is suspected</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Report fraud to appropriate law enforcement authorities and cooperatewith authorities in prosecuting cases of fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Pursue civil actions against persons who commit fraud</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Train employees and insurance agents to detect and prevent fraud</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

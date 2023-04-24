@@ -66,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",

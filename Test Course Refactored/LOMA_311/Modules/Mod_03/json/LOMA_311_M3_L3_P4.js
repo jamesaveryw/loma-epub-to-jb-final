@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Group Retirement Plans and Regulations"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -165,9 +162,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "9-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Grid infographic; each column lists the characteristics of a differenttype of defined contribution plan.<br /><br />Column One: Traditional Profit Sharing Plan<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Sponsor Contributions: Voluntary; amounts usually based on and payablefrom employer’s profits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Participant Contributions: Usually not allowed</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Benefits: Lump-sum or monthly annuity</span><br /><br />Column Two: Stock Bonus Plan:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Sponsor Contributions: Voluntary; amounts usually based on companyprofits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Participant Contributions: None</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Benefits: Paid in company stock</span><br /><br />Column Three: 401(k), 403(b), or 457(b) Plan:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Sponsor Contributions: Voluntary or mandatory, depending on planstructure; may match participant contributions up to specified percentof salary; contributions limited by tax law</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Participant Contributions: Voluntary; usually a fixed percentageof annual salary; contributions limited by tax law</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Benefits: Lump-sum, installments, or monthly annuity</span>"
-                        ],
+                        "image_w_text_tag": "Grid infographic; each column lists the characteristics of a differenttype of defined contribution plan.<br /><br />Column One: Traditional Profit Sharing Plan<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Sponsor Contributions: Voluntary; amounts usually based on and payablefrom employer’s profits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Participant Contributions: Usually not allowed</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Benefits: Lump-sum or monthly annuity</span><br /><br />Column Two: Stock Bonus Plan:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Sponsor Contributions: Voluntary; amounts usually based on companyprofits</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Participant Contributions: None</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Benefits: Paid in company stock</span><br /><br />Column Three: 401(k), 403(b), or 457(b) Plan:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Sponsor Contributions: Voluntary or mandatory, depending on planstructure; may match participant contributions up to specified percentof salary; contributions limited by tax law</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Plan Participant Contributions: Voluntary; usually a fixed percentageof annual salary; contributions limited by tax law</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Benefits: Lump-sum, installments, or monthly annuity</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -269,7 +264,7 @@ Lesson_Data_File([
                         "heading": "Participation",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -883,7 +878,7 @@ Lesson_Data_File([
                         "heading": "Distributions",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",

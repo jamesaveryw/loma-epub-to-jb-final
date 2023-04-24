@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Ownership of Individual Life Insurance"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -135,7 +132,7 @@ Lesson_Data_File([
                         "heading": "Right to Name the Beneficiary",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -749,9 +746,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "11-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Two family trees. Each one shows the Insured and the Insured’s three childrenAmelia, Brendan, and Charles. Charles has pre-deceased the Insured, andhis name is greyed out. Each of the Insured’s children has a child of hisor her own: Amelia’s daughter Rebecca, Brendan’s son Stephen, and Charles’sdaughter Tessa.<br /><br />The first family tree is labeled Per Capita Designation, “To my childrenin equal shares.” The Insured’s children Amelia and Brendan are highlighted.<br /><br />Explanatory text for first family tree: The Insured’s two surviving children,Amelia and Brendan, each receive one-half of policy proceeds.<br /><br />The second family tree is labeled Per Stirpes Designation, “To my childrenin equal shares with the share of any deceased child to the children ofthat child per stirpes.” The Insured’s children Amelia and Brendan arehighlighted. The Insured’s grandchild Tessa, daughter of the predeceasedCharles, is also highlighted.<br /><br />Explanatory text for second family tree: The Insured’s two surviving children,Amelia and Brendan, each receive one-third of policy proceeds. GranddaughterTessa receives one-third by representation of her deceased father."
-                        ],
+                        "image_w_text_tag": "Two family trees. Each one shows the Insured and the Insured’s three childrenAmelia, Brendan, and Charles. Charles has pre-deceased the Insured, andhis name is greyed out. Each of the Insured’s children has a child of hisor her own: Amelia’s daughter Rebecca, Brendan’s son Stephen, and Charles’sdaughter Tessa.<br /><br />The first family tree is labeled Per Capita Designation, “To my childrenin equal shares.” The Insured’s children Amelia and Brendan are highlighted.<br /><br />Explanatory text for first family tree: The Insured’s two surviving children,Amelia and Brendan, each receive one-half of policy proceeds.<br /><br />The second family tree is labeled Per Stirpes Designation, “To my childrenin equal shares with the share of any deceased child to the children ofthat child per stirpes.” The Insured’s children Amelia and Brendan arehighlighted. The Insured’s grandchild Tessa, daughter of the predeceasedCharles, is also highlighted.<br /><br />Explanatory text for second family tree: The Insured’s two surviving children,Amelia and Brendan, each receive one-third of policy proceeds. GranddaughterTessa receives one-third by representation of her deceased father.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1630,7 +1625,7 @@ Lesson_Data_File([
                         "heading": "Premium Payments",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1756,9 +1751,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "11-2figure.jpg",
-                        "image_w_text_tag": [
-                            "A vertical timeline, with periods marked “Premium Due Date,” “Grace Period,”“Last Day,” and “Past Due.”<br /><br />The Grace Period is labeled with the following notes:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policy remains in force</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer will accept premium with no penalty</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• If insured dies, insurer subtracts unpaid premium from policy proceeds.</span><br /><br />The combined periods of Grace Period and Last Day are labeled as follows:“Usually 31 days for term or whole life, 61 days for universal life.”<br /><br />Last Day is labeled as follows: “Or next business day if last day of graceperiod is a nonbusiness day.”<br /><br />The dividing line between Last Day and Past Due is labeled “Midnight ofthe last day.”<br /><br />Past Due is labeled with the following notes:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policy lapses</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reinstatement required to continue coverage.</span>"
-                        ],
+                        "image_w_text_tag": "A vertical timeline, with periods marked “Premium Due Date,” “Grace Period,”“Last Day,” and “Past Due.”<br /><br />The Grace Period is labeled with the following notes:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policy remains in force</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Insurer will accept premium with no penalty</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• If insured dies, insurer subtracts unpaid premium from policy proceeds.</span><br /><br />The combined periods of Grace Period and Last Day are labeled as follows:“Usually 31 days for term or whole life, 61 days for universal life.”<br /><br />Last Day is labeled as follows: “Or next business day if last day of graceperiod is a nonbusiness day.”<br /><br />The dividing line between Last Day and Past Due is labeled “Midnight ofthe last day.”<br /><br />Past Due is labeled with the following notes:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Policy lapses</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Reinstatement required to continue coverage.</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -2395,7 +2388,7 @@ Lesson_Data_File([
                         "heading": "Nonforfeiture Benefits",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -2629,7 +2622,7 @@ Lesson_Data_File([
                         "heading": "Policy Loans and Policy Withdrawals",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -3054,7 +3047,7 @@ Lesson_Data_File([
                         "heading": "Reinstatement",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",

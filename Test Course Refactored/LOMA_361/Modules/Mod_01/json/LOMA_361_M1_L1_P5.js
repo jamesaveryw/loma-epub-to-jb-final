@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Performing the Accounting Function"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -79,7 +76,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Distinguish between private and public accounting and describe how the role of the controller has changed in recent years"
                     }
                 ]
             },
@@ -329,7 +326,7 @@ Lesson_Data_File([
                         "heading": "Public Accounting",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",

@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Temporary Insurance Agreements"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -673,9 +670,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-2figure.jpg",
-                        "image_w_text_tag": [
-                            "An image of a sample binding premium receipt. It contains a number ofYES or NO questions to determine eligibility for temporary insurance. Alist of terms and conditions specifies elements such as the date coveragebegins, the amount of coverage, the date coverage terminates, and speciallimitations. The document closes with space for the amount of premium sentand the applicant’s signature."
-                        ],
+                        "image_w_text_tag": "An image of a sample binding premium receipt. It contains a number ofYES or NO questions to determine eligibility for temporary insurance. Alist of terms and conditions specifies elements such as the date coveragebegins, the amount of coverage, the date coverage terminates, and speciallimitations. The document closes with space for the amount of premium sentand the applicant’s signature.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

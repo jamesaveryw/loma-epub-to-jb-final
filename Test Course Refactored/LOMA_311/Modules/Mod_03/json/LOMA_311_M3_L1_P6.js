@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "International Insurance Regulation"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -153,9 +150,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A world map, with labeled arrows pointing to specific countries.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Argentina: Superintendency of Insurance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Australia: Australian Prudential and Regulatory Authority</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Bermuda: Bermuda Monetary Authority</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Brazil: Superintendency of Private Insurance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• China: China Banking and Insurance Regulatory Commission</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• India: Insurance Regulatory and Development Authority</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Malaysia: Central Bank of Malaysia</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Mexico: National Commission of Insurance and Finances</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Philippines: Insurance Commission</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Singapore: Monetary Authority of Singapore</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• South Korea: Financial Services Commission</span>"
-                        ],
+                        "image_w_text_tag": "A world map, with labeled arrows pointing to specific countries.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Argentina: Superintendency of Insurance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Australia: Australian Prudential and Regulatory Authority</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Bermuda: Bermuda Monetary Authority</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Brazil: Superintendency of Private Insurance</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• China: China Banking and Insurance Regulatory Commission</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• India: Insurance Regulatory and Development Authority</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Malaysia: Central Bank of Malaysia</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Mexico: National Commission of Insurance and Finances</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Philippines: Insurance Commission</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Singapore: Monetary Authority of Singapore</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• South Korea: Financial Services Commission</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

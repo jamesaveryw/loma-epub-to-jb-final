@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Form of the Contract"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -347,9 +344,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-5figure.jpg",
-                        "image_w_text_tag": [
-                            "Four linked text blocks around a central text block.<br /><br />Center text: Writing requirements in some jurisdictions<br /><br />Outer text 1: Insurance contracts<br /><br />Outer text 2: Promises to pay debts discharged in bankruptcy<br /><br />Outer text 3: Agreements to pay commissions to real estate agents<br /><br />Outer text 4: Agreements that cannot be performed during the lifetimeof the promisor"
-                        ],
+                        "image_w_text_tag": "Four linked text blocks around a central text block.<br /><br />Center text: Writing requirements in some jurisdictions<br /><br />Outer text 1: Insurance contracts<br /><br />Outer text 2: Promises to pay debts discharged in bankruptcy<br /><br />Outer text 3: Agreements to pay commissions to real estate agents<br /><br />Outer text 4: Agreements that cannot be performed during the lifetimeof the promisor",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

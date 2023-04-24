@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Performance of the Life Insurance Contract"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1048,7 +1045,7 @@ Lesson_Data_File([
                         "heading": "Special Claim Situations",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1416,9 +1413,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "14-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Infographic showing a step-by-step story.<br /><br />Box 1: Ed Ruff was insured under a life policy issued by New Life InsuranceCompany. Ed’s wife, Lyn, was the beneficiary.<br /><br />Box 2: Ed disappeared. Lyn filed a claim under Ed’s life insurance policy.<br /><br />Box 3: New Life denied Lyn’s claim because the disappearance could notbe attributed to an identifiable cause.<br /><br />Box 4: Lyn hired an attorney and sued New Life.<br /><br />Box 5: New Life’s defense was that they had not found convincing evidencethat the insured was dead.<br /><br />Box 6: Lyn, as plaintiff, has the initial burden to prove that the insureddied. Lyn’s attorney proves the required elements, creating a rebuttablepresumption that the insured is dead.<br /><br />Box 7: To rebut the presumption of death, New Life presents facts to showthe insured is not dead.<br /><br />Box 8: At this point, whether the insured is dead is a question of factfor the trier of fact to decide."
-                        ],
+                        "image_w_text_tag": "Infographic showing a step-by-step story.<br /><br />Box 1: Ed Ruff was insured under a life policy issued by New Life InsuranceCompany. Ed’s wife, Lyn, was the beneficiary.<br /><br />Box 2: Ed disappeared. Lyn filed a claim under Ed’s life insurance policy.<br /><br />Box 3: New Life denied Lyn’s claim because the disappearance could notbe attributed to an identifiable cause.<br /><br />Box 4: Lyn hired an attorney and sued New Life.<br /><br />Box 5: New Life’s defense was that they had not found convincing evidencethat the insured was dead.<br /><br />Box 6: Lyn, as plaintiff, has the initial burden to prove that the insureddied. Lyn’s attorney proves the required elements, creating a rebuttablepresumption that the insured is dead.<br /><br />Box 7: To rebut the presumption of death, New Life presents facts to showthe insured is not dead.<br /><br />Box 8: At this point, whether the insured is dead is a question of factfor the trier of fact to decide.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1786,7 +1781,7 @@ Lesson_Data_File([
                         "heading": "Claim Litigation",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",

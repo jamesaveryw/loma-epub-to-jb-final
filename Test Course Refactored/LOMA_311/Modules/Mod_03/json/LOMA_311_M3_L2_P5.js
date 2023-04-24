@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Regulation of Underwriting, Claims, and Complaints"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -79,7 +76,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Give examples of how state insurance laws regulateunderwriting, claim practices, and complaint handling"
                     }
                 ]
             },
@@ -135,7 +132,7 @@ Lesson_Data_File([
                         "heading": "Underwriting Practices",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -329,7 +326,7 @@ Lesson_Data_File([
                         "heading": "Claim Practices",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -875,7 +872,7 @@ Lesson_Data_File([
                         "heading": "Complaint Handling",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -929,9 +926,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Step-by-step infographic.<br /><br />Top box: Complaint to insurance department typically follows this process:<br /><br />Step one: Complaint is given file number and assigned to complaint examiner<br /><br />Step two: In most states, examiner completes NAIC standard complaint formto collect information about complaint<br /><br />Step three: NAIC compiles information from forms into NAIC ComplaintsDatabase System (CDS) which provides regulators with aggregated complaintdata on insurers<br /><br />Step four: Examiner sends copy of complaint to insurer and asks insurerto respond in writing<br /><br />Step five: If insurer responds by stating complaint is not valid, it mustprovide examiner with supporting documentation<br /><br />Step six: If complaint is valid, insurer responds to examiner and explainshow it will correct situation"
-                        ],
+                        "image_w_text_tag": "Step-by-step infographic.<br /><br />Top box: Complaint to insurance department typically follows this process:<br /><br />Step one: Complaint is given file number and assigned to complaint examiner<br /><br />Step two: In most states, examiner completes NAIC standard complaint formto collect information about complaint<br /><br />Step three: NAIC compiles information from forms into NAIC ComplaintsDatabase System (CDS) which provides regulators with aggregated complaintdata on insurers<br /><br />Step four: Examiner sends copy of complaint to insurer and asks insurerto respond in writing<br /><br />Step five: If insurer responds by stating complaint is not valid, it mustprovide examiner with supporting documentation<br /><br />Step six: If complaint is valid, insurer responds to examiner and explainshow it will correct situation",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

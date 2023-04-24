@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Tort Law"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -141,7 +138,7 @@ Lesson_Data_File([
                         "heading": "Intentional Torts",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -243,7 +240,7 @@ Lesson_Data_File([
                         "heading": "Negligence",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -392,9 +389,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "2-1figure.jpg",
-                        "image_w_text_tag": [
-                            "A house with different people on different floors, representing higherresponsibilities.<br /><br />Highest floor: A fiduciary generally is held to the highest standard ofcare. We discuss fiduciaries in more detail in Chapter 3.<br /><br />Second-highest floor: Professionals, such as physicians, attorneys, andaccountants, generally are held to a higher standard of care than are non-professionals.They are required to have the special knowledge and skills needed to carryout their professions and to use reasonable care.<br /><br />Second-lowest floor: The average person has the legal duty to act as areasonably prudent person of like knowledge or skill.<br /><br />Lowest floor: Children generally are held to a lower standard of carethan adults. A child generally is required to act like a reasonable personof the child’s age, experience, and intelligence. Certain actions, whentaken by a child, may not be negligent, whereas the same actions takenby an adult might be negligent."
-                        ],
+                        "image_w_text_tag": "A house with different people on different floors, representing higherresponsibilities.<br /><br />Highest floor: A fiduciary generally is held to the highest standard ofcare. We discuss fiduciaries in more detail in Chapter 3.<br /><br />Second-highest floor: Professionals, such as physicians, attorneys, andaccountants, generally are held to a higher standard of care than are non-professionals.They are required to have the special knowledge and skills needed to carryout their professions and to use reasonable care.<br /><br />Second-lowest floor: The average person has the legal duty to act as areasonably prudent person of like knowledge or skill.<br /><br />Lowest floor: Children generally are held to a lower standard of carethan adults. A child generally is required to act like a reasonable personof the child’s age, experience, and intelligence. Certain actions, whentaken by a child, may not be negligent, whereas the same actions takenby an adult might be negligent.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -505,7 +500,7 @@ Lesson_Data_File([
                         "heading": "Strict Liability",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",

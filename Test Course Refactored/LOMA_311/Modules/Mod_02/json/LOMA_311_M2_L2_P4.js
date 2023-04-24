@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Principal’s Duties to the Agent"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -79,7 +76,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Describe an agent’s duties to the principal andthe principal’s duties to the agent, and identify the remedies availableif either party breaches the agency agreement"
                     }
                 ]
             },
@@ -153,9 +150,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Icon of money exchanging hands.<br /><br />Compensation: A principal generally has a duty to pay an agent the reasonablevalue of the agent’s services, unless the parties have agreed otherwise.<br /><br />Reimbursement: A principal generally has a duty to reimburse an agentfor all reasonable expenses incurred in performing the agency duties, unlessthe parties have agreed otherwise.<br /><br />Indemnification: A principal generally has a duty to compensate an agentfor any losses the agent incurs while performing the agency duties, unlessthe parties have agreed otherwise."
-                        ],
+                        "image_w_text_tag": "Icon of money exchanging hands.<br /><br />Compensation: A principal generally has a duty to pay an agent the reasonablevalue of the agent’s services, unless the parties have agreed otherwise.<br /><br />Reimbursement: A principal generally has a duty to reimburse an agentfor all reasonable expenses incurred in performing the agency duties, unlessthe parties have agreed otherwise.<br /><br />Indemnification: A principal generally has a duty to compensate an agentfor any losses the agent incurs while performing the agency duties, unlessthe parties have agreed otherwise.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -319,7 +314,7 @@ Lesson_Data_File([
                         "heading": "Reimbursement",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -352,7 +347,7 @@ Lesson_Data_File([
                         "heading": "Indemnification",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -388,7 +383,7 @@ Lesson_Data_File([
                         "heading": "Agent’s Remedies",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -442,9 +437,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Two text boxes in an interdependent position.<br /><br />Box One, Principal’s Duties to the Agent: Compensation, Reimbursement,Indemnification<br /><br />Box Two, Agent’s Duties to the Principal: Duty of loyalty and good faith,Duty of obedience, Duty of competence, Duty of an accounting"
-                        ],
+                        "image_w_text_tag": "Two text boxes in an interdependent position.<br /><br />Box One, Principal’s Duties to the Agent: Compensation, Reimbursement,Indemnification<br /><br />Box Two, Agent’s Duties to the Principal: Duty of loyalty and good faith,Duty of obedience, Duty of competence, Duty of an accounting",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

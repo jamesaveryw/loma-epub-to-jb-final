@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Life Insurance Contract Formation"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -203,7 +200,7 @@ Lesson_Data_File([
                         "heading": "Mutual Assent",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -677,7 +674,7 @@ Lesson_Data_File([
                         "heading": "Adequate Consideration",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -829,9 +826,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "10-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Three text blocks with national flags.<br /><br />Canada (Common law provinces): A minor age 16 or more can enter into anenforceable insurance contract on his own life or on the life of another.<br /><br />Singapore: A minor age 16 or more may enter into an insurance contractwithout the consent of his parents or guardian. A minor between the agesof 10 and 16 can do so with the written consent of his parents or guardian.<br /><br />Malaysia: A minor age 16 or more may enter into an insurance policy onhis or another person’s life if he has an insurable interest in the insured’slife. A minor between the ages of 10 and 16 may do so with the writtenconsent of his parent or guardian."
-                        ],
+                        "image_w_text_tag": "Three text blocks with national flags.<br /><br />Canada (Common law provinces): A minor age 16 or more can enter into anenforceable insurance contract on his own life or on the life of another.<br /><br />Singapore: A minor age 16 or more may enter into an insurance contractwithout the consent of his parents or guardian. A minor between the agesof 10 and 16 can do so with the written consent of his parents or guardian.<br /><br />Malaysia: A minor age 16 or more may enter into an insurance policy onhis or another person’s life if he has an insurable interest in the insured’slife. A minor between the ages of 10 and 16 may do so with the writtenconsent of his parent or guardian.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -900,7 +895,7 @@ Lesson_Data_File([
                         "heading": "Lawful Purpose: Insurable Interest",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1297,7 +1292,7 @@ Lesson_Data_File([
                         "heading": "Policy Delivery",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
