@@ -77,7 +77,6 @@ let lessonBuilder = {
 		lessonBuilder.altText = lesson.altText;
 		lessonBuilder.objectives = lesson.objectives;
 		lessonBuilder.pages = lesson.pages;
-		console.log(lesson.pages.length)
 		lessonBuilder.widgets = 0;
 		lessonBuilder.course_id = courseID.replace(/([A-Z]+)(\d+)/, "$1_$2");
 		lessonBuilder.lesson_id = `${lessonBuilder.course_id}_M${modNum}_L${lessonNum}`;
@@ -90,8 +89,6 @@ let lessonBuilder = {
 		lessonBuilder.hLevel;
 		lessonBuilder.doc;
 		lessonBuilder.prevSnippet;
-
-			console.log(`${lessonBuilder.lesson_id} has ${lessonBuilder.objectives.length} learning objectives, but ${lessonBuilder.pages.length - 2} pages.`);
 
 		// compare pages.length to objectives.length
 		// assign objectives if equal
@@ -714,9 +711,18 @@ function processCellChildren(child, index) {
 function buildHeading(heading) {
 	lessonBuilder.prevSnippet = "heading";
 	let JB_Heading = JB.JB_Heading();
-	JB_Heading.Heading[0].sngl_Heading = heading.innerHTML;
-	JB_Heading.Heading[3].size = heading.tagName.toLowerCase();
+	JB_Heading.Heading_New[0].sngl_Heading = heading.innerHTML;
+	JB_Heading.Heading_New[3].size = heading.tagName.toLowerCase();
 	lessonBuilder.hLevel = parseInt(heading.tagName.replace(/H(\d)/, "$1"));
+
+	switch (lessonBuilder.hLevel) {
+		case 3:
+			JB_Heading.Heading_New[5].color = "#015d52";
+			JB_Heading.Heading_New[4].style = "bold";
+			break;
+
+		
+	}
 
 	return JB_Heading;
 }
@@ -747,8 +753,18 @@ function buildPara(paraArray, aside) {
 		if (/H\d/.test(para.tagName)) {
 			JB_Para.Paragraphs_New[0].heading = para.innerHTML;
 			JB_Para.Paragraphs_New[0].heading_font_size = para.tagName.toLowerCase();
+
+			console.log(para.outerHTML);
 			if (!aside) {
 				lessonBuilder.hLevel = parseInt(para.tagName.replace(/H(\d)/, "$1"));
+				console.log(lessonBuilder.hLevel)
+				switch (lessonBuilder.hLevel) {
+					case 3:
+						console.log('changing color')
+						JB_Para.Paragraphs_New[0].heading_color = "#015d52";
+						break;
+			
+				}
 			}
 		}
 		// paras

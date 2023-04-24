@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Data Visualization"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -141,7 +138,7 @@ Lesson_Data_File([
                         "heading": "Tables",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1075,7 +1072,7 @@ Lesson_Data_File([
             {
                 "image_w_text": [
                     {
-                        "image_name": "../../imgs/loma_335_chapter-9_f.png",
+                        "image_name": "loma_335_chapter-9_f.png",
                         "image_w_text_tag": "A sample line diagram trending upward overtime (from 1970 to 2020) forboth men and women.",
                         "border_style": "",
                         "border_height": "",
@@ -1423,7 +1420,7 @@ Lesson_Data_File([
                         "heading": "Infographics",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1476,7 +1473,7 @@ Lesson_Data_File([
             {
                 "image_w_text": [
                     {
-                        "image_name": "../../imgs/loma_335_chapter-901.png",
+                        "image_name": "loma_335_chapter-901.png",
                         "image_w_text_tag": "An example of an infographic to show how meaning is conveyed through bothwords and pictures.<br /><br />Infographic has an image at the top of a person next to dollars. Nearthe image is the following text: Benefit funding matters. Enrollment ratesare clearly related to employer funding, but not the value of these productsto employees.<br /><br />Beneath the text is a bar chart showing average benefits participationrates.<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For dental insurance: where employer pays less than 50% of the premiums,53% participate; where employer pays more than 50% of the premiums, 80%participate; 68% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For vision care: where employer pays less than 50% of the premiums, 50%participate; where employer pays more than 50% of the premiums, 78% participate;65% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For short-term disability insurance: where employer pays less than 50%of the premiums, 40% participate; where employer pays more than 50% ofthe premiums, 85% participate; 65% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For accidental death and dismemberment insurance: where employer paysless than 50% of the premiums, 38% participate; where employer pays morethan 50% of the premiums, 82% participate; 60% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For critical illness insurance: where employer pays less than 50% of thepremiums, 27% participate; where employer pays more than 50% of the premiums,61% participate; 38% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For cancer insurance: where employer pays less than 50% of the premiums,21% participate; where employer pays more than 50% of the premiums, 63%participate; 36% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For accident insurance: where employer pays less than 50% of the premiums,29% participate; where employer pays more than 50% of the premiums, 76^participate; 50% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For long-term care insurance: where employer pays less than 50% of thepremiums, 36% participate; where employer pays more than 50% of the premiums,70% participate; 49% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For hospital indemnity insurance: where employer pays less than 50% ofthe premiums, 31% participate; where employer pays more than 50% of thepremiums, 66% participate; 47% participate on average.</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• For limited-benefit medical/”skinny” plans: where employer pays less than50% of the premiums, 25% participate; where employer pays more than 50%of the premiums, 41% participate; 34% participate on average.</span><br /><br />Beneath the graph is the following text inside of a down-pointing arrow:Watch out: Core insurance benefit penetration rates are declining.<br /><br />Branching out from the arrow is an arm that holds a cloud. Inside thecloud reads the following text: A silver lining? Employers’ interest innon-insurance benefits is growing. Can you provide them with non-traditionalbenefits they’ll subsidize?",
                         "border_style": "",
                         "border_height": "",
