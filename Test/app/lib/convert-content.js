@@ -736,6 +736,8 @@ function buildLOs(LO) {
 	JB_Para.Paragraphs_New[0].heading_font_size = "h3";
 	JB_Para.Paragraphs_New[0].background_color = "#FBF6D9";
 	JB_Para.Paragraphs_New[0].border_style = "solid";
+	JB_Para.Paragraphs_New[0].heading_color = "#015d52";
+	JB_Para.Paragraphs_New[0].heading_weight = "bold";
 	JB_Para.Paragraphs_New.push({ Paragraph_txt: paraLO.innerHTML });
 
 	return JB_Para;
@@ -754,13 +756,11 @@ function buildPara(paraArray, aside) {
 			JB_Para.Paragraphs_New[0].heading = para.innerHTML;
 			JB_Para.Paragraphs_New[0].heading_font_size = para.tagName.toLowerCase();
 
-			console.log(para.outerHTML);
 			if (!aside) {
 				lessonBuilder.hLevel = parseInt(para.tagName.replace(/H(\d)/, "$1"));
 				console.log(lessonBuilder.hLevel)
 				switch (lessonBuilder.hLevel) {
 					case 3:
-						console.log('changing color')
 						JB_Para.Paragraphs_New[0].heading_color = "#015d52";
 						break;
 			

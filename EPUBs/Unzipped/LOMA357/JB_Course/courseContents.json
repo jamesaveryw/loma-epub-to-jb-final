@@ -50,6 +50,7 @@
                         "Identify the types of insurance products supportedby general account and separate account assets and describe the movementof funds in and out of general and separate accounts",
                         "List the professional roles found in the investmentfunction of financial services companies and describe each role’s generalresponsibilities",
                         "Differentiate between a financial services company’sfront-office, middle-office, and back-office investment operations",
+                        "Identify and describe specific insurance companyfunctions that interact with the investment function",
                         "Explain why financial services companies mayoutsource investment management duties to external vendors",
                         "Describe the sources and uses of investmentdata and how investment professionals manage and analyze data",
                         "Describe important elements in data governanceand information security for financial services companies"
@@ -239,6 +240,8 @@
                         "Define the term <em>investment vehicle</em> andexplain its purpose in investing",
                         "Describe the basic characteristics of bondsand distinguish between the types of bond issuers",
                         "Distinguish between common and preferred stocksand explain the different ways that companies can pay dividends",
+                        "Describe the different types of real estateproperties and explain the various methods of real estate appraisal",
+                        "Distinguish between recourse and nonrecourseloans and residential and commercial mortgages",
                         "Explain the benefits and risks of investingin real estate investment trusts"
                     ],
                     "answerKey": {
@@ -398,9 +401,12 @@
                     ],
                     "objectives": [
                         "Explain the process of securitization and describethe four types of tranches typically found in structured products",
+                        "Distinguish between asset-backed securities,residential mortgage-backed securities, and commercial mortgage-backedsecurities",
                         "Distinguish between options, swaps, futures,and forwards and explain how investors use each type of derivative",
+                        "Describe the advantages and disadvantages ofalternative investments and distinguish between hedge funds, private equityfunds, and infrastructure investments",
                         "Describe the basic characteristics of investmentfunds and distinguish between open-end mutual funds, closed-end mutualfunds, unit investment trusts, and exchange-traded funds",
-                        "Describe the three main roles for participantsin capital markets and distinguish between primary and secondary markets"
+                        "Describe the three main roles for participantsin capital markets and distinguish between primary and secondary markets",
+                        "Explain the different methods that stock exchangesuse to match buyers with sellers"
                     ],
                     "answerKey": {
                         "loma357-ch3-question-1": {
@@ -1258,9 +1264,13 @@
                     ],
                     "objectives": [
                         "Describe the planning process for institutionalinvestment portfolios, including the role of portfolio construction",
+                        "Explain how investment professionals use correlationcoefficients and the asset-class correlation matrix in correlation analysis",
+                        "Explain how investment professionals can usemean variance optimization (MVO) and Monte Carlo modeling when creatinga portfolio’s strategic asset allocation (SAA)",
                         "Describe how investment professionals createblended benchmarks and explain their benefits",
                         "Describe some of the common criteria that investmentprofessionals use to select assets for portfolios—such as sector and industry,ratings, liquidity, transaction costs, and environmental, social, and governance(ESG) factors",
-                        "Identify the ways that investment professionalscan classify funds—including asset class, management approach, investmentstyle, market capitalization, asset allocation, geography, and sector"
+                        "Identify the ways that investment professionalscan classify funds—including asset class, management approach, investmentstyle, market capitalization, asset allocation, geography, and sector",
+                        "Explain how investment professionals evaluatefund classifications, investment styles, management teams, expense ratios,and ratings to select the fund options offered to an institution’s customers",
+                        "Describe how investment professionals use benchmarks,peer groups, and scorecards to compare funds"
                     ],
                     "answerKey": {
                         "loma357-ch7-question-1": {
@@ -1679,6 +1689,7 @@
                     ],
                     "objectives": [
                         "Explain why investment professionals monitorportfolios for style drift, allocations that require rebalancing, asset-liabilitymanagement (ALM) considerations, and compliance to policies and regulations",
+                        "Describe some of the investment performancereporting standards, such as Global Investment Performance Standards (GIPS<sup>®</sup>)and asset valuation standards",
                         "Explain how investment professionals use totalreturn and excess return as metrics to measure a portfolio’s investmentreturns",
                         "Explain how investment professionals use standarddeviation, tracking error, beta, and Value at Risk (VaR) as metrics tomeasure the level of risk that a portfolio has accepted",
                         "Explain how investment professionals use theSharpe ratio, Sortino ratio, information ratio, and Jensen’s alpha as metricsto measure a portfolio’s risk-adjusted returns",
@@ -1846,6 +1857,7 @@
                     "objectives": [
                         "Explain how functional regulatory systems overseefinancial services companies and describe the types of financial activitiessuch systems regulate",
                         "Describe important U.S. securities regulations, suchas the Securities Act of 1933, the Securities Exchange Act of 1934, theTrust Indenture Act of 1939, the Investment Company Act of 1940, and others",
+                        "Explain how the following entities are involved inU.S. securities regulation: the Securities and Exchange Commission (SEC),the Financial Industry Regulatory Authority (FINRA), the Commodity FuturesTrading Commission (CFTC), and state securities regulators",
                         "Describe how state insurance regulators and the NationalAssociation of Insurance Commissioners (NAIC) are involved in U.S. insuranceregulation",
                         "Explain how capital adequacy requirements, assetand liability valuation standards, and accounting and financial reportingstandards contribute to insurer solvency regulations",
                         "Describe the effects that the Investments of InsurersModel Acts, investment reserve requirements, and restrictions on generalaccount holdings have on insurers’ investments",
@@ -2024,6 +2036,8 @@
                         "Define <em>ethics</em> and explain why ethical standardsare important for financial services companies",
                         "Describe how codes of conduct promote ethical behavioramong professionals",
                         "Explain how conflicts of interest affect investmentprofessionals and identify some common conflicts for investment professionals",
+                        "Explain why insider trading, trading ahead of research,front running, late trading, and collusion are unethical trading practices",
+                        "Describe some of the responsibilities that investmentprofessionals have to their clients",
                         "Explain how corporate policies—such as an insurer’sinvestment policies and risk policies—affect the investment function’sactivities",
                         "Identify the responsibilities of the audit functionand describe its role in insurance company compliance"
                     ],

@@ -2248,7 +2248,9 @@
                         }
                     ],
                     "objectives": [
-                        "Interpret the results of various financial ratios"
+                        "Interpret the results of various financial ratios",
+                        "Compare and contrast operating leverage, financialleverage, positive leverage effects, and negative leverage effects",
+                        "Distinguish among common financial ratios thatfall into each of these categories: liquidity, operating performance, leverage,capital and surplus adequacy, and profitability"
                     ],
                     "answerKey": {
                         "loma361-ch11-question-1": {
