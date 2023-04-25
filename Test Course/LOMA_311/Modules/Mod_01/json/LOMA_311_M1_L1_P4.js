@@ -143,7 +143,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Examples of Judicial Systems</span>",
+                        "List_Heading": "INSIGHT: Examples of Judicial Systems",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

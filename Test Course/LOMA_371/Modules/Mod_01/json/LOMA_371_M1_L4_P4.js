@@ -795,7 +795,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Stochastic and Deterministic Modeling for a Term Life Insurance Premium</span>",
+                        "heading": "INSIGHT: Stochastic and Deterministic Modeling for a Term Life Insurance Premium",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",

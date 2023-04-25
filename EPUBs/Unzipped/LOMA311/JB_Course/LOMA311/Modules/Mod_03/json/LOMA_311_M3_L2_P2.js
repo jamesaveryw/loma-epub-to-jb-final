@@ -297,7 +297,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Required Policy Provisions</span>",
+                        "List_Heading": "INSIGHT: Required Policy Provisions",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -533,7 +533,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",

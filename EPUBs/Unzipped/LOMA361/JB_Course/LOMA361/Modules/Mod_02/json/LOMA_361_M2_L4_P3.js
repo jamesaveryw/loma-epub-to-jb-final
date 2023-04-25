@@ -389,7 +389,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Common Policyowner Dividend Payment Options</span>",
+                        "heading": "INSIGHT: Common Policyowner Dividend Payment Options",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",

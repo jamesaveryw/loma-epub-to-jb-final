@@ -192,7 +192,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: The Regulation of Nonpublic Personal Information</span>",
+                        "heading": "INSIGHT: The Regulation of Nonpublic Personal Information",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -425,7 +425,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Types of Business Process Management Systems</span>",
+                        "heading": "INSIGHT: Types of Business Process Management Systems",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -559,7 +559,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Uses of AI in the Insurance Industry</span>",
+                        "List_Heading": "INSIGHT: Uses of AI in the Insurance Industry",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

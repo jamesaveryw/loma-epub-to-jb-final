@@ -517,7 +517,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Regtech in the Insurance Industry</span>",
+                        "List_Heading": "INSIGHT: Regtech in the Insurance Industry",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

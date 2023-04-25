@@ -758,7 +758,6 @@ function buildPara(paraArray, aside) {
 
 			if (!aside) {
 				lessonBuilder.hLevel = parseInt(para.tagName.replace(/H(\d)/, "$1"));
-				console.log(lessonBuilder.hLevel)
 				switch (lessonBuilder.hLevel) {
 					case 3:
 						JB_Para.Paragraphs_New[0].heading_color = "#015d52";
@@ -1058,7 +1057,7 @@ function buildAside(aside) {
 	if (aside.querySelector(`p.${asideClass}-header`)) {
 		//let hLevelString = hLevel.toString(hLevel+1);
 		let heading = lessonBuilder.doc.createElement(`h${lessonBuilder.hLevel + 1}`);
-		heading.innerHTML = `<span style="font-size:14px;font-weight:bold">${aside.querySelector(`p.${asideClass}-header`).innerHTML}</span>`;
+		heading.innerHTML = `${aside.querySelector(`p.${asideClass}-header`).innerHTML}`;
 		aside.querySelector("div.inner").prepend(heading);
 	}
 

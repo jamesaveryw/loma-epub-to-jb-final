@@ -488,7 +488,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Benchmarking Distribution Costs</span>",
+                        "heading": "INSIGHT: Benchmarking Distribution Costs",
                         "heading_font_size": "h5",
                         "heading_alignment": "center",
                         "heading_color": "",

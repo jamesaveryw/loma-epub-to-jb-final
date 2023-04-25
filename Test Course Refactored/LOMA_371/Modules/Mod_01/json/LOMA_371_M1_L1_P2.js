@@ -324,7 +324,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Risk and Return in Investment Transactions</span>",
+                        "heading": "INSIGHT: Risk and Return in Investment Transactions",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",

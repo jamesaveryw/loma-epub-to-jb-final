@@ -1068,7 +1068,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: The Balance Sheet</span>",
+                        "List_Heading": "INSIGHT: The Balance Sheet",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1786,7 +1786,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Liquidation and Guaranty Associations</span>",
+                        "List_Heading": "INSIGHT: Liquidation and Guaranty Associations",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

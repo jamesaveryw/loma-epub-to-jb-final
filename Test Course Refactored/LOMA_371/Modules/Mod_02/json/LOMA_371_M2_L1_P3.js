@@ -711,7 +711,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Product Design Objectives—Life Insurance and Annuities</span>",
+                        "List_Heading": "INSIGHT: Product Design Objectives—Life Insurance and Annuities",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

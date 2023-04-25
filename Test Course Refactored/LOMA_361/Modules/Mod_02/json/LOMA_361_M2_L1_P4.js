@@ -162,7 +162,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Accounting Entries for the Purchase and Sale of an Asset</span>",
+                        "heading": "INSIGHT: Accounting Entries for the Purchase and Sale of an Asset",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
                         "heading_color": "",

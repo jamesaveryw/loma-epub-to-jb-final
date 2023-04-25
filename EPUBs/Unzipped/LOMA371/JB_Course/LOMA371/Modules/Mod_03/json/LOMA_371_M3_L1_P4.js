@@ -391,7 +391,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: NPV of $150 Initial Investment at 10% and 15% Interest</span>",
+                        "heading": "INSIGHT: NPV of $150 Initial Investment at 10% and 15% Interest",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
