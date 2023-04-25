@@ -789,10 +789,16 @@ function buildList(listArray, aside) {
 	for (let list of listArray) {
 		// list heading
 		if (/H\d/.test(list.tagName)) {
-			JB_List.List_text_paragraph[0].List_Heading = list.innerHTML;
+			JB_List.List_text_paragraph[0].List_Heading = `<strong>${list.innerHTML}</strong>`;
 			JB_List.List_text_paragraph[0].heading_size = list.tagName.toLowerCase();
 			if (!aside) {
 				lessonBuilder.hLevel = parseInt(list.tagName.replace(/H(\d)/, "$1"));
+				switch (lessonBuilder.hLevel) {
+					case 3:
+						JB_List.List_text_paragraph[0].heading_color = "#015d52";
+						break;
+			
+				}
 			}
 		}
 		// top paras

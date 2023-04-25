@@ -3903,7 +3903,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Avoiding Bias",
+                        "List_Heading": "<strong>Avoiding Bias</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

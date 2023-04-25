@@ -382,7 +382,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "INSIGHT: The Bursting of the U.S. Housing Bubble",
+                        "List_Heading": "<strong>INSIGHT: The Bursting of the U.S. Housing Bubble</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -588,7 +588,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Interest-Rate Risk",
+                        "List_Heading": "<strong>Interest-Rate Risk</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1305,7 +1305,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Credit Risk",
+                        "List_Heading": "<strong>Credit Risk</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1409,7 +1409,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Real Estate Risk",
+                        "List_Heading": "<strong>Real Estate Risk</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1474,7 +1474,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Liquidity Risk",
+                        "List_Heading": "<strong>Liquidity Risk</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

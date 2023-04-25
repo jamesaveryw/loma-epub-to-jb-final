@@ -767,7 +767,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Confidence Intervals",
+                        "List_Heading": "<strong>Confidence Intervals</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
