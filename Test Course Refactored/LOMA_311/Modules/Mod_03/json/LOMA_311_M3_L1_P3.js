@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "State Regulation of Insurance"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -215,9 +212,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Infographic with four columns.<br /><br />Column 1, Legislative Branch:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Source of Law: State legislature</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsibilities: Enact &amp; modify statutes</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Type of Law: Statutory law</span><br /><br />Column 2, Executive Branch:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Source of Law: Insurance department</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsibilities: Adopt regulations; enforce statutes &amp; regulations;oversee insurer operations</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Type of Law: Administrative law</span><br /><br />Column 3, Executive Branch:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Source of Law: Attorney general</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsibilities: Enforce state criminal law; provide legal advice &amp;opinions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Type of Law: Administrative law</span><br /><br />Column 4, Judicial Branch:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Source of Law: State courts</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsibilities: Adopt regulations; enforce statutes &amp; regulations;oversee insurer operations</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Type of Law: Case&nbsp;law</span>"
-                        ],
+                        "image_w_text_tag": "Infographic with four columns.<br /><br />Column 1, Legislative Branch:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Source of Law: State legislature</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsibilities: Enact &amp; modify statutes</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Type of Law: Statutory law</span><br /><br />Column 2, Executive Branch:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Source of Law: Insurance department</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsibilities: Adopt regulations; enforce statutes &amp; regulations;oversee insurer operations</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Type of Law: Administrative law</span><br /><br />Column 3, Executive Branch:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Source of Law: Attorney general</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsibilities: Enforce state criminal law; provide legal advice &amp;opinions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Type of Law: Administrative law</span><br /><br />Column 4, Judicial Branch:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Source of Law: State courts</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Responsibilities: Adopt regulations; enforce statutes &amp; regulations;oversee insurer operations</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Type of Law: Case&nbsp;law</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -437,7 +432,7 @@ Lesson_Data_File([
                         "heading": "Licensing Requirements",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -470,7 +465,7 @@ Lesson_Data_File([
                         "heading": "Reporting and Filing Requirements",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1029,7 +1024,7 @@ Lesson_Data_File([
                         "heading": "Solvency Requirements",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1073,7 +1068,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: The Balance Sheet</span>",
+                        "List_Heading": "INSIGHT: The Balance Sheet",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1416,7 +1411,7 @@ Lesson_Data_File([
                         "heading": "Monitoring Solvency",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1503,9 +1498,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Flowchart.<br /><br />Stage One: Statistical phase of IRIS — NAIC compares insurer’s ratioswith IRIS financial ratios<br /><br />If Insurer “passes”: no further action.<br /><br />If insurer does not pass, move to Stage Two, analytical phase of IRIS.<br /><br />Stage Two: Analytical phase of IRIS — NAIC examiners apply qualitativeand quantitative standards to further analyze insurer’s Annual Statementdata<br /><br />If no unusual results: no further action.<br /><br />If there are unusual results, NAIC reports findings first to insurer’sstate of domicile and then to the other states where the insurer operates.Move to Stage Three, regulatory action.<br /><br />Regulatory action: State regulators have the authority to act based ontheir judgment that an insurer’s financial condition is hazardous."
-                        ],
+                        "image_w_text_tag": "Flowchart.<br /><br />Stage One: Statistical phase of IRIS — NAIC compares insurer’s ratioswith IRIS financial ratios<br /><br />If Insurer “passes”: no further action.<br /><br />If insurer does not pass, move to Stage Two, analytical phase of IRIS.<br /><br />Stage Two: Analytical phase of IRIS — NAIC examiners apply qualitativeand quantitative standards to further analyze insurer’s Annual Statementdata<br /><br />If no unusual results: no further action.<br /><br />If there are unusual results, NAIC reports findings first to insurer’sstate of domicile and then to the other states where the insurer operates.Move to Stage Three, regulatory action.<br /><br />Regulatory action: State regulators have the authority to act based ontheir judgment that an insurer’s financial condition is hazardous.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1793,7 +1786,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Liquidation and Guaranty Associations</span>",
+                        "List_Heading": "INSIGHT: Liquidation and Guaranty Associations",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

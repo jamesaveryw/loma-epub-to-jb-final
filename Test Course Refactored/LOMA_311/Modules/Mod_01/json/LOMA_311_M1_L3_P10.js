@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Employment Regulation"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -79,7 +76,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "List the nondiscrimination requirements that U.S. federaland state laws typically impose on employers"
                     }
                 ]
             },
@@ -234,7 +231,7 @@ Lesson_Data_File([
                         "heading": "Nondiscrimination Requirements",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -285,9 +282,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Four sections explaining laws.<br /><br />Section One: Civil Rights Act of 1964<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• One of the broadest nondiscrimination laws, prohibits employment discriminationon the basis of race, color, sex, religion, or national origin</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Applies to employers that (1) are engaged in interstate commerce and (2)have 15 or more employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <em>Pregnancy Discrimination Act</em>, a 1978 amendment, requires employersto treat pregnancy, childbirth, and related medical conditions the sameas any other medical condition</span><br /><br />Section Two: Americans with Disabilities Act (ADA)<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Protects people with disabilities from all types of discrimination, includingemployment discrimination</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Applies to all employers with 15 or more employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Protected areas of employment include job applications; hiring, advancement,or discharge of employees; employee compensation; and job training</span><br /><br />Section Three: Age Discrimination in Employment Act<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Protects workers who are age 40 and older from being discriminated againstbecause of their age</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Applies to employers with 20 or more employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prohibits employers from refusing to hire and from firing individuals40 and older because of their age</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Employers also cannot discriminate regarding compensation and other termsand conditions of employment because of a person’s age</span><br /><br />Section Four: Equal Pay Act<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prohibits sex-based wage discrimination between men and women at the sameestablishment who are performing the same job under similar working conditions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Applies to employers with two or more employees</span>"
-                        ],
+                        "image_w_text_tag": "Four sections explaining laws.<br /><br />Section One: Civil Rights Act of 1964<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• One of the broadest nondiscrimination laws, prohibits employment discriminationon the basis of race, color, sex, religion, or national origin</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Applies to employers that (1) are engaged in interstate commerce and (2)have 15 or more employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• <em>Pregnancy Discrimination Act</em>, a 1978 amendment, requires employersto treat pregnancy, childbirth, and related medical conditions the sameas any other medical condition</span><br /><br />Section Two: Americans with Disabilities Act (ADA)<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Protects people with disabilities from all types of discrimination, includingemployment discrimination</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Applies to all employers with 15 or more employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Protected areas of employment include job applications; hiring, advancement,or discharge of employees; employee compensation; and job training</span><br /><br />Section Three: Age Discrimination in Employment Act<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Protects workers who are age 40 and older from being discriminated againstbecause of their age</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Applies to employers with 20 or more employees</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prohibits employers from refusing to hire and from firing individuals40 and older because of their age</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Employers also cannot discriminate regarding compensation and other termsand conditions of employment because of a person’s age</span><br /><br />Section Four: Equal Pay Act<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Prohibits sex-based wage discrimination between men and women at the sameestablishment who are performing the same job under similar working conditions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Applies to employers with two or more employees</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -410,9 +405,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "3-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Map of Europe and Asia with text bullets.<br /><br />In the European Union, workers are protected against employment discriminationbased on their sex, racial or ethnic origin, sexual orientation, age, disability,or religion.<br /><br />In Hong Kong, employers may not discriminate on the grounds of sex, race,pregnancy, marital status, disability, or responsibility for caring foran immediate family member.<br /><br />In Japan, workers are protected against employment discrimination basedon race, creed, sex, social status, or family origin."
-                        ],
+                        "image_w_text_tag": "Map of Europe and Asia with text bullets.<br /><br />In the European Union, workers are protected against employment discriminationbased on their sex, racial or ethnic origin, sexual orientation, age, disability,or religion.<br /><br />In Hong Kong, employers may not discriminate on the grounds of sex, race,pregnancy, marital status, disability, or responsibility for caring foran immediate family member.<br /><br />In Japan, workers are protected against employment discrimination basedon race, creed, sex, social status, or family origin.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Sources of Law"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -257,7 +254,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Parliamentary Democracies</span>",
+                        "heading": "INSIGHT: Parliamentary Democracies",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -377,9 +374,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-1figure.jpg",
-                        "image_w_text_tag": [
-                            "A world map, with several countries marked:<br /><br />Canada, 10 provinces, 3 territories<br /><br />Mexico, 31 states, 1 federal district<br /><br />Brazil, 26 states, 1 federal district<br /><br />Argentina, 23 provinces, 1 federal district<br /><br />Germany, 16 states<br /><br />South Africa, 9 provinces<br /><br />India, 28 states, 7 territories<br /><br />Malaysia, 13 states, 3 territories<br /><br />Indonesia, 30 provinces, 2 special regions, 1 federal district"
-                        ],
+                        "image_w_text_tag": "A world map, with several countries marked:<br /><br />Canada, 10 provinces, 3 territories<br /><br />Mexico, 31 states, 1 federal district<br /><br />Brazil, 26 states, 1 federal district<br /><br />Argentina, 23 provinces, 1 federal district<br /><br />Germany, 16 states<br /><br />South Africa, 9 provinces<br /><br />India, 28 states, 7 territories<br /><br />Malaysia, 13 states, 3 territories<br /><br />Indonesia, 30 provinces, 2 special regions, 1 federal district",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -484,7 +479,7 @@ Lesson_Data_File([
                         "heading": "Statutes",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -526,7 +521,7 @@ Lesson_Data_File([
                         "heading": "Administrative Regulations",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -577,9 +572,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Two categories of agencies listed.<br /><br />Federal Administrative Agencies include:<br /><br />Federal Insurance Office (FIO): An administrative office within the Departmentof the Treasury that monitors the insurance industry and represents theUnited States on international insurance matters.<br /><br />Department of the Treasury: The federal agency that has primary responsibilityfor administering federal banking and tax laws.<br /><br />Securities and Exchange Commission (SEC): The federal agency that administersfederal laws governing securities and the investment industry.<br /><br />Department of Justice (DOJ): The federal agency that is responsible forenforcing federal criminal laws, representing the United States in federalcases, and providing legal advice to other federal officials and departments.<br /><br />State Administrative Agencies include:<br /><br />Insurance Department: A state administrative agency that is responsiblefor enforcing the state insurance code and making certain that insurersconducting business within the state comply with all state insurance laws.<br /><br />Office of the Secretary of State: A state agency that is responsible forlicensing corporations and businesses.<br /><br />Office of the Attorney General: A state agency that is authorized to enforcethe state’s criminal laws, represent the state in all legal matters, andprovide legal advice to the governor and other state administrative officials."
-                        ],
+                        "image_w_text_tag": "Two categories of agencies listed.<br /><br />Federal Administrative Agencies include:<br /><br />Federal Insurance Office (FIO): An administrative office within the Departmentof the Treasury that monitors the insurance industry and represents theUnited States on international insurance matters.<br /><br />Department of the Treasury: The federal agency that has primary responsibilityfor administering federal banking and tax laws.<br /><br />Securities and Exchange Commission (SEC): The federal agency that administersfederal laws governing securities and the investment industry.<br /><br />Department of Justice (DOJ): The federal agency that is responsible forenforcing federal criminal laws, representing the United States in federalcases, and providing legal advice to other federal officials and departments.<br /><br />State Administrative Agencies include:<br /><br />Insurance Department: A state administrative agency that is responsiblefor enforcing the state insurance code and making certain that insurersconducting business within the state comply with all state insurance laws.<br /><br />Office of the Secretary of State: A state agency that is responsible forlicensing corporations and businesses.<br /><br />Office of the Attorney General: A state agency that is authorized to enforcethe state’s criminal laws, represent the state in all legal matters, andprovide legal advice to the governor and other state administrative officials.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -708,7 +701,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -804,7 +797,7 @@ Lesson_Data_File([
                         "heading": "Treaties and International Agreements",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -837,7 +830,7 @@ Lesson_Data_File([
                         "heading": "Case Law",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -903,9 +896,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-3figure.jpg",
-                        "image_w_text_tag": [
-                            "A text box defining “Constitution” and four subsidiary text boxes.<br /><br />Constitution: A relatively permanent document or group of documents whichsets out the fundamental principles that determine the powers and dutiesof a jurisdiction’s government and the rights of the people of the jurisdiction.<br /><br />Statutes: Laws enacted by the legislative branch of a government.<br /><br />Administrative regulations: Rules or orders adopted by agencies withinthe executive branch of a government.<br /><br />Treaties and International Agreements: Formal agreements between two ormore countries.<br /><br />Case Law: Law created by a jurisdiction’s judicial branch and found inthe courts’ written decisions."
-                        ],
+                        "image_w_text_tag": "A text box defining “Constitution” and four subsidiary text boxes.<br /><br />Constitution: A relatively permanent document or group of documents whichsets out the fundamental principles that determine the powers and dutiesof a jurisdiction’s government and the rights of the people of the jurisdiction.<br /><br />Statutes: Laws enacted by the legislative branch of a government.<br /><br />Administrative regulations: Rules or orders adopted by agencies withinthe executive branch of a government.<br /><br />Treaties and International Agreements: Formal agreements between two ormore countries.<br /><br />Case Law: Law created by a jurisdiction’s judicial branch and found inthe courts’ written decisions.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

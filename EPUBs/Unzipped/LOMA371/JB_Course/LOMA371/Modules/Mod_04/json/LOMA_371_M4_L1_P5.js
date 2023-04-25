@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Cost of Benefits for Multiyear Term Life Insurance"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -294,7 +291,7 @@ Lesson_Data_File([
                         "heading": "Projecting the Number of Benefit Payments",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -357,7 +354,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -582,7 +579,7 @@ Lesson_Data_File([
                         "heading": "Determining the Average Death Benefit Amount",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -615,7 +612,7 @@ Lesson_Data_File([
                         "heading": "Estimating the Future Death Benefits",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -672,7 +669,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -958,7 +955,7 @@ Lesson_Data_File([
                         "heading": "Finding the Present Value of Future Death Benefits",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1021,7 +1018,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Single Premium for Five-Year Term Product</span>",
+                        "heading": "INSIGHT: Single Premium for Five-Year Term Product",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1351,7 +1348,7 @@ Lesson_Data_File([
                         "heading": "Calculating the Level Annual Premium",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1414,7 +1411,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Calculating the LAP for a Five-Year Term Product</span>",
+                        "heading": "INSIGHT: Calculating the LAP for a Five-Year Term Product",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",

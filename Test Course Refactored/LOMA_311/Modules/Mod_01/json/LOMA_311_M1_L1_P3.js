@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Legal Systems"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -153,9 +150,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "1-4figure.jpg",
-                        "image_w_text_tag": [
-                            "Three lists of countries organized by legal system.<br /><br />Common Law Systems: Antigua and Barbuda, Australia, Bahamas, Barbados,Bermuda, Canada (except Quebec), Fiji Islands, Ireland, Jamaica, New Zealand,Trinidad and Tobago, United Kingdom, United States (except Louisiana)<br /><br />Civil Law Systems: Argentina, Austria, Belgium, Brazil, Chile, Colombia,France, Germany, Italy, Mexico, Poland, Portugal, Spain, Turkey, Venezuela,Vietnam<br /><br />Mixed Legal Systems: Hong Kong (common law and customary law), India (commonlaw, customary law, and Islamic law), Japan (civil law and customary law),Philippines (common law and civil law), Malaysia (common law, customarylaw, and Islamic law), People’s Republic of China (civil law and customarylaw, except Hong Kong and Macau), Singapore (common law and Islamic law),Taiwan (civil law and customary law)"
-                        ],
+                        "image_w_text_tag": "Three lists of countries organized by legal system.<br /><br />Common Law Systems: Antigua and Barbuda, Australia, Bahamas, Barbados,Bermuda, Canada (except Quebec), Fiji Islands, Ireland, Jamaica, New Zealand,Trinidad and Tobago, United Kingdom, United States (except Louisiana)<br /><br />Civil Law Systems: Argentina, Austria, Belgium, Brazil, Chile, Colombia,France, Germany, Italy, Mexico, Poland, Portugal, Spain, Turkey, Venezuela,Vietnam<br /><br />Mixed Legal Systems: Hong Kong (common law and customary law), India (commonlaw, customary law, and Islamic law), Japan (civil law and customary law),Philippines (common law and civil law), Malaysia (common law, customarylaw, and Islamic law), People’s Republic of China (civil law and customarylaw, except Hong Kong and Macau), Singapore (common law and Islamic law),Taiwan (civil law and customary law)",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -257,7 +252,7 @@ Lesson_Data_File([
                         "heading": "Common Law Systems",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -308,7 +303,7 @@ Lesson_Data_File([
                         "heading": "Civil Law Systems",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -416,7 +411,7 @@ Lesson_Data_File([
                         "heading": "Mixed Legal Systems",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",

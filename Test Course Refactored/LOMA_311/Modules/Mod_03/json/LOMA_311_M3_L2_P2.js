@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Regulation of Product Development"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -79,7 +76,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Identify and explain the provisions that stateinsurance laws require insurers to include in individual life insurancepolicy forms"
                     }
                 ]
             },
@@ -300,7 +297,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Required Policy Provisions</span>",
+                        "List_Heading": "INSIGHT: Required Policy Provisions",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -536,7 +533,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -638,7 +635,7 @@ Lesson_Data_File([
                         "heading": "Policy Form Filing",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -689,9 +686,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "8-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Checklist with icons.<br /><br />A typical policy form filing submission includes:<br /><br />A transmittal (submission) letter; each state specifies the informationthat this letter must include.<br /><br />The required number of copies of the policy form (when sent as hardcopy).<br /><br />A <em>statement of variability</em> to indicate specific information inthe policy form that the insurer might adjust when issuing each policy.<br /><br />Documents that will be issued with the policy form, if applicable, suchas the application for insurance and any endorsements or riders.<br /><br />The policy form’s score on a readability test, if required.<br /><br />Premium rates and an actuarial memorandum, if required, which shows theform’s compliance with applicable state laws and regulations.<br /><br />Any required certification forms, such as a company officer’s certificationthat—based on her best knowledge, information, and belief—the form meetsall of the state’s.<br /><br />Filing fees, which are required by some states and vary in amount by stateand type of form."
-                        ],
+                        "image_w_text_tag": "Checklist with icons.<br /><br />A typical policy form filing submission includes:<br /><br />A transmittal (submission) letter; each state specifies the informationthat this letter must include.<br /><br />The required number of copies of the policy form (when sent as hardcopy).<br /><br />A <em>statement of variability</em> to indicate specific information inthe policy form that the insurer might adjust when issuing each policy.<br /><br />Documents that will be issued with the policy form, if applicable, suchas the application for insurance and any endorsements or riders.<br /><br />The policy form’s score on a readability test, if required.<br /><br />Premium rates and an actuarial memorandum, if required, which shows theform’s compliance with applicable state laws and regulations.<br /><br />Any required certification forms, such as a company officer’s certificationthat—based on her best knowledge, information, and belief—the form meetsall of the state’s.<br /><br />Filing fees, which are required by some states and vary in amount by stateand type of form.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

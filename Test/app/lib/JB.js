@@ -28,7 +28,7 @@
 
     JB_Heading: function() {
         return 	{
-            "Heading": [
+            "Heading_New": [
 				{ "sngl_Heading":"" },
 				{ "alignment":"center" }, 
 				{ "top_margin":"0px" },		
@@ -36,10 +36,9 @@
 				{ "style":"bold" }, 
 				{ "color":"#000000" },  
 				{ "background_color":"#ffffff" }, 
-				{ "border_color":"" }, 
-				{ "border_weight":"" }, 
-				{ "border_style":"" }, 
-				{ "border_radius":"0px" } 
+				{ "top_line_color":"" }, 
+				{ "border_background_color":"" }, 
+				{ "bottom_line_color":"" } 
 		    ]
 	    }
     },

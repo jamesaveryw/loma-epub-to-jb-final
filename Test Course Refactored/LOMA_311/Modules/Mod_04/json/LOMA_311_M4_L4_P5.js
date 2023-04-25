@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Other Grounds for Contesting a Policy"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -79,7 +76,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": "Distinguish among the types of mistakes thatcan affect the validity of a life insurance policy"
+                        "Paragraph_txt": ""
                     }
                 ]
             },
@@ -135,7 +132,7 @@ Lesson_Data_File([
                         "heading": "Defect in the Formation of the Contract",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -171,7 +168,7 @@ Lesson_Data_File([
                         "heading": "Mistake",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -261,7 +258,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h5",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -423,7 +420,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h5",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -543,7 +540,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h5",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -663,9 +660,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "13-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Two-part branching chart.<br /><br />First part: Mistake of law — leads to “No effect on contract validity.”<br /><br />Second part: Mistake of fact — branches into “Unilateral mistake” and“Bilateral mistake.”<br /><br />Unilateral mistake — leads to “Effect depends on the type of mistake andthe circumstances of the case.”<br /><br />Bilateral mistake — branches into “Common mistake” and “Mutual mistake.”<br /><br />Common mistake — leads to “Contract is void when the parties make a commonmistake as to the identity or existence of the subject matter of the contract.”<br /><br />Mutual mistake — leads to “Contract is void if both parties are unawareof the mutual mistake as to the subject matter of the contract and areat cross purposes when entering the contract.”"
-                        ],
+                        "image_w_text_tag": "Two-part branching chart.<br /><br />First part: Mistake of law — leads to “No effect on contract validity.”<br /><br />Second part: Mistake of fact — branches into “Unilateral mistake” and“Bilateral mistake.”<br /><br />Unilateral mistake — leads to “Effect depends on the type of mistake andthe circumstances of the case.”<br /><br />Bilateral mistake — branches into “Common mistake” and “Mutual mistake.”<br /><br />Common mistake — leads to “Contract is void when the parties make a commonmistake as to the identity or existence of the subject matter of the contract.”<br /><br />Mutual mistake — leads to “Contract is void if both parties are unawareof the mutual mistake as to the subject matter of the contract and areat cross purposes when entering the contract.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -734,7 +729,7 @@ Lesson_Data_File([
                         "heading": "Beneficiary Wrongfully Kills the Insured",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",

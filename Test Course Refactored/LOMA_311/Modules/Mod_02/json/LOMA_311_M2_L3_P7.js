@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Negotiable Instruments"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -212,9 +209,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "6-2figure.jpg",
-                        "image_w_text_tag": [
-                            "An illustration of a personal check, labeled “Draft.” Three labels pointto different sections of the check.<br /><br />Label 1, “Payee”, marks the name written on the “Pay to the order of”line.<br /><br />Label 2, “Drawee,” marks the bank’s name printed on the check.<br /><br />Label 3, “Maker”, marks the signature of the checkwriter.<br /><br />Four text boxes follow with examples of negotiable instrument and descriptivetext<br /><br />Box 1, Cashier’s check:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Issued on a financial institution’s own account and backed by the creditworthinessof the institution</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Typically used for large transactions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Payee demands cash equivalent</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Maker does not want to carry a large amount of cash</span><br /><br />Box 2: Money order:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Issued by financial institutions, the U.S. Postal Service, and some retailstores</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Payee can receive the face amount in cash on demand</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Helps consumers with no checking account to avoid the risk of using cash</span><br /><br />Box 3, Traveler’s check:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Consumer signs checks in the presence of a representative of the financialinstitution that issues the checks</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Consumer can exchange for cash at financial institutions throughout theworld or use to purchase goods or services</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Consumer countersigns the check in the presence of the party acceptingthe checks</span><br /><br />Box 4, Certificate of deposit:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An instrument that is a note of a bank</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Contains an acknowledgement by the bank of receipt of a sum of money</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Includes a promise by the bank to repay the sum of money</span>"
-                        ],
+                        "image_w_text_tag": "An illustration of a personal check, labeled “Draft.” Three labels pointto different sections of the check.<br /><br />Label 1, “Payee”, marks the name written on the “Pay to the order of”line.<br /><br />Label 2, “Drawee,” marks the bank’s name printed on the check.<br /><br />Label 3, “Maker”, marks the signature of the checkwriter.<br /><br />Four text boxes follow with examples of negotiable instrument and descriptivetext<br /><br />Box 1, Cashier’s check:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Issued on a financial institution’s own account and backed by the creditworthinessof the institution</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Typically used for large transactions</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Payee demands cash equivalent</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Maker does not want to carry a large amount of cash</span><br /><br />Box 2: Money order:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Issued by financial institutions, the U.S. Postal Service, and some retailstores</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Payee can receive the face amount in cash on demand</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Helps consumers with no checking account to avoid the risk of using cash</span><br /><br />Box 3, Traveler’s check:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Consumer signs checks in the presence of a representative of the financialinstitution that issues the checks</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Consumer can exchange for cash at financial institutions throughout theworld or use to purchase goods or services</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Consumer countersigns the check in the presence of the party acceptingthe checks</span><br /><br />Box 4, Certificate of deposit:<br /><br /><span style=\"text-indent:-1em;margin-left:1em;\"• An instrument that is a note of a bank</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Contains an acknowledgement by the bank of receipt of a sum of money</span><br /><span style=\"text-indent:-1em;margin-left:1em;\"• Includes a promise by the bank to repay the sum of money</span>",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -434,7 +429,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Legal Issues Regarding Negotiable Instruments</span>",
+                        "List_Heading": "INSIGHT: Legal Issues Regarding Negotiable Instruments",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -584,7 +579,7 @@ Lesson_Data_File([
                         "heading": "Indorsements",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -641,7 +636,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -787,7 +782,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -926,7 +921,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1065,7 +1060,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1250,7 +1245,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1399,7 +1394,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1519,7 +1514,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1639,7 +1634,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1884,7 +1879,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -2023,7 +2018,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",

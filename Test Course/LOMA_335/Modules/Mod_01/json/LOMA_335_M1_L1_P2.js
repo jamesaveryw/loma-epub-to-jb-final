@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Insurance Company Operations"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -218,7 +215,7 @@ Lesson_Data_File([
                         "heading": "Stakeholders",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -371,7 +368,7 @@ Lesson_Data_File([
                         "heading": "Operations Management",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -424,7 +421,7 @@ Lesson_Data_File([
             {
                 "image_w_text": [
                     {
-                        "image_name": "../../imgs/loma_335_chapter-1_f.png",
+                        "image_name": "1-2figure.png",
                         "image_w_text_tag": "A drawing of a column illustrates how certain insurance company operationssupport other company operations. A list of primary insurance company operationssits on top of the column and a list of insurance company support operationsare located on the column.<br /><br /><strong>Primary operations</strong> on the top of the column are: (1) productdevelopment &amp; implementation, (2) sales &amp; distribution, (3) underwriting,(4) policy issue &amp; new business, (5) policy administration, (6) customerservice, (7) customer retention, and (8) claims.<br /><br /><strong>Support operations</strong> located on the column are: (1) marketingresearch, (2) information technology, (3) human resources, (4) accounting/auditing,(4) internal control, (5) other general administration.",
                         "border_style": "",
                         "border_height": "",
@@ -551,7 +548,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -864,7 +861,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLES</span>",
+                        "heading": "EXAMPLES",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1073,7 +1070,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLES</span>",
+                        "heading": "EXAMPLES",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1282,7 +1279,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",

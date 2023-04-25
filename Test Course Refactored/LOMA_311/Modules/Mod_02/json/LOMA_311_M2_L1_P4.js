@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "General Requirements for a Contract"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -262,7 +259,7 @@ Lesson_Data_File([
                         "heading": "Mutual Assent",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -322,7 +319,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -655,7 +652,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h5",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -899,9 +896,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-2figure.jpg",
-                        "image_w_text_tag": [
-                            "Label: Bilateral contract.<br /><br />Image of two persons, the Offeror and the Offeree. The Offeror holds aclipboard, and the Offeree holds a folder.<br /><br />Arrow 1 leads from Offeror to Offeree, and is labeled “Offer in the formof a promise.”<br /><br />Arrow 2 leads from Offeree to Offeror, and is labeled “Acceptance in theform of a promise.”"
-                        ],
+                        "image_w_text_tag": "Label: Bilateral contract.<br /><br />Image of two persons, the Offeror and the Offeree. The Offeror holds aclipboard, and the Offeree holds a folder.<br /><br />Arrow 1 leads from Offeror to Offeree, and is labeled “Offer in the formof a promise.”<br /><br />Arrow 2 leads from Offeree to Offeror, and is labeled “Acceptance in theform of a promise.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1021,9 +1016,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Label: Unilateral contract.<br /><br />Image of two persons, the Offeror and the Offeree. The Offeror holds aclipboard, and the Offeree holds a payment of money.<br /><br />Arrow 1 leads from Offeror to Offeree, and is labeled “Offer in the formof a promise.”<br /><br />Arrow 2 leads from Offeree to Offeror, and is labeled “Acceptance by theperformance of an act.”"
-                        ],
+                        "image_w_text_tag": "Label: Unilateral contract.<br /><br />Image of two persons, the Offeror and the Offeree. The Offeror holds aclipboard, and the Offeree holds a payment of money.<br /><br />Arrow 1 leads from Offeror to Offeree, and is labeled “Offer in the formof a promise.”<br /><br />Arrow 2 leads from Offeree to Offeror, and is labeled “Acceptance by theperformance of an act.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -1211,7 +1204,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">EXAMPLE</span>",
+                        "heading": "EXAMPLE",
                         "heading_font_size": "h5",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1521,7 +1514,7 @@ Lesson_Data_File([
                         "heading": "Consideration",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1587,7 +1580,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Promises That Do Not Qualify as Adequate Consideration</span>",
+                        "heading": "INSIGHT: Promises That Do Not Qualify as Adequate Consideration",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",
@@ -1677,7 +1670,7 @@ Lesson_Data_File([
                         "heading": "Contractual Capacity",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -1761,9 +1754,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "4-4figure.jpg",
-                        "image_w_text_tag": [
-                            "A world map, with various countries labeled with the name and age of majority.<br /><br />[[NEEDS EDIT!!]]<table><tbody><tr><td>Argentina</td><td>21</td></tr><tr><td>Brazil</td><td>18</td></tr><tr><td>Canada</td><td>18 or 19, depending on the province</td></tr><tr><td>China</td><td>18</td></tr><tr><td>India</td><td>18</td></tr><tr><td><p>Japan</p></td><td>20</td></tr><tr><td>Malaysia</td><td>18</td></tr><tr><td>Scotland</td><td>16</td></tr><tr><td>Singapore</td><td>21</td></tr><tr><td>South Korea</td><td>19</td></tr><tr><td>Turkey</td><td>18</td></tr></tbody></table>[[NEEDS EDIT!!]]"
-                        ],
+                        "image_w_text_tag": "A world map, with various countries labeled with the name and age of majority.<br /><br />[[NEEDS EDIT!!]]<table><tbody><tr><td>Argentina</td><td>21</td></tr><tr><td>Brazil</td><td>18</td></tr><tr><td>Canada</td><td>18 or 19, depending on the province</td></tr><tr><td>China</td><td>18</td></tr><tr><td>India</td><td>18</td></tr><tr><td><p>Japan</p></td><td>20</td></tr><tr><td>Malaysia</td><td>18</td></tr><tr><td>Scotland</td><td>16</td></tr><tr><td>Singapore</td><td>21</td></tr><tr><td>South Korea</td><td>19</td></tr><tr><td>Turkey</td><td>18</td></tr></tbody></table>[[NEEDS EDIT!!]]",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""

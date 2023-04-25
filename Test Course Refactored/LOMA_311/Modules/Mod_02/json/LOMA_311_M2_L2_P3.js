@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Agent’s Duties to the Principal"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -79,7 +76,7 @@ Lesson_Data_File([
                         "background_image": ""
                     },
                     {
-                        "Paragraph_txt": ""
+                        "Paragraph_txt": "Identify various types of authority an agentmay possess to act on behalf of a principal"
                     }
                 ]
             },
@@ -153,9 +150,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "5-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Text with icons.<br /><br />Duty of loyalty and good faith: An agent must act primarily for the principal’sbenefit.<br /><br />Duty of obedience: An agent must obey the principal’s lawful instructions.<br /><br />Duty of competence: An agent must use reasonable care, skill, and diligencein carrying out the agency duties.<br /><br />Duty of an accounting: An agent must account to the principal for allmoney that comes into the agent’s possession as a result of the agencyrelationship."
-                        ],
+                        "image_w_text_tag": "Text with icons.<br /><br />Duty of loyalty and good faith: An agent must act primarily for the principal’sbenefit.<br /><br />Duty of obedience: An agent must obey the principal’s lawful instructions.<br /><br />Duty of competence: An agent must use reasonable care, skill, and diligencein carrying out the agency duties.<br /><br />Duty of an accounting: An agent must account to the principal for allmoney that comes into the agent’s possession as a result of the agencyrelationship.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -224,7 +219,7 @@ Lesson_Data_File([
                         "heading": "Loyalty and Good Faith",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -263,7 +258,7 @@ Lesson_Data_File([
                         "heading": "Obedience",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -296,7 +291,7 @@ Lesson_Data_File([
                         "heading": "Competence",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -329,7 +324,7 @@ Lesson_Data_File([
                         "heading": "Accounting",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -362,7 +357,7 @@ Lesson_Data_File([
                         "heading": "Principal’s Remedies",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",

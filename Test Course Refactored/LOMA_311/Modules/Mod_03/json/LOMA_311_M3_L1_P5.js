@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Federal Regulation of Insurance Products That Are Securities"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -135,7 +132,7 @@ Lesson_Data_File([
                         "heading": "Insurance Products as Securities",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -402,7 +399,7 @@ Lesson_Data_File([
                         "heading": "Registration Requirements",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -685,9 +682,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "7-3figure.jpg",
-                        "image_w_text_tag": [
-                            "Two buildings, one marked FINRA and one marked SEC. Text boxes betweenthe two.<br /><br />Box 1, arrow leading to SEC: Investment companies must register with theSEC.<br /><br />Box 2, arrows leading to both: Securities brokers and dealers must registerwith the SEC and become members of FINRA.<br /><br />Box 3, arrows leading to both: Individuals associated with a FINRA memberwho engage in the securities business must register with the SEC and FINRAas a registered representative or principal.<br /><br />Box 4, arrow leading to SEC: Every security must be registered with theSEC before it is advertised or offered for sale to the public."
-                        ],
+                        "image_w_text_tag": "Two buildings, one marked FINRA and one marked SEC. Text boxes betweenthe two.<br /><br />Box 1, arrow leading to SEC: Investment companies must register with theSEC.<br /><br />Box 2, arrows leading to both: Securities brokers and dealers must registerwith the SEC and become members of FINRA.<br /><br />Box 3, arrows leading to both: Individuals associated with a FINRA memberwho engage in the securities business must register with the SEC and FINRAas a registered representative or principal.<br /><br />Box 4, arrow leading to SEC: Every security must be registered with theSEC before it is advertised or offered for sale to the public.",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
@@ -878,7 +873,7 @@ Lesson_Data_File([
                         "border_weight": "thin",
                         "border_style": "",
                         "border_radius": "0px",
-                        "heading": "<span style=\"font-size:14px;font-weight:bold\">INSIGHT: Standards for Investment Advice</span>",
+                        "heading": "INSIGHT: Standards for Investment Advice",
                         "heading_font_size": "h4",
                         "heading_alignment": "center",
                         "heading_color": "",

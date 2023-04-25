@@ -14,7 +14,7 @@ Lesson_Data_File([
         },
         "JBuilder_Content": [
             {
-                "Heading": [
+                "Heading_New": [
                     {
                         "sngl_Heading": "Life Insurance Policy Settlement Options"
                     },
@@ -37,16 +37,13 @@ Lesson_Data_File([
                         "background_color": "#ffffff"
                     },
                     {
-                        "border_color": ""
+                        "top_line_color": ""
                     },
                     {
-                        "border_weight": ""
+                        "border_background_color": ""
                     },
                     {
-                        "border_style": ""
-                    },
-                    {
-                        "border_radius": "0px"
+                        "bottom_line_color": ""
                     }
                 ]
             },
@@ -69,7 +66,7 @@ Lesson_Data_File([
                         "heading": "Learning Objective",
                         "heading_font_size": "h3",
                         "heading_alignment": "center",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_weight": "bold",
                         "heading_style": "normal",
                         "heading_variant": "normal",
@@ -153,9 +150,7 @@ Lesson_Data_File([
                 "image_w_text": [
                     {
                         "image_name": "12-1figure.jpg",
-                        "image_w_text_tag": [
-                            "Text descriptions of options, accompanied by images of people thinkingabout what they want or need.<br /><br />First box: Interest option.<br /><br />Text: Proceeds are temporarily left on deposit with the insurer; interestearned is paid out annually, semiannually, quarterly, or monthly.<br /><br />Person’s thoughts: “I don’t need the money immediately. Can I put theproceeds to work building more money for me?”<br /><br />Second box: Fixed period option.<br /><br />Text: Insurer pays proceeds and interest in a series of annual or morefrequent installments for a preselected period.<br /><br />Person’s thoughts: “I’d like regular payments over the next ten yearsinstead of a lump sum.”<br /><br />Third box: Fixed amount option.<br /><br />Text: Insurer uses proceeds and interest to pay a preselected sum in aseries of annual or more frequent installments for as long as the proceedsand interest last.<br /><br />Person’s thoughts: “I need $1,000 a month. Give me that for as long asit lasts.”<br /><br />Fourth box: Life income option.<br /><br />Text: Insurer uses proceeds and interest to pay a series of annual ormore frequent installments over the entire lifetime of the person designatedto receive the policy benefits.<br /><br />Person’s thoughts: “I want regular payments to supplement my income foras long as I live.”"
-                        ],
+                        "image_w_text_tag": "Text descriptions of options, accompanied by images of people thinkingabout what they want or need.<br /><br />First box: Interest option.<br /><br />Text: Proceeds are temporarily left on deposit with the insurer; interestearned is paid out annually, semiannually, quarterly, or monthly.<br /><br />Person’s thoughts: “I don’t need the money immediately. Can I put theproceeds to work building more money for me?”<br /><br />Second box: Fixed period option.<br /><br />Text: Insurer pays proceeds and interest in a series of annual or morefrequent installments for a preselected period.<br /><br />Person’s thoughts: “I’d like regular payments over the next ten yearsinstead of a lump sum.”<br /><br />Third box: Fixed amount option.<br /><br />Text: Insurer uses proceeds and interest to pay a preselected sum in aseries of annual or more frequent installments for as long as the proceedsand interest last.<br /><br />Person’s thoughts: “I need $1,000 a month. Give me that for as long asit lasts.”<br /><br />Fourth box: Life income option.<br /><br />Text: Insurer uses proceeds and interest to pay a series of annual ormore frequent installments over the entire lifetime of the person designatedto receive the policy benefits.<br /><br />Person’s thoughts: “I want regular payments to supplement my income foras long as I live.”",
                         "border_style": "",
                         "border_height": "",
                         "border_color": ""
