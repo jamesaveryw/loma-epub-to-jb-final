@@ -66,6 +66,8 @@ LOMA_361_M2_L6:
 LOMA_361_M2_L7:
 	Lesson has 3 learning objectives, but 1 pages. Need to add relevant LOs to the beginning of each page.
 
+	LOMA_361_M2_L7_P1 has a matching question that needs to be revised. Look for "[[Matching q-type. NEEDS EDIT.]]" in LOMA_361_M2_L7_P1.js. Refer to Introduction in chapter 11 of the EPUB to see the question.
+
 	LOMA_361_M2_L7_P2 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the equation.
 
 	LOMA_361_M2_L7_P2 has a figure (Figure 11.1) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M2_L7_P2.js. Refer to Financial Ratio Analysis in chapter 11 of the EPUB to see the figure description.
@@ -127,6 +129,8 @@ LOMA_361_M3_L2:
 	LOMA_361_M3_L2_P3 has an equation formatted in a table. Look for "[[Equation Table. NEEDS EDIT!]]" in LOMA_361_M3_L2_P3.js. Refer to Cost Classification in chapter 13 of the EPUB to see the equation.
 
 	LOMA_361_M3_L2_P3 has a video (Video 13.1) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L2_P3.js. Refer to Cost Classification in chapter 13 of the EPUB to see the transcript.
+
+	LOMA_361_M3_L2_P3 has a matching question that needs to be revised. Look for "[[Matching q-type. NEEDS EDIT.]]" in LOMA_361_M3_L2_P3.js. Refer to Cost Classification in chapter 13 of the EPUB to see the question.
 
 	LOMA_361_M3_L2_P4 has a figure (Figure 13.4) with a complex image description that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_361_M3_L2_P4.js. Refer to Cost Accumulation in chapter 13 of the EPUB to see the figure description.
 

@@ -10,6 +10,8 @@ LOMA_311_M1_L2:
 
 
 LOMA_311_M1_L3:
+	LOMA_311_M1_L3_P4 has a matching question that needs to be revised. Look for "[[Matching q-type. NEEDS EDIT.]]" in LOMA_311_M1_L3_P4.js. Refer to Characteristics of International Business Organizations in chapter 3 of the EPUB to see the question.
+
 	LOMA_311_M1_L3_P10 has a video (Video 3.2) with a complex transcript that needs to be edited. Look for "[[NEEDS EDIT!]]" in LOMA_311_M1_L3_P10.js. Refer to Employment Regulation in chapter 3 of the EPUB to see the transcript.
 
 
@@ -29,6 +31,8 @@ LOMA_311_M2_L3:
 
 LOMA_311_M3_L1:
 	Lesson has 7 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
+
+	LOMA_311_M3_L1_P4 has a matching question that needs to be revised. Look for "[[Matching q-type. NEEDS EDIT.]]" in LOMA_311_M3_L1_P4.js. Refer to Federal Regulation of Insurance in chapter 7 of the EPUB to see the question.
 
 
 LOMA_311_M3_L2:

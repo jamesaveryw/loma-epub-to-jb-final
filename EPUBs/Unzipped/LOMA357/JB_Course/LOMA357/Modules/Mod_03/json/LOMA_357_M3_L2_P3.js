@@ -911,7 +911,7 @@ Lesson_Data_File([
                         "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
-                        "question": "Match each security selection strategy to the correct description. For each description, type the correct number choice in the blank.",
+                        "question": "[[Matching q-type. NEEDS EDIT.]]Match each security selection strategy to the correct description. For each description, type the correct number choice in the blank.",
                         "question_image": "",
                         "question_image_placement": "none",
                         "question_image_alt_tag": ""

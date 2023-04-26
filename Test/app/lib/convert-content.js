@@ -1159,6 +1159,7 @@ function buildQuestion(question, answerKey) {
 	let qType = question.getAttribute("data-qtype");
 	switch (qType) {
 		case "blank":
+		case "dd":
 			// console.log("Matching question type not supported in JB");
 			// Add to manual edits log
 			JB_Question.Question_Comp[0].question += '[[Matching q-type. NEEDS EDIT.]]';

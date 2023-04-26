@@ -665,7 +665,7 @@ Lesson_Data_File([
                         "top_margin": "30px",
                         "image": "Lets Review.jpg",
                         "image_alt_text": "",
-                        "question": "Match each derivative type to the correct description of the rights the derivatives contract grants. For each description, type the correct number choice in the blank.",
+                        "question": "[[Matching q-type. NEEDS EDIT.]]Match each derivative type to the correct description of the rights the derivatives contract grants. For each description, type the correct number choice in the blank.",
                         "question_image": "",
                         "question_image_placement": "none",
                         "question_image_alt_tag": ""

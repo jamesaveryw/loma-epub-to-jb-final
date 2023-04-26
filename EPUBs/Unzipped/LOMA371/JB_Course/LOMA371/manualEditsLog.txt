@@ -12,6 +12,10 @@ LOMA_371_M1_L2:
 LOMA_371_M1_L3:
 	Lesson has 8 learning objectives, but 6 pages. Need to add relevant LOs to the beginning of each page.
 
+	LOMA_371_M1_L3_P3 has a matching question that needs to be revised. Look for "[[Matching q-type. NEEDS EDIT.]]" in LOMA_371_M1_L3_P3.js. Refer to Traditional Risk Management in Life Insurance Companies in chapter 3 of the EPUB to see the question.
+
+	LOMA_371_M1_L3_P4 has a matching question that needs to be revised. Look for "[[Matching q-type. NEEDS EDIT.]]" in LOMA_371_M1_L3_P4.js. Refer to Enterprise Risk Management in chapter 3 of the EPUB to see the question.
+
 
 LOMA_371_M1_L4:
 	Lesson has 9 learning objectives, but 5 pages. Need to add relevant LOs to the beginning of each page.
