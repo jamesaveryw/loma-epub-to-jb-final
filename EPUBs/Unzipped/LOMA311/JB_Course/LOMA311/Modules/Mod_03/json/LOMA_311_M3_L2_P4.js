@@ -340,7 +340,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Unfair Trade Practices",
+                        "List_Heading": "<strong>Unfair Trade Practices</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -778,7 +778,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Replacements",
+                        "List_Heading": "<strong>Replacements</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -894,7 +894,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Sales to Seniors",
+                        "List_Heading": "<strong>Sales to Seniors</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

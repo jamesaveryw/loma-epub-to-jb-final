@@ -125,13 +125,13 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Roles of Investment Professionals",
+                        "List_Heading": "<strong>Roles of Investment Professionals</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_size": "h3",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
@@ -459,13 +459,13 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Organization of the Investment Function",
+                        "List_Heading": "<strong>Organization of the Investment Function</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_size": "h3",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
@@ -1677,7 +1677,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Types of Systems and Databases",
+                        "List_Heading": "<strong>Types of Systems and Databases</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -2138,7 +2138,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "EXAMPLE",
+                        "List_Heading": "<strong>EXAMPLE</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -2320,7 +2320,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "INSIGHT: Cybersecurity Practices for Financial Services Companies",
+                        "List_Heading": "<strong>INSIGHT: Cybersecurity Practices for Financial Services Companies</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

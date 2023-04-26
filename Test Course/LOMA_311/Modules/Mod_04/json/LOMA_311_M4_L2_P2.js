@@ -799,7 +799,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Changing the Beneficiary",
+                        "List_Heading": "<strong>Changing the Beneficiary</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1373,7 +1373,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Designation of the Policyowner’s Estate",
+                        "List_Heading": "<strong>Designation of the Policyowner’s Estate</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1804,7 +1804,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Premium Payment Methods",
+                        "List_Heading": "<strong>Premium Payment Methods</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1986,7 +1986,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Premium Notices",
+                        "List_Heading": "<strong>Premium Notices</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -2739,13 +2739,13 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Accelerated Death Benefits",
+                        "List_Heading": "<strong>Accelerated Death Benefits</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_size": "h3",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
@@ -3067,7 +3067,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Reinstatement Requirements",
+                        "List_Heading": "<strong>Reinstatement Requirements</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

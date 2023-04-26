@@ -337,7 +337,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Types of Variances",
+                        "List_Heading": "<strong>Types of Variances</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1540,13 +1540,13 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Problems with Performance Evaluation Criteria",
+                        "List_Heading": "<strong>Problems with Performance Evaluation Criteria</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_size": "h3",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
@@ -2286,7 +2286,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Arbitrary Revenue Allocation",
+                        "List_Heading": "<strong>Arbitrary Revenue Allocation</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

@@ -381,7 +381,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "INSIGHT: Credit Life Insurance in the United States",
+                        "List_Heading": "<strong>INSIGHT: Credit Life Insurance in the United States</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -890,7 +890,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Required Group Contract Provisions",
+                        "List_Heading": "<strong>Required Group Contract Provisions</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -958,13 +958,13 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Plan Enrollment",
+                        "List_Heading": "<strong>Plan Enrollment</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_size": "h3",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
@@ -1285,13 +1285,13 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Rights of the Insured",
+                        "List_Heading": "<strong>Rights of the Insured</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_size": "h3",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
@@ -1452,7 +1452,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Termination of an Insured’s Coverage While the Group Contract Remains in Force",
+                        "List_Heading": "<strong>Termination of an Insured’s Coverage While the Group Contract Remains in Force</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

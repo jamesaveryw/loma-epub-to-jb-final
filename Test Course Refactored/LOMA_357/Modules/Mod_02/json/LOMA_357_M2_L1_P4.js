@@ -420,7 +420,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "INSIGHT: Sample General Account Investment Policy Statement",
+                        "List_Heading": "<strong>INSIGHT: Sample General Account Investment Policy Statement</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -671,7 +671,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "EXAMPLE",
+                        "List_Heading": "<strong>EXAMPLE</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -790,7 +790,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Risk Appetite and Risk Tolerance",
+                        "List_Heading": "<strong>Risk Appetite and Risk Tolerance</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1285,7 +1285,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "EXAMPLE",
+                        "List_Heading": "<strong>EXAMPLE</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1473,7 +1473,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "EXAMPLE",
+                        "List_Heading": "<strong>EXAMPLE</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

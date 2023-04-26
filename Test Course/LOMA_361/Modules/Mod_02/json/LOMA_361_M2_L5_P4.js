@@ -209,7 +209,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Net Income or Net Loss",
+                        "List_Heading": "<strong>Net Income or Net Loss</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -301,7 +301,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Increases or Decreases in Admitted Assets",
+                        "List_Heading": "<strong>Increases or Decreases in Admitted Assets</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -616,7 +616,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Reserve Destrengthening and Reserve Strengthening",
+                        "List_Heading": "<strong>Reserve Destrengthening and Reserve Strengthening</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1317,7 +1317,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Changing Corporate Form",
+                        "List_Heading": "<strong>Changing Corporate Form</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

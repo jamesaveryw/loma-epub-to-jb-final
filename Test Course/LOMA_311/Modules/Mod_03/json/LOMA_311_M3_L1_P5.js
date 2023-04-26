@@ -155,13 +155,13 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Regulatory Oversight of Securities",
+                        "List_Heading": "<strong>Regulatory Oversight of Securities</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_size": "h3",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",
@@ -416,7 +416,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Investment Companies",
+                        "List_Heading": "<strong>Investment Companies</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -511,7 +511,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Individuals and Firms That Market Securities",
+                        "List_Heading": "<strong>Individuals and Firms That Market Securities</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -735,13 +735,13 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Regulation of the Sale of Securities",
+                        "List_Heading": "<strong>Regulation of the Sale of Securities</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
                         "heading_underline_color": "",
                         "heading_underline_height": "0px",
-                        "heading_color": "",
+                        "heading_color": "#015d52",
                         "heading_size": "h3",
                         "paragraph_alignment": "left",
                         "paragraph_text_size": "jb1",

@@ -149,7 +149,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Credit Risk",
+                        "List_Heading": "<strong>Credit Risk</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1699,7 +1699,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Policyholder Behavior Risk",
+                        "List_Heading": "<strong>Policyholder Behavior Risk</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

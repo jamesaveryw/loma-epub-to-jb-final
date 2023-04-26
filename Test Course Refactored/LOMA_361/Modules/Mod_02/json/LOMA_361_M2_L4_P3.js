@@ -188,7 +188,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Policyowner Dividends Payable in the Following Calendar Year",
+                        "List_Heading": "<strong>Policyowner Dividends Payable in the Following Calendar Year</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

@@ -434,7 +434,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "INSIGHT: Analysis of Operational Risk",
+                        "List_Heading": "<strong>INSIGHT: Analysis of Operational Risk</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

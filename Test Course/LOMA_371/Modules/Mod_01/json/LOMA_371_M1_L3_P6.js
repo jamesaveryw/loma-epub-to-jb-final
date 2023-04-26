@@ -211,7 +211,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Outsourcing Certain Functions",
+                        "List_Heading": "<strong>Outsourcing Certain Functions</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -344,7 +344,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Benchmarking",
+                        "List_Heading": "<strong>Benchmarking</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

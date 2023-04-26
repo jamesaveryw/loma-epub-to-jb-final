@@ -149,7 +149,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Disclosed, Partially Disclosed, and Undisclosed Principal",
+                        "List_Heading": "<strong>Disclosed, Partially Disclosed, and Undisclosed Principal</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -244,7 +244,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Actual and Apparent Authority",
+                        "List_Heading": "<strong>Actual and Apparent Authority</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -695,7 +695,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "INSIGHT: Vicarious Liability",
+                        "List_Heading": "<strong>INSIGHT: Vicarious Liability</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

@@ -152,7 +152,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "The Securities Act of 1933",
+                        "List_Heading": "<strong>The Securities Act of 1933</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -211,7 +211,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "The Securities Exchange Act of 1934",
+                        "List_Heading": "<strong>The Securities Exchange Act of 1934</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -494,7 +494,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "The Investment Company Act of 1940",
+                        "List_Heading": "<strong>The Investment Company Act of 1940</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -1207,7 +1207,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Securities and Exchange Commission (SEC)",
+                        "List_Heading": "<strong>Securities and Exchange Commission (SEC)</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

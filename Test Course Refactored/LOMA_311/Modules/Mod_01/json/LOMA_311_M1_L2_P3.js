@@ -257,7 +257,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Elements of a Cause of Action",
+                        "List_Heading": "<strong>Elements of a Cause of Action</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
