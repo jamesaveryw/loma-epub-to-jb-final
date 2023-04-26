@@ -248,7 +248,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "SAP Deposit-Type Contracts",
+                        "List_Heading": "<strong>SAP Deposit-Type Contracts</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -349,7 +349,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "GAAP Investment Contracts",
+                        "List_Heading": "<strong>GAAP Investment Contracts</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

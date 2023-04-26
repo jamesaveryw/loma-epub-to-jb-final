@@ -409,7 +409,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "ERISA Plan Documentation",
+                        "List_Heading": "<strong>ERISA Plan Documentation</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -594,7 +594,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "ERISA Plan Administration",
+                        "List_Heading": "<strong>ERISA Plan Administration</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -659,7 +659,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "ERISA Plan Fiduciaries",
+                        "List_Heading": "<strong>ERISA Plan Fiduciaries</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

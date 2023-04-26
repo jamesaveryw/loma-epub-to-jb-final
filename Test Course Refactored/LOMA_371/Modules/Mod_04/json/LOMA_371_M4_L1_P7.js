@@ -155,7 +155,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Types of Universal Life Insurance",
+                        "List_Heading": "<strong>Types of Universal Life Insurance</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -256,7 +256,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Deductions from Universal Life Policy Components",
+                        "List_Heading": "<strong>Deductions from Universal Life Policy Components</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
@@ -2128,7 +2128,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Calculating the Monthly Mortality Charge",
+                        "List_Heading": "<strong>Calculating the Monthly Mortality Charge</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",

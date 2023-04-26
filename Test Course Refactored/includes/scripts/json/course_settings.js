@@ -7,9 +7,9 @@ var course_settings = {
 		//COURSE_TYPE = hioc || hybrid || pdf || shortcourseA || demo-hioc || demo-hybrid || demo-pdf || demo-shortcourseA || immersion || more???
 		Course_Type: "demo-hioc",
 
-		Course_Number: "335", //"NY Reg 187",//
-		Course_Folder: "LOMA_335", //LOMA_302, NY_Reg_187
-		Course_Name: "LOMA 335", //"NY Reg 187",//"LOMA 361", // PLEASE KEEP THIS SAME FORMAT --> "LOMA 361", "SRI 111", etc !!!!
+		Course_Number: "357", //"NY Reg 187",//
+		Course_Folder: "LOMA_357", //LOMA_302, NY_Reg_187
+		Course_Name: "LOMA 357", //"NY Reg 187",//"LOMA 361", // PLEASE KEEP THIS SAME FORMAT --> "LOMA 361", "SRI 111", etc !!!!
 
 		// Requirements for entering the course
 		showTerms: true,
@@ -30,19 +30,19 @@ var course_settings = {
 		course_locale: "en-US", // en-US || zh-CN (Simplified) || zh-TW (Traditional) || fr-CA
 
 		LM_Logo: "LOMA_logo_Tagline_Reverse.png", // loma_blue.png, sri_logo_rev.png, or LLG.png
-		Course_Title: "Operational Excellence for Insurance Professionals",
+		Course_Title: "b",
 
 		//HYBRID
 		About: {
-			Infographic: "LOMA_335_InfoGraphic.jpg",
+			Infographic: "357-InfoGraphic.png",
 			Alt_Text: "An infographic describing course content by chapters using bulleted items"
 		},
 
-		Hero_Image: "ACS_101_hero.png",
+		Hero_Image: "LOMA357_Portal_1367394132.jpg",
 
 		Welcome_text: {
 			Intro_Copy: [
-				"The insurance industry is in the midst of fundamental changes in technology, products and markets, and customer expectations. <i>LOMA 335—Operational Excellence for Insurance Professionals</i> presents the business conditions and risks unique to the life insurance industry and helps you understand how to maximize value from company operations.",
+				"<em>LOMA 357&mdash;Institutional Investing: Principles and Practices</em>&mdash;introduces students to basic investment principles and the \"why\" and \"how\" of institutional investing. Students will learn about institutional investment objectives and explore the institutional investment process. In addition, students will gain an understanding of how a life insurer’s investment function manages investments to support the company’s products and solvency.",
 
 				'<span style="color: #CC0000;font-weight: bold;font-style:italic;">Warning:</span> If you open the course on more than one device at a time, you risk losing your progress. Make sure to Exit the course using the Exit icon <img src="includes/images/glyphicons-389-exit.png" alt=""> or the course menu in the course portal after each session.'
 			]
@@ -72,11 +72,11 @@ var course_settings = {
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 1 )>-------		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "People and Purpos",
+			Title: "The Basics of Investing",
 
 			Image: "",
 
-			Paragraph: "<b>Learn the fundamentals for managing insurance company operations. Module 1</b> introduces you to insurance company stakeholders, the four functions of management, as well as strategies for creating a strategically aligned organization in a changing operating environment. You’ll also learn about leading and motivating people individually, as well as in groups.",
+			Paragraph: "<b>Learn the fundamental investment concepts.</b> Module 1 introduces you to the basic investment concepts, basic and advanced investment vehicles, the roles for participants in capital markets, and all you need to know about investment returns and various investment-related risks.",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
@@ -95,6 +95,8 @@ var course_settings = {
 			// If Hybrid/PDF, the number of these should match 
 			// the number of Chapters in the module.
 			lesson_paragraph: [
+				{ MLP_text: "" },
+
 				{ MLP_text: "" },
 
 				{ MLP_text: "" },
@@ -105,13 +107,13 @@ var course_settings = {
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 2 )>-------				//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "Business Processes",
+			Title: "Planning in Institutional Investing",
 
 			Image: "ACS101_M2.png",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
-			Paragraph: "<b>Discover tools and techniques for improving insurance operations management. In Module 2,</b> you’ll learn process and project management techniques and see how they are applied in fictional insurance companies. You’ll also learn approaches for measuring and managing quality in insurance company operations.",
+			Paragraph: "<b>Explore how institutional investors plan their investing practices.</b> Module 2 explains the goals of institutional investing and describes how investors create investment policy statements. In addition, the module describes investment objectives and investment constraints for insurance companies. Finally, you’ll learn how insurance companies use enterprise risk management (ERM) and asset-liability management (ALM) to analyze and address investment-related risks.",
 
 			List: [
 				{ List_info: "" },
@@ -128,8 +130,6 @@ var course_settings = {
 			// If Hybrid/PDF, the number of these should match 
 			// the number of Chapters in the module.
 			lesson_paragraph: [
-				{ MLP_text: "" },
-
 				{ MLP_text: "" },
 
 				{ MLP_text: "" }
@@ -138,11 +138,11 @@ var course_settings = {
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 3 )>-------			//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "Decision Making",
+			Title: "The Institutional Investing Process",
 
 			Image: "",
 
-			Paragraph: "<b>Find out about effective decision making in insurance company operations. Module 3</b> presents the steps in the decision-making process, types of data needed for decision making, as well as data analysis and modeling concepts. Plus, you’ll learn about innovation and ways to spur innovative thinking during the decision-making process.",
+			Paragraph: "<<b>Walk through the institutional investing process.</b> Module 3 describes how institutional investors analyze asset classes, determine a portfolio’s asset allocation, and evaluate securities and funds. In addition, you’ll learn how institutional investors manage specific risks in their portfolios and the operational controls they employ. Finally, you’ll learn why investment professionals monitor their portfolios and how they measure and report on the portfolio’s performance.",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
@@ -159,8 +159,6 @@ var course_settings = {
 			// If Hybrid/PDF, the number of these should match 
 			// the number of Chapters in the module.
 			lesson_paragraph: [
-				{ MLP_text: "" },
-
 				{ MLP_text: "" },
 
 				{ MLP_text: "" },
@@ -171,17 +169,15 @@ var course_settings = {
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 4 )>-------			//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "Sale and Performance of Products",
+			Title: "Regulations and Controls",
 
 			Image: "",
 
-			Paragraph: "<b>Explore the legal process of selling and performing life insurance and annuity contracts. Module 4</b> describes the sale and ownership of life insurance and annuity products, the rights available to a policyowner or contract holder, and provisions available to product owners. In addition, we explore the rights inherent to a contract, and how those rights can transfer to a third party. Finally, you’ll learn about contested life insurance policies, the remedies available to the parties to a life insurance policy, and the process of performing life insurance and annuity contracts.",
+			Paragraph: "<b>Learn about the regulation of the insurance business and how financial services companies uphold ethical standards related to their investment activities.</b> Module 4 describes important securities regulations, entities involved in securities and insurance regulation, and the primary focus of insurance regulators around the world. In addition, the module explores ethical considerations for investment professionals and the role the audit function plays in insurance company compliance.",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
 			List: [
-				{ List_info: "" },
-				{ List_info: "" },
 				{ List_info: "" },
 				{ List_info: "" }
 			],

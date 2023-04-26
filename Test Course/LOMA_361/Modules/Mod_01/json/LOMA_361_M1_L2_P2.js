@@ -574,7 +574,7 @@ Lesson_Data_File([
             {
                 "List_text_paragraph": [
                     {
-                        "List_Heading": "Assets: What Does the Company Own?",
+                        "List_Heading": "<strong>Assets: What Does the Company Own?</strong>",
                         "heading_alignment": "center",
                         "heading_style": "bold",
                         "heading_underline": "",
