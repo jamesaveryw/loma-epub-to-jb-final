@@ -2,348 +2,408 @@ var glossary_settings = {
     "glossary_setup": [
         {
             "sort": "A",
-            "term": "ABS",
-            "definition": "See asset-backed security. "
+            "term": "ABB",
+            "definition": "See activity-based budgeting. "
         },
         {
             "sort": "A",
-            "term": "absolute return fund",
-            "definition": "A type of investment fund that seeks to achieve positive returns in all market conditions by investing in a variety of asset classes—including alternative investments and derivatives—and employing alternative investment management techniques. "
+            "term": "ABC",
+            "definition": "See activity-based costing. "
         },
         {
             "sort": "A",
-            "term": "active management strategy ",
-            "definition": "In fund investing, a fund management strategy that attempts to outperform the average market return earned by fund peers. "
+            "term": "account",
+            "definition": "The basic tool that a company uses to record, group, and summarize similar types of business transactions. "
         },
         {
             "sort": "A",
-            "term": "actuary ",
-            "definition": "An expert in financial risk management and the mathematics and modeling of insurance and annuity products, as well as other financial instruments. "
+            "term": "accounting",
+            "definition": "A system or set of rules and methods for collecting, processing, reporting, and monitoring financial information about a company. "
+        },
+        {
+            "sort": "A",
+            "term": "accounting controls",
+            "definition": "The policies and procedures used to authorize financial transactions, safeguard assets, and provide reliable, timely, and fairly presented financial information about a company. "
+        },
+        {
+            "sort": "A",
+            "term": "accounting entry",
+            "definition": "A record of a business transaction that includes at least one debit and one credit and shows the monetary value of the transaction in balance. "
+        },
+        {
+            "sort": "A",
+            "term": "accounting period",
+            "definition": "A specified length of time during which a company records, summarizes, and reports its financial transactions. "
+        },
+        {
+            "sort": "A",
+            "term": "accrual-basis accounting",
+            "definition": "An accounting system under which a company records revenues when they are earned and expenses when they are incurred, even if the company has not yet received the revenues or paid the expenses. "
+        },
+        {
+            "sort": "A",
+            "term": "accrued income",
+            "definition": "Income that the insurer has already earned but that is receivable after the end of the accounting period. "
+        },
+        {
+            "sort": "A",
+            "term": "accumulated depreciation",
+            "definition": "The total amount of depreciation allocated to an asset as of a specified date. "
+        },
+        {
+            "sort": "A",
+            "term": "acquisition expenses",
+            "definition": "The category of operating expenses that includes the costs for obtaining and issuing new business. "
+        },
+        {
+            "sort": "A",
+            "term": "activity",
+            "definition": "Any procedure that generates work and that incurs a cost. "
+        },
+        {
+            "sort": "A",
+            "term": "activity-based budgeting",
+            "definition": "A method for developing a budget that begins with the premise that costs are linked to products or services based on the activities performed in producing the products or services. "
+        },
+        {
+            "sort": "A",
+            "term": "activity-based costing",
+            "definition": "The process of linking costs to products or services based on the activities performed in producing the products or services. "
+        },
+        {
+            "sort": "A",
+            "term": "activity cost",
+            "definition": "The cost attributable to a specified activity. "
+        },
+        {
+            "sort": "A",
+            "term": "activity driver",
+            "definition": "The output of an activity being performed; the purpose that propels the activity. "
+        },
+        {
+            "sort": "A",
+            "term": "actuarial assumptions",
+            "definition": "The assumed values used in a life insurance or an annuity product design. "
+        },
+        {
+            "sort": "A",
+            "term": "actuary",
+            "definition": "An expert in financial risk management and the mathematics and modeling of insurance, annuities, and financial instruments. "
+        },
+        {
+            "sort": "A",
+            "term": "adjusting entry",
+            "definition": "An accounting entry that a company makes to record accruals for revenues and expenses, unearned revenues, and prepaid expenses. "
+        },
+        {
+            "sort": "A",
+            "term": "administrative controls",
+            "definition": "The policies and procedures that guide employees in conducting their normal day-to-day tasks. "
         },
         {
             "sort": "A",
             "term": "admitted asset",
-            "definition": "A type of asset in which the asset’s full value can be reported on the Assets page of an insurance company’s Annual Statement. "
+            "definition": "An asset whose full value is reported on the Assets page of the Annual Statement. "
         },
         {
             "sort": "A",
-            "term": "agency MBS",
-            "definition": "A security based on portfolios of residential mortgages that meet the guidelines as to credit quality, underwriting standards, and other risk factors set by one of several U.S. government agencies. Also known as an agency mortgage-backed security. "
+            "term": "adverse opinion",
+            "definition": "A type of modified auditor’s opinion that states that the financial statements do not fairly present the insurer’s financial condition. "
         },
         {
             "sort": "A",
-            "term": "AI",
-            "definition": "See artificial intelligence. "
+            "term": "aggregate reserves",
+            "definition": "Reserves for a block of insurance policies or contracts, a line of business, or an entire company. "
         },
         {
             "sort": "A",
-            "term": "ALM",
-            "definition": "See asset-liability management. "
+            "term": "AICPA",
+            "definition": "See American Institute of Certified Public Accountants. "
         },
         {
             "sort": "A",
-            "term": "alpha ",
-            "definition": "A measure of the difference between an investment portfolio’s actual returns and its expected returns. "
+            "term": "allocation base",
+            "definition": "A measure of use that exhibits a logical relationship between indirect costs and cost centers. "
         },
         {
             "sort": "A",
-            "term": "alternative investment",
-            "definition": "Any investment that is not considered a traditional investment; most institutional investors consider hedge funds and private equity funds to be the primary types of alternative investments. "
+            "term": "American Institute of Certified Public Accountants",
+            "definition": "A professional association of Certified Public Accountants (CPAs) in the United States. "
         },
         {
             "sort": "A",
-            "term": "amortization",
-            "definition": "The reduction of a debt by regular payments of principal and interest that result in full payment of the debt by the maturity date. "
+            "term": "amortized cost",
+            "definition": "An asset’s book value after its cost has been adjusted for applicable amortization. "
         },
         {
             "sort": "A",
-            "term": "amortizing loan",
-            "definition": "A type of loan for which each repayment reflects both principal and interest. "
+            "term": "Annual Financial Reporting Model Regulation",
+            "definition": "Developed by the National Association of Insurance Commissioners (NAIC) to improve the ability of state regulators to oversee the financial condition of insurance companies, it has three requirements: (1) an annual audit of an insurer’s financial statements by an independent certified public accountant (CPA); (2) the filing of a report called Communication of Internal Control Related to Matters Noted in the Audit; and (3) the filing of a report called Management’s Report of Internal Control over Financial Reporting. "
         },
         {
             "sort": "A",
-            "term": "annualized return",
-            "definition": "A rate of return calculation that expresses a return for a period longer than a year as a rate of return for one whole year. Also known as a yearly rate of return or an annual rate of return. "
+            "term": "Annual Report",
+            "definition": "In the United States, a document that a company’s management sends to interested parties to explain the company’s financial performance during the past year. "
         },
         {
             "sort": "A",
             "term": "Annual Statement",
-            "definition": "A document that presents information about an insurer’s operations and financial performance, with an emphasis on demonstrating the insurer’s solvency. "
+            "definition": "A financial report that every insurer in the United States must file annually with the National Association of Insurance Commissioners (NAIC) and the insurance regulatory organization in each state in which the insurer conducts business. "
         },
         {
             "sort": "A",
-            "term": "appraisal ",
-            "definition": "An estimate of a property’s value as of a given date. "
+            "term": "assets",
+            "definition": "The items of value owned by a company. "
         },
         {
             "sort": "A",
-            "term": "arithmetic mean annual return ",
-            "definition": "The average return—usually expressed as a percentage rate of return—of a series of annual investment returns during a multiyear holding period. "
+            "term": "asset valuation reserve",
+            "definition": "For life insurance companies in the United States, a reserve that minimizes the effects of both realized and unrealized gains and losses on an insurer’s invested assets when those gains and losses are related to the credit quality of the assets—a risk known as credit risk—or fluctuations in the prices of securities—a risk known as equity risk. "
         },
         {
             "sort": "A",
-            "term": "artificial intelligence",
-            "definition": "Intelligent machines that develop to work, \"learn,\" and react like humans. "
+            "term": "associating cause and effect",
+            "definition": "Under GAAP, an expense recognition concept that states that expenses that have a direct relationship to specified future revenues are charged to future accounting periods instead of being charged to the current accounting period. "
         },
         {
             "sort": "A",
-            "term": "asset",
-            "definition": "An item of value that an entity owns. "
-        },
-        {
-            "sort": "A",
-            "term": "asset adequacy analysis",
-            "definition": "In asset-liability management, a type of analysis which determines whether the company’s assets are sufficient to support certain reserves and other liabilities. "
-        },
-        {
-            "sort": "A",
-            "term": "asset allocation",
-            "definition": "In investing, the percentage distribution of all portfolio holdings across a specified array of asset classes, such as various subcategories of stocks and bonds. Also known as the asset mix. "
-        },
-        {
-            "sort": "A",
-            "term": "asset allocation criteria",
-            "definition": "Rules stating limits on the portion of an investment portfolio that may be invested in a stated category. Also known as diversification criteria or limitations on asset concentrations. "
-        },
-        {
-            "sort": "A",
-            "term": "asset-backed security",
-            "definition": "A structured security backed by debt instruments other than real estate mortgages. "
-        },
-        {
-            "sort": "A",
-            "term": "asset bubble",
-            "definition": "A phenomenon in which the market values of an entire asset class rise rapidly, so that prices of assets in the class come to greatly exceed their estimated values. Also known as a speculative bubble or price bubble. "
-        },
-        {
-            "sort": "A",
-            "term": "asset class ",
-            "definition": "A group of similar investment vehicles linked by related risk and return features. "
-        },
-        {
-            "sort": "A",
-            "term": "asset-class correlation matrix",
-            "definition": "a table showing the correlation coefficients for all potential pairs of asset classes. "
-        },
-        {
-            "sort": "A",
-            "term": "asset concentration risk",
-            "definition": "The risk that results when investments in a portfolio are concentrated excessively in any single category. "
-        },
-        {
-            "sort": "A",
-            "term": "asset-liability management (ALM)",
-            "definition": "The practice of coordinating the risks that simultaneously affect the company’s investments and products. For life insurers, this entails coordinating the administration of an insurer’s asset portfolio—its investments—with the administration of its liability portfolio—its obligations to customers—so as to manage risk and still earn an adequate level of return. "
-        },
-        {
-            "sort": "A",
-            "term": "asset-liability management risk ",
-            "definition": "The risk that a company’s capital could be depleted due to a narrowing of the difference between returns earned on assets and liabilities or a mismatch in cash flows for assets and liabilities. "
-        },
-        {
-            "sort": "A",
-            "term": "asset-liability manager",
-            "definition": "An investment risk management professional who monitors a company’s assets and investments supporting a specified product line, such as annuities. "
-        },
-        {
-            "sort": "A",
-            "term": "assets under management",
-            "definition": "The amount of money that an advisor or company manages on behalf of a client. "
-        },
-        {
-            "sort": "A",
-            "term": "asset valuation ",
-            "definition": "The process of calculating the monetary values for assets; conducted for financial reporting purposes. "
-        },
-        {
-            "sort": "A",
-            "term": "Asset Valuation Reserve",
-            "definition": "A type of investment reserve that minimizes the effects of both realized and unrealized gains and losses on an insurer’s invested assets when those gains and losses are related to the credit quality of the assets or fluctuations in the prices of equity securities. "
-        },
-        {
-            "sort": "A",
-            "term": "attribution analysis",
-            "definition": "An analytical technique that involves assigning components of investment portfolio returns to specified portfolio management tactics. "
+            "term": "association examination",
+            "definition": "In the United States, a financial condition examination of an insurer conducted by examiners representing various states in the geographic zones in which the insurer is licensed. "
         },
         {
             "sort": "A",
             "term": "audit",
-            "definition": "An examination of a company’s records and operations to evaluate the accuracy of the records and the effectiveness of the company’s operational policies and procedures. "
+            "definition": "The examination and evaluation of company accounting records, policies, and procedures to ensure that (1) the financial information, financial statements, and source documents comply with accounting standards and are a fair and consistent depiction of the company’s financial condition and performance and (2) a company’s operational procedures and policies are effective. "
         },
         {
             "sort": "A",
-            "term": "audit committee",
-            "definition": "A committee that assists a company’s board of directors in overseeing the internal audit function, independent external auditors, financial reporting practices, and internal controls. "
+            "term": "auditing",
+            "definition": "The process of conducting an audit. "
         },
         {
             "sort": "A",
-            "term": "audit policy",
-            "definition": "A corporate policy that states a company’s process for systematically examining, testing, and evaluating the company’s compliance with one or more specified sets of standards. "
+            "term": "auditor’s opinion",
+            "definition": "A statement, prepared by a public accounting company, that indicates (1) whether the information contained in an insurer’s Annual Report fairly represents the insurer’s financial position, the results of its operations, and its cash flows and (2) whether the audit was conducted in accordance with applicable auditing standards. "
         },
         {
             "sort": "A",
-            "term": "AUM",
-            "definition": "See assets under management. "
+            "term": "audit trail",
+            "definition": "A chronological, sequential set of accounting records and reports from the beginning to the end of a business transaction. "
         },
         {
             "sort": "A",
-            "term": "authentication",
-            "definition": "The technological process of ensuring that someone requesting or sending information is who he claims to be. "
-        },
-        {
-            "sort": "A",
-            "term": "authorization limit ",
-            "definition": "The maximum monetary amount that a company employee has official power to approve for disbursement without prior approval by another company employee with higher authority. "
+            "term": "authorization level",
+            "definition": "Within the context of an internal control system, the maximum monetary amount that a company employee has been granted official power to approve for disbursement. "
         },
         {
             "sort": "A",
             "term": "AVR",
-            "definition": "See Asset Valuation Reserve. "
+            "definition": "See asset valuation reserve. "
         },
         {
             "sort": "B",
-            "term": "balloon payment",
-            "definition": "A lump-sum payment of the final amount of the mortgage. "
+            "term": "balance sheet",
+            "definition": "A financial statement that shows a company’s financial condition or position by summarizing the company’s assets, liabilities, and owners’ equity as of a specified date. "
         },
         {
             "sort": "B",
-            "term": "barbell strategy",
-            "definition": "A bond investment strategy in which the investor divides the bonds in a portfolio between short-term and long-term maturities and avoids intermediate-term maturities. "
+            "term": "base period",
+            "definition": "The financial reporting period chosen as the reference point for horizontal analysis. "
         },
         {
             "sort": "B",
-            "term": "benchmark",
-            "definition": "In investing, a performance standard that represents portfolio performance goals. "
+            "term": "basic accounting equation",
+            "definition": "The formula that expresses the relationship among the three key account classifications that a company reports on its balance sheet: assets, liabilities, and owners’ equity. "
         },
         {
             "sort": "B",
-            "term": "best efforts basis",
-            "definition": "A type of service in which an investment bank attempts to sell a new issue on behalf of the issuer on the best terms obtainable, but does not first purchase the bonds or shares from the issuer. "
+            "term": "benchmarking",
+            "definition": "A process that consists of (1) identifying the best outcomes that other companies have achieved for a specific activity or process and the practices that produced those outcomes, and (2) implementing those practices to equal or surpass the best outcomes. "
         },
         {
             "sort": "B",
-            "term": "beta",
-            "definition": "A measure of the volatility of an asset or investment portfolio in relation to the volatility of a market. "
+            "term": "benefits budget",
+            "definition": "A type of expense budget that indicates the amount of money the insurer expects to pay for insurance policy or annuity contract benefits, such as claims, cash surrenders, and policyowner dividends, during the next accounting period. "
         },
         {
             "sort": "B",
-            "term": "bid-ask spread",
-            "definition": "The difference between the highest bid price and the lowest ask price for a proposed trade. "
-        },
-        {
-            "sort": "B",
-            "term": "blended benchmark",
-            "definition": "A type of investment performance benchmark that comprises the asset class benchmarks in the proportion that each asset class will be held in a given portfolio. "
+            "term": "benefits ratio",
+            "definition": "For a given reporting period, a ratio that compares an insurer’s benefits paid to its premiums, annuity considerations, and considerations on supplementary contracts with life contingencies. "
         },
         {
             "sort": "B",
             "term": "bond",
-            "definition": "A security that represents a debt that the borrower—the issuer of the bond—owes to the bondholder—the person or company that buys and owns the bond. "
+            "definition": "A debt security issued by a borrower, typically a corporation or government entity. "
         },
         {
             "sort": "B",
-            "term": "bond covenant",
-            "definition": "A provision in a bond indenture intended to protect the interest of the bondholder by mandating issuer behavior. "
+            "term": "bond discount",
+            "definition": "The amount by which a bond’s purchase price is lower than its par value. "
         },
         {
             "sort": "B",
-            "term": "bottom-up investing",
-            "definition": "An investment approach in which investment professionals first select individual securities or other assets for a specific portfolio in accordance with portfolio risk guidelines; then they analyze the broader economic conditions. "
+            "term": "bondholder",
+            "definition": "The purchaser, or owner, of a bond. "
         },
         {
             "sort": "B",
-            "term": "broker-dealer ",
-            "definition": "A financial institution that (1) buys and sells securities either for itself or for its customers and (2) provides information and advice to customers regarding the purchase and sale of securities. "
+            "term": "bond issuer",
+            "definition": "The entity that sells a bond to raise money. "
         },
         {
             "sort": "B",
-            "term": "business cycle ",
-            "definition": "A recurring pattern of fluctuations in economic activity that is characterized as expansion, peak, contraction, and trough. "
+            "term": "bond premium",
+            "definition": "The amount by which a bond’s purchase price is higher than its par value. "
         },
         {
-            "sort": "C",
-            "term": "callable bond",
-            "definition": "A bond that allows the bond issuer to retire the bond prior to its maturity date at a specified price per bond, known as the call price. "
+            "sort": "B",
+            "term": "book value",
+            "definition": "The value at which an asset is recorded in a company’s accounting records. "
         },
         {
-            "sort": "C",
-            "term": "call option",
-            "definition": "A type of option that gives the holder the right—but not the obligation—to buy an underlying security at a specified strike price, on or before the expiration date. Also known as a call. "
+            "sort": "B",
+            "term": "bottom-up budgeting",
+            "definition": "A budgeting approach that starts at the bottom of a company, with lower-level managers generating budgets for their areas, which are then presented in the form of recommendations to senior management. "
+        },
+        {
+            "sort": "B",
+            "term": "breakeven point",
+            "definition": "The point at which a product’s revenues are equal to its costs (expenses). "
+        },
+        {
+            "sort": "B",
+            "term": "budget",
+            "definition": "A financial plan of action, expressed in monetary terms, that covers a specified period, such as one year. "
+        },
+        {
+            "sort": "B",
+            "term": "budgeting",
+            "definition": "A management accounting process that includes creating a financial plan of action that an organization believes will help it achieve its goals. "
+        },
+        {
+            "sort": "B",
+            "term": "business transaction",
+            "definition": "A transaction to which a company must assign an objective monetary value, whether the impact on the company is large or small, actual or expected. "
         },
         {
             "sort": "C",
             "term": "capital",
-            "definition": "In investing, a financial resource available to initiate an investment. "
+            "definition": "The amount of money invested in a company by its owners, usually through the purchase of the company’s stock. "
         },
         {
             "sort": "C",
-            "term": "capital gain ",
-            "definition": "The amount by which the selling price of an investment is more than its purchase price. "
+            "term": "capital and surplus ratios",
+            "definition": "Financial ratios that measure an insurer’s financial strength by comparing the insurer’s capital and surplus to its liabilities. "
         },
         {
             "sort": "C",
-            "term": "capital growth",
-            "definition": "An investment goal which prioritizes investing in assets with the greatest potential for gains. Also known as capital appreciation or wealth accumulation. "
+            "term": "capital budget",
+            "definition": "A budget that shows a company’s plans for the financial management of its long-term, high-cost investment proposals. "
         },
         {
             "sort": "C",
-            "term": "capital market",
-            "definition": "The aggregate of all marketplaces, participants, and activities that move funding in a given economic system from net suppliers of capital to net users of capital. "
+            "term": "capital budgeting",
+            "definition": "The process companies undertake to analyze decisions about investing in long-term projects or assets. "
         },
         {
             "sort": "C",
-            "term": "capital protection",
-            "definition": "An investment goal which prioritizes investing in stable assets that are unlikely to incur significant losses. Also known as preservation of capital or preservation of principal. "
+            "term": "capitalize",
+            "definition": "In the context of accounting for specified costs, to record the costs as an asset. "
         },
         {
             "sort": "C",
-            "term": "cash dividend ",
-            "definition": "A cash payment to a shareholder for each share of stock the shareholder owns. "
+            "term": "cash",
+            "definition": "The amount of currency on hand or on deposit at an insurer’s bank. "
         },
         {
             "sort": "C",
-            "term": "cash equivalent ",
-            "definition": "An investment that is not cash but that can be converted to cash within 90 days with little or no risk of losing value. "
+            "term": "cash accounting",
+            "definition": "The management and maintenance of records and reports for all of an insurer’s cash transactions, specifically money deposited or withdrawn from an insurer’s accounts at a bank or other financial institution. "
         },
         {
             "sort": "C",
-            "term": "cash-flow matching",
-            "definition": "In asset-liability management, an investment management technique which involves identifying the patterns of cash outflows for insurance products and matching those cash outflows with a selection of assets that will produce a similar pattern of cash inflows. "
+            "term": "cash-basis accounting",
+            "definition": "An accounting system in which a company recognizes revenues or expenses only when it receives or disburses cash. "
         },
         {
             "sort": "C",
-            "term": "cash-flow testing ",
-            "definition": "A method of asset adequacy analysis that uses simulation modeling to project the cash flows associated with an insurance company’s assets and liabilities as of a given valuation date in the future. "
+            "term": "cash budget",
+            "definition": "A type of budget that projects a company’s beginning cash balance, cash inflows, cash outflows, and ending cash balance for a specified accounting period, typically by quarter. "
         },
         {
             "sort": "C",
-            "term": "CDS",
-            "definition": "See credit default swap. "
+            "term": "cash budgeting",
+            "definition": "A budgeting activity that anticipates the cash flows into and out of a company during an accounting period. "
         },
         {
             "sort": "C",
-            "term": "CFTC",
-            "definition": "See Commodity Futures Trading Commission. "
+            "term": "cash disbursement",
+            "definition": "The payment of cash by a company. "
         },
         {
             "sort": "C",
-            "term": "chief investment officer",
-            "definition": "A senior-level executive who manages a company’s investment function. "
+            "term": "cash disbursements budget",
+            "definition": "A schedule of the timing and amount of cash disbursements expected during the accounting period. "
         },
         {
             "sort": "C",
-            "term": "CIO",
-            "definition": "See chief investment officer. "
+            "term": "cash dividend on stock",
+            "definition": "A cash payment that a company periodically distributes to the owners of its preferred stock and common stock. "
         },
         {
             "sort": "C",
-            "term": "CLO",
-            "definition": "See collateralized loan obligation. "
+            "term": "cash equivalents",
+            "definition": "Short-term assets that mature in 90 days or less from the date of purchase. "
         },
         {
             "sort": "C",
-            "term": "closed-end mutual fund ",
-            "definition": "A type of mutual fund that establishes a portfolio of securities with a fixed number of outstanding shares that are traded on securities exchanges or in the over-the-counter market. "
+            "term": "cash flow",
+            "definition": "Any movement of cash into or out of an organization; cash flows may be either sources of funds or uses of funds for the organization. "
+        },
+        {
+            "sort": "C",
+            "term": "cash flow statement",
+            "definition": "A financial statement that shows a company’s cash receipts, cash disbursements, and the net change in cash during a specified accounting period. "
+        },
+        {
+            "sort": "C",
+            "term": "cash inflow",
+            "definition": "A movement of cash into an organization; cash inflows are sources of funds, which include cash receipts. "
+        },
+        {
+            "sort": "C",
+            "term": "cash outflow",
+            "definition": "A movement of cash out of an organization; cash outflows are uses of funds, which include cash disbursements. "
+        },
+        {
+            "sort": "C",
+            "term": "cash receipt",
+            "definition": "A check, money order, electronic funds transfer, or other cash transaction that is remitted to a company as a form of payment for goods or services rendered. "
+        },
+        {
+            "sort": "C",
+            "term": "cash receipts budget",
+            "definition": "A schedule of cash receipts expected during the accounting period. "
+        },
+        {
+            "sort": "C",
+            "term": "Certified Public Accountant",
+            "definition": "In the United States, the professional accounting credential that accountants who work in public accounting generally earn. "
+        },
+        {
+            "sort": "C",
+            "term": "chargeback method",
+            "definition": "A service department cost allocation method in which a department allocates its indirect costs to departments based on usage. "
+        },
+        {
+            "sort": "C",
+            "term": "chart of accounts",
+            "definition": "A numbered or alphabetical listing of all of a company’s account names. "
+        },
+        {
+            "sort": "C",
+            "term": "closing entry",
+            "definition": "An accounting entry that a company makes at the end of each accounting period to start the next accounting period with a zero balance in its temporary accounts. "
         },
         {
             "sort": "C",
@@ -352,523 +412,473 @@ var glossary_settings = {
         },
         {
             "sort": "C",
-            "term": "CMO",
-            "definition": "See collateralized mortgage obligation. "
-        },
-        {
-            "sort": "C",
-            "term": "code of conduct",
-            "definition": "A formal statement of a company’s values and its expectations for how its employees should behave in the course of business. Also known as a code of business conduct or a code of ethics. "
-        },
-        {
-            "sort": "C",
-            "term": "collateralized loan obligation ",
-            "definition": "A type of asset-backed security that securitizes a pool of corporate debt, such as leveraged loans and other business loans. "
-        },
-        {
-            "sort": "C",
-            "term": "collateralized mortgage obligation",
-            "definition": "A type of mortgage-backed security that is backed by a pool of residential mortgage loans, which are organized into classes based on their risk profile. "
+            "term": "collected income",
+            "definition": "The amount of income, including certain adjustments, received in cash during an accounting period. "
         },
         {
             "sort": "C",
             "term": "collusion",
-            "definition": "An agreement between two or more people to defraud another person of his rights. "
-        },
-        {
-            "sort": "C",
-            "term": "commercial mortgage ",
-            "definition": "A mortgage loan secured by commercial real estate. "
+            "definition": "A secret agreement entered into by two or more persons to perpetrate an illegal act. "
         },
         {
             "sort": "C",
             "term": "commercial mortgage-backed security",
-            "definition": "A type of structured security that is secured by a pool of various commercial mortgages. "
+            "definition": "A type of mortgage-backed security that is secured by a pool of commercial mortgages. "
         },
         {
             "sort": "C",
-            "term": "commoditization",
-            "definition": "The process by which a product reaches a point in its development where it has no features that differentiate it from competitive products other than price. "
+            "term": "commission",
+            "definition": "Monetary compensation paid to an agent; usually expressed as a percentage of the gross premiums paid by customers. "
         },
         {
             "sort": "C",
-            "term": "commodity",
-            "definition": "A product comprising (1) natural resources that have been mined or extracted—such as copper, gold, coal, and oil—or (2) agricultural products and livestock—such as grains, coffee, sugar, and pork. "
-        },
-        {
-            "sort": "C",
-            "term": "Commodity Futures Trading Commission",
-            "definition": "An independent federal agency that regulates the futures and options markets in the United States. "
+            "term": "common-size financial statement",
+            "definition": "A financial statement that includes the percentages obtained from vertical analysis. "
         },
         {
             "sort": "C",
             "term": "common stock",
-            "definition": "A type of stock that usually entitles the owner to (1) vote on the selection of the board of directors and on other important company matters and (2) receive dividends on the stock, if they are declared. "
+            "definition": "A type of stock that usually entitles the owner to (1) vote on the selection of directors and on other important company matters and (2) receive dividends on the stock, if they are declared. "
         },
         {
             "sort": "C",
-            "term": "comparables method",
-            "definition": "A method a real estate appraiser uses to estimate the market value of a property by referring to recent selling prices for other properties having similar characteristics. "
+            "term": "comparability",
+            "definition": "The quality of accounting information that requires a company’s financial statements to be presented in such a way that interested users can identify similarities and differences in financial information across accounting periods and among different companies. "
+        },
+        {
+            "sort": "C",
+            "term": "comparative financial statements",
+            "definition": "Financial statements that present data for two or more accounting periods side by side. "
         },
         {
             "sort": "C",
             "term": "compliance audit",
-            "definition": "A type of audit that verifies that a company’s actions adhere to applicable laws and regulatory requirements and to the company’s own policies and procedures. "
+            "definition": "A type of audit that verifies that an insurer’s financial statements adhere to the laws, regulations, policies, and procedures prescribed by internal or external regulatory authorities. "
         },
         {
             "sort": "C",
-            "term": "compliance committee",
-            "definition": "A committee that may handle a variety of corporate issues such as corporate privacy policies, data security and usage policies, market conduct, and general compliance. "
+            "term": "compound accounting entry",
+            "definition": "A record of a business transaction that affects more than two accounts. "
         },
         {
             "sort": "C",
-            "term": "conflict of interest",
-            "definition": "A situation in which the interests or actions of one entity are incompatible with the interests or actions of another entity. "
+            "term": "conservatism",
+            "definition": "The quality of accounting information that calls for a prudent reaction for dealing with uncertainty in accounting records and reports. "
         },
         {
             "sort": "C",
-            "term": "contraction",
-            "definition": "A phase in the business cycle in which unemployment rises and the pace of economic activity slows down. "
+            "term": "consistency",
+            "definition": "The quality of accounting information that requires a company to use the same accounting policies and procedures in its financial statements from one accounting period to the next, unless there is a sound reason for changing a specified policy or procedure. "
         },
         {
             "sort": "C",
-            "term": "contractionary monetary policy",
-            "definition": "A series of actions by a central bank which decrease the growth of the money supply and the amount of credit available in the economy. "
+            "term": "contra account",
+            "definition": "An account that accompanies a specified \"companion\" account—typically an asset account—and that has a normal balance that is the opposite of the companion account. "
         },
         {
             "sort": "C",
-            "term": "contrarian investing",
-            "definition": "An investment strategy in which the investor seeks opportunities to buy or sell specific securities when the majority of investors appear to be doing the opposite. "
+            "term": "contractual benefit expenses",
+            "definition": "The category of general and administrative expenses that includes the costs of paying contractual obligations to policyowners and beneficiaries. "
         },
         {
             "sort": "C",
-            "term": "conventional mortgage loan ",
-            "definition": "A mortgage loan made on the basis of the borrower’s credit rating and the value of the collateral that is the basis for the mortgage. "
+            "term": "contractual payments",
+            "definition": "Payments on supplementary contracts. "
         },
         {
             "sort": "C",
-            "term": "core fund",
-            "definition": "A type of investment fund that invests in growth and value stocks. Also known as a blend fund. "
+            "term": "contractual reserve",
+            "definition": "A liability that identifies the amount that, together with future premiums and investment earnings, represents the expected amount of future benefits payable on an insurer’s in-force business. "
+        },
+        {
+            "sort": "C",
+            "term": "contribution margin",
+            "definition": "The difference between a product’s total revenues and its total variable costs. "
+        },
+        {
+            "sort": "C",
+            "term": "contribution margin ratio",
+            "definition": "The relationship between a product’s contribution margin and its revenues. "
+        },
+        {
+            "sort": "C",
+            "term": "control account",
+            "definition": "An account that summarizes accounting entries and monitors the expenses that are reported in a company’s financial statements. "
+        },
+        {
+            "sort": "C",
+            "term": "controllable cost",
+            "definition": "A cost over which a responsibility manager has decision-making authority. "
+        },
+        {
+            "sort": "C",
+            "term": "controller",
+            "definition": "The head of a company’s accounting function. "
         },
         {
             "sort": "C",
             "term": "corporate bond",
-            "definition": "Bonds issued by corporations; they are classified by the industry of the issuing company. "
+            "definition": "A bond issued by a corporation. "
         },
         {
             "sort": "C",
-            "term": "corporate culture",
-            "definition": "The attitudes, values, perceptions, beliefs, and experiences shared by a company’s employees and instilled in new employees when they join the company. Also known as an organizational culture. "
+            "term": "cost accounting",
+            "definition": "A system for accumulating and categorizing expense data that is used to facilitate effective cost control and to generate accurate estimates of costs to use in the pricing of a company’s products. "
         },
         {
             "sort": "C",
-            "term": "corporate governance",
-            "definition": "The responsibility and authority of a company’s board of directors to direct the organization to properly fulfill its missions on behalf of the company’s legitimate stakeholders in a legal and fiscally responsible manner. "
+            "term": "cost accumulation",
+            "definition": "The practice of capturing all company costs and categorizing them in meaningful ways. "
         },
         {
             "sort": "C",
-            "term": "correlation analysis ",
-            "definition": "In investing, a statistical technique that measures the strength of the relationship between a pair of asset classes. "
+            "term": "cost allocation",
+            "definition": "The accounting process of assigning or distributing to responsibility centers an indirect cost (expense) according to a specified method or formula. "
         },
         {
             "sort": "C",
-            "term": "correlation coefficient ",
-            "definition": "In investing, a statistical measure that indicates how closely movements in two asset classes track one another. "
+            "term": "cost center",
+            "definition": "A department or division to which costs (expenses) can be traced. "
         },
         {
             "sort": "C",
-            "term": "counterparty risk ",
-            "definition": "The potential that one party to a contract will fail to fulfill its obligations to the other party. "
+            "term": "cost concept",
+            "definition": "The accounting concept that states that companies should include items on the balance sheet and income statement according to their actual cost at the time of purchase. "
         },
         {
             "sort": "C",
-            "term": "coupon rate ",
-            "definition": "The interest rate that determines the amount of the periodic interest payments made to the bondholder. "
+            "term": "cost object",
+            "definition": "Any purpose for which a company measures costs. "
         },
         {
             "sort": "C",
-            "term": "credit default swap",
-            "definition": "A derivatives contract in which the contract writer promises to pay a benefit to the purchaser if the purchaser experiences the credit default defined in the agreement. "
+            "term": "cost-volume-profit analysis",
+            "definition": "A type of cost analysis used to determine how changes in product prices, sales volume, fixed costs, variable costs, and the type of products a company offers affect its profit. "
         },
         {
             "sort": "C",
-            "term": "credit rating agency",
-            "definition": "An independently owned, private organization that evaluates the financial condition of companies and governments and provides information about bonds and bond issuers to investors and potential customers. "
+            "term": "coupon payment",
+            "definition": "A periodic interest payment made on a bond. "
         },
         {
             "sort": "C",
-            "term": "credit rating",
-            "definition": "A grade or score that assesses the creditworthiness of a specific bond and bond issuer. "
+            "term": "coupon rate",
+            "definition": "The interest rate specified on a bond. "
         },
         {
             "sort": "C",
-            "term": "credit risk ",
-            "definition": "The risk that (1) a borrower defaults on debt obligations by failing to make payments of principal or interest on time or (2) a lender sustains a financial loss based on an adverse change in a borrower’s creditworthiness. "
+            "term": "CPA",
+            "definition": "See Certified Public Accountant. "
         },
         {
             "sort": "C",
-            "term": "currency risk",
-            "definition": "A risk arising from changes in currency exchange rates. Also known as foreign exchange risk. "
+            "term": "credit",
+            "definition": "In accounting, a change made to the monetary value of an account that (1) increases the value of liability accounts, owners’ equity accounts, and revenue accounts and (2) decreases the value of asset accounts and expense accounts. "
         },
         {
             "sort": "C",
-            "term": "currency swap",
-            "definition": "A derivatives contract in which the parties agree to exchange principal and interest payments on a particular debt instrument payable in one currency for principal and interest payments on a similar debt instrument payable in another currency. "
+            "term": "credit risk",
+            "definition": "In the context of the asset valuation reserve, the risk that a financial obligation will not be paid. "
         },
         {
             "sort": "C",
-            "term": "current income",
-            "definition": "An investment goal which prioritizes investing in assets that generate regular income. "
+            "term": "current ratio",
+            "definition": "A type of liquidity ratio that compares an insurer’s current assets to its current liabilities. "
         },
         {
             "sort": "C",
-            "term": "current yield",
-            "definition": "The amount of annual interest received from a bond stated as a percentage of the current market price. "
-        },
-        {
-            "sort": "C",
-            "term": "custodial task",
-            "definition": "In a financial context, a task which includes the physical or electronic handling of assets. "
-        },
-        {
-            "sort": "C",
-            "term": "cybersecurity",
-            "definition": "A type of information security which encompasses measures undertaken to protect a company’s computer networks, systems, and data from unauthorized access. "
+            "term": "CVP analysis",
+            "definition": "See cost-volume-profit analysis. "
         },
         {
             "sort": "D",
-            "term": "data analysis",
-            "definition": "A process of applying a variety of analytical techniques to collected data, and using the results of the analysis to formulate recommendations concerning a research objective. "
+            "term": "DAC",
+            "definition": "See deferred acquisition costs. "
         },
         {
             "sort": "D",
-            "term": "data governance ",
-            "definition": "The process of establishing organizational ownership and accountability for data so that business processes are optimized and data are secure and protected. "
-        },
-        {
-            "sort": "D",
-            "term": "data mining",
-            "definition": "A type of analysis in which numerical data are examined to uncover trends, patterns, and relationships. "
-        },
-        {
-            "sort": "D",
-            "term": "data visualization tool",
-            "definition": "A technology-driven graphical display that conveys an intuitive understanding of data. "
-        },
-        {
-            "sort": "D",
-            "term": "debt restructuring",
-            "definition": "An agreement between a debt issuer and a lender, typically representing the lender’s concession to (1) extend the maturity date, (2) accept a lesser amount in repayment of the debt, or (3) otherwise alter the terms of the debt agreement. "
+            "term": "debit",
+            "definition": "In accounting, a change made to the monetary value of an account that (1) increases the value of asset accounts and expense accounts and (2) decreases the value of liability accounts, owners’ equity accounts, and revenue accounts. "
         },
         {
             "sort": "D",
             "term": "debt security",
-            "definition": "A type of security that represents an obligation of indebtedness owed by a business, a government, or an agency. "
+            "definition": "A security that represents an obligation of indebtedness owed by a business, a government, or an agency. "
         },
         {
             "sort": "D",
-            "term": "debt service coverage ratio",
-            "definition": "The ratio of a borrower’s monthly earnings—before interest and taxes—to its monthly mortgage payments owed. "
+            "term": "debt-to-surplus ratio",
+            "definition": "A leverage ratio that measures the relationship between an insurer’s total liabilities and its surplus. "
         },
         {
             "sort": "D",
-            "term": "default",
-            "definition": "In bond investing, an event that occurs when a bond issuer fails to fulfill its financial obligations. "
+            "term": "deferred acquisition costs",
+            "definition": "According to the Financial Accounting Standards Board (FASB), costs that are related directly to the successful acquisition of new or renewal insurance contracts. "
         },
         {
             "sort": "D",
-            "term": "default risk ",
-            "definition": "In investing, the risk that an investor will not receive the cash flow payments to which it is entitled because a borrower fails to fulfill its debt obligations. "
+            "term": "deferred income",
+            "definition": "For individual life insurance policies, premiums that are due after the statutory reporting date but before the next policy anniversary date. "
         },
         {
             "sort": "D",
-            "term": "deflation",
-            "definition": "The decline in the general level of prices in an economy over a period of time. "
+            "term": "deferred premiums",
+            "definition": "Life insurance premiums due after the statutory reporting date but before the next policy anniversary date. "
         },
         {
             "sort": "D",
-            "term": "derivative ",
-            "definition": "A financial security that derives its investment value from the value of another security. "
+            "term": "deposit-type contract",
+            "definition": "Under statutory accounting principles, a contract that does not expose the insurer to mortality risk or morbidity risk. "
         },
         {
             "sort": "D",
-            "term": "disinflation",
-            "definition": "A decrease in the rate of inflation over a period of time. "
+            "term": "depreciation",
+            "definition": "The process of allocating (spreading) the cost of an asset over the asset’s estimated useful life; depreciation typically applies to an insurer’s long-term fixed assets, such as buildings and other real estate. "
         },
         {
             "sort": "D",
-            "term": "distressed debt fund",
-            "definition": "A type of private equity fund that invests in bonds and other debt securities issued by target companies in financial distress. Also known as a vulture fund. "
+            "term": "derivative security",
+            "definition": "A security that derives its value from other securities. "
         },
         {
             "sort": "D",
-            "term": "diversification",
-            "definition": "A technique for spreading risk by investing in a variety of assets with different risk characteristics. "
+            "term": "detective control",
+            "definition": "An internal control that identifies—or \"detects\"—an error or a problem after it has occurred. "
         },
         {
             "sort": "D",
-            "term": "dividend ",
-            "definition": "A distribution of a company’s profits payable to owners of the company’s stock. "
+            "term": "development expenses",
+            "definition": "The category of operating expenses that includes the costs related to designing, testing, and implementing a new product. "
         },
         {
             "sort": "D",
-            "term": "dividend yield",
-            "definition": "In stock investing, the ratio of a company’s annual dividend payments to its current market price. "
+            "term": "differential cost",
+            "definition": "The difference in cost between two alternative choices. "
         },
         {
             "sort": "D",
-            "term": "Dodd-Frank Wall Street Reform and Consumer Protection Act",
-            "definition": "A federal law designed to (1) promote the financial stability of the United States, (2) improve accountability and transparency in the financial system, and (3) protect consumers from abusive financial services practices. Also known as the Dodd-Frank Act. "
+            "term": "direct cost",
+            "definition": "A cost identified specifically with a single cost object. "
         },
         {
             "sort": "D",
-            "term": "downgrade risk ",
-            "definition": "The risk of deterioration in a credit rating assigned to an issuer of a debt security. "
+            "term": "direct method",
+            "definition": "A service department cost allocation method that assumes that service departments benefit operating departments only; thus, no consideration is given to services provided by one service department to another. "
         },
         {
             "sort": "D",
-            "term": "due diligence",
-            "definition": "In investing, the careful and thorough investigation of a potential investment. "
+            "term": "disclaimer of opinion",
+            "definition": "A type of modified auditor’s opinion that states that the auditor has no opinion on the insurer’s financial statements. "
         },
         {
             "sort": "D",
-            "term": "duration ",
-            "definition": "A statistic that measures the interest-rate sensitivity of an interest-bearing security. "
+            "term": "discretionary cost",
+            "definition": "A cost that can be decreased or even eliminated as a result of a management decision without stopping the production of a good or service. "
         },
         {
             "sort": "D",
-            "term": "duration gap report ",
-            "definition": "A report that provides a snapshot of a company’s asset-liability match at the time of the report. "
+            "term": "dividend accumulations",
+            "definition": "Dividends that a policyowner elects to leave on deposit at interest with the insurer. "
         },
         {
             "sort": "D",
-            "term": "duration matching",
-            "definition": "In asset-liability management, an investment management technique that involves matching the duration statistics for fixed-income assets—such as bonds—with the duration statistics for the liabilities that the assets support. "
+            "term": "double-entry accounting",
+            "definition": "An accounting method of tracking and reporting a company’s transactions under which every accounting entry must (1) have at least one debit and one credit, (2) have an equal monetary amount of debits and credits, and (3) maintain the balance of the basic accounting equation. "
         },
         {
             "sort": "D",
-            "term": "duration policy",
-            "definition": "A policy, set by the asset-liability management function, that specifies a numerical target for a company’s duration gap value and a numerical range of acceptable values around the target value. "
+            "term": "dual concept",
+            "definition": "The cornerstone of double-entry accounting, a concept that states that every business transaction has two aspects—debits and credits—that always equal each other in monetary amount. "
         },
         {
             "sort": "E",
-            "term": "earnings per share",
-            "definition": "A profitability ratio that reflects the portion of a company’s net profit after taxes that is attributable to each outstanding share of the company’s common stock. "
+            "term": "effective rate of return",
+            "definition": "The actual rate of return on a bond, found by dividing the bond’s annual interest by its purchase price. "
         },
         {
             "sort": "E",
-            "term": "economies of scale",
-            "definition": "Unit cost savings that increase as the size of a business operation grows. "
+            "term": "entity",
+            "definition": "The basic business unit for which a company keeps separate accounting records and prepares reports. "
         },
         {
             "sort": "E",
-            "term": "efficient frontier ",
-            "definition": "The set of all hypothetical investment portfolios having the greatest expected return, each for a specified level of risk. "
-        },
-        {
-            "sort": "E",
-            "term": "efficient portfolio",
-            "definition": "A hypothetical investment portfolio that earns the highest expected return for a given level of risk. Also known as an optimum portfolio. "
-        },
-        {
-            "sort": "E",
-            "term": "emerging market fund",
-            "definition": "A type of investment fund that invests in companies located in developing countries, which are typically countries with low levels of income per citizen and little industrialization. "
-        },
-        {
-            "sort": "E",
-            "term": "encryption",
-            "definition": "A type of technology that encodes data so that only an authorized person possessing the required hardware and/or software can decode that data. "
-        },
-        {
-            "sort": "E",
-            "term": "enterprise risk management",
-            "definition": "In corporate risk management, a cross-functional system that (1) identifies and quantifies risks and (2) uses a coordinated approach to manage those risks. "
-        },
-        {
-            "sort": "E",
-            "term": "environmental, social, and governance (ESG) factors ",
-            "definition": "A set of standards that screen potential investments based on a company’s practices regarding environmental, social, and governance issues. "
-        },
-        {
-            "sort": "E",
-            "term": "EPS",
-            "definition": "See earnings per share. "
-        },
-        {
-            "sort": "E",
-            "term": "equity fund",
-            "definition": "A type of investment fund that typically consists of common stocks, but may also include preferred stocks or real estate. Also known as a stock fund. "
+            "term": "entity concept",
+            "definition": "A financial statement concept that states that a company must account separately for the business activities of each business unit or economic unit. "
         },
         {
             "sort": "E",
             "term": "equity security",
-            "definition": "A security that represents an ownership interest in the issuing company. "
+            "definition": "A security that represents an ownership interest in a business. "
         },
         {
             "sort": "E",
-            "term": "ERM",
-            "definition": "See enterprise risk management. "
+            "term": "escrow account",
+            "definition": "A trust account used to pay property maintenance expenses, property taxes, and other expenses related to a mortgaged property. "
         },
         {
             "sort": "E",
-            "term": "ETF",
-            "definition": "See exchange-traded fund. "
+            "term": "examination report",
+            "definition": "A document that summarizes the results of an insurance company’s financial condition examination and that is submitted to both state regulators and the company’s officers. "
         },
         {
             "sort": "E",
-            "term": "ethics",
-            "definition": "A system of accepted standards of conduct and moral judgment that combines the elements of honesty, integrity, and fair treatment. "
+            "term": "ex-dividend date",
+            "definition": "The date used for determining whether a stockholder is eligible to receive a declared cash dividend on stock. "
         },
         {
             "sort": "E",
-            "term": "EU",
-            "definition": "See European Union. "
+            "term": "execution of transactions as authorized",
+            "definition": "A principle of an effective internal control system that concerns the delegation of authority to perform specified tasks and the communication of that authority. "
         },
         {
             "sort": "E",
-            "term": "European Union",
-            "definition": "An influential governing and lawmaking confederation of member nations with provision for oversight of the European Union financial system. "
+            "term": "expense budget",
+            "definition": "A schedule of expenses expected during an accounting period. "
         },
         {
             "sort": "E",
-            "term": "excess return ",
-            "definition": "The amount of an investment portfolio’s total return that exceeds the benchmark return. "
+            "term": "expenses",
+            "definition": "The amounts that a company spends in the course of conducting business. "
         },
         {
             "sort": "E",
-            "term": "exchange-traded fund",
-            "definition": "A type of security that usually tracks a market index and trades continuously during the trading day on an exchange. "
+            "term": "external analysis",
+            "definition": "A type of financial ratio analysis performed by someone outside of the company being analyzed. "
         },
         {
             "sort": "E",
-            "term": "expansion",
-            "definition": "The phase in the business cycle in which unemployment is low and the pace of economic growth is accelerating. "
-        },
-        {
-            "sort": "E",
-            "term": "expansionary monetary policy",
-            "definition": "A series of actions by a central bank which increase the growth of the money supply and the amount of credit available in the economy. "
-        },
-        {
-            "sort": "E",
-            "term": "expected return",
-            "definition": "The estimated future return—expressed as a monetary amount or a percentage rate of return—that an investor anticipates earning from an investment. "
-        },
-        {
-            "sort": "E",
-            "term": "expense ratio",
-            "definition": "In fund investing, a ratio that expresses the fund’s total annual operating expenses during a given period as a percentage of the fund’s average net assets during the same period. "
+            "term": "external audit",
+            "definition": "A financial audit performed by external auditors, who are employed by public accounting companies, insurance regulators, or reinsurers. "
         },
         {
             "sort": "F",
-            "term": "federal funds rate",
-            "definition": "Set by the Federal Reserve, the (1) rate banks pay when borrowing from other banks and (2) the benchmark interest rate in the United States. Also known as the fed funds rate. "
+            "term": "fair value",
+            "definition": "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants on the valuation date. "
         },
         {
             "sort": "F",
-            "term": "federal government bond",
-            "definition": "A bond issued by a national government to cover the cost of public spending that is not fully supported by tax revenues. Also known as a sovereign bond. "
+            "term": "fair value accounting",
+            "definition": "The process of valuing a company’s balance sheet accounts, including assets, on the price that the asset would bring in an active, organized market in which (1) the asset sale is not the result of liquidation and (2) neither the buyer nor the seller is forced to enter the transaction. "
         },
         {
             "sort": "F",
-            "term": "Federal Reserve ",
-            "definition": "The central bank responsible for conducting monetary policy in the United States. "
+            "term": "FASB",
+            "definition": "See Financial Accounting Standards Board. "
         },
         {
             "sort": "F",
-            "term": "fiduciary",
-            "definition": "An individual or entity that holds a special position of trust or confidence when handling the affairs of another and that must put the other’s interest above the fiduciary’s own interests. "
+            "term": "favorable variance",
+            "definition": "A variance in which the actual cost is lower than the standard cost. "
         },
         {
             "sort": "F",
-            "term": "fiduciary duty",
-            "definition": "The obligation to act in the best interest of a particular party. "
+            "term": "fidelity bond",
+            "definition": "An indemnity insurance agreement that provides coverage for a financial loss caused by (1) the act or default of a third party, such as an employee or a business partner or (2) some contingency, such as fire, over which the third party may have no control. "
         },
         {
             "sort": "F",
-            "term": "financial audit",
-            "definition": "A type of audit that evaluates whether a company’s financial information, financial statements, and source documents comply with accounting standards and are a fair and consistent depiction of the company’s financial condition and performance. "
+            "term": "financial accounting",
+            "definition": "The field of accounting that focuses primarily on reporting a company’s financial information to meet the needs of the company’s external users. "
         },
         {
             "sort": "F",
-            "term": "financial holding company ",
-            "definition": "A company which conducts activities that are financial in nature or incidental to financial activities—such as insurance activities, securities activities, banking, and investment and advisory services. "
+            "term": "Financial Accounting Standards Board",
+            "definition": "In the United States, a private organization to which the Securities and Exchange Commission (SEC) has delegated the responsibility for establishing generally accepted accounting principles (GAAP). "
         },
         {
             "sort": "F",
-            "term": "Financial Industry Regulatory Authority",
-            "definition": "A self-regulatory organization in the United States which sets rules stipulating how member companies and registered individuals must conduct securities transaction business. "
+            "term": "financial condition examination",
+            "definition": "In the United States, an onsite regulatory examination of an insurer that is carried out by one or more state insurance departments and is designed to identify and monitor any threats to the insurer’s solvency. "
         },
         {
             "sort": "F",
-            "term": "financial model ",
-            "definition": "A computer-based mathematical model that approximates the operation of real-world financial processes. "
+            "term": "financial leverage",
+            "definition": "A type of leverage effect in which incurring fixed financing costs—usually borrowed funds—automatically magnifies a company’s risks and potential returns. "
         },
         {
             "sort": "F",
-            "term": "FINRA",
-            "definition": "See Financial Industry Regulatory Authority. "
+            "term": "financial ratio analysis",
+            "definition": "A financial analysis that consists of calculating the relationships between various pairs of financial statement values to assess a company’s financial condition or performance. "
         },
         {
             "sort": "F",
-            "term": "FINRA Rule 2111 (Suitability Rule)",
-            "definition": "In the United States, a Financial Industry Regulatory Authority rule that requires members and registered individuals to have reasonable grounds for recommending investment products to customers based on an understanding of certain facts about the customer, including his financial situation, tax status, and investment objectives. "
+            "term": "financial reporting",
+            "definition": "The process of presenting financial information about a company’s financial position, operating performance, and flow of funds into and out of a company. "
         },
         {
             "sort": "F",
-            "term": "firewall",
-            "definition": "A combination of hardware and software that creates electronic barriers between the public and private areas of an insurer’s systems. "
+            "term": "financial statement",
+            "definition": "A summary report of a company’s financial condition on a specified date or of its performance during a specified period. "
         },
         {
             "sort": "F",
-            "term": "fixed fund option",
-            "definition": "A separate account fund option which guarantees a fixed rate of interest for a specified period of time. "
+            "term": "financing activities",
+            "definition": "Transactions that involve borrowed funds and cash payments to or from a company’s owners. "
         },
         {
             "sort": "F",
-            "term": "fixed-income fund ",
-            "definition": "A type of investment fund that typically consists of specified debt instruments and is categorized by the specified type of debt instrument. "
+            "term": "fiscal year",
+            "definition": "A 12-month accounting period chosen by a company for financial reporting purposes. "
         },
         {
             "sort": "F",
-            "term": "fixed-income investment",
-            "definition": "An investment, such as a bond, that generally provides a predictable stream of income. "
+            "term": "fixed cost",
+            "definition": "A cost that remains constant for all levels of operating activity or production. "
         },
         {
             "sort": "F",
-            "term": "flat yield curve ",
-            "definition": "A type of yield curve that shows a horizontal straight line, which indicates that yields on debt securities are not responsive to varying terms to maturity. "
+            "term": "flexible budget",
+            "definition": "A budget that provides alternative sets of budget estimates to use under different circumstances that may arise during an accounting period. "
         },
         {
             "sort": "F",
-            "term": "foreign exchange (FX) market",
-            "definition": "A market which converts currencies used by buyers into currencies acceptable to sellers. "
+            "term": "foreclosure",
+            "definition": "A legal proceeding by which a lender can take possession of and sell a mortgaged property to recover the unpaid loan balance if the borrower fails to make timely contractual principal and interest payments on the loan. "
         },
         {
             "sort": "F",
-            "term": "forward contract",
-            "definition": "A limited-time agreement in which a seller promises to deliver a specified asset to a buyer sometime in the future for a price specified in the agreement. Also known as a forward. "
+            "term": "Form 10-K",
+            "definition": "In the United States, a version of the Annual Report that public companies, including stock insurers, must file with the Securities and Exchange Commission (SEC). "
         },
         {
             "sort": "F",
-            "term": "fraternal insurer",
-            "definition": "An insurance company that is formed to provide social and insurance benefits to its members. Also known as a fraternal benefit society. "
+            "term": "Form 10-Q",
+            "definition": "In the United States, a quarterly report that public companies, including stock insurers, must file with the Securities and Exchange Commission (SEC) to keep it apprised of their financial performance and condition during the year. "
         },
         {
             "sort": "F",
-            "term": "front running",
-            "definition": "A specific type of insider trading that involves the unethical trade of a security by an investment professional based on advance knowledge of large pending client orders of the same security. "
+            "term": "Form 8-K",
+            "definition": "In the United States, a special report that public companies, including stock insurers, must file with the Securities and Exchange Commission (SEC) to disclose any material event not previously reported that is important to investors. "
         },
         {
             "sort": "F",
-            "term": "functional regulation",
-            "definition": "The principle that a single regulatory body should oversee similar financial activities, regardless of which type of financial institution engages in the activity. "
+            "term": "fraud",
+            "definition": "The intentional use of false information to mislead another party. "
         },
         {
             "sort": "F",
-            "term": "futures contract",
-            "definition": "A limited-time agreement that gives the owner of the agreement the right to buy or sell a certain asset at a specified future date and price. Also known as a future. "
+            "term": "full-disclosure concept",
+            "definition": "The accounting principle that states that a financial statement must contain all material information about a company and that the company must disclose any additional information or fact that, by its omission, could mislead an interested user of the company’s financial information. "
+        },
+        {
+            "sort": "F",
+            "term": "function",
+            "definition": "A series of activities that serve a specific purpose. "
+        },
+        {
+            "sort": "F",
+            "term": "functional cost analysis",
+            "definition": "A subset of activity-based costing; the process of accumulating the costs that are involved in each activity within a function. "
+        },
+        {
+            "sort": "F",
+            "term": "functional costs",
+            "definition": "The accumulated costs of the activities involved within a certain function, without regard to organizational units. "
+        },
+        {
+            "sort": "F",
+            "term": "functional unit cost",
+            "definition": "A type of functional cost that is calculated by dividing the total functional cost by an appropriate base unit. "
         },
         {
             "sort": "G",
@@ -877,993 +887,858 @@ var glossary_settings = {
         },
         {
             "sort": "G",
-            "term": "gambling",
-            "definition": "The act of wagering something of value—such as money—on the outcome of an event involving chance. "
+            "term": "GAAP accounting records",
+            "definition": "Accounting records designed for financial reporting to investors, noninsurance regulators (such as the SEC in the United States), and the general public. "
         },
         {
             "sort": "G",
             "term": "general account",
-            "definition": "A life insurance company investment account in which the insurer maintains assets that support all of the insurer’s contractual obligations for guaranteed insurance products, such as whole life insurance or fixed annuity products. Also known as a general account portfolio. "
+            "definition": "The account in which an insurer maintains assets that support its contractual obligations for guaranteed insurance products, such as individual permanent life insurance products, fixed-rate annuities, and guaranteed minimum benefit riders under variable products. "
+        },
+        {
+            "sort": "G",
+            "term": "general and administrative expense budget",
+            "definition": "A type of expense budget that includes expenses—typically fixed expenses—needed for insurance company operations. "
+        },
+        {
+            "sort": "G",
+            "term": "general and administrative expenses",
+            "definition": "The costs—contractual benefit expenses and operating expenses—incurred as a result of undertaking normal business activities to generate sales and to support products. "
+        },
+        {
+            "sort": "G",
+            "term": "general expense ratio",
+            "definition": "For a given reporting period, a ratio that compares an insurer’s general insurance expenses to its premiums, annuity considerations, and considerations on supplementary contracts with life contingencies. "
         },
         {
             "sort": "G",
             "term": "generally accepted accounting principles",
-            "definition": "In the United States, a set of financial accounting standards, conventions, and rules that all publicly traded companies must follow when summarizing transactions and preparing their financial statements. "
+            "definition": "A set of financial accounting standards, conventions, and rules that all publicly traded companies must follow when summarizing transactions and preparing their financial statements. "
         },
         {
             "sort": "G",
-            "term": "general obligation bond",
-            "definition": "A type of municipal bond that is backed by the full faith and credit of the issuer—which includes the taxing and further borrowing power of the issuer. "
+            "term": "GIC",
+            "definition": "See guaranteed interest contract. "
         },
         {
             "sort": "G",
-            "term": "GIPS®",
-            "definition": "See Global Investment Performance Standards. "
+            "term": "going-concern concept",
+            "definition": "An accounting principle that requires a company’s accounting records to reflect the assumption that the company will continue to operate indefinitely. "
         },
         {
             "sort": "G",
-            "term": "Global Investment Performance Standards",
-            "definition": "Standards for consistent reporting of investment performance that are designed to ensure fair representation and full disclosure of investment performance across a global market. "
+            "term": "government bond",
+            "definition": "A bond issued by a government—including federal, state, provincial, county, city, and other local governments. "
         },
         {
             "sort": "G",
-            "term": "growth fund",
-            "definition": "A type of investment fund that invests in stocks of companies with the potential for above-average growth, resulting in capital appreciation. "
+            "term": "gross investment income",
+            "definition": "The accrual-basis amount of investment income representing the total amount of income an insurer earned during the reporting period, before deducting expenses and amortization. "
         },
         {
-            "sort": "H",
-            "term": "hedge effectiveness report",
-            "definition": "An asset-liability management report that provides information on every position established for hedging purposes. "
+            "sort": "G",
+            "term": "gross paid-in and contributed surplus",
+            "definition": "Under statutory accounting, the aggregate amount paid above the par value for shares of an insurer’s own stock. "
         },
         {
-            "sort": "H",
-            "term": "hedge fund ",
-            "definition": "An alternative investment vehicle that (1) is often structured as a limited partnership, (2) pools capital from a limited number of sophisticated investors, and (3) is virtually unlimited in the investment strategies it can pursue. "
+            "sort": "G",
+            "term": "guaranteed interest contract",
+            "definition": "A contract in which the contract holder places one or more deposits with an insurer for a stated period in exchange for repayment of those deposits plus interest at a guaranteed rate. "
         },
         {
             "sort": "H",
             "term": "hedging",
-            "definition": "A risk management strategy that involves balancing one risk with a complementary risk that ideally offsets the original risk. "
+            "definition": "The process of taking an action—such as entering into a derivatives contract—that minimizes a risk or counterbalances a given risk exposure against another. "
         },
         {
             "sort": "H",
-            "term": "high-yield bond",
-            "definition": "A bond that is not an investment-grade bond. Also known as a junk bond or speculative bond. "
+            "term": "historical cost",
+            "definition": "The purchase price originally paid for an asset. "
         },
         {
             "sort": "H",
-            "term": "historical return",
-            "definition": "A known investment performance result for a given period. Also known as an actual return. "
-        },
-        {
-            "sort": "H",
-            "term": "holding period return",
-            "definition": "The rate of return on an investment over the entire period of owning the investment. Also known as holding period rate of return. "
+            "term": "horizontal analysis",
+            "definition": "A type of comparative analysis that involves calculating the absolute monetary amount of change in an item on a specified financial statement from one reporting period to another. "
         },
         {
             "sort": "H",
             "term": "hybrid security",
-            "definition": "A security which has characteristics of both equity and debt securities. "
+            "definition": "A security that has characteristics of both debt and equity securities. "
         },
         {
-            "sort": "H",
-            "term": "hyperinflation",
-            "definition": "A rapid and unsustainable increase in prices in an economy over a period of time. "
+            "sort": "I",
+            "term": "IASB",
+            "definition": "See International Accounting Standards Board. "
+        },
+        {
+            "sort": "I",
+            "term": "IFRS Standards",
+            "definition": "A single set of global accounting standards established by the International Accounting Standards Board (IASB). "
+        },
+        {
+            "sort": "I",
+            "term": "immediate recognition",
+            "definition": "An expense recognition concept that states that a company recognizes all costs as expenses during the current accounting period. "
         },
         {
             "sort": "I",
             "term": "IMR",
-            "definition": "See Interest Maintenance Reserve. "
+            "definition": "See interest maintenance reserve. "
         },
         {
             "sort": "I",
-            "term": "income fund",
-            "definition": "A type of investment fund that is dedicated to earning a reliable income stream from investments that provide interest, dividend payments, or rent. "
+            "term": "income due and accrued",
+            "definition": "Income that was earned by the insurer before the financial reporting date but that has not yet been received. "
+        },
+        {
+            "sort": "I",
+            "term": "income statement",
+            "definition": "A financial statement that reports an insurer’s revenues and expenses during a specified accounting period and indicates whether the insurer experienced net income or a net loss during the accounting period. "
         },
         {
             "sort": "I",
             "term": "incompatible functions",
-            "definition": "Job duties in the normal course of employment that, when combined, place an employee in a position where he could commit an illegal act or could conceal errors or irregularities. "
+            "definition": "In the context of internal control, job duties that, when combined, place an employee in a position to commit an illegal act or to conceal errors or irregularities in the normal course of his or her employment. "
         },
         {
             "sort": "I",
-            "term": "index",
-            "definition": "A statistical measurement system that tracks the performance of a group of similar investments. "
+            "term": "index number",
+            "definition": "A statistical method for measuring the change in a variable. "
         },
         {
             "sort": "I",
-            "term": "index fund ",
-            "definition": "A type of investment fund that seeks to produce a pattern of performance similar to that of a specified market index. "
+            "term": "indirect cost",
+            "definition": "A cost that cannot be identified specifically with a single cost object. "
         },
         {
             "sort": "I",
-            "term": "inflation ",
-            "definition": "A prolonged rise in the average level of prices in an economy that decreases the purchasing power of the economy’s currency. "
+            "term": "insurance leverage ratio",
+            "definition": "A leverage ratio that compares a company’s contractual reserves to its capital and surplus. "
         },
         {
             "sort": "I",
-            "term": "information ratio",
-            "definition": "The ratio of the excess return for an investment portfolio divided by the portfolio’s tracking error; the result is usually expressed as a percentage. "
+            "term": "Insurance Regulatory Information System",
+            "definition": "In the United States, a collection of financial tools and databases designed to help state insurance regulators evaluate the financial condition of insurers that operate in their states. "
         },
         {
             "sort": "I",
-            "term": "information security",
-            "definition": "The physical, technical, and procedural steps a company takes to prevent the loss, wrongful disclosure (accidental or intentional), or theft of information. "
+            "term": "interest maintenance reserve",
+            "definition": "For life insurance companies in the United States, a reserve that helps absorb realized gains and losses on an insurer’s debt securities, such as bonds, mortgages, and preferred stock, when those gains or losses are caused by changes in market interest rates rather than changes in the credit quality of the assets. "
         },
         {
             "sort": "I",
-            "term": "infrastructure ",
-            "definition": "The basic facilities and systems that provide the services necessary for societies and economies to function. "
+            "term": "interest-rate risk",
+            "definition": "In the context of the interest maintenance reserve (IMR), the risk that unpredictable movements in market interest rates will cause the value of a life insurer’s debt securities to change. "
         },
         {
             "sort": "I",
-            "term": "initial public offering",
-            "definition": "For stocks, the first time a corporation’s stock is offered for sale to the public. "
+            "term": "internal accounting records",
+            "definition": "Accounting records designed for financial reporting to a company’s management team, whose primary interest is in having appropriate data for making decisions. "
         },
         {
             "sort": "I",
-            "term": "insider trading",
-            "definition": "The prohibited act of buying or selling a company’s securities based on knowledge of material nonpublic information. "
+            "term": "internal analysis",
+            "definition": "A type of financial ratio analysis undertaken by employees of the company being analyzed. "
         },
         {
             "sort": "I",
-            "term": "institutional investor",
-            "definition": "An organization that holds financial assets and trades securities in large volume. "
+            "term": "internal audit",
+            "definition": "A financial audit that is performed by company employees. "
         },
         {
             "sort": "I",
-            "term": "insurance value appraisal",
-            "definition": "A real estate appraisal approach in which the appraiser estimates the amount an insurance company would potentially cover under property insurance if all buildings and fixtures on a property were destroyed. Also known as a replacement value appraisal. "
+            "term": "internal control",
+            "definition": "The process in which a company takes actions designed to protect its assets, monitor the reliability of its accounting records, encourage both operational efficiency and adherence to the company’s management policies, and comply with applicable laws and regulations. "
         },
         {
             "sort": "I",
-            "term": "intangible asset ",
-            "definition": "An asset that represents ownership of a legal right or another nonphysical resource. "
+            "term": "Internal Revenue Service",
+            "definition": "Part of the U.S. Department of the Treasury, the governmental agency responsible for enforcing the provisions of laws and regulations concerning income taxes. "
         },
         {
             "sort": "I",
-            "term": "Interest Maintenance Reserve",
-            "definition": "A type of investment reserve that helps absorb realized gains and losses on an insurer’s interest-bearing assets when those gains or losses are caused by changes in market interest rates rather than changes in the credit quality of the assets. "
+            "term": "International Accounting Standards Board",
+            "definition": "The standard-setting organization charged with developing and promulgating international financial reporting standards (IFRS). "
         },
         {
             "sort": "I",
-            "term": "interest margin",
-            "definition": "The share of investment earnings that an insurer retains after crediting a share of investment earnings to policyowners. Also known as the interest-rate margin or the interest spread. "
+            "term": "inventory",
+            "definition": "An itemized count and listing of a company’s assets, such as property, products, materials, or securities. "
         },
         {
             "sort": "I",
-            "term": "interest-rate anticipation strategy ",
-            "definition": "An investment strategy in which trades of fixed-income securities are conducted in anticipation of estimated future changes in market interest rates. "
+            "term": "investable funds",
+            "definition": "Under the investment year method of revenue allocation, funds that consist of (1) net income before taxes, (2) investment income received on prior investments, and (3) the maturities of principal on prior investments. "
         },
         {
             "sort": "I",
-            "term": "interest-rate risk ",
-            "definition": "The risk that the market value of an investment will change due to a change in nominal market interest rates. "
+            "term": "investing",
+            "definition": "Employing a principal sum of money to generate earnings. "
         },
         {
             "sort": "I",
-            "term": "interest-rate swap",
-            "definition": "A derivatives contract which consists of an agreement between two parties to exchange a set of cash flows—typically with one cash flow based on a fixed interest rate and the other based on a variable, or floating, interest rate. "
+            "term": "investing activities",
+            "definition": "Transactions that involve a company’s purchase or sale of long-term assets and the lending of funds to other companies. "
         },
         {
             "sort": "I",
-            "term": "International Organisation of Securities Commissions",
-            "definition": "An international self-regulatory organization for the securities industry that develops international standards for securities regulation. "
+            "term": "investment accounting",
+            "definition": "The area of accounting that is responsible for recording all accounting entries related to the invested assets held in an insurer’s investment portfolio. "
         },
         {
             "sort": "I",
-            "term": "intrinsic value",
-            "definition": "In security analysis, an investor’s estimate of a security’s true value; the estimate is typically based on the investor’s assessments of both tangible and intangible factors. "
+            "term": "investment budget",
+            "definition": "A budget that projects the types of investments the insurer will make and the expected amount of investment income for each type of investment. "
         },
         {
             "sort": "I",
-            "term": "inverted yield curve ",
-            "definition": "A type of yield curve that shows a downward slope from left to right, indicating that yields on short-term debt securities are higher than yields on long-term debt securities. "
+            "term": "investment center",
+            "definition": "A department or division to which costs (expenses), revenues, and capital or investment funds can be traced. "
         },
         {
             "sort": "I",
-            "term": "investment",
-            "definition": "Any use of an investor’s resources that is intended to generate a positive return of some kind. "
+            "term": "investment contract",
+            "definition": "According to GAAP, a long-duration contract that does not expose the insurer to significant risks arising from policyowner or contract owner mortality. "
         },
         {
             "sort": "I",
-            "term": "investment activity report ",
-            "definition": "A report that specifies the details of all investment portfolio transactions, including all asset acquisitions and all dispositions of assets from the portfolio through sales, prepayments, or repayment at maturity. "
-        },
-        {
-            "sort": "I",
-            "term": "Investment Advisers Act of 1940 ",
-            "definition": "A U.S. federal securities law that regulates the activities of individuals and companies that are compensated for advising others about investments in securities. "
-        },
-        {
-            "sort": "I",
-            "term": "investment advisor ",
-            "definition": "A company or individual licensed appropriately to provide advice to investors about the value of securities or the advisability of buying and selling securities in exchange for compensation. "
-        },
-        {
-            "sort": "I",
-            "term": "investment analyst",
-            "definition": "An investment professional responsible for monitoring issuers of securities and making trading recommendations. Also known as a securities analyst or financial analyst. "
-        },
-        {
-            "sort": "I",
-            "term": "investment bank",
-            "definition": "An institution that specializes in underwriting debt and equity offerings and act as an intermediary between issuers of securities and investors. "
-        },
-        {
-            "sort": "I",
-            "term": "investment committee",
-            "definition": "A standing committee that assists a company’s board of directors in carrying out governance duties over the company’s investments. "
-        },
-        {
-            "sort": "I",
-            "term": "investment company",
-            "definition": "In the context of U.S. federal securities regulation, an entity that issues securities and engages primarily in investing, reinvesting, and trading in securities. "
-        },
-        {
-            "sort": "I",
-            "term": "Investment Company Act of 1940 ",
-            "definition": "A U.S. federal securities law that regulates the organization of investment companies. "
-        },
-        {
-            "sort": "I",
-            "term": "investment constraint",
-            "definition": "A circumstance that limits the investment options that an investor has for a particular portfolio. "
-        },
-        {
-            "sort": "I",
-            "term": "investment fund",
-            "definition": "A type of investment vehicle that pools capital to purchase a portfolio of securities. Also known as a collective investment vehicle. "
-        },
-        {
-            "sort": "I",
-            "term": "investment-grade bond",
-            "definition": "A bond that is in the highest credit rating classification. "
-        },
-        {
-            "sort": "I",
-            "term": "investment objective ",
-            "definition": "A statement that describes an investment portfolio’s purpose, typically by describing how the portfolio will meet an investor’s financial goals. "
-        },
-        {
-            "sort": "I",
-            "term": "investment policy ",
-            "definition": "A statement, established by an institutional investor’s board of directors, that outlines a set of formal rules and guidelines for investing. "
-        },
-        {
-            "sort": "I",
-            "term": "investment policy statement",
-            "definition": "A written document that describes an investment portfolio’s investment goals and strategies, the type and amount of risk the investor is willing and able to accept within the portfolio, and the investment costs the investor is willing to incur for the portfolio’s management. "
+            "term": "investment expenses",
+            "definition": "The costs associated with investing the insurer’s assets. "
         },
         {
             "sort": "I",
             "term": "investment portfolio",
-            "definition": "A collection of securities and other types of investments owned by the same person or organization. "
-        },
-        {
-            "sort": "I",
-            "term": "investment portfolio performance review ",
-            "definition": "In asset-liability management, a management report that presents a portfolio’s investment performance for presentation to the company’s oversight committees. "
+            "definition": "In the context of investment accounting, a collection of various investments owned by the same organization, usually assembled to meet a defined set of financial goals. "
         },
         {
             "sort": "I",
             "term": "investment segmentation method",
-            "definition": "An investment income allocation method in which an insurer uses the cash flows associated with a product line or portfolio segment to purchase specific assets for that line or segment. "
+            "definition": "A revenue allocation method in which an insurer uses the cash flows of a line of business to purchase specific investments for that line. "
         },
         {
             "sort": "I",
-            "term": "Investments of Insurers Model Act (Defined Limits Version)",
-            "definition": "A National Association of Insurance Commissioners model act that specifies the types of assets that insurers are permitted to treat as admitted assets and imposes quantitative limitations on the amount of each type of asset an insurer may treat as admitted assets. Also known as the pigeonhole version. "
+            "term": "investment year method",
+            "definition": "A revenue allocation method that forms separate investment pools that contain the investments made during each year, and then a share of the investment pool for each calendar year is allocated to each line of business. "
         },
         {
             "sort": "I",
-            "term": "Investments of Insurers Model Act (Defined Standards Version)",
-            "definition": "A National Association of Insurance Commissioners model act that specifies that, with respect to an insurer’s investments, the insurer’s board of directors shall exercise the judgment that persons of reasonable prudence would use in similar circumstances. Also known as the prudent person version. "
+            "term": "investment yield ratio",
+            "definition": "A financial ratio that shows how efficiently an insurer has used its invested assets to earn a return by comparing its net investment income to its average invested assets. "
         },
         {
             "sort": "I",
-            "term": "investment value appraisal",
-            "definition": "A real estate appraisal approach in which the appraiser estimates the value of a property to a particular investor, with the property valued at its highest and best use. "
+            "term": "IRIS",
+            "definition": "See Insurance Regulatory Information System. "
         },
         {
             "sort": "I",
-            "term": "investment vehicle",
-            "definition": "The medium used to represent an investment interest in an asset. Also known as financial instrument, funding vehicle, and funding instrument. "
-        },
-        {
-            "sort": "I",
-            "term": "IOSCO",
-            "definition": "See International Organisation of Securities Commissions. "
-        },
-        {
-            "sort": "I",
-            "term": "IPO",
-            "definition": "See initial public offering. "
-        },
-        {
-            "sort": "I",
-            "term": "IPS",
-            "definition": "See investment policy statement. "
-        },
-        {
-            "sort": "J",
-            "term": "Jensen’s alpha ",
-            "definition": "A risk-adjusted measure of alpha that factors in an investment portfolio’s beta to determine whether the portfolio generated positive returns as compensation for the investment risk it assumed. "
-        },
-        {
-            "sort": "J",
-            "term": "jurisdiction",
-            "definition": "The geographic area of legal authority. "
-        },
-        {
-            "sort": "K",
-            "term": "key performance indicator",
-            "definition": "A quantitative measure that indicates success for a specified process or activity that is critical to the success of an organization. "
-        },
-        {
-            "sort": "K",
-            "term": "key risk indicator",
-            "definition": "A quantitative measure that indicates the level of potential adverse impact on a given activity. "
-        },
-        {
-            "sort": "K",
-            "term": "KPI",
-            "definition": "See key performance indicator. "
-        },
-        {
-            "sort": "K",
-            "term": "KRI",
-            "definition": "See key risk indicator. "
+            "term": "IRS",
+            "definition": "See Internal Revenue Service. "
         },
         {
             "sort": "L",
-            "term": "laddering strategy",
-            "definition": "A bond investment strategy in which an investor purchases multiple bonds, each of an approximately equal monetary amount but with differing maturity dates that occur at regular intervals. "
+            "term": "lapse and surrender ratio",
+            "definition": "A ratio that compares the number of life insurance policies or annuity contracts that either lapsed or were surrendered during the current year to the average number of policies or contracts in force during the current year. "
         },
         {
             "sort": "L",
-            "term": "large-cap fund",
-            "definition": "A type of investment fund that invests in companies with a large market capitalization—for example, greater than $10 billion. "
+            "term": "leverage effect",
+            "definition": "A financial effect in which the presence of fixed costs—either operating costs or financing costs—automatically magnifies the potential risks and returns to the company’s owners. "
         },
         {
             "sort": "L",
-            "term": "late trading",
-            "definition": "A type of illegal preferential treatment given to some investors who are allowed to trade securities—typically open-end mutual funds—after a stock market closes using that day’s closing prices. "
+            "term": "leverage ratios",
+            "definition": "Financial ratios that compare the amount of an insurer’s obligations with the insurer’s ability to meet those obligations. "
         },
         {
             "sort": "L",
-            "term": "leverage ",
-            "definition": "In investing, the use of borrowing to enhance the potential return of an investment, at the risk of enhancing the potential loss on the investment. "
+            "term": "liabilities",
+            "definition": "A monetary amount that represents a company’s current and future obligations. "
         },
         {
             "sort": "L",
-            "term": "leveraged buyout fund",
-            "definition": "A type of private equity fund that uses debt financing—such as leveraged loans—to purchase shares of target companies. Also known as an LBO fund. "
+            "term": "line of business",
+            "definition": "In the context of cost accounting, a part of a business that has a cost pattern distinct from that of other parts of the business. "
         },
         {
             "sort": "L",
-            "term": "leveraged loan",
-            "definition": "A commercial loan characterized by high yields and floating interest rates. Also known as a bank loan or syndicated loan. "
+            "term": "liquidation",
+            "definition": "The process of selling all company assets for cash and using that cash to pay the company’s debts; any funds remaining are distributed to the owners of the business. "
         },
         {
             "sort": "L",
-            "term": "leverage ratio ",
-            "definition": "A type of financial ratio that compares values that represent (1) the amount of a company’s debt obligations and (2) its ability to meet those obligations. "
+            "term": "liquidity",
+            "definition": "The ease with which an asset can be converted to cash for an approximation of its underlying value. "
         },
         {
             "sort": "L",
-            "term": "liability",
-            "definition": "The current and future financial obligations an insurer has to its customers. "
+            "term": "liquidity ratios",
+            "definition": "Financial ratios that measure a company’s ability to meet its maturing short-term obligations. "
         },
         {
             "sort": "L",
-            "term": "lifestyle fund",
-            "definition": "A type of investment fund that has the objective of maintaining a specific level of risk at all times. Also known as an asset allocation fund or risk-based fund. "
+            "term": "long-term assets",
+            "definition": "Assets that a company plans to hold indefinitely or for a long time—generally longer than one year—to generate income. "
         },
         {
             "sort": "L",
-            "term": "limited partnership",
-            "definition": "A business organization that consists of (1) one or more general partners who manage and control a business and are legally liable for all the debts and obligations of the business, and (2) one or more limited partners whose main function is to provide investment capital. "
+            "term": "long-term budget",
+            "definition": "A budget that generally covers periods of more than one year. "
         },
         {
             "sort": "L",
-            "term": "liquidation value appraisal",
-            "definition": "A real estate appraisal approach in which the appraiser estimates the price that a property would bring if the owners were forced to sell it quickly, under distressed circumstances. "
-        },
-        {
-            "sort": "L",
-            "term": "liquidity ",
-            "definition": "In the context of financial products, the ease with which an asset can be converted to cash for an approximation of its underlying value. "
-        },
-        {
-            "sort": "L",
-            "term": "liquidity policy",
-            "definition": "A policy, set by the asset-liability management function, that states the minimum monetary amount of cash and near-cash assets an insurance company must hold over a specified time period to support its liabilities. "
-        },
-        {
-            "sort": "L",
-            "term": "liquidity risk ",
-            "definition": "The risk that an asset might not be easily sold for its underlying value. "
-        },
-        {
-            "sort": "L",
-            "term": "loan-to-value (LTV) ratio",
-            "definition": "The ratio of a mortgage’s loan balance to the property’s value. "
+            "term": "long-term liabilities",
+            "definition": "Financial obligations that a company does not have to pay in full during the current accounting period—usually one year. "
         },
         {
             "sort": "M",
-            "term": "margin compression ",
-            "definition": "The narrowing of an insurer’s interest margin, potentially because of market interest-rate changes. "
+            "term": "maintenance expenses",
+            "definition": "The category of operating expenses that includes product-related costs that are incurred on in-force policies and contracts. "
         },
         {
             "sort": "M",
-            "term": "margin expansion ",
-            "definition": "An increase in an insurer’s interest margin, potentially because of market interest-rate changes. "
+            "term": "management accounting",
+            "definition": "The field of accounting that focuses primarily on identifying, measuring, analyzing, and communicating financial information to a company’s internal users, particularly company managers, so they can decide how to best use the company’s resources. "
         },
         {
             "sort": "M",
-            "term": "market capitalization",
-            "definition": "The total market value of all of a company’s outstanding shares of stock, which is calculated by multiplying the number of outstanding shares by the price per share. Also known as the market cap. "
+            "term": "management audit",
+            "definition": "A type of performance audit that focuses on improving the effectiveness and efficiency of an insurer’s operations. "
         },
         {
             "sort": "M",
-            "term": "market conduct law",
-            "definition": "A type of U.S. state insurance law that is designed to ensure that insurance companies conduct their business fairly and ethically. "
+            "term": "management by exception",
+            "definition": "A management style that focuses on results that deviate from an established baseline. "
         },
         {
             "sort": "M",
-            "term": "market maker",
-            "definition": "A securities dealer that holds an inventory of a particular stock and stands ready to buy and sell shares of that stock continuously at the published bid and ask prices. "
+            "term": "marginal cost",
+            "definition": "The additional cost incurred from producing one additional unit of an existing product or service. "
         },
         {
             "sort": "M",
-            "term": "market sentiment",
-            "definition": "The general attitude of investors. Also known as investor sentiment. "
+            "term": "master budget",
+            "definition": "A budget that shows the overall operating and financing plans for the company during a specified accounting period. "
         },
         {
             "sort": "M",
-            "term": "market timing",
-            "definition": "An investment activity designed to anticipate the future direction of a market, typically through economic data or market indicators. "
+            "term": "matching principle",
+            "definition": "Under GAAP, an accounting principle that states that a company should recognize expenses as the company earns the revenues related to those expenses, regardless of when the company receives payment for the revenues earned and regardless of when the company actually paid the expenses. "
         },
         {
             "sort": "M",
-            "term": "market value",
-            "definition": "In investing, the current price an asset would sell for in the marketplace. "
+            "term": "materiality",
+            "definition": "The quality of accounting information that requires companies to disclose all significant information in their financial statements. "
         },
         {
             "sort": "M",
-            "term": "market value appraisal",
-            "definition": "A real estate appraisal approach in which the appraiser estimates the price a buyer would be willing to pay for a property in current market conditions. "
+            "term": "maturity date",
+            "definition": "The date on which the bond issuer pays the bond’s par value to the bondholder. "
         },
         {
             "sort": "M",
-            "term": "material nonpublic information",
-            "definition": "Company information that has not been communicated to the general public and that a reasonable investor would consider important in making an investment decision about the company. Also known as inside (or insider) information. "
+            "term": "MBE",
+            "definition": "See management by exception. "
         },
         {
             "sort": "M",
-            "term": "maturity date ",
-            "definition": "The date on which the bond issuer must repay to the bondholder the amount originally borrowed (the par value). "
+            "term": "mean liabilities method",
+            "definition": "A revenue allocation method that allocates investment income to lines of business based on the reserves that are attributable to each line. "
         },
         {
             "sort": "M",
-            "term": "MBS",
-            "definition": "See &lt;"
+            "term": "minimum cash balance",
+            "definition": "The amount of cash that a company determines is necessary to pay all obligations in an accounting period without having excess cash. "
         },
         {
             "sort": "M",
-            "term": "McCarran-Ferguson Act ",
-            "definition": "A federal law under which the U.S. Congress left insurance regulation to the state governments. "
+            "term": "modified reserve valuation",
+            "definition": "Under statutory accounting, a method of calculating contractual reserves in which an insurer sets a lower-than-level first-year contractual reserve in recognition of a product’s high first-year expenses. "
         },
         {
             "sort": "M",
-            "term": "mean liabilities method ",
-            "definition": "An investment income allocation method in which an insurer assigns investment income to each of its product lines in proportion to the reserves attributed to that product line. "
-        },
-        {
-            "sort": "M",
-            "term": "mean reversion",
-            "definition": "In investing, the theory that returns will eventually move back toward their historical averages after a temporary period of significant deviation. "
-        },
-        {
-            "sort": "M",
-            "term": "mean variance optimization",
-            "definition": "In investing, a quantitative modeling technique used to identify portfolio asset allocations that represent the most efficient portfolios. Also known as mean optimization or mean variance analysis. "
-        },
-        {
-            "sort": "M",
-            "term": "mezzanine debt ",
-            "definition": "A type of subordinated debt that also gives the lender an equity stake in the borrowing company. "
-        },
-        {
-            "sort": "M",
-            "term": "mezzanine debt fund ",
-            "definition": "A type of private equity fund that provides mezzanine debt financing to established, profitable companies seeking funds for expansions, acquisitions, or other growth opportunities. "
-        },
-        {
-            "sort": "M",
-            "term": "mid-cap fund",
-            "definition": "A type of investment fund that invests in companies with a medium market capitalization—for example, $2 billion to $10 billion. "
-        },
-        {
-            "sort": "M",
-            "term": "minimum capital and surplus requirements",
-            "definition": "Solvency requirements that set specific minimum dollar amounts of capital and surplus for an insurer as a whole and for each of the company’s product lines. Also known as statutory minimum capitalization requirements. "
-        },
-        {
-            "sort": "M",
-            "term": "misappropriation of funds",
-            "definition": "A fraud that occurs when an individual authorized to handle a customer’s funds illegally alters documents or electronic files to divert funds for personal use, even if the use is on a temporary basis. "
-        },
-        {
-            "sort": "M",
-            "term": "MMoU",
-            "definition": "See Multilateral Memorandum of Understanding. "
-        },
-        {
-            "sort": "M",
-            "term": "model law",
-            "definition": "A sample law designed to serve as the basis for similar laws enacted by each state. "
-        },
-        {
-            "sort": "M",
-            "term": "momentum",
-            "definition": "In investing, the tendency for a security that is gaining or falling in market value to continue moving in the same direction. "
-        },
-        {
-            "sort": "M",
-            "term": "momentum investing strategy",
-            "definition": "An investment strategy that uses investments to benefit from securities with established upward or downward price trends. "
-        },
-        {
-            "sort": "M",
-            "term": "monetary policy ",
-            "definition": "The strategy that a country’s monetary authority uses to stabilize the economy by increasing or decreasing the supply of money. "
-        },
-        {
-            "sort": "M",
-            "term": "money market account",
-            "definition": "An account that pays interest on deposited funds based on current interest rates for highly liquid, low-risk assets with short-term maturities. "
-        },
-        {
-            "sort": "M",
-            "term": "Monte Carlo modeling",
-            "definition": "A form of modeling in which an automatic process (1) randomly assigns values to specified input data—thereby creating a large number of scenarios, (2) conducts numerous process iterations as needed, and (3) produces output data that can be described in the form of a probability distribution. Also known as probabilistic modeling. "
-        },
-        {
-            "sort": "M",
-            "term": "Morningstar Style Box ",
-            "definition": "A nine-square grid that provides a graphical representation of a fund’s investment style. "
+            "term": "money measurement concept",
+            "definition": "The accounting principle that states that a company should record its accounting information in monetary terms, such as dollars, yen, or Euros. "
         },
         {
             "sort": "M",
             "term": "mortgage",
-            "definition": "A long-term loan that a property owner secures by pledging a real estate property as collateral. "
-        },
-        {
-            "sort": "M",
-            "term": "mortgage-backed security",
-            "definition": "A type of structured security that is created when individual mortgages are packaged to form a pool of mortgages. "
-        },
-        {
-            "sort": "M",
-            "term": "Multilateral Memorandum of Understanding",
-            "definition": "An International Organisation of Securities Commissions document with standard language that provides assurance that a company’s interests can be protected after it invests across a national boundary. "
-        },
-        {
-            "sort": "M",
-            "term": "multisector bond fund ",
-            "definition": "A type of investment fund that invests in bonds from several fixed-income sectors—including U.S. government obligations, U.S. corporate bonds, foreign bonds, and high-yield U.S. debt securities. "
-        },
-        {
-            "sort": "M",
-            "term": "municipal bond",
-            "definition": "A bond issued by city, county, or state government. Also known as a muni. "
-        },
-        {
-            "sort": "M",
-            "term": "mutual fund ",
-            "definition": "An investment vehicle that pools the funds of investors and uses the funds to buy a diversified portfolio of financial securities. "
-        },
-        {
-            "sort": "M",
-            "term": "mutual insurer",
-            "definition": "An insurance company that is owned by its policyowners. "
-        },
-        {
-            "sort": "M",
-            "term": "MVO",
-            "definition": "See mean variance optimization. "
+            "definition": "A long-term loan secured by a pledge of specified real property. "
         },
         {
             "sort": "N",
-            "term": "NAV",
-            "definition": "See net asset value. "
+            "term": "NAIC",
+            "definition": "See National Association of Insurance Commissioners. "
         },
         {
             "sort": "N",
-            "term": "net asset value",
-            "definition": "The total value of the mutual fund assets—after expenses—divided by the total number of fund shares outstanding, which represents the number of fund shares that shareholders currently own. "
+            "term": "National Association of Insurance Commissioners",
+            "definition": "A private, nonprofit association of the commissioners of all 50 states, the District of Columbia, and the U.S. territories that promotes uniformity of state regulation by developing model laws and regulations that serve as guidelines for the states. "
         },
         {
             "sort": "N",
-            "term": "nominal rate of return",
-            "definition": "The stated rate of return on an investment without adjustment for inflation or other factors. "
+            "term": "negative leverage effect",
+            "definition": "The effect of earning a smaller profit, lower potential returns, or incurring a loss as a result of leverage. "
+        },
+        {
+            "sort": "N",
+            "term": "negative variance",
+            "definition": "A variance in which the actual amount or percentage of an amount is less than expected. "
+        },
+        {
+            "sort": "N",
+            "term": "net change in cash",
+            "definition": "The increase or decrease in cash; the difference between the net cash inflows and net cash outflows for an accounting period. "
+        },
+        {
+            "sort": "N",
+            "term": "Net GAAP reserves",
+            "definition": "An insurer’s reported GAAP reserves minus its deferred acquisition costs (DAC). "
+        },
+        {
+            "sort": "N",
+            "term": "net income",
+            "definition": "Any money that results from an excess of total revenues over total expenses during a specified period. "
+        },
+        {
+            "sort": "N",
+            "term": "net investment income",
+            "definition": "The accrual-basis amount of investment income that remains after deducting expenses and amortization from an insurer’s gross investment income. "
+        },
+        {
+            "sort": "N",
+            "term": "net loss",
+            "definition": "The amount of a company’s total expenses that exceeds its total revenues during a specified period. "
+        },
+        {
+            "sort": "N",
+            "term": "net profit margin",
+            "definition": "A financial ratio that shows how much after-tax profit, or net income, is generated by each dollar of total revenue. "
         },
         {
             "sort": "N",
             "term": "nonadmitted asset",
-            "definition": "A type of asset for which no value can be reported on the Assets page of the Annual Statement. "
+            "definition": "An asset that is reported on the Assets page of the Annual Statement but is accorded no value. "
         },
         {
             "sort": "N",
-            "term": "nonagency MBS",
-            "definition": "A security based on portfolios of residential mortgages that do not qualify for agency MBSs. Also known as a nonagency mortgage-backed security or private-label MBS. "
+            "term": "nonadmitted assets ratio",
+            "definition": "A type of liquidity ratio that compares an insurer’s nonadmitted assets to its surplus. "
         },
         {
             "sort": "N",
-            "term": "nonamortized loan",
-            "definition": "A type of loan for which minimum repayments typically consist only of interest, with repayment of principal required by the end of the loan’s term. "
+            "term": "noncontractal reserve",
+            "definition": "A liability amount that an insurer estimates it will need to pay the insurer’s business obligations that are not directly attributable to benefits payable for a specified product. "
         },
         {
             "sort": "N",
-            "term": "nonconventional mortgage loan ",
-            "definition": "A mortgage loan that does not satisfy lender requirements for conventional loans, but does satisfy U.S. government criteria—such as those specified by the Department of Veterans Affairs (VA) or Federal Housing Administration (FHA)—and thus qualifies for government-provided mortgage insurance that guarantees the mortgage. "
+            "term": "noncontrollable cost",
+            "definition": "A cost over which a responsibility manager has no decision-making authority. "
         },
         {
             "sort": "N",
-            "term": "nonnormal distribution ",
-            "definition": "A type of data distribution in which the number of values on one side of the mean is greater than the number of values on the other side of the mean. "
+            "term": "nonforfeiture options",
+            "definition": "The various ways in which a policyowner can apply the cash value of a life insurance policy if the policy lapses. "
         },
         {
             "sort": "N",
-            "term": "nonpublic personal information",
-            "definition": "Information about a customer that a financial services company collects in connection with providing a financial product or service to the customer and that is not available from public sources. "
+            "term": "nonforfeiture values",
+            "definition": "The benefits, such as cash or insurance, that an insurer guarantees to a policyowner if the insurance contract lapses. "
         },
         {
             "sort": "N",
-            "term": "nonrecourse loan ",
-            "definition": "A mortgage or other secured loan that allows the lender to seize the property if the borrower fails to pay the loan; the lender can then sell the property to satisfy the outstanding debt. "
+            "term": "non-value-added activity",
+            "definition": "An activity that does not make the product or service more valuable to the customer; such activities are not profitable and should be minimized because a company should not pass along the cost of such activities to its customers. "
         },
         {
             "sort": "N",
-            "term": "normal distribution",
-            "definition": "A type of data distribution in which the number of values that are less than the mean is the same as the number of values greater than the mean. "
-        },
-        {
-            "sort": "N",
-            "term": "normal yield curve ",
-            "definition": "A type of yield curve that shows an upward slope from left to right, indicating that yields on long-term debt securities are higher than yields on short-term debt securities. "
+            "term": "normal balance",
+            "definition": "In accounting, the side of an account, either debit or credit, to which increases to the account are recorded. "
         },
         {
             "sort": "O",
-            "term": "open-end mutual fund ",
-            "definition": "A type of mutual fund that establishes a portfolio of securities with a flexible number of outstanding shares and trades shares directly with investors. "
+            "term": "operating activities",
+            "definition": "Transactions that involve a company’s core business operations and that directly determine the company’s net income. "
         },
         {
             "sort": "O",
-            "term": "optimization modeling",
-            "definition": "A form of mathematical modeling that focuses on finding an optimal solution to several simultaneous equations. "
+            "term": "operating cycle",
+            "definition": "The way in which funds flow through a company as it conducts its day-to-day activities. "
         },
         {
             "sort": "O",
-            "term": "option",
-            "definition": "A type of derivative that gives the holder the right to either buy or sell a specified security—such as a stock or bond—at a stated price on or before a specified expiration date. "
+            "term": "operating department",
+            "definition": "A department that engages in an insurance company’s revenue-generating activities. "
         },
         {
             "sort": "O",
-            "term": "OTC",
-            "definition": "See over-the-counter market. "
+            "term": "operating expenses",
+            "definition": "The category of general and administrative expenses that includes the costs of business operations other than contractual benefit expenses. "
         },
         {
             "sort": "O",
-            "term": "outsourcing",
-            "definition": "The practice of hiring an external vendor to perform specified operational functions. "
+            "term": "operating leverage",
+            "definition": "A type of leverage effect in which incurring fixed operating costs automatically magnifies a company’s risks and potential returns. "
         },
         {
             "sort": "O",
-            "term": "over-the-counter market",
-            "definition": "An electronic communications network over which securities that are not bought and sold on an exchange are traded. "
+            "term": "operational budget",
+            "definition": "A budget that covers part or all of a company’s core business operations. "
+        },
+        {
+            "sort": "O",
+            "term": "opportunity cost",
+            "definition": "The benefit that is forfeited or given up in choosing one decision alternative over another. "
+        },
+        {
+            "sort": "O",
+            "term": "ORSA",
+            "definition": "See Own Risk and Solvency Assessment. "
+        },
+        {
+            "sort": "O",
+            "term": "out-of-pocket cost",
+            "definition": "A cost that requires outlays of cash or other resources. "
+        },
+        {
+            "sort": "O",
+            "term": "overhead expenses",
+            "definition": "The category of operating expenses that includes the costs of normal business operations that are not directly connected with any product. "
+        },
+        {
+            "sort": "O",
+            "term": "owners’ equity",
+            "definition": "All owner investments in a company. "
+        },
+        {
+            "sort": "O",
+            "term": "Own Risk and Solvency Assessment",
+            "definition": "An internal assessment conducted by an insurer of the risks associated with its current business plan and the adequacy of its capital resources to support those risks. "
         },
         {
             "sort": "P",
-            "term": "partially admitted asset",
-            "definition": "A type of asset in which only a portion of the asset’s monetary value is reported on the Assets page of the Annual Statement. "
+            "term": "par value of a bond",
+            "definition": "The designated legal monetary value assigned to a bond. "
         },
         {
             "sort": "P",
-            "term": "par value",
-            "definition": "The designated legal monetary value assigned to each bond. Also known as principal, face value, or face amount. "
+            "term": "par value of a stock",
+            "definition": "The designated legal monetary value assigned to each outstanding share of stock. "
         },
         {
             "sort": "P",
-            "term": "passive management strategy ",
-            "definition": "In fund investing, a fund management strategy that attempts to earn the average market return that fund peers earn. "
-        },
-        {
-            "sort": "P",
-            "term": "peak",
-            "definition": "A point in the business cycle when economic growth stabilizes and then begins to decline; the phase after expansion and before contraction. "
+            "term": "PCAOB",
+            "definition": "See Public Company Auditing Oversight Board. "
         },
         {
             "sort": "P",
             "term": "performance audit",
-            "definition": "A type of audit that measures and evaluates a company’s progress toward achieving management objectives for a particular function or goal and typically includes recommendations for process improvement. "
+            "definition": "A type of audit that measures and evaluates progress toward achieving management objectives for a particular function or goal. "
         },
         {
             "sort": "P",
-            "term": "performance dashboard",
-            "definition": "A computer-based graphical display of the current status of a company’s most important performance measures, presented in a readily understood format. "
+            "term": "period budget",
+            "definition": "A budget that covers a specific time frame, such as one month or one year, and expires at the end of that time frame. "
         },
         {
             "sort": "P",
-            "term": "portfolio dedication ",
-            "definition": "An investment strategy that consists of deliberately structuring a portfolio of assets so that the anticipated future cash flows from those assets match the future cash needs that the portfolio was assembled to fulfill. "
+            "term": "permanent account",
+            "definition": "A balance sheet account that has a balance at the beginning of each accounting period. "
         },
         {
             "sort": "P",
-            "term": "portfolio immunization ",
-            "definition": "A complex investment strategy that generally consists of any measures taken to protect a portfolio against risk due to interest-rate changes. "
+            "term": "personal property",
+            "definition": "Any property that is not real estate. "
         },
         {
             "sort": "P",
-            "term": "portfolio management",
-            "definition": "The administration of investment policy, strategy, and operations for a specified group of investments. "
+            "term": "physical comparison of recorded amounts",
+            "definition": "A principle of an effective internal control system in which a company counts its assets on a periodic basis and compares this count to the amounts in its accounting records. "
         },
         {
             "sort": "P",
-            "term": "portfolio manager ",
-            "definition": "An investment professional with broad authority and accountability for fulfilling the mission and objectives of an investment portfolio. "
+            "term": "policy loan",
+            "definition": "A loan made to a policyowner and secured by the policy’s cash value as collateral. "
         },
         {
             "sort": "P",
-            "term": "portfolio turnover rate ",
-            "definition": "In fund investing, the rate at which a fund buys or sells securities, expressed as a percentage of average total assets. "
+            "term": "policyowner dividend",
+            "definition": "The portion of an insurer’s surplus that is paid to participating policyowners and that is considered a partial refund of the policy premium that was not needed by the insurer for policy expenses. "
         },
         {
             "sort": "P",
-            "term": "preferred stock ",
-            "definition": "A type of stock that typically does not carry the voting rights of common stock but does carry a stated dividend rate. "
+            "term": "policyowner dividend payment options",
+            "definition": "Five alternatives that enable participating policyowners to select the manner in which they want their policyowner dividends disbursed. "
         },
         {
             "sort": "P",
-            "term": "price appreciation ",
-            "definition": "An increase in the market value of an invested asset. "
+            "term": "policyowner dividends due and unpaid",
+            "definition": "Those dividends payable to the policyowner in the current year that have not been disbursed or otherwise applied as of the financial reporting date for the current year. "
         },
         {
             "sort": "P",
-            "term": "price/earnings (P/E) ratio",
-            "definition": "A valuation ratio that compares a stock’s market price per share to its earnings per share. "
+            "term": "policyowner dividends payable in the following calendar year",
+            "definition": "This policyowner dividend liability includes two categories of dividends: (1) dividends apportioned for payment are the estimated amount of all policyowner dividends declared by an insurer’s board of directors prior to the end of the statement year that are not yet paid or due at the end of the year and (2) dividends not yet apportioned for payment are all dividends payable in the following calendar year that have not been declared. "
         },
         {
             "sort": "P",
-            "term": "primary market ",
-            "definition": "The market in which new issues of securities—including stocks and bonds—are sold to investors for the first time. "
+            "term": "positive leverage effect",
+            "definition": "The effect of earning a larger profit or higher potential returns as a result of leverage. "
         },
         {
             "sort": "P",
-            "term": "private equity fund ",
-            "definition": "An alternative investment vehicle that pools capital from sophisticated investors to invest in private companies. "
+            "term": "positive variance",
+            "definition": "A variance in which the actual amount or percentage of an amount is greater than expected. "
         },
         {
             "sort": "P",
-            "term": "private placement ",
-            "definition": "A method of issuing securities in which the issuer sells the security directly to a limited number of qualified investors, typically institutional investors. "
+            "term": "predictive quality",
+            "definition": "A characteristic of accounting information that enables interested users to form a reasonably accurate estimate of a company’s financial strength or earnings potential. "
         },
         {
             "sort": "P",
-            "term": "profitability ratio",
-            "definition": "A type of financial ratio that measures a company’s profitability by comparing the company’s gain from operations to the resources employed or invested to earn the gain. "
+            "term": "preferred stock",
+            "definition": "A type of stock that typically does not carry the voting rights of common stock, but does carry a stated dividend rate that is paid before any payment of common stock dividends by the same company. "
         },
         {
             "sort": "P",
-            "term": "prohibited securities list",
-            "definition": "A list of securities that specified company employees, due to their job responsibilities, are prohibited from buying or selling for either their personal accounts or any accounts they control. Also known as a restricted securities list. "
+            "term": "premium accounting",
+            "definition": "The maintenance of detailed accounting records and reports of insurance premium transactions. "
         },
         {
             "sort": "P",
-            "term": "prospectus",
-            "definition": "A document that describes specific aspects of a fund being offered for sale—such as a fund’s goals, style, managers, expenses, fees, and past performance. "
+            "term": "premium deposit",
+            "definition": "An amount that a policyowner leaves on deposit with the insurer to pay for several years of premiums at one time. "
         },
         {
             "sort": "P",
-            "term": "proxy",
-            "definition": "A written authorization given by one person, such as a shareholder, to another person, who is thereby enabled to act on behalf of the first person. "
+            "term": "premium deposit fund",
+            "definition": "A liability account in which insurers can place premium deposits. "
         },
         {
             "sort": "P",
-            "term": "proxy statement",
-            "definition": "A document for shareholders that describes the matters submitted for a vote in corporate meetings held for the election of directors and the approval of other corporate actions. "
+            "term": "premiums paid in advance",
+            "definition": "For life insurance contracts, premiums that an insurer has received but that are due on or after the next policy anniversary date. "
         },
         {
             "sort": "P",
-            "term": "prudential regulation",
-            "definition": "A term used to refer to solvency regulation in many countries other than the United States. "
+            "term": "premium taxes",
+            "definition": "Taxes on the paid premium income an insurer receives within a particular jurisdiction. "
         },
         {
             "sort": "P",
-            "term": "public offering ",
-            "definition": "A method of issuing securities in which the security issuer makes a new security available for sale to the public, usually through the services of an investment banking firm. "
+            "term": "prepaid expenses",
+            "definition": "Those expenditures, paid in advance, that the insurer expects will provide a future value or benefit. "
         },
         {
             "sort": "P",
-            "term": "put option",
-            "definition": "A type of option that gives the holder the right—but not the obligation—to sell an underlying security at the strike price on or before the option’s expiration date. Also known as a put. "
+            "term": "preventive control",
+            "definition": "An internal control that is designed to keep—that is, \"prevent\"—an error or a problem from occurring. "
+        },
+        {
+            "sort": "P",
+            "term": "profitability",
+            "definition": "The overall degree of success a company has in generating positive returns for its owners, including the company’s ability to generate profits and increase the value of the company. "
+        },
+        {
+            "sort": "P",
+            "term": "profitability ratios",
+            "definition": "Financial ratios that measure how efficiently an insurer uses its assets and equity to generate net income or a net gain from operations. "
+        },
+        {
+            "sort": "P",
+            "term": "profit center",
+            "definition": "A department or other business segment to which both costs (expenses) and revenues can be traced. "
+        },
+        {
+            "sort": "P",
+            "term": "pro forma financial statement",
+            "definition": "A financial statement that a company develops using forecasted amounts. "
+        },
+        {
+            "sort": "P",
+            "term": "program results audit",
+            "definition": "A type of performance audit that determines whether the desired results or benefits are actually being achieved under a specified program. "
+        },
+        {
+            "sort": "P",
+            "term": "property",
+            "definition": "An asset that can be owned or possessed; can be classified as personal property or real estate. "
+        },
+        {
+            "sort": "P",
+            "term": "Public Company Auditing Oversight Board",
+            "definition": "In the United States, a private-sector, nonprofit corporation that sets the auditing standards for external auditors of public companies. "
         },
         {
             "sort": "Q",
-            "term": "qualitative research",
-            "definition": "Research that uses subjective data collection methods and produces results that are difficult to summarize in numerical form. "
+            "term": "qualified opinion",
+            "definition": "A type of modified auditor’s opinion that states the area of exception to an otherwise unqualified opinion. "
         },
         {
-            "sort": "Q",
-            "term": "quantitative research",
-            "definition": "Research designed to generate concrete information about people and their behaviors that can be analyzed, summarized in the form of numbers, and easily communicated to others. "
+            "sort": "R",
+            "term": "rate variance",
+            "definition": "The difference between the product’s actual rate (or unit cost or unit price) and the standard rate budgeted for that product, multiplied by the actual number of units sold or processed. "
+        },
+        {
+            "sort": "R",
+            "term": "ratio",
+            "definition": "A comparison of two numeric values expressed in the form of a fraction or a percentage. "
+        },
+        {
+            "sort": "R",
+            "term": "RBC requirements",
+            "definition": "See risk-based capital requirements. "
         },
         {
             "sort": "R",
             "term": "real estate",
-            "definition": "Property that consists of land and any buildings or natural resources on it. "
+            "definition": "Land or anything attached to the land. "
         },
         {
             "sort": "R",
-            "term": "real estate investment trust",
-            "definition": "A corporation or trust that uses the pooled capital of a number of investors to purchase and manage real estate property or mortgage loans. "
+            "term": "realization principle",
+            "definition": "Under GAAP, the accounting principle that states that a company should recognize revenue when it is earned, regardless of when the company receives the actual payment, so long as a legal and reasonable expectation exists that the customer will remit payment in full. "
         },
         {
             "sort": "R",
-            "term": "real estate risk ",
-            "definition": "The potential for loss resulting from a decline in the value of real estate. "
+            "term": "realized capital gain (loss)",
+            "definition": "(1) For debt securities under SAP, the difference between the debt security’s net sales proceeds and its book value. (2) For debt securities under GAAP, the difference between the debt security’s net sales proceeds and its amortized cost. (3) For equity securities under both SAP and GAAP, the difference between the equity security’s net sales proceeds and its historical cost. "
         },
         {
             "sort": "R",
-            "term": "real rate of return",
-            "definition": "The rate of return on an investment after adjustment for inflation. "
+            "term": "reciprocal method",
+            "definition": "A service department cost allocation method that fully recognizes the activities that service departments perform for each other. "
         },
         {
             "sort": "R",
-            "term": "rebalancing ",
-            "definition": "The process of periodically adjusting the percentage of funds invested in a particular asset class in an investment portfolio to ensure that the portfolio continues to contain the desired mix of assets. "
+            "term": "recognition",
+            "definition": "In accounting, the process of classifying an item in a financial statement as an asset, a liability, owners’ equity, a revenue, or an expense. "
         },
         {
             "sort": "R",
-            "term": "recession",
-            "definition": "A period of significant decline in economic activity, lasting more than a few months. "
+            "term": "recording of transactions as executed",
+            "definition": "A principle of an effective internal control system that requires a company to record all authorized and executed transactions in the correct accounting period, in the correct accounts, and in the correct monetary amounts. "
         },
         {
             "sort": "R",
-            "term": "recourse loan ",
-            "definition": "A mortgage or other secured loan that allows the lender to seek financial damages if the borrower fails to pay the loan, and the value of the property is not enough to cover the outstanding liability. "
+            "term": "reinsurance",
+            "definition": "Insurance that one insurance company, known as the direct writer or ceding company, purchases from another insurance company, known as the reinsurer or assuming company, to transfer part or all of the risk on insurance policies that the direct writer has issued. "
         },
         {
             "sort": "R",
-            "term": "refinance",
-            "definition": "To make new borrowing arrangements for a debt. "
+            "term": "reinsurance allowances",
+            "definition": "Commissions that the reinsurer pays to the direct writer to cover all or part of the direct writer’s acquisition costs and other costs related to the reinsurance business. "
         },
         {
             "sort": "R",
-            "term": "regulatory capital",
-            "definition": "The legal minimum standard of capital that an insurer must maintain in order to be considered solvent by the regulatory authorities. Also known as a capital requirement. "
+            "term": "released reserve",
+            "definition": "A contractual reserve that was originally established in connection with an in-force policy but is no longer required. "
         },
         {
             "sort": "R",
-            "term": "reinvestment risk ",
-            "definition": "The risk that market conditions will be unfavorable when an investor needs to invest the proceeds from a prior investment. "
+            "term": "relevance",
+            "definition": "The quality of accounting information that requires a company’s accounting information to be useful, timely, and likely to affect an interested user’s decisions about the company. "
         },
         {
             "sort": "R",
-            "term": "REIT",
-            "definition": "See real estate investment trust. "
+            "term": "reliability",
+            "definition": "The quality of accounting information that requires a company’s accounting records and financial statements to present accurate, objective information that is free from bias and misrepresentation. "
         },
         {
             "sort": "R",
-            "term": "replicating portfolio ",
-            "definition": "A virtual pool of assets created to mimic the cash flows and market values observed in a specified pool of liabilities. "
+            "term": "reserve credit",
+            "definition": "The solvency-basis accounting entry the direct writer uses to record a reduction of reserves due to the use of reinsurance. "
         },
         {
             "sort": "R",
-            "term": "request for proposal",
-            "definition": "A document that an organizational buyer submits to possible suppliers that provides detailed information about the organization’s needs and invites the supplier to bid on satisfying those needs. "
-        },
-        {
-            "sort": "R",
-            "term": "required rate of return ",
-            "definition": "The annual rate of investment return an investor requires as reasonable compensation for a given level of risk and to satisfy the investor’s objectives. "
+            "term": "reserve destrengthening",
+            "definition": "For an insurer, the act of decreasing a reserve amount, which results in an increase in the insurer’s capital or surplus. "
         },
         {
             "sort": "R",
             "term": "reserves",
-            "definition": "The liabilities that represent the amounts of money that an insurer expects to need to meet its future contractual obligations. "
+            "definition": "For a life insurer, estimates of the amounts of money that the insurer needs to pay future contract obligations. "
         },
         {
             "sort": "R",
-            "term": "residential mortgage ",
-            "definition": "A mortgage loan secured by a single-family home. "
+            "term": "reserve strengthening",
+            "definition": "For an insurer, the act of increasing a reserve amount, which results in a decrease in the insurer’s capital or surplus. "
         },
         {
             "sort": "R",
             "term": "residential mortgage-backed security",
-            "definition": "A type of structured security that is secured by a pool of residential real estate loans. "
+            "definition": "A type of mortgage-backed security that is secured by a pool of residential mortgages. "
         },
         {
             "sort": "R",
-            "term": "retail investor",
-            "definition": "An individual investor who buys and sells securities for his personal account. Also known as an individual investor or small investor. "
+            "term": "responsibility accounting",
+            "definition": "A people-oriented system of policies and procedures that allows for revenues, expenses, and investments to be assigned to the specified employee or organizational level that is accountable for those specific revenues, expenses, and investments. "
         },
         {
             "sort": "R",
-            "term": "return on investment",
-            "definition": "A profit earned on invested capital during a defined time period. "
+            "term": "responsibility center",
+            "definition": "The area, function, or organizational unit that a specified manager controls. "
         },
         {
             "sort": "R",
-            "term": "revenue bond",
-            "definition": "A type of municipal bond that is supported by a specific income-producing project—such as a toll road. "
+            "term": "responsibility manager",
+            "definition": "The manager of a responsibility center, who is evaluated according to the performance of the center. "
         },
         {
             "sort": "R",
-            "term": "RFP",
-            "definition": "See request for proposal. "
+            "term": "responsibility report",
+            "definition": "A management accounting report that itemizes budgeted amounts and actual amounts that are under the responsibility manager’s sphere of control and indicates the corresponding variance for each revenue or cost (expense). "
         },
         {
             "sort": "R",
-            "term": "risk-adjusted return",
-            "definition": "A measure that presents an investment return in the context of the amount of risk accepted to earn that return. "
+            "term": "retained earnings",
+            "definition": "The net income that an insurance company holds to reinvest in the company instead of paying the money out in dividends to its stockholders. "
         },
         {
             "sort": "R",
-            "term": "risk appetite ",
-            "definition": "In a general risk management framework, the amount and type of risk that a company is prepared to seek in the pursuit of profits or other strategic objectives. "
+            "term": "retired stock",
+            "definition": "Treasury stock that an insurer does not intend to reissue. "
         },
         {
             "sort": "R",
-            "term": "Risk-Based Capital for Insurers Model Act",
-            "definition": "A National Association of Insurance Commissioners model law that establishes the risk-based capital ratio requirements that insurers must meet and that enable state insurance departments to identify potentially impaired insurers. "
+            "term": "return on assets ratio",
+            "definition": "A profitability ratio that indicates an insurer’s success in using assets to generate net income by comparing net income to average total assets. "
         },
         {
             "sort": "R",
-            "term": "risk-based capital (RBC) requirement",
-            "definition": "A regulatory requirement that determines the minimum capital level for an insurer based on that insurer’s size and risk profile, as identified by a risk-weighted formula. "
+            "term": "return on equity ratio",
+            "definition": "A profitability ratio that measures how efficiently an insurer uses its owners’ equity to generate net income by comparing net income to average owners’ equity. "
         },
         {
             "sort": "R",
-            "term": "risk committee",
-            "definition": "At an insurance company, the oversight committee that assists the board of directors in supervising the management of the company’s assets, liabilities, capital, and risks. Also known as the enterprise risk committee. "
+            "term": "revenue accounts",
+            "definition": "The accounts used to record and report a company’s revenues. "
         },
         {
             "sort": "R",
-            "term": "risk-free rate of return",
-            "definition": "The rate of return on a risk-free investment—that is, the least risky investment opportunity available in the market. "
+            "term": "revenue allocation",
+            "definition": "The accounting process of assigning or distributing income or revenue items according to a specified method or formula. "
         },
         {
             "sort": "R",
-            "term": "risk limit",
-            "definition": "A quantitative statement that expresses how the company will assess and monitor its risk appetite and risk tolerance. Also known as risk criterion. "
+            "term": "revenue budget",
+            "definition": "A budget that indicates the amount of income from operations—policy sales, investments, and fees—that the company expects in the coming budget period. "
         },
         {
             "sort": "R",
-            "term": "risk policy ",
-            "definition": "A corporate policy statement that explains the principles the company will follow for managing risk, outlines the process for managing risk, specifies the authority and responsibility for risk management, and establishes risk reporting and risk controls. "
+            "term": "revenue center",
+            "definition": "A department or division to which revenues can be traced. "
         },
         {
             "sort": "R",
-            "term": "risk positioning report",
-            "definition": "For fixed-income assets, a report that typically shows an actual versus target comparison for security quality, duration, and performance relative to benchmarks. "
+            "term": "revenues",
+            "definition": "The amount of earnings from a company’s core business operations. "
         },
         {
             "sort": "R",
-            "term": "risk premium",
-            "definition": "The portion of the rate of return in excess of the risk-free rate of return. "
-        },
-        {
-            "sort": "R",
-            "term": "risk-return trade-off ",
-            "definition": "The relationship between risk and return in which higher risks offer the possibility of higher returns and lower risks tend to produce lower returns. "
-        },
-        {
-            "sort": "R",
-            "term": "risk tolerance",
-            "definition": "In investing, the degree to which an investor is willing and able to accept risk. "
+            "term": "risk-based capital requirements",
+            "definition": "Established by the National Association of Insurance Commissioners (NAIC), a set of capital requirements that determines the adequacy of an insurer’s capital based on the insurer’s size and risk profile. "
         },
         {
             "sort": "R",
@@ -1871,9 +1746,39 @@ var glossary_settings = {
             "definition": "See residential mortgage-backed security. "
         },
         {
+            "sort": "R",
+            "term": "ROA",
+            "definition": "See return on assets ratio. "
+        },
+        {
+            "sort": "R",
+            "term": "ROE",
+            "definition": "See return on equity ratio. "
+        },
+        {
+            "sort": "R",
+            "term": "rolling budget",
+            "definition": "A budget that allows a company to continually maintain projections for a specified period into the future. "
+        },
+        {
             "sort": "S",
-            "term": "SAA",
-            "definition": "See strategic asset allocation. "
+            "term": "safeguarding of assets",
+            "definition": "In the context of an effective internal control system, the process of (1) limiting access to offices, documents, and records; (2) storing certain documents in vaults to which no person has sole access; (3) maintaining written recovery plans and off-premises storage of back-up files for all critical records in case of a business disaster; (4) investigating the integrity of employees hired to fill sensitive positions; (5) taking a physical inventory of all assets and comparing this count to a written record; and (6) reviewing the adequacy of insurance coverage, given a company’s risk exposure. "
+        },
+        {
+            "sort": "S",
+            "term": "sales budget",
+            "definition": "A budget that projects first-year and renewal premium income. "
+        },
+        {
+            "sort": "S",
+            "term": "sales expense budget",
+            "definition": "A type of expense budget that indicates the costs incurred in selling insurance. "
+        },
+        {
+            "sort": "S",
+            "term": "salvage value",
+            "definition": "The residual value or selling price of an asset at the end of its useful life. "
         },
         {
             "sort": "S",
@@ -1882,508 +1787,333 @@ var glossary_settings = {
         },
         {
             "sort": "S",
-            "term": "savings account",
-            "definition": "An interest-earning account that pays interest on deposited funds, typically from the day of deposit to the day of withdrawal. "
+            "term": "Sarbanes-Oxley Act of 2002",
+            "definition": "A U.S. federal law that requires public companies to take specific precautions to prevent fraudulent behavior on the part of management and the company’s external auditors. "
         },
         {
             "sort": "S",
-            "term": "scenario testing ",
-            "definition": "A method of evaluating modeling results that involves entering different sets of data—which represent a given scenario—into a model and then determining how changes in the input data affect the model’s output. "
-        },
-        {
-            "sort": "S",
-            "term": "scorecard",
-            "definition": "In fund investing, a table or worksheet used for analyzing or comparing various funds. "
-        },
-        {
-            "sort": "S",
-            "term": "SEC",
+            "term": "SEC ",
             "definition": "See Securities and Exchange Commission. "
         },
         {
             "sort": "S",
-            "term": "secondary market ",
-            "definition": "A market in which issues of securities are subsequently traded after the initial sale. "
-        },
-        {
-            "sort": "S",
-            "term": "secondary offering",
-            "definition": "A sale of a large block of registered securities by a private investor through an investment bank, typically at a set price. Also known as a secondary distribution. "
-        },
-        {
-            "sort": "S",
-            "term": "sector fund",
-            "definition": "A type of investment fund that invests in companies in a particular sector or industry. "
-        },
-        {
-            "sort": "S",
-            "term": "sector",
-            "definition": "In stock investing, a category comprising companies in a particular industry that carry out a similar function within the broader industry. "
-        },
-        {
-            "sort": "S",
-            "term": "secured bond ",
-            "definition": "A bond in which the issuer pledges something of value—called collateral—to guarantee the safety of the bondholder’s investment. "
-        },
-        {
-            "sort": "S",
-            "term": "Securities Act of 1933 ",
-            "definition": "A federal securities law that regulates publicly traded companies in the United States. "
-        },
-        {
-            "sort": "S",
             "term": "Securities and Exchange Commission",
-            "definition": "In the United States, a federal agency responsible for administering and enforcing federal securities laws and regulating the securities industry, as well as for executing policies that affect securities markets. "
+            "definition": "A federal government agency that regulates the investment industry in the United States. "
         },
         {
             "sort": "S",
-            "term": "securities exchange",
-            "definition": "An organized marketplace where members of the exchange buy and sell specific types of securities—such as common stocks and bonds. "
+            "term": "segment",
+            "definition": "In the context of cost analysis, a product, line of business, or responsibility center. "
         },
         {
             "sort": "S",
-            "term": "Securities Exchange Act of 1934 ",
-            "definition": "A U.S. federal securities law that established the Securities and Exchange Commission (SEC) and specified rules for the orderly conduct of public transactions in securities and through securities exchanges. "
+            "term": "segment margin",
+            "definition": "The amount that remains after the segment’s variable costs and direct fixed costs are subtracted from the revenues generated by the segment; the portion of the contribution margin that remains after a segment has covered its direct fixed costs. "
         },
         {
             "sort": "S",
-            "term": "Securities Valuation Office",
-            "definition": "The National Association of Insurance Commissioners department that (1) assesses the credit quality of the fixed-income investments of insurance companies and (2) assigns designations and valuations to such investments. "
+            "term": "segment margin ratio",
+            "definition": "A measure of a segment’s operating performance efficiency, calculated by dividing the segment margin by the segment’s total revenues. "
         },
         {
             "sort": "S",
-            "term": "securitization",
-            "definition": "The process of purchasing, combining, and repackaging debt into structured securities. "
-        },
-        {
-            "sort": "S",
-            "term": "security",
-            "definition": "A financial asset that represents either (1) an obligation of indebtedness owed by a business, a government, or an agency—in which case the security is a debt security—or (2) an ownership interest in a business—in which case the security is an equity security. "
-        },
-        {
-            "sort": "S",
-            "term": "segmentation ",
-            "definition": "In insurance company investing, the practice of dividing the general account into smaller groupings of assets, or segments. "
+            "term": "segment report",
+            "definition": "A type of responsibility report that shows revenues and expenses—divided into fixed and variable components and direct and indirect costs—for a single responsibility center. "
         },
         {
             "sort": "S",
             "term": "segregation of duties",
-            "definition": "The principle that an employer should design jobs so that incompatible functions are assigned to different individuals. Also known as the principle of dual control. "
+            "definition": "A principle of an effective internal control system that requires an employer to design jobs so that incompatible functions are assigned to different individuals. "
         },
         {
             "sort": "S",
-            "term": "self-dealing transaction",
-            "definition": "A conflict of interest that occurs when an investment professional’s purchase of an investment for a client portfolio directly or indirectly benefits the investment professional’s company rather than the client. "
-        },
-        {
-            "sort": "S",
-            "term": "self-regulatory organization",
-            "definition": "A nongovernmental organization that exercises regulatory authority over an industry or profession. "
-        },
-        {
-            "sort": "S",
-            "term": "senior bond ",
-            "definition": "A bond that has a higher claim priority than that of other bonds from the same issuer. "
-        },
-        {
-            "sort": "S",
-            "term": "sensitivity analysis ",
-            "definition": "A method of measuring the responsiveness of the outputs produced by a mathematical model to changes in the values of the model’s input variables. "
+            "term": "semi-variable cost",
+            "definition": "A cost that contains elements of both fixed costs and variable costs and comprises a fixed cost component plus the amount of a variable component over time and at each volume level. "
         },
         {
             "sort": "S",
             "term": "separate account",
-            "definition": "An asset account that is (1) maintained by an insurer apart from its general account and (2) used to manage the funds associated with the company’s variable products. Also known as a separate account portfolio. "
+            "definition": "An account that the insurer maintains separately from its general account for managing the funds associated with nonguaranteed (variable) insurance products, such as variable universal life insurance and variable annuities. "
         },
         {
             "sort": "S",
-            "term": "Sharpe ratio ",
-            "definition": "A risk-adjusted return metric that measures an investment portfolio’s returns earned for each unit of risk, when risk is expressed as the standard deviation of portfolio returns. "
+            "term": "service department",
+            "definition": "A department that provides support services to operating departments and to other service departments but does not generate revenue. "
         },
         {
             "sort": "S",
-            "term": "small-cap fund",
-            "definition": "A type of investment fund that invests in companies with a small market capitalization—for example, less than $2 billion. "
+            "term": "short-term assets",
+            "definition": "Assets that a company expects to readily convert to cash or consume within the current accounting period, typically one year. "
         },
         {
             "sort": "S",
-            "term": "socially responsible investing",
-            "definition": "An investment practice in which investors consider the nature of the business a company engages in before making a decision about whether to invest in the company. "
+            "term": "short-term budget",
+            "definition": "A budget that generally covers a period of one year or less and relates mainly to a company’s operations during that period. "
         },
         {
             "sort": "S",
-            "term": "soft-dollar arrangement",
-            "definition": "A situation in which an investment professional directs client trades to a broker-dealer in exchange for receiving soft dollars, which the professional uses to obtain products or services—often research services—from the broker-dealer. "
+            "term": "short-term liabilities",
+            "definition": "Financial obligations that a company must pay in one year or less. "
         },
         {
             "sort": "S",
-            "term": "Solvency II",
-            "definition": "A European-sponsored solvency standard for insurance companies designed to support solvency testing and solvency supervision in the public interest. Also known as the EU Directive on the Taking-Up and Pursuit of the Business of Insurance and Reinsurance. "
+            "term": "simple accounting entry",
+            "definition": "A record of a business transaction that affects only two accounts, and thus has only one debit and one credit. "
         },
         {
             "sort": "S",
-            "term": "solvency law",
-            "definition": "A type of U.S. state insurance law that is designed to ensure that insurance companies are financially able to meet their debts and to pay policy benefits when they come due. "
+            "term": "solvency",
+            "definition": "A company’s ability to meet its financial obligations when they become due. "
         },
         {
             "sort": "S",
-            "term": "sovereign credit risk ",
-            "definition": "The risk that a sovereign government will fail to meet its debt obligations, leading to sovereign default or sovereign debt restructuring. "
+            "term": "source documents",
+            "definition": "The various business papers and electronic forms that contain original information about a company’s business transactions. "
         },
         {
             "sort": "S",
-            "term": "sovereign wealth fund",
-            "definition": "An investment fund that invests a national government’s excess revenues to earn long-term returns. "
+            "term": "SOX",
+            "definition": "See Sarbanes-Oxley Act of 2002. "
         },
         {
             "sort": "S",
-            "term": "sovereign yield curve",
-            "definition": "A type of yield curve representing the term structure of interest rates for a non-U.S. country. Also known as a sovereign debt curve or sovereign interest curve. "
+            "term": "special surplus",
+            "definition": "For insurers in the United States, the part of the insurer’s surplus that the insurer’s board of directors has set aside to (1) meet unforeseen contingencies or (2) pay for certain extraordinary expenses. "
         },
         {
             "sort": "S",
-            "term": "SPE",
-            "definition": "See special purpose entity. "
+            "term": "standard cost",
+            "definition": "A predetermined cost expected to be incurred for particular items during normal business operations. "
         },
         {
             "sort": "S",
-            "term": "special dividend",
-            "definition": "A nonrecurring dividend that is usually paid in cash and is considerably larger than the normal dividend a company pays. Sometimes called an extra dividend. "
+            "term": "statement of owners’ equity",
+            "definition": "A financial statement that provides information about changes in owners’ equity accounts between two sequential balance sheets. "
         },
         {
             "sort": "S",
-            "term": "special purpose entity",
-            "definition": "A business organization that is formed for a specific purpose and usually for a limited time. Also known as a special purpose vehicle. "
-        },
-        {
-            "sort": "S",
-            "term": "specific risk",
-            "definition": "A type of risk that only affects certain assets or asset classes, and can be substantially reduced by diversification. Also known as a diversifiable risk or unsystematic risk. "
-        },
-        {
-            "sort": "S",
-            "term": "speculation ",
-            "definition": "In a financial context, the practice of engaging in a financial transaction—particularly, a risky transaction—with the intent of benefiting from a short-term fluctuation in an asset’s price. "
-        },
-        {
-            "sort": "S",
-            "term": "SRI",
-            "definition": "See socially responsible investing. "
-        },
-        {
-            "sort": "S",
-            "term": "SRO",
-            "definition": "See self-regulatory organization. "
-        },
-        {
-            "sort": "S",
-            "term": "stable value fund",
-            "definition": "A conservative type of investment fund that focuses on capital preservation and offers a guaranteed minimum rate of return plus the potential for excess interest crediting. "
-        },
-        {
-            "sort": "S",
-            "term": "standard deviation",
-            "definition": "A statistical measure of the dispersion of values in a data set around the mean of the data set. "
-        },
-        {
-            "sort": "S",
-            "term": "standing committee",
-            "definition": "A permanent committee to which a company’s board of directors typically delegates ongoing oversight of a particular company function. "
+            "term": "static budget",
+            "definition": "A budget in which the amounts are generally not subject to change unless management has approved the changes. "
         },
         {
             "sort": "S",
             "term": "statutory accounting principles",
-            "definition": "Accounting standards that all life insurers in the United States must follow when preparing specified financial reports that they submit to state insurance regulators. "
+            "definition": "Accounting standards that all life insurers in the United States must follow when preparing the Annual Statement and other specified financial reports that they submit to state insurance regulators. "
         },
         {
             "sort": "S",
-            "term": "stock dividend ",
-            "definition": "A type of dividend in which a company distributes additional shares of its stock to shareholders. "
+            "term": "statutory accounting records",
+            "definition": "Accounting records designed to comply with the financial reporting requirements established by state insurance regulators. "
         },
         {
             "sort": "S",
-            "term": "stock insurer",
-            "definition": "An insurance company that is owned by the people and organizations that own shares of the company’s stock. "
+            "term": "step method",
+            "definition": "A service department cost allocation method that assumes that service departments perform services for other service departments as well as for operating departments. "
         },
         {
             "sort": "S",
-            "term": "stock ",
-            "definition": "A type of security which represents equity ownership through units called shares. "
+            "term": "stock",
+            "definition": "An asset that represents an ownership interest in a company. "
         },
         {
             "sort": "S",
-            "term": "stop-loss limit",
-            "definition": "In investing, a risk limit that indicates an amount of money that an investment portfolio’s single-period market loss should not exceed. "
+            "term": "stock dividend",
+            "definition": "A type of dividend in which a company distributes additional shares of its stock to its stockholders. "
         },
         {
             "sort": "S",
-            "term": "strategic asset allocation",
-            "definition": "The set of asset-class weights designed to most effectively achieve an investment portfolio’s long-term objectives, while remaining consistent with the investor’s risk tolerance and investment constraints. "
+            "term": "stockholder",
+            "definition": "Anyone who owns shares of stock in a company. "
         },
         {
             "sort": "S",
-            "term": "stress test ",
-            "definition": "A form of scenario testing that uses an extreme scenario, such as a severe economic downturn, to test a portfolio’s expected performance during adverse conditions. "
+            "term": "sunk cost",
+            "definition": "A cost that already has been incurred and that cannot change as a result of a current or future decision. "
         },
         {
             "sort": "S",
-            "term": "strike price",
-            "definition": "In an options contract, the price at which the option holder can buy or sell the underlying security. "
+            "term": "supplementary contract",
+            "definition": "A contract that typically arises from the election of a settlement option by a life insurance beneficiary. "
         },
         {
             "sort": "S",
-            "term": "structured security",
-            "definition": "An investment vehicle that repackages pools of existing debt obligations into a new form of financial security that is tradeable and generally promises investors a stream of payments. Also known as structured debt or a structured debt security. "
+            "term": "surplus",
+            "definition": "The cumulative amount of money that remains in a company over time; calculated as the company’s assets minus its liabilities and capital. "
         },
         {
             "sort": "S",
-            "term": "style drift",
-            "definition": "The divergence of an investment portfolio from its stated investment objective or style. "
+            "term": "surplus note",
+            "definition": "A special type of unsecured debt security issued only by insurance companies. "
         },
         {
             "sort": "S",
-            "term": "subaccount",
-            "definition": "An investment fund option within a separate account. "
+            "term": "surplus relief",
+            "definition": "A decrease in potential surplus strain that strengthens an insurer’s financial position. "
         },
         {
             "sort": "S",
-            "term": "subordinated bond",
-            "definition": "A bond that has a lower claim priority than that of other bonds from the same issuer. Also known as a junior bond. "
+            "term": "surplus strain",
+            "definition": "The decrease in an insurer’s surplus caused by the high first-year costs and the reserve requirements associated with new products. "
         },
         {
             "sort": "S",
-            "term": "subsidiary",
-            "definition": "A company that is owned or controlled by a holding company. "
+            "term": "suspense account",
+            "definition": "An account that is used to record transactions that cannot be posted immediately to a specified account. "
         },
         {
             "sort": "S",
-            "term": "suitability requirement",
-            "definition": "A requirement that imposes a duty on financial professionals or financial services companies to have reasonable grounds on which to believe that a specific product is suitable for a customer’s needs. "
-        },
-        {
-            "sort": "S",
-            "term": "surplus ",
-            "definition": "In insurance, the cumulative amount of money that remains in an insurance company over time and is calculated as the insurer’s assets minus its liabilities and its capital. "
-        },
-        {
-            "sort": "S",
-            "term": "SVO",
-            "definition": "See Securities Valuation Office. "
-        },
-        {
-            "sort": "S",
-            "term": "swap",
-            "definition": "A derivatives contract in which two parties agree to exchange one asset, liability, security, or cash flow for another. Also known as a swap contract. "
-        },
-        {
-            "sort": "S",
-            "term": "systematic risk",
-            "definition": "A type of risk that has a broad, similar effect on all elements in an economic system and cannot be eliminated through diversification. Also known as a nondiversifiable risk or market risk. "
-        },
-        {
-            "sort": "S",
-            "term": "systemic crisis ",
-            "definition": "A series of adverse events occurring in a significant number of financial institutions or markets that has a catastrophic effect. "
-        },
-        {
-            "sort": "S",
-            "term": "systemic risk ",
-            "definition": "A risk that (1) affects securities markets, banking systems, and currencies, and (2) can result in a systemic crisis. "
+            "term": "systematic and rational allocation",
+            "definition": "Under GAAP, an expense recognition concept that states that a company expenses an asset’s cost over its estimated useful life, regardless of when the company receives revenues from the asset. "
         },
         {
             "sort": "T",
-            "term": "TAA",
-            "definition": "See tactical asset allocation. "
+            "term": "tax accounting records",
+            "definition": "Accounting records designed for financial reporting to taxing authorities. "
         },
         {
             "sort": "T",
-            "term": "tactical asset allocation",
-            "definition": "An investment strategy that involves making adjustments to asset-class weightings based on predictions of future market movements in the short term. "
+            "term": "temporary account",
+            "definition": "An account that is closed out to a permanent account on the balance sheet at the end of each accounting period. "
         },
         {
             "sort": "T",
-            "term": "tail risk",
-            "definition": "A risk of a low-probability but high-impact occurrence. "
+            "term": "time-period concept",
+            "definition": "The accounting principle that states that a company’s financial statements should report the company’s business operations during a specified time period, usually referred to as an accounting period. "
         },
         {
             "sort": "T",
-            "term": "tangible asset ",
-            "definition": "An asset that has a physical form. "
+            "term": "top-down budgeting",
+            "definition": "A method for developing a budget that begins with the company’s senior management and is passed down to lower-level management. "
         },
         {
             "sort": "T",
-            "term": "target-date fund",
-            "definition": "A type of investment fund that invests in various asset classes and automatically changes the asset allocation over a period of time. Also known as a lifecycle fund. "
+            "term": "total leverage",
+            "definition": "The combined effect of operating leverage and financing leverage; the effect whereby incurring fixed operating costs and fixed financing costs automatically magnifies a company’s risks and potential returns. "
         },
         {
             "sort": "T",
-            "term": "taxable event ",
-            "definition": "An investment transaction that results in taxable income. "
+            "term": "total variance",
+            "definition": "The sum of a product’s rate variance and usage variance. "
         },
         {
             "sort": "T",
-            "term": "tender offer",
-            "definition": "An offer made by a prospective buyer to all current shareholders of a particular publicly traded security to purchase their shares at a specified price during a specified time. "
+            "term": "transfer price",
+            "definition": "The price of a good or service that one function or line of business charges another of the same company. "
         },
         {
             "sort": "T",
-            "term": "term structure of interest rates",
-            "definition": "The relationship between interest rates on bonds of the same credit quality but with different maturities. "
+            "term": "Treasury bills",
+            "definition": "Short-term assets issued and guaranteed by the U.S. government. "
         },
         {
             "sort": "T",
-            "term": "time horizon ",
-            "definition": "The length of time that an investor plans to invest in order to reach an investment goal. "
+            "term": "treasury stock",
+            "definition": "Stock that an insurer in the United States had previously issued (sold) and then later repurchased at its market price. "
         },
         {
             "sort": "T",
-            "term": "top-down investing",
-            "definition": "An investment approach in which investment professionals first conduct a broad analysis of economic conditions, asset classes, risk exposures, and industries; then they select individual securities. "
+            "term": "trend",
+            "definition": "A consistent pattern of change displayed over time. "
         },
         {
             "sort": "T",
-            "term": "total return ",
-            "definition": "The sum of all returns—including all income as well as all realized and unrealized gains or losses—from an investment over a given period, typically one year. "
-        },
-        {
-            "sort": "T",
-            "term": "tracking error",
-            "definition": "A measure that indicates the closeness of fit between an investment portfolio’s returns and the returns of its benchmark. Also known as active risk. "
-        },
-        {
-            "sort": "T",
-            "term": "trader ",
-            "definition": "An investment professional responsible for executing purchases and sales of publicly traded securities under instructions from a portfolio manager. "
-        },
-        {
-            "sort": "T",
-            "term": "trading ahead of research reports",
-            "definition": "An unethical activity that occurs when, prior to the release of a research report, the trading operation of an investment management firm uses nonpublic information in a research report as a basis for increasing or decreasing its inventory position in a particular security. "
-        },
-        {
-            "sort": "T",
-            "term": "treasury operations",
-            "definition": "In insurance companies, the function that manages and maintains records and reports for all of an insurer’s cash transactions, specifically money deposited or withdrawn from accounts at a bank or other financial institution. "
-        },
-        {
-            "sort": "T",
-            "term": "trough",
-            "definition": "A point in the business cycle when conditions stabilize after the end of a significant decline in economic activity; the phase after contraction and before expansion. "
-        },
-        {
-            "sort": "T",
-            "term": "trust",
-            "definition": "A legal arrangement that is (1) created at the direction of an individual or entity and (2) designed to allow one party, the trustee, to hold specified property belonging to the trust’s creator for the benefit of trust beneficiaries. "
-        },
-        {
-            "sort": "T",
-            "term": "trust indenture",
-            "definition": "A formal agreement that establishes a trust and forms the relationship between a trustee and a trust beneficiary. Also known as a trust deed. "
-        },
-        {
-            "sort": "T",
-            "term": "Trust Indenture Act of 1939",
-            "definition": "A U.S. federal securities law that applies to bonds and other debt securities and imposes certain requirements on the issuer before the securities can be sold publicly. "
+            "term": "trend analysis",
+            "definition": "A specific type of horizontal analysis that involves calculating percentage changes in financial statement items over several successive accounting periods, rather than over just two periods. "
         },
         {
             "sort": "U",
-            "term": "UIT",
-            "definition": "See unit investment trust. "
+            "term": "unassigned surplus",
+            "definition": "For insurers in the United States, the total amount of undistributed and unapportioned surplus remaining in the insurance company since the company began operations. "
         },
         {
             "sort": "U",
-            "term": "Uniform Law Commission",
-            "definition": "An organization that provides U.S. states with nonpartisan, model legislation that brings clarity and stability to critical areas of state statutory law. "
+            "term": "uncollected income",
+            "definition": "Income, including uncollected premiums on individual life insurance, that is due before the financial reporting date, but which the insurer has not received as of the financial reporting date. "
         },
         {
             "sort": "U",
-            "term": "Uniform Securities Act",
-            "definition": "A long-standing model law designed to provide a pattern for U.S. state legislators to follow in crafting state securities laws. "
+            "term": "uncollected premiums",
+            "definition": "Individual life insurance policy premiums that are due before the statutory reporting date but have not been received as of that date. "
         },
         {
             "sort": "U",
-            "term": "unit investment trust",
-            "definition": "A portfolio of securities assembled for a specific investment purpose and held for a designated amount of time. "
+            "term": "unearned income",
+            "definition": "A subset of collected income that has not yet been earned. "
         },
         {
             "sort": "U",
-            "term": "unsecured bond",
-            "definition": "A bond that is not backed by collateral but is backed only by the full faith and credit of the issuer. Also known as a debenture. "
+            "term": "unfavorable variance",
+            "definition": "A variance in which the actual cost is higher than the standard cost. "
+        },
+        {
+            "sort": "U",
+            "term": "unit contribution margin",
+            "definition": "The difference between the selling price of one unit of product and the variable costs for one unit of product. "
+        },
+        {
+            "sort": "U",
+            "term": "unit cost",
+            "definition": "A cost attributable to a single measured amount of work. "
+        },
+        {
+            "sort": "U",
+            "term": "unqualified opinion",
+            "definition": "A type of auditor’s opinion that indicates that the financial statements present fairly, in all material respects, the financial position, results of operations, and cash flows of the entity in conformity with generally accepted accounting principles (GAAP) or, for \"special purpose\" financial statements, in accordance with statutory accounting principles (SAP). "
+        },
+        {
+            "sort": "U",
+            "term": "unqualified opinion with explanatory language",
+            "definition": "A type of unqualified auditor’s opinion that contains explanatory language concerning specific circumstances, such as material inconsistencies resulting from a change in accounting principles. "
+        },
+        {
+            "sort": "U",
+            "term": "unrealized capital gain (loss)",
+            "definition": "(1) For debt securities under SAP, the difference between the debt security’s fair value and its book value. (2) For debt securities under GAAP, the difference between the debt security’s fair value and its amortized cost. (3) For equity securities under both SAP and GAAP, the difference between the equity security’s fair value and its historical cost. "
+        },
+        {
+            "sort": "U",
+            "term": "usage variance",
+            "definition": "The difference between the actual quantities sold or processed and the budgeted (standard) quantities to be sold or processed, multiplied by the standard rate or unit cost. "
         },
         {
             "sort": "V",
-            "term": "valuation ratio ",
-            "definition": "In stock investing, a type of financial ratio that compares a share’s market price to another measure of a company’s ability to generate value for shareholders. "
+            "term": "valuation",
+            "definition": "The process of calculating the monetary value of an insurer’s assets, liabilities, and owners’ equity for accounting and financial reporting purposes. "
         },
         {
             "sort": "V",
-            "term": "Value at Risk",
-            "definition": "A measure that (1) estimates the maximum amount that a group of investments could potentially lose in a specified time period and (2) assigns a probability to indicate the level of confidence in that estimate. "
+            "term": "value-added activity",
+            "definition": "An activity that makes the product more valuable to the customer; costs associated with value-added activities can typically be passed through to a company’s customers in the form of higher prices. "
         },
         {
             "sort": "V",
-            "term": "value fund",
-            "definition": "A type of investment fund that invests in stocks of companies that are undervalued in relation to the overall market and that often pay significant dividends. "
+            "term": "variable cost",
+            "definition": "A cost that changes in direct response to changes in the level of operating activity. "
         },
         {
             "sort": "V",
-            "term": "value-in-use appraisal",
-            "definition": "A real estate appraisal approach in which the appraiser estimates a property’s value to a particular user. Also known as a use value appraisal. "
+            "term": "variance",
+            "definition": "The difference between an actual result and an expected or assumed result. "
         },
         {
             "sort": "V",
-            "term": "VaR",
-            "definition": "See Value at Risk. "
+            "term": "variance analysis",
+            "definition": "The study of the difference between expected results or assumed results and actual results. "
         },
         {
             "sort": "V",
-            "term": "vendor",
-            "definition": "A third party that a company hires to perform specific tasks or provide specific services. Also known as a service provider or a solution provider. "
-        },
-        {
-            "sort": "V",
-            "term": "venture capital fund ",
-            "definition": "A type of private equity fund that provides capital and management expertise to target companies, such as start-up companies with high growth potential. "
-        },
-        {
-            "sort": "V",
-            "term": "volatility ",
-            "definition": "In the context of investment returns, a measure of the tendency for an investment’s rate of return to fluctuate from year to year, as indicated by the investment’s historical rates of return over a specified time period. "
-        },
-        {
-            "sort": "W",
-            "term": "watch list",
-            "definition": "In fund investing, a list of funds that require heightened monitoring and must subsequently meet specified performance requirements. "
-        },
-        {
-            "sort": "Y",
-            "term": "yield",
-            "definition": "A ratio measuring an asset’s rate of return on income paid to the asset holder. "
-        },
-        {
-            "sort": "Y",
-            "term": "yield curve",
-            "definition": "A line graph that illustrates the relationship between the yields of debt securities and the maturities of those securities. Also known as a debt curve or a bond curve. "
-        },
-        {
-            "sort": "Y",
-            "term": "yield spread",
-            "definition": "The difference in yields between two debt instruments. "
-        },
-        {
-            "sort": "Y",
-            "term": "yield to maturity",
-            "definition": "The rate of return a bondholder will earn if he holds a bond until maturity. "
-        },
-        {
-            "sort": "Y",
-            "term": "YTM",
-            "definition": "See yield to maturity. "
+            "term": "vertical analysis",
+            "definition": "A type of comparative analysis that reveals the relationship of each financial statement item to a specified financial statement item during the same reporting period. "
         },
         {
             "sort": "Z",
-            "term": "zero-coupon bond ",
-            "definition": "A bond that does not make coupon payments during the term of the bond; instead, the bond is sold at a discount to its par value and the principal is paid in full at the bond’s maturity date. "
+            "term": "ZBB",
+            "definition": "See zero-based budgeting. "
+        },
+        {
+            "sort": "Z",
+            "term": "zero-based budgeting",
+            "definition": "A method for developing a budget that treats each activity as though it were a new project and allocates resources only if planners can link expense amounts to the company’s strategic and operational goals. "
         }
     ]
 };

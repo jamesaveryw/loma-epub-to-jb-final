@@ -353,7 +353,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "<span style=\"font-size:1.14em\">SOURCES OF FUNDS</span>"
+                                "Heading": "<span style=\"font-size:1.14em\">SOURCES OF FUNDS</span>",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -417,10 +418,11 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<span style=\"color:#FFFFFF\"><span style=\"font-size:1.14em\">USES OF FUNDS</span></span>"
+                                        "Data_Info": "<span style=\"color:#FFFFFF\"><span style=\"font-size:1.14em\">USES OF FUNDS</span></span>",
+                                        "merge": "2"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(0, 105, 173)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },

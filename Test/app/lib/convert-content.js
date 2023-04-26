@@ -864,6 +864,7 @@ function buildTable(table) {
 
 			// set cell data
 			for (let cell of cells) {
+				let headingObj = {};
 				let cellHTML;
 				// get all nodes of cell
 				// not using .children here because innerHTML might include a mixture of text nodes and inline HTML elements
@@ -885,10 +886,15 @@ function buildTable(table) {
 				else {
 					cellHTML = cell.innerHTML;
 				}
+
+				headingObj.Heading = cellHTML;
+
+				if (cell.hasAttribute('colspan')) {
+					headingObj.merge = cell.getAttribute('colspan');
+				}
+
 				// let cellHTML = cell.querySelector("p") ? cell.querySelector("p").innerHTML : cell.innerHTML;
-				JB_Table.JB_Table[0].Col_Heading.push({
-					Heading: cellHTML
-				});
+				JB_Table.JB_Table[0].Col_Heading.push(headingObj);
 			}
 		}
 		// data row
@@ -901,22 +907,24 @@ function buildTable(table) {
 			};
 
 			// set row colors based on whether striped/solid and even/odd
-			if ((even && tableStyles.bgPattern == "striped") || tableStyles.bgPattern == "solid") {
-				row.Row_Data_Color = tableStyles.colors.dark;
-			} 
-			else if (!even && tableStyles.bgPattern == "striped") {
-				row.Row_Data_Color = tableStyles.colors.light;
-			}
-			else if (tr.style && tr.style['background-color'] != '') {
+			if (tr.style && tr.style['background-color'] != '') {
 				row.Row_Data_Color = tr.style['background-color'];
 			}
 			else if (cells[0].style['background-color'] != '') {
 				row.Row_Data_Color = cells[0].style['background-color'];
 			}
+			else if ((even && tableStyles.bgPattern == "striped") || tableStyles.bgPattern == "solid") {
+				row.Row_Data_Color = tableStyles.colors.dark;
+			} 
+			else if (!even && tableStyles.bgPattern == "striped") {
+				row.Row_Data_Color = tableStyles.colors.light;
+			}
 
 			// set cell data
 			let i = 0;
 			for (let cell of cells) {
+				console.log(cell.outerHTML);
+				let cellObj = {};
 				let cellHTML;
 				// get all nodes of cell
 				// not using .children here because innerHTML might include a mixture of text nodes and inline HTML elements
@@ -939,7 +947,13 @@ function buildTable(table) {
 					cellHTML = cell.innerHTML;
 				}
 
-				row.Row_Data.push({ Data_Info: cellHTML });
+				cellObj.Data_Info = cellHTML;
+				
+				if (cell.hasAttribute('colspan')) {
+					cellObj.merge = cell.getAttribute('colspan');
+				}
+ 
+				row.Row_Data.push(cellObj);
 			}
 
 			JB_Table.JB_Table[1].Row_Information.push(row);

@@ -9,21 +9,23 @@ var course_settings =
 				//COURSE_TYPE = hioc || hybrid || pdf || shortcourseA || demo-hioc || demo-hybrid || demo-pdf || demo-shortcourseA || more???
 				"Course_Type": "demo-hioc",
 
-				"Course_Number": "357",//"NY Reg 187",//
-				"Course_Folder": "LOMA_357", //LOMA_302, NY_Reg_187			
-				"Course_Name": "LOMA 357",//"NY Reg 187",//"LOMA 361", // PLEASE KEEP THIS SAME FORMAT
+				"Course_Number": "361",
+				"Course_Folder": "LOMA_361",			
+				"Course_Name": "LOMA 361", // PLEASE KEEP THIS SAME FORMAT --> "LOMA 361", "SRI 111", etc !!!!
 
 				"isTranslated": "false",
-				"course_locale": "en-US", // en-US || zh-CHT || zh-CHS || fr-CA
+				"course_locale": "en-US",
+				
+				"showTerms": true,
+				"showIntroVideo": true,
 
 				"LM_Logo":"LOMA_logo_Tagline_Reverse.png", // lomalogo, loma_blue
 				"SRI_Logo": "sri_logo_rev.png",
-				"Course_Title": "Institutional Investing: Principles and Practices",
+				"Course_Title":"Accounting and Financial Reporting in Life Insurance Companies", //361
 
 				"About":{
-					"Infographic": "357-infoGraphic.png",
-					"Alt_Text": "Click for more information",
-					"full_text": "<p style=\"width: 100%; text-align:left; font-size: 110%; font-weight: bold;\">M1: The Basics of Investing</p><ul><li style=\"width: 100%; text-align:left;\">Introduction to Investing</li><li style=\"width: 100%; text-align:left;\">Overview of Basic Investment Vehicles</li><li style=\"width: 100%; text-align:left;\">Advanced Investment Vehicles and Capital Markets</li><li style=\"width: 100%; text-align:left;\">Investment Returns and Risks</li></ul><p style=\"width: 100%; text-align:left; font-size: 110%; font-weight: bold;\">M2: Planning in Institutional Investing</p><ul><li style=\"width: 100%; text-align:left;\">Institutional Investment Objectives and Constraints</li><li style=\"width: 100%; text-align:left;\">Risk Management and the Investment Function</li></ul><p style=\"width: 100%; text-align:left; font-size: 110%; font-weight: bold;\">M3: The Institutional Investing Process</p><ul><li style=\"width: 100%; text-align:left;\">Portfolio Construction and Asset Selection</li><li style=\"width: 100%; text-align:left;\">Portfolio Management and Operations</li><li style=\"width: 100%; text-align:left;\">Monitoring and Evaluating Portfolio Performance</li></ul><p style=\"width: 100%; text-align:left; font-size: 110%; font-weight: bold;\">M4: Regulations and Controls</p><ul><li style=\"width: 100%; text-align:left;\">Regulations and the Investment Function</li><li style=\"width: 100%; text-align:left;\">Ethical Standards and Governance for the Investment Function</li></ul>"
+					"Infographic": "LOMA_361_InfoGraphic.jpg",
+					"Alt_Text": "An infographic describing course content by chapters using bulleted items"
 				},
 
 				"Labels":{
@@ -75,13 +77,14 @@ var course_settings =
 					"startExam": "Start Exam",
 					"startOver": "Start Over",
 					"submit": "Submit", 
+					"tableOfContents":"Table of Contents",
 					"termsOfUse": "Terms of Use",
 					"Transcript": "Transcript",
 					"Video": "Video",
 					"viewLesson": "View Lesson",
 					"videoLibrary": "Video Library",
 					"welcome": "Welcome",
-					"youLeftOnPage": "You left on page "
+					"youLeftOnPage": "You left on page {{number}}"
 				},
 
 				"Alerts":{
@@ -102,8 +105,7 @@ var course_settings =
 					
 					//"LRSError": "There was an error saving your progress. \n\nPlease close the course window and relaunch it before attempting to continue.",
 					"LRSError": {
-						"Header": 
-							"Something went wrong",
+						"Header": "Something went wrong",
 							// "Petit problème… Une erreur s’est produite",
 							//"出问题了",
 						"Body": 
@@ -131,7 +133,6 @@ var course_settings =
 							"WE NEED THIS INFORMATION TO PROPERLY DIAGNOSE THE ERROR" 
 							//"NOUS AVONS BESOIN DE CES INFORMATIONS POUR DIAGNOSTIQUER CORRECTEMENT L'ERREUR"
 					},
-
 
 					"DoNotAgree":{
 						"Header": "Acceptance of the Honesty Statement is required<!-- to continue-->.",
@@ -177,14 +178,12 @@ var course_settings =
 					"returnToLesson": "&larr; Return to Lesson",
 					"returnToExamPrep": "&larr; Return to Exam Prep",
 				},
-
 				"PlaceholderText":{
 					"glossarySearch": "Enter a search term here...",
 					"glossaryFeedback": "Sorry, no matching results",
 					"emailAddress": "janedoe@loma.org",
 					"emailDescription":"Please describe your concern or issue here..."
 				},
-
 				"ContactWarnings":{
 					"requiredEmail":"Please enter an email address.",
 					"validEmail":"Please enter a <em>valid</em> email address.",
@@ -193,7 +192,6 @@ var course_settings =
 					"alphaLoginID": "Letters, numbers, and underscores only please",
 					"requiredComments": "All fields are required"
 				},
-
 				"TermsPrivacy":{
 					"YouMustAccept": "You must accept the above Agreement to use this Course Portal.",
 					"AcceptBtn": "Accept", // DD NOT TRANSLATE THIS LINE!!!
@@ -205,13 +203,20 @@ var course_settings =
 					"partOne": "Copyright &copy; ",
 					"partTwo": ", LL Global, Inc. All Rights Reserved."
 				},
-				
-				"Hero_Image": "LOMA357_Portal_1367394132.jpg",
+				"Footer_Links":{
+					"Dashboard": "Dashboard",
+					"ExamPrep": "Exam Prep",
+					"Resources": "Resources",
+					"Contact": "Contact",
+					"Glossary": "Glossary"
+				},
+								
+				"Hero_Image": "LOMA_361_Portal1255011898.jpg",
 
 				"Welcome_text": {
 					//HYBRID
-					"Intro_Copy": [
-						"<i>LOMA 357&mdash;Institutional Investing: Principles and Practices</i>&mdash;introduces students to basic investment principles and the \"why\" and \"how\" of institutional investing. Students will learn about institutional investment objectives and explore the institutional investment process. In addition, students will gain an understanding of how a life insurer’s investment function manages investments to support the company’s products and solvency. Select <span class=\"boldpagelink\">About</span> for a course overview.",
+					"Intro_Copy": [	
+						"<i>LOMA 361—Accounting and Financial Reporting in Life Insurance Companies</i> describes the accounting function in life insurance companies. By taking this course, you’ll develop an understanding of the regulatory environment in which insurance accounting occurs, financial statements and reports, accounting for typical life insurer transactions, financial analysis, budgeting, and internal control and auditing. Select <span class=\"boldpagelink\">About</span> for a course overview.",
 
 						"The course content is presented in interactive e-book format. Select <span class=\"boldpagelink\">Getting Started</span> to download and install the e-reader and e-book files to your device.",
 
@@ -220,25 +225,21 @@ var course_settings =
 						"<span class=\"boldpagelink\">Exam Prep</span> contains practice and review materials to help you prepare for the module exams.", 
 
 						"<span style=\"color: #FF0000;font-style:italic;\">Warning:</span> If you open the course on more than one device at a time, you risk losing your progress. Make sure to Exit the course using the Exit icon <img src=\"includes/images/glyphicons-389-exit.png\" alt=\"exit icon\"> or the course menu in the course portal after each session."
+					],
+					/* "Intro_Copy": [	
+						"<i>LOMA 361—Accounting and Financial Reporting in Life Insurance Companies</i> describes the accounting function in life insurance companies. By taking this course, you’ll develop an understanding of the regulatory environment in which insurance accounting occurs, financial statements and reports, accounting for typical life insurer transactions, financial analysis, budgeting, and internal control and auditing. Select <b>About</b> for a course overview.",
 
-						
-					]
-					//PDF
-					/* "Intro_Copy":[
-						"<i>LOMA 357&mdash;Institutional Investing: Principles and Practices</i>&mdash;introduces students to basic investment principles and the \"why\" and \"how\" of institutional investing. Students will learn about institutional investment objectives and explore the institutional investment process. In addition, students will gain an understanding of how a life insurer’s investment function manages investments to support the company’s products and solvency. Select <span class=\"boldpagelink\">About</span> for a course overview.",
-
-						"The <b>Course Content</b> is divided into 4 modules. Each module contains several chapters from the text.",
+						"The <b>Course Content</b> is divided into 3 modules. Each module contains several chapters from the text.",
 
 						"<b>Exam Prep</b> contains practice and review materials to help you prepare for the final course exam."
-					] */
+					], */
 				},
 
 				// HIOC
 				//"Dashboard_Text":"<p>This dashboard shows your progress through LOMA 302. The <b>302</b> gauge shows how far you’ve gotten in the entire course. The <b>“M”</b> gauges show your progress through each Module.</p><p>Select any “M” gauge to see your status for the lessons and exam in that module. From this view, you can launch any of those items directly, or you can jump to the landing page for that module for an overview.</p>",
 
 				//HYBRID
-				"Dashboard_Text": "<p>This dashboard shows your progress through the course. The gauge shows how far you’ve gotten in the entire course. Check marks indicate which module exams you have passed and when.</p><p>Select any Module link to jump to a landing page with the content and exam for that module.</p>",
-
+				"Dashboard_Text":"<p>This dashboard shows your progress through the course.  The gauge shows how far you’ve gotten in the entire course. Check marks indicate which module exams you have passed and when.</p><p>Select any Module link to jump to a landing page with the content and exam for that module.</p>",
 			},
 	"GettingStartedContent":{
 		"Header": "Getting Started",
@@ -250,7 +251,7 @@ var course_settings =
 
 			"<p style=\"width:100%;\"><b>Step 1:</b> Download and install an e-reader to your device(s).<br>See full details for <a href=\"pdf/Install-Setup.pdf\" target=\"pdfwindow\">Kotobee Reader</a> or <a href=\"pdf/Install-Setup.pdf\" target=\"pdfwindow\">Apple Books</a>.</p><div><img src=\"includes/images/Install_And_Setup.png\" style=\"cursor:pointer;\"onclick=\"showVid(vidLibrary.helpVideos.installation)\"></div>", //{Kotobee Reader}  {Apple Books}
 
-			"<p style=\"width:100%; margin-top: 30px;\"><b>Step 2:</b> Go to each Module’s landing page to  download that Module’s e-book file (.epub) onto your e-reader.</p>",//{Module 1}	{Module 2}	{Module 3}
+			"<p style=\"width:100%; margin-top: 30px;\"><b>Step 2:</b> Go to each Module’s landing page to  download that Module’s e-book file (.epub) onto your e-reader.</p><p style=\"font-style:italic;\">If videos do not play on your device, you can view them in the Resources section of the Course Portal.</p>",//{Module 1}	{Module 2}	{Module 3}
 
 			"<p style=\"width:100%; margin-top: 30px;\">These videos explain the features of LOMA e-books using Kotobee Reader or Apple Books. To learn more, visit the <span class=\"helptextlink\">Help</span> page.</p><div><img src=\"includes/images/Kotobee_Features.png\" style=\"margin-right:20px; cursor:pointer;\" onclick=\"showVid(vidLibrary.helpVideos.kotobeeFeatures)\"><img src=\"includes/images/Apple_Features.png\" style=\"cursor:pointer;\"onclick=\"showVid(vidLibrary.helpVideos.appleBooksFeatures)\"></div>",
 
@@ -260,50 +261,48 @@ var course_settings =
 	"CourseContentContent":
 		{
 			"Module": " Module ",
-			//"Ebook": " E-book", //NOT USED
-			//"EntireEbook": "Entire E-book", //NOT USED
+			//"Ebook": " E-book",
+			//"EntireEbook": "Entire E-book",
 			"EntirePDF": "Entire book PDF",
 			"EntirePDFtoc": "Entire Table of Contents",
-			//"KotobeeReader": "Kotobee Reader", //NOT USED
-			"AnswerKeyPDF": "pdf/AnswerKey_357-TXTPDF-20.pdf",
+			//"KotobeeReader": "Kotobee Reader",
+			"AnswerKeyPDF": "pdf/361-TXTPDF-19-AnswerKey.pdf",
 			"moduleEBooks": true,
 			"pdflinks":[
-						{"link":"LOMA 357-TXTPDF-20_M1.pdf"}, //NOT USED
-						{"link":"LOMA 357-TXTPDF-20_M2.pdf"}, //NOT USED
-						{"link":"LOMA 357-TXTPDF-20_M3.pdf"}, //NOT USED
-						{"link":"LOMA 357-TXTPDF-20_M4.pdf"}, //NOT USED
-						{"link":"357-TXTPDF-20.pdf"},
-						{"link":""} // ONLY 361
+						{"link":"361-TXTPDF-19_M1.pdf"},//NOT USED
+						{"link":"361-TXTPDF-19_M2.pdf"},//NOT USED
+						{"link":"361-TXTPDF-19_M3.pdf"},//NOT USED
+						{"link":""},
+						{"link":""}
 			],
 			"ebooklinks":[
-						{"link":"LOMA357_M1.epub"}, // M1
-						{"link":"LOMA357_M2.epub"}, // M2
-						{"link":"LOMA357_M3.epub"}, // M3
-						{"link":"LOMA357_M4.epub"}, // M4
+						{"link":"LOMA361_Module1.epub"}, // M1
+						{"link":"LOMA361_Module2.epub"}, // M2
+						{"link":"LOMA361_Module3.epub"}, // M3
 						{"link":"LOMA361.epub"} // WHOLE - NOT USED
 			]
 		},
 		
 	"Lesson_setup":[
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-	
-		//-------<( Module 1 )>-------		
+		//-------<( Module 1 )>-------
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 			{
 			"Header":"Module 1: ",
 			
-			"Title" : "The Basics of Investing",
-
+			"Title" : "Orientation to Accounting and Financial Reporting",
+			
 			"Image": "302_M1.png",
 			
-			"Paragraph":"<b>Learn the fundamental investment concepts.</b> Module 1 introduces you to the basic investment concepts, basic and advanced investment vehicles, the roles for participants in capital markets, and all you need to know about investment returns and various investment-related risks.",
-				
+			"Paragraph":"<b>Learn the basics. Module 1</b> introduces you to the fundamental principles, concepts, and terminology of accounting and financial reporting in life insurance companies. You’ll also study accounting regulation and monitoring, as well as the different types of financial statements and reports.",
+			
 			"List":[
-						{"List_info":"<b>Chapter 1</b>: Introduction to Investing"},
-						{"List_info":"<b>Chapter 2</b>: Overview of Basic Investment Vehicles"},
-						{"List_info":"<b>Chapter 3</b>: Advanced Investment Vehicles and Capital Markets"},
-						{"List_info":"<b>Chapter 4</b>: Investment Returns and Risks"},
+						{"List_info":"<b>Chapter 1:</b> Introduction to Accounting and Financial Reporting "},
+						{"List_info":"<b>Chapter 2:</b> The Accounting Function"},
+						{"List_info":"<b>Chapter 3:</b> Accounting Principles and Concepts"},
+						{"List_info":"<b>Chapter 4:</b> Financial Statements and Reports"},
 					],
-
+					
 			//HIOC
 			"lesson_paragraph":[
 				{"MLP_text":"Life insurance administration encompasses all of the activities that take place in each stage of the policy lifecycle. What technologies and systems do insurers use to collect, manage, and analyze information? How do insurance companies maintain high standards of quality and efficiency? What regulatory compliance issues do they face? Join Crystal as she guides you through insurance administration basics."},
@@ -314,86 +313,102 @@ var course_settings =
 				
 				{"MLP_text":"Financial underwriting is an important aspect of an underwriter’s job. Does the proposed insured need the coverage applied for? Is the amount of coverage reasonable? Can the policyowner afford the premiums? Learn about financial underwriting and also how underwriters use all the information they gather—medical, personal, and financial—to classify the risk and determine a premium amount. "},
 			],
-
-			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",	
-
+			
 			//HYBRID
 			"Instructions":[
-					"Select <b>Module 1 e-book</b> to download the content to your e-reader.",
-					
-					"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
-					
-					//self-proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				"Select <b>Module 1 e-book</b> to download the content to your e-reader.",
+				
+				"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
+				
+				//self-proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					//proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				//proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					"When you are ready to take the exam for this module, select <b>Module 1 Exam</b>.",
-					
-					"Note – Module exams are timed, and you have only two attempts to pass each exam!"
-				],
+				"When you are ready to take the exam for this module, select <b>Module 1 Exam</b>.",
+				
+				"Note – Module exams are timed, and you have only two attempts to pass each exam!"
+			],
+			
+			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",	
 			},
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-	
-		//-------<( Module 2 )>-------				
+		//-------<( Module 2 )>-------
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 			{
 			"Header":"Module 2:",
 			
-			"Title" : "Planning in Institutional Investing",
-
+			"Title" : "Major Accounts and Financial Ratios",
+			
 			"Image": "302_M2.png",
 			
-			"Paragraph":"<b>Explore how institutional investors plan their investing practices.</b> Module 2 explains the goals of institutional investing and describes how investors create investment policy statements. In addition, the module describes investment objectives and investment constraints for insurance companies. Finally, you’ll learn how insurance companies use enterprise risk management (ERM) and asset-liability management (ALM) to analyze and address investment-related risks. ",
+			"Paragraph":"<b>Find out how life insurers report their financial information to meet the needs of their external users. In Module 2,</b> you’ll see how they do this through the field of accounting known as financial accounting, in which an insurer produces financial statements—summaries of monetary events and transactions. You’ll also learn how an insurer can use financial ratio analysis to assess its financial condition or performance.",
 			
 			"List":[
-				{"List_info":"<b>Chapter 5</b>: Institutional Investment Objectives and Constraints"},
-				{"List_info":"<b>Chapter 6</b>: Risk Management and the Investment Function"},
-			],
+						{"List_info":"<b>Chapter 5:</b> Asset Valuation and Accounting for Invested Assets"},
+						{"List_info":"<b>Chapter 6:</b> Accounting for Other Assets"},
+						{"List_info":"<b>Chapter 7:</b> Accounting for Contractual Reserves"},
+						{"List_info":"<b>Chapter 8:</b> Accounting for Other Liabilities "},
+						{"List_info":"<b>Chapter 9:</b> Accounting for Capital and Surplus"},
+						{"List_info":"<b>Chapter 10:</b> Accounting for Revenues and Expenses"},
+						{"List_info":"<b>Chapter 11:</b> Interpreting Financial Ratios"},
+					],
 
 			//HIOC
 			"lesson_paragraph":	[
 				{"MLP_text":"Life insurance policies vary widely, and sometimes cover more than one person, or a minor child. Sometimes a business purchases a policy to cover business-related needs. Learn how underwriters evaluate applications for these different types of life insurance, as well as policy riders that provide supplemental benefits."},
 				
 				{"MLP_text":"Crystal admits that she doesn’t know much about underwriting for group life insurance policies. Her colleague Jack explains that group underwriting can be a complex process. Learn along with Crystal about how the group underwriting process works, the risk factors involved, and the details of how group policies are administered."},
-			],
 
-			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",
+				{"MLP_text":""},
+
+				{"MLP_text":""},
+
+				{"MLP_text":""},
+
+				{"MLP_text":""},
+
+				{"MLP_text":""}
+			],
 
 			//HYBRID
 			"Instructions":[
-					"Select <b>Module 2 e-book</b> to download the content to your e-reader.",
-					
-					"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
-					
-					//self-proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				"Select <b>Module 2 e-book</b> to download the content to your e-reader.",
+				
+				"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
+				
+				//self-proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					//proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				//proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					"When you are ready to take the exam for this module, select <b>Module 2 Exam</b>.",
-					
-					"Note – Module exams are timed, and you have only two attempts to pass each exam!"
-				],
-			},			
+				"When you are ready to take the exam for this module, select <b>Module 2 Exam</b>.",
+				
+				"Note – Module exams are timed, and you have only two attempts to pass each exam!"
+			],
+
+			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",
+			},
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-	
-		//-------<( Module 3 )>-------			
-		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+		//-------<( Module 3 )>-------			//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 			{
 			"Header":"Module 3:",
 			
-			"Title" : "The Institutional Investing Process",
-
+			"Title" : "Management Accounting, Internal Control, and Auditing ",
+			
 			"Image": "302_M3.png",
 			
-			"Paragraph":"<b>Walk through the institutional investing process.</b> Module 3 describes how institutional investors analyze asset classes, determine a portfolio’s asset allocation, and evaluate securities and funds. In addition, you’ll learn how institutional investors manage specific risks in their portfolios and the operational controls they employ. Finally, you’ll learn why investment professionals monitor their portfolios and how they measure and report on the portfolio’s performance.",
-
+			"Paragraph":"<b>Discover how the internal users of a life insurance company analyze the company’s financial information.</b> You’ll learn in <b>Module 3</b> how managers and other internal users apply the tools of management accounting to evaluate information and plan for the future. Plus, you’ll become acquainted with internal control and auditing.",
+			
 			"List":[
-				{"List_info":"<b>Chapter 7</b>: Portfolio Construction and Asset Selection"},
-				{"List_info":"<b>Chapter 8</b>: Portfolio Management and Operations"},
-				{"List_info":"<b>Chapter 9</b>: Monitoring and Evaluating Portfolio Performance"},
-			],
+						{"List_info":"<b>Chapter 12:</b> Responsibility Accounting"},
+						{"List_info":"<b>Chapter 13:</b> Cost Accounting "},
+						{"List_info":"<b>Chapter 14:</b> Financial Analysis"},
+						{"List_info":"<b>Chapter 15:</b> Budgeting"},
+						{"List_info":"<b>Chapter 16:</b> Internal Control and Auditing"},
+					],
 
 			//HIOC
 			"lesson_paragraph":
@@ -401,84 +416,96 @@ var course_settings =
 				{"MLP_text":"Byron is proud of what his team has accomplished. When customers have a positive experience with an insurance company, they benefit, and the company benefits as well. How do insurers organize customer service departments to best address customer needs? What systems and technologies do they use? Byron takes us through the fundamentals of customer service in this lesson."},
 				
 				{"MLP_text":"Kerry contacts the policyowner service department at Bountiful Life when she has questions related to Robert’s policy. Responding to customer questions is one of many important functions CSRs perform. What other transactions do CSRs complete? How do they handle complicated policyowner issues? In this lesson, Byron shows us how CSRs provide essential services to owners of in-force policies."},
-				
-				{"MLP_text":"Kerry contacts the policyowner service department at Bountiful Life when she has questions related to Robert’s policy. Responding to customer questions is one of many important functions CSRs perform. What other transactions do CSRs complete? How do they handle complicated policyowner issues? In this lesson, Byron shows us how CSRs provide essential services to owners of in-force policies."}
-			],	
 
-			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",
+				{"MLP_text":""},
+
+				{"MLP_text":""},
+
+				{"MLP_text":""}
+			],
 
 			//HYBRID
 			"Instructions":[
-					"Select <b>Module 3 e-book</b> to download the content to your e-reader.",
-					
-					"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
-					
-					//self-proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				"Select <b>Module 3 e-book</b> to download the content to your e-reader.",
+				
+				"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
+				
+				//self-proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					//proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				//proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					"When you are ready to take the exam for this module, select <b>Module 3 Exam</b>.",
-					
-					"Note – Module exams are timed, and you have only two attempts to pass each exam!"
-				],
-			},	
+				"When you are ready to take the exam for this module, select <b>Module 3 Exam</b>.",
+				
+				"Note – Module exams are timed, and you have only two attempts to pass each exam!"
+			],
+
+			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",
+			},
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-	
-		//-------<( Module 4 )>-------			
-		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+		//-------<( Module 4 )>-------			//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 			{
 			"Header":"Module 4:",
 			
-			"Title" : "Regulations and Controls",
-
+			"Title" : "Lorem ipsum dolores set",
+			
 			"Image": "302_M4.png",
 			
-			"Paragraph":"<b>Learn about the regulation of the insurance business and how financial services companies uphold ethical standards related to their investment activities.</b> Module 4 describes important securities regulations, entities involved in securities and insurance regulation, and the primary focus of insurance regulators around the world. In addition, the module explores ethical considerations for investment professionals and the role the audit function plays in insurance company compliance.  ",
-
+			"Paragraph":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+			
 			"List":[
-				{"List_info":"<b>Chapter 10</b>: Regulations and the Investment Function"},
-				{"List_info":"<b>Chapter 11</b>: Ethical Standards and Governance for the Investment Function"},
-			],
-
+						{"List_info":"Mod 4 list 1"},
+						{"List_info":"Mod 4 list 2"},
+					],
+					
 			//HIOC
 			"lesson_paragraph":
 			[
 				{"MLP_text":"Kerry files a claim with Bountiful Life when Robert dies. Who handles her claim? What systems are in place to carry out this important function? In this lesson, Jenna explains how claims departments are organized, the workflow strategies insurers use, and the legal issues related to claims. "},
 				
 				{"MLP_text":"Claim analysts must verify several key pieces of information during the claims evaluation process. They confirm the validity of claims using various documents that claimants submit, and ultimately they decide whether to approve or deny each claim. In this lesson, Jenna leads us through the first several steps of the process."},
+				
+				{"MLP_text":"After a claim analyst approves a claim, she must determine who receives the proceeds. In many instances this step is relatively simple, but in others the claim analyst encounters various challenges. Learn how claims personnel handle these different situations, and then try evaluating a couple of claims yourself."},
 			],
-
-			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",	
 
 			//HYBRID
 			"Instructions":[
-					"Select <b>Module 4 e-book</b> to download the content to your e-reader.",
-					
-					"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
-					
-					//self-proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				"Select <b>Module 4 e-book</b> to download the content to your e-reader.",
+				
+				"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
+				
+				//self-proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					//proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				//proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					"When you are ready to take the exam for this module, select <b>Module 4 Exam</b>.",
-					
-					"Note – Module exams are timed, and you have only two attempts to pass each exam!"
-				],
-			},	
+				"When you are ready to take the exam for this module, select <b>Module 4 Exam</b>.",
+				
+				"Note – Module exams are timed, and you have only two attempts to pass each exam!"
+			],
+
+			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",	
+			},
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-	
-		//-------<( Module 5 )>-------			
-		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+		//-------<( Module 5 )>-------			//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 			{
 			"Header":"Module 5:",
 			
 			"Title" : "Lorem ipsum dolores set",
-
+			
 			"Image": "LOMA_302_hero.png",
 			
 			"Paragraph":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+			
+			"List":[
+						{"List_info":"Mod 5 list 1"},
+						{"List_info":"Mod 5 list 2"},
+						{"List_info":"Mod 5 list 3"},
+						{"List_info":"Mod 5 list 4"},
+						{"List_info":"Mod 5 list 5"},
+					],
 
 			//HIOC
 			"lesson_paragraph":
@@ -497,45 +524,40 @@ var course_settings =
 			],
 
 			//HYBRID
-			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",	
-
 			"Instructions":[
-					"Select <b>Module 5 e-book</b> to download the content to your e-reader.",
-					
-					"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
-					
-					//self-proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				"Select <b>Module 5 e-book</b> to download the content to your e-reader.",
+				
+				"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
+				
+				//self-proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					//"We recommend you review a few particularly <b>Tough Topics</b> in this module. As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				//proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					//proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				"When you are ready to take the exam for this module, select <b>Module 5 Exam</b>.",
+				
+				"Note – Module exams are timed, and you have only two attempts to pass each exam!"
+			],		
 
-					//"We recommend you review a few particularly <b>Tough Topics</b> in this module. You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
-
-					"When you are ready to take the exam for this module, select <b>Module 5 Exam</b>.",
-					
-					"Note – Module exams are timed, and you have only two attempts to pass each exam!"
-				],			
+			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",	
 			},
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-	
-		//-------<( Module 6 )>-------			
-		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+		//-------<( Module 6 )>-------			//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 			{
 			"Header":"Module 6:",
 			
 			"Title" : "Lorem ipsum dolores set",
-
+			
 			"Image": "LOMA_302_hero.png",
 			
 			"Paragraph":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
 
 			"List":[
-				{"List_info":"Mod 6 list 1"},
-				{"List_info":"Mod 6 list 2"},
-				{"List_info":"Mod 6 list 3"},
-			],
+						{"List_info":"Mod 6 list 1"},
+						{"List_info":"Mod 6 list 2"},
+						{"List_info":"Mod 6 list 3"},
+					],
 
 			//HIOC
 			"Mod_06_lesson_paragraph":
@@ -543,43 +565,42 @@ var course_settings =
 				{"MLP_text":"06 01 This is text for the description of each lesson module dialog. Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Bender, hurry! This fuel's expensive! Also, we're dying! Yes. You gave me a dollar and some candy."},
 				{"MLP_text":"06 02 This is text for the description of each lesson module dialog"},
 			],
-			
-			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",	
 
 			//HYBRID
 			"Instructions":[
-					"Select <b>Module 6 e-book</b> to download the content to your e-reader.",
-					
-					"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
-					
-					//self-proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				"Select <b>Module 6 e-book</b> to download the content to your e-reader.",
+				
+				"The end of each chapter contains practice exam questions to check your understanding. Those questions are repeated via the <b>Practice Question</b> links below.",
+				
+				//self-proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module. Then, as-->As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
+				//proctored
+				"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
 
-					//"We recommend you review a few particularly <b>Tough Topics</b> in this module. As a final tune-up, try the <b>Sample Exam</b>, which mimics the actual exam for this module. You can also visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.", // TTTT
-
-					//proctored
-					"<!--We recommend you review a few particularly <b>Tough Topics</b> in this module.--> You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.",
-
-					//"We recommend you review a few particularly <b>Tough Topics</b> in this module. You can <!--also--> visit <b>Exam Prep</b> for additional resources to help you prepare for the exam.", // TTTT
-
-					"When you are ready to take the exam for this module, select <b>Module 6 Exam</b>.",
-					
-					"Note – Module exams are timed, and you have only two attempts to pass each exam!"
-				],			
-			},				
+				"When you are ready to take the exam for this module, select <b>Module 6 Exam</b>.",
+				
+				"Note – Module exams are timed, and you have only two attempts to pass each exam!"
+			],
+			
+			"Exam_Dialog_Paragraph":"You must complete all lessons in this module to unlock the exam.",	
+			},
 		],
 		
 	"Additional_Docs":[
 		/* {
-			"name": "Certificate of Death (blank)",
-			"doc": "Certificate_of_Death_final_fill.pdf"
+			"name": "Active Listening Job Aid",
+			"doc": "Active_Listening_Job_Aid.pdf"
 		},
 		{
-			"name": "Physician Statement (John Smith)",
-			"doc": "Physician_Statement_JohnSmith.pdf"
+			"name": "Call Evaluation Form",
+			"doc": "Call_Evaluation_Form.pdf"
+		},
+		{
+			"name": "Paraphrasing Guidelines",
+			"doc": "Paraphrasing_Guidelines.pdf"
 		} */
 	],
-
+	
 	"Lesson_Summaries": false,
 	"Answer_Key": true,
 	"Course_Glossary": true,
@@ -609,7 +630,7 @@ var course_settings =
 	{
 		"Header": "Course Glossary",
 		"Intro": "Listed below are all the glossary terms, with the definitions, used in this course. Visit the LOMA website to see the full <a href=\"https://www.loma.org/en/professional-development/loma-glossary\" target=\"_blank\">LOMA Glossary</a>.",
-		"SubIntro": "<em>The LOMA 357 Glossary</em> Copyright &copy; 2019 LL Global, Inc. All rights reserved. Copying, downloading, reproducing, republishing, transmitting, or otherwise disseminating this content in any form or by any means, electronic or mechanical, without permission from LL Global is a violation of U.S. federal law and international law."
+		"SubIntro": "<em>The LOMA 361 Glossary</em> Copyright &copy; 2019 LL Global, Inc. All rights reserved. Copying, downloading, reproducing, republishing, transmitting, or otherwise disseminating this content in any form or by any means, electronic or mechanical, without permission from LL Global is a violation of U.S. federal law and international law."
 	},
     
     "Exam_Prep":
@@ -659,7 +680,7 @@ var course_settings =
                 "buttons":[
                     {
                         "prepLabel": "Study Plan",
-                        "link": "LOMA_357_Study_Plan.pdf"
+                        "link": "LOMA_361_Study_Plan.pdf"
                     },
                     {
                         "prepLabel": "Study Tips",
@@ -682,71 +703,101 @@ var course_settings =
 						"module": "1",
 						"prepLabel": "Chapter 1",
 						"modLabel": "Ch.1 Practice",
-						"link": "LOMA_357_PQ_0_1.html"
+						"link": "LOMA_361_PQ_0_1.html"
 					},
 					{
 						"module": "1",
 						"prepLabel": "Chapter 2",
 						"modLabel": "Ch.2 Practice",
-						"link": "LOMA_357_PQ_0_2.html"
+						"link": "LOMA_361_PQ_0_2.html"
 					},
 					{
 						"module": "1",
 						"prepLabel": "Chapter 3",
 						"modLabel": "Ch.3 Practice",
-						"link": "LOMA_357_PQ_0_3.html"
+						"link": "LOMA_361_PQ_0_3.html"
 					},
 					{
 						"module": "1",
 						"prepLabel": "Chapter 4",
 						"modLabel": "Ch.4 Practice",
-						"link": "LOMA_357_PQ_0_4.html"
+						"link": "LOMA_361_PQ_0_4.html"
 					},
 					{
 						"module": "2",
 						"prepLabel": "Chapter 5",
 						"modLabel": "Ch.5 Practice",
-						"link": "LOMA_357_PQ_0_5.html"
+						"link": "LOMA_361_PQ_0_5.html"
 					},
 					{
 						"module": "2",
 						"prepLabel": "Chapter 6",
 						"modLabel": "Ch.6 Practice",
-						"link": "LOMA_357_PQ_0_6.html"
+						"link": "LOMA_361_PQ_0_6.html"
 					},
 					{
-						"module": "3",
+						"module": "2",
 						"prepLabel": "Chapter 7",
 						"modLabel": "Ch.7 Practice",
-						"link": "LOMA_357_PQ_0_7.html"
+						"link": "LOMA_361_PQ_0_7.html"
 					},
 					{
-						"module": "3",
+						"module": "2",
 						"prepLabel": "Chapter 8",
 						"modLabel": "Ch.8 Practice",
-						"link": "LOMA_357_PQ_0_8.html"
+						"link": "LOMA_361_PQ_0_8.html"
+					},
+					{
+						"module": "2",
+						"prepLabel": "Chapter 9",
+						"modLabel": "Ch.9 Practice",
+						"link": "LOMA_361_PQ_0_9.html"
+					},
+					{
+						"module": "2",
+						"prepLabel": "Chapter 10",
+						"modLabel": "Ch.10 Practice",
+						"link": "LOMA_361_PQ_0_10.html"
+					},
+					{
+						"module": "2",
+						"prepLabel": "Chapter 11",
+						"modLabel": "Ch.11 Practice",
+						"link": "LOMA_361_PQ_0_11.html"
 					},
 					{
 						"module": "3",
-						"prepLabel": "Chapter 9",
-						"modLabel": "Ch.9 Practice",
-						"link": "LOMA_357_PQ_0_9.html"
+						"prepLabel": "Chapter 12",
+						"modLabel": "Ch.12 Practice",
+						"link": "LOMA_361_PQ_0_12.html"
 					},
 					{
-						"module": "4",
-						"prepLabel": "Chapter 10",
-						"modLabel": "Ch.10 Practice",
-						"link": "LOMA_357_PQ_0_10.html"
+						"module": "3",
+						"prepLabel": "Chapter 13",
+						"modLabel": "Ch.13 Practice",
+						"link": "LOMA_361_PQ_0_13.html"
 					},
 					{
-						"module": "4",
-						"prepLabel": "Chapter 11",
-						"modLabel": "Ch.11 Practice",
-						"link": "LOMA_357_PQ_0_11.html"
+						"module": "3",
+						"prepLabel": "Chapter 14",
+						"modLabel": "Ch.14 Practice",
+						"link": "LOMA_361_PQ_0_14.html"
+					},
+					{
+						"module": "3",
+						"prepLabel": "Chapter 15",
+						"modLabel": "Ch.15 Practice",
+						"link": "LOMA_361_PQ_0_15.html"
+					},
+					{
+						"module": "3",
+						"prepLabel": "Chapter 16",
+						"modLabel": "Ch.16 Practice",
+						"link": "LOMA_361_PQ_0_16.html"
 					}
                 ]
             },
-           /*  {
+            /*{
                 "title": "Top 10 Tough Topics",
                 "buttons":[
                     {
@@ -754,30 +805,26 @@ var course_settings =
                         "link": "TTTT"
                     }
                 ]
-            }, */
+            },*/
             {
 				"title": "Sample Exam",
 				"titlePlural": "Sample Exams",
                 "buttons":[
                     {
                         "prepLabel": "Sample Exam",
-                        "link": "LOMA_357_SE.html"
+                        "link": "LOMA_361_SE.html"
                     },
                     {
                         "prepLabel": "Mod 1 Sample Exam",
-                        "link": "LOMA_357_SE_1.html"
+                        "link": "LOMA_361_SE_1.html"
                     },
                     {
                         "prepLabel": "Mod 2 Sample Exam",
-                        "link": "LOMA_357_SE_2.html"
+                        "link": "LOMA_361_SE_2.html"
 					},
 					{
                         "prepLabel": "Mod 3 Sample Exam",
-                        "link": "LOMA_357_SE_3.html"
-					},
-					{
-                        "prepLabel": "Mod 4 Sample Exam",
-                        "link": "LOMA_357_SE_4.html"
+                        "link": "LOMA_361_SE_3.html"
 					},
                 ]
             },
@@ -801,8 +848,6 @@ var course_settings =
 		'helpTopics': "&#8617; Help Topics",
 	},
 	"EndOfCourse":{
-		//"passedMsg": "Congratulations!<br>You've completed LOMA 361!", // 361
-		//"passedMsg": "Congratulations!<br>You've completed<br>NY Reg 187!",
 		"passedMsg": "Congratulations!<br>You've completed",
 		"shortCourseEOC": "Congratulations!<br>You completed the course!",
 		"whatsNextBtn": "What's Next",
@@ -817,12 +862,11 @@ var course_settings =
 	},
 	"IntegrityStatement":{
 		"Header": "Integrity Statement",
-		"theStatement": "<p>This course is  designed to improve your job knowledge. Your company&rsquo;s support of your participation  in this course is an investment in your professional development. Completion of  LOMA courses and designations represents a professional achievement, and all  participants benefit when the standards of honesty and integrity are upheld. It  is therefore imperative that you act with honesty and integrity in representing  yourself and your company as you complete the examinations for this course. </p><p>By checking the  boxes below, I agree that:</p><ul class=\"honest\"><li><label class=\"bContainer\">I am enrolled in this course and I am eligible  to take the following exam.<input type=\"checkbox\" id=\"bIntegrity1\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">I will be honest and act with integrity in all endeavors related to the  completion of this course and agree that <input type=\"checkbox\" id=\"bIntegrity2\"><span class=\"bCheckmark\"></span></label><ul><li><label class=\"bContainer\">I will not cheat on any exams or permit another student to cheat from my work;<input type=\"checkbox\" id=\"bIntegrity2a\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">I  will not improperly acquire or share knowledge of the contents of an exam or  obtain access through stealing or other unauthorized means;<input type=\"checkbox\" id=\"bIntegrity2b\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">I  will not use any outside sources including, but not limited to, study materials,  reference materials, other unauthorized materials, or any digital or mobile  devices during an exam.<input type=\"checkbox\" id=\"bIntegrity2c\"><span class=\"bCheckmark\"></span></label></li></ul></li><li><label class=\"bContainer\">LOMA regularly gathers demographic and  performance data for the purpose of statistical research projects and to  monitor students&rsquo; compliance with the elements of professional behavior noted  in this integrity statement.<input type=\"checkbox\" id=\"bIntegrity3\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">LOMA works in partnership with our  member companies to ensure all learners adhere to standards of integrity in  completing course examinations<input type=\"checkbox\" id=\"bIntegrity4\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">I will  report any suspected exam violations to LOMA&rsquo;s Office of the Registrar  immediately. Any violation of this Integrity Statement shall result in the loss  of course credit and any person suspected of engaging in misconduct on an exam  or assignment in this course will be subject to LOMA&rsquo;s <a href=\"https://www.loma.org/en/help-center/exams/exam-standards/due-process-policy\" target=\"_blank\">Due Process  Policy</a>.<input type=\"checkbox\" id=\"bIntegrity5\"><span class=\"bCheckmark\"></span></label></li></ul><div style=\"text-align: center;\"><div class=\"hiocexam_btn_disabled\" id=\"exam_btn\">Start the exam!</div></div>"
+		"theStatement": "<p>This course is  designed to improve your job knowledge. Your company&rsquo;s support of your participation  in this course is an investment in your professional development. Completion of  LOMA courses and designations represents a professional achievement, and all  participants benefit when the standards of honesty and integrity are upheld. It  is therefore imperative that you act with honesty and integrity in representing  yourself and your company as you complete the examinations for this course.</p><p>By checking the  boxes below, I agree that:</p><ul class=\"honest\"><li><label class=\"bContainer\">I am enrolled in this course and I am eligible  to take the following exam.<input type=\"checkbox\" id=\"bIntegrity1\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">I will be honest and act with integrity in all endeavors related to the  completion of this course and agree that <input type=\"checkbox\" id=\"bIntegrity2\"><span class=\"bCheckmark\"></span></label><ul><li><label class=\"bContainer\">I will not cheat on any exams or permit another student to cheat from my work;<input type=\"checkbox\" id=\"bIntegrity2a\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">I  will not improperly acquire or share knowledge of the contents of an exam or  obtain access through stealing or other unauthorized means;<input type=\"checkbox\" id=\"bIntegrity2b\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">I  will not use any outside sources including, but not limited to, study materials,  reference materials, other unauthorized materials, or any digital or mobile  devices during an exam.<input type=\"checkbox\" id=\"bIntegrity2c\"><span class=\"bCheckmark\"></span></label></li></ul></li><li><label class=\"bContainer\">LOMA regularly gathers demographic and  performance data for the purpose of statistical research projects and to  monitor students&rsquo; compliance with the elements of professional behavior noted  in this integrity statement.<input type=\"checkbox\" id=\"bIntegrity3\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">LOMA works in partnership with our  member companies to ensure all learners adhere to standards of integrity in  completing course examinations<input type=\"checkbox\" id=\"bIntegrity4\"><span class=\"bCheckmark\"></span></label></li><li><label class=\"bContainer\">I will  report any suspected exam violations to LOMA&rsquo;s Office of the Registrar  immediately. Any violation of this Integrity Statement shall result in the loss  of course credit and any person suspected of engaging in misconduct on an exam  or assignment in this course will be subject to LOMA&rsquo;s <a href=\"https://www.loma.org/en/help-center/exams/exam-standards/due-process-policy\" target=\"_blank\">Due Process  Policy</a>.<input type=\"checkbox\" id=\"bIntegrity5\"><span class=\"bCheckmark\"></span></label></li></ul><div style=\"text-align: center;\"><div class=\"hiocexam_btn_disabled\" id=\"exam_btn\">Start the exam!</div></div>"
 	},
 	"ContactSection": {
 		"Header": "Contact Us",
 		"Intro": "<p style=\"width:100%\">Confused about a topic? Want clarification or more information about something you read in the course? Does something in the course seem wrong? </p>",
 		"Directions": "* You must fill out this form completely",
 	},
-
 };
