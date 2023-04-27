@@ -189,7 +189,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Distribution of Life Insurer Assets, by Account Type, 2017 (millions)"
+                                "Heading": "Distribution of Life Insurer Assets, by Account Type, 2017 (millions)",
+                                "merge": "7"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -204,13 +205,16 @@ Lesson_Data_File([
                                         "Data_Info": " <span id=\"loma357-ch2-p-34\" class=\"cell-hide\">null</span> "
                                     },
                                     {
-                                        "Data_Info": "General account"
+                                        "Data_Info": "General account",
+                                        "merge": "2"
                                     },
                                     {
-                                        "Data_Info": "Separate account"
+                                        "Data_Info": "Separate account",
+                                        "merge": "2"
                                     },
                                     {
-                                        "Data_Info": "Combined accounts"
+                                        "Data_Info": "Combined accounts",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -248,7 +252,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Bonds</strong> "
+                                        "Data_Info": "<strong>Bonds</strong> ",
+                                        "merge": "7"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -279,7 +284,7 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -307,7 +312,7 @@ Lesson_Data_File([
                                         "Data_Info": "6.2"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -335,7 +340,7 @@ Lesson_Data_File([
                                         "Data_Info": "1.4"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -391,7 +396,7 @@ Lesson_Data_File([
                                         "Data_Info": "32.9"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -419,7 +424,7 @@ Lesson_Data_File([
                                         "Data_Info": "7.9"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -447,14 +452,15 @@ Lesson_Data_File([
                                         "Data_Info": "<em>48.4</em> "
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Stocks</strong> "
+                                        "Data_Info": "<strong>Stocks</strong> ",
+                                        "merge": "7"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -485,7 +491,7 @@ Lesson_Data_File([
                                         "Data_Info": "31.3"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -513,7 +519,7 @@ Lesson_Data_File([
                                         "Data_Info": "0.2"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -541,14 +547,15 @@ Lesson_Data_File([
                                         "Data_Info": "<em>31.5</em> "
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Mortgages</strong> "
+                                        "Data_Info": "<strong>Mortgages</strong> ",
+                                        "merge": "7"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -579,7 +586,7 @@ Lesson_Data_File([
                                         "Data_Info": "0.3"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -607,7 +614,7 @@ Lesson_Data_File([
                                         "Data_Info": "0.3"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -635,7 +642,7 @@ Lesson_Data_File([
                                         "Data_Info": "6.6"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },

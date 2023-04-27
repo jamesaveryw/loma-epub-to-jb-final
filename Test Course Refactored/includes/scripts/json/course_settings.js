@@ -7,9 +7,9 @@ var course_settings = {
 		//COURSE_TYPE = hioc || hybrid || pdf || shortcourseA || demo-hioc || demo-hybrid || demo-pdf || demo-shortcourseA || immersion || more???
 		Course_Type: "demo-hioc",
 
-		Course_Number: "357", //"NY Reg 187",//
-		Course_Folder: "LOMA_357", //LOMA_302, NY_Reg_187
-		Course_Name: "LOMA 357", //"NY Reg 187",//"LOMA 361", // PLEASE KEEP THIS SAME FORMAT --> "LOMA 361", "SRI 111", etc !!!!
+		Course_Number: "361", //"NY Reg 187",//
+		Course_Folder: "LOMA_361", //LOMA_302, NY_Reg_187
+		Course_Name: "LOMA 361", //"NY Reg 187",//"LOMA 361", // PLEASE KEEP THIS SAME FORMAT --> "LOMA 361", "SRI 111", etc !!!!
 
 		// Requirements for entering the course
 		showTerms: true,
@@ -30,19 +30,19 @@ var course_settings = {
 		course_locale: "en-US", // en-US || zh-CN (Simplified) || zh-TW (Traditional) || fr-CA
 
 		LM_Logo: "LOMA_logo_Tagline_Reverse.png", // loma_blue.png, sri_logo_rev.png, or LLG.png
-		Course_Title: "Institutional Investing: Principles and Practices",
+		Course_Title: "Accounting and Financial Reporting in Life Insurance Companies",
 
 		//HYBRID
 		About: {
-			Infographic: "357-InfoGraphic.png",
+			Infographic: "LOMA_361_InfoGraphic.jpg",
 			Alt_Text: "An infographic describing course content by chapters using bulleted items"
 		},
 
-		Hero_Image: "LOMA357_Portal_1367394132.jpg",
+		Hero_Image: "LOMA_361_Portal1255011898.jpg",
 
 		Welcome_text: {
 			Intro_Copy: [
-				"<em>LOMA 357&mdash;Institutional Investing: Principles and Practices</em>&mdash;introduces students to basic investment principles and the \"why\" and \"how\" of institutional investing. Students will learn about institutional investment objectives and explore the institutional investment process. In addition, students will gain an understanding of how a life insurer’s investment function manages investments to support the company’s products and solvency.",
+				"<em>LOMA 361—Accounting and Financial Reporting in Life Insurance Companies</em> describes the accounting function in life insurance companies. By taking this course, you’ll develop an understanding of the regulatory environment in which insurance accounting occurs, financial statements and reports, accounting for typical life insurer transactions, financial analysis, budgeting, and internal control and auditing.",
 
 				'<span style="color: #CC0000;font-weight: bold;font-style:italic;">Warning:</span> If you open the course on more than one device at a time, you risk losing your progress. Make sure to Exit the course using the Exit icon <img src="includes/images/glyphicons-389-exit.png" alt=""> or the course menu in the course portal after each session.'
 			]
@@ -72,15 +72,17 @@ var course_settings = {
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 1 )>-------		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "The Basics of Investing",
+			Title: "Orientation to Accounting and Financial Reporting",
 
 			Image: "",
 
-			Paragraph: "<b>Learn the fundamental investment concepts.</b> Module 1 introduces you to the basic investment concepts, basic and advanced investment vehicles, the roles for participants in capital markets, and all you need to know about investment returns and various investment-related risks.",
+			Paragraph: "<b>Learn the basics. Module 1</b> introduces you to the fundamental principles, concepts, and terminology of accounting and financial reporting in life insurance companies. You’ll also study accounting regulation and monitoring, as well as the different types of financial statements and reports.",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
 			List: [
+				{ List_info: "" },
+				{ List_info: "" },
 				{ List_info: "" },
 				{ List_info: "" },
 				{ List_info: "" },
@@ -105,13 +107,13 @@ var course_settings = {
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 2 )>-------				//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "Planning in Institutional Investing",
+			Title: "Major Accounts and Financial Ratios",
 
 			Image: "ACS101_M2.png",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
-			Paragraph: "<b>Explore how institutional investors plan their investing practices.</b> Module 2 explains the goals of institutional investing and describes how investors create investment policy statements. In addition, the module describes investment objectives and investment constraints for insurance companies. Finally, you’ll learn how insurance companies use enterprise risk management (ERM) and asset-liability management (ALM) to analyze and address investment-related risks.",
+			Paragraph: "<b>Find out how life insurers report their financial information to meet the needs of their external users. In Module 2,</b> you’ll see how they do this through the field of accounting known as financial accounting, in which an insurer produces financial statements—summaries of monetary events and transactions. You’ll also learn how an insurer can use financial ratio analysis to assess its financial condition or performance.",
 
 			List: [
 				{ List_info: "" },
@@ -130,17 +132,27 @@ var course_settings = {
 			lesson_paragraph: [
 				{ MLP_text: "" },
 
+				{ MLP_text: "" },
+
+				{ MLP_text: "" },
+
+				{ MLP_text: "" },
+
+				{ MLP_text: "" },
+
+				{ MLP_text: "" },
+
 				{ MLP_text: "" }
 			]
 		},
 		//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		//-------<( Module 3 )>-------			//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 		{
-			Title: "The Institutional Investing Process",
+			Title: "Management Accounting, Internal Control, and Auditing",
 
 			Image: "",
 
-			Paragraph: "<<b>Walk through the institutional investing process.</b> Module 3 describes how institutional investors analyze asset classes, determine a portfolio’s asset allocation, and evaluate securities and funds. In addition, you’ll learn how institutional investors manage specific risks in their portfolios and the operational controls they employ. Finally, you’ll learn why investment professionals monitor their portfolios and how they measure and report on the portfolio’s performance.",
+			Paragraph: "<b>Discover how the internal users of a life insurance company analyze the company’s financial information.</b> You’ll learn in <b>Module 3</b> how managers and other internal users apply the tools of management accounting to evaluate information and plan for the future. Plus, you’ll become acquainted with internal control and auditing.",
 
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
@@ -157,6 +169,10 @@ var course_settings = {
 			// If Hybrid/PDF, the number of these should match 
 			// the number of Chapters in the module.
 			lesson_paragraph: [
+				{ MLP_text: "" },
+
+				{ MLP_text: "" },
+
 				{ MLP_text: "" },
 
 				{ MLP_text: "" },

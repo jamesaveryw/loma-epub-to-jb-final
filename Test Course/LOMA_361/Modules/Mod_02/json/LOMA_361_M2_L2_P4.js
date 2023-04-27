@@ -680,7 +680,8 @@ Lesson_Data_File([
                                 "Heading": "1<br/>Amount"
                             },
                             {
-                                "Heading": "2<br/>Percent of Total"
+                                "Heading": "2<br/>Percent of Total",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#000000",
@@ -698,7 +699,8 @@ Lesson_Data_File([
                                         "Data_Info": "$1,053,252,780"
                                     },
                                     {
-                                        "Data_Info": "24.6"
+                                        "Data_Info": "24.6",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -714,7 +716,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -730,7 +733,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -746,7 +750,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -762,7 +767,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -778,7 +784,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -794,7 +801,8 @@ Lesson_Data_File([
                                         "Data_Info": "1,053,252,780"
                                     },
                                     {
-                                        "Data_Info": "24.6"
+                                        "Data_Info": "24.6",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -810,7 +818,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -826,7 +835,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -842,7 +852,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -858,7 +869,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -874,7 +886,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -890,7 +903,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -906,7 +920,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -922,7 +937,8 @@ Lesson_Data_File([
                                         "Data_Info": "1,662,571"
                                     },
                                     {
-                                        "Data_Info": "0.0"
+                                        "Data_Info": "0.0",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -938,7 +954,8 @@ Lesson_Data_File([
                                         "Data_Info": "1,054,915,351"
                                     },
                                     {
-                                        "Data_Info": "24.7"
+                                        "Data_Info": "24.7",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgb(178, 178, 178)",
@@ -954,7 +971,8 @@ Lesson_Data_File([
                                         "Data_Info": "3,219,927,908"
                                     },
                                     {
-                                        "Data_Info": "75.3"
+                                        "Data_Info": "75.3",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgb(178, 178, 178)",
@@ -970,7 +988,8 @@ Lesson_Data_File([
                                         "Data_Info": "4,272,843,259"
                                     },
                                     {
-                                        "Data_Info": "100.0%"
+                                        "Data_Info": "100.0%",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",

@@ -7166,7 +7166,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Five-Year Ratio Results for the Evergreen Life Insurance Company"
+                                "Heading": "Five-Year Ratio Results for the Evergreen Life Insurance Company",
+                                "merge": "7"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",

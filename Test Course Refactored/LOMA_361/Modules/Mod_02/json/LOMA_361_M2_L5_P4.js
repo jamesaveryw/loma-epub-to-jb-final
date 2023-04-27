@@ -149,7 +149,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Sources of funds: Increase capital and surplus.</strong> <br/><br/><br/><strong>Uses of funds: Decrease capital and surplus.</strong> "
+                                        "Data_Info": "<strong>Sources of funds: Increase capital and surplus.</strong> <br/><br/><br/><strong>Uses of funds: Decrease capital and surplus.</strong> ",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",
@@ -905,7 +906,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "<strong>Balance Sheet: Insurer Purchases In-Force Business from Another Insurer</strong> "
+                                "Heading": "<strong>Balance Sheet: Insurer Purchases In-Force Business from Another Insurer</strong> ",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -1037,7 +1039,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "<strong>Balance Sheet (under SAP)</strong> <br/><strong>Surplus Notes Issue and Sale</strong> "
+                                "Heading": "<strong>Balance Sheet (under SAP)</strong> <br/><strong>Surplus Notes Issue and Sale</strong> ",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",

@@ -953,7 +953,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Subaccount ABC"
+                                        "Data_Info": "Subaccount ABC",
+                                        "merge": "3"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -1059,7 +1060,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Subaccount GHI"
+                                        "Data_Info": "Subaccount GHI",
+                                        "merge": "3"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",
@@ -1165,7 +1167,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Contract Totals"
+                                        "Data_Info": "Contract Totals",
+                                        "merge": "3"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",

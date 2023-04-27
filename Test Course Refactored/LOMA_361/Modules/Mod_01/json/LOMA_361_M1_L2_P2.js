@@ -129,7 +129,8 @@ Lesson_Data_File([
                                         "Data_Info": "1000"
                                     },
                                     {
-                                        "Data_Info": "Assets"
+                                        "Data_Info": "Assets",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -190,7 +191,8 @@ Lesson_Data_File([
                                         "Data_Info": "2000"
                                     },
                                     {
-                                        "Data_Info": "Liabilities"
+                                        "Data_Info": "Liabilities",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -235,7 +237,8 @@ Lesson_Data_File([
                                         "Data_Info": "3000"
                                     },
                                     {
-                                        "Data_Info": "Owners' Equity"
+                                        "Data_Info": "Owners' Equity",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -280,7 +283,8 @@ Lesson_Data_File([
                                         "Data_Info": "4000"
                                     },
                                     {
-                                        "Data_Info": "Revenues"
+                                        "Data_Info": "Revenues",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",
@@ -341,7 +345,8 @@ Lesson_Data_File([
                                         "Data_Info": "5000"
                                     },
                                     {
-                                        "Data_Info": "Expenses"
+                                        "Data_Info": "Expenses",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",

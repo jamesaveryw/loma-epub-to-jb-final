@@ -280,7 +280,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Steadfast Life Insurance Company<br/><strong>GAAP Balance Sheet</strong><br/><strong>as of December 31, 2018</strong><br/><strong>(000s omitted)</strong>"
+                                "Heading": "Steadfast Life Insurance Company<br/><strong>GAAP Balance Sheet</strong><br/><strong>as of December 31, 2018</strong><br/><strong>(000s omitted)</strong>",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -292,7 +293,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "ASSETS"
+                                        "Data_Info": "ASSETS",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -562,7 +564,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "LIABILITIES"
+                                        "Data_Info": "LIABILITIES",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",
@@ -702,7 +705,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "STOCKHOLDERS’ EQUITY"
+                                        "Data_Info": "STOCKHOLDERS’ EQUITY",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -874,7 +878,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Steadfast Life Insurance Company<br/><strong>GAAP Income Statement</strong><br/><strong>for the year ended December 31, 2018</strong><br/><strong>(000s omitted)</strong>"
+                                "Heading": "Steadfast Life Insurance Company<br/><strong>GAAP Income Statement</strong><br/><strong>for the year ended December 31, 2018</strong><br/><strong>(000s omitted)</strong>",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -886,7 +891,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Revenues"
+                                        "Data_Info": "Revenues",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -1039,7 +1045,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Expenses"
+                                        "Data_Info": "Expenses",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -1504,7 +1511,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Steadfast Life Insurance Company<br/><strong>Statement of Comprehensive Income</strong><br/><strong>for the year ended December 31, 2018</strong><br/><strong>(000s omitted)</strong>"
+                                "Heading": "Steadfast Life Insurance Company<br/><strong>Statement of Comprehensive Income</strong><br/><strong>for the year ended December 31, 2018</strong><br/><strong>(000s omitted)</strong>",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -1804,7 +1812,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Steadfast Life Insurance Company<br/><strong>GAAP Cash Flow Statement</strong><br/><strong>for the year ended December 31, 2018</strong><br/><strong>(000s omitted)</strong>"
+                                "Heading": "Steadfast Life Insurance Company<br/><strong>GAAP Cash Flow Statement</strong><br/><strong>for the year ended December 31, 2018</strong><br/><strong>(000s omitted)</strong>",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -1816,7 +1825,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Cash Flows from Operating Activities"
+                                        "Data_Info": "Cash Flows from Operating Activities",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -1943,7 +1953,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Cash Flows from Investing Activities"
+                                        "Data_Info": "Cash Flows from Investing Activities",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -2044,7 +2055,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Cash Flows from Financing Activities"
+                                        "Data_Info": "Cash Flows from Financing Activities",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -2950,7 +2962,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Steadfast Life Insurance Company<br/>Statement of Stockholders’ Equity<br/>for the year ended December 31, 2018<br/>(000s omitted)"
+                                "Heading": "Steadfast Life Insurance Company<br/>Statement of Stockholders’ Equity<br/>for the year ended December 31, 2018<br/>(000s omitted)",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -2962,7 +2975,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Common Stock"
+                                        "Data_Info": "Common Stock",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -3024,7 +3038,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Retained Earnings"
+                                        "Data_Info": "Retained Earnings",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",
@@ -3099,7 +3114,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "Accumulated Other Comprehensive Income (Loss)"
+                                        "Data_Info": "Accumulated Other Comprehensive Income (Loss)",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",

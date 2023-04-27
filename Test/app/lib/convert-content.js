@@ -923,7 +923,6 @@ function buildTable(table) {
 			// set cell data
 			let i = 0;
 			for (let cell of cells) {
-				console.log(cell.outerHTML);
 				let cellObj = {};
 				let cellHTML;
 				// get all nodes of cell

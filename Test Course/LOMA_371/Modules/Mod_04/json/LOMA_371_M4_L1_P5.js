@@ -694,10 +694,12 @@ Lesson_Data_File([
                                 "Heading": "<strong>Policy Year</strong>"
                             },
                             {
-                                "Heading": "<strong><span style=\"display:inline-block; margin-right:10px\">Number of<br>Deaths</span> <span style=\"display:inline-block\">×</span></strong>"
+                                "Heading": "<strong><span style=\"display:inline-block; margin-right:10px\">Number of<br>Deaths</span> <span style=\"display:inline-block\">×</span></strong>",
+                                "merge": "2"
                             },
                             {
-                                "Heading": "<strong><span style=\"display:inline-block; margin-right:10px\">Average Death<br>Benefit</span> <span style=\"display:inline-block\">=</span></strong>"
+                                "Heading": "<strong><span style=\"display:inline-block; margin-right:10px\">Average Death<br>Benefit</span> <span style=\"display:inline-block\">=</span></strong>",
+                                "merge": "2"
                             },
                             {
                                 "Heading": "<strong>Future Value of Death Benefits</strong>"
@@ -1092,7 +1094,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "3"
                                     },
                                     {
                                         "Data_Info": "C) × $100,000"
@@ -1242,7 +1245,8 @@ Lesson_Data_File([
                                         "Data_Info": "&nbsp;"
                                     },
                                     {
-                                        "Data_Info": "<strong>Present Value of Total Death Benefits =</strong>"
+                                        "Data_Info": "<strong>Present Value of Total Death Benefits =</strong>",
+                                        "merge": "3"
                                     },
                                     {
                                         "Data_Info": "$2,653,647"
@@ -1488,7 +1492,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "4"
                                     },
                                     {
                                         "Data_Info": "C) × D)"
@@ -1647,7 +1652,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Net Cost of Five-Year Term Coverage of $100,000 for 10,000 Males Aged 35 = 35,822.79 × LAP</strong>"
+                                        "Data_Info": "<strong>Net Cost of Five-Year Term Coverage of $100,000 for 10,000 Males Aged 35 = 35,822.79 × LAP</strong>",
+                                        "merge": "7"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",

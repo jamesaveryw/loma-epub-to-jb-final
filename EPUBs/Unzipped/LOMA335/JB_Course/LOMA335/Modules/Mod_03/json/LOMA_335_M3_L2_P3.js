@@ -1559,7 +1559,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "<strong>July Forecast</strong> "
+                                "Heading": "<strong>July Forecast</strong> ",
+                                "merge": "4"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -1666,7 +1667,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "&nbsp;"
+                                        "Data_Info": "&nbsp;",
+                                        "merge": "2"
                                     },
                                     {
                                         "Data_Info": "<strong>Total </strong> "
@@ -3198,7 +3200,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "States of Nature "
+                                "Heading": "States of Nature ",
+                                "merge": "4"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -3545,7 +3548,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "PAYOFF TABLE 1 "
+                                "Heading": "PAYOFF TABLE 1 ",
+                                "merge": "4"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -3557,7 +3561,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "States of Nature: Demand "
+                                        "Data_Info": "States of Nature: Demand ",
+                                        "merge": "4"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -3662,7 +3667,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<span style=\"font-size:0.72em\">Values in parentheses are negative numbers.</span> "
+                                        "Data_Info": "<span style=\"font-size:0.72em\">Values in parentheses are negative numbers.</span> ",
+                                        "merge": "4"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -3730,7 +3736,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "<strong>PAYOFF TABLE 2</strong> "
+                                "Heading": "<strong>PAYOFF TABLE 2</strong> ",
+                                "merge": "4"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -3742,7 +3749,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "States of Nature: Demand "
+                                        "Data_Info": "States of Nature: Demand ",
+                                        "merge": "4"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -3847,7 +3855,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<span style=\"font-size:0.72em\">Values in parentheses are negative numbers.</span> "
+                                        "Data_Info": "<span style=\"font-size:0.72em\">Values in parentheses are negative numbers.</span> ",
+                                        "merge": "4"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",

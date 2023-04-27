@@ -602,7 +602,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Direct expenses (per contract):"
+                                "Heading": "Direct expenses (per contract):",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -620,7 +621,7 @@ Lesson_Data_File([
                                         "Data_Info": "$60"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -633,7 +634,7 @@ Lesson_Data_File([
                                         "Data_Info": "$250"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -646,7 +647,7 @@ Lesson_Data_File([
                                         "Data_Info": "$20"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -659,7 +660,7 @@ Lesson_Data_File([
                                         "Data_Info": "$100"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -672,7 +673,7 @@ Lesson_Data_File([
                                         "Data_Info": "<strong>$430</strong>"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             }
@@ -698,7 +699,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Allocated indirect expenses (per contract):"
+                                "Heading": "Allocated indirect expenses (per contract):",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -716,7 +718,7 @@ Lesson_Data_File([
                                         "Data_Info": "$30"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -729,7 +731,7 @@ Lesson_Data_File([
                                         "Data_Info": "$20"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -742,7 +744,7 @@ Lesson_Data_File([
                                         "Data_Info": "$300"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -755,7 +757,7 @@ Lesson_Data_File([
                                         "Data_Info": "<strong>$350</strong>"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             }
@@ -1339,7 +1341,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Accumulated value"
+                                "Heading": "Accumulated value",
+                                "merge": "2"
                             },
                             {
                                 "Heading": "Commission"
@@ -1363,7 +1366,7 @@ Lesson_Data_File([
                                         "Data_Info": "$2,500 ($250,000 × 0.01)"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -1379,7 +1382,7 @@ Lesson_Data_File([
                                         "Data_Info": "$2,600 ($260,000 × 0.01)"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -1395,7 +1398,7 @@ Lesson_Data_File([
                                         "Data_Info": "$2,704 ($270,400 × 0.01)"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -1411,7 +1414,7 @@ Lesson_Data_File([
                                         "Data_Info": "$2,812 ($281,216 × 0.01)"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -1427,14 +1430,15 @@ Lesson_Data_File([
                                         "Data_Info": "$2,925 ($292,464 × 0.01)"
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Total commissions for five-year period:</strong> $13,541"
+                                        "Data_Info": "<strong>Total commissions for five-year period:</strong> $13,541",
+                                        "merge": "3"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",

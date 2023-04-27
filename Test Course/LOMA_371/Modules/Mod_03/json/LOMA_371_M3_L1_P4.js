@@ -422,7 +422,8 @@ Lesson_Data_File([
                                 "Heading": "Annual Earnings"
                             },
                             {
-                                "Heading": "Present Value of Annual Earnings"
+                                "Heading": "Present Value of Annual Earnings",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -440,7 +441,8 @@ Lesson_Data_File([
                                         "Data_Info": "$50"
                                     },
                                     {
-                                        "Data_Info": "$45.45"
+                                        "Data_Info": "$45.45",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -456,7 +458,8 @@ Lesson_Data_File([
                                         "Data_Info": "$50"
                                     },
                                     {
-                                        "Data_Info": "$41.30"
+                                        "Data_Info": "$41.30",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",
@@ -472,7 +475,8 @@ Lesson_Data_File([
                                         "Data_Info": "$50"
                                     },
                                     {
-                                        "Data_Info": "$37.55"
+                                        "Data_Info": "$37.55",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -488,7 +492,8 @@ Lesson_Data_File([
                                         "Data_Info": "$50"
                                     },
                                     {
-                                        "Data_Info": "$34.15"
+                                        "Data_Info": "$34.15",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",
@@ -504,7 +509,8 @@ Lesson_Data_File([
                                         "Data_Info": "$50"
                                     },
                                     {
-                                        "Data_Info": "$31.05"
+                                        "Data_Info": "$31.05",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -514,7 +520,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Total PV of earnings: $189.50</strong>"
+                                        "Data_Info": "<strong>Total PV of earnings: $189.50</strong>",
+                                        "merge": "3"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",
@@ -776,7 +783,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Total PV of earnings: $167.65</strong>"
+                                        "Data_Info": "<strong>Total PV of earnings: $167.65</strong>",
+                                        "merge": "3"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",

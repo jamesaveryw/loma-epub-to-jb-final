@@ -608,7 +608,7 @@ Lesson_Data_File([
                                         "Data_Info": "<u>x 0.30</u> "
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .3)",
+                                "Row_Data_Color": "rgb(232, 241, 248)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             },
@@ -627,7 +627,7 @@ Lesson_Data_File([
                                         "Data_Info": "<strong>$300 </strong> "
                                     }
                                 ],
-                                "Row_Data_Color": "rgba(0, 105, 173, .09)",
+                                "Row_Data_Color": "rgb(178, 210, 230)",
                                 "Row_Data_Height": "",
                                 "Row_Data_Font_Whole": "center,#000000"
                             }

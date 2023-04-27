@@ -1286,7 +1286,8 @@ Lesson_Data_File([
                                 "Heading": "&nbsp;"
                             },
                             {
-                                "Heading": "Reporting Basis"
+                                "Heading": "Reporting Basis",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",

@@ -1580,7 +1580,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Total of squared distances = 9,539,750</strong> "
+                                        "Data_Info": "<strong>Total of squared distances = 9,539,750</strong> ",
+                                        "merge": "3"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .3)",
@@ -1590,7 +1591,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Variance (9,539,750 ÷ 6) = 1,589,958</strong> "
+                                        "Data_Info": "<strong>Variance (9,539,750 ÷ 6) = 1,589,958</strong> ",
+                                        "merge": "3"
                                     }
                                 ],
                                 "Row_Data_Color": "rgba(0, 105, 173, .09)",

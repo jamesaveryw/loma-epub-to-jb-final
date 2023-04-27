@@ -17,7 +17,7 @@ var course_settings = {
 
 		// resources
 		Lesson_Summaries: false,
-		Add_Docs: true,
+		Add_Docs: false,
 		Answer_Key: false,
 		Course_Glossary: false,
 		Study_Plan: true,
@@ -30,7 +30,7 @@ var course_settings = {
 		course_locale: "en-US", // en-US || zh-CN (Simplified) || zh-TW (Traditional) || fr-CA
 
 		LM_Logo: "LOMA_logo_Tagline_Reverse.png", // loma_blue.png, sri_logo_rev.png, or LLG.png
-		Course_Title: "b",
+		Course_Title: "Institutional Investing: Principles and Practices",
 
 		//HYBRID
 		About: {
@@ -81,8 +81,6 @@ var course_settings = {
 			// If HIOC, list of leaning objectives.
 			// If Hybrid/PDF, list of chapters.
 			List: [
-				{ List_info: "" },
-				{ List_info: "" },
 				{ List_info: "" },
 				{ List_info: "" },
 				{ List_info: "" },

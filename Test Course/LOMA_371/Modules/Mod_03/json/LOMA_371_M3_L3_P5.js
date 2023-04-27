@@ -151,10 +151,12 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "&nbsp;"
+                                "Heading": "&nbsp;",
+                                "merge": "2"
                             },
                             {
-                                "Heading": "Transaction Charges"
+                                "Heading": "Transaction Charges",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",

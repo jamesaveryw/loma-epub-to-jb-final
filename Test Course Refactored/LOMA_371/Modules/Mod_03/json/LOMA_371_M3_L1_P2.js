@@ -1568,7 +1568,8 @@ Lesson_Data_File([
                                 "Heading": "Periods (<em>n</em>)"
                             },
                             {
-                                "Heading": "Interest rate (<em>i</em>)"
+                                "Heading": "Interest rate (<em>i</em>)",
+                                "merge": "4"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -2824,7 +2825,8 @@ Lesson_Data_File([
                                 "Heading": "Periods (<em>n</em>)"
                             },
                             {
-                                "Heading": "Interest rate (<em>i</em>)"
+                                "Heading": "Interest rate (<em>i</em>)",
+                                "merge": "4"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",

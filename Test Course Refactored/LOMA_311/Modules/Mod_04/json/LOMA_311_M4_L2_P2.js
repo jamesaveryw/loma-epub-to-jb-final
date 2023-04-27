@@ -2653,7 +2653,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "<strong>Policy Loans and Withdrawals</strong> "
+                                "Heading": "<strong>Policy Loans and Withdrawals</strong> ",
+                                "merge": "4"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",

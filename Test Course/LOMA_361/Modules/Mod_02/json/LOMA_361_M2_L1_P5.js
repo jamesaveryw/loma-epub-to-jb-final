@@ -686,7 +686,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Balance Sheet Valuation of Bonds for Life and Fraternal Companies<br/>Maintaining an Asset Valuation Reserve (AVR)"
+                                "Heading": "Balance Sheet Valuation of Bonds for Life and Fraternal Companies<br/>Maintaining an Asset Valuation Reserve (AVR)",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -2585,7 +2586,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Balance Sheet Valuation of Preferred Stock for Life and Fraternal<br/>Companies Maintaining an Asset Valuation Reserve (AVR)"
+                                "Heading": "Balance Sheet Valuation of Preferred Stock for Life and Fraternal<br/>Companies Maintaining an Asset Valuation Reserve (AVR)",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",

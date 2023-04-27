@@ -237,7 +237,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Balance Sheet</strong> "
+                                        "Data_Info": "<strong>Balance Sheet</strong> ",
+                                        "merge": "2"
                                     }
                                 ],
                                 "Row_Data_Color": "",

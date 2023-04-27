@@ -1983,7 +1983,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Expected Hours Per Month"
+                                "Heading": "Expected Hours Per Month",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -2151,7 +2152,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "<strong><span style=\"color:#FFFFFF\">New Portal Training and Delivery Budget</span></strong> "
+                                "Heading": "<strong><span style=\"color:#FFFFFF\">New Portal Training and Delivery Budget</span></strong> ",
+                                "merge": "5"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -2361,7 +2363,8 @@ Lesson_Data_File([
                             {
                                 "Row_Data": [
                                     {
-                                        "Data_Info": "<strong>Total</strong> "
+                                        "Data_Info": "<strong>Total</strong> ",
+                                        "merge": "4"
                                     },
                                     {
                                         "Data_Info": "<strong>$159,900</strong> "

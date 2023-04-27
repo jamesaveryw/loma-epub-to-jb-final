@@ -160,7 +160,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Balance Sheet<br/>Common Stock Issue and Sale"
+                                "Heading": "Balance Sheet<br/>Common Stock Issue and Sale",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
@@ -259,7 +260,8 @@ Lesson_Data_File([
                     {
                         "Col_Heading": [
                             {
-                                "Heading": "Balance Sheet<br/>Preferred Stock Issue and Sale"
+                                "Heading": "Balance Sheet<br/>Preferred Stock Issue and Sale",
+                                "merge": "2"
                             }
                         ],
                         "Row_Heading_Color": "#0069ad",
