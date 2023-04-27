@@ -435,7 +435,7 @@ Lesson_Data_File([
             {
                 "Video_Files_New": [
                     {
-                        "Video": "https://loma.azureedge.net/videos/LOMA311/4-1video.mp4",
+                        "Video": "https://loma.azureedge.net/videos/LOMA311/311_Video4-1.mp4",
                         "Expert_View": "no",
                         "Expert_View_Alt": "The is for the expert view video series",
                         "top_margin": "20px",
@@ -732,7 +732,7 @@ Lesson_Data_File([
             {
                 "Video_Files_New": [
                     {
-                        "Video": "https://loma.azureedge.net/videos/LOMA311/4-2video.mp4",
+                        "Video": "https://loma.azureedge.net/videos/LOMA311/311_Video4-2.mp4",
                         "Expert_View": "no",
                         "Expert_View_Alt": "The is for the expert view video series",
                         "top_margin": "20px",
@@ -1284,7 +1284,7 @@ Lesson_Data_File([
             {
                 "Video_Files_New": [
                     {
-                        "Video": "https://loma.azureedge.net/videos/LOMA311/4-3video.mp4",
+                        "Video": "https://loma.azureedge.net/videos/LOMA311/311_Video4-3.mp4",
                         "Expert_View": "no",
                         "Expert_View_Alt": "The is for the expert view video series",
                         "top_margin": "20px",

@@ -10,6 +10,7 @@ module.exports = {
 	beginConversion: function (path, contents) {
 		let modules = contents.modules;
 		let toc = [];
+		let videoIter = 1;
 
 		// module loop
 		for (let i = 0; i < modules.length; i++) {
@@ -18,10 +19,26 @@ module.exports = {
 
 			// lesson loop
 			for (let j = 0; j < lessons.length; j++) {
+				console.log(`M${i+1}_L${j+1}`);
+				let altKeys = [];
+
+				if (j > 0) {
+					altKeys = Object.keys(lessons[j - 1].altText);
+				}
+				else if (i > 0 && j == 0) {
+					altKeys = Object.keys(modules[i - 1].lessons[modules[i - 1].lessons.length - 1].altText);
+				}
+				console.log(altKeys);
 				
+				
+				for (let alt of altKeys) {
+					if (/video/i.test(alt)) {
+						videoIter++;
+					}
+				}
 				// returns lesson toc array after building
 				// the JB pages
-				let lessonPages = lessonBuilder.initialize(lessons[j], j + 1, i + 1, path, contents.course_id);
+				let lessonPages = lessonBuilder.initialize(lessons[j], j + 1, i + 1, path, contents.course_id, videoIter);
 
 				// add lesson toc main page to array
 				lessonPages.unshift( {
@@ -68,7 +85,7 @@ function slice(nodes) {
 }
 
 let lessonBuilder = {
-	initialize: function (lesson, lessonNum, modNum, path, courseID) {
+	initialize: function (lesson, lessonNum, modNum, path, courseID, videoIter) {
 		lessonBuilder.modPath = lesson.pages[0].path.replace(/(C:.*?\\EPUB\\)xhtml\\chapter\d+\\page\d*\.xhtml/, '$1');
 		lessonBuilder.chapter = lesson.pages[0].path.replace(/C:.*?\\EPUB\\xhtml\\chapter(\d+)\\page\d*\.xhtml/, '$1');
 		lessonBuilder.lessonNum = lessonNum;
@@ -87,8 +104,11 @@ let lessonBuilder = {
 		// keeps track of heading level for
 		// example and insight boxes
 		lessonBuilder.hLevel;
+		// will assign dom to this
 		lessonBuilder.doc;
 		lessonBuilder.prevSnippet;
+		// counts how many videos are in the course
+		lessonBuilder.videoIter = videoIter;
 
 		// compare pages.length to objectives.length
 		// assign objectives if equal
@@ -378,6 +398,7 @@ let lessonBuilder = {
 			// video
 			if (/video/.test(pageEl.id) && /figure/.test(pageEl.className)) {
 				JB_Page[0].JBuilder_Content.push(buildVideo(pageEl));
+				lessonBuilder.videoIter++;
 			}
 
 			// 311 widgets
@@ -1000,7 +1021,31 @@ function buildFigure(figure) {
 function buildVideo(pageEl) {
 	lessonBuilder.prevSnippet = "video";
 	let vidID = pageEl.id;
-	let source = `https://loma.azureedge.net/videos/${lessonBuilder.course_id.replace(/([A-Z]+)_(\d+)/, '$1$2')}/${pageEl.querySelector('source').getAttribute('src').replace(/\.\.\/\.\.\/video\/(\d+-\d+video\.mp4)/, '$1')}`;
+
+	let vidNum = pageEl.querySelector('source').getAttribute('src').replace(/\.\.\/\.\.\/video\/(\d+-\d+)video\.mp4/, '$1');
+	let videoFile;
+
+	switch (lessonBuilder.course_id.replace(/([A-Z]+)_(\d+)/, '$1$2')) {
+		case 'LOMA311':
+			videoFile = `311_Video${vidNum}.mp4`;
+			break;
+
+		case 'LOMA335':
+			videoFile = `${vidNum}video.mp4`;
+			break;
+
+		case 'LOMA357':
+			videoFile = `${vidNum}Video-${lessonBuilder.videoIter}.mp4`
+			break;
+
+		case 'LOMA361':
+		case 'LOMA371':
+			videoFile = `${vidNum}Video.mp4`;
+			break;
+
+	}
+
+	let source = `https://loma.azureedge.net/videos/${lessonBuilder.course_id.replace(/([A-Z]+)_(\d+)/, '$1$2')}/${videoFile}`;
 
 	let JB_Video = JB.JB_Video();
 
