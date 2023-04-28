@@ -1294,7 +1294,7 @@ Lesson_Data_File([
             {
                 "Video_Files_New": [
                     {
-                        "Video": "https://loma.azureedge.net/videos/LOMA357/8-1video.mp4",
+                        "Video": "https://loma.azureedge.net/videos/LOMA357/8-1Video-9.mp4",
                         "Expert_View": "no",
                         "Expert_View_Alt": "The is for the expert view video series",
                         "top_margin": "20px",
@@ -1444,7 +1444,7 @@ Lesson_Data_File([
             {
                 "Video_Files_New": [
                     {
-                        "Video": "https://loma.azureedge.net/videos/LOMA357/8-2video.mp4",
+                        "Video": "https://loma.azureedge.net/videos/LOMA357/8-2Video-10.mp4",
                         "Expert_View": "no",
                         "Expert_View_Alt": "The is for the expert view video series",
                         "top_margin": "20px",

@@ -259,7 +259,7 @@ Lesson_Data_File([
             {
                 "Video_Files_New": [
                     {
-                        "Video": "https://loma.azureedge.net/videos/LOMA361/8-2video.mp4",
+                        "Video": "https://loma.azureedge.net/videos/LOMA361/8-2Video.mp4",
                         "Expert_View": "no",
                         "Expert_View_Alt": "The is for the expert view video series",
                         "top_margin": "20px",
